@@ -58,12 +58,14 @@ app = FastAPI(title="Wren Syllabus Backend", version="1.0")
 async def _startup():
     await premium.init_db()
     await chat_history.init_db()
+    await auth.init_db()
 
 
 @app.on_event("shutdown")
 async def _shutdown():
     await premium.close_db()
     await chat_history.close_db()
+    await auth.close_db()
 
 # ── Error / crash logging ────────────────────────────────────────────────
 # Every request gets a short request_id. It's included in:
@@ -416,10 +418,10 @@ async def premium_reset_route(
 # See auth.py for the full design notes.
 
 @app.get("/auth/google/start", response_model=auth.AuthStartResponse)
-def auth_google_start_route(req: Request, x_app_secret: str = Header(default="")):
+async def auth_google_start_route(req: Request, x_app_secret: str = Header(default="")):
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
-    return auth.auth_google_start(rid)
+    return await auth.auth_google_start(rid)
 
 
 @app.get("/auth/google/callback")
@@ -433,10 +435,10 @@ async def auth_google_callback_route(code: str, state: str, req: Request):
 
 
 @app.get("/auth/google/status/{session_id}", response_model=auth.AuthStatusResponse)
-def auth_google_status_route(session_id: str, req: Request, x_app_secret: str = Header(default="")):
+async def auth_google_status_route(session_id: str, req: Request, x_app_secret: str = Header(default="")):
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
-    return auth.auth_google_status(session_id, rid)
+    return await auth.auth_google_status(session_id, rid)
 
 
 # ── Chat history (email-scoped sync) ─────────────────────────────────────
