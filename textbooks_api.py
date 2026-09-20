@@ -166,7 +166,15 @@ def get_page_path(book_id: str, page: int) -> Path:
                 pix = doc[page - 1].get_pixmap(dpi=RENDER_DPI,
                                                 colorspace=fitz.csRGB,
                                                 alpha=False)
-                pix.save(str(tmp))
+                # pix.save() infers the output format from the filename's
+                # extension when `output` isn't given — and tmp is named
+                # "page_0001.jpg.part", whose actual extension is ".part",
+                # not ".jpg". That's what threw the
+                # "Image format part not in (...)" ValueError you saw:
+                # pass the format explicitly so the ".part" suffix on the
+                # temp file (needed for the atomic rename below) can't
+                # confuse it.
+                pix.save(str(tmp), output="jpg")
     except PageOutOfRange:
         raise
     except Exception as e:
