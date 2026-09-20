@@ -807,4 +807,8 @@ def get_textbook_page(book_id: str, page: int, req: Request,
         log.warning(f"[{rid}] /textbooks/{book_id}/page/{page}: page out of range")
         raise HTTPException(status_code=404,
                              detail={"error": "page out of range", "request_id": rid})
+    except textbooks_api.PageRenderError as e:
+        log.error(f"[{rid}] /textbooks/{book_id}/page/{page}: render failed — {e}")
+        raise HTTPException(status_code=500,
+                             detail={"error": "page render failed", "request_id": rid})
     return FileResponse(path, media_type="image/jpeg", headers={"X-Request-ID": rid})
