@@ -47,10 +47,13 @@ Install: pip install pymupdf   (add to requirements.txt)
 
 import os
 import hashlib
+import logging
 import threading
 from pathlib import Path
 
 import fitz  # PyMuPDF
+
+log = logging.getLogger("wren-backend")
 
 TEXTBOOKS_DIR = Path(os.environ.get("TEXTBOOKS_DIR", "./textbooks")).resolve()
 CACHE_DIR     = Path(os.environ.get("TEXTBOOKS_CACHE_DIR", "./textbooks_cache")).resolve()
@@ -75,6 +78,15 @@ class TextbookNotFound(Exception):
 class PageOutOfRange(Exception):
     """Raised when the requested page number isn't in the document.
     main.py catches this and turns it into a 404."""
+    pass
+
+
+class PageRenderError(Exception):
+    """Raised when the PDF opens fine (it's in the /textbooks listing)
+    but rendering *this* page to a JPEG fails — e.g. a scanned page in
+    a CMYK/indexed/exotic colorspace that PyMuPDF can't hand straight
+    to a JPEG encoder. main.py catches this and turns it into a 500
+    with an actual message instead of a bare, unlogged crash."""
     pass
 
 
@@ -137,11 +149,32 @@ def get_page_path(book_id: str, page: int) -> Path:
 
     dest.parent.mkdir(parents=True, exist_ok=True)
     tmp = dest.with_suffix(dest.suffix + ".part")
-    with _render_lock:
-        with fitz.open(meta["path"]) as doc:
-            if page < 1 or page > doc.page_count:
-                raise PageOutOfRange(page)
-            pix = doc[page - 1].get_pixmap(dpi=RENDER_DPI)
-            pix.save(str(tmp))
+    try:
+        with _render_lock:
+            with fitz.open(meta["path"]) as doc:
+                if page < 1 or page > doc.page_count:
+                    raise PageOutOfRange(page)
+                # Force RGB explicitly. Without this, get_pixmap() can
+                # hand back a pixmap in whatever colorspace the source
+                # page uses (CMYK, indexed, an embedded ICC profile —
+                # all common in scanned textbook PDFs), and pix.save()
+                # to .jpg then throws deep inside MuPDF since JPEG
+                # can't encode most of those directly. That throw was
+                # previously uncaught here, producing the bare 500
+                # you're seeing with no logged reason.
+                pix = doc[page - 1].get_pixmap(dpi=RENDER_DPI,
+                                                colorspace=fitz.csRGB,
+                                                alpha=False)
+                pix.save(str(tmp))
+    except PageOutOfRange:
+        raise
+    except Exception as e:
+        try:
+            if tmp.exists():
+                tmp.unlink()
+        except Exception:
+            pass
+        log.exception(f"textbooks: failed to render {book_id} page {page}")
+        raise PageRenderError(f"{book_id} page {page}: {e}") from e
     tmp.replace(dest)
     return dest
