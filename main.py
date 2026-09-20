@@ -41,7 +41,7 @@ import asyncio
 import logging
 import traceback
 from fastapi import FastAPI, Header, HTTPException, Request, UploadFile, File, Form
-from fastapi.responses import StreamingResponse, PlainTextResponse, JSONResponse
+from fastapi.responses import StreamingResponse, PlainTextResponse, JSONResponse, FileResponse
 from pydantic import BaseModel
 from typing import Optional
 import httpx
@@ -50,6 +50,7 @@ import rag_engine
 import premium
 import auth
 import chat_history
+import textbooks_api
 
 app = FastAPI(title="Wren Syllabus Backend", version="1.0")
 
@@ -777,3 +778,33 @@ async def download_model(key: str, req: Request, x_app_secret: str = Header(defa
 
     return StreamingResponse(_stream(), status_code=200, headers=headers,
                               media_type="application/octet-stream")
+
+
+# ── Textbook Library ─────────────────────────────────────────────────────
+# Backing logic lives in textbooks_api.py (plain module, same split as
+# rag_engine.py) — add PDFs under textbooks/<Subject>/<Title>.pdf in
+# the repo, no upload endpoint needed. See textbooks_api.py's module
+# docstring for the full folder convention and Render persistence notes.
+@app.get("/textbooks")
+def get_textbooks(req: Request, x_app_secret: str = Header(default="")):
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    return {"textbooks": textbooks_api.list_textbooks()}
+
+
+@app.get("/textbooks/{book_id}/page/{page}")
+def get_textbook_page(book_id: str, page: int, req: Request,
+                       x_app_secret: str = Header(default="")):
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    try:
+        path = textbooks_api.get_page_path(book_id, page)
+    except textbooks_api.TextbookNotFound:
+        log.warning(f"[{rid}] /textbooks/{book_id}/page/{page}: unknown textbook")
+        raise HTTPException(status_code=404,
+                             detail={"error": "textbook not found", "request_id": rid})
+    except textbooks_api.PageOutOfRange:
+        log.warning(f"[{rid}] /textbooks/{book_id}/page/{page}: page out of range")
+        raise HTTPException(status_code=404,
+                             detail={"error": "page out of range", "request_id": rid})
+    return FileResponse(path, media_type="image/jpeg", headers={"X-Request-ID": rid})
