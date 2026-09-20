@@ -49,6 +49,7 @@ import os
 import hashlib
 import logging
 import threading
+import traceback
 from pathlib import Path
 
 import fitz  # PyMuPDF
@@ -174,7 +175,14 @@ def get_page_path(book_id: str, page: int) -> Path:
                 tmp.unlink()
         except Exception:
             pass
+        tb = traceback.format_exc()
         log.exception(f"textbooks: failed to render {book_id} page {page}")
-        raise PageRenderError(f"{book_id} page {page}: {e}") from e
+        # Full traceback rides in the exception message (not just log.exception)
+        # because Render's log tab isn't live for this dev — main.py puts this
+        # straight into the HTTP response body, and the app's TextbookManager
+        # forwards it into Settings > Developer Options, so the real MuPDF
+        # error is visible on-device without touching server logs at all.
+        raise PageRenderError(
+            f"{type(e).__name__}: {e}\n---\n{tb[-1200:]}") from e
     tmp.replace(dest)
     return dest
