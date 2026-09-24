@@ -51,6 +51,8 @@ import logging
 import datetime as dt
 from typing import Optional
 
+import json
+
 import httpx
 import asyncpg
 from fastapi import HTTPException
@@ -119,6 +121,24 @@ def _normalize_email(email):
     return (email or "").strip().lower()
 
 
+def _parse_paystack_json(resp, rid, endpoint):
+    """Paystack normally returns JSON, but under transient load (gateway
+    timeouts, Cloudflare hiccups) a non-2xx response sometimes comes back
+    as an HTML error page instead. resp.json() raises on that, which
+    turned an occasional upstream hiccup into an unhandled 500 instead of
+    the clean 502 this module intends - that's most of the "verification
+    fails sometimes" reports. Parse defensively so those cases fail the
+    same clean way as a normal Paystack error response."""
+    try:
+        return resp.json()
+    except ValueError:
+        log.error(f"[{rid}] {endpoint}: Paystack returned non-JSON "
+                  f"(status={resp.status_code}): {resp.text[:200]!r}")
+        raise HTTPException(status_code=502,
+                             detail={"error": "paystack returned an invalid response",
+                                     "source": "paystack", "request_id": rid})
+
+
 class InitializeRequest(BaseModel):
     device_id: str
     email: str
@@ -177,7 +197,7 @@ async def premium_initialize(payload, rid):
                                  detail={"error": f"upstream request failed: {e}",
                                          "source": "paystack", "request_id": rid})
 
-    body = resp.json()
+    body = _parse_paystack_json(resp, rid, "/premium/initialize")
     if resp.status_code != 200 or not body.get("status"):
         log.error(f"[{rid}] /premium/initialize: Paystack error {resp.status_code}: {body}")
         raise HTTPException(status_code=502,
@@ -205,7 +225,7 @@ async def premium_verify(reference, rid):
                                  detail={"error": f"upstream request failed: {e}",
                                          "source": "paystack", "request_id": rid})
 
-    body = resp.json()
+    body = _parse_paystack_json(resp, rid, "/premium/verify")
     if resp.status_code != 200 or not body.get("status"):
         log.error(f"[{rid}] /premium/verify: Paystack error {resp.status_code}: {body}")
         raise HTTPException(status_code=502,
@@ -215,6 +235,19 @@ async def premium_verify(reference, rid):
     data = body["data"]
     paystack_status = data.get("status")
     meta = data.get("metadata") or {}
+    if isinstance(meta, str):
+        # Paystack occasionally round-trips metadata as a JSON-encoded
+        # string instead of the object we sent - a known quirk that
+        # depends on the payment channel/dashboard settings, not
+        # something under our control. meta.get(...) below would raise
+        # AttributeError on a str, which is the other big source of
+        # intermittent verify failures. Decode it back to a dict.
+        try:
+            meta = json.loads(meta)
+        except (ValueError, TypeError):
+            log.error(f"[{rid}] /premium/verify: reference={reference} "
+                      f"metadata was a string and not valid JSON: {meta!r}")
+            meta = {}
     device_id = meta.get("device_id")
     email = _normalize_email(meta.get("email") or (data.get("customer") or {}).get("email"))
 
