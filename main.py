@@ -21,6 +21,7 @@ Endpoints:
     DELETE /premium/reset/{email}    — TESTING ONLY: wipe an email's premium record
     GET  /auth/google/start          — get a Google sign-in URL + session_id
     GET  /auth/google/callback       — Google redirects here after sign-in
+    POST /auth/google/confirm        — browser page submits the code shown in the app
     GET  /auth/google/status/{id}    — poll: has this session's sign-in completed?
     POST /chats/save                 — upsert one chat for an email
     GET  /chats/{email}              — fetch every chat saved for an email
@@ -351,9 +352,14 @@ async def premium_initialize_route(
     payload: premium.InitializeRequest,
     req: Request,
     x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
 ):
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
+    # The purchase gets attached to this email, so the caller must be signed
+    # in as it - otherwise anyone could start (and lock in) a purchase for
+    # somebody else's address.
+    auth.require_user(payload.email, x_auth_token, rid)
     return await premium.premium_initialize(payload, rid)
 
 
@@ -403,6 +409,7 @@ async def premium_reset_route(
     email: str,
     req: Request,
     x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
 ):
     """TESTING ONLY — wipes any premium record for an email so the
     purchase flow can be re-run from scratch. Same X-App-Secret gate as
@@ -412,6 +419,7 @@ async def premium_reset_route(
     production admin feature."""
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
+    auth.require_user(email, x_auth_token, rid)   # only your own record, even when enabled
     return await premium.premium_reset(email, rid)
 
 
@@ -419,7 +427,9 @@ async def premium_reset_route(
 # App opens a browser to /auth/google/start's authorization_url, Google
 # redirects back to /auth/google/callback on this backend, and the app
 # polls /auth/google/status/{session_id} until the verified email shows
-# up — same shape as the Paystack initialize/verify polling above.
+# up — same shape as the Paystack initialize/verify polling above. The
+# user also types the code shown in the app into the browser page
+# (/auth/google/confirm) before the session is released.
 # See auth.py for the full design notes.
 
 @app.get("/auth/google/start", response_model=auth.AuthStartResponse)
@@ -430,13 +440,27 @@ async def auth_google_start_route(req: Request, x_app_secret: str = Header(defau
 
 
 @app.get("/auth/google/callback")
-async def auth_google_callback_route(code: str, state: str, req: Request):
+async def auth_google_callback_route(req: Request, code: str = "", state: str = "",
+                                     error: str = ""):
     # No X-App-Secret here on purpose — Google itself calls this URL
     # via browser redirect, not the app, so it can't attach that
-    # header. Security instead comes from verifying the ID token's
-    # signature server-side in auth.py.
+    # header. Security instead comes from (a) the session having been
+    # created by /start, (b) verifying the ID token's signature
+    # server-side in auth.py, and (c) the confirmation code step.
+    # `code`/`error` are optional because Google sends ?error=access_denied
+    # (no code) when the user taps Cancel.
     rid = req.state.rid
-    return await auth.auth_google_callback(code, state, rid)
+    return await auth.auth_google_callback(code, state, rid, error=error)
+
+
+@app.post("/auth/google/confirm")
+async def auth_google_confirm_route(req: Request, state: str = Form(default=""),
+                                    code: str = Form(default="")):
+    # Submitted by the HTML page the callback returns, from the user's
+    # browser — so also no X-App-Secret. The session_id (state) is an
+    # unguessable 32-char token and wrong codes burn the session.
+    rid = req.state.rid
+    return await auth.auth_google_confirm(state, code, rid)
 
 
 @app.get("/auth/google/status/{session_id}", response_model=auth.AuthStatusResponse)
@@ -457,9 +481,14 @@ async def chats_save_route(
     payload: chat_history.ChatSaveRequest,
     req: Request,
     x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
 ):
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
+    # X-App-Secret ships inside every APK, so it only proves "this is the
+    # Wren app". The sign-in token proves WHICH USER, and must match the
+    # email whose chats are being written.
+    auth.require_user(getattr(payload, "email", ""), x_auth_token, rid)
     return await chat_history.chats_save(payload, rid)
 
 
@@ -468,9 +497,11 @@ async def chats_list_route(
     email: str,
     req: Request,
     x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
 ):
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
+    auth.require_user(email, x_auth_token, rid)
     return await chat_history.chats_list(email, rid)
 
 
@@ -480,9 +511,11 @@ async def chat_delete_route(
     chat_id: str,
     req: Request,
     x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
 ):
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
+    auth.require_user(email, x_auth_token, rid)
     return await chat_history.chat_delete(email, chat_id, rid)
 
 
@@ -491,9 +524,11 @@ async def chats_delete_all_route(
     email: str,
     req: Request,
     x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
 ):
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
+    auth.require_user(email, x_auth_token, rid)
     return await chat_history.chats_delete_all(email, rid)
 
 
