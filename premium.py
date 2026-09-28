@@ -47,6 +47,7 @@ every other route on this backend.
 """
 
 import os
+import asyncio
 import logging
 import datetime as dt
 from typing import Optional
@@ -55,6 +56,7 @@ import json
 
 import httpx
 import asyncpg
+from urllib.parse import quote
 from fastapi import HTTPException
 from pydantic import BaseModel
 
@@ -154,6 +156,42 @@ def _normalize_email(email):
     return (email or "").strip().lower()
 
 
+# Server-side Paystack budget. The phone app waits up to ~45s for our reply
+# (see _poll_premium_verify in wren.py), so this must stay well below that:
+# worst case here is 2 x 10s + 0.5s. It used to be a flat 20s with no retry,
+# which is the SAME number as the app's read timeout - so when Paystack was
+# slow, the app gave up at the exact moment we would have answered, and a
+# single Paystack hiccup was shown as "ReadTimeout".
+_PAYSTACK_TIMEOUT = httpx.Timeout(10.0, connect=5.0)
+
+
+async def _paystack_request(method, path, rid, endpoint, **kwargs):
+    """Call Paystack with a bounded timeout and ONE retry. GETs are safe to
+    retry on any network error; a POST is only retried when the connection
+    itself never opened (so we can't create a transaction twice)."""
+    last = None
+    async with httpx.AsyncClient(timeout=_PAYSTACK_TIMEOUT) as client:
+        for attempt in (1, 2):
+            try:
+                return await client.request(
+                    method, f"{PAYSTACK_BASE_URL}{path}",
+                    headers={"Authorization": f"Bearer {PAYSTACK_SECRET_KEY}"},
+                    **kwargs)
+            except httpx.RequestError as e:
+                last = e
+                safe_to_retry = (method == "GET"
+                                 or isinstance(e, (httpx.ConnectError, httpx.ConnectTimeout)))
+                log.warning(f"[{rid}] {endpoint}: Paystack attempt {attempt} failed: {e!r}")
+                if attempt == 1 and safe_to_retry:
+                    await asyncio.sleep(0.5)
+                    continue
+                break
+    log.error(f"[{rid}] {endpoint}: Paystack request failed: {last!r}")
+    raise HTTPException(status_code=502,
+                         detail={"error": f"upstream request failed: {last or 'timeout'}",
+                                 "source": "paystack", "request_id": rid})
+
+
 def _parse_paystack_json(resp, rid, endpoint):
     """Paystack normally returns JSON, but under transient load (gateway
     timeouts, Cloudflare hiccups) a non-2xx response sometimes comes back
@@ -218,23 +256,15 @@ async def premium_initialize(payload, rid):
             log.info(f"[{rid}] /premium/initialize: email={email} already has active premium - rejecting")
             raise HTTPException(status_code=409, detail={"error": "email already used", "request_id": rid})
 
-    async with httpx.AsyncClient(timeout=20) as client:
-        try:
-            resp = await client.post(
-                f"{PAYSTACK_BASE_URL}/transaction/initialize",
-                headers={"Authorization": f"Bearer {PAYSTACK_SECRET_KEY}"},
-                json={
-                    "email": email,
-                    "amount": PREMIUM_PRICE_KOBO,
-                    "currency": "NGN",
-                    "metadata": {"device_id": device_id, "email": email},
-                },
-            )
-        except httpx.RequestError as e:
-            log.error(f"[{rid}] /premium/initialize: Paystack request failed: {e!r}")
-            raise HTTPException(status_code=502,
-                                 detail={"error": f"upstream request failed: {e}",
-                                         "source": "paystack", "request_id": rid})
+    resp = await _paystack_request(
+        "POST", "/transaction/initialize", rid, "/premium/initialize",
+        json={
+            "email": email,
+            "amount": PREMIUM_PRICE_KOBO,
+            "currency": "NGN",
+            "metadata": {"device_id": device_id, "email": email},
+        },
+    )
 
     body = _parse_paystack_json(resp, rid, "/premium/initialize")
     if resp.status_code != 200 or not body.get("status"):
@@ -252,17 +282,11 @@ async def premium_verify(reference, rid, caller_email=None, caller_device_id=Non
     _require_pool(rid)
     _require_paystack_key(rid)
 
-    async with httpx.AsyncClient(timeout=20) as client:
-        try:
-            resp = await client.get(
-                f"{PAYSTACK_BASE_URL}/transaction/verify/{reference}",
-                headers={"Authorization": f"Bearer {PAYSTACK_SECRET_KEY}"},
-            )
-        except httpx.RequestError as e:
-            log.error(f"[{rid}] /premium/verify: Paystack request failed: {e!r}")
-            raise HTTPException(status_code=502,
-                                 detail={"error": f"upstream request failed: {e}",
-                                         "source": "paystack", "request_id": rid})
+    # `reference` comes from the URL path: percent-encode it so it can never
+    # alter the Paystack path it is spliced into.
+    resp = await _paystack_request(
+        "GET", f"/transaction/verify/{quote(str(reference), safe='')}", rid,
+        "/premium/verify")
 
     body = _parse_paystack_json(resp, rid, "/premium/verify")
     if resp.status_code != 200 or not body.get("status"):
