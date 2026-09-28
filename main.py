@@ -361,22 +361,26 @@ async def premium_initialize_route(
 async def premium_verify_route(
     reference: str,
     req: Request,
+    email: str = "",
+    device_id: str = "",
     x_app_secret: str = Header(default=""),
 ):
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
-    return await premium.premium_verify(reference, rid)
+    return await premium.premium_verify(reference, rid, caller_email=email,
+                                        caller_device_id=device_id)
 
 
 @app.get("/premium/status/{device_id}", response_model=premium.StatusResponse)
 async def premium_status_route(
     device_id: str,
     req: Request,
+    email: str = "",
     x_app_secret: str = Header(default=""),
 ):
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
-    return await premium.premium_status(device_id, rid)
+    return await premium.premium_status(device_id, rid, email=email)
 
 
 @app.post("/premium/restore", response_model=premium.StatusResponse)
