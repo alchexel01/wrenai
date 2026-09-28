@@ -44,6 +44,9 @@ Env vars required (Render dashboard, same place as the others):
 """
 
 import os
+import time
+import hmac
+import hashlib
 import logging
 import secrets
 import datetime as dt
@@ -66,6 +69,52 @@ GOOGLE_REDIRECT_URI = os.environ.get("GOOGLE_REDIRECT_URI", "").strip()
 
 GOOGLE_AUTH_ENDPOINT = "https://accounts.google.com/o/oauth2/v2/auth"
 GOOGLE_TOKEN_ENDPOINT = "https://oauth2.googleapis.com/token"
+
+# ── Sign-in proof token ────────────────────────────────────────────────
+# Typing an email proves nothing, and an email address is not a secret. So
+# when Google verifies an email, we also hand the app a signed token for
+# that exact email. Anything sensitive that is keyed by email (today:
+# /premium/restore) must present it, which proves the caller really
+# signed in with Google as that address. Stateless (HMAC), so no DB table,
+# and it works across workers/restarts.
+#
+# Signed with AUTH_TOKEN_SECRET; falls back to GOOGLE_CLIENT_SECRET so it
+# works with no new config. Set AUTH_TOKEN_SECRET (any long random string)
+# on Render to decouple it - changing it signs everyone's token out, which
+# only means they sign in with Google again before their next Restore.
+AUTH_TOKEN_SECRET = (os.environ.get("AUTH_TOKEN_SECRET", "").strip()
+                     or GOOGLE_CLIENT_SECRET)
+TOKEN_TTL_SECONDS = 180 * 24 * 3600
+
+
+def _sign(email: str, iat: int) -> str:
+    return hmac.new(AUTH_TOKEN_SECRET.encode("utf-8"),
+                    f"wren-auth-v1|{email}|{iat}".encode("utf-8"),
+                    hashlib.sha256).hexdigest()
+
+
+def make_token(email: str) -> Optional[str]:
+    email = (email or "").strip().lower()
+    if not AUTH_TOKEN_SECRET or not email:
+        return None
+    iat = int(time.time())
+    return f"{iat}.{_sign(email, iat)}"
+
+
+def verify_token(email: str, token: Optional[str]) -> bool:
+    email = (email or "").strip().lower()
+    if not AUTH_TOKEN_SECRET or not email or not token:
+        return False
+    try:
+        iat_s, sig = token.split(".", 1)
+        iat = int(iat_s)
+    except (ValueError, AttributeError):
+        return False
+    age = time.time() - iat
+    if age < -60 or age > TOKEN_TTL_SECONDS:
+        return False
+    return hmac.compare_digest(sig, _sign(email, iat))
+
 
 # How long an unfinished login session is kept before we give up on it
 # and let it be garbage-collected. Generous, since a user might sit on
@@ -137,6 +186,7 @@ class AuthStartResponse(BaseModel):
 class AuthStatusResponse(BaseModel):
     done: bool
     email: Optional[str] = None
+    token: Optional[str] = None
 
 
 async def auth_google_start(rid: str) -> AuthStartResponse:
@@ -260,7 +310,7 @@ async def auth_google_status(session_id: str, rid: str) -> AuthStatusResponse:
     email = row["email"]
     log.info(f"[{rid}] /auth/google/status: session_id={session_id[:8]}... "
              f"collected email={email}")
-    return AuthStatusResponse(done=True, email=email)
+    return AuthStatusResponse(done=True, email=email, token=make_token(email))
 
 
 def _result_page(message: str, ok: bool) -> HTMLResponse:
