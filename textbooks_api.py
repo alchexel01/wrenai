@@ -37,7 +37,7 @@ then it's cached again.
 
 HOW PAGES GET TO THE APP
 --------------------------
-PyMuPDF (fitz) runs fine here — this is your normal Render server,
+PyMuPDF (pymupdf) runs fine here — this is your normal Render server,
 not python-for-android, so none of the on-device build-recipe
 problems apply. A page is rendered to a JPEG the first time it's
 requested and cached to disk after that.
@@ -47,14 +47,13 @@ Install: pip install pymupdf   (add to requirements.txt)
 
 import os
 import hashlib
-import logging
 import threading
-import traceback
 from pathlib import Path
 
-import fitz  # PyMuPDF
-
-log = logging.getLogger("wren-backend")
+try:
+    import pymupdf  # PyMuPDF >= 1.24.3 (the `fitz` name is deprecated)
+except ImportError:  # older PyMuPDF releases only ship `fitz`
+    import fitz as pymupdf
 
 TEXTBOOKS_DIR = Path(os.environ.get("TEXTBOOKS_DIR", "./textbooks")).resolve()
 CACHE_DIR     = Path(os.environ.get("TEXTBOOKS_CACHE_DIR", "./textbooks_cache")).resolve()
@@ -63,7 +62,7 @@ RENDER_DPI    = int(os.environ.get("TEXTBOOKS_RENDER_DPI", "150"))
 TEXTBOOKS_DIR.mkdir(parents=True, exist_ok=True)
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
-# fitz page rendering isn't guaranteed safe to call concurrently across
+# pymupdf page rendering isn't guaranteed safe to call concurrently across
 # documents from multiple threads/tasks — serialize actual renders.
 # Cache hits (the common case once a book's been read once) never
 # touch this lock at all.
@@ -79,15 +78,6 @@ class TextbookNotFound(Exception):
 class PageOutOfRange(Exception):
     """Raised when the requested page number isn't in the document.
     main.py catches this and turns it into a 404."""
-    pass
-
-
-class PageRenderError(Exception):
-    """Raised when the PDF opens fine (it's in the /textbooks listing)
-    but rendering *this* page to a JPEG fails — e.g. a scanned page in
-    a CMYK/indexed/exotic colorspace that PyMuPDF can't hand straight
-    to a JPEG encoder. main.py catches this and turns it into a 500
-    with an actual message instead of a bare, unlogged crash."""
     pass
 
 
@@ -118,7 +108,7 @@ def list_textbooks():
     out = []
     for bid, meta in _scan_books().items():
         try:
-            with fitz.open(meta["path"]) as doc:
+            with pymupdf.open(meta["path"]) as doc:
                 pages = doc.page_count
         except Exception:
             # Skip a corrupt/unreadable PDF rather than failing the
@@ -150,47 +140,11 @@ def get_page_path(book_id: str, page: int) -> Path:
 
     dest.parent.mkdir(parents=True, exist_ok=True)
     tmp = dest.with_suffix(dest.suffix + ".part")
-    try:
-        with _render_lock:
-            with fitz.open(meta["path"]) as doc:
-                if page < 1 or page > doc.page_count:
-                    raise PageOutOfRange(page)
-                # Force RGB explicitly. Without this, get_pixmap() can
-                # hand back a pixmap in whatever colorspace the source
-                # page uses (CMYK, indexed, an embedded ICC profile —
-                # all common in scanned textbook PDFs), and pix.save()
-                # to .jpg then throws deep inside MuPDF since JPEG
-                # can't encode most of those directly. That throw was
-                # previously uncaught here, producing the bare 500
-                # you're seeing with no logged reason.
-                pix = doc[page - 1].get_pixmap(dpi=RENDER_DPI,
-                                                colorspace=fitz.csRGB,
-                                                alpha=False)
-                # pix.save() infers the output format from the filename's
-                # extension when `output` isn't given — and tmp is named
-                # "page_0001.jpg.part", whose actual extension is ".part",
-                # not ".jpg". That's what threw the
-                # "Image format part not in (...)" ValueError you saw:
-                # pass the format explicitly so the ".part" suffix on the
-                # temp file (needed for the atomic rename below) can't
-                # confuse it.
-                pix.save(str(tmp), output="jpg")
-    except PageOutOfRange:
-        raise
-    except Exception as e:
-        try:
-            if tmp.exists():
-                tmp.unlink()
-        except Exception:
-            pass
-        tb = traceback.format_exc()
-        log.exception(f"textbooks: failed to render {book_id} page {page}")
-        # Full traceback rides in the exception message (not just log.exception)
-        # because Render's log tab isn't live for this dev — main.py puts this
-        # straight into the HTTP response body, and the app's TextbookManager
-        # forwards it into Settings > Developer Options, so the real MuPDF
-        # error is visible on-device without touching server logs at all.
-        raise PageRenderError(
-            f"{type(e).__name__}: {e}\n---\n{tb[-1200:]}") from e
+    with _render_lock:
+        with pymupdf.open(meta["path"]) as doc:
+            if page < 1 or page > doc.page_count:
+                raise PageOutOfRange(page)
+            pix = doc[page - 1].get_pixmap(dpi=RENDER_DPI)
+            pix.save(str(tmp))
     tmp.replace(dest)
     return dest
