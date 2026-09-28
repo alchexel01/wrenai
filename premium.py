@@ -58,6 +58,8 @@ import asyncpg
 from fastapi import HTTPException
 from pydantic import BaseModel
 
+import auth
+
 log = logging.getLogger("wren-backend")
 
 PAYSTACK_SECRET_KEY = os.environ.get("PAYSTACK_SECRET_KEY", "").strip()
@@ -67,6 +69,33 @@ PREMIUM_PRICE_KOBO = 300_000
 PREMIUM_DURATION_DAYS = 365
 
 DATABASE_URL = os.environ.get("DATABASE_URL", "").strip()
+
+# Safety switches (all off by default = strict/production behaviour).
+# ALLOW_PAYSTACK_TEST_MODE=1     accept Paystack TEST-mode payments. Leave unset in
+#                                production: with an sk_test_ key anyone can "pay"
+#                                with a Paystack test card and get real premium.
+# PREMIUM_STATUS_REQUIRE_EMAIL=1 stop answering the old device-only /premium/status
+#                                lookup. Turn on once every user has updated the app.
+# ENABLE_PREMIUM_RESET=1         allow the TESTING-ONLY /premium/reset route.
+ALLOW_PAYSTACK_TEST_MODE = os.environ.get("ALLOW_PAYSTACK_TEST_MODE", "") == "1"
+STATUS_REQUIRES_EMAIL = os.environ.get("PREMIUM_STATUS_REQUIRE_EMAIL", "") == "1"
+ENABLE_RESET = os.environ.get("ENABLE_PREMIUM_RESET", "") == "1"
+# RESTORE_REQUIRE_TOKEN (default ON): /premium/restore must carry the signed
+# token issued by a real Google sign-in for that email (see auth.py). Set to
+# "0" only as a temporary escape hatch.
+RESTORE_REQUIRES_TOKEN = os.environ.get("RESTORE_REQUIRE_TOKEN", "1") != "0"
+
+# Placeholder / shared device ids that must never be linked to a purchase or
+# matched at status time - otherwise one payer holding such an id would make
+# every device that falls back to it premium. 'unknown' is what the app sends
+# when it cannot read ANDROID_ID or write its own UUID file; 9774d56d682e549c
+# is the well-known duplicated ANDROID_ID on some old devices/emulators.
+_BAD_DEVICE_IDS = {"", "unknown", "null", "none", "undefined", "9774d56d682e549c"}
+
+
+def _device_id_ok(device_id):
+    d = (device_id or "").strip().lower()
+    return len(d) >= 8 and d not in _BAD_DEVICE_IDS
 
 _pool = None
 
@@ -94,6 +123,10 @@ async def init_db():
             "ON premium_subscriptions (device_id)"
         )
     log.info("[premium] DB pool ready, table ensured")
+    if PAYSTACK_SECRET_KEY.startswith("sk_test_") and not ALLOW_PAYSTACK_TEST_MODE:
+        log.error("[premium] PAYSTACK_SECRET_KEY is a TEST key - verify will refuse "
+                  "every payment until you switch to the live sk_live_ key "
+                  "(or set ALLOW_PAYSTACK_TEST_MODE=1 while testing)")
 
 
 async def close_db():
@@ -152,11 +185,13 @@ class InitializeResponse(BaseModel):
 class StatusResponse(BaseModel):
     is_premium: bool
     expires_at: Optional[str] = None
+    email: Optional[str] = None
 
 
 class RestoreRequest(BaseModel):
     device_id: str
     email: str
+    token: Optional[str] = None
 
 
 async def premium_initialize(payload, rid):
@@ -167,6 +202,10 @@ async def premium_initialize(payload, rid):
     email = _normalize_email(payload.email)
     if not device_id:
         raise HTTPException(status_code=400, detail={"error": "device_id is required", "request_id": rid})
+    if not _device_id_ok(device_id):
+        raise HTTPException(status_code=400,
+                             detail={"error": "this device could not be identified - update the app and try again",
+                                     "request_id": rid})
     if not email or "@" not in email:
         raise HTTPException(status_code=400, detail={"error": "a valid email is required", "request_id": rid})
 
@@ -209,7 +248,7 @@ async def premium_initialize(payload, rid):
     return InitializeResponse(authorization_url=data["authorization_url"], reference=data["reference"])
 
 
-async def premium_verify(reference, rid):
+async def premium_verify(reference, rid, caller_email=None, caller_device_id=None):
     _require_pool(rid)
     _require_paystack_key(rid)
 
@@ -255,6 +294,19 @@ async def premium_verify(reference, rid):
         log.info(f"[{rid}] /premium/verify: reference={reference} status={paystack_status} (not activating)")
         return StatusResponse(is_premium=False)
 
+    # Only genuine, full-price, live-mode payments may unlock premium.
+    if data.get("domain") == "test" and not ALLOW_PAYSTACK_TEST_MODE:
+        log.error(f"[{rid}] /premium/verify: reference={reference} is a TEST-mode transaction - refusing")
+        return StatusResponse(is_premium=False)
+    try:
+        _paid = int(data.get("amount") or 0)
+    except (TypeError, ValueError):
+        _paid = 0
+    if _paid < PREMIUM_PRICE_KOBO or (data.get("currency") or "NGN") != "NGN":
+        log.error(f"[{rid}] /premium/verify: reference={reference} amount/currency mismatch "
+                  f"(amount={data.get('amount')!r}, currency={data.get('currency')!r}) - refusing")
+        return StatusResponse(is_premium=False)
+
     if not device_id or not email:
         log.error(f"[{rid}] /premium/verify: reference={reference} succeeded but missing device_id/email in metadata")
         raise HTTPException(status_code=500,
@@ -281,20 +333,56 @@ async def premium_verify(reference, rid):
                 email, device_id, reference, now, expires,
             )
 
+        # Re-read the row as it stands NOW (a Restore may have re-linked the
+        # email to another device since this reference was first verified).
+        row = await conn.fetchrow(
+            "SELECT device_id, expires_at FROM premium_subscriptions WHERE email = $1", email)
+
     log.info(f"[{rid}] /premium/verify: email={email} device={device_id} reference={reference} "
              f"ACTIVATED until {expires.isoformat()}")
-    return StatusResponse(is_premium=True, expires_at=expires.isoformat())
+
+    # The payment is recorded for whoever actually paid either way, but only
+    # tell the CALLER "you're premium" if they are that account on that
+    # device. Otherwise someone holding a shared/leaked reference would get
+    # premium unlocked locally without having paid.
+    caller_email = _normalize_email(caller_email)
+    caller_device_id = (caller_device_id or "").strip()
+    if caller_email and caller_email != email:
+        return StatusResponse(is_premium=False)
+    if caller_device_id and (not row or caller_device_id != row["device_id"]):
+        return StatusResponse(is_premium=False)
+    return StatusResponse(is_premium=True, expires_at=expires.isoformat(), email=email)
 
 
-async def premium_status(device_id, rid):
+async def premium_status(device_id, rid, email=None):
+    """Premium is a property of (email, device): the signed-in account must
+    own an active purchase AND that purchase must be linked to this device.
+
+    The old lookup matched on device_id alone, so ANY account signing in on
+    a device that had a paid row was treated as premium, and when several
+    rows shared a device_id an arbitrary one (possibly an expired one) was
+    returned. The device-only path is kept for app versions that don't send
+    an email yet - deterministic now, and switchable off with
+    PREMIUM_STATUS_REQUIRE_EMAIL=1 once everyone has updated."""
     _require_pool(rid)
     device_id = (device_id or "").strip()
     if not device_id:
         raise HTTPException(status_code=400, detail={"error": "device_id is required", "request_id": rid})
+    if not _device_id_ok(device_id):
+        return StatusResponse(is_premium=False)
 
+    email = _normalize_email(email)
     async with _pool.acquire() as conn:
-        row = await conn.fetchrow(
-            "SELECT expires_at FROM premium_subscriptions WHERE device_id = $1", device_id)
+        if email:
+            row = await conn.fetchrow(
+                "SELECT email, expires_at FROM premium_subscriptions "
+                "WHERE email = $1 AND device_id = $2", email, device_id)
+        elif STATUS_REQUIRES_EMAIL:
+            return StatusResponse(is_premium=False)
+        else:
+            row = await conn.fetchrow(
+                "SELECT email, expires_at FROM premium_subscriptions "
+                "WHERE device_id = $1 ORDER BY expires_at DESC LIMIT 1", device_id)
 
     if not row:
         return StatusResponse(is_premium=False)
@@ -304,7 +392,7 @@ async def premium_status(device_id, rid):
     if expires_at <= now:
         return StatusResponse(is_premium=False, expires_at=expires_at.isoformat())
 
-    return StatusResponse(is_premium=True, expires_at=expires_at.isoformat())
+    return StatusResponse(is_premium=True, expires_at=expires_at.isoformat(), email=row["email"])
 
 
 async def premium_restore(payload, rid):
@@ -313,8 +401,21 @@ async def premium_restore(payload, rid):
     email = _normalize_email(payload.email)
     if not device_id:
         raise HTTPException(status_code=400, detail={"error": "device_id is required", "request_id": rid})
+    if not _device_id_ok(device_id):
+        raise HTTPException(status_code=400,
+                             detail={"error": "this device could not be identified - update the app and try again",
+                                     "request_id": rid})
     if not email or "@" not in email:
         raise HTTPException(status_code=400, detail={"error": "a valid email is required", "request_id": rid})
+
+    # Restore moves a paid purchase to whatever device asks, so the caller
+    # must prove they signed in with Google as this exact email. Knowing the
+    # address is not enough.
+    if RESTORE_REQUIRES_TOKEN and not auth.verify_token(email, payload.token):
+        log.warning(f"[{rid}] /premium/restore: email={email} - missing/invalid sign-in token")
+        raise HTTPException(status_code=401,
+                             detail={"error": "sign in with Google as this email to restore",
+                                     "request_id": rid})
 
     async with _pool.acquire() as conn:
         row = await conn.fetchrow(
@@ -342,10 +443,14 @@ async def premium_restore(payload, rid):
         expires_at = row["expires_at"]
 
     log.info(f"[{rid}] /premium/restore: email={email} re-linked to device={device_id} until {expires_at.isoformat()}")
-    return StatusResponse(is_premium=True, expires_at=expires_at.isoformat())
+    return StatusResponse(is_premium=True, expires_at=expires_at.isoformat(), email=email)
 
 
 async def premium_reset(email, rid):
+    # The app secret ships inside every APK, so anyone who extracts it could
+    # otherwise wipe any user's premium. Off unless explicitly enabled.
+    if not ENABLE_RESET:
+        raise HTTPException(status_code=404, detail={"error": "not found", "request_id": rid})
     _require_pool(rid)
     email = _normalize_email(email)
     if not email:
