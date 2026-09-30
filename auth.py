@@ -37,8 +37,8 @@ into reading out a code. It cannot stop a victim who is told "type this
 code" by the attacker - the only complete fix for that is returning the
 result to the app itself with an Android App Link / custom-scheme
 redirect instead of polling. That is an app-manifest change, so it is
-left as a follow-up. Set AUTH_REQUIRE_CODE=0 to switch the code step off
-(e.g. while old app versions that can't show the code are still around).
+left as a follow-up. The code step is OFF by default (it made sign-in feel
+like too much); set AUTH_REQUIRE_CODE=1 to switch it on.
 
 Sign-in proof token
 -------------------
@@ -66,7 +66,7 @@ Env vars (Render dashboard):
                              e.g. https://wrenai-application.onrender.com/auth/google/callback
     AUTH_TOKEN_SECRET      - (recommended) long random string for signing tokens
     AUTH_REQUIRE_TOKEN     - default on. "0" = stop enforcing tokens (escape hatch only)
-    AUTH_REQUIRE_CODE      - default on. "0" = skip the confirmation-code step
+    AUTH_REQUIRE_CODE      - default OFF. "1" = add the extra confirmation-code step
 """
 
 import os
@@ -101,7 +101,7 @@ GOOGLE_TOKEN_ENDPOINT = "https://oauth2.googleapis.com/token"
 # Default ON. "0" is a temporary escape hatch, same convention as
 # RESTORE_REQUIRE_TOKEN in premium.py.
 REQUIRE_TOKEN = os.environ.get("AUTH_REQUIRE_TOKEN", "1") != "0"
-REQUIRE_CODE = os.environ.get("AUTH_REQUIRE_CODE", "1") != "0"
+REQUIRE_CODE = os.environ.get("AUTH_REQUIRE_CODE", "0") == "1"
 
 _EXPLICIT_TOKEN_SECRET = os.environ.get("AUTH_TOKEN_SECRET", "").strip()
 AUTH_TOKEN_SECRET = _EXPLICIT_TOKEN_SECRET or GOOGLE_CLIENT_SECRET
