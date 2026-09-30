@@ -22,6 +22,8 @@ Endpoints:
     GET  /auth/google/start          — get a Google sign-in URL + session_id
     GET  /auth/google/callback       — Google redirects here after sign-in
     POST /auth/google/confirm        — browser page submits the code shown in the app
+    POST /auth/email/request         — email a 6-digit sign-in code
+    POST /auth/email/verify          — enter the code: returns email + token
     GET  /auth/google/status/{id}    — poll: has this session's sign-in completed?
     POST /chats/save                 — upsert one chat for an email
     GET  /chats/{email}              — fetch every chat saved for an email
@@ -50,6 +52,7 @@ import httpx
 import rag_engine
 import premium
 import auth
+import auth_email
 import chat_history
 import textbooks_api
 
@@ -61,6 +64,7 @@ async def _startup():
     await premium.init_db()
     await chat_history.init_db()
     await auth.init_db()
+    await auth_email.init_tables()
 
 
 @app.on_event("shutdown")
@@ -468,6 +472,27 @@ async def auth_google_status_route(session_id: str, req: Request, x_app_secret: 
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
     return await auth.auth_google_status(session_id, rid)
+
+
+# ── Email sign-in with a 6-digit code ────────────────────────────────
+# Alternative to Google. /request emails a code, /verify swaps the right code
+# for the same signed token Google sign-in returns. No passwords. See
+# auth_email.py.
+
+@app.post("/auth/email/request", response_model=auth_email.EmailOkResponse)
+async def auth_email_request_route(payload: auth_email.EmailRequest, req: Request,
+                                   x_app_secret: str = Header(default="")):
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    return await auth_email.email_request(payload, rid)
+
+
+@app.post("/auth/email/verify", response_model=auth_email.EmailTokenResponse)
+async def auth_email_verify_route(payload: auth_email.EmailVerifyRequest, req: Request,
+                                  x_app_secret: str = Header(default="")):
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    return await auth_email.email_verify(payload, rid)
 
 
 # ── Chat history (email-scoped sync) ─────────────────────────────────────
