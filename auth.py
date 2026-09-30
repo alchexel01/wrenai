@@ -152,7 +152,7 @@ def require_user(email: str, token: Optional[str], rid: str = "-"):
                     f"{(email or '').strip().lower()[:3]}***")
         raise HTTPException(
             status_code=401,
-            detail={"error": "sign in with Google to continue", "request_id": rid},
+            detail={"error": "please sign in again to continue", "request_id": rid},
         )
 
 
