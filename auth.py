@@ -394,7 +394,7 @@ async def auth_google_callback(code: str, state: str, rid: str,
              f"google-verified, awaiting code={'yes' if REQUIRE_CODE else 'no'}")
 
     if not REQUIRE_CODE:
-        return _result_page("You're signed in. You can close this tab and return to Wren.", ok=True)
+        return _result_page("Sign-in successful. You can close this page and return to the app.", ok=True)
     return _code_page(session_id, email)
 
 
@@ -414,7 +414,7 @@ async def auth_google_confirm(state: str, code: str, rid: str) -> HTMLResponse:
             return _result_page("This sign-in link has expired or was already used. "
                                 "Please return to the app and start again.", ok=False)
         if row["confirmed"]:
-            return _result_page("You're signed in. You can close this tab and return to Wren.", ok=True)
+            return _result_page("Sign-in successful. You can close this page and return to the app.", ok=True)
         if row["attempts"] >= CODE_MAX_ATTEMPTS:
             await conn.execute(f"DELETE FROM {_TABLE} WHERE session_id = $1", session_id)
             return _result_page("Too many wrong codes. Please return to the app and start again.", ok=False)
@@ -424,7 +424,7 @@ async def auth_google_confirm(state: str, code: str, rid: str) -> HTMLResponse:
             await conn.execute(
                 f"UPDATE {_TABLE} SET confirmed = TRUE WHERE session_id = $1", session_id)
             log.info(f"[{rid}] /auth/google/confirm: session_id={session_id[:8]}... confirmed")
-            return _result_page("You're signed in. You can close this tab and return to Wren.", ok=True)
+            return _result_page("Sign-in successful. You can close this page and return to the app.", ok=True)
 
         attempts = await conn.fetchval(
             f"UPDATE {_TABLE} SET attempts = attempts + 1 WHERE session_id = $1 "
@@ -462,7 +462,7 @@ _PAGE_STYLE = ("font-family: -apple-system, sans-serif; text-align: center; "
 
 
 def _result_page(message: str, ok: bool) -> HTMLResponse:
-    color = "#16a34a" if ok else "#dc2626"
+    color = "#5B21B6" if ok else "#dc2626"   # success = the app's purple, errors stay red
     html_doc = f"""
     <html>
       <head>
