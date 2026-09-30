@@ -438,7 +438,7 @@ async def premium_restore(payload, rid):
     if RESTORE_REQUIRES_TOKEN and not auth.verify_token(email, payload.token):
         log.warning(f"[{rid}] /premium/restore: email={email} - missing/invalid sign-in token")
         raise HTTPException(status_code=401,
-                             detail={"error": "sign in with Google as this email to restore",
+                             detail={"error": "sign in again as this email to restore",
                                      "request_id": rid})
 
     async with _pool.acquire() as conn:
