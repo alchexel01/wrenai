@@ -139,12 +139,30 @@ def get_page_path(book_id: str, page: int) -> Path:
         return dest
 
     dest.parent.mkdir(parents=True, exist_ok=True)
-    tmp = dest.with_suffix(dest.suffix + ".part")
+    # NOTE: PyMuPDF's Pixmap.save() picks the image format from the file
+    # extension. The old temp name ("page_0005.jpg.part") ended in ".part",
+    # which PyMuPDF rejects ("Image format part not in (...)"), so EVERY page
+    # that wasn't already cached raised ValueError -> HTTP 500. Keep a real
+    # image extension on the temp file and also pass output="jpeg" explicitly.
+    tmp = dest.with_name(dest.stem + ".part.jpg")
     with _render_lock:
-        with pymupdf.open(meta["path"]) as doc:
-            if page < 1 or page > doc.page_count:
-                raise PageOutOfRange(page)
-            pix = doc[page - 1].get_pixmap(dpi=RENDER_DPI)
-            pix.save(str(tmp))
-    tmp.replace(dest)
+        # Re-check inside the lock: a concurrent request for the same page
+        # may have just rendered it while we were waiting, and the temp file
+        # is shared, so rendering/renaming outside the lock could hand out a
+        # half-written image.
+        if dest.exists():
+            return dest
+        try:
+            with pymupdf.open(meta["path"]) as doc:
+                if page < 1 or page > doc.page_count:
+                    raise PageOutOfRange(page)
+                pix = doc[page - 1].get_pixmap(dpi=RENDER_DPI)
+                pix.save(str(tmp), output="jpeg")
+            tmp.replace(dest)
+        finally:
+            try:
+                if tmp.exists():
+                    tmp.unlink()
+            except OSError:
+                pass
     return dest
