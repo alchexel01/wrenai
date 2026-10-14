@@ -167,6 +167,23 @@ HF_ACCESS_TOKEN = os.environ.get("HF_ACCESS_TOKEN", "")
 
 GROQ_CHAT_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_TRANSCRIBE_URL = "https://api.groq.com/openai/v1/audio/transcriptions"
+# Explicit User-Agent for upstream calls (default 'python-httpx/x' can be
+# flagged by Cloudflare bot rules in front of Groq).
+GROQ_UA = "WrenAI-Backend/1.0"
+
+
+def _looks_like_cloudflare_html(headers, body_text: str) -> bool:
+    """True when an upstream reply is a Cloudflare challenge/block page
+    (HTML) rather than a real JSON API error. Such a reply says nothing
+    about the API key, so keys must NOT be cooled down or rotated."""
+    ctype = (headers.get("content-type") or "").lower()
+    peek = (body_text or "")[:200].lstrip().lower()
+    return (
+        "text/html" in ctype
+        or peek.startswith("<!doctype")
+        or peek.startswith("<html")
+        or bool(headers.get("cf-mitigated"))
+    )
 
 
 class GroqKeyPool:
@@ -602,6 +619,7 @@ async def chat(request: dict, req: Request, x_app_secret: str = Header(default="
                 headers={
                     "Authorization": f"Bearer {key}",
                     "Content-Type": "application/json",
+                    "User-Agent": GROQ_UA,
                 },
                 json=request,
             )
@@ -618,6 +636,21 @@ async def chat(request: dict, req: Request, x_app_secret: str = Header(default="
             await upstream.aclose()
             await client.aclose()
             body_text = body.decode("utf-8", errors="replace")[:1000]
+            if _looks_like_cloudflare_html(upstream.headers, body_text):
+                # Cloudflare challenge: it is about this server's IP, not the
+                # key. Rotating keys can't fix it and cooling every key would
+                # take the whole pool offline for a minute each.
+                log.warning(
+                    f"[{rid}] /chat: Cloudflare challenge from Groq "
+                    f"(HTTP {upstream.status_code}, cf-ray="
+                    f"{upstream.headers.get('cf-ray', '?')}) - keys left untouched"
+                )
+                raise HTTPException(
+                    status_code=503,
+                    detail={"error": "upstream temporarily unavailable, try again shortly",
+                            "source": "groq", "request_id": rid},
+                    headers={"Retry-After": "30"},
+                )
             cooldown = GroqKeyPool.DEFAULT_COOLDOWN_SECS
             if upstream.status_code == 429:
                 retry_after = upstream.headers.get("retry-after")
@@ -726,7 +759,7 @@ async def transcribe(
             async with httpx.AsyncClient(timeout=30) as client:
                 resp = await client.post(
                     GROQ_TRANSCRIBE_URL,
-                    headers={"Authorization": f"Bearer {key}"},
+                    headers={"Authorization": f"Bearer {key}", "User-Agent": GROQ_UA},
                     files={"file": (file.filename, audio_bytes, file.content_type)},
                     data={"model": model, "response_format": response_format},
                 )
@@ -738,6 +771,17 @@ async def transcribe(
 
         if resp.status_code == 429 or resp.status_code in (401, 403):
             body_text = resp.text[:500]
+            if _looks_like_cloudflare_html(resp.headers, body_text):
+                log.warning(
+                    f"[{rid}] /transcribe: Cloudflare challenge from Groq "
+                    f"(HTTP {resp.status_code}) - keys left untouched"
+                )
+                raise HTTPException(
+                    status_code=503,
+                    detail={"error": "upstream temporarily unavailable, try again shortly",
+                            "source": "groq", "request_id": rid},
+                    headers={"Retry-After": "30"},
+                )
             cooldown = GroqKeyPool.DEFAULT_COOLDOWN_SECS
             if resp.status_code == 429:
                 retry_after = resp.headers.get("retry-after")
