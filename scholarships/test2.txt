@@ -1,0 +1,5 @@
+Link: https://example.com
+Date: 2026-10-17
+
+This is a test scholarship to check that the Scholarships screen in the app works.
+Delete this file from GitHub once you've seen it show up.
