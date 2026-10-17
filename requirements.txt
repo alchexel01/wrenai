@@ -6,3 +6,4 @@ asyncpg
 google-auth
 requests
 pymupdf
+firebase-admin
