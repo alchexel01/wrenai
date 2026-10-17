@@ -34,6 +34,7 @@ Endpoints:
     GET  /model/{key}                — streams an offline model file from HF
     GET  /scholarships               — scholarships from the repo's scholarships/ folder
     GET  /scholarships/{id}          — one scholarship
+    POST /scholarships/push          — send a push notification for the newest (or a given) scholarship; needs X-Admin-Key
 
 See README.md for deployment and how AI.py should call this.
 """
@@ -902,3 +903,145 @@ def get_scholarship(item_id: str, req: Request,
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
     return scholarships.get_scholarship(item_id, rid)
+
+
+# ── Scholarship push notifications (Firebase Cloud Messaging) ────────────
+# Scholarships are .txt files in the repo, so there is no "create" route to
+# hook. Instead, after you add a file and Render finishes deploying, call
+# POST /scholarships/push once with your admin key; every phone subscribed
+# to the "scholarships" topic gets the notification, even with the app
+# closed. Needs two Render env vars:
+#   FIREBASE_SERVICE_ACCOUNT  the full service-account JSON (Firebase console >
+#                             Project settings > Service accounts > Generate key)
+#   WREN_ADMIN_PUSH_KEY       any long random string only you know
+# And "firebase-admin" in requirements.txt. firebase_admin is imported lazily
+# so the rest of the backend still boots if any of this is missing.
+import hmac
+import json as _json
+
+ADMIN_PUSH_KEY = os.environ.get("WREN_ADMIN_PUSH_KEY", "").strip()
+_pushed_scholarship_ids = set()   # in-memory guard against double-sending
+
+
+def _firebase_messaging():
+    import firebase_admin
+    from firebase_admin import credentials, messaging
+    if not firebase_admin._apps:
+        raw = os.environ.get("FIREBASE_SERVICE_ACCOUNT", "").strip()
+        if not raw:
+            raise RuntimeError("FIREBASE_SERVICE_ACCOUNT is not set")
+        firebase_admin.initialize_app(credentials.Certificate(_json.loads(raw)))
+    return messaging
+
+
+def _sch_field(item, name):
+    return item.get(name) if isinstance(item, dict) else getattr(item, name, None)
+
+
+@app.post("/scholarships/push")
+def push_scholarship(req: Request, id: str = "", force: bool = False,
+                     x_admin_key: str = Header(default="")):
+    rid = req.state.rid
+    if not ADMIN_PUSH_KEY or not hmac.compare_digest(
+            (x_admin_key or "").strip(), ADMIN_PUSH_KEY):
+        log.warning(f"[{rid}] scholarship push: bad or missing X-Admin-Key")
+        raise HTTPException(status_code=401,
+                            detail={"error": "invalid admin key", "request_id": rid})
+
+    items = scholarships.list_scholarships(50)
+    items = _sch_field(items, "scholarships") or []
+    if id:
+        item = next((i for i in items if str(_sch_field(i, "id")) == id), None)
+    else:
+        item = items[0] if items else None      # list is newest first
+    if item is None:
+        raise HTTPException(status_code=404,
+                            detail={"error": "no such scholarship", "request_id": rid})
+
+    sid = str(_sch_field(item, "id"))
+    title = (_sch_field(item, "title") or "New scholarship").strip()
+    if sid in _pushed_scholarship_ids and not force:
+        return {"sent": False, "reason": "already sent since last restart; use force=true",
+                "id": sid, "request_id": rid}
+
+    try:
+        messaging = _firebase_messaging()
+        msg_id = messaging.send(messaging.Message(
+            topic="scholarships",
+            notification=messaging.Notification(title="New scholarship", body=title),
+            data={"open": "scholarships", "id": sid},
+            android=messaging.AndroidConfig(priority="high"),
+        ))
+    except Exception as e:
+        log.error(f"[{rid}] scholarship push failed: {type(e).__name__}: {e}")
+        raise HTTPException(status_code=500,
+                            detail={"error": "push failed", "detail": f"{type(e).__name__}: {e}",
+                                    "request_id": rid})
+    _pushed_scholarship_ids.add(sid)
+    log.info(f"[{rid}] scholarship push sent id={sid} fcm={msg_id}")
+    return {"sent": True, "id": sid, "title": title, "fcm_message_id": msg_id,
+            "request_id": rid}
+
+
+# ── Automatic scholarship push ───────────────────────────────────────────
+# Adding a scholarship .txt file means a new deploy, which restarts this
+# server. A few seconds after every start (and then hourly while it stays
+# up) the server compares the scholarships it can see against a list of
+# ids already announced, and pushes only the new ones. That list lives in
+# Firestore (collection wren_meta, doc scholarship_push) because Render's
+# disk is wiped on every deploy. The very first run only records what
+# exists, so old scholarships are never announced. Needs Firestore created
+# once in the Firebase console (Build > Firestore Database > Create
+# database). Set WREN_AUTO_PUSH=0 on Render to switch this off.
+import threading as _threading
+
+
+def _auto_push_new_scholarships():
+    from firebase_admin import firestore
+    messaging = _firebase_messaging()          # also initializes firebase_admin
+    ref = firestore.client().collection("wren_meta").document("scholarship_push")
+    snap = ref.get()
+    items = _sch_field(scholarships.list_scholarships(50), "scholarships") or []
+    ids = [str(_sch_field(i, "id")) for i in items if _sch_field(i, "id") is not None]
+    if not snap.exists:
+        ref.set({"ids": ids[:300]})
+        log.info(f"[auto-push] first run, recorded {len(ids)} existing scholarship(s), nothing sent")
+        return
+    done = list((snap.to_dict() or {}).get("ids", []))
+    done_set = set(done)
+    new = [i for i in items
+           if _sch_field(i, "id") is not None and str(_sch_field(i, "id")) not in done_set]
+    if not new:
+        return
+    first = (_sch_field(new[0], "title") or "New scholarship").strip()
+    title = "New scholarship" if len(new) == 1 else f"{len(new)} new scholarships"
+    msg_id = messaging.send(messaging.Message(
+        topic="scholarships",
+        notification=messaging.Notification(title=title, body=first),
+        data={"open": "scholarships"},
+        android=messaging.AndroidConfig(priority="high"),
+    ))
+    # Record only after a successful send, so a failure is retried next round.
+    ref.set({"ids": (ids + [x for x in done if x not in ids])[:300]})
+    log.info(f"[auto-push] sent {len(new)} new scholarship(s), fcm={msg_id}")
+
+
+def _auto_push_loop():
+    time.sleep(20)                              # let the server finish booting
+    while True:
+        try:
+            _auto_push_new_scholarships()
+        except Exception as e:
+            log.error(f"[auto-push] failed: {type(e).__name__}: {e}")
+        time.sleep(3600)
+
+
+@app.on_event("startup")
+def _start_auto_push():
+    if os.environ.get("WREN_AUTO_PUSH", "1").strip() == "0":
+        log.info("[auto-push] disabled by WREN_AUTO_PUSH=0")
+        return
+    if not os.environ.get("FIREBASE_SERVICE_ACCOUNT", "").strip():
+        log.info("[auto-push] FIREBASE_SERVICE_ACCOUNT not set, auto push is off")
+        return
+    _threading.Thread(target=_auto_push_loop, daemon=True, name="AutoPush").start()
