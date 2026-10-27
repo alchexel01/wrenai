@@ -40,7 +40,7 @@ Endpoints (wired into main.py):
     GET    /premium/verify/{reference}— confirm a transaction, activate premium on success
     GET    /premium/status/{device_id}— is this device currently premium, until when
     POST   /premium/restore           — one-time: re-link an email's premium to a new device_id
-    POST   /premium/google/verify     — Google Play purchase -> premium (see premium_google.py)
+    POST   /premium/google/verify     — Google Play subscription -> premium (see premium_google.py)
     DELETE /premium/reset/{email}     — TESTING ONLY: wipe an email's premium record entirely
 
 All endpoints still require the existing X-App-Secret header, same as
@@ -125,18 +125,31 @@ async def init_db():
             "CREATE INDEX IF NOT EXISTS idx_premium_device_id "
             "ON premium_subscriptions (device_id)"
         )
-        # Google Play purchases already redeemed. The token is UNIQUE so one
-        # Google purchase can grant premium exactly once, to exactly one
-        # email (see premium_google.py).
+        # Google Play subscriptions (see premium_google.py): one row per purchase
+        # token. The token is UNIQUE, so one subscription belongs to exactly one
+        # email. expires_at is the end of paid access as last read from Google;
+        # `replaced` marks a token superseded by a newer one (plan change).
         await conn.execute(
-            "CREATE TABLE IF NOT EXISTS google_purchases ("
+            "CREATE TABLE IF NOT EXISTS google_subscriptions ("
             "purchase_token TEXT PRIMARY KEY, "
-            "order_id TEXT NOT NULL DEFAULT '', "
-            "product_id TEXT NOT NULL, "
             "email TEXT NOT NULL, "
             "device_id TEXT NOT NULL DEFAULT '', "
-            "granted_at TIMESTAMPTZ NOT NULL DEFAULT now()"
+            "product_id TEXT NOT NULL, "
+            "base_plan_id TEXT NOT NULL DEFAULT '', "
+            "state TEXT NOT NULL, "
+            "entitled BOOLEAN NOT NULL DEFAULT FALSE, "
+            "expires_at TIMESTAMPTZ, "
+            "auto_renewing BOOLEAN NOT NULL DEFAULT FALSE, "
+            "latest_order_id TEXT NOT NULL DEFAULT '', "
+            "acknowledged BOOLEAN NOT NULL DEFAULT FALSE, "
+            "replaced BOOLEAN NOT NULL DEFAULT FALSE, "
+            "granted_at TIMESTAMPTZ NOT NULL DEFAULT now(), "
+            "last_checked_at TIMESTAMPTZ NOT NULL DEFAULT now()"
             ")"
+        )
+        await conn.execute(
+            "CREATE INDEX IF NOT EXISTS idx_google_subs_email "
+            "ON google_subscriptions (email)"
         )
     log.info("[premium] DB pool ready, table ensured")
     if PAYSTACK_SECRET_KEY.startswith("sk_test_") and not ALLOW_PAYSTACK_TEST_MODE:
