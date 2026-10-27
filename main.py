@@ -18,7 +18,7 @@ Endpoints:
     GET  /premium/verify/{reference} — confirm payment, activate premium for 365 days
     GET  /premium/status/{device_id} — is this device currently premium, until when
     POST /premium/restore            — one-time: re-link an email's premium to a new device_id
-    POST /premium/google/verify      — verify a Google Play purchase token, activate premium for 365 days
+    POST /premium/google/verify      — verify a Google Play subscription token, activate premium
     DELETE /premium/reset/{email}    — TESTING ONLY: wipe an email's premium record
     GET  /auth/google/start          — get a Google sign-in URL + session_id
     GET  /auth/google/callback       — Google redirects here after sign-in
@@ -398,6 +398,11 @@ async def premium_status_route(
 ):
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
+    # Google Play subscriptions renew, lapse and get refunded without the app
+    # telling us: re-read this user's subscription from Google when it is due
+    # (cheap no-op otherwise), then answer from the up-to-date row.
+    if email:
+        await premium_google.refresh_if_due(email, rid)
     return await premium.premium_status(device_id, rid, email=email)
 
 
@@ -424,7 +429,7 @@ async def premium_google_verify_route(
     x_auth_token: str = Header(default=""),
 ):
     """Google Play Billing: the app sends the purchase token Google gave it;
-    we verify it with the Google Play Developer API and grant 365 days.
+    we verify it with the Google Play Developer API and activate premium.
     See premium_google.py for the full contract (200/202/400/403/409/503)."""
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
