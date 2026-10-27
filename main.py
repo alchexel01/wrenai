@@ -18,6 +18,7 @@ Endpoints:
     GET  /premium/verify/{reference} — confirm payment, activate premium for 365 days
     GET  /premium/status/{device_id} — is this device currently premium, until when
     POST /premium/restore            — one-time: re-link an email's premium to a new device_id
+    POST /premium/google/verify      — verify a Google Play purchase token, activate premium for 365 days
     DELETE /premium/reset/{email}    — TESTING ONLY: wipe an email's premium record
     GET  /auth/google/start          — get a Google sign-in URL + session_id
     GET  /auth/google/callback       — Google redirects here after sign-in
@@ -55,6 +56,7 @@ import httpx
 
 import rag_engine
 import premium
+import premium_google
 import auth
 import auth_email
 import chat_history
@@ -412,6 +414,23 @@ async def premium_restore_route(
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
     return await premium.premium_restore(payload, rid)
+
+
+@app.post("/premium/google/verify")
+async def premium_google_verify_route(
+    payload: premium_google.GoogleVerifyRequest,
+    req: Request,
+    x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
+):
+    """Google Play Billing: the app sends the purchase token Google gave it;
+    we verify it with the Google Play Developer API and grant 365 days.
+    See premium_google.py for the full contract (200/202/400/403/409/503)."""
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    # Premium is granted to this email, so the caller must be signed in as it.
+    auth.require_user(payload.email, x_auth_token, rid)
+    return await premium_google.google_verify(payload, rid)
 
 
 @app.delete("/premium/reset/{email}", response_model=premium.StatusResponse)
