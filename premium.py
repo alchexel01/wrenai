@@ -83,6 +83,10 @@ DATABASE_URL = os.environ.get("DATABASE_URL", "").strip()
 ALLOW_PAYSTACK_TEST_MODE = os.environ.get("ALLOW_PAYSTACK_TEST_MODE", "") == "1"
 STATUS_REQUIRES_EMAIL = os.environ.get("PREMIUM_STATUS_REQUIRE_EMAIL", "") == "1"
 ENABLE_RESET = os.environ.get("ENABLE_PREMIUM_RESET", "") == "1"
+# PAYSTACK_PURCHASES_ENABLED=1 re-opens NEW Paystack checkouts. Off by default:
+# Google Play Billing is the only way to buy premium. /premium/verify and
+# /premium/restore keep working, so anyone who already paid keeps access.
+PAYSTACK_PURCHASES_ENABLED = os.environ.get("PAYSTACK_PURCHASES_ENABLED", "") == "1"
 # RESTORE_REQUIRE_TOKEN (default ON): /premium/restore must carry the signed
 # token issued by a real Google sign-in for that email (see auth.py). Set to
 # "0" only as a temporary escape hatch.
@@ -260,6 +264,13 @@ class RestoreRequest(BaseModel):
 
 
 async def premium_initialize(payload, rid):
+    if not PAYSTACK_PURCHASES_ENABLED:
+        # Old app versions still call this. 410 = gone for good; they show the
+        # message, so tell them what to do.
+        raise HTTPException(status_code=410,
+                             detail={"error": "card payments are no longer available - "
+                                              "update Wren AI to subscribe through Google Play",
+                                     "request_id": rid})
     _require_pool(rid)
     _require_paystack_key(rid)
 
