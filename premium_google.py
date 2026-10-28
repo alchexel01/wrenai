@@ -178,6 +178,23 @@ async def _acknowledge(product_id: str, purchase_token: str, rid: str) -> bool:
     return False
 
 
+async def _cancel_remote(product_id: str, purchase_token: str, rid: str) -> bool:
+    """Turns auto-renew off (user keeps access until expiryTime). Outcome is
+    judged afterwards by re-reading the subscription, not by this call."""
+    url = (f"{_API}/applications/{quote(PACKAGE_NAME, safe='')}"
+           f"/purchases/subscriptions/{quote(product_id, safe='')}"
+           f"/tokens/{quote(purchase_token, safe='')}:cancel")
+    try:
+        r = await _google_request("POST", url, rid, json_body={})
+    except GoogleUnavailable as e:
+        log.warning(f"[{rid}] cancel unavailable: {e}")
+        return False
+    if r.status_code in (200, 204):
+        return True
+    log.warning(f"[{rid}] cancel failed {r.status_code}: {r.text[:200]}")
+    return False
+
+
 # ── Reading what Google said (pure functions: easy to test) ──────────────
 
 _TS = re.compile(r"^(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2})(\.\d+)?(Z|[+-]\d{2}:\d{2})$")
@@ -421,6 +438,83 @@ async def google_verify(payload: GoogleVerifyRequest, rid: str):
     log.info(f"[{rid}] google subscription {outcome}: {email} plan={sub['base_plan_id']} "
              f"state={sub['state']} until={sub['entitled_until']}")
     return await premium.premium_status(device_id, rid, email=email)
+
+
+# ── /premium/google/cancel ───────────────────────────────────────────────
+
+class GoogleCancelRequest(BaseModel):
+    email: str
+    token: str = ""            # route authenticates with the X-Auth-Token header
+
+
+async def auto_renewing_for(email: str) -> Optional[bool]:
+    """True/False when this email has an entitled Google subscription
+    (is it set to renew?), None when it has none (e.g. legacy Paystack)."""
+    email = premium._normalize_email(email)
+    if not email or getattr(premium, "_pool", None) is None:
+        return None
+    try:
+        async with premium._pool.acquire() as conn:
+            row = await conn.fetchrow(
+                "SELECT bool_or(auto_renewing) AS ar FROM google_subscriptions "
+                "WHERE email = $1 AND NOT replaced AND entitled AND expires_at > $2",
+                email, _utcnow())
+        return None if row is None else row["ar"]
+    except Exception as e:
+        log.warning(f"auto_renewing_for failed: {type(e).__name__}: {e}")
+        return None
+
+
+async def google_cancel(payload: GoogleCancelRequest, rid: str):
+    """Stops renewal of the caller's subscription. Access continues until the
+    already-paid period ends, exactly like cancelling inside Google Play."""
+    premium._require_pool(rid)
+    email = premium._normalize_email(payload.email)
+    if not email or "@" not in email:
+        raise _err(400, "a valid email is required", rid)
+    now = _utcnow()
+    async with premium._pool.acquire() as conn:
+        rows = await conn.fetch(
+            "SELECT purchase_token, product_id FROM google_subscriptions "
+            "WHERE email = $1 AND NOT replaced AND entitled AND expires_at > $2",
+            email, now)
+    if not rows:
+        raise _err(404, "no active recurring subscription to cancel", rid)
+
+    latest_exp = None
+    still_renewing = False
+    for r in rows:
+        await _cancel_remote(r["product_id"], r["purchase_token"], rid)
+        try:
+            data = await _fetch_subscription(r["purchase_token"], rid)
+        except GoogleRejected:
+            continue
+        except GoogleUnavailable as e:
+            log.warning(f"[{rid}] cancel re-read unavailable: {e}")
+            raise _err(503, "could not confirm cancellation, try again", rid)
+        sub = parse_subscription(data, r["product_id"], now)
+        if sub is None:
+            continue
+        still_renewing = still_renewing or sub["auto_renewing"]
+        if sub["expires_at"] and (latest_exp is None or sub["expires_at"] > latest_exp):
+            latest_exp = sub["expires_at"]
+        async with premium._pool.acquire() as conn:
+            await conn.execute(
+                "UPDATE google_subscriptions SET state=$2, entitled=$3, expires_at=$4, "
+                "auto_renewing=$5, last_checked_at=$6 WHERE purchase_token=$1",
+                r["purchase_token"], sub["state"], sub["entitled_until"] is not None,
+                sub["expires_at"], sub["auto_renewing"], now)
+    if still_renewing:
+        raise _err(502, "Google did not accept the cancellation", rid)
+    try:
+        async with premium._pool.acquire() as conn:
+            async with conn.transaction():
+                await _reconcile(conn, email, _utcnow())
+    except Exception as e:
+        log.warning(f"[{rid}] reconcile after cancel failed: {type(e).__name__}: {e}")
+    log.info(f"[{rid}] google subscription cancelled: {email} until {latest_exp}")
+    return {"ok": True, "auto_renewing": False,
+            "expires_at": latest_exp.isoformat() if latest_exp else None}
 
 
 # ── Keeping entitlement fresh (called from /premium/status) ──────────────
