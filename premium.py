@@ -255,6 +255,7 @@ class StatusResponse(BaseModel):
     is_premium: bool
     expires_at: Optional[str] = None
     email: Optional[str] = None
+    auto_renewing: Optional[bool] = None   # Google subscriptions only; None = n/a
 
 
 class RestoreRequest(BaseModel):
