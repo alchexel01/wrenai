@@ -403,7 +403,10 @@ async def premium_status_route(
     # (cheap no-op otherwise), then answer from the up-to-date row.
     if email:
         await premium_google.refresh_if_due(email, rid)
-    return await premium.premium_status(device_id, rid, email=email)
+    res = await premium.premium_status(device_id, rid, email=email)
+    if email and res.is_premium:
+        res.auto_renewing = await premium_google.auto_renewing_for(email)
+    return res
 
 
 @app.post("/premium/restore", response_model=premium.StatusResponse)
@@ -435,7 +438,26 @@ async def premium_google_verify_route(
     _check_app_secret(x_app_secret, rid)
     # Premium is granted to this email, so the caller must be signed in as it.
     auth.require_user(payload.email, x_auth_token, rid)
-    return await premium_google.google_verify(payload, rid)
+    res = await premium_google.google_verify(payload, rid)
+    if isinstance(res, premium.StatusResponse) and res.is_premium:
+        res.auto_renewing = await premium_google.auto_renewing_for(payload.email)
+    return res
+
+
+@app.post("/premium/google/cancel")
+async def premium_google_cancel_route(
+    payload: premium_google.GoogleCancelRequest,
+    req: Request,
+    x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
+):
+    """In-app cancel: stops auto-renewal via the Google Play Developer API.
+    Premium stays active until the paid period ends. Needs the service
+    account to have 'Manage orders and subscriptions' in Play Console."""
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    auth.require_user(payload.email, x_auth_token, rid)
+    return await premium_google.google_cancel(payload, rid)
 
 
 @app.delete("/premium/reset/{email}", response_model=premium.StatusResponse)
