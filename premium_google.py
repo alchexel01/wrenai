@@ -27,12 +27,25 @@ resume. Between Google calls the stored expiry is used, so most status calls
 cost nothing extra. Refunds / revocations show up as EXPIRED on the next
 refresh.
 
+Untagged purchases (promo codes, Play Store UI)
+-----------------------------------------------
+Purchases made outside the app's own checkout (a promo code redeemed in the
+Play Store, a resubscribe from Play's subscription screen) carry no
+obfuscatedExternalAccountId, and a purchase made while another Wren account
+was signed in carries a different one. Google refunds any subscription that is
+not acknowledged within 3 days, so these must not be refused. The tag is no
+longer a gate: the Play Developer API lookup (_fetch_subscription) is the
+proof the token is a real, active purchase for this app. If it is, the token
+is linked to the signed-in user (the route has already authenticated the
+email) and acknowledged straight away. The one remaining ownership rule is
+that a token already linked to another email in google_subscriptions is
+refused with 409.
+
 /premium/google/verify answers (what the app expects)
     200  verified; body is the normal /premium/status response. Idempotent.
     202  Google says the purchase is still PENDING - the app retries later
     400  not a valid / active subscription for this app - retrying can't help
-    403  purchase carries no account tag (not bought through our app flow)
-    409  token belongs to a different account
+    409  token already belongs to a different account in OUR database
     401  (from auth.require_user in the route) sign-in token rejected
     503  Google or our database can't answer - the app retries
 
@@ -249,19 +262,28 @@ def parse_subscription(data: dict, expected_product: str, now: dt.datetime) -> O
     }
 
 
+def tag_status(sub: dict, expected_account: str) -> str:
+    """'tagged' (made in-app for this account) | 'untagged' | 'foreign'."""
+    tag = (sub.get("account_id") or "").strip()
+    if not tag:
+        return "untagged"
+    return "tagged" if tag == expected_account else "foreign"
+
+
 def evaluate_new_purchase(sub: Optional[dict], expected_account: str) -> tuple:
     """Verdict for a token the app has just submitted.
-    ('ok' | 'pending' | 'invalid' | 'forbidden' | 'mismatch', message)"""
+    ('ok' | 'pending' | 'invalid', message)
+
+    The obfuscated account tag is NOT checked here: a missing or different tag
+    (promo code, Play Store purchase) falls back to trusting Google's own
+    answer about the token, which the caller has already fetched.
+    expected_account is kept for the call signature and for tag_status()."""
     if sub is None:
         return "invalid", "This purchase is for a different product."
     if BASE_PLANS and sub["base_plan_id"] and sub["base_plan_id"] not in BASE_PLANS:
         return "invalid", "This purchase is for an unknown plan."
     if sub["state"] == "pending":
         return "pending", "Payment is still pending."
-    if not sub["account_id"]:
-        return "forbidden", "Purchase has no account tag."
-    if sub["account_id"] != expected_account:
-        return "mismatch", "Purchase belongs to a different account."
     if sub["entitled_until"] is None:
         return "invalid", f"Subscription is not active (state={sub['state']})."
     return "ok", ""
@@ -385,10 +407,10 @@ async def google_verify(payload: GoogleVerifyRequest, rid: str):
         return JSONResponse(status_code=202, content={"is_premium": False, "state": "pending"})
     if verdict == "invalid":
         raise _err(400, message, rid)
-    if verdict == "forbidden":
-        raise _err(403, message, rid)
-    if verdict == "mismatch":
-        raise _err(409, message, rid)
+    tag_kind = tag_status(sub, expected_account)
+    if tag_kind != "tagged":
+        log.info(f"[{rid}] google purchase is {tag_kind} (promo / Play Store / other "
+                 f"account): verified with the Play API, linking to {email}")
     if sub["test"]:
         log.info(f"[{rid}] google TEST subscription accepted for {email}")
 
@@ -405,17 +427,16 @@ async def google_verify(payload: GoogleVerifyRequest, rid: str):
                         "WHERE purchase_token = $1 AND email = $2",
                         sub["linked_token"], email)
                 if outcome == "same":
-                    # Re-verification of a token already granted to this email. If
-                    # the row is linked to another device (reinstall), the Google
-                    # purchase is proof enough to re-link, once, using the account's
-                    # single restore - like /premium/restore.
-                    row = await conn.fetchrow(
-                        "SELECT device_id, restore_used FROM premium_subscriptions "
-                        "WHERE email = $1", email)
-                    if row and row["device_id"] != device_id and not row["restore_used"]:
-                        await conn.execute(
-                            "UPDATE premium_subscriptions SET device_id = $2, "
-                            "restore_used = TRUE WHERE email = $1", email, device_id)
+                    # Re-verification of a token already granted to this email. A
+                    # valid Google purchase token is definitive proof of ownership,
+                    # so the row is re-linked to the calling device on every
+                    # restore/verify attempt. There is no restore limit here, and
+                    # restore_used (the legacy /premium/restore flag) is neither
+                    # checked nor consumed.
+                    await conn.execute(
+                        "UPDATE premium_subscriptions SET device_id = $2 "
+                        "WHERE email = $1 AND device_id IS DISTINCT FROM $2",
+                        email, device_id)
                     await _reconcile(conn, email, now)
                 else:
                     await _reconcile(conn, email, now, link_device=device_id)
@@ -428,15 +449,18 @@ async def google_verify(payload: GoogleVerifyRequest, rid: str):
 
     # Acknowledge AFTER the grant is committed. A failure here is not fatal:
     # refresh_if_due() retries it every minute until it sticks.
+    acked_now = False
     if not sub["acknowledged"]:
         if await _acknowledge(SUB_PRODUCT_ID, token, rid):
+            acked_now = True
             async with premium._pool.acquire() as conn:
                 await conn.execute(
                     "UPDATE google_subscriptions SET acknowledged = TRUE "
                     "WHERE purchase_token = $1", token)
 
     log.info(f"[{rid}] google subscription {outcome}: {email} plan={sub['base_plan_id']} "
-             f"state={sub['state']} until={sub['entitled_until']}")
+             f"state={sub['state']} until={sub['entitled_until']} tag={tag_kind} "
+             f"acknowledged={sub['acknowledged'] or acked_now}")
     return await premium.premium_status(device_id, rid, email=email)
 
 
