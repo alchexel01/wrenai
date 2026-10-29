@@ -16,8 +16,8 @@ Endpoints:
     POST /admin/reload               — re-scan syllabus_data/ (needs API key)
     POST /premium/initialize         — start a Paystack transaction, get checkout URL
     GET  /premium/verify/{reference} — confirm payment, activate premium for 365 days
-    GET  /premium/status/{device_id} — is this device currently premium, until when
-    POST /premium/restore            — one-time: re-link an email's premium to a new device_id
+    GET  /premium/status/{device_id} — is this email premium (on any device), until when
+    POST /premium/restore            — re-link an email's premium to a new device_id (no limit)
     POST /premium/google/verify      — verify a Google Play subscription token, activate premium
     DELETE /premium/reset/{email}    — TESTING ONLY: wipe an email's premium record
     GET  /auth/google/start          — get a Google sign-in URL + session_id
@@ -418,10 +418,9 @@ async def premium_restore_route(
     req: Request,
     x_app_secret: str = Header(default=""),
 ):
-    """One-time-per-email restore: re-links an email's existing premium
-    purchase to whatever device_id is asking. Meant for the case where
-    a reinstall regenerated the device's fallback UUID and orphaned a
-    paying user's premium — see premium.py for the full identity model."""
+    """Re-links an email's existing premium purchase to whatever device_id
+    is asking, with no limit. Premium follows the signed-in email, so this
+    is no longer needed to unlock a new device; see premium.py."""
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
     return await premium.premium_restore(payload, rid)
@@ -436,7 +435,7 @@ async def premium_google_verify_route(
 ):
     """Google Play Billing: the app sends the purchase token Google gave it;
     we verify it with the Google Play Developer API and activate premium.
-    See premium_google.py for the full contract (200/202/400/403/409/503)."""
+    See premium_google.py for the full contract (200/202/400/409/503)."""
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
     # Premium is granted to this email, so the caller must be signed in as it.
