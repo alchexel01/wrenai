@@ -39,7 +39,7 @@ Endpoints (wired into main.py):
     POST   /premium/initialize        — start a Paystack transaction, get checkout URL
     GET    /premium/verify/{reference}— confirm a transaction, activate premium on success
     GET    /premium/status/{device_id}— is this device currently premium, until when
-    POST   /premium/restore           — one-time: re-link an email's premium to a new device_id
+    POST   /premium/restore           — re-link an email's premium to a new device_id (no limit)
     POST   /premium/google/verify     — Google Play subscription -> premium (see premium_google.py)
     DELETE /premium/reset/{email}     — TESTING ONLY: wipe an email's premium record entirely
 
@@ -412,14 +412,15 @@ async def premium_verify(reference, rid, caller_email=None, caller_device_id=Non
     caller_device_id = (caller_device_id or "").strip()
     if caller_email and caller_email != email:
         return StatusResponse(is_premium=False)
-    if caller_device_id and (not row or caller_device_id != row["device_id"]):
+    if not caller_email and caller_device_id and (not row or caller_device_id != row["device_id"]):
         return StatusResponse(is_premium=False)
     return StatusResponse(is_premium=True, expires_at=expires.isoformat(), email=email)
 
 
 async def premium_status(device_id, rid, email=None):
-    """Premium is a property of (email, device): the signed-in account must
-    own an active purchase AND that purchase must be linked to this device.
+    """Premium is a property of the EMAIL. Any device signed in as an email
+    with an active purchase is premium, with no device link and no restore
+    step. device_id is still required (and validated) but is not matched.
 
     The old lookup matched on device_id alone, so ANY account signing in on
     a device that had a paid row was treated as premium, and when several
@@ -439,7 +440,7 @@ async def premium_status(device_id, rid, email=None):
         if email:
             row = await conn.fetchrow(
                 "SELECT email, expires_at FROM premium_subscriptions "
-                "WHERE email = $1 AND device_id = $2", email, device_id)
+                "WHERE email = $1", email)
         elif STATUS_REQUIRES_EMAIL:
             return StatusResponse(is_premium=False)
         else:
@@ -482,7 +483,7 @@ async def premium_restore(payload, rid):
 
     async with _pool.acquire() as conn:
         row = await conn.fetchrow(
-            "SELECT expires_at, restore_used FROM premium_subscriptions WHERE email = $1", email)
+            "SELECT expires_at FROM premium_subscriptions WHERE email = $1", email)
         if not row:
             log.info(f"[{rid}] /premium/restore: email={email} - no premium record found")
             raise HTTPException(status_code=404,
@@ -494,13 +495,8 @@ async def premium_restore(payload, rid):
             raise HTTPException(status_code=410,
                                  detail={"error": "premium for this email has already expired", "request_id": rid})
 
-        if row["restore_used"]:
-            log.info(f"[{rid}] /premium/restore: email={email} - restore already used")
-            raise HTTPException(status_code=409,
-                                 detail={"error": "restore already used - contact support", "request_id": rid})
-
         await conn.execute(
-            "UPDATE premium_subscriptions SET device_id = $2, restore_used = TRUE WHERE email = $1",
+            "UPDATE premium_subscriptions SET device_id = $2 WHERE email = $1",
             email, device_id,
         )
         expires_at = row["expires_at"]
