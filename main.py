@@ -63,6 +63,7 @@ import chat_history
 import textbooks_api
 import scholarships
 import news
+import usage
 
 app = FastAPI(title="Wren Syllabus Backend", version="1.0")
 
@@ -73,6 +74,7 @@ async def _startup():
     await chat_history.init_db()
     await auth.init_db()
     await auth_email.init_tables()
+    await usage.init_db()
 
 
 @app.on_event("shutdown")
@@ -80,6 +82,7 @@ async def _shutdown():
     await premium.close_db()
     await chat_history.close_db()
     await auth.close_db()
+    await usage.close_db()
 
 # ── Error / crash logging ────────────────────────────────────────────────
 # Every request gets a short request_id. It's included in:
@@ -609,8 +612,86 @@ async def chats_delete_all_route(
     return await chat_history.chats_delete_all(email, rid)
 
 
+# ── Server-side token budgets (see usage.py) ─────────────────────────────
+# The app's own counter is only a display copy. The real balance lives in
+# usage.py, is charged from Groq's real usage numbers as each reply streams
+# through /chat, and is enforced here before anything is forwarded.
+_PREMIUM_CACHE: dict = {}          # email -> (expires_at, is_premium)
+_PREMIUM_CACHE_TTL = 60.0
+
+
+async def _is_premium_cached(email: str, device_id: str, rid: str) -> bool:
+    now = time.time()
+    hit = _PREMIUM_CACHE.get(email)
+    if hit and hit[0] > now:
+        return hit[1]
+    try:
+        res = await premium.premium_status(device_id, rid, email=email)
+        val = bool(res.is_premium)
+    except Exception as e:
+        # Never cut off a paying customer because a status lookup hiccuped:
+        # reuse the last known answer, otherwise let the request through.
+        log.error(f"[{rid}] premium lookup failed for usage gate: {e!r}")
+        return bool(hit[1]) if hit else True
+    _PREMIUM_CACHE[email] = (now + _PREMIUM_CACHE_TTL, val)
+    return val
+
+
+async def _usage_identity(email: str, token: str, device_id: str, rid: str):
+    """-> (user_key, email_or_empty, is_premium). Signed-in users are keyed by
+    their verified email, so reinstalling or clearing app data can't reset
+    their allowance."""
+    email = (email or "").strip().lower()
+    if email and token:
+        auth.require_user(email, token, rid)          # 401s if token doesn't match
+        return f"u:{email}", email, await _is_premium_cached(email, device_id, rid)
+    if usage.require_signin():
+        raise HTTPException(status_code=401,
+                            detail={"error": "sign in required", "request_id": rid})
+    dev = (device_id or "").strip()[:64] or "unknown"
+    return f"d:{dev}", "", False
+
+
+def _usage_headers(snap: dict) -> dict:
+    if snap.get("unlimited"):
+        return {"X-Usage-Unlimited": "1"}
+    return {
+        "X-Usage-Pool": snap["pool"],
+        "X-Usage-Shown-Used": str(snap["shown_used"]),
+        "X-Usage-Shown-Limit": str(snap["shown_limit"]),
+        "X-Usage-Reset-In": str(snap["reset_in"]),
+    }
+
+
+@app.get("/usage/me")
+async def usage_me(
+    req: Request,
+    pool: str = "chat",
+    device_id: str = "",
+    x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
+    x_user_email: str = Header(default=""),
+):
+    """The app calls this after every reply and on start-up to refresh its
+    display. Returns only SCALED numbers; real limits never leave the server."""
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    user_key, _email, is_prem = await _usage_identity(x_user_email, x_auth_token, device_id, rid)
+    snap = await usage.snapshot(user_key, pool, is_prem)
+    return {**usage.public(snap), "is_premium": is_prem}
+
+
+
 @app.post("/chat")
-async def chat(request: dict, req: Request, x_app_secret: str = Header(default="")):
+async def chat(
+    request: dict,
+    req: Request,
+    x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
+    x_user_email: str = Header(default=""),
+    x_device_id: str = Header(default=""),
+    x_usage_pool: str = Header(default="chat"),
+):
     """Forwards the app's chat-completion body to Groq, attaching the
     real Groq key server-side.
 
@@ -636,6 +717,21 @@ async def chat(request: dict, req: Request, x_app_secret: str = Header(default="
     is_streaming_req = bool(request.get("stream"))
     model = request.get("model", "?")
     log.info(f"[{rid}] /chat: model={model} stream={is_streaming_req}")
+
+    # ── Server-side allowance gate (real numbers, never trusts the app) ──
+    user_key, _email, is_prem = await _usage_identity(x_user_email, x_auth_token, x_device_id, rid)
+    pool_req = "study" if (x_usage_pool or "").strip().lower() == "study" else "chat"
+    snap = await usage.snapshot(user_key, pool_req, is_prem)
+    if snap.get("exhausted"):
+        log.info(f"[{rid}] /chat: {user_key} pool={snap['pool']} exhausted "
+                 f"(real {snap['_real_used']}/{snap['_real_limit']})")
+        raise HTTPException(
+            status_code=402,
+            detail={"error": "usage_limit_reached", "pool": snap["pool"],
+                    "reset_in": snap["reset_in"], "request_id": rid},
+            headers=_usage_headers(snap),
+        )
+
 
     # Try every key in the pool before giving up. A key that's rate
     # limited or rejected gets cooled down and we instantly move to the
@@ -706,13 +802,16 @@ async def chat(request: dict, req: Request, x_app_secret: str = Header(default="
         if attempt > 1:
             log.info(f"[{rid}] /chat: succeeded on key #{attempt}/{attempts} after failover")
 
-        async def _stream(client=client, upstream=upstream):
+        tap = usage.UsageTap(request)
+
+        async def _stream(client=client, upstream=upstream, tap=tap):
             chunk_count = 0
             byte_count = 0
             try:
                 async for chunk in upstream.aiter_bytes():
                     chunk_count += 1
                     byte_count += len(chunk)
+                    tap.feed(chunk)
                     yield chunk
             except Exception as e:
                 # A failure mid-stream (Groq connection dropped, read
@@ -729,6 +828,12 @@ async def chat(request: dict, req: Request, x_app_secret: str = Header(default="
                 )
             finally:
                 log.info(f"[{rid}] /chat: stream finished — {chunk_count} chunks, {byte_count} bytes")
+                # Charge the REAL tokens Groq reported (or a conservative
+                # estimate). Done as its own task so it still lands if the
+                # phone disconnects mid-reply.
+                if chunk_count:
+                    asyncio.create_task(
+                        usage.charge(user_key, pool_req, is_prem, tap.total()))
                 await upstream.aclose()
                 await client.aclose()
 
@@ -736,7 +841,7 @@ async def chat(request: dict, req: Request, x_app_secret: str = Header(default="
             _stream(),
             status_code=200,
             media_type=upstream.headers.get("content-type", "text/event-stream"),
-            headers={"X-Request-ID": rid},
+            headers={"X-Request-ID": rid, **_usage_headers(snap)},
         )
 
     # Every key in the pool failed.
