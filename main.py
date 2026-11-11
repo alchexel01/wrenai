@@ -30,6 +30,8 @@ Endpoints:
     GET  /chats/{email}              — fetch every chat saved for an email
     DELETE /chats/{email}/{chat_id}  — delete one chat
     DELETE /chats/{email}            — delete every chat for an email
+    POST /feedback                   — thumbs up/down on an AI reply
+    GET  /admin/feedback             — read feedback (needs admin key)
     POST /chat                       — proxies to Groq chat completions
     POST /transcribe                 — proxies to Groq Whisper transcription
     GET  /model/{key}                — streams an offline model file from HF
@@ -64,6 +66,7 @@ import textbooks_api
 import scholarships
 import news
 import usage
+import feedback
 
 app = FastAPI(title="Wren Syllabus Backend", version="1.0")
 
@@ -71,6 +74,7 @@ app = FastAPI(title="Wren Syllabus Backend", version="1.0")
 @app.on_event("startup")
 async def _startup():
     await premium.init_db()
+    await feedback.init_db()          # re-uses premium's DB pool
     await chat_history.init_db()
     await auth.init_db()
     await auth_email.init_tables()
@@ -609,6 +613,41 @@ async def chats_delete_all_route(
     _check_app_secret(x_app_secret, rid)
     auth.require_user(email, x_auth_token, rid)
     return await chat_history.chats_delete_all(email, rid)
+
+
+# ── Feedback on AI replies (thumbs up / down) ────────────────────────────
+@app.post("/feedback", response_model=feedback.FeedbackOk)
+async def feedback_route(
+    payload: feedback.FeedbackRequest,
+    req: Request,
+    x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
+    x_user_email: str = Header(default=""),
+    x_device_id: str = Header(default=""),
+):
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    email = (x_user_email or "").strip().lower()
+    if email and x_auth_token:
+        auth.require_user(email, x_auth_token, rid)   # 401s if token != email
+        user_key = f"u:{email}"
+    else:
+        email = ""
+        user_key = f"d:{(x_device_id or '').strip()[:64] or 'unknown'}"
+    return await feedback.feedback_save(payload, user_key, email, rid)
+
+
+@app.get("/admin/feedback")
+async def admin_feedback(
+    rating: str = "",
+    reason: str = "",
+    limit: int = 50,
+    x_admin_key: str = Header(default=""),
+):
+    """Read what users sent. e.g. /admin/feedback?rating=down&limit=20"""
+    if not ADMIN_KEY or x_admin_key != ADMIN_KEY:
+        raise HTTPException(status_code=401, detail="invalid or missing admin key")
+    return await feedback.feedback_list(rating, reason, limit)
 
 
 # ── Server-side token budgets (see usage.py) ─────────────────────────────
