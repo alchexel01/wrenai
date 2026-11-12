@@ -432,10 +432,14 @@ async def premium_status(device_id, rid, email=None):
     device_id = (device_id or "").strip()
     if not device_id:
         raise HTTPException(status_code=400, detail={"error": "device_id is required", "request_id": rid})
-    if not _device_id_ok(device_id):
+    email = _normalize_email(email)
+    # Premium is looked up by EMAIL; device_id is not matched when an email is
+    # given. So a blank/placeholder device id (emulators, Play review devices)
+    # must not block a signed-in email. Only the legacy device-only lookup
+    # below needs a trustworthy device id.
+    if not email and not _device_id_ok(device_id):
         return StatusResponse(is_premium=False)
 
-    email = _normalize_email(email)
     async with _pool.acquire() as conn:
         if email:
             row = await conn.fetchrow(
