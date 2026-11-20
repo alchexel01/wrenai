@@ -39,6 +39,8 @@ Endpoints:
     GET  /scholarships/{id}          — one scholarship
     GET  /news                       — news and updates from the repo's news/ folder
     GET  /news/{id}                  — one news item
+    GET  /past-questions/papers      — which subjects/years have past questions loaded
+    GET  /past-questions             — questions for one paper (?subject=&year=&limit=&offset=&shuffle=)
 
 See README.md for deployment and how AI.py should call this.
 """
@@ -65,6 +67,7 @@ import chat_history
 import textbooks_api
 import scholarships
 import news
+import past_questions
 import usage
 import feedback
 
@@ -1113,3 +1116,24 @@ def get_news_item(item_id: str, req: Request,
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
     return news.get_news_item(item_id, rid)
+
+
+# ── Past Questions ───────────────────────────────────────────────────────
+# Same design as scholarships/news: backing logic lives in past_questions.py,
+# data lives in past_questions_data/<subject>_<year>.json in the repo (made
+# offline by tools/parse_questions.py). Add a JSON file, push, Render
+# redeploys, the paper appears. See past_questions.py's docstring.
+@app.get("/past-questions/papers", response_model=past_questions.PapersResponse)
+def get_past_question_papers(req: Request, x_app_secret: str = Header(default="")):
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    return past_questions.list_papers()
+
+
+@app.get("/past-questions", response_model=past_questions.QuestionsResponse)
+def get_past_questions(req: Request, subject: str, year: int,
+                       limit: int = 60, offset: int = 0, shuffle: bool = False,
+                       x_app_secret: str = Header(default="")):
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    return past_questions.get_questions(subject, year, limit, offset, shuffle, rid)
