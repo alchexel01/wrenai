@@ -1,221 +1,126 @@
 """
-parse_questions.py  -  run ONCE on your PC, not on Render.
-=============================================================
-Turns the text your AI extracted from a past-question PDF into the JSON
-files the backend serves (one file per year).
+Past Questions
+==============
+Serves past exam questions (JAMB etc.) from JSON files that live in the
+repo, so new papers can be added without shipping a new APK. Same design
+as scholarships.py / news.py: plain module here, thin routes in main.py.
 
-Put this file at:  tools/parse_questions.py   (in the backend repo root)
+Folder convention (next to main.py):
 
-It expects the text to follow the extraction prompt:
+    past_questions_data/
+        physics_2019.json
+        chemistry_2020.json
+        use_of_english_2018.json      <- spaces in a subject become "_"
+        raw/                           <- OCR .txt files (git-ignored)
 
-    YEAR: 1983                      <- starts each year's paper
-    1. Question text...
-    [IMAGE]                         <- diagram sits between question and option A
-    A. option
-    B. option
-    ...
-    ANSWER KEY                      <- optional, after the questions of that year
-    1. B
-    2. C
+Each JSON file is a list of questions produced by tools/parse_questions.py:
 
-    YEAR: 1984
-    1. ...
+    {
+      "id": "physics-2019-14",
+      "subject": "physics",
+      "year": 2019,
+      "number": 14,
+      "question": "The graph ...",
+      "options": {"A": "...", "B": "...", "C": "...", "D": "..."},
+      "answer": "B",
+      "has_diagram": false,
+      "image": null
+    }
 
-If the whole file is ONE paper with no YEAR lines, pass --year 2019.
-
-Run from the repo ROOT (the folder that contains main.py):
-
-    python tools/parse_questions.py physics past_questions_data/raw/physics.txt
-    python tools/parse_questions.py physics past_questions_data/raw/physics.txt --year 2019
-    python tools/parse_questions.py physics past_questions_data/raw/physics.txt --key past_questions_data/raw/physics_key.txt
-
---key is only needed when answers are in a separate file. That file can use
-the same "YEAR: 1983" headings, or be a single year together with --year.
-
-Output:  past_questions_data/physics_1983.json, physics_1984.json, ...
-
-After it runs, read the report it prints. Every line starting with CHECK is
-something to fix by hand in the JSON (or in the raw text, then re-run).
+To add a paper: run the parser, commit the new .json, push. Render
+redeploys and the new paper shows up in /past-questions/papers.
 """
 
-import argparse
 import json
+import logging
 import pathlib
+import random
 import re
+from typing import Optional
 
-OUT_DIR = pathlib.Path("past_questions_data")
+from fastapi import HTTPException
+from pydantic import BaseModel
 
-IMG = "[IMAGE]"
-UNCLEAR = "[UNCLEAR]"
+log = logging.getLogger("wren-backend")
 
-YEAR_RE = re.compile(r"(?im)^[ \t]*YEAR[ \t]*[:\-]?[ \t]*((?:19|20)\d{2})\b.*$")
-KEY_RE = re.compile(r"(?im)^[ \t]*ANSWER[ \t]*KEYS?\b.*$")
-NUM_RE = re.compile(r"(?m)^[ \t]*(\d{1,3})[.)][ \t]+")
-OPT_RE = re.compile(r"(?m)^[ \t]*\(?([A-E])[.)](?:[ \t]+|[ \t]*$)")
+DATA_DIR = pathlib.Path(__file__).parent / "past_questions_data"
 
-
-def slug(subject: str) -> str:
-    return re.sub(r"[^a-z0-9]+", "_", subject.lower()).strip("_")
+# path -> (mtime, questions). Files are small; this just avoids re-parsing
+# the same JSON on every request while still picking up a redeploy.
+_CACHE: dict = {}
 
 
-def clean(s: str) -> str:
-    return " ".join(s.split())
+class PastQuestion(BaseModel):
+    id: str
+    subject: str
+    year: int
+    number: int
+    question: str
+    options: dict[str, str]
+    answer: Optional[str] = None
+    has_diagram: bool = False
+    options_are_images: bool = False
+    image: Optional[str] = None
 
 
-# ── splitting the file ───────────────────────────────────────────────────
-def split_years(text: str, default_year):
-    """-> {year: text}. Sections with the same YEAR line are joined, so a
-    repeated page header does not break a paper in two."""
-    marks = list(YEAR_RE.finditer(text))
-    if not marks:
-        return {default_year: text} if default_year else {}
-    out = {}
-    for i, m in enumerate(marks):
-        end = marks[i + 1].start() if i + 1 < len(marks) else len(text)
-        out.setdefault(int(m.group(1)), "")
-        out[int(m.group(1))] += "\n" + text[m.end():end]
-    return out
+class PapersResponse(BaseModel):
+    # {"physics": [2018, 2019], "chemistry": [2020]}
+    papers: dict[str, list[int]]
 
 
-def split_questions(text: str):
-    """Split on lines that start with '12.' or '12)'. A candidate is accepted
-    only if its number is larger than the last one and at most 3 ahead, so a
-    stray '2. 5 m' inside an option is not mistaken for a new question."""
-    starts = []
-    last = 0
-    for m in NUM_RE.finditer(text):
-        n = int(m.group(1))
-        if last < n <= last + 3:
-            starts.append((n, m.start(), m.end()))
-            last = n
-    blocks = []
-    for i, (n, _s, body_start) in enumerate(starts):
-        end = starts[i + 1][1] if i + 1 < len(starts) else len(text)
-        blocks.append((n, text[body_start:end]))
-    return blocks
+class QuestionsResponse(BaseModel):
+    subject: str
+    year: int
+    total: int
+    questions: list[PastQuestion]
 
 
-# ── parsing one year ─────────────────────────────────────────────────────
-def parse_year(text: str, subject: str, year: int, notes: list):
-    km = KEY_RE.search(text)
-    body, key_text = (text[:km.start()], text[km.end():]) if km else (text, "")
-
-    questions = []
-    for num, block in split_questions(body.replace("\r", "")):
-        pieces = OPT_RE.split(block)
-        stem = pieces[0]
-        options = {}
-        for j in range(1, len(pieces) - 1, 2):
-            letter = pieces[j]
-            if letter not in options:          # keep the first one if OCR repeats a letter
-                options[letter] = clean(pieces[j + 1])
-
-        # [IMAGE] belongs between the question and option A. If it landed at
-        # the end of the last option instead, move it back to the question.
-        has_diagram = IMG in stem
-        if options:
-            last_letter = list(options)[-1]
-            v = options[last_letter]
-            if v != IMG and v.endswith(IMG):
-                options[last_letter] = clean(v[: -len(IMG)])
-                has_diagram = True
-                notes.append((year, num, "[IMAGE] was after the options; treated as a diagram"))
-        stem = clean(stem.replace(IMG, " "))
-        options_are_images = any(v == IMG for v in options.values())
-
-        questions.append({
-            "id": f"{slug(subject).replace('_', '-')}-{year}-{num}",
-            "subject": slug(subject),
-            "year": year,
-            "number": num,
-            "question": stem,
-            "options": options,
-            "answer": None,
-            "has_diagram": has_diagram,
-            "options_are_images": options_are_images,
-            "image": None,
-        })
-    return questions, key_text
+def _slug(subject: str) -> str:
+    """'Use of English' -> 'use_of_english'. Also blocks path tricks like '../'."""
+    return re.sub(r"[^a-z0-9]+", "_", (subject or "").lower()).strip("_")
 
 
-def read_key(key_text: str) -> dict:
-    key = {}
-    for n, a in re.findall(r"(\d{1,3})\s*[.\-):]?\s*([A-Ea-e])\b", key_text):
-        key.setdefault(int(n), a.upper())
-    return key
+def _load(subject: str, year: int) -> list:
+    slug = _slug(subject)
+    path = DATA_DIR / f"{slug}_{year}.json"
+    if not slug or not path.is_file():
+        return []
+    mtime = path.stat().st_mtime
+    hit = _CACHE.get(str(path))
+    if hit and hit[0] == mtime:
+        return hit[1]
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as e:
+        log.error(f"past_questions: could not read {path.name}: {e!r}")
+        return []
+    _CACHE[str(path)] = (mtime, data)
+    return data
 
 
-# ── checks ───────────────────────────────────────────────────────────────
-def check(questions):
-    bad = []
-    for q in questions:
-        p = []
-        n_opts = len(q["options"])
-        if n_opts not in (4, 5):
-            p.append(f"{n_opts} options")
-        elif list(q["options"]) != list("ABCDE")[:n_opts]:
-            p.append(f"options out of order: {''.join(q['options'])}")
-        if not q["answer"]:
-            p.append("no answer")
-        elif q["answer"] not in q["options"]:
-            p.append("answer not in options")
-        if not q["question"]:
-            p.append("empty question")
-        if UNCLEAR in q["question"] or any(UNCLEAR in v for v in q["options"].values()):
-            p.append("contains [UNCLEAR]")
-        if not q["has_diagram"] and re.search(r"\bFig(ure)?\.?\s*\d|diagram shown|shown below", q["question"], re.I):
-            p.append("mentions a figure but no [IMAGE]")
-        if p:
-            bad.append((q["number"], p))
-    return bad
+def list_papers() -> PapersResponse:
+    papers: dict[str, list[int]] = {}
+    if DATA_DIR.is_dir():
+        for f in sorted(DATA_DIR.glob("*.json")):
+            subject, _, year = f.stem.rpartition("_")
+            if subject and year.isdigit():
+                papers.setdefault(subject, []).append(int(year))
+    for years in papers.values():
+        years.sort(reverse=True)
+    return PapersResponse(papers=papers)
 
 
-# ── main ─────────────────────────────────────────────────────────────────
-def main():
-    ap = argparse.ArgumentParser(description="Convert extracted exam text to JSON, one file per year.")
-    ap.add_argument("subject")
-    ap.add_argument("text_file")
-    ap.add_argument("--year", type=int, help="use when the file has no 'YEAR: xxxx' lines")
-    ap.add_argument("--key", help="separate answer-key file (optional)")
-    args = ap.parse_args()
-
-    text = pathlib.Path(args.text_file).read_text(encoding="utf-8")
-    sections = split_years(text, args.year)
-    if not sections:
-        raise SystemExit("No 'YEAR: xxxx' lines found. Add them, or pass --year 2019.")
-
-    key_by_year = {}
-    if args.key:
-        ktext = pathlib.Path(args.key).read_text(encoding="utf-8")
-        for y, t in split_years(ktext, args.year).items():
-            key_by_year[y] = read_key(t)
-
-    OUT_DIR.mkdir(exist_ok=True)
-    total = 0
-    for year in sorted(sections):
-        notes = []
-        qs, inline_key_text = parse_year(sections[year], args.subject, year, notes)
-        key = read_key(inline_key_text)
-        key.update(key_by_year.get(year, {}))
-        for q in qs:
-            q["answer"] = key.get(q["number"])
-
-        out = OUT_DIR / f"{slug(args.subject)}_{year}.json"
-        out.write_text(json.dumps(qs, indent=1, ensure_ascii=False), encoding="utf-8")
-        total += len(qs)
-
-        nums = [q["number"] for q in qs]
-        imgs = sum(q["has_diagram"] or q["options_are_images"] for q in qs)
-        print(f"{year}: {len(qs)} questions, {imgs} with diagrams -> {out}")
-        missing = [n for n in range(1, (max(nums) if nums else 0) + 1) if n not in nums]
-        if missing:
-            print(f"  CHECK missing question numbers: {missing}")
-        for num, why in notes:
-            print(f"  NOTE Q{num}: {why}")
-        for num, probs in check(qs):
-            print(f"  CHECK Q{num}: {', '.join(probs)}")
-    print(f"\nDone: {total} questions across {len(sections)} year(s).")
-
-
-if __name__ == "__main__":
-    main()
+def get_questions(subject: str, year: int, limit: int, offset: int,
+                  shuffle: bool, rid: str) -> QuestionsResponse:
+    qs = _load(subject, year)
+    if not qs:
+        log.warning(f"[{rid}] /past-questions: no paper for {subject!r} {year}")
+        raise HTTPException(status_code=404,
+                            detail={"error": "paper not found", "request_id": rid})
+    qs = list(qs)
+    if shuffle:
+        random.shuffle(qs)
+    limit = max(1, min(limit, 200))
+    offset = max(0, offset)
+    return QuestionsResponse(subject=_slug(subject), year=year, total=len(qs),
+                             questions=qs[offset:offset + limit])
