@@ -33,7 +33,10 @@ WHAT MAKES THIS VERSION FASTER
    needed), and any older queued prefetch for that book is dropped.
 6. Rendered images are capped at 1000 px wide, so huge PDF page sizes no
    longer produce huge, slow images.
-7. The first pages of every book are pre-rendered automatically a few seconds
+7. As soon as a book is opened, EVERY page of it is rendered in the background,
+   nearest pages first, re-targeting whenever the student jumps. Students'
+   own requests always take priority over this background work.
+8. The first pages of every book are pre-rendered automatically a few seconds
    after the server starts. No change to main.py is needed.
 
 Install: pip install pymupdf   (add to requirements.txt)
@@ -74,6 +77,12 @@ PREFETCH_BEHIND = int(os.environ.get("TEXTBOOKS_PREFETCH_BEHIND", "1"))
 
 # Pre-render the first pages of every book shortly after the server starts.
 # Runs by itself on import, so main.py does not need to call anything.
+# Render EVERY page of a book in the background as soon as anyone opens it,
+# starting with the pages closest to the one being read. Stops if nobody has
+# asked for that book for FULL_BOOK_IDLE_STOP seconds.
+FULL_BOOK = os.environ.get("TEXTBOOKS_PRERENDER_BOOK", "1") == "1"
+FULL_BOOK_IDLE_STOP = float(os.environ.get("TEXTBOOKS_PRERENDER_IDLE_STOP", "900"))
+
 AUTO_WARMUP = os.environ.get("TEXTBOOKS_AUTO_WARMUP", "1") == "1"
 AUTO_WARMUP_PAGES = int(os.environ.get("TEXTBOOKS_AUTO_WARMUP_PAGES", "1"))
 AUTO_WARMUP_DELAY = float(os.environ.get("TEXTBOOKS_AUTO_WARMUP_DELAY", "5"))
@@ -105,6 +114,18 @@ def _log(msg: str):
 # When a student last asked for a page. Background warm-up pauses while a
 # student is actively reading so it never competes with them for the CPU.
 _activity = {"t": 0.0}
+
+# Students always go first: background renders wait while any student
+# request is waiting for the render lock (Python locks are not fair, so
+# without this a busy background loop could starve a real request).
+_waiting = {"n": 0}
+_waiting_guard = threading.Lock()
+
+# Whole-book pre-rendering jobs (one per book at a time).
+_book_pool = ThreadPoolExecutor(max_workers=2, thread_name_prefix="tb-book")
+_book_jobs = set()
+_book_jobs_guard = threading.Lock()
+_book_last_request = {}  # book_id -> monotonic time of last student request
 
 
 class TextbookNotFound(Exception):
@@ -241,8 +262,20 @@ def _render_page(meta: dict, book_id: str, page: int, source: str = "user") -> P
     dest.parent.mkdir(parents=True, exist_ok=True)
     tmp = dest.with_name(f"{dest.stem}.{threading.get_ident()}.tmp")
 
+    counted = False
+    if source == "user":
+        with _waiting_guard:
+            _waiting["n"] += 1
+        counted = True
+    else:
+        while _waiting["n"] > 0:
+            time.sleep(0.05)
+
     t0 = time.perf_counter()
     with _render_lock:
+        if counted:
+            with _waiting_guard:
+                _waiting["n"] -= 1
         t_locked = time.perf_counter()
         # A concurrent request may have rendered it while we waited.
         if dest.exists():
@@ -344,6 +377,45 @@ def _prefetch(book_id: str, origin, pages):
                 _prefetch_inflight.discard(key)
 
 
+def _prerender_book(book_id: str):
+    """Background job: renders every page of the book, always picking the
+    missing page nearest to where the student currently is (looking a bit
+    further ahead than behind). Re-checks the student's position before
+    every page, so jumping to page 135 immediately re-targets pages 135+."""
+    try:
+        meta = _scan_books().get(book_id)
+        if not meta:
+            return
+        total = _page_count(meta["path"])
+        t_start = time.monotonic()
+        _log(f"book {book_id[:6]}: pre-rendering all {total} pages")
+        while True:
+            if time.monotonic() - _book_last_request.get(book_id, 0) > FULL_BOOK_IDLE_STOP:
+                _log(f"book {book_id[:6]}: idle, pre-render paused")
+                return
+            try:
+                have = {int(n[5:-4]) for n in os.listdir(CACHE_DIR / book_id)
+                        if n.startswith("page_") and n.endswith(".jpg")}
+            except FileNotFoundError:
+                have = set()
+            missing = [p for p in range(1, total + 1) if p not in have]
+            if not missing:
+                _log(f"book {book_id[:6]}: all {total} pages ready "
+                     f"({time.monotonic() - t_start:.0f}s)")
+                return
+            center = _latest_request.get(book_id, 1)
+            nxt = min(missing, key=lambda x: (x - center) if x >= center else (center - x) * 1.5)
+            try:
+                _render_page(meta, book_id, nxt, "book")
+            except PageOutOfRange:
+                return
+            except Exception:
+                return
+    finally:
+        with _book_jobs_guard:
+            _book_jobs.discard(book_id)
+
+
 def get_page_path(book_id: str, page: int) -> Path:
     """Returns the local path to `page` (1-indexed) of the given textbook,
     rendering and caching it first if needed. Raises TextbookNotFound /
@@ -367,8 +439,21 @@ def get_page_path(book_id: str, page: int) -> Path:
     else:
         _log(f"user {book_id[:6]} p{page}: served after {time.perf_counter() - t_req:.2f}s")
 
-    # Warm nearby pages in the background: forward first, then a few back.
     _latest_request[book_id] = page
+    _book_last_request[book_id] = time.monotonic()
+    if FULL_BOOK:
+        with _book_jobs_guard:
+            start_job = book_id not in _book_jobs
+            if start_job:
+                _book_jobs.add(book_id)
+        if start_job:
+            try:
+                _book_pool.submit(_prerender_book, book_id)
+            except RuntimeError:
+                with _book_jobs_guard:
+                    _book_jobs.discard(book_id)
+
+    # Warm nearby pages in the background: forward first, then a few back.
     targets = [page + i for i in range(1, PREFETCH_PAGES + 1)]
     targets += [page - i for i in range(1, PREFETCH_BEHIND + 1) if page - i >= 1]
     targets = [p for p in targets if not _page_dest(book_id, p).exists()]
