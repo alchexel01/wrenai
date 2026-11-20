@@ -27,11 +27,14 @@ WHAT MAKES THIS VERSION FASTER
    re-parsing the whole PDF for every single page.
 4. Pages are rendered as smaller JPEGs (lower DPI and quality), which also
    means less data to download on a phone.
-5. The next 4 pages after whatever page was requested are rendered in the
-   background, so page turns are usually cache hits. Jumping straight to
-   page 190 renders page 190 immediately (nothing before it is needed),
-   then prefetches 191 to 194.
-6. warm_up() can pre-render the first pages of every book at startup.
+5. The next 4 pages (and 1 page back) around whatever page was requested are
+   rendered in the background, so page turns are usually cache hits. Jumping
+   straight to page 190 renders page 190 immediately (nothing before it is
+   needed), and any older queued prefetch for that book is dropped.
+6. Rendered images are capped at 1000 px wide, so huge PDF page sizes no
+   longer produce huge, slow images.
+7. The first pages of every book are pre-rendered automatically a few seconds
+   after the server starts. No change to main.py is needed.
 
 Install: pip install pymupdf   (add to requirements.txt)
 """
@@ -60,6 +63,20 @@ JPEG_QUALITY = int(os.environ.get("TEXTBOOKS_JPEG_QUALITY", "72"))
 INDEX_TTL = float(os.environ.get("TEXTBOOKS_INDEX_TTL", "60"))   # seconds
 PREFETCH_PAGES = int(os.environ.get("TEXTBOOKS_PREFETCH_PAGES", "4"))
 MAX_OPEN_DOCS = int(os.environ.get("TEXTBOOKS_MAX_OPEN_DOCS", "4"))
+
+# Hard cap on rendered image width. Some PDFs have huge page sizes (A3, scans),
+# and rendering those at 110 DPI makes giant, slow images. Phones never need
+# more than about 1000 px of width.
+MAX_WIDTH_PX = int(os.environ.get("TEXTBOOKS_MAX_WIDTH_PX", "1000"))
+
+# Also prepare this many pages BEFORE the current one (for swiping back).
+PREFETCH_BEHIND = int(os.environ.get("TEXTBOOKS_PREFETCH_BEHIND", "1"))
+
+# Pre-render the first pages of every book shortly after the server starts.
+# Runs by itself on import, so main.py does not need to call anything.
+AUTO_WARMUP = os.environ.get("TEXTBOOKS_AUTO_WARMUP", "1") == "1"
+AUTO_WARMUP_PAGES = int(os.environ.get("TEXTBOOKS_AUTO_WARMUP_PAGES", "2"))
+AUTO_WARMUP_DELAY = float(os.environ.get("TEXTBOOKS_AUTO_WARMUP_DELAY", "5"))
 
 TEXTBOOKS_DIR.mkdir(parents=True, exist_ok=True)
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
@@ -211,7 +228,12 @@ def _render_page(meta: dict, book_id: str, page: int) -> Path:
             if page < 1 or page > doc.page_count:
                 raise PageOutOfRange(page)
             # alpha=False skips the transparency channel (smaller, faster).
-            pix = doc[page - 1].get_pixmap(dpi=RENDER_DPI, alpha=False)
+            pg = doc[page - 1]
+            zoom = RENDER_DPI / 72.0
+            if pg.rect.width * zoom > MAX_WIDTH_PX:
+                zoom = MAX_WIDTH_PX / pg.rect.width
+            pix = pg.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom),
+                                alpha=False)
             try:
                 data = pix.tobytes("jpeg", jpg_quality=JPEG_QUALITY)
             except TypeError:  # very old PyMuPDF without jpg_quality
@@ -239,14 +261,22 @@ def _render_page(meta: dict, book_id: str, page: int) -> Path:
     return dest
 
 
-def _prefetch(book_id: str, start: int, count: int):
+_latest_request = {}  # book_id -> page most recently requested
+
+
+def _prefetch(book_id: str, origin, pages):
+    """Renders `pages` of a book in the background, best effort. If the
+    student jumps elsewhere in the same book (origin changes), the rest of
+    this batch is dropped so it never delays the page they actually want."""
     meta = _scan_books().get(book_id)
     if not meta:
         return
-    for p in range(start, start + count):
-        key = (book_id, p)
+    for p in pages:
+        if origin is not None and _latest_request.get(book_id) != origin:
+            return
         if _page_dest(book_id, p).exists():
             continue
+        key = (book_id, p)
         with _prefetch_guard:
             if key in _prefetch_inflight:
                 continue
@@ -254,7 +284,7 @@ def _prefetch(book_id: str, start: int, count: int):
         try:
             _render_page(meta, book_id, p)
         except PageOutOfRange:
-            return  # reached the end of the book
+            continue  # e.g. past the last page
         except Exception:
             return  # prefetch is best effort, never raise
         finally:
@@ -278,22 +308,37 @@ def get_page_path(book_id: str, page: int) -> Path:
 
     dest = _render_page(meta, book_id, page)
 
-    # Warm the next pages in the background so the next swipe is instant.
-    if PREFETCH_PAGES > 0 and not _page_dest(book_id, page + 1).exists():
+    # Warm nearby pages in the background: forward first, then a few back.
+    _latest_request[book_id] = page
+    targets = [page + i for i in range(1, PREFETCH_PAGES + 1)]
+    targets += [page - i for i in range(1, PREFETCH_BEHIND + 1) if page - i >= 1]
+    targets = [p for p in targets if not _page_dest(book_id, p).exists()]
+    if targets:
         try:
-            _prefetch_pool.submit(_prefetch, book_id, page + 1, PREFETCH_PAGES)
+            _prefetch_pool.submit(_prefetch, book_id, page, targets)
         except RuntimeError:
             pass  # pool shut down during server exit
     return dest
 
 
-def warm_up(first_pages: int = 3):
-    """Optional. Pre-renders the first few pages of every book so the first
-    student after a redeploy doesn't wait. Call it from a background thread
-    at startup, for example in main.py:
+def warm_up(first_pages: int = 2):
+    """Pre-renders the first pages of every book. Runs automatically at
+    import time (see AUTO_WARMUP), so you normally never call this."""
+    for bid, meta in list(_scan_books().items()):
+        try:
+            _page_count(meta["path"])  # also pre-opens the PDF
+        except Exception:
+            continue
+        _prefetch(bid, None, list(range(1, first_pages + 1)))
 
-        import threading, textbooks
-        threading.Thread(target=textbooks.warm_up, daemon=True).start()
-    """
-    for bid in list(_scan_books().keys()):
-        _prefetch(bid, 1, first_pages)
+
+def _auto_warm_up():
+    time.sleep(AUTO_WARMUP_DELAY)  # let the server finish starting first
+    try:
+        warm_up(AUTO_WARMUP_PAGES)
+    except Exception:
+        pass
+
+
+if AUTO_WARMUP:
+    threading.Thread(target=_auto_warm_up, daemon=True, name="tb-warmup").start()
