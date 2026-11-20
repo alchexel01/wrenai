@@ -1,8 +1,9 @@
 """
-Textbook Library backend logic for Wren AI (faster version).
+Textbook Library backend logic for Wren AI (fast + crash-resistant version).
 
-Same public API as before (list_textbooks, get_page_path, TextbookNotFound,
-PageOutOfRange), so main.py does not need to change.
+Same public API as before (list_textbooks, get_page_path, warm_up,
+TextbookNotFound, PageOutOfRange, PageSuperseded), so main.py does not need
+to change.
 
 HOW YOU ADD A TEXTBOOK
 -----------------------
@@ -18,36 +19,59 @@ a subject subfolder), commit, and push:
 The book id is a stable hash of its path relative to TEXTBOOKS_DIR, so don't
 rename or move a file after publishing it.
 
-WHAT MAKES THIS VERSION FASTER
--------------------------------
-1. The book index (folder scan) is cached in memory for a short time instead
-   of walking the disk on every request.
-2. Page counts are cached, so /textbooks no longer opens every PDF each time.
-3. Open PDF handles are reused (small LRU) instead of re-opening and
-   re-parsing the whole PDF for every single page.
-4. Pages are rendered as smaller JPEGs (lower DPI and quality), which also
-   means less data to download on a phone.
-5. The next 4 pages (and 1 page back) around whatever page was requested are
-   rendered in the background, so page turns are usually cache hits. Jumping
-   straight to page 190 renders page 190 immediately (nothing before it is
-   needed), and any older queued prefetch for that book is dropped.
-6. Rendered images are capped at 1000 px wide, so huge PDF page sizes no
-   longer produce huge, slow images.
-7. As soon as a book is opened, EVERY page of it is rendered in the background,
-   nearest pages first, re-targeting whenever the student jumps. Students'
-   own requests always take priority over this background work.
-8. The first pages of every book are pre-rendered automatically a few seconds
-   after the server starts. No change to main.py is needed.
+SPEED FEATURES (all kept from the previous version)
+----------------------------------------------------
+1. The book index (folder scan) is cached in memory for a short time.
+2. Page counts are cached, so /textbooks never re-opens every PDF.
+3. Open PDF handles are reused (small LRU).
+4. Pages are small JPEGs (110 DPI, quality 72), capped at 1000 px wide.
+5. The next 4 pages (and 1 page back) around the requested page are rendered
+   in the background, so page turns are usually cache hits.
+6. As soon as a book is opened, EVERY page of it is rendered in the
+   background, nearest pages first, re-targeting whenever the student jumps.
+7. The first pages of every book are pre-rendered a few seconds after the
+   server starts, whenever nobody is reading.
+
+WHY THE OLD VERSION CRASHED ON FAST SCROLLING, AND WHAT CHANGED
+----------------------------------------------------------------
+Old: every waiting page request sat in a loop re-checking a shared condition,
+and every finished render woke ALL of them (hundreds of threads, each scanning
+all the others). That burned the CPU on a small server, starved the rest of
+the API of threads, and made renders slower, which made the pile grow.
+
+New:
+ * ONE render worker thread does all rendering (student pages first, then
+   nearby pages, then the rest of the book, then warm-up). No locks to fight
+   over, no polling loops, no sleeping-and-rechecking threads.
+ * A request thread just sleeps on its own private Event until its page is
+   ready. Nothing wakes it up except its own page being finished.
+ * Student requests are served NEWEST FIRST. When someone drags the page
+   slider, the newest request is the page they stopped on, so that is the one
+   rendered first. This also works with many students at once, because it
+   needs no per-student bookkeeping.
+ * The student queue is capped (MAX_WAITING). If fast scrolling creates more
+   waiting requests than that, the OLDEST ones (pages already flown past) are
+   answered immediately with PageSuperseded, which main.py already turns into
+   a 404. The page the student stopped on is never dropped, and dropped pages
+   are just rendered later if the student comes back to them.
+ * Duplicate requests for the same page share one render.
+ * Background rendering pauses briefly between pages so the chat endpoints
+   still get CPU, and MuPDF's internal memory cache is trimmed after renders.
+ * If a page always fails to render, background work gives up on it instead
+   of retrying forever.
 
 Install: pip install pymupdf   (add to requirements.txt)
+
+NOTE for main.py: the page route must be a plain `def`, not `async def`
+(FastAPI then runs it in its thread pool). An `async def` route that calls
+get_page_path directly would block the whole server while a page renders.
 """
 
 import os
 import time
 import hashlib
 import threading
-from collections import OrderedDict
-from concurrent.futures import ThreadPoolExecutor
+from collections import OrderedDict, deque
 from pathlib import Path
 
 try:
@@ -59,79 +83,58 @@ TEXTBOOKS_DIR = Path(os.environ.get("TEXTBOOKS_DIR", "./textbooks")).resolve()
 CACHE_DIR = Path(os.environ.get("TEXTBOOKS_CACHE_DIR", "./textbooks_cache")).resolve()
 
 # 110 DPI is sharp enough for a phone screen and renders much faster than 150.
-# Raise it with the env var if text looks soft on large tablets.
 RENDER_DPI = int(os.environ.get("TEXTBOOKS_RENDER_DPI", "110"))
 JPEG_QUALITY = int(os.environ.get("TEXTBOOKS_JPEG_QUALITY", "72"))
-
-INDEX_TTL = float(os.environ.get("TEXTBOOKS_INDEX_TTL", "60"))   # seconds
-PREFETCH_PAGES = int(os.environ.get("TEXTBOOKS_PREFETCH_PAGES", "4"))
-MAX_OPEN_DOCS = int(os.environ.get("TEXTBOOKS_MAX_OPEN_DOCS", "4"))
-
-# Hard cap on rendered image width. Some PDFs have huge page sizes (A3, scans),
-# and rendering those at 110 DPI makes giant, slow images. Phones never need
-# more than about 1000 px of width.
+# Phones never need more than about 1000 px of width.
 MAX_WIDTH_PX = int(os.environ.get("TEXTBOOKS_MAX_WIDTH_PX", "1000"))
 
-# Also prepare this many pages BEFORE the current one (for swiping back).
+INDEX_TTL = float(os.environ.get("TEXTBOOKS_INDEX_TTL", "60"))   # seconds
+MAX_OPEN_DOCS = int(os.environ.get("TEXTBOOKS_MAX_OPEN_DOCS", "4"))
+
+# Pages prepared around the one the student is on.
+PREFETCH_PAGES = int(os.environ.get("TEXTBOOKS_PREFETCH_PAGES", "4"))
 PREFETCH_BEHIND = int(os.environ.get("TEXTBOOKS_PREFETCH_BEHIND", "1"))
 
-# Pre-render the first pages of every book shortly after the server starts.
-# Runs by itself on import, so main.py does not need to call anything.
-# Render EVERY page of a book in the background as soon as anyone opens it,
-# starting with the pages closest to the one being read. Stops if nobody has
+# Render EVERY page of the book being read, nearest first. Stops if nobody has
 # asked for that book for FULL_BOOK_IDLE_STOP seconds.
 FULL_BOOK = os.environ.get("TEXTBOOKS_PRERENDER_BOOK", "1") == "1"
 FULL_BOOK_IDLE_STOP = float(os.environ.get("TEXTBOOKS_PRERENDER_IDLE_STOP", "900"))
 
-# OFF by default (0), so the app never receives an error for a skipped page.
-# If set above 0 and more than that many page requests are waiting at once,
-# the ones farthest from the student are rejected with a 404 instead of
-# piling up. Only turn this on if fast scrolling ever starves the rest of
-# the server of threads.
-MAX_WAITING = int(os.environ.get("TEXTBOOKS_MAX_WAITING", "0"))
+# Max student requests allowed to wait for a render at once. Beyond this, the
+# OLDEST waiting requests (pages the student already scrolled past) get a
+# quick PageSuperseded (404) instead of piling up and starving the server.
+# Keep it well below your server's thread pool (FastAPI's default is 40).
+# Set to 0 to disable the cap (not recommended).
+MAX_WAITING = int(os.environ.get("TEXTBOOKS_MAX_WAITING", "24"))
 
+# A request that has waited this long gives up instead of hanging forever.
+REQUEST_TIMEOUT = float(os.environ.get("TEXTBOOKS_REQUEST_TIMEOUT", "20"))
+
+# Pause (seconds) after each background page so the rest of the API gets CPU.
+BG_PAUSE = float(os.environ.get("TEXTBOOKS_BG_PAUSE", "0.1"))
+
+# MuPDF keeps an internal cache that can grow large on image-heavy pages.
+# Above this size (MB) it is emptied after a render. Keeps memory flat.
+MUPDF_STORE_MB = int(os.environ.get("TEXTBOOKS_MUPDF_STORE_MB", "48"))
+
+# Pre-render the first pages of every book shortly after start-up, but only
+# while nobody has requested a page for WARMUP_IDLE seconds.
 AUTO_WARMUP = os.environ.get("TEXTBOOKS_AUTO_WARMUP", "1") == "1"
 AUTO_WARMUP_PAGES = int(os.environ.get("TEXTBOOKS_AUTO_WARMUP_PAGES", "1"))
 AUTO_WARMUP_DELAY = float(os.environ.get("TEXTBOOKS_AUTO_WARMUP_DELAY", "5"))
-
-TEXTBOOKS_DIR.mkdir(parents=True, exist_ok=True)
-CACHE_DIR.mkdir(parents=True, exist_ok=True)
-
-# PyMuPDF is not safe to call concurrently on the same process state, so all
-# renders (and the shared open-document handles) go through this one lock.
-# Cache hits never touch it.
-_render_lock = threading.RLock()
-
-# One background worker: prefetching must never compete with real requests
-# for CPU on a small server.
-_prefetch_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="tb-prefetch")
-_prefetch_inflight = set()
-_prefetch_guard = threading.Lock()
+WARMUP_IDLE = 20.0
 
 # Timing lines go to stdout so they show up in Render's log viewer.
 # Set TEXTBOOKS_DEBUG=0 to silence them.
 DEBUG = os.environ.get("TEXTBOOKS_DEBUG", "1") == "1"
 
+TEXTBOOKS_DIR.mkdir(parents=True, exist_ok=True)
+CACHE_DIR.mkdir(parents=True, exist_ok=True)
+
 
 def _log(msg: str):
     if DEBUG:
         print(f"[textbooks] {msg}", flush=True)
-
-
-# When a student last asked for a page. Background warm-up pauses while a
-# student is actively reading so it never competes with them for the CPU.
-_activity = {"t": 0.0}
-
-# Students always go first: background renders wait while any student
-# request is waiting for the render lock (Python locks are not fair, so
-# without this a busy background loop could starve a real request).
-_waiting = {"n": 0}
-
-# Whole-book pre-rendering jobs (one per book at a time).
-_book_pool = ThreadPoolExecutor(max_workers=2, thread_name_prefix="tb-book")
-_book_jobs = set()
-_book_jobs_guard = threading.Lock()
-_book_last_request = {}  # book_id -> monotonic time of last student request
 
 
 class TextbookNotFound(Exception):
@@ -147,10 +150,9 @@ class PageOutOfRange(Exception):
 
 
 class PageSuperseded(PageOutOfRange):
-    """The student moved far away while this page was waiting its turn.
-    It subclasses PageOutOfRange so main.py's existing handler returns a 404
-    for it. The page is still rendered in the background, so asking again
-    gets it instantly."""
+    """The student scrolled far past this page while it was waiting.
+    Subclasses PageOutOfRange so main.py's existing handler returns a 404.
+    Asking again later works normally."""
     pass
 
 
@@ -197,6 +199,11 @@ def _scan_books(force: bool = False):
 # Open-document handles and page counts (cached)
 # ---------------------------------------------------------------------------
 
+# PyMuPDF is not safe to call from several threads at once. Only the render
+# worker renders, and this lock additionally protects the shared handles
+# against the (rare, cached) page-count lookups made by request threads.
+_render_lock = threading.RLock()
+
 _docs = OrderedDict()          # path -> open pymupdf.Document (LRU)
 _page_counts = {}              # (path, mtime_ns, size) -> int
 
@@ -238,6 +245,379 @@ def _page_count(path: Path) -> int:
     return count
 
 
+def _trim_mupdf_store():
+    """Empties MuPDF's internal cache when it grows past MUPDF_STORE_MB.
+    Call while holding _render_lock."""
+    try:
+        tools = pymupdf.TOOLS
+        if tools.store_size > MUPDF_STORE_MB * 1024 * 1024:
+            tools.store_shrink(100)
+    except Exception:
+        pass
+
+
+# ---------------------------------------------------------------------------
+# Which pages are already on disk (kept in memory, so nobody lists the
+# cache folder over and over)
+# ---------------------------------------------------------------------------
+
+_have = {}  # book_id -> set of page numbers on disk (or not worth retrying)
+_have_lock = threading.Lock()
+
+
+def _have_pages(book_id: str) -> set:
+    with _have_lock:
+        s = _have.get(book_id)
+        if s is None:
+            s = set()
+            try:
+                for n in os.listdir(CACHE_DIR / book_id):
+                    if n.startswith("page_") and n.endswith(".jpg"):
+                        try:
+                            s.add(int(n[5:-4]))
+                        except ValueError:
+                            pass
+            except FileNotFoundError:
+                pass
+            _have[book_id] = s
+        return s
+
+
+def _page_dest(book_id: str, page: int) -> Path:
+    return CACHE_DIR / book_id / f"page_{page:04d}.jpg"
+
+
+# ---------------------------------------------------------------------------
+# Rendering (only ever called from the render worker thread)
+# ---------------------------------------------------------------------------
+
+def _render_to_cache(meta: dict, book_id: str, page: int, source: str) -> Path:
+    """Renders one page into the cache. source is "user", "prefetch", "book"
+    or "warmup". Raises PageOutOfRange if the page isn't in the document."""
+    dest = _page_dest(book_id, page)
+    if dest.exists():
+        _have_pages(book_id).add(page)
+        return dest
+
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    tmp = dest.with_name(f"{dest.stem}.{threading.get_ident()}.tmp")
+    t0 = time.perf_counter()
+    temp_doc = None
+    try:
+        with _render_lock:
+            t_locked = time.perf_counter()
+            if source == "warmup":
+                # Warm-up touches many books: use a throwaway handle so it
+                # does not evict the book a student is reading.
+                temp_doc = pymupdf.open(meta["path"])
+                doc = temp_doc
+            else:
+                doc = _get_doc(meta["path"])
+            t_open = time.perf_counter()
+            if page < 1 or page > doc.page_count:
+                raise PageOutOfRange(page)
+            pg = doc[page - 1]
+            zoom = RENDER_DPI / 72.0
+            if pg.rect.width * zoom > MAX_WIDTH_PX:
+                zoom = MAX_WIDTH_PX / pg.rect.width
+            pix = pg.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), alpha=False)
+            t_render = time.perf_counter()
+            try:
+                data = pix.tobytes("jpeg", jpg_quality=JPEG_QUALITY)
+            except TypeError:  # very old PyMuPDF without jpg_quality
+                data = pix.tobytes("jpeg")
+            pix = None
+            pg = None
+            t_encode = time.perf_counter()
+            _trim_mupdf_store()
+        # Disk write happens outside the lock.
+        tmp.write_bytes(data)
+        os.replace(tmp, dest)
+        t_done = time.perf_counter()
+        _log(
+            f"{source} {book_id[:6]} p{page}: "
+            f"open {t_open - t_locked:.2f}s, render {t_render - t_open:.2f}s, "
+            f"encode {t_encode - t_render:.2f}s, write {t_done - t_encode:.2f}s, "
+            f"total {t_done - t0:.2f}s, {len(data) // 1024} KB"
+        )
+    except PageOutOfRange:
+        raise
+    except Exception as e:
+        _log(f"{source} {book_id[:6]} p{page}: FAILED {type(e).__name__}: {e}")
+        # A cached handle can go bad (file replaced on redeploy, etc).
+        # Drop it so the next request re-opens the file cleanly.
+        with _render_lock:
+            stale = _docs.pop(str(meta["path"]), None)
+        if stale is not None:
+            try:
+                stale.close()
+            except Exception:
+                pass
+        raise
+    finally:
+        if temp_doc is not None:
+            try:
+                temp_doc.close()
+            except Exception:
+                pass
+        try:
+            if tmp.exists():
+                tmp.unlink()
+        except OSError:
+            pass
+    _have_pages(book_id).add(page)
+    return dest
+
+
+# ---------------------------------------------------------------------------
+# Scheduler: student requests, newest first, served by one worker thread
+# ---------------------------------------------------------------------------
+
+_QUEUED, _RUNNING, _DONE = 0, 1, 2
+
+
+class _Job:
+    """One page a student is waiting for. Any number of request threads can
+    wait on the same job; each sleeps on the shared Event."""
+    __slots__ = ("book_id", "page", "seq", "state", "event", "error")
+
+    def __init__(self, book_id, page, seq):
+        self.book_id = book_id
+        self.page = page
+        self.seq = seq              # higher = requested more recently
+        self.state = _QUEUED
+        self.event = threading.Event()
+        self.error = None
+
+
+# _cv guards _jobs, _focus and the counters. Its lock is re-entrant.
+_cv = threading.Condition()
+_jobs = {}                         # (book_id, page) -> _Job (queued or running)
+_seq = [0]
+_focus = {"book": None, "page": 1, "t": -1e9}   # where a student last looked
+_focus_version = [0]
+_book_last_request = {}            # book_id -> monotonic time of last request
+_START = time.monotonic()
+
+
+def _note_request(book_id: str, page: int):
+    """Records where the student is. Background work follows this."""
+    with _cv:
+        now = time.monotonic()
+        _focus["book"] = book_id
+        _focus["page"] = page
+        _focus["t"] = now
+        _focus_version[0] += 1
+        _book_last_request[book_id] = now
+        _cv.notify()
+
+
+def _drop(job: _Job):
+    """Answers a still-queued job with PageSuperseded. Hold _cv."""
+    job.error = PageSuperseded(job.page)
+    job.state = _DONE
+    key = (job.book_id, job.page)
+    if _jobs.get(key) is job:
+        del _jobs[key]
+    job.event.set()
+
+
+def _submit(book_id: str, page: int) -> _Job:
+    key = (book_id, page)
+    with _cv:
+        _note_request(book_id, page)
+        _seq[0] += 1
+        job = _jobs.get(key)
+        if job is None:
+            job = _Job(book_id, page, _seq[0])
+            _jobs[key] = job
+            if MAX_WAITING > 0:
+                queued = [j for j in _jobs.values() if j.state == _QUEUED]
+                excess = len(queued) - MAX_WAITING
+                if excess > 0:
+                    queued.sort(key=lambda j: j.seq)   # oldest first
+                    for old in queued[:excess]:
+                        _log(f"user {old.book_id[:6]} p{old.page}: "
+                             f"dropped (student scrolled past)")
+                        _drop(old)
+        else:
+            job.seq = _seq[0]     # asked again: it matters now
+        _cv.notify()
+        return job
+
+
+def _wait_for(job: _Job):
+    if not job.event.wait(REQUEST_TIMEOUT):
+        with _cv:
+            if job.state == _QUEUED:
+                _drop(job)
+        job.event.wait(10)  # a render that is already running will finish
+        if not job.event.is_set():
+            raise PageSuperseded(job.page)
+    if job.error is not None:
+        raise job.error
+
+
+def _pick_user_job():
+    """Newest queued student request, or None. Hold _cv."""
+    best = None
+    for j in _jobs.values():
+        if j.state == _QUEUED and (best is None or j.seq > best.seq):
+            best = j
+    return best
+
+
+def _run_user_job(job: _Job):
+    key = (job.book_id, job.page)
+    try:
+        meta = _scan_books().get(job.book_id)
+        if meta is None:
+            raise TextbookNotFound(job.book_id)
+        _render_to_cache(meta, job.book_id, job.page, "user")
+    except Exception as e:
+        job.error = e
+    finally:
+        with _cv:
+            job.state = _DONE
+            if _jobs.get(key) is job:
+                del _jobs[key]
+        job.event.set()
+
+
+def _outward(center: int, total: int):
+    """Page numbers nearest to `center` first, looking about twice as far
+    ahead as behind."""
+    center = max(1, min(center, total))
+    yield center
+    ahead, behind = center + 1, center - 1
+    while ahead <= total or behind >= 1:
+        for _ in range(2):
+            if ahead <= total:
+                yield ahead
+                ahead += 1
+        if behind >= 1:
+            yield behind
+            behind -= 1
+
+
+_warm = {"todo": deque(), "built": False}
+
+
+def warm_up(first_pages: int = 2):
+    """Queues the first pages of every book for pre-rendering. The render
+    worker does them while nobody is reading. Runs automatically a few
+    seconds after start-up (see AUTO_WARMUP), so you normally never call
+    this."""
+    todo = deque()
+    for bid, meta in list(_scan_books().items()):
+        for p in range(1, first_pages + 1):
+            todo.append((bid, p, meta))
+    with _cv:
+        _warm["todo"] = todo
+        _warm["built"] = True
+        _cv.notify()
+    _ensure_worker()
+
+
+def _pick_background(focus: dict, now: float):
+    """Next background page to render, or None.
+    Order: pages around the student, then the rest of the book, then warm-up.
+    Returns (source, book_id, page, meta)."""
+    book_id = focus["book"]
+    if book_id:
+        meta = _scan_books().get(book_id)
+        if meta:
+            try:
+                total = _page_count(meta["path"])
+            except Exception:
+                total = 0
+            if total:
+                have = _have_pages(book_id)
+                page = focus["page"]
+
+                near = [page + i for i in range(1, PREFETCH_PAGES + 1)]
+                near += [page - i for i in range(1, PREFETCH_BEHIND + 1)]
+                for p in near:
+                    if 1 <= p <= total and p not in have:
+                        return ("prefetch", book_id, p, meta)
+
+                if FULL_BOOK and (now - _book_last_request.get(book_id, 0)
+                                  <= FULL_BOOK_IDLE_STOP):
+                    for p in _outward(page, total):
+                        if p not in have:
+                            return ("book", book_id, p, meta)
+
+    if now - focus["t"] > WARMUP_IDLE:
+        if AUTO_WARMUP and not _warm["built"] and now - _START >= AUTO_WARMUP_DELAY:
+            warm_up(AUTO_WARMUP_PAGES)
+        todo = _warm["todo"]
+        while todo:
+            bid, p, meta = todo.popleft()
+            if p not in _have_pages(bid):
+                return ("warmup", bid, p, meta)
+    return None
+
+
+def _worker():
+    """The only thread that renders. Never exits, never busy-loops."""
+    while True:
+        try:
+            with _cv:
+                job = _pick_user_job()
+                if job is not None:
+                    job.state = _RUNNING
+                focus = dict(_focus)
+                version = _focus_version[0]
+
+            if job is not None:
+                _run_user_job(job)
+                continue
+
+            task = _pick_background(focus, time.monotonic())
+            if task is None:
+                with _cv:
+                    # Sleep only if nothing arrived since we looked.
+                    if _pick_user_job() is None and _focus_version[0] == version:
+                        _cv.wait(2.0)
+                continue
+
+            source, bid, page, meta = task
+            ok = False
+            try:
+                _render_to_cache(meta, bid, page, source)
+                ok = True
+            except Exception:
+                pass  # already logged; PageOutOfRange needs no log
+            if not ok:
+                # Never retry a failing page in the background (students
+                # asking for it directly still get a fresh attempt).
+                _have_pages(bid).add(page)
+            if source != "prefetch" or not ok:
+                time.sleep(BG_PAUSE)   # let the rest of the API breathe
+        except Exception as e:
+            _log(f"worker error {type(e).__name__}: {e}")
+            time.sleep(0.5)
+
+
+_worker_lock = threading.Lock()
+_worker_thread = None
+
+
+def _ensure_worker():
+    """Starts the render worker if it isn't running (also covers servers that
+    fork worker processes after this module was imported)."""
+    global _worker_thread
+    t = _worker_thread
+    if t is not None and t.is_alive():
+        return
+    with _worker_lock:
+        t = _worker_thread
+        if t is None or not t.is_alive():
+            _worker_thread = threading.Thread(
+                target=_worker, daemon=True, name="tb-render")
+            _worker_thread.start()
+
+
 # ---------------------------------------------------------------------------
 # Public API
 # ---------------------------------------------------------------------------
@@ -245,6 +625,7 @@ def _page_count(path: Path) -> int:
 def list_textbooks():
     """Returns [{id, title, subject, page_count}, ...], one entry per PDF
     found under TEXTBOOKS_DIR. Called from main.py's /textbooks route."""
+    _ensure_worker()
     out = []
     for bid, meta in _scan_books().items():
         try:
@@ -262,244 +643,12 @@ def list_textbooks():
     return out
 
 
-def _page_dest(book_id: str, page: int) -> Path:
-    return CACHE_DIR / book_id / f"page_{page:04d}.jpg"
-
-
-class _Waiter:
-    __slots__ = ("book_id", "page", "seq", "dropped", "t")
-
-    def __init__(self, book_id, page, seq):
-        self.book_id = book_id
-        self.page = page
-        self.seq = seq
-        self.dropped = False
-        self.t = time.monotonic()
-
-
-# Student page requests line up here and are served NEAREST-TO-THE-STUDENT
-# first, not first come first served. While someone drags the page slider,
-# hundreds of requests for pages they already flew past would otherwise be
-# rendered one by one before the page they stopped on.
-_gate = threading.Condition()
-_gate_waiters = []
-_gate_busy = [False]
-_gate_seq = [0]
-
-
-def _gate_priority(w):
-    center = _latest_request.get(w.book_id, w.page)
-    d = w.page - center
-    # Pages ahead of the student rank slightly better than pages behind.
-    dist = d if d >= 0 else -d * 1.5
-    # Aging: a request that has waited a long time gradually wins, so an
-    # old request can never be starved forever by a student who keeps moving.
-    return (dist - 2.0 * (time.monotonic() - w.t), w.seq)
-
-
-def _gate_enter(book_id: str, page: int):
-    with _gate:
-        _gate_seq[0] += 1
-        w = _Waiter(book_id, page, _gate_seq[0])
-        _gate_waiters.append(w)
-        _waiting["n"] = len(_gate_waiters)
-        # Too many waiting: drop the farthest from the student's position.
-        while MAX_WAITING > 0 and len(_gate_waiters) > MAX_WAITING:
-            far = max(_gate_waiters, key=_gate_priority)
-            far.dropped = True
-            _gate_waiters.remove(far)
-        _gate.notify_all()
-        while True:
-            if w.dropped:
-                _waiting["n"] = len(_gate_waiters)
-                _log(f"user {book_id[:6]} p{page}: dropped (student moved on)")
-                raise PageSuperseded(page)
-            if not _gate_busy[0] and min(_gate_waiters, key=_gate_priority) is w:
-                break
-            _gate.wait(1.0)
-        _gate_waiters.remove(w)
-        _gate_busy[0] = True
-        _waiting["n"] = len(_gate_waiters)
-
-
-def _gate_leave():
-    with _gate:
-        _gate_busy[0] = False
-        _gate.notify_all()
-
-
-def _render_page(meta: dict, book_id: str, page: int, source: str = "user") -> Path:
-    """Renders one page to the cache. Raises PageOutOfRange if needed.
-    source is "user", "prefetch", "book" or "warmup". Student requests wait
-    in the priority gate; all background work yields to them."""
-    dest = _page_dest(book_id, page)
-    if dest.exists():
-        return dest
-    if source == "user":
-        _gate_enter(book_id, page)  # may raise PageSuperseded
-        try:
-            return _render_locked(meta, book_id, page, source)
-        finally:
-            _gate_leave()
-    while _waiting["n"] > 0:
-        time.sleep(0.05)
-    return _render_locked(meta, book_id, page, source)
-
-
-def _render_locked(meta: dict, book_id: str, page: int, source: str) -> Path:
-    dest = _page_dest(book_id, page)
-    if dest.exists():
-        return dest
-
-    dest.parent.mkdir(parents=True, exist_ok=True)
-    tmp = dest.with_name(f"{dest.stem}.{threading.get_ident()}.tmp")
-
-    t0 = time.perf_counter()
-    with _render_lock:
-        t_locked = time.perf_counter()
-        # A concurrent request may have rendered it while we waited.
-        if dest.exists():
-            return dest
-        temp_doc = None
-        try:
-            if source == "warmup":
-                # Warm-up touches many books: use a throwaway handle so it
-                # does not evict the book a student is reading.
-                temp_doc = pymupdf.open(meta["path"])
-                doc = temp_doc
-            else:
-                doc = _get_doc(meta["path"])
-            t_open = time.perf_counter()
-            if page < 1 or page > doc.page_count:
-                raise PageOutOfRange(page)
-            pg = doc[page - 1]
-            zoom = RENDER_DPI / 72.0
-            if pg.rect.width * zoom > MAX_WIDTH_PX:
-                zoom = MAX_WIDTH_PX / pg.rect.width
-            pix = pg.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom),
-                                alpha=False)
-            t_render = time.perf_counter()
-            try:
-                data = pix.tobytes("jpeg", jpg_quality=JPEG_QUALITY)
-            except TypeError:  # very old PyMuPDF without jpg_quality
-                data = pix.tobytes("jpeg")
-            t_encode = time.perf_counter()
-            tmp.write_bytes(data)
-            os.replace(tmp, dest)
-            t_done = time.perf_counter()
-            _log(
-                f"{source} {book_id[:6]} p{page}: "
-                f"lock wait {t_locked - t0:.2f}s, open {t_open - t_locked:.2f}s, "
-                f"render {t_render - t_open:.2f}s, encode {t_encode - t_render:.2f}s, "
-                f"write {t_done - t_encode:.2f}s, total {t_done - t0:.2f}s, "
-                f"{len(data) // 1024} KB"
-            )
-        except PageOutOfRange:
-            raise
-        except Exception as e:
-            _log(f"{source} {book_id[:6]} p{page}: FAILED {type(e).__name__}: {e}")
-            # A cached handle can go bad (file replaced on redeploy, etc).
-            # Drop it so the next request re-opens the file cleanly.
-            stale = _docs.pop(str(meta["path"]), None)
-            if stale is not None:
-                try:
-                    stale.close()
-                except Exception:
-                    pass
-            raise
-        finally:
-            if temp_doc is not None:
-                try:
-                    temp_doc.close()
-                except Exception:
-                    pass
-            try:
-                if tmp.exists():
-                    tmp.unlink()
-            except OSError:
-                pass
-    return dest
-
-
-_latest_request = {}  # book_id -> page most recently requested
-
-
-def _prefetch(book_id: str, origin, pages):
-    """Renders `pages` of a book in the background, best effort. If the
-    student jumps elsewhere in the same book (origin changes), the rest of
-    this batch is dropped so it never delays the page they actually want."""
-    meta = _scan_books().get(book_id)
-    if not meta:
-        return
-    source = "warmup" if origin is None else "prefetch"
-    for p in pages:
-        if origin is None:
-            # Warm-up: wait while a student is actively reading.
-            while time.monotonic() - _activity["t"] < 20:
-                time.sleep(1)
-        elif _latest_request.get(book_id) != origin:
-            return
-        if _page_dest(book_id, p).exists():
-            continue
-        key = (book_id, p)
-        with _prefetch_guard:
-            if key in _prefetch_inflight:
-                continue
-            _prefetch_inflight.add(key)
-        try:
-            _render_page(meta, book_id, p, source)
-        except PageOutOfRange:
-            continue  # e.g. past the last page
-        except Exception:
-            return  # prefetch is best effort, never raise
-        finally:
-            with _prefetch_guard:
-                _prefetch_inflight.discard(key)
-
-
-def _prerender_book(book_id: str):
-    """Background job: renders every page of the book, always picking the
-    missing page nearest to where the student currently is (looking a bit
-    further ahead than behind). Re-checks the student's position before
-    every page, so jumping to page 135 immediately re-targets pages 135+."""
-    try:
-        meta = _scan_books().get(book_id)
-        if not meta:
-            return
-        total = _page_count(meta["path"])
-        t_start = time.monotonic()
-        _log(f"book {book_id[:6]}: pre-rendering all {total} pages")
-        while True:
-            if time.monotonic() - _book_last_request.get(book_id, 0) > FULL_BOOK_IDLE_STOP:
-                _log(f"book {book_id[:6]}: idle, pre-render paused")
-                return
-            try:
-                have = {int(n[5:-4]) for n in os.listdir(CACHE_DIR / book_id)
-                        if n.startswith("page_") and n.endswith(".jpg")}
-            except FileNotFoundError:
-                have = set()
-            missing = [p for p in range(1, total + 1) if p not in have]
-            if not missing:
-                _log(f"book {book_id[:6]}: all {total} pages ready "
-                     f"({time.monotonic() - t_start:.0f}s)")
-                return
-            center = _latest_request.get(book_id, 1)
-            nxt = min(missing, key=lambda x: (x - center) if x >= center else (center - x) * 1.5)
-            try:
-                _render_page(meta, book_id, nxt, "book")
-            except PageOutOfRange:
-                return
-            except Exception:
-                return
-    finally:
-        with _book_jobs_guard:
-            _book_jobs.discard(book_id)
-
-
 def get_page_path(book_id: str, page: int) -> Path:
     """Returns the local path to `page` (1-indexed) of the given textbook,
     rendering and caching it first if needed. Raises TextbookNotFound /
     PageOutOfRange (main.py turns those into 404s)."""
+    _ensure_worker()
+
     meta = _scan_books().get(book_id)
     if not meta:
         # The index may be a few seconds stale (new book just deployed).
@@ -509,62 +658,27 @@ def get_page_path(book_id: str, page: int) -> Path:
 
     if page < 1:
         raise PageOutOfRange(page)
+    try:
+        total = _page_count(meta["path"])
+    except Exception:
+        total = None  # let the render report the real problem
+    if total is not None and page > total:
+        raise PageOutOfRange(page)
 
-    # Record where the student is BEFORE rendering: the gate uses this to
-    # decide which waiting request matters most.
-    _latest_request[book_id] = page
-    _book_last_request[book_id] = time.monotonic()
-    _activity["t"] = time.monotonic()
-    t_req = time.perf_counter()
-    was_cached = _page_dest(book_id, page).exists()
-    dest = _render_page(meta, book_id, page)
-    if was_cached:
+    dest = _page_dest(book_id, page)
+    if dest.exists():
+        _note_request(book_id, page)   # background work follows the student
         _log(f"user {book_id[:6]} p{page}: cache hit")
-    else:
-        _log(f"user {book_id[:6]} p{page}: served after {time.perf_counter() - t_req:.2f}s")
+        return dest
 
-    if FULL_BOOK:
-        with _book_jobs_guard:
-            start_job = book_id not in _book_jobs
-            if start_job:
-                _book_jobs.add(book_id)
-        if start_job:
-            try:
-                _book_pool.submit(_prerender_book, book_id)
-            except RuntimeError:
-                with _book_jobs_guard:
-                    _book_jobs.discard(book_id)
-
-    # Warm nearby pages in the background: forward first, then a few back.
-    targets = [page + i for i in range(1, PREFETCH_PAGES + 1)]
-    targets += [page - i for i in range(1, PREFETCH_BEHIND + 1) if page - i >= 1]
-    targets = [p for p in targets if not _page_dest(book_id, p).exists()]
-    if targets:
-        try:
-            _prefetch_pool.submit(_prefetch, book_id, page, targets)
-        except RuntimeError:
-            pass  # pool shut down during server exit
+    t_req = time.perf_counter()
+    job = _submit(book_id, page)
+    _wait_for(job)
+    if not dest.exists():
+        raise PageOutOfRange(page)
+    _log(f"user {book_id[:6]} p{page}: served after "
+         f"{time.perf_counter() - t_req:.2f}s")
     return dest
 
 
-def warm_up(first_pages: int = 2):
-    """Pre-renders the first pages of every book. Runs automatically at
-    import time (see AUTO_WARMUP), so you normally never call this."""
-    for bid, meta in list(_scan_books().items()):
-        try:
-            _page_count(meta["path"])  # also pre-opens the PDF
-        except Exception:
-            continue
-        _prefetch(bid, None, list(range(1, first_pages + 1)))
-
-
-def _auto_warm_up():
-    time.sleep(AUTO_WARMUP_DELAY)  # let the server finish starting first
-    try:
-        warm_up(AUTO_WARMUP_PAGES)
-    except Exception:
-        pass
-
-
-if AUTO_WARMUP:
-    threading.Thread(target=_auto_warm_up, daemon=True, name="tb-warmup").start()
+_ensure_worker()
