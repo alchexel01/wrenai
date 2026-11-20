@@ -83,6 +83,13 @@ PREFETCH_BEHIND = int(os.environ.get("TEXTBOOKS_PREFETCH_BEHIND", "1"))
 FULL_BOOK = os.environ.get("TEXTBOOKS_PRERENDER_BOOK", "1") == "1"
 FULL_BOOK_IDLE_STOP = float(os.environ.get("TEXTBOOKS_PRERENDER_IDLE_STOP", "900"))
 
+# If more than this many page requests are waiting for a render at once (fast
+# scrolling or dragging the page slider), the ones farthest from where the
+# student currently is get dropped with a 404 instead of piling up. Their
+# pages still get rendered by the background pre-render, so asking again is
+# instant.
+MAX_WAITING = int(os.environ.get("TEXTBOOKS_MAX_WAITING", "10"))
+
 AUTO_WARMUP = os.environ.get("TEXTBOOKS_AUTO_WARMUP", "1") == "1"
 AUTO_WARMUP_PAGES = int(os.environ.get("TEXTBOOKS_AUTO_WARMUP_PAGES", "1"))
 AUTO_WARMUP_DELAY = float(os.environ.get("TEXTBOOKS_AUTO_WARMUP_DELAY", "5"))
@@ -119,7 +126,6 @@ _activity = {"t": 0.0}
 # request is waiting for the render lock (Python locks are not fair, so
 # without this a busy background loop could starve a real request).
 _waiting = {"n": 0}
-_waiting_guard = threading.Lock()
 
 # Whole-book pre-rendering jobs (one per book at a time).
 _book_pool = ThreadPoolExecutor(max_workers=2, thread_name_prefix="tb-book")
@@ -137,6 +143,14 @@ class TextbookNotFound(Exception):
 class PageOutOfRange(Exception):
     """Raised when the requested page number isn't in the document.
     main.py catches this and turns it into a 404."""
+    pass
+
+
+class PageSuperseded(PageOutOfRange):
+    """The student moved far away while this page was waiting its turn.
+    It subclasses PageOutOfRange so main.py's existing handler returns a 404
+    for it. The page is still rendered in the background, so asking again
+    gets it instantly."""
     pass
 
 
@@ -252,9 +266,83 @@ def _page_dest(book_id: str, page: int) -> Path:
     return CACHE_DIR / book_id / f"page_{page:04d}.jpg"
 
 
+class _Waiter:
+    __slots__ = ("book_id", "page", "seq", "dropped")
+
+    def __init__(self, book_id, page, seq):
+        self.book_id = book_id
+        self.page = page
+        self.seq = seq
+        self.dropped = False
+
+
+# Student page requests line up here and are served NEAREST-TO-THE-STUDENT
+# first, not first come first served. While someone drags the page slider,
+# hundreds of requests for pages they already flew past would otherwise be
+# rendered one by one before the page they stopped on.
+_gate = threading.Condition()
+_gate_waiters = []
+_gate_busy = [False]
+_gate_seq = [0]
+
+
+def _gate_priority(w):
+    center = _latest_request.get(w.book_id, w.page)
+    d = w.page - center
+    # Pages ahead of the student rank slightly better than pages behind.
+    return ((d if d >= 0 else -d * 1.5), w.seq)
+
+
+def _gate_enter(book_id: str, page: int):
+    with _gate:
+        _gate_seq[0] += 1
+        w = _Waiter(book_id, page, _gate_seq[0])
+        _gate_waiters.append(w)
+        _waiting["n"] = len(_gate_waiters)
+        # Too many waiting: drop the farthest from the student's position.
+        while len(_gate_waiters) > MAX_WAITING:
+            far = max(_gate_waiters, key=_gate_priority)
+            far.dropped = True
+            _gate_waiters.remove(far)
+        _gate.notify_all()
+        while True:
+            if w.dropped:
+                _waiting["n"] = len(_gate_waiters)
+                _log(f"user {book_id[:6]} p{page}: dropped (student moved on)")
+                raise PageSuperseded(page)
+            if not _gate_busy[0] and min(_gate_waiters, key=_gate_priority) is w:
+                break
+            _gate.wait(1.0)
+        _gate_waiters.remove(w)
+        _gate_busy[0] = True
+        _waiting["n"] = len(_gate_waiters)
+
+
+def _gate_leave():
+    with _gate:
+        _gate_busy[0] = False
+        _gate.notify_all()
+
+
 def _render_page(meta: dict, book_id: str, page: int, source: str = "user") -> Path:
     """Renders one page to the cache. Raises PageOutOfRange if needed.
-    source is "user", "prefetch" or "warmup" (used for the timing log)."""
+    source is "user", "prefetch", "book" or "warmup". Student requests wait
+    in the priority gate; all background work yields to them."""
+    dest = _page_dest(book_id, page)
+    if dest.exists():
+        return dest
+    if source == "user":
+        _gate_enter(book_id, page)  # may raise PageSuperseded
+        try:
+            return _render_locked(meta, book_id, page, source)
+        finally:
+            _gate_leave()
+    while _waiting["n"] > 0:
+        time.sleep(0.05)
+    return _render_locked(meta, book_id, page, source)
+
+
+def _render_locked(meta: dict, book_id: str, page: int, source: str) -> Path:
     dest = _page_dest(book_id, page)
     if dest.exists():
         return dest
@@ -262,20 +350,8 @@ def _render_page(meta: dict, book_id: str, page: int, source: str = "user") -> P
     dest.parent.mkdir(parents=True, exist_ok=True)
     tmp = dest.with_name(f"{dest.stem}.{threading.get_ident()}.tmp")
 
-    counted = False
-    if source == "user":
-        with _waiting_guard:
-            _waiting["n"] += 1
-        counted = True
-    else:
-        while _waiting["n"] > 0:
-            time.sleep(0.05)
-
     t0 = time.perf_counter()
     with _render_lock:
-        if counted:
-            with _waiting_guard:
-                _waiting["n"] -= 1
         t_locked = time.perf_counter()
         # A concurrent request may have rendered it while we waited.
         if dest.exists():
@@ -430,6 +506,10 @@ def get_page_path(book_id: str, page: int) -> Path:
     if page < 1:
         raise PageOutOfRange(page)
 
+    # Record where the student is BEFORE rendering: the gate uses this to
+    # decide which waiting request matters most.
+    _latest_request[book_id] = page
+    _book_last_request[book_id] = time.monotonic()
     _activity["t"] = time.monotonic()
     t_req = time.perf_counter()
     was_cached = _page_dest(book_id, page).exists()
@@ -439,8 +519,6 @@ def get_page_path(book_id: str, page: int) -> Path:
     else:
         _log(f"user {book_id[:6]} p{page}: served after {time.perf_counter() - t_req:.2f}s")
 
-    _latest_request[book_id] = page
-    _book_last_request[book_id] = time.monotonic()
     if FULL_BOOK:
         with _book_jobs_guard:
             start_job = book_id not in _book_jobs
