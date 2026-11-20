@@ -75,7 +75,7 @@ PREFETCH_BEHIND = int(os.environ.get("TEXTBOOKS_PREFETCH_BEHIND", "1"))
 # Pre-render the first pages of every book shortly after the server starts.
 # Runs by itself on import, so main.py does not need to call anything.
 AUTO_WARMUP = os.environ.get("TEXTBOOKS_AUTO_WARMUP", "1") == "1"
-AUTO_WARMUP_PAGES = int(os.environ.get("TEXTBOOKS_AUTO_WARMUP_PAGES", "2"))
+AUTO_WARMUP_PAGES = int(os.environ.get("TEXTBOOKS_AUTO_WARMUP_PAGES", "1"))
 AUTO_WARMUP_DELAY = float(os.environ.get("TEXTBOOKS_AUTO_WARMUP_DELAY", "5"))
 
 TEXTBOOKS_DIR.mkdir(parents=True, exist_ok=True)
@@ -91,6 +91,20 @@ _render_lock = threading.RLock()
 _prefetch_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="tb-prefetch")
 _prefetch_inflight = set()
 _prefetch_guard = threading.Lock()
+
+# Timing lines go to stdout so they show up in Render's log viewer.
+# Set TEXTBOOKS_DEBUG=0 to silence them.
+DEBUG = os.environ.get("TEXTBOOKS_DEBUG", "1") == "1"
+
+
+def _log(msg: str):
+    if DEBUG:
+        print(f"[textbooks] {msg}", flush=True)
+
+
+# When a student last asked for a page. Background warm-up pauses while a
+# student is actively reading so it never competes with them for the CPU.
+_activity = {"t": 0.0}
 
 
 class TextbookNotFound(Exception):
@@ -177,7 +191,14 @@ def _page_count(path: Path) -> int:
     if cached is not None:
         return cached
     with _render_lock:
-        count = _get_doc(path).page_count
+        doc = _docs.get(str(path))
+        if doc is not None:
+            count = doc.page_count
+        else:
+            # Open briefly and close, so counting pages never pushes the
+            # book the student is reading out of the handle cache.
+            with pymupdf.open(path) as tmp_doc:
+                count = tmp_doc.page_count
     _page_counts[key] = count
     return count
 
@@ -210,8 +231,9 @@ def _page_dest(book_id: str, page: int) -> Path:
     return CACHE_DIR / book_id / f"page_{page:04d}.jpg"
 
 
-def _render_page(meta: dict, book_id: str, page: int) -> Path:
-    """Renders one page to the cache. Raises PageOutOfRange if needed."""
+def _render_page(meta: dict, book_id: str, page: int, source: str = "user") -> Path:
+    """Renders one page to the cache. Raises PageOutOfRange if needed.
+    source is "user", "prefetch" or "warmup" (used for the timing log)."""
     dest = _page_dest(book_id, page)
     if dest.exists():
         return dest
@@ -219,30 +241,50 @@ def _render_page(meta: dict, book_id: str, page: int) -> Path:
     dest.parent.mkdir(parents=True, exist_ok=True)
     tmp = dest.with_name(f"{dest.stem}.{threading.get_ident()}.tmp")
 
+    t0 = time.perf_counter()
     with _render_lock:
+        t_locked = time.perf_counter()
         # A concurrent request may have rendered it while we waited.
         if dest.exists():
             return dest
+        temp_doc = None
         try:
-            doc = _get_doc(meta["path"])
+            if source == "warmup":
+                # Warm-up touches many books: use a throwaway handle so it
+                # does not evict the book a student is reading.
+                temp_doc = pymupdf.open(meta["path"])
+                doc = temp_doc
+            else:
+                doc = _get_doc(meta["path"])
+            t_open = time.perf_counter()
             if page < 1 or page > doc.page_count:
                 raise PageOutOfRange(page)
-            # alpha=False skips the transparency channel (smaller, faster).
             pg = doc[page - 1]
             zoom = RENDER_DPI / 72.0
             if pg.rect.width * zoom > MAX_WIDTH_PX:
                 zoom = MAX_WIDTH_PX / pg.rect.width
             pix = pg.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom),
                                 alpha=False)
+            t_render = time.perf_counter()
             try:
                 data = pix.tobytes("jpeg", jpg_quality=JPEG_QUALITY)
             except TypeError:  # very old PyMuPDF without jpg_quality
                 data = pix.tobytes("jpeg")
+            t_encode = time.perf_counter()
             tmp.write_bytes(data)
             os.replace(tmp, dest)
+            t_done = time.perf_counter()
+            _log(
+                f"{source} {book_id[:6]} p{page}: "
+                f"lock wait {t_locked - t0:.2f}s, open {t_open - t_locked:.2f}s, "
+                f"render {t_render - t_open:.2f}s, encode {t_encode - t_render:.2f}s, "
+                f"write {t_done - t_encode:.2f}s, total {t_done - t0:.2f}s, "
+                f"{len(data) // 1024} KB"
+            )
         except PageOutOfRange:
             raise
-        except Exception:
+        except Exception as e:
+            _log(f"{source} {book_id[:6]} p{page}: FAILED {type(e).__name__}: {e}")
             # A cached handle can go bad (file replaced on redeploy, etc).
             # Drop it so the next request re-opens the file cleanly.
             stale = _docs.pop(str(meta["path"]), None)
@@ -253,6 +295,11 @@ def _render_page(meta: dict, book_id: str, page: int) -> Path:
                     pass
             raise
         finally:
+            if temp_doc is not None:
+                try:
+                    temp_doc.close()
+                except Exception:
+                    pass
             try:
                 if tmp.exists():
                     tmp.unlink()
@@ -271,8 +318,13 @@ def _prefetch(book_id: str, origin, pages):
     meta = _scan_books().get(book_id)
     if not meta:
         return
+    source = "warmup" if origin is None else "prefetch"
     for p in pages:
-        if origin is not None and _latest_request.get(book_id) != origin:
+        if origin is None:
+            # Warm-up: wait while a student is actively reading.
+            while time.monotonic() - _activity["t"] < 20:
+                time.sleep(1)
+        elif _latest_request.get(book_id) != origin:
             return
         if _page_dest(book_id, p).exists():
             continue
@@ -282,7 +334,7 @@ def _prefetch(book_id: str, origin, pages):
                 continue
             _prefetch_inflight.add(key)
         try:
-            _render_page(meta, book_id, p)
+            _render_page(meta, book_id, p, source)
         except PageOutOfRange:
             continue  # e.g. past the last page
         except Exception:
@@ -306,7 +358,14 @@ def get_page_path(book_id: str, page: int) -> Path:
     if page < 1:
         raise PageOutOfRange(page)
 
+    _activity["t"] = time.monotonic()
+    t_req = time.perf_counter()
+    was_cached = _page_dest(book_id, page).exists()
     dest = _render_page(meta, book_id, page)
+    if was_cached:
+        _log(f"user {book_id[:6]} p{page}: cache hit")
+    else:
+        _log(f"user {book_id[:6]} p{page}: served after {time.perf_counter() - t_req:.2f}s")
 
     # Warm nearby pages in the background: forward first, then a few back.
     _latest_request[book_id] = page
