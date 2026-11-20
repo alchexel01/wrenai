@@ -83,12 +83,12 @@ PREFETCH_BEHIND = int(os.environ.get("TEXTBOOKS_PREFETCH_BEHIND", "1"))
 FULL_BOOK = os.environ.get("TEXTBOOKS_PRERENDER_BOOK", "1") == "1"
 FULL_BOOK_IDLE_STOP = float(os.environ.get("TEXTBOOKS_PRERENDER_IDLE_STOP", "900"))
 
-# If more than this many page requests are waiting for a render at once (fast
-# scrolling or dragging the page slider), the ones farthest from where the
-# student currently is get dropped with a 404 instead of piling up. Their
-# pages still get rendered by the background pre-render, so asking again is
-# instant.
-MAX_WAITING = int(os.environ.get("TEXTBOOKS_MAX_WAITING", "10"))
+# OFF by default (0), so the app never receives an error for a skipped page.
+# If set above 0 and more than that many page requests are waiting at once,
+# the ones farthest from the student are rejected with a 404 instead of
+# piling up. Only turn this on if fast scrolling ever starves the rest of
+# the server of threads.
+MAX_WAITING = int(os.environ.get("TEXTBOOKS_MAX_WAITING", "0"))
 
 AUTO_WARMUP = os.environ.get("TEXTBOOKS_AUTO_WARMUP", "1") == "1"
 AUTO_WARMUP_PAGES = int(os.environ.get("TEXTBOOKS_AUTO_WARMUP_PAGES", "1"))
@@ -267,13 +267,14 @@ def _page_dest(book_id: str, page: int) -> Path:
 
 
 class _Waiter:
-    __slots__ = ("book_id", "page", "seq", "dropped")
+    __slots__ = ("book_id", "page", "seq", "dropped", "t")
 
     def __init__(self, book_id, page, seq):
         self.book_id = book_id
         self.page = page
         self.seq = seq
         self.dropped = False
+        self.t = time.monotonic()
 
 
 # Student page requests line up here and are served NEAREST-TO-THE-STUDENT
@@ -290,7 +291,10 @@ def _gate_priority(w):
     center = _latest_request.get(w.book_id, w.page)
     d = w.page - center
     # Pages ahead of the student rank slightly better than pages behind.
-    return ((d if d >= 0 else -d * 1.5), w.seq)
+    dist = d if d >= 0 else -d * 1.5
+    # Aging: a request that has waited a long time gradually wins, so an
+    # old request can never be starved forever by a student who keeps moving.
+    return (dist - 2.0 * (time.monotonic() - w.t), w.seq)
 
 
 def _gate_enter(book_id: str, page: int):
@@ -300,7 +304,7 @@ def _gate_enter(book_id: str, page: int):
         _gate_waiters.append(w)
         _waiting["n"] = len(_gate_waiters)
         # Too many waiting: drop the farthest from the student's position.
-        while len(_gate_waiters) > MAX_WAITING:
+        while MAX_WAITING > 0 and len(_gate_waiters) > MAX_WAITING:
             far = max(_gate_waiters, key=_gate_priority)
             far.dropped = True
             _gate_waiters.remove(far)
