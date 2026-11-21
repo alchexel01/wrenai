@@ -1,0 +1,915 @@
+[
+ {
+  "id": "physics-1990-2",
+  "subject": "physics",
+  "year": 1990,
+  "number": 2,
+  "question": "Which of the following is a fundamental unit?",
+  "options": {
+   "A": "Newton",
+   "B": "Watt",
+   "C": "Joule",
+   "D": "Second"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1990_p38_2.png",
+  "images": [
+   "physics/1990_p38_2.png"
+  ]
+ },
+ {
+  "id": "physics-1990-3",
+  "subject": "physics",
+  "year": 1990,
+  "number": 3,
+  "question": "Two horizontal forces, 10N and 8N and another force F, inclined at 30⁰ to the vertical acting as shown in the diagram above, keep the body P in equilibrium. The weight of the body is",
+  "options": {
+   "A": "2 3 N",
+   "B": "3 N",
+   "C": "4 3 N",
+   "D": "2 3 N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-4",
+  "subject": "physics",
+  "year": 1990,
+  "number": 4,
+  "question": "A car moving with a speed of 90km h was brought uniformly to rest by the application of the brakes in 10s. How far did the car travel after the brakes were applied?",
+  "options": {
+   "A": "125 m",
+   "B": "150 m",
+   "C": "250 m",
+   "D": "15 km"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-5",
+  "subject": "physics",
+  "year": 1990,
+  "number": 5,
+  "question": "A particle of mass M which is at rest splits up into two. If the mass and velocity of one of the particles are m and v respectively, calculate the velocity of the second particle.",
+  "options": {
+   "A": "mv .",
+   "B": "Mv . M - m",
+   "C": "Mv . M + m",
+   "D": "mv . M - m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-6",
+  "subject": "physics",
+  "year": 1990,
+  "number": 6,
+  "question": "What is the average velocity of the sprinter whose velocity-time graph is shown in the figure above?",
+  "options": {
+   "A": "85.0m s⁻¹",
+   "B": "17.0m s⁻¹",
+   "C": "8.5m s⁻¹",
+   "D": "1.7m s⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1990_p38_4.png",
+  "images": [
+   "physics/1990_p38_4.png"
+  ]
+ },
+ {
+  "id": "physics-1990-7",
+  "subject": "physics",
+  "year": 1990,
+  "number": 7,
+  "question": "Which of the following statements are correct about an object in equilibrium under parallel forces? I The total clockwise moments of the forces about any point equals the total anticlockwise moments about the same point. II The total forces in one direction equals the total forces in the opposite direction III The resolved components along the x- axis equals the resolved component along the y-axis.",
+  "options": {
+   "A": "I and II only",
+   "B": "I and III only",
+   "C": "II and III only",
+   "D": "I, II and III."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-8",
+  "subject": "physics",
+  "year": 1990,
+  "number": 8,
+  "question": "A force of 5N acts at a point Y on a rod XYZ as shown in the diagram above. If XY is 2m, what is the moment of the force about point X?",
+  "options": {
+   "A": "0Nm",
+   "B": "3Nm",
+   "C": "7Nm",
+   "D": "10Nm."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1990_p38_3.png",
+  "images": [
+   "physics/1990_p38_3.png"
+  ]
+ },
+ {
+  "id": "physics-1990-9",
+  "subject": "physics",
+  "year": 1990,
+  "number": 9,
+  "question": "To keep a vehicle moving at a constant speed v, requires power P, from the engine. The force provided by the engine is",
+  "options": {
+   "A": "P",
+   "B": "1/2v",
+   "C": "pv",
+   "D": "p/v²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-10",
+  "subject": "physics",
+  "year": 1990,
+  "number": 10,
+  "question": "A stone of mass m kg is held h meters above the floor for 50s. The work done in joules over the period is",
+  "options": {
+   "A": "mh",
+   "B": "mgh",
+   "C": "mgh/50",
+   "D": "0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-11",
+  "subject": "physics",
+  "year": 1990,
+  "number": 11,
+  "question": "A body of mass 10kg rests on a rough inclined plane whose angle of tilt è is variable. is gradually increased until the body starts to slide down the plane at 30⁰. The coefficient of limiting friction between the body and the plane is",
+  "options": {
+   "A": "0.30",
+   "B": "0.50",
+   "C": "0.58",
+   "D": "0.87."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-12",
+  "subject": "physics",
+  "year": 1990,
+  "number": 12,
+  "question": "An inclined plane which makes an angle of 30⁰ with the horizontal has a velocity ratio of",
+  "options": {
+   "A": "2",
+   "B": "1",
+   "C": "0.866",
+   "D": "0.50."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-13",
+  "subject": "physics",
+  "year": 1990,
+  "number": 13,
+  "question": "What is the length of the liquid column in a barometer tube that would support an atmospheric pressure of 102000 Nm⁻² if the density of the liquid is 2600 kgm⁻³? [g = 10 ms⁻²].",
+  "options": {
+   "A": "0.75m",
+   "B": "0.76m",
+   "C": "3.92m",
+   "D": "39.23m."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-14",
+  "subject": "physics",
+  "year": 1990,
+  "number": 14,
+  "question": "40cm³ of liquid is mixed with 60m³ of another liquid Q. If the density of P and Q are 1.00kg m and 1.6kg m³ respectively, what is the density of the mixture?",
+  "options": {
+   "A": "0.05 kg m⁻³",
+   "B": "1.25 kg m⁻³",
+   "C": "1.30 kg m⁻³",
+   "D": "1.36 kg m⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-15",
+  "subject": "physics",
+  "year": 1990,
+  "number": 15,
+  "question": "The resistances of a platinum wire at the ice and steam points are 0.75 ohm and 1.05 ohm respectively. Determine the temperature at which the resistance of the wire is 0.90 ohm",
+  "options": {
+   "A": "43.0⁰C",
+   "B": "50.0⁰C",
+   "C": "69.9⁰C",
+   "D": "87.0⁰C"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-16",
+  "subject": "physics",
+  "year": 1990,
+  "number": 16,
+  "question": "A bar of initial length l₀ is heated through a temperature change Ä t to a new length l. The linear expansivity, á, of the bar is",
+  "options": {
+   "A": "l – l₀ . l Ä t",
+   "B": "l – l₀ . l₀ Ä t",
+   "C": "l₀ (1 + Ät)",
+   "D": "l – l₀ . l (1 + Ät)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-17",
+  "subject": "physics",
+  "year": 1990,
+  "number": 17,
+  "question": "The pressure of a gas when cooled at constant volume will decrease because the molecules",
+  "options": {
+   "A": "Collide less frequently with the walls of the container.",
+   "B": "Have the same average kinetic energy",
+   "C": "Break up into smaller molecules",
+   "D": "Decrease in number."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-18",
+  "subject": "physics",
+  "year": 1990,
+  "number": 18,
+  "question": "1kg of copper is transferred quickly from boiling water to a block of ice. Calculate the mass of ice melted, neglecting heat loss.",
+  "options": {
+   "A": "60g",
+   "B": "67g",
+   "C": "120g",
+   "D": "133g"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-19",
+  "subject": "physics",
+  "year": 1990,
+  "number": 19,
+  "question": "Which of the following conditions will make water boil at a temperature of 100⁰C when the atmospheric pressure is 750mm Hg?",
+  "options": {
+   "A": "Increase the external pressure",
+   "B": "Reduce the external pressure",
+   "C": "Heat more rapidly at the same pressure.",
+   "D": "Reduce the external pressure by a quarter."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-20",
+  "subject": "physics",
+  "year": 1990,
+  "number": 20,
+  "question": "Which of the following statements are correct? I Land and sea breezes are natural convection currents. II Convection may occur in liquids or gases but not in solids. III The vacuum in thermos flask prevents heat loss due to convection only.",
+  "options": {
+   "A": "I and II only",
+   "B": "II and III only",
+   "C": "I and III only",
+   "D": "I, II and III."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-21",
+  "subject": "physics",
+  "year": 1990,
+  "number": 21,
+  "question": "A light wave of frequency 5 x 10¹⁴ Hz moves through water which has a refractive index of ⁴/₃ . Calculate the wavelength in water if the velocity of light in air is 3 x 10⁸ ms⁻¹",
+  "options": {
+   "A": "4.5 x 10⁻⁷m",
+   "B": "6.0 x 10⁻⁷m",
+   "C": "1.7 x 10⁻⁶m",
+   "D": "2.2 x 10⁻⁶m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-22",
+  "subject": "physics",
+  "year": 1990,
+  "number": 22,
+  "question": "A wave disturbance traveling in air enters a medium in which its velocity is less than that in air. Which of the following statements is true about the wave in the medium?",
+  "options": {
+   "A": "Both the frequency of the wave and the wavelength are decreased.",
+   "B": "The frequency of the wave is decreased while the wavelength is increased.",
+   "C": "The frequency of the wave is unaltered while the wavelength is decreased.",
+   "D": "The frequency of the wave is decreased while the wavelength is unaltered."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-23",
+  "subject": "physics",
+  "year": 1990,
+  "number": 23,
+  "question": "Shadows and eclipse result from the",
+  "options": {
+   "A": "Refraction of light",
+   "B": "Rectilinear propagation of light",
+   "C": "Defraction of light",
+   "D": "Reflection of light"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-24",
+  "subject": "physics",
+  "year": 1990,
+  "number": 24,
+  "question": "An object which is 3cm high is placed vertically 10cm in front of a concave mirror. If this object produces an image 40cm from the mirror, the height of the image is",
+  "options": {
+   "A": "0.75 cm",
+   "B": "4.00 cm",
+   "C": "8.00 cm",
+   "D": "12.00 cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-25",
+  "subject": "physics",
+  "year": 1990,
+  "number": 25,
+  "question": "A boy looks at the image of an object in a plane mirror. He observes two images, a main bright one and the other faint. The observed images result from",
+  "options": {
+   "A": "Reflection only",
+   "B": "Refraction only",
+   "C": "Diffraction and interference",
+   "D": "Reflection and infraction."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-26",
+  "subject": "physics",
+  "year": 1990,
+  "number": 26,
+  "question": "Which of the following diagrams correctly illustrates the path of a ray light through a glass prism?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/1990_p40_3.png",
+  "images": [
+   "physics/1990_p40_3.png",
+   "physics/1990_p40_1.png",
+   "physics/1990_p40_2.png"
+  ]
+ },
+ {
+  "id": "physics-1990-27",
+  "subject": "physics",
+  "year": 1990,
+  "number": 27,
+  "question": "What must be the distance between an object and a converging lens of focal length 20cm to produce an erect image two times the object height?",
+  "options": {
+   "A": "20cm",
+   "B": "15cm",
+   "C": "10cm",
+   "D": "5cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-28",
+  "subject": "physics",
+  "year": 1990,
+  "number": 28,
+  "question": "Which of the following correctly represents the diagram for locating the image P of an object O in a lens if F is the focal point of the lens?",
+  "options": {
+   "A": "I and II only",
+   "B": "II and III only",
+   "C": "III and Iv only",
+   "D": "I and Iv only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1990_p40_4.png",
+  "images": [
+   "physics/1990_p40_4.png"
+  ]
+ },
+ {
+  "id": "physics-1990-29",
+  "subject": "physics",
+  "year": 1990,
+  "number": 29,
+  "question": "For a short sighted person, light rays from a point on a very distant object is focused",
+  "options": {
+   "A": "In front of the retina",
+   "B": "On the retina by a converging lens",
+   "C": "Behind the retina by a diverging lens",
+   "D": "In front of the retina a distance 2F from the lens."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-30",
+  "subject": "physics",
+  "year": 1990,
+  "number": 30,
+  "question": "When light is incident on an object which is magenta in colour, which of the following colours be absorbed?",
+  "options": {
+   "A": "Red and blue",
+   "B": "Green only",
+   "C": "Red and green",
+   "D": "Red only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-31",
+  "subject": "physics",
+  "year": 1990,
+  "number": 31,
+  "question": "In a resonance tube experiment, the effective length of the air column for the first resonance is 20cm when set into vibration by a tuning fork of frequency 480 Hz. Neglecting end effect, the velocity of sound in air is",
+  "options": {
+   "A": "106 Hz",
+   "B": "213 Hz",
+   "C": "318 Hz",
+   "D": "425 Hz"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-33",
+  "subject": "physics",
+  "year": 1990,
+  "number": 33,
+  "question": "An organ pipe closed at one end is 80cm long. Determine the frequency of the fundamental note assuming that the speed of sound in air is 340ms⁻¹.",
+  "options": {
+   "A": "5.1N",
+   "B": "7.1N",
+   "C": "14.0N",
+   "D": "19.6N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-34",
+  "subject": "physics",
+  "year": 1990,
+  "number": 34,
+  "question": "One of the properties of the earth’s magnetic field is that the",
+  "options": {
+   "A": "North pole lies in the northern hemisphere",
+   "B": "Geographic and magnetic meridians coincide",
+   "C": "Earth’s magnetic flux is entirely horizontal at a place where the magnetic vertical dip is zero.",
+   "D": "Earth’s magnetic flux is entirely vertical at a place where the magnetic dip is zero."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-35",
+  "subject": "physics",
+  "year": 1990,
+  "number": 35,
+  "question": "Which of the following statements are true of an insulated charged body carrying a positive charge? I It contains excess positive charges II It creates an electric field III It possesses potential energy IV It carries electric current.",
+  "options": {
+   "A": "I and IV only",
+   "B": "I and II only",
+   "C": "I, II and II only",
+   "D": "I, II, III and IV."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-36",
+  "subject": "physics",
+  "year": 1990,
+  "number": 36,
+  "question": "Which of the following is a vector?",
+  "options": {
+   "A": "Electric charge",
+   "B": "Electric field",
+   "C": "Electric potential difference",
+   "D": "Electric capacitance."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-37",
+  "subject": "physics",
+  "year": 1990,
+  "number": 37,
+  "question": "Three cells each of e.m.f. 1.5V and an internal resistance of 1.0 Ohms are connected in parallel across a load resistance at 2.67 Ohms. Calculate the current in the load?",
+  "options": {
+   "A": "0.26A",
+   "B": "0.41A",
+   "C": "0.50A",
+   "D": "0.79A."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-38",
+  "subject": "physics",
+  "year": 1990,
+  "number": 38,
+  "question": "When a known standard resistor of 2.0 Ohms is connected to the 0.0cm end of a meter bridge the balance point is found to be 55.0cm. what is the value of the unknown resistor?",
+  "options": {
+   "A": "1.10 Ohms",
+   "B": "1.64 Ohms",
+   "C": "2.44 Ohms",
+   "D": "27.50 Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-39",
+  "subject": "physics",
+  "year": 1990,
+  "number": 39,
+  "question": "The total energy required to send a unit positive charge round a complete electrical circuit is the",
+  "options": {
+   "A": "Kinetic energy",
+   "B": "Potential difference",
+   "C": "Electromotive force",
+   "D": "Electrical energy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-40",
+  "subject": "physics",
+  "year": 1990,
+  "number": 40,
+  "question": "Which of the following graphs of current against voltage illustrates Ohm’s law? v v",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/1990_p41_1.png",
+  "images": [
+   "physics/1990_p41_1.png"
+  ]
+ },
+ {
+  "id": "physics-1990-41",
+  "subject": "physics",
+  "year": 1990,
+  "number": 41,
+  "question": "Which of the following is an essential physical property of the wires used for making fuses?",
+  "options": {
+   "A": "Low density",
+   "B": "High thermal conductivity",
+   "C": "Low electrical resistivity",
+   "D": "Low melting point."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-42",
+  "subject": "physics",
+  "year": 1990,
+  "number": 42,
+  "question": "Which of the following is most suitable for protecting the circuit of a 2000W electric iron connected to a 250V mains?",
+  "options": {
+   "A": "13A",
+   "B": "8A",
+   "C": "5A",
+   "D": "3A"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-43",
+  "subject": "physics",
+  "year": 1990,
+  "number": 43,
+  "question": "Electrical power is transmitted at a high voltage rather than low voltage because the amount of energy loss is reduced due to",
+  "options": {
+   "A": "Heat dissipation",
+   "B": "Production of eddy currents",
+   "C": "Excessive current discharged",
+   "D": "Excessive voltage discharged."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-44",
+  "subject": "physics",
+  "year": 1990,
+  "number": 44,
+  "question": "A lamp is rated 240V, 60W. The resistance of the filament is",
+  "options": {
+   "A": "960 Ohms",
+   "B": "16 Ohms",
+   "C": "15Ohms",
+   "D": "4 Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-45",
+  "subject": "physics",
+  "year": 1990,
+  "number": 45,
+  "question": "A 0 – 10 mA galvanometer with a coil resistance of 30 Ohms can be converted to a 0 –10A ammeter by using",
+  "options": {
+   "A": "0.03 ohms series resistor",
+   "B": "0.03 ohms shunt resistor",
+   "C": "9.99 ohms shunt resistor",
+   "D": "9.99 ohms series resistor"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-46",
+  "subject": "physics",
+  "year": 1990,
+  "number": 46,
+  "question": "The number of neutrons contained in the nucleus of ³² ₉⁸ ₂U is",
+  "options": {
+   "A": "92",
+   "B": "146",
+   "C": "238",
+   "D": "330"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-47",
+  "subject": "physics",
+  "year": 1990,
+  "number": 47,
+  "question": "What precaution should a manufacturer take to ensure that energy loss in a transformer is minimized?",
+  "options": {
+   "A": "The winding of the transformer should be made of high resistance wires.",
+   "B": "The core should be made of thin sheets of metal.",
+   "C": "No magnetic material should be used to make the core.",
+   "D": "The flux linking the primary with the secondary coils should be minimum."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-48",
+  "subject": "physics",
+  "year": 1990,
+  "number": 48,
+  "question": "A substance has a half life of 3 min. after 6 min, the count rate was observed to be 400. What was its count rate at zero time?",
+  "options": {
+   "A": "200",
+   "B": "1 200",
+   "C": "1 600",
+   "D": "2 400"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1990-49",
+  "subject": "physics",
+  "year": 1990,
+  "number": 49,
+  "question": "Which of the following graphs represents a voltage current characteristics curve for a diode?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/1990_p41_2.png",
+  "images": [
+   "physics/1990_p41_2.png",
+   "physics/1990_p41_3.png"
+  ]
+ },
+ {
+  "id": "physics-1990-50",
+  "subject": "physics",
+  "year": 1990,
+  "number": 50,
+  "question": "The photocell works on the principle of the",
+  "options": {
+   "A": "Voltaic cell",
+   "B": "Emission of electrons by incident radiation",
+   "C": "Emission of protons by incident electrons."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

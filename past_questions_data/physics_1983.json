@@ -1,0 +1,1006 @@
+[
+ {
+  "id": "physics-1983-1",
+  "subject": "physics",
+  "year": 1983,
+  "number": 1,
+  "question": "In a resonance tube experiment, a tube of fixed length in closed at one end and several turning forks of increasing frequency used to obtain resonance at the open end. If the turning fork with the lowest frequency which gave resonance had a frequency ƒ₁ and the next turning fork to give resonance had a frequency ƒ₂, find the ratio ƒ₂/ ƒ₁.",
+  "options": {
+   "A": "8",
+   "B": "3",
+   "C": "2",
+   "D": "½",
+   "E": "1/3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-2",
+  "subject": "physics",
+  "year": 1983,
+  "number": 2,
+  "question": "Which of the following is NOT a vector quantity",
+  "options": {
+   "A": "Force",
+   "B": "Altitude",
+   "C": "Weight",
+   "D": "Displacement",
+   "E": "Acceleration."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-3",
+  "subject": "physics",
+  "year": 1983,
+  "number": 3,
+  "question": "Consider the three forces acting at O and in equilibrium as shown in Fig. 1. Which of the following equation is/are CORRECT? I. P₁ cos 0₁ = P₁ cos O₂ II. P₃ = P₁ cos O₁ + P₂ cos O₂ III. P₁ sin O₁ = P₂ sin O₂",
+  "options": {
+   "A": "I only",
+   "B": "II only",
+   "C": "III only",
+   "D": "II and III only",
+   "E": "I and III only Which of the following statements about friction it NOT correct?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1983_p2_1.png",
+  "images": [
+   "physics/1983_p2_1.png"
+  ]
+ },
+ {
+  "id": "physics-1983-5",
+  "subject": "physics",
+  "year": 1983,
+  "number": 5,
+  "question": "A brick at rest on a horizontal table is pulled by a horizontal cord, as shown in Fig. 2. The force of friction on the brick",
+  "options": {
+   "A": "Increase if the pull increases but the brick does not move.",
+   "B": "Is directly horizontal to the right",
+   "C": "Decreases if an identical brick is placed on the first.",
+   "D": "Is zero if the brick is pulled hard enough to make it slide.",
+   "E": "Change if the brick is turned on its side."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1983_p2_2.png",
+  "images": [
+   "physics/1983_p2_2.png"
+  ]
+ },
+ {
+  "id": "physics-1983-6",
+  "subject": "physics",
+  "year": 1983,
+  "number": 6,
+  "question": "The force with which an object is attracted to the earth is called its",
+  "options": {
+   "A": "Acceleration",
+   "B": "Mass",
+   "C": "Gravity",
+   "D": "Impulse",
+   "E": "Weight."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-7",
+  "subject": "physics",
+  "year": 1983,
+  "number": 7,
+  "question": "The refractive index of a liquid is 1.5. If the velocity of light in vacuum is 3.0 x 10⁸m s⁻¹, the velocity of light in the liquid is",
+  "options": {
+   "A": "1.5 x 10³m s⁻¹",
+   "B": "2.0 x 10³m s⁻¹",
+   "C": "3.0 x 10³m s⁻¹",
+   "D": "4.5 x 10³m s⁻¹",
+   "E": "9.0 x 10³m s⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-8",
+  "subject": "physics",
+  "year": 1983,
+  "number": 8,
+  "question": "If the relative density of a metal is 19, what will be the mass of 20cm³ of the metal when immersed in water?",
+  "options": {
+   "A": "380g",
+   "B": "400g",
+   "C": "360g",
+   "D": "39g",
+   "E": "180g"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-9",
+  "subject": "physics",
+  "year": 1983,
+  "number": 9,
+  "question": "Which of the following statements about liquid pressure is NOT correct? The pressure",
+  "options": {
+   "A": "At a point in a liquid is proportional to the depth.",
+   "B": "At any point in a liquid is the same at the same level.",
+   "C": "Is exerted equally in all directions at any point.",
+   "D": "Of a liquid at any point on the wall of its container acts in a direction perpendicular to the wall.",
+   "E": "At a particular depth depends on the shape of the vessel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-10",
+  "subject": "physics",
+  "year": 1983,
+  "number": 10,
+  "question": "A ship traveling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevailing conditions is 250m s⁻¹, how much closer is the ship to the cliff?",
+  "options": {
+   "A": "10 m",
+   "B": "125 m",
+   "C": "175 m",
+   "D": "350 m",
+   "E": "1,000 m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-11",
+  "subject": "physics",
+  "year": 1983,
+  "number": 11,
+  "question": "Which of the following is NOT correct? I. The pitch of a sound note depends on the frequency of vibrations. II. The intensity of a sound note is proportional to the amplitude of vibrations. III. Beats are produces by two sources of sound because one wave is travelling faster than the other. IV. When two sources of sound of frequencies 500 Hz and 502 Hz are sounded together, a neat frequency of 2 Hz is observed. V. The first harmonic of a note has double the frequency of the fundamental note.",
+  "options": {
+   "A": "I and II",
+   "B": "II and III",
+   "C": "I and II",
+   "D": "III and IV",
+   "E": "IV and V."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-12",
+  "subject": "physics",
+  "year": 1983,
+  "number": 12,
+  "question": "Which of the following statements about defects of vision is/ are CORRECT I. For a long sighted person, close objects appear blurred. II. For a sort sighted person, distant objects appear blurred. III. Short sight is corrected by using a pair of converging lenses.",
+  "options": {
+   "A": "I onl",
+   "B": "II only",
+   "C": "I and II onl",
+   "D": "II and III only",
+   "E": "I, II and III."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-13",
+  "subject": "physics",
+  "year": 1983,
+  "number": 13,
+  "question": "The range of wavelengths of the visible spectrum is 400nm – 700nm. The wavelength of gamma rays",
+  "options": {
+   "A": "Longer than 700nm",
+   "B": "Shorter than 700nm but longer than 400nm",
+   "C": "550nm",
+   "D": "Shorter than 400nm",
+   "E": "Infinite"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-14",
+  "subject": "physics",
+  "year": 1983,
+  "number": 14,
+  "question": "If the pressure on 1000cm³ of an ideal gas is doubled while its Kelvin temperature is halved, then the new volume of the gas will become",
+  "options": {
+   "A": "25 cm³",
+   "B": "50 cm³",
+   "C": "100 cm³",
+   "D": "200 cm³",
+   "E": "400 cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-15",
+  "subject": "physics",
+  "year": 1983,
+  "number": 15,
+  "question": "A train has an initial velocity of 44m/s and an acceleration of –4m/s². Its velocity after 10 seconds",
+  "options": {
+   "A": "2m/s",
+   "B": "4m/s",
+   "C": "8m/s",
+   "D": "12m/s",
+   "E": "16m/s."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-16",
+  "subject": "physics",
+  "year": 1983,
+  "number": 16,
+  "question": "Which of the following conditions are necessary and sufficient for total internal reflection to take place at the boundary between two optical media? I Light is passing from optically denser medium to optically less dense medium. II Light is passing from optically less dense medium to optically denser medium. III Angle of incidence is greater. IV Angle of incidence if lesser.",
+  "options": {
+   "A": "I and II only",
+   "B": "II and II only",
+   "C": "III and IV only",
+   "D": "I and III only",
+   "E": "II and Iv only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-17",
+  "subject": "physics",
+  "year": 1983,
+  "number": 17,
+  "question": "A man of mass 50kg ascends a flight of stairs 5m high in 5 seconds. If acceleration due to gravity is 10m s⁻², the power expended is",
+  "options": {
+   "A": "100W",
+   "B": "300W",
+   "C": "250W",
+   "D": "400W",
+   "E": "500W"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-18",
+  "subject": "physics",
+  "year": 1983,
+  "number": 18,
+  "question": "Which of the following arrangements in the sequence shown can be used to obtain a pure spectrum of white light?",
+  "options": {
+   "A": "Source, slit, converging lens, prism, converging lens, screen.",
+   "B": "Source, slit, diverging lens, screen.",
+   "C": "Source, converging lens, prism, diverging lens, screen.",
+   "D": "Source, slit, prism, diverging lens, screen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-19",
+  "subject": "physics",
+  "year": 1983,
+  "number": 19,
+  "question": "10V I₅ 1Ù The diagrams in Fig.3 show three circuits. The internal resistances of the batteries are negligible. Which of the currents is the largest?",
+  "options": {
+   "A": "I₁",
+   "B": "I₂",
+   "C": "I₃",
+   "D": "I₄",
+   "E": "I₅"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1983_p3_1.png",
+  "images": [
+   "physics/1983_p3_1.png",
+   "physics/1983_p4_1.png"
+  ]
+ },
+ {
+  "id": "physics-1983-20",
+  "subject": "physics",
+  "year": 1983,
+  "number": 20,
+  "question": "A milliameter with full scale deflection of 100mA has an internal resistance of 5 ohms. It would be converted to an ammeter with a full scale deflection of 1A by connecting a resistance of",
+  "options": {
+   "A": "⁵ / ₉₉ ohm in series with it",
+   "B": "⁵ / ₉₉ ohm in parallel with it",
+   "C": "⁹⁹/₅ ohm in parallel with it",
+   "D": "⁹⁹/₅ ohm in series with it",
+   "E": "2 ohms in series with it"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-21",
+  "subject": "physics",
+  "year": 1983,
+  "number": 21,
+  "question": "It is usual to transmit electric power at high voltage and low current. Which of the following are possible advantages of the method. I Heat losses are reduced because the currents are small. II Thin wires can be used because small currents are flowing. III The power can flow faster because the voltage is high.",
+  "options": {
+   "A": "I only",
+   "B": "I and II only",
+   "C": "II and III only",
+   "D": "I and III only",
+   "E": "I, II and III."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-22",
+  "subject": "physics",
+  "year": 1983,
+  "number": 22,
+  "question": "The linear expansivity if brass is 2 x 10⁻¹ ⁰C⁻¹. If the volume of a piece of brass is 100cm³ at 0⁰C, what will be its volume at 100⁰C?",
+  "options": {
+   "A": "10.02 cm³",
+   "B": "10.04 cm³",
+   "C": "10.06 cm³",
+   "D": "10.20 cm³",
+   "E": "102.00 cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-23",
+  "subject": "physics",
+  "year": 1983,
+  "number": 23,
+  "question": "A 24V potential difference is applied across a parallel combination of four 6-ohm resistors. The currents in each resistor is",
+  "options": {
+   "A": "1 A",
+   "B": "4 A",
+   "C": "16 A",
+   "D": "18 A",
+   "E": "36 A"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-24",
+  "subject": "physics",
+  "year": 1983,
+  "number": 24,
+  "question": "In the circuit shown in Fig. 4, T is a resistor whose resistance falls as temperature increases. L ₁ and L ₂ are lamps. Assuming the cell has negligible internal resistance, as the temperature of T increases",
+  "options": {
+   "A": "L₁ becomes brighter, L₂ becomes dimmer.",
+   "B": "L₁ and L₂ becomes brighter.",
+   "C": "L₁ becomes dimmer, L₂ becomes brighter.",
+   "D": "L₁ becomes brighter, L₂ does not change.",
+   "E": "L₂ becomes dimmer, L ₁ does not change."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1983_p4_2.png",
+  "images": [
+   "physics/1983_p4_2.png"
+  ]
+ },
+ {
+  "id": "physics-1983-25",
+  "subject": "physics",
+  "year": 1983,
+  "number": 25,
+  "question": "Which of the diagrams in Fig. 5 gives the correct resultant R of two vectors P and P P I II P P III R fig 5. V Q",
+  "options": {
+   "A": "I",
+   "B": "II",
+   "C": "III",
+   "D": "IV",
+   "E": "V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1983_p4_4.png",
+  "images": [
+   "physics/1983_p4_4.png",
+   "physics/1983_p4_6.png",
+   "physics/1983_p4_3.png",
+   "physics/1983_p4_7.png",
+   "physics/1983_p4_5.png"
+  ]
+ },
+ {
+  "id": "physics-1983-26",
+  "subject": "physics",
+  "year": 1983,
+  "number": 26,
+  "question": "The electrochemical equivalent of a metal is 0.126 x 10⁻⁶ kg/C. The mass of the metal that a current of 5A deposit from a suitable bath in 1 hour is",
+  "options": {
+   "A": "0.0378 x 10⁻³kg",
+   "B": "0.227 x 10⁻³kg",
+   "C": "0.378 x 10⁻³kg",
+   "D": "0.595 x 10⁻³kg",
+   "E": "2.268 x 10⁻³kg"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-27",
+  "subject": "physics",
+  "year": 1983,
+  "number": 27,
+  "question": "Ripples on water are similar to light waves in that they both",
+  "options": {
+   "A": "Have the same wavelength",
+   "B": "Are longitudinal",
+   "C": "Cannot be reflected",
+   "D": "Travel at the same speed",
+   "E": "Can be refracted and diffracted."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-28",
+  "subject": "physics",
+  "year": 1983,
+  "number": 28,
+  "question": "A piece of wood is floating on water. The forces acting on the wood are",
+  "options": {
+   "A": "Upthrust and reaction.",
+   "B": "Weight and reaction",
+   "C": "Weight and upthrust",
+   "D": "Upthrsut and viscosity",
+   "E": "Weight and viscosity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-29",
+  "subject": "physics",
+  "year": 1983,
+  "number": 29,
+  "question": "Of the following derived units, the one that is not a unit of power is",
+  "options": {
+   "A": "Joule/second",
+   "B": "Ampere/volt",
+   "C": "Amphere²volt",
+   "D": "Ohm²/volt",
+   "E": "Volts²/ohm."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-30",
+  "subject": "physics",
+  "year": 1983,
+  "number": 30,
+  "question": "A force of 16N applied to a 4.0kg block that is at rest on a smooth horizontal surface. What is the velocity of the block at t = 5 seconds?",
+  "options": {
+   "A": "4 m/s",
+   "B": "10 m/s",
+   "C": "20 m/s",
+   "D": "50 m/s",
+   "E": "80 m/s"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-31",
+  "subject": "physics",
+  "year": 1983,
+  "number": 31,
+  "question": "1,000 identical drops of oil of density 5000kg/m³ have a total mass of 5 x 10⁻⁴kg. One of the drops forms a thin film of area 0.5m² on water. The thickness of the film is",
+  "options": {
+   "A": "2 x 10⁻⁸m",
+   "B": "2 x 10⁻⁹m",
+   "C": "2 x 10⁻⁷m",
+   "D": "3 x 10⁻⁹m",
+   "E": "2.8x 10⁻⁸m."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-32",
+  "subject": "physics",
+  "year": 1983,
+  "number": 32,
+  "question": "The total length of a spring when a mass of 200g is hung from its end is 14cm, while its total length is 16cm when a mass of 30kg is hung from the same end. Calculate the unstretched length of the spring assuming Hooke’s law is obeyed.",
+  "options": {
+   "A": "9.33 cm",
+   "B": "10.00 cm",
+   "C": "10.66 cm",
+   "D": "12.00 cm",
+   "E": "15.00 cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-33",
+  "subject": "physics",
+  "year": 1983,
+  "number": 33,
+  "question": "Each of the diagrams in Fig. 6 represents two current carrying conductors situated close to each other. In which two diagrams are the forces between the two wires attractive? III Fig .6",
+  "options": {
+   "A": "I and V",
+   "B": "I and III",
+   "C": "II and IVD. II and V",
+   "E": "III and IV"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1983_p5_1.png",
+  "images": [
+   "physics/1983_p5_1.png",
+   "physics/1983_p5_2.png"
+  ]
+ },
+ {
+  "id": "physics-1983-34",
+  "subject": "physics",
+  "year": 1983,
+  "number": 34,
+  "question": "Which of the following statements is CORRECT? I The mass number is equal to the total number of protrons and electrons in an atom. II The atomic number is equal to the number of protrons in an atom III The number of electrons in an atom is equal to the total number of protons and neutrons in the nucleus.",
+  "options": {
+   "A": "I only",
+   "B": "II only",
+   "C": "III only",
+   "D": "I and II only",
+   "E": "II and III only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-35",
+  "subject": "physics",
+  "year": 1983,
+  "number": 35,
+  "question": "A short response time is obtained in a liquid-in- glass thermometer when the",
+  "options": {
+   "A": "Bulb is large and thick-walled.",
+   "B": "Stem is long and thin.",
+   "C": "Bulb is small and thick-walled.",
+   "D": "Bulb is high density and the bore is large.",
+   "E": "Bulb is thin-walled and the liquid is a good conductor of heat."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-36",
+  "subject": "physics",
+  "year": 1983,
+  "number": 36,
+  "question": "A machine has a velocity ratio of 5. It requires a 50kg weight to overcome a 200kg weight. The efficiency is",
+  "options": {
+   "A": "4%",
+   "B": "5%",
+   "C": "40%",
+   "D": "50%",
+   "E": "80%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-37",
+  "subject": "physics",
+  "year": 1983,
+  "number": 37,
+  "question": "If the normal atmospheric pressure in a laboratory supports a column of mercury 0.76m high and the relative density of mercury is 13.8, then the height of water column which atmospheric pressure will support in the same laboratory at the same time is",
+  "options": {
+   "A": "0 m",
+   "B": "10 m",
+   "C": "13 m",
+   "D": "14 m",
+   "E": "18 m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-38",
+  "subject": "physics",
+  "year": 1983,
+  "number": 38,
+  "question": "An electric current of 3A flowing through an electric heating element of resistance 20 embedded in 1,000g of an oil raises the temperature of the oil by 10⁰C in 10 seconds, then the specific heat capacity of the oil is",
+  "options": {
+   "A": "1.8 J/g",
+   "B": "0.6 J/g",
+   "C": "0.18 J/g ⁰C",
+   "D": "1.8 J/g ⁰C",
+   "E": "0.06 J/g ⁰C"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-39",
+  "subject": "physics",
+  "year": 1983,
+  "number": 39,
+  "question": "The difference of potential between the terminals of a cell is 2.2 volts. When a 4 ohm resistor is connected across the terminals of this cell, the potential difference is 2 volts. What is the internal resistance of the cell?",
+  "options": {
+   "A": "0.10 ohms",
+   "B": "0.25 ohms",
+   "C": "0.40 ohms",
+   "D": "2.50 ohms",
+   "E": "4.00 ohms."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-40",
+  "subject": "physics",
+  "year": 1983,
+  "number": 40,
+  "question": "Q In Fig. 7 above, QR is a vertical conductor and the current I flows from R to Q. P is a point on the horizontal plane and it to the South of the wire. The direction of the magnetic filed at P due to the current is",
+  "options": {
+   "A": "Upward",
+   "B": "North",
+   "C": "South",
+   "D": "West",
+   "E": "East"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1983_p6_2.png",
+  "images": [
+   "physics/1983_p6_2.png"
+  ]
+ },
+ {
+  "id": "physics-1983-41",
+  "subject": "physics",
+  "year": 1983,
+  "number": 41,
+  "question": "Which of the following best describes the energy changes which take place when a steam engine drives a generator which lights a lamp?",
+  "options": {
+   "A": "Heat Light Sound Kinetic",
+   "B": "Kinetic Light Heat Electricity",
+   "C": "Heat Kinetic Electricity Heat and Light",
+   "D": "Electricity Kinetic Heat Light",
+   "E": "Heat Sound Kinetic Electricity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-42",
+  "subject": "physics",
+  "year": 1983,
+  "number": 42,
+  "question": "Which of the following statements clearly describe the behaviour of the fire alarm shown in Fig. 8 below given that the linear expansivities of copper and steel are 2.0 x 10⁻⁵/⁰C and 1.2 x 10⁻⁵/⁰C respectively? I The bimetallic strip will not be able to close the circuit when there is fire II The bimetallic strip will close the circuit when there is fire III If the copper and steel are interchanged, the circuit will close when there is fire.",
+  "options": {
+   "A": "I only",
+   "B": "II only",
+   "C": "III only",
+   "D": "I and III",
+   "E": "II and III"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1983_p6_1.png",
+  "images": [
+   "physics/1983_p6_1.png"
+  ]
+ },
+ {
+  "id": "physics-1983-43",
+  "subject": "physics",
+  "year": 1983,
+  "number": 43,
+  "question": "Four equal resistors R₁, R₂, R₃ and R₄ are connected in series as shown in Fig 9 below. V₁, V₂ and V₃ are voltmeters connected as indicated. Which of the following relations is CORRECT?",
+  "options": {
+   "A": "V₁ = V₃ = V₂ .",
+   "B": "V₁ = 2V₂ =V₃ ₂",
+   "C": "V₁ = ½ V ₃= V",
+   "D": "V₁ - V₃ = V₂",
+   "E": "V₂ – V1 = V₃ ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-44",
+  "subject": "physics",
+  "year": 1983,
+  "number": 44,
+  "question": "Which of the following may be used to determine relative humidity in a physics laboratory? I Manometer II Wet-and-dry bulb hygrometer III Hair hygrometer IV A hydrometer",
+  "options": {
+   "A": "I only",
+   "B": "II and III only",
+   "C": "II only",
+   "D": "III only",
+   "E": "II, III and IV only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1983_p7_1.png",
+  "images": [
+   "physics/1983_p7_1.png"
+  ]
+ },
+ {
+  "id": "physics-1983-45",
+  "subject": "physics",
+  "year": 1983,
+  "number": 45,
+  "question": "PQ is a thin rod on a horizontal table, RS is a plane mirror inclined at 45⁰C to the horizontal as shown in Fig. 10 above. The image of PQ as seen in the mirror by the eye, T is",
+  "options": {
+   "A": "Horizontal",
+   "B": "Parallel to the mirror",
+   "C": "At infinity",
+   "D": "Vertical",
+   "E": "Highly magnified."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-46",
+  "subject": "physics",
+  "year": 1983,
+  "number": 46,
+  "question": "The speed of light in vacuum is 3.0 x 10⁸m s⁻¹. If the refractive index of a transparent liquid is 4/3 then the speed of light in the liquid is",
+  "options": {
+   "A": "0.44 x 10⁸m s⁻¹",
+   "B": "2.25 x 10⁸m s⁻¹",
+   "C": "3.0 x 10⁸m s⁻¹",
+   "D": "4.0 x 10⁸m s⁻¹",
+   "E": "4.33 x 10⁸m s⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-47",
+  "subject": "physics",
+  "year": 1983,
+  "number": 47,
+  "question": "If the force on a charge of 0.2 coulomb in an electric field is 4N, then the electric field intensity of the field is",
+  "options": {
+   "A": "0.8",
+   "B": "0.8 N/C",
+   "C": "20.0 N/C",
+   "D": "4.2 N/C",
+   "E": "20.0 C/N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-48",
+  "subject": "physics",
+  "year": 1983,
+  "number": 48,
+  "question": "The specific latent heat of vapourization of a substance is always",
+  "options": {
+   "A": "Less than its specific latent heat of fusion.",
+   "B": "Greater than its specific heat of fusion.",
+   "C": "Equal to its specific latent heat of fusion",
+   "D": "All of the above depending on the nature of the substance",
+   "E": "None of the above"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-49",
+  "subject": "physics",
+  "year": 1983,
+  "number": 49,
+  "question": "Longitudinal waves do not exhibit",
+  "options": {
+   "A": "Refraction",
+   "B": "Reflection",
+   "C": "Diffraction",
+   "D": "Polarization",
+   "E": "Rarefaction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1983-50",
+  "subject": "physics",
+  "year": 1983,
+  "number": 50,
+  "question": "Fig. 11 above shows an inverted U-tube with the open end, O of one limb below the level, W, of the water in a tank. In order that water should begin to flow from the tank it is necessary that",
+  "options": {
+   "A": "The U-tube is completely filled with water and P should be higher than W.",
+   "B": "P should be lower than O and W",
+   "C": "P should be lower than W and O should reach to the bottom of the vessel.",
+   "D": "The U-tube is completely filled with water and P should be lower than W.",
+   "E": "The U-tube is completely filled with water and O should reach the bottom of the vessel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1983_p7_2.png",
+  "images": [
+   "physics/1983_p7_2.png"
+  ]
+ }
+]

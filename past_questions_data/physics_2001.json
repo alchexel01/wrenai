@@ -1,0 +1,946 @@
+[
+ {
+  "id": "physics-2001-1",
+  "subject": "physics",
+  "year": 2001,
+  "number": 1,
+  "question": "In the diagram above, which of the simple pendulum will resonate with P when set into oscillation?",
+  "options": {
+   "A": "T",
+   "B": "U",
+   "C": "R and T",
+   "D": "Q and R"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2001_p82_1.png",
+  "images": [
+   "physics/2001_p82_1.png"
+  ]
+ },
+ {
+  "id": "physics-2001-2",
+  "subject": "physics",
+  "year": 2001,
+  "number": 2,
+  "question": "The height at which the atmosphere ceases to exist is about 80km. If the atmospheric pressure on the ground level is 760 mmHg, the pressure at a height of 20km above the ground level is",
+  "options": {
+   "A": "380 mmHg",
+   "B": "570 mmHg",
+   "C": "190 mmHg",
+   "D": "480 mmHg"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-3",
+  "subject": "physics",
+  "year": 2001,
+  "number": 3,
+  "question": "A stone of mass 1 kg is dropped from a height of 10m above the ground and falls freely under gravity. Its kinetic energy 5m above the ground is then equal to",
+  "options": {
+   "A": "Its kinetic energy on the ground",
+   "B": "Twice its initial potential energy",
+   "C": "Its initial potential energy",
+   "D": "Half its initial potential energy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-4",
+  "subject": "physics",
+  "year": 2001,
+  "number": 4,
+  "question": "The diagram above is a block-and-tackle pulley system in which an effort of 80N is used to lift a load of 240N. the efficiency of the machine is",
+  "options": {
+   "A": "60%",
+   "B": "50%",
+   "C": "40%",
+   "D": "33%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2001_p82_2.png",
+  "images": [
+   "physics/2001_p82_2.png"
+  ]
+ },
+ {
+  "id": "physics-2001-5",
+  "subject": "physics",
+  "year": 2001,
+  "number": 5,
+  "question": "If a spherical metal bob of radius 3cm is fully immersed in a cylinder containing water and the water level rises by 1cm, what is the radius of the cylinder?",
+  "options": {
+   "A": "12cm",
+   "B": "1cm",
+   "C": "3cm",
+   "D": "6cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-6",
+  "subject": "physics",
+  "year": 2001,
+  "number": 6,
+  "question": "The resultant of two forces acting on an object is maximum if the angle between them is",
+  "options": {
+   "A": "45⁰",
+   "B": "0⁰",
+   "C": "90⁰",
+   "D": "180⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-7",
+  "subject": "physics",
+  "year": 2001,
+  "number": 7,
+  "question": "I. The earth is not spherical but elliptical in shape II Variation in latitude and longitude III Rotation of the earth on its axis IV Variation in the density of the earth On which combination of the above does the weight of an object vary on the earth’s surface?",
+  "options": {
+   "A": "I, II, III and IV",
+   "B": "II, III and IV only",
+   "C": "I, II and III only",
+   "D": "I and II only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-8",
+  "subject": "physics",
+  "year": 2001,
+  "number": 8,
+  "question": "The efficiency of a machine is always less than 100% because the",
+  "options": {
+   "A": "Work output is always greater than the work input",
+   "B": "Load lifted is always greater tan the effort applied",
+   "C": "Effort applied is always greater than the load lifted",
+   "D": "Velocity ratio is always greater than the mechanical advantage."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-9",
+  "subject": "physics",
+  "year": 2001,
+  "number": 9,
+  "question": "Which of the following consists entirely of vector quantities?",
+  "options": {
+   "A": "Velocity, magnetic flux and reaction.",
+   "B": "Tension, magnetic flux and mass",
+   "C": "Displacement, impulse and power",
+   "D": "Work, pressure and moment."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-10",
+  "subject": "physics",
+  "year": 2001,
+  "number": 10,
+  "question": "Ice cubes are added to a glass of warm water. The glass and water are cooled by",
+  "options": {
+   "A": "Conduction only",
+   "B": "Convection only",
+   "C": "Conduction and convection",
+   "D": "Convection and radiation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-11",
+  "subject": "physics",
+  "year": 2001,
+  "number": 11,
+  "question": "A ray of light strikes a plane mirror at an angle of incidence of 35⁰. If the mirror is rotated through 10⁰, through what angle is the reflected ray rotated?",
+  "options": {
+   "A": "70⁰",
+   "B": "45⁰",
+   "C": "25⁰",
+   "D": "20⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-12",
+  "subject": "physics",
+  "year": 2001,
+  "number": 12,
+  "question": "Find the frequencies of the first three harmonic of a piano string of length 1.5m, if the velocity of the waves on the string is 120ms⁻¹.",
+  "options": {
+   "A": "80 Hz, 80 Hz, 120 Hz",
+   "B": "80 Hz, 160 Hz, 240 Hz",
+   "C": "180 Hz, 360 Hz, 540 Hz",
+   "D": "360 Hz, 180 Hz, 90 Hz",
+   "E": ""
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-13",
+  "subject": "physics",
+  "year": 2001,
+  "number": 13,
+  "question": "The terrestrial telescope has one extra lens more than the astronomical telescope. The extra lens is for",
+  "options": {
+   "A": "Improving the sharpness",
+   "B": "Creating an inverted image",
+   "C": "Magnification of the image",
+   "D": "Erection of the image"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-14",
+  "subject": "physics",
+  "year": 2001,
+  "number": 14,
+  "question": "The driving mirror of a car has a radius of curvature of 1m. Avehicle behind the car is 4m from the mirror. Find the image distance behind the mirror.",
+  "options": {
+   "A": "8",
+   "B": "4",
+   "C": "9 D 4 7 9 2 7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-15",
+  "subject": "physics",
+  "year": 2001,
+  "number": 15,
+  "question": "If a ray traveling in air is incident on a transparent medium as shown in the diagram, the refractive index of the medium is given as",
+  "options": {
+   "A": "Cos&",
+   "B": "Sin& Sin B SinB C Cos B D SinB Sin & Sin& The pressure of a mass of a gas changes from 300Nm-2 to 120Nm-2 while the temperature drops from 1270C to -73oc. The ratio of the final volume to the initial volume is",
+   "C": "5 ; 2",
+   "D": "4 ; 5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2001_p83_1.png",
+  "images": [
+   "physics/2001_p83_1.png"
+  ]
+ },
+ {
+  "id": "physics-2001-17",
+  "subject": "physics",
+  "year": 2001,
+  "number": 17,
+  "question": "A plane sound wave of frequency 85.5 Hz and velocity 342 ms⁻¹ is reflected from a vertical wall. At what distance from the wall does the wave have an antinode?",
+  "options": {
+   "A": "2m",
+   "B": "4m",
+   "C": "1m",
+   "D": "3m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-18",
+  "subject": "physics",
+  "year": 2001,
+  "number": 18,
+  "question": "A string is fastened tightly between two walls 24cm apart. The wavelength of the second overtone is",
+  "options": {
+   "A": "24cm",
+   "B": "16cm",
+   "C": "12cm",
+   "D": "8cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-19",
+  "subject": "physics",
+  "year": 2001,
+  "number": 19,
+  "question": "A gas with initial volume of 2 x 10⁻⁶m³ is allowed to expand to six times its initial volume at constant pressure of 2 x 10⁵Nm⁻². The work done is",
+  "options": {
+   "A": "2.0J",
+   "B": "4.0J",
+   "C": "12.0J",
+   "D": "1.2J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-20",
+  "subject": "physics",
+  "year": 2001,
+  "number": 20,
+  "question": "The thermometric substance of an absolute thermometer is",
+  "options": {
+   "A": "Alcohol",
+   "B": "Mercury",
+   "C": "Helium",
+   "D": "Platinum"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-21",
+  "subject": "physics",
+  "year": 2001,
+  "number": 21,
+  "question": "A cell of internal resistance r supplies current to a 6.0 Ohms resistor and its efficiency is 75%. Find the value of r",
+  "options": {
+   "A": "4.5 Ohms",
+   "B": "1.0 Ohms",
+   "C": "8.0 Ohms",
+   "D": "2.0 Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-22",
+  "subject": "physics",
+  "year": 2001,
+  "number": 22,
+  "question": "In the diagram above, the current I is",
+  "options": {
+   "A": "3/8A",
+   "B": "9/11A",
+   "C": "11/9A",
+   "D": "8/3A"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2001_p83_3.png",
+  "images": [
+   "physics/2001_p83_3.png"
+  ]
+ },
+ {
+  "id": "physics-2001-23",
+  "subject": "physics",
+  "year": 2001,
+  "number": 23,
+  "question": "The diagram above shows two capacitors P and Q of capacitances 2uF and 4 uF respectively connected to a.d.c. source. The ratio of energy stored in P to Q is",
+  "options": {
+   "A": "4 : 1",
+   "B": "2 : 1",
+   "C": "1 : 4",
+   "D": "1 : 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2001_p83_2.png",
+  "images": [
+   "physics/2001_p83_2.png"
+  ]
+ },
+ {
+  "id": "physics-2001-24",
+  "subject": "physics",
+  "year": 2001,
+  "number": 24,
+  "question": "A resistance R is connected across the terminal of an electric cell of internal resistance 2Ohms and the voltage was reduced to 3/5 of its nominal value. The value of R is",
+  "options": {
+   "A": "3 Ohms",
+   "B": "2 Ohms",
+   "C": "1 Ohms",
+   "D": "6 Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-25",
+  "subject": "physics",
+  "year": 2001,
+  "number": 25,
+  "question": "The diagram above shows three capacitors C₁, C₂ and C₃ of capacitances 2ìF, 6 ìF and 3 ìF respectively. The potential differences across C₁, C₂ and C₃ respectively are",
+  "options": {
+   "A": "4V, 6V and 2V",
+   "B": "2V, 6V and 4V",
+   "C": "6V, 4V and 2V",
+   "D": "6V, 2V and 4V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2001_p84_1.png",
+  "images": [
+   "physics/2001_p84_1.png"
+  ]
+ },
+ {
+  "id": "physics-2001-26",
+  "subject": "physics",
+  "year": 2001,
+  "number": 26,
+  "question": "A student is at a height 4m above the ground during a thunderstorm. Given that the potential difference between the thundercloud and the ground is 10⁷V, the electric field created by the storm is",
+  "options": {
+   "A": "2.0 x 10⁶NC⁻¹",
+   "B": "2.5 x 10⁶NC⁻¹",
+   "C": "1.0 x 10⁷NC⁻¹",
+   "D": "4.0 x 10⁷NC⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-27",
+  "subject": "physics",
+  "year": 2001,
+  "number": 27,
+  "question": "A working electric motor takes a current of 1.5A when the p.d. across it is 250V. If its efficiency is 80%, the power output is",
+  "options": {
+   "A": "300.0W",
+   "B": "469.0W",
+   "C": "133.0W",
+   "D": "4.8W"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-28",
+  "subject": "physics",
+  "year": 2001,
+  "number": 28,
+  "question": "The cost of running five 60 W lamps and four 100W lamps for 20 hours if electrical energy costs N10.00 per kWh is A N 280.00 B. N 160.00",
+  "options": {
+   "C": "N 120.00",
+   "D": "N 140.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-29",
+  "subject": "physics",
+  "year": 2001,
+  "number": 29,
+  "question": "In a Daniel cell, the depolarize, positive and negative electrodes are respectively",
+  "options": {
+   "A": "Copper sulphate, copper and zinc",
+   "B": "Manganese dioxide, carbon and zinc",
+   "C": "Sulphuric aicd, lead oxide and lead",
+   "D": "Potassium hydroxide, nickel and iron"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-30",
+  "subject": "physics",
+  "year": 2001,
+  "number": 30,
+  "question": "The diagram above shows a closed square box of side 0.5m in a uniform electric field E in the direction shown by the arrows. What is the flux for the box?",
+  "options": {
+   "A": "0.5 E",
+   "B": "2.0 E",
+   "C": "0.2 E",
+   "D": "0.0 E"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2001_p84_3.png",
+  "images": [
+   "physics/2001_p84_3.png"
+  ]
+ },
+ {
+  "id": "physics-2001-31",
+  "subject": "physics",
+  "year": 2001,
+  "number": 31,
+  "question": "A bread toaster uses a current of 4A when plugged in a 240 volts line. It takes one minute to toast slices of bread. What is the energy consumed by the toaster?",
+  "options": {
+   "A": "5.76 x 10⁴J",
+   "B": "1.60 x 10⁴J",
+   "C": "3.60 x 10³J",
+   "D": "1.60 x 10²J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-32",
+  "subject": "physics",
+  "year": 2001,
+  "number": 32,
+  "question": "In the circuit diagram above, the ammeter reads a current of 3A when R is 5 Ohms and 6A when R is 2 Ohms. Determine the value of x",
+  "options": {
+   "A": "8 Ohms",
+   "B": "2 Ohms",
+   "C": "10 Ohms",
+   "D": "4 Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2001_p84_2.png",
+  "images": [
+   "physics/2001_p84_2.png"
+  ]
+ },
+ {
+  "id": "physics-2001-33",
+  "subject": "physics",
+  "year": 2001,
+  "number": 33,
+  "question": "When a piece of rectangular glass block is inserted between two parallel plate capacitor, at constant plate area and distance of separation, the capacitance of the capacitor will",
+  "options": {
+   "A": "Increase",
+   "B": "Decrease",
+   "C": "Decrease, then increase",
+   "D": "Remain constant"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-34",
+  "subject": "physics",
+  "year": 2001,
+  "number": 34,
+  "question": "The ratio of electrostatic force FE to gravitational force FG between two protons each of charge e and mass m, at a distance d is",
+  "options": {
+   "A": "e",
+   "B": "e²",
+   "C": "Gm² 4ne₀ Gm Gm² 4nE₀ e²",
+   "D": "e² 4nE₀Gm₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-35",
+  "subject": "physics",
+  "year": 2001,
+  "number": 35,
+  "question": "What is the angle of dip at the magnetic equator?",
+  "options": {
+   "A": "450",
+   "B": "0⁰",
+   "C": "90⁰",
+   "D": "180⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-36",
+  "subject": "physics",
+  "year": 2001,
+  "number": 36,
+  "question": "A cell can supply currents of 0.4A and 0.2A through a 4.0 Ohms and 10.0 Ohms resistors respectively. The internal resistance of the cell is",
+  "options": {
+   "A": "2.0 Ohms",
+   "B": "1.0 Ohms",
+   "C": "2.5 Ohms",
+   "D": "1.5 Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-37",
+  "subject": "physics",
+  "year": 2001,
+  "number": 37,
+  "question": "Which of the following graphs correctly represents the variation of mass of a given material deposited with time for constant current in Faraday’s law of electrolysis?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/2001_p85_2.png",
+  "images": [
+   "physics/2001_p85_2.png"
+  ]
+ },
+ {
+  "id": "physics-2001-38",
+  "subject": "physics",
+  "year": 2001,
+  "number": 38,
+  "question": "In the diagram above, determine the r.m.s. current",
+  "options": {
+   "A": "31A",
+   "B": "48A",
+   "C": "60A",
+   "D": "80A"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2001_p85_1.png",
+  "images": [
+   "physics/2001_p85_1.png"
+  ]
+ },
+ {
+  "id": "physics-2001-39",
+  "subject": "physics",
+  "year": 2001,
+  "number": 39,
+  "question": "The particle emitted when ³₁ ⁹₉ K decays to ³₁ ⁹₉ K is",
+  "options": {
+   "A": "Gamma",
+   "B": "Beta",
+   "C": "Electron",
+   "D": "Alpha"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-40",
+  "subject": "physics",
+  "year": 2001,
+  "number": 40,
+  "question": "The current through a resistor in a.c. circuit is given as 2 sin wt. Determine the d.c. equivalent of the current",
+  "options": {
+   "A": "1 . A",
+   "B": "2 2 A",
+   "C": "2 A",
+   "E": "2 A"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-41",
+  "subject": "physics",
+  "year": 2001,
+  "number": 41,
+  "question": "I Low pressure II High pressure III High potential difference IV Low potential difference Which combination of the above is true of the conduction of electricity through gases?",
+  "options": {
+   "A": "I and IV only",
+   "B": "I and III only",
+   "C": "II and IV only",
+   "D": "II and III only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-42",
+  "subject": "physics",
+  "year": 2001,
+  "number": 42,
+  "question": "Which of the following metals will provide the greatest shield against ionizing radiation?",
+  "options": {
+   "A": "Iron",
+   "B": "Manganese",
+   "C": "Aluminium",
+   "D": "Lead"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-43",
+  "subject": "physics",
+  "year": 2001,
+  "number": 43,
+  "question": "The primary coil of a transformer has N turns and is connected to a 120 V a.c. power line. If the secondary coil has 1,000 turns and a terminal voltage of 1,200 volts, what is the value of N?",
+  "options": {
+   "A": "120",
+   "B": "100",
+   "C": "1,000",
+   "D": "1,200"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-44",
+  "subject": "physics",
+  "year": 2001,
+  "number": 44,
+  "question": "The process of energy production in the sun is",
+  "options": {
+   "A": "Nuclear fission",
+   "B": "Nuclear fusion",
+   "C": "Electron collision",
+   "D": "Radioactive decay"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-45",
+  "subject": "physics",
+  "year": 2001,
+  "number": 45,
+  "question": "At resonance, the phase angle in an a.c. circuit is",
+  "options": {
+   "A": "90⁰",
+   "B": "60⁰",
+   "C": "0⁰",
+   "D": "180⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-46",
+  "subject": "physics",
+  "year": 2001,
+  "number": 46,
+  "question": "The force on a current carrying conductor in a magnetic field is greatest when the",
+  "options": {
+   "A": "Conductor make an angle of 60⁰ with the field",
+   "B": "Force is independent of the angle between the field and the conductor",
+   "C": "Conductor is parallel with the field",
+   "D": "Conductor is at right angles with the field."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-47",
+  "subject": "physics",
+  "year": 2001,
+  "number": 47,
+  "question": "A transistor functions mainly as a",
+  "options": {
+   "A": "Switch and an amplifier",
+   "B": "Rectifier and an amplifier",
+   "C": "Charge storer and an amplifier",
+   "D": "Charge storer and switch."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-48",
+  "subject": "physics",
+  "year": 2001,
+  "number": 48,
+  "question": "Energy losses through eddy currents are reduced by using",
+  "options": {
+   "A": "Low resistance wires",
+   "B": "Insulated soft iron wires",
+   "C": "Few turns of wire",
+   "D": "High resistance wires"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-49",
+  "subject": "physics",
+  "year": 2001,
+  "number": 49,
+  "question": "A capacitor of 20 x 10⁻¹²F and an inductor are joined in series.. the value of the inductance that will give the circuit a resonant frequency of 200 kHz is",
+  "options": {
+   "A": "1 H",
+   "B": "1 H",
+   "C": "1 H",
+   "D": "1 H [ ² = 10]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2001-50",
+  "subject": "physics",
+  "year": 2001,
+  "number": 50,
+  "question": "The magnetic force on a charged particle moving with velocity v is",
+  "options": {
+   "A": "Proportional to both the magnitude of the charge and the velocity",
+   "B": "Independent of the magnitude of the charge",
+   "C": "Proportional to the velocity v only",
+   "D": "Proportional to the magnitude of the charge only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

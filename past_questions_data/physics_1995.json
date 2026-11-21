@@ -1,0 +1,946 @@
+[
+ {
+  "id": "physics-1995-1",
+  "subject": "physics",
+  "year": 1995,
+  "number": 1,
+  "question": "Which of the following is the dimension of pressure?",
+  "options": {
+   "A": "ML⁻¹T⁻²",
+   "B": "MLT⁻²",
+   "C": "ML²T⁻³",
+   "D": "ML⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-2",
+  "subject": "physics",
+  "year": 1995,
+  "number": 2,
+  "question": "The length of a displaced pendulum bob which passes its lowest point twice every second is",
+  "options": {
+   "A": "0.25m",
+   "B": "0.45m",
+   "C": "0.58m",
+   "D": "1.00m [g = 10ms⁻²]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-3",
+  "subject": "physics",
+  "year": 1995,
+  "number": 3,
+  "question": "In the diagram above, P, Q and R are vectors. Which of the following options gives the correct relationship between the vectors?",
+  "options": {
+   "A": "P = Q + R",
+   "B": "P = Q – R",
+   "C": "P = R – Q",
+   "D": "P + Q + R = 0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1995_p60_2.png",
+  "images": [
+   "physics/1995_p60_2.png"
+  ]
+ },
+ {
+  "id": "physics-1995-4",
+  "subject": "physics",
+  "year": 1995,
+  "number": 4,
+  "question": "The value of T in the figure above is",
+  "options": {
+   "A": "10.0 N",
+   "B": "11.8 N",
+   "C": "20.0 N",
+   "D": "40.0 N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1995_p60_1.png",
+  "images": [
+   "physics/1995_p60_1.png"
+  ]
+ },
+ {
+  "id": "physics-1995-5",
+  "subject": "physics",
+  "year": 1995,
+  "number": 5,
+  "question": "When a ball rolls on a smooth level ground, the motion of its centre is",
+  "options": {
+   "A": "Translational",
+   "B": "Oscillatory",
+   "C": "Random",
+   "D": "Rotational"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-6",
+  "subject": "physics",
+  "year": 1995,
+  "number": 6,
+  "question": "The velocity-time graph of a body moving in a straight line and decelerating uniformly to rest is represented by",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/1995_p60_3.png",
+  "images": [
+   "physics/1995_p60_3.png"
+  ]
+ },
+ {
+  "id": "physics-1995-7",
+  "subject": "physics",
+  "year": 1995,
+  "number": 7,
+  "question": "The acceleration of the system shown above is",
+  "options": {
+   "A": "2 ms⁻²",
+   "B": "4 ms⁻²",
+   "C": "6 ms⁻²",
+   "D": "8 ms⁻²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1995_p60_4.png",
+  "images": [
+   "physics/1995_p60_4.png"
+  ]
+ },
+ {
+  "id": "physics-1995-8",
+  "subject": "physics",
+  "year": 1995,
+  "number": 8,
+  "question": "What is the acceleration due to gravity ‘g’ on the moon, if g is 10ms⁻² on the earth?",
+  "options": {
+   "A": "0.10 ms⁻²",
+   "B": "0.74 ms⁻²",
+   "C": "1.67 ms⁻²",
+   "D": "10.00 ms⁻²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-9",
+  "subject": "physics",
+  "year": 1995,
+  "number": 9,
+  "question": "A body is projected from the earth’s surface with the intention of letting it escape from the earth’s gravitational field. What is the minimum escape velocity of the body?",
+  "options": {
+   "A": "14km s⁻¹",
+   "B": "13 km s⁻¹",
+   "C": "12 km s⁻¹",
+   "D": "11 km s⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-10",
+  "subject": "physics",
+  "year": 1995,
+  "number": 10,
+  "question": "A uniform rod PQ of length 1m and mass 2kg is pivoted at the end P. If a load of 14N is placed at the centre of the rod, find the force that should be applied vertically upwards at Q to maintain the rod in equilibrium horizontally.",
+  "options": {
+   "A": "68 N",
+   "B": "28 N",
+   "C": "17 N",
+   "D": "7 N [g = 10 ms⁻²]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-11",
+  "subject": "physics",
+  "year": 1995,
+  "number": 11,
+  "question": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v.",
+  "options": {
+   "A": "mv²",
+   "B": "mv²",
+   "C": "mv"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1995_p61_1.png",
+  "images": [
+   "physics/1995_p61_1.png"
+  ]
+ },
+ {
+  "id": "physics-1995-12",
+  "subject": "physics",
+  "year": 1995,
+  "number": 12,
+  "question": "A box of mass 40 kg is being dragged along the floor by a rope inclined at 60⁰ to the horizontal. The frictional force between the box and the floor is 100N and the tension on the rope is 300N. How much work is done in dragging the box through a distance of 4m?",
+  "options": {
+   "A": "680 J",
+   "B": "400 J",
+   "C": "200 J",
+   "D": "100 J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-13",
+  "subject": "physics",
+  "year": 1995,
+  "number": 13,
+  "question": "Which of the following statements are TRUE about frictional force? I It is always a disadvantage II It is sometimes a disadvantage III It always exists where there is a relative motion of two bodies that are in contact. IV It is sometimes very useful.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-14",
+  "subject": "physics",
+  "year": 1995,
+  "number": 14,
+  "question": "The energy contained in a wire when it is extended by 0.02m by a force of 500 N is",
+  "options": {
+   "A": "5 J",
+   "B": "10 J",
+   "C": "10³ J",
+   "D": "10⁴ J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-15",
+  "subject": "physics",
+  "year": 1995,
+  "number": 15,
+  "question": "Which of the following levers has the greatest mechanical advantage?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/1995_p61_2.png",
+  "images": [
+   "physics/1995_p61_2.png"
+  ]
+ },
+ {
+  "id": "physics-1995-16",
+  "subject": "physics",
+  "year": 1995,
+  "number": 16,
+  "question": "A hydraulic press has a large circular piston of radius 0.8m and a circular plunger of radiu 0.2m. A force of 500N is exerted by the plunger. Find the force exerted on the piston.",
+  "options": {
+   "A": "8 000 N",
+   "B": "4 000 N",
+   "C": "2 000 N",
+   "D": "31 N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-17",
+  "subject": "physics",
+  "year": 1995,
+  "number": 17,
+  "question": "The volume of an air bubble increases from the bottom to the top of a lake at constant temperature because",
+  "options": {
+   "A": "Atmospheric pressure acts on the surface of the lake.",
+   "B": "Pressure increases with depth of the lake.",
+   "C": "Density remains constant with pressure",
+   "D": "The bubble experiences an upthrust."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-18",
+  "subject": "physics",
+  "year": 1995,
+  "number": 18,
+  "question": "Temperature is a measure of the",
+  "options": {
+   "A": "Quantity of heat transferred into the molecules of an object",
+   "B": "Mean kinetic energy of any molecules of the object",
+   "C": "Kinetic energy of any individual molecules of the substance.",
+   "D": "Amount of work done by the molecules of the object."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-19",
+  "subject": "physics",
+  "year": 1995,
+  "number": 19,
+  "question": "A rectangular metal block of volume 10⁻⁶m³at 573K. If its coefficient of linear expansion is 1.2-x-10⁻⁵K⁻¹, the percentage change of its volume is",
+  "options": {
+   "A": "1.5 %",
+   "B": "1.1 %",
+   "C": "0.4 %",
+   "D": "0.1 %"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-20",
+  "subject": "physics",
+  "year": 1995,
+  "number": 20,
+  "question": "A piece of wood floats inside water at room temperature with a fraction of it above the liquid surface. As the temperature of the water is raised, the part of the wood above the density of liquid will",
+  "options": {
+   "A": "Decrease because the density of water decreases with temperature.",
+   "B": "Increases because the density of water decreases with temperature.",
+   "C": "Decreases because the density of water increases with temperature",
+   "D": "Increase because the density of water increases with temperature."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-21",
+  "subject": "physics",
+  "year": 1995,
+  "number": 21,
+  "question": "The equation PxVyTz = constant is Charles’ law when",
+  "options": {
+   "A": "x = 1, y = -1, z = 1",
+   "B": "x = 0, y = 1, z = -1",
+   "C": "x = 1, y = 0, z = -1",
+   "D": "x = 0, y = 1, z = 1."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-22",
+  "subject": "physics",
+  "year": 1995,
+  "number": 22,
+  "question": "An electric kettle with negligible heat capacity is rated at 2000 W. If 2.0kg of water is put in it, how long will it take the temperature of water to rise from 20⁰C to 100⁰C?",
+  "options": {
+   "A": "420s",
+   "B": "336s",
+   "C": "168s",
+   "D": "84s. [specific heat capacity of water = 4200 J kg⁻¹ K⁻¹]."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-23",
+  "subject": "physics",
+  "year": 1995,
+  "number": 23,
+  "question": "A temperature scale has a lower fixed point of 40mm and an upper fixed point of 200mm. What is the reading on this scale when a thermometer read 60⁰C?",
+  "options": {
+   "A": "33.3 mm",
+   "B": "36.0 mm",
+   "C": "96.0 mm",
+   "D": "136.0 mm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-24",
+  "subject": "physics",
+  "year": 1995,
+  "number": 24,
+  "question": "A quantity of ice at -10⁰C is heated until the temperature of the heating vessel is 90⁰C. Which of the following constant is NOT required to the vessel?",
+  "options": {
+   "A": "Specific heat capacity of ice",
+   "B": "Specific heat capacity of water",
+   "C": "Specific latent heat of fusion",
+   "D": "Specific latent heat of vaporization."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-25",
+  "subject": "physics",
+  "year": 1995,
+  "number": 25,
+  "question": "Which of the following statements give ‘the TRUE differences between evaporation and boiling I Evaporation occurs at all temperatures while boiling occurs at a fixed temperature for a given pressure. II Evaporation is a surface phenomenon while boiling is an interior phenomenon. III Evaporation is affected by surface areas which boiling is not.",
+  "options": {
+   "A": "I and II only",
+   "B": "I and III only",
+   "C": "II and III only",
+   "D": "I, II and III."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-26",
+  "subject": "physics",
+  "year": 1995,
+  "number": 26,
+  "question": "A well=lagged bar of length 100cm has its ends maintained at 100⁰C and 40⁰C respectively. What is the temperature at a point 60cm from the hotter end?",
+  "options": {
+   "A": "58⁰C",
+   "B": "62⁰C",
+   "C": "64⁰C",
+   "D": "76⁰C"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-27",
+  "subject": "physics",
+  "year": 1995,
+  "number": 27,
+  "question": "Which of the following is the exclusive property of a transverse wave?",
+  "options": {
+   "A": "Diffraction",
+   "B": "Refraction",
+   "C": "Compression",
+   "D": "Polarization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-28",
+  "subject": "physics",
+  "year": 1995,
+  "number": 28,
+  "question": "The wavelength of signal from a radio transmitter is 1500m and the frequency is 200kHz. What is the wavelength for a transmitter operating at 1000kHz?",
+  "options": {
+   "A": "7 500 m",
+   "B": "300 m",
+   "C": "75 m",
+   "D": "15 m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-29",
+  "subject": "physics",
+  "year": 1995,
+  "number": 29,
+  "question": "The difference between sound waves and light waves is that sound waves",
+  "options": {
+   "A": "Are transverse while light waves are longitudinal.",
+   "B": "Require a medium to travel while light waves do not.",
+   "C": "Can be diffracted but light waves cannot",
+   "D": "Cannot be reflected but light waves can."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-30",
+  "subject": "physics",
+  "year": 1995,
+  "number": 30,
+  "question": "Which of the diagrams below represents the second overtone of a vibrating string fixed at both ends?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/1995_p62_1.png",
+  "images": [
+   "physics/1995_p62_1.png"
+  ]
+ },
+ {
+  "id": "physics-1995-31",
+  "subject": "physics",
+  "year": 1995,
+  "number": 31,
+  "question": "The pitch of an acoustic device can be increased",
+  "options": {
+   "A": "Increasing the frequency",
+   "B": "Increasing the amplitude",
+   "C": "Decreasing the loudness",
+   "D": "Decreasing the intensity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-32",
+  "subject": "physics",
+  "year": 1995,
+  "number": 32,
+  "question": "Total eclipse of the sun occurs when the",
+  "options": {
+   "A": "Earth is between the moon and the sun",
+   "B": "Sun is between the moon and the earth",
+   "C": "Moon is between the sun and the earth",
+   "D": "Ozone layer is threatened"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-33",
+  "subject": "physics",
+  "year": 1995,
+  "number": 33,
+  "question": "What is the approximate critical angle for total internal reflection for diamond if the refractive index of diamond is 2.42?",
+  "options": {
+   "A": "21⁰",
+   "B": "22⁰",
+   "C": "23⁰",
+   "D": "24⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-34",
+  "subject": "physics",
+  "year": 1995,
+  "number": 34,
+  "question": "Which of the graphs represents the relationship between m and v for a converging mirror?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/1995_p63_1.png",
+  "images": [
+   "physics/1995_p63_1.png"
+  ]
+ },
+ {
+  "id": "physics-1995-35",
+  "subject": "physics",
+  "year": 1995,
+  "number": 35,
+  "question": "A real object is placed at a distance u cm in front of a curved mirror of focal length fcm. If the image is upright and magnified, then the mirror is",
+  "options": {
+   "A": "Convex and u = 2f",
+   "B": "Concave and u= 2f",
+   "C": "Convex and u = 2",
+   "D": "Concave and u = 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-36",
+  "subject": "physics",
+  "year": 1995,
+  "number": 36,
+  "question": "Which of the following pairs of colours gives the widest separation in the spectrum of white light?",
+  "options": {
+   "A": "Red and violet",
+   "B": "Green and yellow",
+   "C": "Red and indigo",
+   "D": "Yellow and violet."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-37",
+  "subject": "physics",
+  "year": 1995,
+  "number": 37,
+  "question": "Two parallel plates at a distance of 8.0 x 10 m apart are maintained at p.d. of 600 volts with the negative plate earthed. What is the electric field strength?",
+  "options": {
+   "A": "4.8 Vm⁻¹",
+   "B": "75.0 Vm⁻¹",
+   "C": "4800.0 Vm⁻¹",
+   "D": "7,5000.0 Vm⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-38",
+  "subject": "physics",
+  "year": 1995,
+  "number": 38,
+  "question": "At different locations on the earth’s surface, the earth’s magnetic field is",
+  "options": {
+   "A": "The same in magnitude and direction",
+   "B": "The same in magnitude but different in direction",
+   "C": "Different in both magnitude and direction",
+   "D": "Different in magnitude but not in direction."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-39",
+  "subject": "physics",
+  "year": 1995,
+  "number": 39,
+  "question": "If a resistance if halved in value and the potential difference across it is tripled, then the ratio of the new current to the old is",
+  "options": {
+   "A": "1 : 6",
+   "B": "1 : 3",
+   "C": "2 : 1",
+   "D": "6 : 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-40",
+  "subject": "physics",
+  "year": 1995,
+  "number": 40,
+  "question": "A 12-V battery has an internal resistance of 0.5 ohms. If a cable of 1.0 ohms resistance is connected across the two terminals of the battery, the current drawn from the battery is",
+  "options": {
+   "A": "16.0 A",
+   "B": "8.0 A",
+   "C": "0.8 A",
+   "D": "0.4 A"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1995_p63_3.png",
+  "images": [
+   "physics/1995_p63_3.png"
+  ]
+ },
+ {
+  "id": "physics-1995-41",
+  "subject": "physics",
+  "year": 1995,
+  "number": 41,
+  "question": "The diagram above shows two similar bulbs X and Y connected to a suitable power supply with F as an appropriate fuse rating. If the filament of X breaks, then the",
+  "options": {
+   "A": "Brightness of Y will reduce",
+   "B": "Brightness of Y will remain constant",
+   "C": "Brightness of Y will remain constant",
+   "D": "Fuse F will blow."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-42",
+  "subject": "physics",
+  "year": 1995,
+  "number": 42,
+  "question": "The purpose of a dielectric material in a parallel plate capacitor is to",
+  "options": {
+   "A": "Increase its capacitance",
+   "B": "Decrease its capacitance",
+   "C": "Insulate the plates from each other",
+   "D": "Increase the magnetic field between the plates."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1995_p63_2.png",
+  "images": [
+   "physics/1995_p63_2.png"
+  ]
+ },
+ {
+  "id": "physics-1995-43",
+  "subject": "physics",
+  "year": 1995,
+  "number": 43,
+  "question": "The resultant in the figure above is",
+  "options": {
+   "A": "15.0 uF",
+   "B": "9.8 uF",
+   "C": "1.3 uF",
+   "D": "0.8 uF"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-44",
+  "subject": "physics",
+  "year": 1995,
+  "number": 44,
+  "question": "An electric current of 2 amperes flows in a heating coil of resistance 50 ohms for 3 minutes 20 seconds. Determine the heat produced.",
+  "options": {
+   "A": "0.5 kJ",
+   "B": "8.0 kJ",
+   "C": "20.0 kJ",
+   "D": "40. 0 kJ"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-45",
+  "subject": "physics",
+  "year": 1995,
+  "number": 45,
+  "question": "If the maximum voltage across a 100-ohm resistor is 20V, then the maximum power it can dissipate is",
+  "options": {
+   "A": "5.00 W",
+   "B": "4.00 W",
+   "C": "2.00 W",
+   "D": "0.25 W"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-46",
+  "subject": "physics",
+  "year": 1995,
+  "number": 46,
+  "question": "Which of the following is required to convert a milliammeter to an ammeter?",
+  "options": {
+   "A": "A high resistance in parallel",
+   "B": "A high resistance in series",
+   "C": "A low resistance in parallel",
+   "D": "A low resistance in series."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-47",
+  "subject": "physics",
+  "year": 1995,
+  "number": 47,
+  "question": "The primary winding of a transformer has 400 turns and its secondary has 100 turns. If a source of e.m.f. of 12V is applied to the primary, the secondary e.m.f. will be",
+  "options": {
+   "A": "3 V",
+   "B": "6 V",
+   "C": "24 V",
+   "D": "48 V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-48",
+  "subject": "physics",
+  "year": 1995,
+  "number": 48,
+  "question": "An alternating source is connected in series to a capacitor of capacity reactanceof 10³ 3 and resistor of a resistance 10³ Ohms. The impedance of the circuit is",
+  "options": {
+   "A": "2000 3Ohms",
+   "B": "2000 Ohms",
+   "C": "1000 3Ohms",
+   "D": "1000Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-49",
+  "subject": "physics",
+  "year": 1995,
+  "number": 49,
+  "question": "The half-life of a radioactive element is 9 days. What fraction of atoms has decayed in 36 days?",
+  "options": {
+   "A": "1",
+   "B": "1",
+   "C": "1",
+   "D": "15"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1995-50",
+  "subject": "physics",
+  "year": 1995,
+  "number": 50,
+  "question": "A light of energy 5eV falls on a metal and the electrons with a maximum kinetic energy of 2eV are rejected. The work function of the metal is",
+  "options": {
+   "A": "0.4eV",
+   "B": "2.5eV",
+   "C": "3.0eV",
+   "D": "7.0eV"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

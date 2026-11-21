@@ -1,0 +1,966 @@
+[
+ {
+  "id": "physics-2000-1",
+  "subject": "physics",
+  "year": 2000,
+  "number": 1,
+  "question": "A catapult used to hold a stone of mass 500g is extended by 20cm with an applied force f. If the stone leaves with a velocity of 40 ms⁻¹, the value of F is",
+  "options": {
+   "A": "4.0 x 10⁴ N",
+   "B": "4.0 x 10³ N",
+   "C": "2.0 x 10³ N",
+   "D": "4.0 x 10² N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-2",
+  "subject": "physics",
+  "year": 2000,
+  "number": 2,
+  "question": "A hand bag containing some load weighting 162N is carried by two students each holding the handle of the bag next to him. If each handle is pulled at 60 to the vertical, find the force on each student’s arm",
+  "options": {
+   "A": "324 N",
+   "B": "162 N",
+   "C": "121 N",
+   "D": "81 N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-3",
+  "subject": "physics",
+  "year": 2000,
+  "number": 3,
+  "question": "I. The frictional force is independent of the area of the surfaces in contact, II The frictional force depends on the nature of the surfaces in contact III The frictional force depends on the speed sliding IV The frictional force is directly proportional to the normal reaction Which combination of the above is true of sliding friction?",
+  "options": {
+   "A": "I, II and IV",
+   "B": "I, II and III",
+   "C": "I, III and IV",
+   "D": "II, III and IV."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-4",
+  "subject": "physics",
+  "year": 2000,
+  "number": 4,
+  "question": "When a ship sails from salt water into fresh water, the friction of its volume above the water surface will",
+  "options": {
+   "A": "Remain the same",
+   "B": "Increase",
+   "C": "Decrease",
+   "D": "Increase then decrease."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-5",
+  "subject": "physics",
+  "year": 2000,
+  "number": 5,
+  "question": "A simple pendulum has a period of 17.0s. When the length is shortened by 1.5m, its period is 8.5s. Calculate the original length of the pendulum.",
+  "options": {
+   "A": "1.5m",
+   "B": "2.0m",
+   "C": "3.0m",
+   "D": "3.0m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-6",
+  "subject": "physics",
+  "year": 2000,
+  "number": 6,
+  "question": "At a fixed point below a liquid surface, the pressure downward is P₁ and the pressure upward is P₂. It can be deduced that",
+  "options": {
+   "A": "P ₁= P ₂",
+   "B": "P ₁> P ₂",
+   "C": "P₁ < P₂",
+   "D": "P₁ > P₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-7",
+  "subject": "physics",
+  "year": 2000,
+  "number": 7,
+  "question": "I. Its velocity is constant II No work is done on the body III It has constant acceleration away from the center IV The centripetal force is directed towards the center. Which combination of the above is true of a body moving with constant speed in a circular track?",
+  "options": {
+   "A": "I and III",
+   "B": "I and IV",
+   "C": "II and III",
+   "D": "II and IV"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-8",
+  "subject": "physics",
+  "year": 2000,
+  "number": 8,
+  "question": "The velocity v of a particle in a time t is given by the equation v = 10+2t². Find the instantaneous acceleration after 5 seconds.",
+  "options": {
+   "A": "10 ms⁻²",
+   "B": "15 ms⁻²",
+   "C": "20 ms⁻²",
+   "D": "60 ms⁻²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-9",
+  "subject": "physics",
+  "year": 2000,
+  "number": 9,
+  "question": "If the force and the velocity on a system are each reduced simultaneously by half, the power of the system is",
+  "options": {
+   "A": "Doubled",
+   "B": "Constant",
+   "C": "Reduced to a quarter",
+   "D": "Reduced by half."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-10",
+  "subject": "physics",
+  "year": 2000,
+  "number": 10,
+  "question": "The velocity ratio of a machine is 5 its efficiency is 75%. What effort would be needed to lift a load of 150N with the machine?",
+  "options": {
+   "A": "50 N",
+   "B": "40 N",
+   "C": "30 N",
+   "D": "20 N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-11",
+  "subject": "physics",
+  "year": 2000,
+  "number": 11,
+  "question": "A rope is being used to pull a mass of 10kg vertically upward. Determine the tension in the rope if, starting from resr, the mass acquires a velocity of 4ms⁻¹ in 8.",
+  "options": {
+   "A": "105 N",
+   "B": "95 N",
+   "C": "50 N",
+   "D": "5 N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-12",
+  "subject": "physics",
+  "year": 2000,
+  "number": 12,
+  "question": "A stream is flowing at 0.75ms⁻¹ and at boat heading perpendicular for the stream landed at the opposite bank at an angle 30⁰. Calculate the velocity of the boat.",
+  "options": {
+   "A": "0.65 ms⁻¹",
+   "B": "0.86 ms⁻¹",
+   "C": "1.00 ms⁻¹",
+   "D": "1.50 ms⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-13",
+  "subject": "physics",
+  "year": 2000,
+  "number": 13,
+  "question": "I. Coherence II Same frequency III Same wavelength IV Same intensity. Which of the conditions above are necessary to produce interference fringes?",
+  "options": {
+   "A": "I, II and III",
+   "B": "I, II and III",
+   "C": "I, II and IV",
+   "D": "II and III."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-14",
+  "subject": "physics",
+  "year": 2000,
+  "number": 14,
+  "question": "An engineer intends to deviate a light ray from its path 120⁰ through reflection from plane mirror. Calculate the angle of incidence.",
+  "options": {
+   "A": "20⁰",
+   "B": "30⁰",
+   "C": "40⁰",
+   "D": "60⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-15",
+  "subject": "physics",
+  "year": 2000,
+  "number": 15,
+  "question": "The readings above are for three consecutive days from a wet and dry bulb hygrometer. It can be concluded that the relative humidity for the three days",
+  "options": {
+   "A": "Increased ssteadily",
+   "B": "Remained unchanged",
+   "C": "Was least on day 1",
+   "D": "Decrease steadily"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2000_p78_1.png",
+  "images": [
+   "physics/2000_p78_1.png"
+  ]
+ },
+ {
+  "id": "physics-2000-16",
+  "subject": "physics",
+  "year": 2000,
+  "number": 16,
+  "question": "Total internal reflection occurs when light moves from",
+  "options": {
+   "A": "Air to water",
+   "B": "Water to glass",
+   "C": "A dense medium to a less dense medium",
+   "D": "A less dense medium to a dense medium"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-17",
+  "subject": "physics",
+  "year": 2000,
+  "number": 17,
+  "question": "One end of a long wire is fixed while vibrator is attached to the other end. When the vibrator is energized, the types of waves generated in the wire are",
+  "options": {
+   "A": "Stationary and transverse",
+   "B": "Progressive",
+   "C": "Stationary and longitudinal",
+   "D": "Progressive and longitudinal."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-18",
+  "subject": "physics",
+  "year": 2000,
+  "number": 18,
+  "question": "A sonometer wire is vibrating at frequency f₀. If the tension in the wire is doubled while the length and the mass per unit length are kept constant, the new frequency of vibration is",
+  "options": {
+   "A": "f₀",
+   "B": "2 f₀",
+   "C": "f₀",
+   "D": "f₀ 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-19",
+  "subject": "physics",
+  "year": 2000,
+  "number": 19,
+  "question": "A boy observes a piece of stone at the bottom of a river 6.0m deep. If he looks from the surface of the river, what is the apparent distance of the stone from him.",
+  "options": {
+   "A": "4.5 m",
+   "B": "5.0 m",
+   "C": "5.5 m",
+   "D": "8.0 m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-20",
+  "subject": "physics",
+  "year": 2000,
+  "number": 20,
+  "question": "A metal of mass 0.5kg is heated to 100⁰C and then transferred to a well-lagged calorimeter of heat capacity 80J K⁻¹ containing water of heat capacity 420JK⁻¹ at 15⁰C. If the final steady temperature of the mixture is 25⁰C, find the specific heat capacity of the metal",
+  "options": {
+   "A": "92 J kg ⁻¹ K⁻¹",
+   "B": "133 J kg ⁻¹ K⁻¹",
+   "C": "286 J kg ⁻¹ K⁻¹",
+   "D": "887 J kg ⁻¹ K⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2000_p79_1.png",
+  "images": [
+   "physics/2000_p79_1.png"
+  ]
+ },
+ {
+  "id": "physics-2000-21",
+  "subject": "physics",
+  "year": 2000,
+  "number": 21,
+  "question": "The diagram above shows a maximum and minimum thermometer divided into three portions P, Q and R. Which of the following is true about the respective contents of P, Q and R?",
+  "options": {
+   "A": "Alcohol, mercury and alcohol",
+   "B": "Air, alcohol and mercury",
+   "C": "Mercury, alcohol and mercury",
+   "D": "Air, mercury and alcohol."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-22",
+  "subject": "physics",
+  "year": 2000,
+  "number": 22,
+  "question": "The main reason for making the cover of a vacuum flask airtight is to prevent heat loss by",
+  "options": {
+   "A": "Conduction",
+   "B": "Evaporation",
+   "C": "Radiation",
+   "D": "Convection"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-23",
+  "subject": "physics",
+  "year": 2000,
+  "number": 23,
+  "question": "A travelling wave moving from left to right has an amplitude of 0.15m, a frequency of 550Hz and a wavelength of 0.01m. The equation describing the wave is",
+  "options": {
+   "A": "y = 0.15 8In 200 ð (x – 5.5ₜ)",
+   "B": "y = 0.15 8In ð (0.01x – 5.5ₜ)",
+   "C": "y = 0.15 8In 5.5 ð (x – 200ₜ)",
+   "D": "y = 0.15 8Inð (550 x – 0.01ₜ)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-24",
+  "subject": "physics",
+  "year": 2000,
+  "number": 24,
+  "question": "A transverse wave is applied to a string whose mass per unit is 3 x 10⁻²kgm⁻¹. If the string is under a tension of 12N, the speed of propagation of the wave is",
+  "options": {
+   "A": "40ms⁻¹",
+   "B": "30ms⁻¹",
+   "C": "20ms⁻¹",
+   "D": "5ms⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-25",
+  "subject": "physics",
+  "year": 2000,
+  "number": 25,
+  "question": "A quantity of water at 0⁰C heated to about 30⁰C. At each degree rise in temperature, its density will",
+  "options": {
+   "A": "Rise steadily",
+   "B": "Rise then fall",
+   "C": "Fall steadily",
+   "D": "Fall then rise."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-26",
+  "subject": "physics",
+  "year": 2000,
+  "number": 26,
+  "question": "A thin wire with heavy weights attached to both ends is hung over a block of ice resting on two supports. If the wire cuts through the ice block while the block remains solid behind the wire, the process is called",
+  "options": {
+   "A": "Fusion",
+   "B": "Sublimation",
+   "C": "Condensation",
+   "D": "Regelation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-27",
+  "subject": "physics",
+  "year": 2000,
+  "number": 27,
+  "question": "A cell of internal resistance 0.01 ohms can be measured accurately using the",
+  "options": {
+   "A": "Ohm-meter",
+   "B": "Potentiometer",
+   "C": "Electroscope",
+   "D": "Metre bridge"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-28",
+  "subject": "physics",
+  "year": 2000,
+  "number": 28,
+  "question": "An electron of charge 1.6 x 10⁻¹⁹C and mass 9.1 x 10⁻³¹kg is accelerated between two metal plates with a velocity of 4 x 10⁷ms⁻¹, the potential difference between the plates is",
+  "options": {
+   "A": "4.55 x 10¹V",
+   "B": "9.10 x 10¹V",
+   "C": "4.55 x 10²V",
+   "D": "4.55 x 10³V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-29",
+  "subject": "physics",
+  "year": 2000,
+  "number": 29,
+  "question": "In the diagram above, a beam of white light travels from a rare to dense medium. What colours of light do the rays a, b, c respectively represent.",
+  "options": {
+   "A": "Blue, yellow and red",
+   "B": "Green, red and blue",
+   "C": "Red, green and blue",
+   "D": "Yellow, blue and red."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2000_p79_2.png",
+  "images": [
+   "physics/2000_p79_2.png",
+   "physics/2000_p80_1.png"
+  ]
+ },
+ {
+  "id": "physics-2000-30",
+  "subject": "physics",
+  "year": 2000,
+  "number": 30,
+  "question": "The diagram above shows two capacitors P and Q of capacitances 5uF and 10 uF. Find the charges stores in P and Q respectively.",
+  "options": {
+   "A": "200 uC and 100 uC",
+   "B": "100 uC and 200 uC",
+   "C": "4 uC and 2 uC",
+   "D": "2 uC and 4 uC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-31",
+  "subject": "physics",
+  "year": 2000,
+  "number": 31,
+  "question": "What optical instrument can best be constructed with converging lenses of focal lengths 500cm and 5cm?",
+  "options": {
+   "A": "Compound microscope",
+   "B": "Terrestrial telescope",
+   "C": "Astronomical telescope",
+   "D": "Galileo’s telescope"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-32",
+  "subject": "physics",
+  "year": 2000,
+  "number": 32,
+  "question": "If a charged ion goes through combined electric and magnetic fields, the resultant emergent velocity of the ion is",
+  "options": {
+   "A": "E",
+   "B": "EB",
+   "C": "B",
+   "D": "E – B"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2000_p80_2.png",
+  "images": [
+   "physics/2000_p80_2.png"
+  ]
+ },
+ {
+  "id": "physics-2000-33",
+  "subject": "physics",
+  "year": 2000,
+  "number": 33,
+  "question": "In the diagram above, the values of V¹ and V² are respectively",
+  "options": {
+   "A": "1V and 1 V",
+   "B": "1 V and 1V",
+   "C": "1 V and 2 V 3 3",
+   "D": "1V and 2 V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-34",
+  "subject": "physics",
+  "year": 2000,
+  "number": 34,
+  "question": "A projector lantern is used to give the image of a slide on a screen. If the image is 24 times as large as the slide and the screen is 72.0m from the projecting lens, what is the position of the slide from the lens?",
+  "options": {
+   "A": "4.0m",
+   "B": "3.5m",
+   "C": "3.0m",
+   "D": "0.3m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-35",
+  "subject": "physics",
+  "year": 2000,
+  "number": 35,
+  "question": "A radio is operated by eight cells each of e.m.f. 2.0V connected in series. if two of the cells are wrongly connected, the net e.m.f. of the radio is",
+  "options": {
+   "A": "16V",
+   "B": "12V",
+   "C": "10V",
+   "D": "8V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-36",
+  "subject": "physics",
+  "year": 2000,
+  "number": 36,
+  "question": "A 2H inductor has negligible resistance and is connected to a 50/ Hz a.c. supply. The reactance of the inductor is",
+  "options": {
+   "A": "200 Ohms",
+   "B": "50 Ohms",
+   "C": "100 Ohms",
+   "D": "25 Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-37",
+  "subject": "physics",
+  "year": 2000,
+  "number": 37,
+  "question": "If the fraction of the atoms of a radioactive material left after 120 years is ¹/ ₆₄ What is the half-life of the material?",
+  "options": {
+   "A": "2 years",
+   "B": "10 years",
+   "C": "20 years",
+   "D": "24 years"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-38",
+  "subject": "physics",
+  "year": 2000,
+  "number": 38,
+  "question": "A certain readioactive source emits radiations that were found to be deflected by both magnetic and electric fields. The radiations are",
+  "options": {
+   "A": "x-rays",
+   "B": "beta rays",
+   "C": "gamma rays",
+   "D": "ultra-violet rays"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-39",
+  "subject": "physics",
+  "year": 2000,
+  "number": 39,
+  "question": "In a pure semicondctor, the number of electron in the conduction band is",
+  "options": {
+   "A": "Equal to the number of holes in the valence band",
+   "B": "Greater than the number of holes in the valence band",
+   "C": "Less than the number of holes in the valence band",
+   "D": "Twice the number of holes in the valence band."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-40",
+  "subject": "physics",
+  "year": 2000,
+  "number": 40,
+  "question": "A cell of internal resistance 1 ohms supplies current to an external resistor of 3 ohms . The efficiency of the cell is",
+  "options": {
+   "A": "75%",
+   "B": "50%",
+   "C": "33%",
+   "D": "25%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-41",
+  "subject": "physics",
+  "year": 2000,
+  "number": 41,
+  "question": "Light energy 5eV falls on a metal of work function 3 ev and electrons are liberated. The stopping potential is",
+  "options": {
+   "A": "15.0V",
+   "B": "8.0V",
+   "C": "2.0V",
+   "D": "1.7V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-42",
+  "subject": "physics",
+  "year": 2000,
+  "number": 42,
+  "question": "In the thermonuclear reaction, the total initial mass is 5.02 x 10⁻²⁷kg. The energy released in the process",
+  "options": {
+   "A": "9.0 x 10⁻¹⁰J",
+   "B": "9.0 x 10⁻¹¹J",
+   "C": "9.0 x 10⁻¹²J",
+   "D": "9.0 x 10⁻¹³J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-43",
+  "subject": "physics",
+  "year": 2000,
+  "number": 43,
+  "question": "The magnetic flux in a coil having 200 turns changes at the time rate of 0.08 Ws⁻¹. The induced e.m.f. in the coil is",
+  "options": {
+   "A": "1.6V",
+   "B": "16.0V",
+   "C": "25.0V",
+   "D": "250.0V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-44",
+  "subject": "physics",
+  "year": 2000,
+  "number": 44,
+  "question": "If the frequency of an emitted x-rays is 1.6 x 10¹⁶ Hz, the accelerating potential is",
+  "options": {
+   "A": "6.6 V",
+   "B": "66.3 V",
+   "C": "663.0 V",
+   "D": "6630.0 V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-45",
+  "subject": "physics",
+  "year": 2000,
+  "number": 45,
+  "question": "The correct position for a fuse in the diagram above",
+  "options": {
+   "A": "S",
+   "B": "Q",
+   "C": "P",
+   "D": "Between P and Q"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2000_p81_1.png",
+  "images": [
+   "physics/2000_p81_1.png"
+  ]
+ },
+ {
+  "id": "physics-2000-46",
+  "subject": "physics",
+  "year": 2000,
+  "number": 46,
+  "question": "In the a.c. circuit above, the current value is",
+  "options": {
+   "A": "6.67 A",
+   "B": "4.00 A",
+   "C": "3.00 A",
+   "D": "0.58 A"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/2000_p81_3.png",
+  "images": [
+   "physics/2000_p81_3.png",
+   "physics/2000_p81_2.png"
+  ]
+ },
+ {
+  "id": "physics-2000-47",
+  "subject": "physics",
+  "year": 2000,
+  "number": 47,
+  "question": "If current flows in the direction of the arrows in the solenoid above, the North pole is at",
+  "options": {
+   "A": "P",
+   "B": "X",
+   "C": "Q",
+   "D": "Y"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-48",
+  "subject": "physics",
+  "year": 2000,
+  "number": 48,
+  "question": "A gas would serve as an electrical conductor under",
+  "options": {
+   "A": "Reduced pressure and reduced potential",
+   "B": "Reduced pressure and high current",
+   "C": "Increased magnetic field",
+   "D": "Exposure to visible light"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-49",
+  "subject": "physics",
+  "year": 2000,
+  "number": 49,
+  "question": "An electric generator with a power output of 3.0kW at a voltage of 1.5kV distributes power along cables of total resistance 20.0 ohms. the power loss in the cable is",
+  "options": {
+   "A": "0.1W",
+   "B": "10.0W",
+   "C": "40.0W",
+   "D": "80.0W"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2000-50",
+  "subject": "physics",
+  "year": 2000,
+  "number": 50,
+  "question": "A conductor of length 2m carries a current of 0.8A while kept in a magnetic field of magnetic flux density 0.5T. The maximum force acting on it is",
+  "options": {
+   "A": "8.0N",
+   "B": "3.2N",
+   "C": "0.8N",
+   "D": "0.2N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,954 @@
+[
+ {
+  "id": "physics-1998-1",
+  "subject": "physics",
+  "year": 1998,
+  "number": 1,
+  "question": "The physical quantity that has the same dimensions as impulse is",
+  "options": {
+   "A": "Energy",
+   "B": "Momentum",
+   "C": "Surface tension",
+   "D": "Pressure."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-2",
+  "subject": "physics",
+  "year": 1998,
+  "number": 2,
+  "question": "A ball is moving at 18ms⁻¹ in a direction inclined at 60⁰ to the horizontal. The horizontal component of its velocity is",
+  "options": {
+   "A": "9 3ms⁻¹",
+   "B": "6 3ms⁻¹",
+   "C": "6 3ms⁻¹",
+   "D": "9ms⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-3",
+  "subject": "physics",
+  "year": 1998,
+  "number": 3,
+  "question": "A body on the ground is acted on by a force of 10N at a point P as shown in the diagram above. What force is needed to stop the body from moving eastward?",
+  "options": {
+   "A": "5N in the direction of East",
+   "B": "5N in the direction of West",
+   "C": "5\"3N in the direction of West.",
+   "D": "10N in the Southwest direction."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1998_p69_1.png",
+  "images": [
+   "physics/1998_p69_1.png"
+  ]
+ },
+ {
+  "id": "physics-1998-4",
+  "subject": "physics",
+  "year": 1998,
+  "number": 4,
+  "question": "In free fall, a body of mass 1kg drops from a height of 125m from rest in 5s. How long will it take another body of mass 2kg to fall from rest from the same height?",
+  "options": {
+   "A": "55",
+   "B": "105",
+   "C": "125",
+   "D": "155 (g = 10ms⁻²)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-5",
+  "subject": "physics",
+  "year": 1998,
+  "number": 5,
+  "question": "A ball of mass 0.15kg is kicked against a rigid vertical wall with a horizontal velocity of 50ms⁻¹, calculate the impulse of the ball on the wall.",
+  "options": {
+   "A": "3.0Ns",
+   "B": "4.5Ns",
+   "C": "7.5Ns",
+   "D": "12.0Ns"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-6",
+  "subject": "physics",
+  "year": 1998,
+  "number": 6,
+  "question": "The force of attraction between two point masses is 10⁻⁴N when the distance between them is 0.18m. If the distance is reduced to 0.06m, calculate the force.",
+  "options": {
+   "A": "1.1 x 10⁻⁵N",
+   "B": "3.3 x 10⁻⁵N",
+   "C": "3.0 x 10⁻⁴N",
+   "D": "9.0 x 10⁻⁴N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-7",
+  "subject": "physics",
+  "year": 1998,
+  "number": 7,
+  "question": "In an experiment, a constant force is applied to several masses (m) and the corresponding accelerations (a) are measured. Which of the following graphs correctly represents the experiment?",
+  "options": {
+   "A": "III and IV only",
+   "B": "II and IV only",
+   "C": "I and III only",
+   "D": "I and II only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1998_p69_2.png",
+  "images": [
+   "physics/1998_p69_2.png"
+  ]
+ },
+ {
+  "id": "physics-1998-8",
+  "subject": "physics",
+  "year": 1998,
+  "number": 8,
+  "question": "A uniform metre rule weighting 0.5N is to be pivoted on a knife-edge at the 30cm-mark. Where will a force of 2N be placed from the pivot to balance the metre rule?",
+  "options": {
+   "A": "95cm",
+   "B": "25cm",
+   "C": "20cm",
+   "D": "5cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-9",
+  "subject": "physics",
+  "year": 1998,
+  "number": 9,
+  "question": "A bullet fired at a wooden block of thickness 0.15m manages to penetrate the block. If the mass of the bullet is 0.025kg and the average resisting force of the wood is 7.5 x 10³N, calculate the speed of the bullet just before it hits the wooden block.",
+  "options": {
+   "A": "450 ms⁻¹",
+   "B": "400 ms⁻¹",
+   "C": "300 ms⁻¹",
+   "D": "250 ms⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-10",
+  "subject": "physics",
+  "year": 1998,
+  "number": 10,
+  "question": "A man whose mass is 80kg climbs a staircase in 20s and expends a power of 120W. Find the height of the staircase.",
+  "options": {
+   "A": "1.8m",
+   "B": "2.0m",
+   "C": "2.5m",
+   "D": "3.0m [g = 10ms⁻²]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-11",
+  "subject": "physics",
+  "year": 1998,
+  "number": 11,
+  "question": "A parachute attains a terminal velocity when",
+  "options": {
+   "A": "Its density is equal to the density of air",
+   "B": "The viscous force of the air and the upthrust completely counteract its weight.",
+   "C": "It expands as a result of reduced external pressure",
+   "D": "The viscous force of the is equal to the sum of the weight and upthrust."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-12",
+  "subject": "physics",
+  "year": 1998,
+  "number": 12,
+  "question": "In a wheel and axle mechanism, the diameters of the wheel and axle are 40cm and 8cm respectively. Given that the machine is 80% efficient, what effort is required to lift a load of 100N?",
+  "options": {
+   "A": "20 N",
+   "B": "25 N",
+   "C": "50 N",
+   "D": "80 N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-13",
+  "subject": "physics",
+  "year": 1998,
+  "number": 13,
+  "question": "The tendon in a man’s leg is 0.01m long. If a force of 5N stretches the tendon by 2.0 x 10⁻⁵m, calculate the strain on the muscle.",
+  "options": {
+   "A": "5 x 10⁶",
+   "B": "5 x 10²",
+   "C": "2 x 10⁻³",
+   "D": "2 x 10⁻⁷"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-14",
+  "subject": "physics",
+  "year": 1998,
+  "number": 14,
+  "question": "Which of these statements are correct for the pressures in liquids? I Pressure in a liquid at a point acts equally in all directions II Pressure increases with depth III Pressure at a depth depends on the shape of the container. IV Pressures at the same depth in different liquids are proportional to the densities of the liquids.",
+  "options": {
+   "A": "I, II and III only",
+   "B": "I, II and IV only",
+   "C": "I, III and Iv only",
+   "D": "II, III and IV only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-15",
+  "subject": "physics",
+  "year": 1998,
+  "number": 15,
+  "question": "The atmospheric pressure due to water is 1.3 x 10⁶ Nm⁻². What is the total pressure at the bottom of an ocean 10m deep?",
+  "options": {
+   "A": "1.3 x 10⁷ Nm⁻²",
+   "B": "1.4 x 10⁶ Nm⁻²",
+   "C": "1.4 x 10⁵ Nm⁻²",
+   "D": "1.0 x 10⁵ Nm⁻²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-16",
+  "subject": "physics",
+  "year": 1998,
+  "number": 16,
+  "question": "A solid of weight 0.600N is totally immersed in oil and water respectively. If the upthrust in oil is 0.210N and the relative density of oil is 0.875 find the upthrust in water.",
+  "options": {
+   "A": "0.6000N",
+   "B": "0.360N",
+   "C": "0.240N",
+   "D": "0.180N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-17",
+  "subject": "physics",
+  "year": 1998,
+  "number": 17,
+  "question": "A platinum resistance thermometer records 3.0Ù at 0⁰C and 8.0 Ù at 100⁰C. If it records 6.0Ù in a certain environment, the temperature of the medium",
+  "options": {
+   "A": "80⁰C",
+   "B": "60⁰C",
+   "C": "50⁰C",
+   "D": "30⁰C"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-18",
+  "subject": "physics",
+  "year": 1998,
+  "number": 18,
+  "question": "The linear expansivity of brass is 2 x 10⁻⁵C⁻¹. If the volume of a piece of brass is 15.00 cm³ at 0⁰C, what is the volume at 100⁰C?",
+  "options": {
+   "A": "16.03cm³",
+   "B": "16.00cm³",
+   "C": "15.09cm³",
+   "D": "15.03cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-19",
+  "subject": "physics",
+  "year": 1998,
+  "number": 19,
+  "question": "A gas has a volume of 100cm³ at 27⁰C. If it is heated to temperature T until a final volume of 120cm³ is attained, calculate T.",
+  "options": {
+   "A": "33⁰C",
+   "B": "60⁰C",
+   "C": "87⁰C",
+   "D": "114⁰C"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-20",
+  "subject": "physics",
+  "year": 1998,
+  "number": 20,
+  "question": "A 500W heater is used to heat 0.6kg of water from 25⁰C to 100⁰C in ₁t seconds. If another 1000W heater is used to heat 0.2kg of water from 10⁰C to 100⁰C in t₂ seconds, find t₁ .",
+  "options": {
+   "A": "50",
+   "B": "5",
+   "C": "⁵/ ₄",
+   "D": "¹/ ₅"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-21",
+  "subject": "physics",
+  "year": 1998,
+  "number": 21,
+  "question": "How many grams of water at 17⁰C must be added to 42g of ice at 0⁰C to melt the ice completely?",
+  "options": {
+   "A": "200g",
+   "B": "300g",
+   "C": "320g",
+   "D": "400g [Specific latent heat of fusion of ice = 3.4 x 10⁵Jkg⁻¹, Specific heat capacity of water = 4200 Jkg⁻¹K⁻¹]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-22",
+  "subject": "physics",
+  "year": 1998,
+  "number": 22,
+  "question": "A vapour is said to be saturated when",
+  "options": {
+   "A": "More molecules return to the liquid than the amount that left it.",
+   "B": "A dynamic equilibrium exist between the molecules of the liquid and the vapour molecules at a given temperature.",
+   "C": "The vapour pressure is equal to the atmospheric pressure",
+   "D": "All molecules are moving with the same speed in all directions at a given temperature."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-23",
+  "subject": "physics",
+  "year": 1998,
+  "number": 23,
+  "question": "One valid assumption of the kineic theory of gases is that",
+  "options": {
+   "A": "the molecules of a gas are constantly in state of motion and the number of collisions remain constant.",
+   "B": "The number of molecules of gas increases with increasing pressure",
+   "C": "As the temperature increases, the number of collisions made by the gas molecules remain constant.",
+   "D": "The molecules of gas are all identical and are very small in size."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-24",
+  "subject": "physics",
+  "year": 1998,
+  "number": 24,
+  "question": "The physical properties of sound waves can best be described by",
+  "options": {
+   "A": "Reflection and diffraction",
+   "B": "Polarization and reflection",
+   "C": "Polarization and diffraction",
+   "D": "Polarization and refraction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-25",
+  "subject": "physics",
+  "year": 1998,
+  "number": 25,
+  "question": "The velocity of a sound wave at 27⁰C is 360ms⁻¹. Its velocity at 127⁰C is",
+  "options": {
+   "A": "120 3ms⁻¹",
+   "B": "240ms⁻¹",
+   "C": "240 3ms⁻¹",
+   "D": "720 3ms⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-26",
+  "subject": "physics",
+  "year": 1998,
+  "number": 26,
+  "question": "In a closed organ pipe producing a musical note, an antinode will always be produced at",
+  "options": {
+   "A": "The closed end",
+   "B": "The open end",
+   "C": "The middle",
+   "D": "All the parts of the pipe."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-27",
+  "subject": "physics",
+  "year": 1998,
+  "number": 27,
+  "question": "A steel wire of length 0.50m is stretched between two fixed points and its fundamental frequency is 200Hz. The speed of the wave in the wire is",
+  "options": {
+   "A": "100 ms⁻¹",
+   "B": "120 ms⁻¹",
+   "C": "200 ms⁻¹",
+   "D": "250 ms⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-28",
+  "subject": "physics",
+  "year": 1998,
+  "number": 28,
+  "question": "In a resonance tube experiment, if the fundamental frequency of the vibrating air column is 280Hz, the frequency of the third overtones is",
+  "options": {
+   "A": "70Hz",
+   "B": "840Hz",
+   "C": "1 120Hz",
+   "D": "1 960Hz"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-29",
+  "subject": "physics",
+  "year": 1998,
+  "number": 29,
+  "question": "An object O lies at a distance m in front of a concave mirror of the focal length f. If m<f, then the final image obtained will be",
+  "options": {
+   "A": "Virtual and diminished",
+   "B": "Magnified and erect",
+   "C": "Real and inverted",
+   "D": "Diminished and erect."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-30",
+  "subject": "physics",
+  "year": 1998,
+  "number": 30,
+  "question": "An object is placed in front of two plane mirrors inclined at an angle è⁰. If the total number of images formed is 7, find the value of è?",
+  "options": {
+   "A": "30⁰",
+   "B": "45⁰",
+   "C": "51⁰",
+   "D": "90⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-31",
+  "subject": "physics",
+  "year": 1998,
+  "number": 31,
+  "question": "The most suitable type of mirror used for the construction of a searchlight is the",
+  "options": {
+   "A": "Concave mirror",
+   "B": "Convex mirror",
+   "C": "Spherical mirror",
+   "D": "Parabolic mirror."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-32",
+  "subject": "physics",
+  "year": 1998,
+  "number": 32,
+  "question": "The displacement d produced in a glass block of thickness t and refractive index n when an object is viewed through it is",
+  "options": {
+   "A": "t – n",
+   "B": "t(1 + ¹/ₙ )",
+   "C": "t(1 – ¹/ₙ )",
+   "D": "t(¹/ₙ – 1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-33",
+  "subject": "physics",
+  "year": 1998,
+  "number": 33,
+  "question": "The correct shape of the graph of uv against (u + v) for an object distance u and image distance v in n experiment to find the focal length of a convex lens is given as",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/1998_p71_1.png",
+  "images": [
+   "physics/1998_p71_1.png"
+  ]
+ },
+ {
+  "id": "physics-1998-34",
+  "subject": "physics",
+  "year": 1998,
+  "number": 34,
+  "question": "A man wears convex lens glasses of focal length 30cm in order to correct his eye defect. Instead of the optimum 25cm, his least distance of distinct vision is",
+  "options": {
+   "A": "14cm",
+   "B": "28cm",
+   "C": "75cm",
+   "D": "150cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-35",
+  "subject": "physics",
+  "year": 1998,
+  "number": 35,
+  "question": "Which of the following are true about infra-red radiation? I It is invisible II It is called heat ray III Its frequency is higher than that of blues light IV It travels as a transverse wave.",
+  "options": {
+   "A": "I, II, III and IV.",
+   "B": "I, II and Iv only",
+   "C": "I, III and IV only.",
+   "D": "II, III and IV only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-36",
+  "subject": "physics",
+  "year": 1998,
+  "number": 36,
+  "question": "The force of repulsion between two point positive charges 5uC and 8uC separated at a distance of 0.02m apart is",
+  "options": {
+   "A": "1.8 x 10⁻¹⁰N",
+   "B": "9.0 x 10⁻⁸N",
+   "C": "9.0 x 10²N",
+   "D": "4.5 x 10³N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-37",
+  "subject": "physics",
+  "year": 1998,
+  "number": 37,
+  "question": "An ebonite rod rubbed with fur attracts a glass rod rubbed with silk because",
+  "options": {
+   "A": "Ebonite has a negative charge while glass has a positive charge",
+   "B": "Ebonite has a positive charge while glass has a negative charge",
+   "C": "Both have negative charges",
+   "D": "Both have positive charges."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-38",
+  "subject": "physics",
+  "year": 1998,
+  "number": 38,
+  "question": "Which of the following diagrams show the correction of the magnetic lines of force of a vertical wire XY carrying a current I?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/1998_p71_2.png",
+  "images": [
+   "physics/1998_p71_2.png"
+  ]
+ },
+ {
+  "id": "physics-1998-39",
+  "subject": "physics",
+  "year": 1998,
+  "number": 39,
+  "question": "Which of the following can be used to reduce local action in a Leclanche cell?",
+  "options": {
+   "A": "A carbon rod as the positive pole.",
+   "B": "Pure zinc as the negative pole.",
+   "C": "Potassium permanganate solution in contact with the positive pole.",
+   "D": "Common salt solution."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-40",
+  "subject": "physics",
+  "year": 1998,
+  "number": 40,
+  "question": "The total resistance measured at PQ in the diagram above is",
+  "options": {
+   "A": "18.0 Ohms",
+   "B": "11.0 Ohms",
+   "C": "4.0 Ohms",
+   "D": "2.0 Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1998_p72_1.png",
+  "images": [
+   "physics/1998_p72_1.png"
+  ]
+ },
+ {
+  "id": "physics-1998-41",
+  "subject": "physics",
+  "year": 1998,
+  "number": 41,
+  "question": "Find the work done in moving a 2C charges between two points X and Y in an electric field if the potential difference is 100 volts.",
+  "options": {
+   "A": "50J",
+   "B": "100J",
+   "C": "200J",
+   "D": "400J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-42",
+  "subject": "physics",
+  "year": 1998,
+  "number": 42,
+  "question": "A parallel capacitor has a common plate area of 5 x 10⁻⁸m⁻² and plate separation of 2 x 10³m. Assuming free space, what is the capacitance?",
+  "options": {
+   "A": "2.25 x 10⁻¹⁷F",
+   "B": "4.50 x 10⁻¹⁷F",
+   "C": "2.25 x 10⁻¹⁶F",
+   "D": "4.50 x 10⁻¹⁶F"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-43",
+  "subject": "physics",
+  "year": 1998,
+  "number": 43,
+  "question": "The iron core of an induction coil is made from bundles of wires so as to",
+  "options": {
+   "A": "Minimize eddy-currents",
+   "B": "Generate eddy-currents",
+   "C": "Prevent sparking at the contact breaker",
+   "D": "Get the greatest possible secondary voltage."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-44",
+  "subject": "physics",
+  "year": 1998,
+  "number": 44,
+  "question": "Electricity is supplied to a school along a cable of total resistance 0.5 Ù with the maximum current drawn from the mains as 100A. the maximum energy dissipated as heat for 1hr is",
+  "options": {
+   "A": "3.6 x 10³J",
+   "B": "5.0 x 10³J",
+   "C": "3.0 x 10⁵J",
+   "D": "1.8 x 10⁷J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-45",
+  "subject": "physics",
+  "year": 1998,
+  "number": 45,
+  "question": "In the a.c. circuit diagram above, the resonance frequency is",
+  "options": {
+   "A": "5000ðHz",
+   "B": "2500ðHz",
+   "C": "⁵⁰⁰⁰/ðHz",
+   "D": "²⁵⁰⁰/ðHz"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1998_p72_2.png",
+  "images": [
+   "physics/1998_p72_2.png"
+  ]
+ },
+ {
+  "id": "physics-1998-46",
+  "subject": "physics",
+  "year": 1998,
+  "number": 46,
+  "question": "A transformer which can produce 8V from a 240V a.c. supply, has an efficiency of 80%. If the current in the secondary coil is 15A, calculate the current in the primary coil.",
+  "options": {
+   "A": "0.625A",
+   "B": "1.600A",
+   "C": "2.500A",
+   "D": "6.250A"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-47",
+  "subject": "physics",
+  "year": 1998,
+  "number": 47,
+  "question": "The electrochemical equivalent of metal is 1.3 x 10⁻ ⁷kgC⁻¹. The mass of the metal which 2.0 x 10⁴C of electricity will deposit from a suitable electrolyte",
+  "options": {
+   "A": "6.5 x 10⁻²kg",
+   "B": "2.6 x 10⁻²kg",
+   "C": "6.5 x 10⁻³kg",
+   "D": "2.6 x 10⁻³kg"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-48",
+  "subject": "physics",
+  "year": 1998,
+  "number": 48,
+  "question": "A radioactive substance has a half-life of 80 days. If the initial number of atoms in the sample is 6.0 x 10¹⁰, how many atoms would remain at the end of 320 days?",
+  "options": {
+   "A": "3.75 x 10⁹",
+   "B": "7.50 x 10⁹",
+   "C": "3.00 x 10¹⁰",
+   "D": "5.63 x 10¹⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-49",
+  "subject": "physics",
+  "year": 1998,
+  "number": 49,
+  "question": "In a nuclear fusion experiment, the loss of mass amounts to 1.0 x 10⁻⁶kg. The amount of energy obtained from the fusion is",
+  "options": {
+   "A": "3.0 x 10⁻⁴J",
+   "B": "3.0 x 10⁻¹J",
+   "C": "9.0 x 10⁴J",
+   "D": "9.0 x 10¹⁰J [Speed of light = 3.0 x 10⁸ms⁻¹]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1998-50",
+  "subject": "physics",
+  "year": 1998,
+  "number": 50,
+  "question": "In photoelectric effect, electrons will leave the metal surface when illuminated by light of appropriate frequency if the photon energy is",
+  "options": {
+   "A": "Greater than the work function.",
+   "B": "Less than the work function",
+   "C": "Equal to the work function",
+   "D": "Equal to the maximum kinetic energy of the electrons."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

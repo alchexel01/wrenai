@@ -1,0 +1,958 @@
+[
+ {
+  "id": "physics-1992-1",
+  "subject": "physics",
+  "year": 1992,
+  "number": 1,
+  "question": "What is the least possible error in using rule graduated in centimeters?",
+  "options": {
+   "A": "0.1cm",
+   "B": "0.5cm",
+   "C": "1.0cm",
+   "D": "2.0cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-2",
+  "subject": "physics",
+  "year": 1992,
+  "number": 2,
+  "question": "Which of the following affects the period of a simple pendulum? I Mass of the pendulum bob II Length of the pendulum III Acceleration due to gravity.",
+  "options": {
+   "A": "I, II and III",
+   "B": "II and II only",
+   "C": "I and III only",
+   "D": "I and II only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-3",
+  "subject": "physics",
+  "year": 1992,
+  "number": 3,
+  "question": "A boy sits in a train moving with uniform speed on a straight track. If from his outstretched palm he gently tosses a coin vertically upwards, the coin will fall",
+  "options": {
+   "A": "In front of his palm",
+   "B": "Behind his palm",
+   "C": "Beside his palm",
+   "D": "Into his palm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-4",
+  "subject": "physics",
+  "year": 1992,
+  "number": 4,
+  "question": "A body starts from rest and moves with uniform acceleration of 6 ms⁻². What distance does it cover in the third second?",
+  "options": {
+   "A": "15m",
+   "B": "18m",
+   "C": "27m",
+   "D": "30m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-5",
+  "subject": "physics",
+  "year": 1992,
+  "number": 5,
+  "question": "A stone, Q is thrown with velocity u at an angle of 75⁰ to the horizontal. Another stone R is thrown with the same velocity u but at an angle of 15⁰ to the horizontal. The ranges covered by the stones will be",
+  "options": {
+   "A": "Greater for Q",
+   "B": "Greater for R",
+   "C": "The same for Q and R",
+   "D": "Greater for heavier of the stones"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-6",
+  "subject": "physics",
+  "year": 1992,
+  "number": 6,
+  "question": "A man weighting 800N climbs up a flight of stairs to a height of 15m in 12.5s. What is the man’s average power output?",
+  "options": {
+   "A": "667W",
+   "B": "810W",
+   "C": "960W",
+   "D": "15 000W"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-7",
+  "subject": "physics",
+  "year": 1992,
+  "number": 7,
+  "question": "A uniform light rod is kept in horizontal equilibrium under the influence of four forces as shown above. Which of the following equations correctly represents the condition of equilibrium for the rod?",
+  "options": {
+   "A": "F₁ + F₂ = F₃ + F₄",
+   "B": "F₁ + F₂ - F₃ + F₄ = 0",
+   "C": "(F₁ + F ₂) ab = (F ₃+ F )₄c d",
+   "D": "F₁a + F₂b - F₃c - F₄d = 0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1992_p46_1.png",
+  "images": [
+   "physics/1992_p46_1.png"
+  ]
+ },
+ {
+  "id": "physics-1992-8",
+  "subject": "physics",
+  "year": 1992,
+  "number": 8,
+  "question": "In the diagram above, the hanging mass m₂ is adjusted until m₁ is on the verge of sliding. The coefficient of static friction between the mass m₁ and the table is",
+  "options": {
+   "A": "m₁",
+   "B": "m₁g",
+   "C": "m₂",
+   "D": "m₂g"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1992_p46_2.png",
+  "images": [
+   "physics/1992_p46_2.png"
+  ]
+ },
+ {
+  "id": "physics-1992-9",
+  "subject": "physics",
+  "year": 1992,
+  "number": 9,
+  "question": "A machine requires 1000J of work to raise a load of 500N through a vertical distance of 1.5m. Calculate the efficiency of the machine.",
+  "options": {
+   "A": "80%",
+   "B": "75%",
+   "C": "50%",
+   "D": "33%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-10",
+  "subject": "physics",
+  "year": 1992,
+  "number": 10,
+  "question": "In an experiment to determine Young’s Modulus for a wire, several; loads are attached to the wire and the corresponding extensions measured. The tensile stress in each case depends on the",
+  "options": {
+   "A": "Load and the extension",
+   "B": "Load and the raiud of the wire",
+   "C": "Radius of the wire and the extension",
+   "D": "Extension and the original length of the wire."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1992_p47_1.png",
+  "images": [
+   "physics/1992_p47_1.png"
+  ]
+ },
+ {
+  "id": "physics-1992-11",
+  "subject": "physics",
+  "year": 1992,
+  "number": 11,
+  "question": "The figure above shows the height of two liquids X and y when some air is sucked out of the apparatus through the pump P. the diameter of the tube in X is twice that of the Y. What is the relative density of the liquid X with respect to liquid Y?",
+  "options": {
+   "A": "1/3",
+   "B": "2/3",
+   "C": "3",
+   "D": "6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-12",
+  "subject": "physics",
+  "year": 1992,
+  "number": 12,
+  "question": "If a plastic sphere floats in water (density = 1000kg m⁻³) with 0.5 of its volume submerged and floats in oil with 0.4 volume submerged, the density of the oil is",
+  "options": {
+   "A": "800 kg m⁻³",
+   "B": "1 200 kg m⁻³",
+   "C": "1 250 kg m⁻³",
+   "D": "2 000 kg m⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-13",
+  "subject": "physics",
+  "year": 1992,
+  "number": 13,
+  "question": "A platinum resistance thermometer wire has a resistance of 5 ohms at 0⁰C and 5.5 ohms at 100. Calculate the temperature of the wire when the resistance is 5.2 ohms",
+  "options": {
+   "A": "80⁰C",
+   "B": "60⁰C",
+   "C": "40⁰C",
+   "D": "10⁰C"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-14",
+  "subject": "physics",
+  "year": 1992,
+  "number": 14,
+  "question": "A bridge made of steel is 600m long. What is the daily variation in its length if the night-time and day-time temperatures are 10⁰C and 35⁰C respectively. The linear expansivity of steel is 0.000012 C⁻¹.",
+  "options": {
+   "A": "0.18cm",
+   "B": "1.80cm",
+   "C": "18.00cm",
+   "D": "1800cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-15",
+  "subject": "physics",
+  "year": 1992,
+  "number": 15,
+  "question": "One of the most important applications of bimetallic strip is found in the construction of",
+  "options": {
+   "A": "A thermostat",
+   "B": "An altimeter",
+   "C": "A thermocouple",
+   "D": "A hygrometer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-16",
+  "subject": "physics",
+  "year": 1992,
+  "number": 16,
+  "question": "At constant pressure, the density of a fixed mass of gas is",
+  "options": {
+   "A": "Constant with temperature",
+   "B": "Proportional to its volume",
+   "C": "Inversely proportional to its temperature",
+   "D": "Independent of its volume"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-17",
+  "subject": "physics",
+  "year": 1992,
+  "number": 17,
+  "question": "How much heat is absorbed when a block of copper of mass 0.05kg and specific heat capacity 390J kg⁻¹ K⁻¹ is heated from 20⁰C to 70⁰C?",
+  "options": {
+   "A": "3.98 x 10⁻¹J",
+   "B": "9.75 x 10²J",
+   "C": "3.98 x 103J",
+   "D": "9.75 x 10³J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-18",
+  "subject": "physics",
+  "year": 1992,
+  "number": 18,
+  "question": "A block of ice floats on water inside a container. If the block of ice gets completely melted, the level of water in the container will",
+  "options": {
+   "A": "Increase",
+   "B": "Remain the same",
+   "C": "Decrease",
+   "D": "First decrease and then increase."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-19",
+  "subject": "physics",
+  "year": 1992,
+  "number": 19,
+  "question": "The space between the double glass walls of a thermos flask is evacuated and the two surfaces facing the evacuated space are silvered. The residual source of heat loss takes place by",
+  "options": {
+   "A": "Convection",
+   "B": "Radiation from the surfaces’",
+   "C": "Conduction through the stopper and the glass.",
+   "D": "Conduction across the walls."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-20",
+  "subject": "physics",
+  "year": 1992,
+  "number": 20,
+  "question": "The equation of wave is y = 0.005 sin [x(0.5x – 200 t)]1 where x and y are in metres and t is in seconds. What is the velocity of the wave?",
+  "options": {
+   "A": "4 000 m s⁻¹",
+   "B": "400 m s⁻¹",
+   "C": "250 m s⁻¹",
+   "D": "40 m s⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-21",
+  "subject": "physics",
+  "year": 1992,
+  "number": 21,
+  "question": "Which of the following characteristics of a wave is used in the measurement of the depth of the sea?",
+  "options": {
+   "A": "Diffraction",
+   "B": "Interference",
+   "C": "Refraction",
+   "D": "Reflection"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-22",
+  "subject": "physics",
+  "year": 1992,
+  "number": 22,
+  "question": "A note is the octave of another note if it has",
+  "options": {
+   "A": "A frequency twice that of the first note",
+   "B": "Frequency half that of the first note",
+   "C": "The same frequency as the first one",
+   "D": "A frequency eight times that of the first note."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-23",
+  "subject": "physics",
+  "year": 1992,
+  "number": 23,
+  "question": "What is the frequency of the sound made by a siren having a disc with 32 holes and making 25 revolutions per second?",
+  "options": {
+   "A": "80 Hz",
+   "B": "600 Hz",
+   "C": "800 Hz",
+   "D": "1 600 Hz"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-24",
+  "subject": "physics",
+  "year": 1992,
+  "number": 24,
+  "question": "Which of the following properties make the convex mirror useful as a driving mirror? I The image is real II The image is erect III It has a wide field of view IV The image is magnified",
+  "options": {
+   "A": "I, II and IV",
+   "B": "I, II and III",
+   "C": "II and III",
+   "D": "I and III."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-25",
+  "subject": "physics",
+  "year": 1992,
+  "number": 25,
+  "question": "When an object is placed very close to the pole of a concave mirror, the virtual image obtained is",
+  "options": {
+   "A": "Diminished and upright",
+   "B": "Diminished and inverted",
+   "C": "Enlarged and inverted",
+   "D": "Enlarged and upright."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-26",
+  "subject": "physics",
+  "year": 1992,
+  "number": 26,
+  "question": "A concave mirror has a radius of curvature of 36cm. At what distance from the mirror should an object be placed to give a real image three times the ize of the object?",
+  "options": {
+   "A": "12 cm",
+   "B": "24 cm",
+   "C": "48 cm",
+   "D": "108 cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-27",
+  "subject": "physics",
+  "year": 1992,
+  "number": 27,
+  "question": "Which of the following statements is CORRECT about a long-sighted boy who does not put on glasses?",
+  "options": {
+   "A": "He cannot see distance objects clearly",
+   "B": "Rays of light from a close objects are focused in front of his retina",
+   "C": "His eyeball is too long",
+   "D": "Parallel rays of light are focused behind his retina."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-28",
+  "subject": "physics",
+  "year": 1992,
+  "number": 28,
+  "question": "The speed of light in air is 3 x 10⁸ m s⁻¹. What is the peed in glass with a refractive index of 1.50?",
+  "options": {
+   "A": "1.5 x 10⁸ m s⁻¹",
+   "B": "3.0 x 10⁸ m s⁻¹",
+   "C": "2.0 x 10⁸ m s⁻¹",
+   "D": "6.0 x 10⁸ m s⁻¹."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-29",
+  "subject": "physics",
+  "year": 1992,
+  "number": 29,
+  "question": "If the refractive index of a medium in air is 2.0, what is the critical angle for this medium?",
+  "options": {
+   "A": "30⁰",
+   "B": "42⁰",
+   "C": "45⁰",
+   "D": "50⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-30",
+  "subject": "physics",
+  "year": 1992,
+  "number": 30,
+  "question": "Which of the following arrangements of the components of electromagnetic spectrum is in ascending order of wavelengths?",
+  "options": {
+   "A": "Gamma rays, ultraviolet rays, x-rays, infra-red rays.",
+   "B": "Gamma rays, x-rays, ultraviolet rays, infra-red rays",
+   "C": "Infra-red rays, ultraviolet rays, x-rays, gamma rays.",
+   "D": "Gamma rays, ultraviolet rays, infra-red rays, x- rays."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-31",
+  "subject": "physics",
+  "year": 1992,
+  "number": 31,
+  "question": "The diagram above represents the field pattern obtained by bringing the poles of two magnets near each other. The poles must be",
+  "options": {
+   "A": "N – N poles",
+   "B": "S – S poles",
+   "C": "S – N poles",
+   "D": "N – S poles"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1992_p48_1.png",
+  "images": [
+   "physics/1992_p48_1.png"
+  ]
+ },
+ {
+  "id": "physics-1992-32",
+  "subject": "physics",
+  "year": 1992,
+  "number": 32,
+  "question": "The angle between the direction of the earth’s magnetic field and the horizontal is called the",
+  "options": {
+   "A": "Angle of deviation",
+   "B": "Magnetic declination",
+   "C": "Magnetic meridian",
+   "D": "Angle of dip"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-33",
+  "subject": "physics",
+  "year": 1992,
+  "number": 33,
+  "question": "Calculate the force acting on an electron of charge 1.6 x 10⁻¹⁹ C placed in an electric field of intensity 10⁸Vm⁻‘.",
+  "options": {
+   "A": "1.6 x 10⁻¹¹N",
+   "B": "1.6 x 10⁻¹⁴N",
+   "C": "1.6 x 10⁻¹⁶N",
+   "D": "1.0 x 10⁻¹⁶N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-34",
+  "subject": "physics",
+  "year": 1992,
+  "number": 34,
+  "question": "When an ebonite rod is rubbed with fur, it has",
+  "options": {
+   "A": "No charge at all",
+   "B": "A negative charge",
+   "C": "A positive charge",
+   "D": "Negative and positive charges."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-35",
+  "subject": "physics",
+  "year": 1992,
+  "number": 35,
+  "question": "Which of the following factors has no effect on e.m.f. of a primary cell?",
+  "options": {
+   "A": "Temperature",
+   "B": "Size of the cell",
+   "C": "Nature of the plates",
+   "D": "Nature of the electrolyte."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-36",
+  "subject": "physics",
+  "year": 1992,
+  "number": 36,
+  "question": "A wire of length 15m made of a material of resistivity 1.8 x 10⁻⁶ ohms-m has a resistance of 0.27 ohms. Determine the area of the wire",
+  "options": {
+   "A": "1.5 x 10⁻⁴ m²",
+   "B": "1.0 x 10⁻⁴ m²",
+   "C": "2.7 x 10⁻⁵ m²",
+   "D": "7.3 x 10⁻⁵ m²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-37",
+  "subject": "physics",
+  "year": 1992,
+  "number": 37,
+  "question": "The diagram above shows a meter bridge in which two of the arms contain resistances R and 2 ohms. A balance point is obtained at 60cm from the left end. Calculate the value of R.",
+  "options": {
+   "A": "1.2 Ohms",
+   "B": "1.3 Ohms",
+   "C": "3.0 Ohms",
+   "D": "6.0 Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-38",
+  "subject": "physics",
+  "year": 1992,
+  "number": 38,
+  "question": "The circuit diagram above contains four ammeter W, X, Y and Z. Which of the following statements about the ammeter reading is correct?",
+  "options": {
+   "A": "The reading of W is equal to that of Y and twice that of X.",
+   "B": "The reading of y is greater than that of Z",
+   "C": "The readings of W and Y are equal and each is greater than that of X.",
+   "D": "The reading of Z is equal to the sum of the readings of W and Y."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1992_p49_1.png",
+  "images": [
+   "physics/1992_p49_1.png"
+  ]
+ },
+ {
+  "id": "physics-1992-39",
+  "subject": "physics",
+  "year": 1992,
+  "number": 39,
+  "question": "A 5-V battery is connected across the plates of a 2.0 ìF unchanged parallel plate capacitor. The charge on the capacitor after a long time is",
+  "options": {
+   "A": "1.5 uC",
+   "B": "10.0 uC",
+   "C": "20.0 uC",
+   "D": "50.0 uC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-40",
+  "subject": "physics",
+  "year": 1992,
+  "number": 40,
+  "question": "Which of the following apparatus will require the smallest fuse rating for its protection?",
+  "options": {
+   "A": "60W, 240V",
+   "B": "60W, 40V",
+   "C": "40W, 12V",
+   "D": "40W, 5V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1992_p49_2.png",
+  "images": [
+   "physics/1992_p49_2.png"
+  ]
+ },
+ {
+  "id": "physics-1992-41",
+  "subject": "physics",
+  "year": 1992,
+  "number": 41,
+  "question": "A capacitor of 10 ìF is connected across a cell of 12 volts as shown above. Calculate the energy stored in the capacitor.",
+  "options": {
+   "A": "7.2 x 10⁻⁴ J",
+   "B": "1.4 x 10⁻³ J",
+   "C": "1.4 x 10⁻⁴ J",
+   "D": "1.3 x 10⁻² J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-42",
+  "subject": "physics",
+  "year": 1992,
+  "number": 42,
+  "question": "The heat produced in a conductor carrying an electric is",
+  "options": {
+   "A": "Inversely proportional to the current and the resistance",
+   "B": "Directly proportional to the current, resistance and the time.",
+   "C": "Inversely proportional to the square of the resistance, current and the time.",
+   "D": "Directly proportional to the square of the current, the resistance and the time."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-43",
+  "subject": "physics",
+  "year": 1992,
+  "number": 43,
+  "question": "PQRS is a rectangular cell with PQ perpendicular to the magnetic field as shown in the diagram. If a current flows in the direction PQRS, in what direction will the coil move? a. Upwards b. Downwards c. Towards the north pole d. Towards the south pole.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/1992_p49_3.png",
+  "images": [
+   "physics/1992_p49_3.png"
+  ]
+ },
+ {
+  "id": "physics-1992-44",
+  "subject": "physics",
+  "year": 1992,
+  "number": 44,
+  "question": "The maximum permissible current through a galvanometer G of internal resistance 10Ù is 0.05A. A resistance R is used to convert G into a voltmeter with a maximum reading of 100V. Find the value of R and how it is connected to G.",
+  "options": {
+   "A": "20,000 ohms in parallel",
+   "B": "19,990 ohms in series",
+   "C": "1,990 ohms in series",
+   "D": "100 ohms in series"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-45",
+  "subject": "physics",
+  "year": 1992,
+  "number": 45,
+  "question": "In alternating current theory, the unites of impedance, r.m.s. voltage and resonance frequency are respectively equal to",
+  "options": {
+   "A": "Volt, ampere and hertz",
+   "B": "Ohm, volt and hertz",
+   "C": "Watt, ohm and radian",
+   "D": "Ohm, hertz and joule."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-46",
+  "subject": "physics",
+  "year": 1992,
+  "number": 46,
+  "question": "In A.C. circuit theory, the root mean square (r.m.s.) current, Iᵣₘₛ, and the peak (maximum) current I₀ are related by",
+  "options": {
+   "A": "I₀ = Iᵣₘₛ/ 2",
+   "B": "Iᵣₘₛ = I₀/ 2",
+   "C": "Iᵣₘₛ = 1/ I₀ 2",
+   "D": "I₀ = 1/Iᵣₘₛ 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-47",
+  "subject": "physics",
+  "year": 1992,
+  "number": 47,
+  "question": "Which of the following graphs correctly illustrates the number of remaining atoms during a radioactive decay.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "physics/1992_p50_1.png",
+  "images": [
+   "physics/1992_p50_1.png"
+  ]
+ },
+ {
+  "id": "physics-1992-48",
+  "subject": "physics",
+  "year": 1992,
+  "number": 48,
+  "question": "The threshold frequency for photoelectric effect depends on the",
+  "options": {
+   "A": "Intensity of incident light",
+   "B": "Frequency of incident light",
+   "C": "Material of the photocathode",
+   "D": "Potential difference between the cathode and the mode"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-49",
+  "subject": "physics",
+  "year": 1992,
+  "number": 49,
+  "question": "After three half life, the function of a radioactive material that has decayed is",
+  "options": {
+   "A": "1/8",
+   "B": "1/3",
+   "C": "2/3",
+   "D": "7/8 ₂₇ ₁ ₂₄"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1992-50",
+  "subject": "physics",
+  "year": 1992,
+  "number": 50,
+  "question": "₁ ₃ Al + ₀ n ’! ₁ ₁N a + X In the nuclear reaction above, the product denoted by X is",
+  "options": {
+   "A": "A proton",
+   "B": "A gamma ray",
+   "C": "A helium particle",
+   "D": "An alpha particle."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

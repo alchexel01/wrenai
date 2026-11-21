@@ -1,0 +1,936 @@
+[
+ {
+  "id": "physics-1999-1",
+  "subject": "physics",
+  "year": 1999,
+  "number": 1,
+  "question": "A car of mass 800kg attains a speed of 25ms⁻¹ in 20 seconds. The power developed in the energy is",
+  "options": {
+   "A": "1.25 x 10⁴ W",
+   "B": "2.50 x 10⁴W",
+   "C": "1.25 x 10⁶ W",
+   "D": "2.50 x 10⁶ W"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-2",
+  "subject": "physics",
+  "year": 1999,
+  "number": 2,
+  "question": "A lead bullet of mass 0.05kg is fired with a velocity of 200ms⁻¹ into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is",
+  "options": {
+   "A": "50 J",
+   "B": "100 J",
+   "C": "150 J",
+   "D": "200 J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-3",
+  "subject": "physics",
+  "year": 1999,
+  "number": 3,
+  "question": "A ball of mass 0.1kg is thrown vertically upwards with a speed of 10 ms⁻¹ from the top of a tower 10m high. Neglecting air resistance, its total energy just before hitting the ground is",
+  "options": {
+   "A": "5 J",
+   "B": "10 J",
+   "C": "15 J",
+   "D": "20 J [g = 10ms⁻²]."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1999_p73_2.png",
+  "images": [
+   "physics/1999_p73_2.png"
+  ]
+ },
+ {
+  "id": "physics-1999-4",
+  "subject": "physics",
+  "year": 1999,
+  "number": 4,
+  "question": "The figure above represents a frictionless pulley system in which a weight W is in equilibrium with a weight of 40N. Find the value of W",
+  "options": {
+   "A": "13.1 N",
+   "B": "20.0 N",
+   "C": "40.0 N",
+   "D": "80.0 N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1999_p73_1.png",
+  "images": [
+   "physics/1999_p73_1.png"
+  ]
+ },
+ {
+  "id": "physics-1999-5",
+  "subject": "physics",
+  "year": 1999,
+  "number": 5,
+  "question": "The diagram above shows a solid figure with base PQ and centre gravity G on an inclined plane. Which of the following statements is correct?",
+  "options": {
+   "A": "The solid will fall over if the vertical line through G lies outside the base.",
+   "B": "The solid will fall over if the vertical line through G lines inside the base.",
+   "C": "The solid will not fall over if the vertical line through G lies outside the base.",
+   "D": "The solid can never fall over."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-6",
+  "subject": "physics",
+  "year": 1999,
+  "number": 6,
+  "question": "Two bodies have masse in the ratio 3 : 1. They experience forces which impart to them accelerations in the ratio 2: 9 respectively. Find the ratio of the forces the masses experience.",
+  "options": {
+   "A": "1 : 4",
+   "B": "2 : 1",
+   "C": "2 : 3",
+   "D": "2 : 5."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1999_p73_3.png",
+  "images": [
+   "physics/1999_p73_3.png"
+  ]
+ },
+ {
+  "id": "physics-1999-7",
+  "subject": "physics",
+  "year": 1999,
+  "number": 7,
+  "question": "The diagram above shows the velocity-time graph of a vehicle. Its acceleration and retardation respectively are",
+  "options": {
+   "A": "8.0 ms⁻², 4.0 ms⁻²,",
+   "B": "4.0 ms⁻², 8.0 ms⁻²,",
+   "C": "4.0 ms⁻², 2.0 ms⁻²,",
+   "D": "2.0 ms⁻², 4.0 ms⁻²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-8",
+  "subject": "physics",
+  "year": 1999,
+  "number": 8,
+  "question": "A particle of mass 10⁻²kg is fixed to the tip of a fan blade which rotates with angular velocity of 100 rad s⁻¹. If the radius of the blade is 0.2m, the centripetal force is",
+  "options": {
+   "A": "2 N",
+   "B": "20 N",
+   "C": "200 N",
+   "D": "400 N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-9",
+  "subject": "physics",
+  "year": 1999,
+  "number": 9,
+  "question": "The inner diameter of a small test tube can be measured accurately using a",
+  "options": {
+   "A": "Micrometer screw guage",
+   "B": "Pair of dividers",
+   "C": "Metre rule",
+   "D": "Pair of vernier calipers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-10",
+  "subject": "physics",
+  "year": 1999,
+  "number": 10,
+  "question": "A gas at a volume V₀ in a container at pressure P₀, is compressed to one fifth of its volume. What will be its pressure if it maintains its original temperature T?",
+  "options": {
+   "A": "Po/₅",
+   "B": "4/5 P₀",
+   "C": "P₀",
+   "D": "5P₀"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-11",
+  "subject": "physics",
+  "year": 1999,
+  "number": 11,
+  "question": "A piece of substance of specific heat capacity 450 J kg⁻¹ K⁻¹ falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat.",
+  "options": {
+   "A": "2/9⁰C",
+   "B": "4/9⁰C",
+   "C": "9/4⁰C",
+   "D": "9/2⁰C [g = 10 ms⁻²]."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-12",
+  "subject": "physics",
+  "year": 1999,
+  "number": 12,
+  "question": "The diagram above shows a lift pump with valves at P and Q. during a downward stroke of the piston,",
+  "options": {
+   "A": "Both valves are open",
+   "B": "P is open while Q is closed",
+   "C": "P is closed while Q is open",
+   "D": "Both valves are closed."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1999_p74_2.png",
+  "images": [
+   "physics/1999_p74_2.png",
+   "physics/1999_p74_1.png"
+  ]
+ },
+ {
+  "id": "physics-1999-13",
+  "subject": "physics",
+  "year": 1999,
+  "number": 13,
+  "question": "In the J – tube above, Y and X are on the same horizontal level and 30cm³ of air is trapped above Y when the atmospheric pressure is 75cm Hg. Calculate the volume of air trapped above Y when 15cm Hg is now poured into the limb above X.",
+  "options": {
+   "A": "15 cm³",
+   "B": "25 cm³",
+   "C": "35 cm³",
+   "D": "45 cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-14",
+  "subject": "physics",
+  "year": 1999,
+  "number": 14,
+  "question": "If the stress on a wire is 10⁷ Nm⁻² and the wire is stretched from its original length of 10.00cm to 10.05 cm. The young’s modulus of the wire is",
+  "options": {
+   "A": "5.0 x 10⁴ Nm⁻²",
+   "B": "5.0 x 10⁵ Nm⁻²",
+   "C": "2.0 x 10⁸ Nm⁻²",
+   "D": "2.0 x 10⁹ Nm⁻²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-15",
+  "subject": "physics",
+  "year": 1999,
+  "number": 15,
+  "question": "A solid weights 10.0N in air, 6.0 N when fully immersed in water and 7.0 N when fully immersed in a certain liquid X. Calculate the relative density of the liquid.",
+  "options": {
+   "A": "5/3",
+   "B": "4/3",
+   "C": "¾",
+   "D": "7/10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-16",
+  "subject": "physics",
+  "year": 1999,
+  "number": 16,
+  "question": "I. A liquid boils when its saturated vapour pressure is equal to the external pressure. II. Dissolved substances in pure water lead to increase in the boiling point. III. When the external pressure is increased, the boiling point increases. IV Dissolved substances in pure water decrease the boiling point. Which combination of the above are peculiarities of the boiling point of a liquid?",
+  "options": {
+   "A": "I, II and III",
+   "B": "I, II, III and IV",
+   "C": "I, II and IV",
+   "D": "II, III and IV."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-17",
+  "subject": "physics",
+  "year": 1999,
+  "number": 17,
+  "question": "When the temperature of a liquid is increased, its surface tension",
+  "options": {
+   "A": "Decreases",
+   "B": "Increases",
+   "C": "Remains constant",
+   "D": "Increase then decreases."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-18",
+  "subject": "physics",
+  "year": 1999,
+  "number": 18,
+  "question": "When the brakes in a car are applied, the frictional force on the tyres is",
+  "options": {
+   "A": "A disadvantage because it is in the direction of motion of the car",
+   "B": "A disadvantage because it is in the opposite direction of motion of the car.",
+   "C": "An advantage because it is in the direction of motion of the car.",
+   "D": "An advantage because it is in the opposite direction of motion of the car."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-19",
+  "subject": "physics",
+  "year": 1999,
+  "number": 19,
+  "question": "The lowest note emitted by a stretched string has a frequency of 400Hz. How many overtones are their between 40Hz and 180 Hz?",
+  "options": {
+   "A": "4",
+   "B": "3",
+   "C": "2",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-20",
+  "subject": "physics",
+  "year": 1999,
+  "number": 20,
+  "question": "A man stands 4m in front of a plane mirror. If the mirror is moved 1m towards the man, the distance between him and his image is",
+  "options": {
+   "A": "3m",
+   "B": "5m",
+   "C": "6m",
+   "D": "10m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-21",
+  "subject": "physics",
+  "year": 1999,
+  "number": 21,
+  "question": "If a sound wave gors from a cold-air region to a hot-air region, its wavelength",
+  "options": {
+   "A": "Increase",
+   "B": "Decrease",
+   "C": "Decrease then increase",
+   "D": "Remain constant"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-22",
+  "subject": "physics",
+  "year": 1999,
+  "number": 22,
+  "question": "The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a",
+  "options": {
+   "A": "Concave mirror of focal length 5 cm",
+   "B": "Concave mirror of focal length 5 cm",
+   "C": "Convex mirror of focal length 5 cm",
+   "D": "Convex mirror of focal length 20cm."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-23",
+  "subject": "physics",
+  "year": 1999,
+  "number": 23,
+  "question": "The equation of a wave traveling along the positive x-direction is given by y = 0.25 x 10⁻³ sin (500 t – 0.025 x). Determine the angular frequency of the wave motion,",
+  "options": {
+   "A": "0.25 x 10⁻³ rad s⁻¹",
+   "B": "0.25 x 10⁻¹rad s⁻¹",
+   "C": "5.00 x 10²rad s⁻¹",
+   "D": "2.50 x 10²rad s⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-24",
+  "subject": "physics",
+  "year": 1999,
+  "number": 24,
+  "question": "Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss",
+  "options": {
+   "A": "8/33kg",
+   "B": "33/80kg",
+   "C": "80/33kg",
+   "D": "33/8kg [Specific heat capacity of copper = 400 J kg⁻¹ K⁻¹; Latent heat of fussion of ice = 3.3 x 10⁵ J kg⁻¹]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-25",
+  "subject": "physics",
+  "year": 1999,
+  "number": 25,
+  "question": "The diagram above represents a transverse electromagnetic wave traveling with speed 3.0 x 10⁸ms⁻¹. What is the frequency of the wave?",
+  "options": {
+   "A": "3.0 x 10⁷ Hz",
+   "B": "90 x 10⁷ Hz",
+   "C": "1.0 x 10⁹ Hz",
+   "D": "3.0 x 10⁹ Hz"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1999_p75_1.png",
+  "images": [
+   "physics/1999_p75_1.png"
+  ]
+ },
+ {
+  "id": "physics-1999-27",
+  "subject": "physics",
+  "year": 1999,
+  "number": 27,
+  "question": "The temperature gradient across a copper rod of thickness 0.02m, maintained a two temperature junctions of 20⁰C and 80⁰C respectively is",
+  "options": {
+   "A": "3.0 x 10²Km⁻¹",
+   "B": "3.0 x 10³Km⁻¹",
+   "C": "5.0 x 10³Km⁻¹",
+   "D": "3.0 x 10⁴Km⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1999_p75_2.png",
+  "images": [
+   "physics/1999_p75_2.png"
+  ]
+ },
+ {
+  "id": "physics-1999-28",
+  "subject": "physics",
+  "year": 1999,
+  "number": 28,
+  "question": "The diagram above show a magnet X with its South pole moved along a soft-iron bar PQ in the direction shown. After some time, the poles at P and Q respectively are",
+  "options": {
+   "A": "North – North",
+   "B": "North – South",
+   "C": "South – North",
+   "D": "South – South"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-29",
+  "subject": "physics",
+  "year": 1999,
+  "number": 29,
+  "question": "Four cells each of e.m.f. 1.5 V and internal resistance of 4 Ohms are connected in parallel. What is the effective e.m.f. and internal resistance of the combination?",
+  "options": {
+   "A": "6.0V, 16 Ohms",
+   "B": "6.0V, 1 Ohms",
+   "C": "1.5V, 4 Ohms",
+   "D": "1.5V, 1 Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1999_p75_3.png",
+  "images": [
+   "physics/1999_p75_3.png"
+  ]
+ },
+ {
+  "id": "physics-1999-30",
+  "subject": "physics",
+  "year": 1999,
+  "number": 30,
+  "question": "In the circuit above, the ammeter reads a current of 5.0 A when R = 8 Ohms and reads 7.0 A when R = 5 Ohms. The value of the unknown resistance X is",
+  "options": {
+   "A": "10.0 Ohms",
+   "B": "7.5 Ohms",
+   "C": "5.0 Ohms",
+   "D": "2.5 Ohms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-31",
+  "subject": "physics",
+  "year": 1999,
+  "number": 31,
+  "question": "An astronomical telescope is said to be in normal adjustment when the",
+  "options": {
+   "A": "Eye is accommodated",
+   "B": "Focal length of objective lens is longer than that of eye piece",
+   "C": "Final image is at the near point of eye",
+   "D": "Final image is at infinity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-32",
+  "subject": "physics",
+  "year": 1999,
+  "number": 32,
+  "question": "Steel is more suitable for permanent magnet than iron because the former",
+  "options": {
+   "A": "Is easily demagnetized by shaking vigorously",
+   "B": "Is an alloy of many metals",
+   "C": "Is easily magnetized by alternating current through one cycle",
+   "D": "Retains magnetism more than iron."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-33",
+  "subject": "physics",
+  "year": 1999,
+  "number": 33,
+  "question": "The diagram above shows the prism arrangement in a",
+  "options": {
+   "A": "Binocular",
+   "B": "Spectrometer",
+   "C": "Penscope",
+   "D": "Projector"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1999_p76_1.png",
+  "images": [
+   "physics/1999_p76_1.png"
+  ]
+ },
+ {
+  "id": "physics-1999-34",
+  "subject": "physics",
+  "year": 1999,
+  "number": 34,
+  "question": "The velocities of flight air and glass are 3.0 x 10⁸ms and 2.0 x 10⁸ms⁻¹ respectively. If the angle of refraction is 30⁰, the sine of the angle of incidence",
+  "options": {
+   "A": "0.33",
+   "B": "0.50",
+   "C": "0.67",
+   "D": "0.75"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-35",
+  "subject": "physics",
+  "year": 1999,
+  "number": 35,
+  "question": "In the series a.c. circuit shown above, the p.d across the inductor is 8Vr.m.s. The effective voltage",
+  "options": {
+   "A": "2V",
+   "B": "10V",
+   "C": "14V",
+   "D": "48V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1999_p76_2.png",
+  "images": [
+   "physics/1999_p76_2.png"
+  ]
+ },
+ {
+  "id": "physics-1999-36",
+  "subject": "physics",
+  "year": 1999,
+  "number": 36,
+  "question": "The core of an efficient transfoemer should consist of laminated pieces of metal in order to",
+  "options": {
+   "A": "Increase the heat produced by increasing the eddy current",
+   "B": "Increase the heat produced by reducing the eddy current",
+   "C": "Reduce the heat produced by increasing the eddy current",
+   "D": "Reduce the heat produced by reducing the eddy current."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-37",
+  "subject": "physics",
+  "year": 1999,
+  "number": 37,
+  "question": "In Fleming’s right-hand rule, the thumb, the forefinger and the middle finger if held mutually at right angles represent respectively, the",
+  "options": {
+   "A": "Motion, the field and induced current",
+   "B": "Induced current, the motion and the field",
+   "C": "Fireld, the induced current and the motion",
+   "D": "Induced current, the field and the motion."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-38",
+  "subject": "physics",
+  "year": 1999,
+  "number": 38,
+  "question": "In the circuit above, the potential across each capacitor is 100V. The total energy stored in the two capacitors is",
+  "options": {
+   "A": "3.0 x 10⁴ J",
+   "B": "3.0 x 10² J",
+   "C": "2.5 x 10⁻² J",
+   "D": "6.0 x 10⁻³ J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1999_p76_3.png",
+  "images": [
+   "physics/1999_p76_3.png"
+  ]
+ },
+ {
+  "id": "physics-1999-39",
+  "subject": "physics",
+  "year": 1999,
+  "number": 39,
+  "question": "At what frequency would a 10 H inductor have a reactance of 2000 ohms? ð ₂ ₀₀ Hz B. ð/ ₁₀₀Hz",
+  "options": {
+   "A": "/",
+   "C": "¹⁰⁰/ ðH z",
+   "D": "100ðHz"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-40",
+  "subject": "physics",
+  "year": 1999,
+  "number": 40,
+  "question": "A 3000 W electric cooker is to be used on a 200V mains circuit. Which of the fuses below can be used safely with the cooker?",
+  "options": {
+   "A": "2A",
+   "B": "5A",
+   "C": "10A",
+   "D": "20A"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-42",
+  "subject": "physics",
+  "year": 1999,
+  "number": 42,
+  "question": "A galvanometer has a resistance of 5 Ù. By using a shunt wire of resistance 0.05 Ù, the galvanometer could be converted to an ammeter capable of reading 2 A. What is the current through the galvanometer?",
+  "options": {
+   "A": "2 mA",
+   "B": "10 mA",
+   "C": "20 mA",
+   "D": "25 mA"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "physics/1999_p76_4.png",
+  "images": [
+   "physics/1999_p76_4.png"
+  ]
+ },
+ {
+  "id": "physics-1999-43",
+  "subject": "physics",
+  "year": 1999,
+  "number": 43,
+  "question": "If x is the uncertainty in the measurement of the position of a particle along the x-axis and “Px is the uncertainty in the measurement of the linear momentum along the x-axis, then the uncertainty principle relation is given as",
+  "options": {
+   "A": "x Px >h",
+   "B": "x Px = 0",
+   "C": "x Px < h",
+   "D": "x Px = 00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-44",
+  "subject": "physics",
+  "year": 1999,
+  "number": 44,
+  "question": "Na + Proton X + alpha particle. What are the values of p and q respectively in the equation above?",
+  "options": {
+   "A": "10 and 20",
+   "B": "12 and 24",
+   "C": "20 and 10",
+   "D": "24 and 12."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-45",
+  "subject": "physics",
+  "year": 1999,
+  "number": 45,
+  "question": "A semi-conductor diode is used in rectifying alternating current into direct current mainly because it",
+  "options": {
+   "A": "Allows current to flow in either direction",
+   "B": "Is non-linear",
+   "C": "Offers a high input resistance",
+   "D": "Allows current to flow only in one direction."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-46",
+  "subject": "physics",
+  "year": 1999,
+  "number": 46,
+  "question": "In semi-conductors, the carriers of current at room temperature are",
+  "options": {
+   "A": "Electrons only",
+   "B": "Electrons and holes",
+   "C": "Holes only",
+   "D": "Electrons and ions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-47",
+  "subject": "physics",
+  "year": 1999,
+  "number": 47,
+  "question": "What is the speed of a particle of mass 10⁻²⁷kg whose wavelength is 10⁻⁸m?",
+  "options": {
+   "A": "6.63 ms⁻¹",
+   "B": "66.30 ms⁻¹",
+   "C": "663.00 ms⁻¹",
+   "D": "6630.00 ms⁻¹ (h = 6.63 x 10⁻³⁴ JS)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-48",
+  "subject": "physics",
+  "year": 1999,
+  "number": 48,
+  "question": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductor are 30 V and 40 V respectively. What is the voltage across the capacitor?",
+  "options": {
+   "A": "30 V",
+   "B": "40 V",
+   "C": "50 V",
+   "D": "70 V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-49",
+  "subject": "physics",
+  "year": 1999,
+  "number": 49,
+  "question": "Gamma rays are produced when",
+  "options": {
+   "A": "High velocity electrons are abruptly stopped in metals",
+   "B": "Energy changes occur within the nucleus atoms",
+   "C": "Energy changes occur within the electronic structure of atoms",
+   "D": "Electrons are deflected in very strong magnetic fields."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1999-50",
+  "subject": "physics",
+  "year": 1999,
+  "number": 50,
+  "question": "In the Rutherford scattering experiment, a beam of alpha particles was fired at a thin gold film with some of the particles being considerably deflected. This shows that",
+  "options": {
+   "A": "A gold nucleus contains protons, nuietrons and electrons uniformly distributed in a tiny volume.",
+   "B": "The gold nucleus is positively charged and is concentrated in a tiny volume",
+   "C": "The gold nucleus emitted alpha particles",
+   "D": "The gold nucleus is concentrated in a tiny volume and contains alpha particles."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
