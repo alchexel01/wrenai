@@ -23,6 +23,7 @@ Each JSON file is a list of questions produced by tools/parse_questions.py:
       "question": "The graph ...",
       "options": {"A": "...", "B": "...", "C": "...", "D": "..."},
       "answer": "B",
+      "explanation": "Short reason why B is correct",
       "has_diagram": false,
       "image": null
     }
@@ -58,6 +59,7 @@ class PastQuestion(BaseModel):
     question: str
     options: dict[str, str]
     answer: Optional[str] = None
+    explanation: Optional[str] = None
     has_diagram: bool = False
     options_are_images: bool = False
     image: Optional[str] = None
