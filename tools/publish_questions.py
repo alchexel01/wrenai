@@ -180,7 +180,10 @@ def main():
     # 3) commit
     step += 1
     print(f"== {step}/{total}  Committing ==")
-    run(["git", "add", DATA_DIR], check=True)
+    # --ignore-removal: never delete files that exist only on GitHub (for example the
+    # answers you uploaded there); the raw OCR text is never uploaded.
+    run(["git", "add", "--ignore-removal", "--", DATA_DIR,
+         f":(exclude){DATA_DIR}/raw"], check=True)
     if run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
         sys.exit("Nothing changed, so there is nothing to upload.")
     run(["git", "commit", "-m", f"Update {subject} past questions"], check=True)
