@@ -44,9 +44,27 @@ ANSWERS can live in a separate file, so no script has to be run on a PC:
             {"number": 3, "answer": null, "explanation": null}
         ]}
 
-They are merged into the questions when a paper is served. An answer in this
-file replaces the one in the question file; null / missing keeps whatever the
-question file already has. Upload a new answers file and Render redeploys: done.
+FIXES let you correct questions that came out of the PDF wrongly (blank options,
+a question merged into another one's options, ...) without touching the main
+files and without re-running anything on a PC:
+
+    past_questions_data/fixes/physics_1998.json
+
+        {"year": 1998, "questions": [
+            {"number": 11, "options": {"A": "cos e", "B": "sin e / sin b", "C": "...", "D": "..."}},
+            {"number": 12, "question": "The pressure of a mass of gas changes ...",
+             "options": {"A": "5 : 4", "B": "5 : 2", "C": "4 : 5", "D": "2 : 5"}},
+            {"number": 30, "delete": true}
+        ]}
+
+A fix replaces only the fields it contains, so images, id and so on stay as they
+were. A number that does not exist yet is added; "delete": true removes one.
+Fixes are applied first, then answers.
+
+Answers and fixes are both merged into the questions when a paper is served.
+An answer in an answers file replaces the one in the question file; null or
+missing keeps whatever the question file already has. Upload a new answers or
+fixes file to GitHub and Render redeploys: done.
 """
 
 import json
@@ -63,25 +81,7 @@ log = logging.getLogger("wren-backend")
 
 DATA_DIR = pathlib.Path(__file__).parent / "past_questions_data"
 
-# Paper files (<subject>_<year>.json) are looked for in the main folder AND in
-# raw/, so files uploaded to either place are served. The main folder wins if
-# the same paper exists in both.
-PAPER_DIRS = [DATA_DIR, DATA_DIR / "raw"]
-
-
-def _paper_files() -> dict:
-    """{(subject_slug, year): path} for every <subject>_<year>.json found."""
-    found = {}
-    for d in PAPER_DIRS:
-        if not d.is_dir():
-            continue
-        for f in sorted(d.glob("*.json")):
-            subject, _, year = f.stem.rpartition("_")
-            if subject and year.isdigit():
-                found.setdefault((subject, int(year)), f)
-    return found
-
-# path -> ((mtime of questions, mtime of answers), questions). Files are small;
+# path -> ((mtime of questions, answers, fixes), questions). Files are small;
 # this just avoids re-parsing the same JSON on every request while still
 # picking up a redeploy.
 _CACHE: dict = {}
@@ -150,13 +150,54 @@ def _answers_for(slug: str, year: int) -> dict:
     return out
 
 
+def _read_fixes(slug: str, year: int) -> list:
+    path = DATA_DIR / "fixes" / f"{slug}_{year}.json"
+    if not path.is_file():
+        return []
+    data = _read_json(path)
+    if isinstance(data, dict):
+        items = data.get("questions", [])
+    else:
+        items = []
+        for blk in data:
+            items += blk.get("questions", []) if isinstance(blk, dict) and "questions" in blk else [blk]
+    return [q for q in items if isinstance(q, dict)]
+
+
+def _apply_fixes(data: list, fixes: list, slug: str, year: int) -> list:
+    by_num = {q["number"]: q for q in data if isinstance(q.get("number"), int)}
+    for fx in fixes:
+        try:
+            n = int(fx.get("number"))
+        except (TypeError, ValueError):
+            continue
+        if fx.get("delete") is True:
+            by_num.pop(n, None)
+            continue
+        base = by_num.get(n) or {
+            "id": f"{slug.replace('_', '-')}-{year}-{n}", "subject": slug, "year": year,
+            "number": n, "question": "", "options": {}, "answer": None,
+            "explanation": None, "has_diagram": False, "options_are_images": False,
+            "image": None, "images": []}
+        merged = {**base, **{k: v for k, v in fx.items() if k not in ("number", "delete")}}
+        merged["number"] = n
+        if not isinstance(merged.get("options"), dict) or not isinstance(merged.get("question"), str):
+            log.error(f"past_questions: ignoring a bad fix for {slug} {year} Q{n}")
+            continue
+        merged["options"] = {str(k): str(v) for k, v in merged["options"].items()}
+        by_num[n] = merged
+    return [by_num[k] for k in sorted(by_num)]
+
+
 def _load(subject: str, year: int) -> list:
     slug = _slug(subject)
-    path = _paper_files().get((slug, year))
-    if not slug or path is None or not path.is_file():
+    path = DATA_DIR / f"{slug}_{year}.json"
+    if not slug or not path.is_file():
         return []
     apath = DATA_DIR / "answers" / f"{slug}_{year}.json"
-    stamp = (path.stat().st_mtime, apath.stat().st_mtime if apath.is_file() else 0)
+    fpath = DATA_DIR / "fixes" / f"{slug}_{year}.json"
+    stamp = (path.stat().st_mtime, apath.stat().st_mtime if apath.is_file() else 0,
+             fpath.stat().st_mtime if fpath.is_file() else 0)
     hit = _CACHE.get(str(path))
     if hit and hit[0] == stamp:
         return hit[1]
@@ -165,6 +206,13 @@ def _load(subject: str, year: int) -> list:
     except Exception as e:
         log.error(f"past_questions: could not read {path.name}: {e!r}")
         return []
+    try:
+        fixes = _read_fixes(slug, year)
+        if fixes:
+            data = _apply_fixes(data, fixes, slug, year)
+    except Exception as e:
+        # a broken fixes file must never take the questions down with it
+        log.error(f"past_questions: could not apply fixes for {slug} {year}: {e!r}")
     try:
         key = _answers_for(slug, year)
     except Exception as e:
@@ -193,12 +241,12 @@ def image_path(subject: str, filename: str) -> pathlib.Path:
 
 
 def list_papers() -> PapersResponse:
-    files = _paper_files()
-    log.info(f"past_questions: DATA_DIR={DATA_DIR} exists={DATA_DIR.is_dir()} "
-             f"paper_files={len(files)}")
     papers: dict[str, list[int]] = {}
-    for (subject, year) in files:
-        papers.setdefault(subject, []).append(year)
+    if DATA_DIR.is_dir():
+        for f in sorted(DATA_DIR.glob("*.json")):
+            subject, _, year = f.stem.rpartition("_")
+            if subject and year.isdigit():
+                papers.setdefault(subject, []).append(int(year))
     for years in papers.values():
         years.sort(reverse=True)
     return PapersResponse(papers=papers)
