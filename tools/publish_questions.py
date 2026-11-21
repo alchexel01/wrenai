@@ -58,6 +58,42 @@ def yes_no(prompt, default_yes=True):
     return default_yes if not a else a.startswith("y")
 
 
+def git_out(*a):
+    return subprocess.run(["git", *a], text=True, capture_output=True).stdout
+
+
+def summarize():
+    """Say exactly what is being uploaded, so nothing is a surprise."""
+    cnt = {"questions": [0, 0], "images": [0, 0], "other": [0, 0]}      # [new, updated]
+    for ln in git_out("diff", "--cached", "--name-status", "--", DATA_DIR).splitlines():
+        st, _, path = ln.partition("\t")
+        if st.startswith("D"):
+            continue
+        if "/images/" in path:
+            key = "images"
+        elif path.endswith(".json") and "/answers/" not in path:
+            key = "questions"
+        else:
+            key = "other"
+        cnt[key][0 if st.startswith("A") else 1] += 1
+    q, im = cnt["questions"], cnt["images"]
+    print(f"This upload:  question files {q[0]} new, {q[1]} updated   |   pictures {im[0]} new, {im[1]} updated")
+
+    tracked = {l for l in git_out("ls-files", f"{DATA_DIR}/images").splitlines() if l.lower().endswith(".png")}
+    local = sorted(p.as_posix() for p in pathlib.Path(DATA_DIR, "images").rglob("*.png"))
+    print(f"Pictures on GitHub after this upload: {len(tracked)}   (on this PC: {len(local)})")
+    missing = [p for p in local if p not in tracked]
+    if missing:
+        print(f"  WARNING: {len(missing)} picture(s) on this PC will NOT be uploaded. First one: {missing[0]}")
+        why = git_out("check-ignore", "-v", missing[0]).strip()
+        print("  Git is ignoring it because of this rule:  " + why if why else
+              "  Git is not ignoring it, so check the path with: git status")
+    stray = [l for l in git_out("ls-files", f"{DATA_DIR}/raw").splitlines() if l.endswith(".json")]
+    if stray:
+        print(f"  NOTE: GitHub has {len(stray)} .json file(s) inside {DATA_DIR}/raw. The app never reads them there;")
+        print("        they look like a mis-placed upload and can be deleted on GitHub.")
+
+
 def slug(s):
     return re.sub(r"[^a-z0-9]+", "_", s.lower()).strip("_")
 
@@ -153,7 +189,9 @@ def main():
         cmd += ["--images", imgdir]
     res = run(cmd, capture_output=True)
     if res.returncode != 0 and "--year" in (res.stderr or "") and interactive:
-        print("This PDF has no year headings, so I need the year.")
+        print("No year headings were found in this PDF (see the message above).")
+        print("If it holds SEVERAL years, press Ctrl+C now: typing one year here would label")
+        print("every question with that year. If it holds ONE year only, type it.")
         while True:
             y = ask("Year of this paper (for example 2019): ")
             if y.isdigit() and len(y) == 4:
@@ -184,6 +222,7 @@ def main():
     # answers you uploaded there); the raw OCR text is never uploaded.
     run(["git", "add", "--ignore-removal", "--", DATA_DIR,
          f":(exclude){DATA_DIR}/raw"], check=True)
+    summarize()
     if run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
         sys.exit("Nothing changed, so there is nothing to upload.")
     run(["git", "commit", "-m", f"Update {subject} past questions"], check=True)
