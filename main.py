@@ -41,6 +41,7 @@ Endpoints:
     GET  /news/{id}                  — one news item
     GET  /past-questions/papers      — which subjects/years have past questions loaded
     GET  /past-questions             — questions for one paper (?subject=&year=&limit=&offset=&shuffle=)
+    GET  /past-questions/images/{subject}/{file} — one diagram picture (PNG)
 
 See README.md for deployment and how AI.py should call this.
 """
@@ -1137,3 +1138,13 @@ def get_past_questions(req: Request, subject: str, year: int,
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
     return past_questions.get_questions(subject, year, limit, offset, shuffle, rid)
+
+
+@app.get("/past-questions/images/{subject}/{filename}")
+def get_past_question_image(subject: str, filename: str, req: Request,
+                            x_app_secret: str = Header(default="")):
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    path = past_questions.image_path(subject, filename)
+    return FileResponse(path, media_type="image/png",
+                        headers={"X-Request-ID": rid, "Cache-Control": "public, max-age=86400"})
