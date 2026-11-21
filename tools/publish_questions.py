@@ -1,28 +1,44 @@
 """
-publish_questions.py  -  one command: parse, then upload to GitHub.
-===================================================================
-Put this file next to parse_questions.py (tools/publish_questions.py).
-Run it from the repo ROOT (the folder that contains main.py and .git):
+publish_questions.py  -  PDF in, questions on GitHub out. One command.
+======================================================================
+Keep this file in the same folder as pdf_to_text.py and parse_questions.py,
+and run it from the repo ROOT (the folder with main.py, and .git if you want
+the upload step).
 
-    python tools/publish_questions.py physics past_questions_data/raw/physics.txt
-    python tools/publish_questions.py physics physics.txt --images diagrams_physics
-    python tools/publish_questions.py physics physics.txt --key physics_key.txt --year 2019
+EASIEST: just run it and answer the two questions.
 
-It does three things:
-  1. runs parse_questions.py with the same options (writes the JSON + images
-     into past_questions_data/)
-  2. shows you the report; if there are CHECK lines it asks before going on
-  3. git add / commit / push past_questions_data, so Render redeploys
+    python publish_questions.py
 
-Needs: git installed, and this repo already able to `git push` from your PC.
+    PDF number or file name:   JAMB Physics Past Question 1983 - 2004.pdf
+    Subject:                   physics
+
+It then does, in order:
+  1. reads the PDF (pdf_to_text.py)        -> <pdf name>.txt + diagrams_<subject>/
+  2. turns it into JSON (parse_questions.py) -> past_questions_data/
+  3. shows the report; if there are CHECK lines it asks before going on
+  4. git add / commit / push past_questions_data, so Render redeploys
+
+If this folder is not a git repo, steps 1 to 3 still run and it tells you to
+upload past_questions_data on the GitHub website instead.
+
+Without questions (old style, still works):
+
+    python publish_questions.py physics "JAMB Physics Past Question 1983 - 2004.pdf"
+    python publish_questions.py physics physics.txt --images diagrams_physics
+    python publish_questions.py physics physics.txt --key ans.json --year 2019
+
+Options:  --year N   --key FILE   --images FOLDER   --yes (skip CHECK question)
+          --no-push (parse and commit only)
 """
 
 import argparse
 import pathlib
+import re
 import subprocess
 import sys
 
 HERE = pathlib.Path(__file__).resolve().parent
+READER = HERE / "pdf_to_text.py"
 PARSER = HERE / "parse_questions.py"
 DATA_DIR = "past_questions_data"
 
@@ -31,28 +47,118 @@ def run(cmd, **kw):
     return subprocess.run(cmd, text=True, **kw)
 
 
+def ask(prompt):
+    """Input with stray quotes removed (Windows adds them when you paste a path)."""
+    return input(prompt).strip().strip('"').strip("'").strip()
+
+
+def yes_no(prompt, default_yes=True):
+    hint = "[Y/n]" if default_yes else "[y/N]"
+    a = input(f"{prompt} {hint} ").strip().lower()
+    return default_yes if not a else a.startswith("y")
+
+
+def slug(s):
+    return re.sub(r"[^a-z0-9]+", "_", s.lower()).strip("_")
+
+
+def pick_pdf():
+    pdfs = sorted(p.name for p in pathlib.Path(".").glob("*.pdf"))
+    while True:
+        if pdfs:
+            print("PDF files in this folder:")
+            for i, name in enumerate(pdfs, 1):
+                print(f"  {i}. {name}")
+        raw = ask("PDF number or file name (just Enter to quit): ")
+        if not raw:
+            sys.exit("Cancelled.")
+        if raw.isdigit() and 1 <= int(raw) <= len(pdfs):
+            return pdfs[int(raw) - 1]
+        name = raw if raw.lower().endswith(".pdf") else raw + ".pdf"
+        if pathlib.Path(name).is_file():
+            return name
+        print(f"  Can't find '{name}' in {pathlib.Path('.').resolve()}. Check the spelling.\n")
+
+
+def pick_subject():
+    while True:
+        raw = ask("Subject (for example physics, chemistry, use of english): ")
+        s = slug(raw)
+        if s:
+            if s != raw:
+                print(f"  Using subject name: {s}")
+            return s
+        print("  Please type a subject.")
+
+
 def main():
-    ap = argparse.ArgumentParser(description="Parse past questions, then push them to GitHub.")
-    ap.add_argument("subject")
-    ap.add_argument("text_file")
+    ap = argparse.ArgumentParser(description="Read a past-question PDF, parse it, push it to GitHub.")
+    ap.add_argument("subject", nargs="?")
+    ap.add_argument("source", nargs="?", help="a .pdf (read first) or an already-read .txt")
     ap.add_argument("--year", type=int)
-    ap.add_argument("--key")
-    ap.add_argument("--images")
+    ap.add_argument("--key", help="answer file (.txt or .json)")
+    ap.add_argument("--images", help="folder for the diagram crops")
     ap.add_argument("--yes", action="store_true", help="push even if the report has CHECK lines")
     ap.add_argument("--no-push", action="store_true", help="parse and commit only")
     args = ap.parse_args()
 
-    if not pathlib.Path(".git").exists():
-        sys.exit("Run this from the repo root (the folder that has .git and main.py).")
+    for tool in (READER, PARSER):
+        if not tool.is_file():
+            sys.exit(f"Missing {tool.name}. Put it in the same folder as this script ({HERE}).")
 
-    cmd = [sys.executable, str(PARSER), args.subject, args.text_file]
-    for flag in ("year", "key", "images"):
-        v = getattr(args, flag)
-        if v:
-            cmd += [f"--{flag}", str(v)]
+    has_git = pathlib.Path(".git").exists()
+    interactive = not (args.subject and args.source)
 
-    print("== 1/3  Parsing ==")
+    if interactive:
+        print("=== Past questions: PDF to GitHub ===\n")
+        source = pick_pdf()
+        subject = pick_subject()
+        if has_git:
+            push = yes_no("Upload to GitHub when it is done?")
+            args.no_push = not push
+        else:
+            print("\n(This folder has no .git, so I will make the files but cannot upload them.)")
+        print(f"\nPDF:     {source}\nSubject: {subject}")
+        if not yes_no("Start?"):
+            sys.exit("Cancelled.")
+        print()
+    else:
+        source, subject = args.source, slug(args.subject)
+
+    is_pdf = source.lower().endswith(".pdf")
+    total = 4 if is_pdf else 3
+    step = 0
+    imgdir = args.images or (f"diagrams_{subject}" if is_pdf else None)
+
+    # 1) PDF -> text
+    if is_pdf:
+        step += 1
+        txt = str(pathlib.Path(source).with_suffix(".txt"))
+        print(f"== {step}/{total}  Reading the PDF ==")
+        cmd = [sys.executable, str(READER), source, txt, "--images", imgdir]
+        if run(cmd).returncode != 0:
+            sys.exit("Reading the PDF failed; nothing else was done.")
+    else:
+        txt = source
+
+    # 2) text -> JSON
+    step += 1
+    print(f"\n== {step}/{total}  Parsing ==")
+    cmd = [sys.executable, str(PARSER), subject, txt]
+    if args.year:
+        cmd += ["--year", str(args.year)]
+    if args.key:
+        cmd += ["--key", args.key]
+    if imgdir:
+        cmd += ["--images", imgdir]
     res = run(cmd, capture_output=True)
+    if res.returncode != 0 and "--year" in (res.stderr or "") and interactive:
+        print("This PDF has no year headings, so I need the year.")
+        while True:
+            y = ask("Year of this paper (for example 2019): ")
+            if y.isdigit() and len(y) == 4:
+                break
+        res = run(cmd + ["--year", y], capture_output=True)
     print(res.stdout)
     if res.returncode != 0:
         sys.exit(res.stderr or "The parser failed; nothing was uploaded.")
@@ -61,20 +167,33 @@ def main():
     if checks:
         print(f"== {len(checks)} CHECK line(s) above ==")
         if not args.yes:
-            if input("Upload anyway? [y/N] ").strip().lower() != "y":
+            if input("Continue anyway? [y/N] ").strip().lower() != "y":
                 sys.exit("Stopped. Fix the raw text or JSON, then run it again.")
 
-    print("== 2/3  Committing ==")
+    if not has_git:
+        print(f"\nDone. The files are in {DATA_DIR}.")
+        print("This folder is not a git repo, so upload it on GitHub:")
+        print("  Add file -> Upload files, into past_questions_data (JSON files),")
+        print("  and past_questions_data/images/<subject> (pictures, up to 100 at a time).")
+        return
+
+    # 3) commit
+    step += 1
+    print(f"== {step}/{total}  Committing ==")
     run(["git", "add", DATA_DIR], check=True)
     if run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
         sys.exit("Nothing changed, so there is nothing to upload.")
-    run(["git", "commit", "-m", f"Update {args.subject} past questions"], check=True)
+    run(["git", "commit", "-m", f"Update {subject} past questions"], check=True)
 
     if args.no_push:
-        sys.exit("Committed locally (--no-push). Run `git push` when ready.")
-    print("== 3/3  Pushing ==")
+        sys.exit("Committed locally (no upload). Run `git push` when you are ready.")
+
+    # 4) push
+    step += 1
+    print(f"== {step}/{total}  Pushing ==")
     if run(["git", "push"]).returncode != 0:
-        sys.exit("Push failed. Check you are signed in to GitHub, then run `git push`.")
+        sys.exit("Push failed. If it says 'rejected', run `git pull --rebase` and then `git push`.\n"
+                 "Otherwise check you are signed in to GitHub.")
     print("\nDone. Render will redeploy in a minute or two.")
 
 
