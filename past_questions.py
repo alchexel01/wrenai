@@ -34,6 +34,19 @@ are served by /past-questions/images/<subject>/<file>.png (see image_path()).
 
 To add a paper: run the parser, commit the new .json, push. Render
 redeploys and the new paper shows up in /past-questions/papers.
+
+ANSWERS can live in a separate file, so no script has to be run on a PC:
+
+    past_questions_data/answers/physics_1983.json
+
+        {"year": 1983, "answers": [
+            {"number": 1, "answer": "C", "explanation": "Short reason."},
+            {"number": 3, "answer": null, "explanation": null}
+        ]}
+
+They are merged into the questions when a paper is served. An answer in this
+file replaces the one in the question file; null / missing keeps whatever the
+question file already has. Upload a new answers file and Render redeploys: done.
 """
 
 import json
@@ -50,8 +63,9 @@ log = logging.getLogger("wren-backend")
 
 DATA_DIR = pathlib.Path(__file__).parent / "past_questions_data"
 
-# path -> (mtime, questions). Files are small; this just avoids re-parsing
-# the same JSON on every request while still picking up a redeploy.
+# path -> ((mtime of questions, mtime of answers), questions). Files are small;
+# this just avoids re-parsing the same JSON on every request while still
+# picking up a redeploy.
 _CACHE: dict = {}
 
 
@@ -87,21 +101,64 @@ def _slug(subject: str) -> str:
     return re.sub(r"[^a-z0-9]+", "_", (subject or "").lower()).strip("_")
 
 
+def _read_json(path: pathlib.Path):
+    text = path.read_text(encoding="utf-8").strip()
+    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text).strip()   # tolerate a pasted code block
+    return json.loads(text)
+
+
+def _answers_for(slug: str, year: int) -> dict:
+    """{number: (letter, explanation)} from answers/<slug>_<year>.json, or {}."""
+    path = DATA_DIR / "answers" / f"{slug}_{year}.json"
+    if not path.is_file():
+        return {}
+    data = _read_json(path)
+    blocks = data if isinstance(data, list) else [data]
+    out = {}
+    for blk in blocks:
+        answers = blk.get("answers", []) if isinstance(blk, dict) else []
+        if isinstance(answers, dict):
+            answers = [{"number": k, "answer": v} for k, v in answers.items()]
+        for a in answers:
+            try:
+                num = int(a.get("number"))
+            except (TypeError, ValueError, AttributeError):
+                continue
+            letter = str(a.get("answer") or "").strip().upper()[:1]
+            if letter not in ("A", "B", "C", "D", "E"):
+                continue
+            expl = " ".join(str(a.get("explanation") or "").split()) or None
+            out[num] = (letter, expl)
+    return out
+
+
 def _load(subject: str, year: int) -> list:
     slug = _slug(subject)
     path = DATA_DIR / f"{slug}_{year}.json"
     if not slug or not path.is_file():
         return []
-    mtime = path.stat().st_mtime
+    apath = DATA_DIR / "answers" / f"{slug}_{year}.json"
+    stamp = (path.stat().st_mtime, apath.stat().st_mtime if apath.is_file() else 0)
     hit = _CACHE.get(str(path))
-    if hit and hit[0] == mtime:
+    if hit and hit[0] == stamp:
         return hit[1]
     try:
-        data = json.loads(path.read_text(encoding="utf-8"))
+        data = _read_json(path)
     except Exception as e:
         log.error(f"past_questions: could not read {path.name}: {e!r}")
         return []
-    _CACHE[str(path)] = (mtime, data)
+    try:
+        key = _answers_for(slug, year)
+    except Exception as e:
+        # a broken answers file must never take the questions down with it
+        log.error(f"past_questions: could not read answers for {slug} {year}: {e!r}")
+        key = {}
+    if key:
+        for q in data:
+            hit_ans = key.get(q.get("number"))
+            if hit_ans:
+                q["answer"], q["explanation"] = hit_ans
+    _CACHE[str(path)] = (stamp, data)
     return data
 
 
