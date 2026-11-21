@@ -175,6 +175,8 @@ def image_path(subject: str, filename: str) -> pathlib.Path:
 
 
 def list_papers() -> PapersResponse:
+    log.info(f"past_questions: DATA_DIR={DATA_DIR} exists={DATA_DIR.is_dir()} "
+             f"json_files={len(list(DATA_DIR.glob('*.json'))) if DATA_DIR.is_dir() else 0}")
     papers: dict[str, list[int]] = {}
     if DATA_DIR.is_dir():
         for f in sorted(DATA_DIR.glob("*.json")):
