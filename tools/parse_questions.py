@@ -32,6 +32,13 @@ Run from the repo ROOT (the folder that contains main.py):
 --key is only needed when answers are in a separate file. That file can use
 the same "YEAR: 1983" headings, or be a single year together with --year.
 
+To attach the diagram pictures, add --images with the folder pdf_to_text.py made:
+
+    python tools/parse_questions.py physics physics.txt --images diagrams_physics
+
+That copies each picture into past_questions_data/images/physics/ and sets
+"image" / "images" on the questions that use it.
+
 Output:  past_questions_data/physics_1983.json, physics_1984.json, ...
 
 After it runs, read the report it prints. Every line starting with CHECK is
@@ -42,10 +49,12 @@ import argparse
 import json
 import pathlib
 import re
+import shutil
 
 OUT_DIR = pathlib.Path("past_questions_data")
 
 IMG = "[IMAGE]"
+IMG_RE = re.compile(r"\[IMAGE(?::\s*([^\]\n]*?))?\s*\]")
 UNCLEAR = "[UNCLEAR]"
 
 YEAR_RE = re.compile(r"(?im)^[ \t]*YEAR[ \t]*[:\-]?[ \t]*((?:19|20)\d{2})\b.*$")
@@ -130,34 +139,39 @@ def parse_year(text: str, subject: str, year: int, notes: list):
         options = {}
         for j in range(1, len(pieces) - 1, 2):
             letter = pieces[j]
-            if letter not in options:          # keep the first one if OCR repeats a letter
+            if letter not in options:          # keep the first one if the text repeats a letter
                 options[letter] = clean(pieces[j + 1])
 
         inline_note = False
         if len(options) <= 1:
             alt = split_inline_options(" ".join(block.split()))
             if alt:
-                stem, options = clean(alt[0].replace(IMG, " ")), alt[1]
-                if IMG in alt[0]:
-                    block = IMG + block
+                stem, options = alt
                 inline_note = True
 
-        # [IMAGE] belongs between the question and option A. If it landed at
-        # the end of the last option instead, move it back to the question.
-        has_diagram = IMG in stem
+        # every picture of this question, in order, with the file the reader saved
+        files = [m.group(1).strip() for m in IMG_RE.finditer(block) if m.group(1)]
+
+        # a marker that is the WHOLE option text means the option is a picture
+        options_are_images = any(IMG_RE.fullmatch(v.strip()) for v in options.values())
+        # a marker glued to the end of the last option belongs to the question
+        has_diagram = bool(IMG_RE.search(stem))
         if options:
             last_letter = list(options)[-1]
             v = options[last_letter]
-            if v != IMG and v.endswith(IMG):
-                options[last_letter] = clean(v[: -len(IMG)])
+            if IMG_RE.search(v) and not IMG_RE.fullmatch(v.strip()):
                 has_diagram = True
                 notes.append((year, num, "[IMAGE] was after the options; treated as a diagram"))
-        stem = clean(stem.replace(IMG, " "))
-        options_are_images = any(v == IMG for v in options.values())
-        if not options and has_diagram:
-            # the options are drawn inside the picture itself
-            options_are_images = True
+        # tidy the text: markers out of the question and out of the options
+        stem = clean(IMG_RE.sub(" ", stem))
+        options = {k: ("" if IMG_RE.fullmatch(v.strip()) else clean(IMG_RE.sub(" ", v)))
+                   for k, v in options.items()}
+        if not options and (has_diagram or files):
+            options_are_images = True              # the options are drawn inside the picture
+            has_diagram = True
             notes.append((year, num, "options are inside the diagram image; check the crop"))
+        if files and not (has_diagram or options_are_images):
+            has_diagram = True
         if inline_note:
             notes.append((year, num, "options were on one line and were split automatically; check them"))
 
@@ -172,7 +186,8 @@ def parse_year(text: str, subject: str, year: int, notes: list):
             "explanation": None,
             "has_diagram": has_diagram,
             "options_are_images": options_are_images,
-            "image": None,
+            "image": f"{slug(subject)}/{files[0]}" if files else None,
+            "images": [f"{slug(subject)}/{f}" for f in files],
         })
     return questions, key_text
 
@@ -226,6 +241,21 @@ def check(questions, expect_answers=True):
     return bad
 
 
+def copy_images(questions, src_dir, subject):
+    dest = OUT_DIR / "images" / subject
+    dest.mkdir(parents=True, exist_ok=True)
+    ok = missing = 0
+    for q in questions:
+        for rel in q["images"]:
+            src = src_dir / rel.split("/", 1)[1]
+            if src.is_file():
+                shutil.copyfile(src, dest / src.name)
+                ok += 1
+            else:
+                missing += 1
+    return ok, missing
+
+
 # ── main ─────────────────────────────────────────────────────────────────
 def main():
     ap = argparse.ArgumentParser(description="Convert extracted exam text to JSON, one file per year.")
@@ -233,6 +263,8 @@ def main():
     ap.add_argument("text_file")
     ap.add_argument("--year", type=int, help="use when the file has no 'YEAR: xxxx' lines")
     ap.add_argument("--key", help="separate answer-key file (optional)")
+    ap.add_argument("--images", help="folder with the diagram crops made by pdf_to_text.py "
+                                     "(they are copied into past_questions_data/images/<subject>/)")
     args = ap.parse_args()
 
     text = pathlib.Path(args.text_file).read_text(encoding="utf-8")
@@ -258,6 +290,10 @@ def main():
             q["answer"] = ans
             q["explanation"] = expl
 
+        if args.images:
+            copied = copy_images(qs, pathlib.Path(args.images), slug(args.subject))
+            if copied[1]:
+                print(f"  CHECK {copied[1]} diagram file(s) named in the text were not found in {args.images}")
         out = OUT_DIR / f"{slug(args.subject)}_{year}.json"
         out.write_text(json.dumps(qs, indent=1, ensure_ascii=False), encoding="utf-8")
         total += len(qs)
