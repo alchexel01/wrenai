@@ -25,8 +25,12 @@ Each JSON file is a list of questions produced by tools/parse_questions.py:
       "answer": "B",
       "explanation": "Short reason why B is correct",
       "has_diagram": false,
-      "image": null
+      "image": "physics/1983_p2_1.png",
+      "images": ["physics/1983_p2_1.png"]
     }
+
+Diagram pictures live in past_questions_data/images/<subject>/<file>.png and
+are served by /past-questions/images/<subject>/<file>.png (see image_path()).
 
 To add a paper: run the parser, commit the new .json, push. Render
 redeploys and the new paper shows up in /past-questions/papers.
@@ -62,7 +66,8 @@ class PastQuestion(BaseModel):
     explanation: Optional[str] = None
     has_diagram: bool = False
     options_are_images: bool = False
-    image: Optional[str] = None
+    image: Optional[str] = None            # first picture, e.g. "physics/1983_p2_1.png"
+    images: list[str] = []                 # every picture of the question, in order
 
 
 class PapersResponse(BaseModel):
@@ -98,6 +103,18 @@ def _load(subject: str, year: int) -> list:
         return []
     _CACHE[str(path)] = (mtime, data)
     return data
+
+
+def image_path(subject: str, filename: str) -> pathlib.Path:
+    """Safe path to one diagram picture, or 404. Only plain *.png names pass,
+    so '../' tricks cannot reach other files."""
+    slug = _slug(subject)
+    if not slug or not re.fullmatch(r"[A-Za-z0-9_.\-]+\.png", filename or ""):
+        raise HTTPException(status_code=404, detail={"error": "image not found"})
+    path = DATA_DIR / "images" / slug / filename
+    if not path.is_file():
+        raise HTTPException(status_code=404, detail={"error": "image not found"})
+    return path
 
 
 def list_papers() -> PapersResponse:
