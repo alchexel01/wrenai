@@ -1,0 +1,920 @@
+[
+ {
+  "id": "chemistry-1992-1",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 1,
+  "question": "Which of the following substances is not a homogeneous mixture?",
+  "options": {
+   "A": "Filtered sea water",
+   "B": "Soft drink",
+   "C": "Flood water",
+   "D": "Writing ink"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-2",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 2,
+  "question": "There is a large temperature interval between the melting point and the boiling point of a metal because.",
+  "options": {
+   "A": "metals have very high melting points",
+   "B": "metals conduct heat very rapidly",
+   "C": "melting does not break the metallic bond but boiling does.",
+   "D": "the crystal lattice of metals is easily broken."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-3",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 3,
+  "question": "How many moles of [H⁺] are there in 1 dm³ of 0.5 solution of H₂ S O ₄",
+  "options": {
+   "A": "2.0 moles",
+   "B": "1.0 mole",
+   "C": "0.5 mole",
+   "D": "0.25 mole"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-4",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 4,
+  "question": "wH₂SO₄ + xA(OH)₃ yH₂O + zAl₂(SO4)₃. The respective values of w, x, y and z in the equation above are",
+  "options": {
+   "A": "2,2,5 and 1",
+   "B": "3,2,5and 2",
+   "C": "3,2,6 and 1",
+   "D": "2,2,6 and 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-5",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 5,
+  "question": "A given mass of gas occupies 2 dm at 300 K. At what temperature will its volume be doubled keeping the pressure constant?",
+  "options": {
+   "A": "400 K",
+   "B": "480 K",
+   "C": "550 K",
+   "D": "600 K"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-6",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 6,
+  "question": "If 100 cm³ of oxygen pass through a porous plug is 50 seconds, the time taken for the same volume of hydrogen to pass through the same porous plug is",
+  "options": {
+   "A": "10.0 s",
+   "B": "12.5 s",
+   "C": "17.7 s",
+   "D": "32.0 s [ O = 16, H = 1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-7",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 7,
+  "question": "Which of the following is a measure of the average kinetic energy of the molecules of a substance.",
+  "options": {
+   "A": "Volume",
+   "B": "Mass",
+   "C": "Pressure",
+   "D": "Temperature 8 An increase in temperature causes an increase in the pressure of a gas in a fixed volume due to an increase in the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-9",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 9,
+  "question": "The nucleus of the isotope tritium, contains",
+  "options": {
+   "A": "two neutrons with no protons",
+   "B": "one neutron and one proton",
+   "C": "two neutron and one electron",
+   "D": "two neutron, one proton, and one electron."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-10",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 10,
+  "question": "How many lone pairs of electron are there on the central atom of the H₂O molecules?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-11",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 11,
+  "question": "¹⁴ N + X ¹⁷₈ O + ¹ ₁ H . In the above reaction , X is a",
+  "options": {
+   "A": "neutron,",
+   "B": "Helium atom",
+   "C": "Lithium atom",
+   "D": "Deutrium atom"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-12",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 12,
+  "question": "Four elements P,Q,R and S have 1,2,3 and 7 electrons in their outermost shells respectively. The element which is unlikely to be a metal is",
+  "options": {
+   "A": "P",
+   "B": "Q",
+   "C": "R",
+   "D": "S"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-13",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 13,
+  "question": "The pollutants that are likely to be present in an industrial environment are",
+  "options": {
+   "A": "H₂ S , SO ₂a nd oxides of nitrogen",
+   "B": "NH₃, HCl and CO",
+   "C": "CO₂ NH₃ and H₂S",
+   "D": "Dust, No and Cl₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-14",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 14,
+  "question": "Which of the following gases dissolves in water vapour to produce acid rain during rainfall?",
+  "options": {
+   "A": "Oxygen",
+   "B": "Carbon (11) oxide",
+   "C": "Nitrogen",
+   "D": "Sulphur (lV) oxide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-15",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 15,
+  "question": "Water for town supply is chlorinate to make it free from",
+  "options": {
+   "A": "bad odour",
+   "B": "bacteria",
+   "C": "temporary hardness",
+   "D": "permanent hardness."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-16",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 16,
+  "question": "On which of the following is the solubility of a gaseous substance dependant? 1. Nature of solvent. 11. Nature of solute 11. Temperature. 1V.Pressure.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-17",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 17,
+  "question": "An emulsion paint consist of",
+  "options": {
+   "A": "gas or liquid particles dispersed in liquid",
+   "B": "liquid particles dispersed in liquid",
+   "C": "solid particles dispersed in liquid",
+   "D": "solid particles dispersed in solid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-18",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 18,
+  "question": "A sample of orange juice is found to have a pH of 3.80. What is the concentration of the hydroxide ion in the juice?",
+  "options": {
+   "A": "1.6 x 10⁻⁴",
+   "B": "6.3 x 10⁻¹¹",
+   "C": "6.3 x 10⁻⁴",
+   "D": "1.6 x 10-¹¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-19",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 19,
+  "question": "Arrange HCl, CH₃ COOH, C₆H₅CH₃ in order of increasing conductivity.",
+  "options": {
+   "A": "HCl,CH₃ COOH,C₆H₅CH₃",
+   "B": "C₆H₅CH₃ HCl, CH₃, COOH",
+   "C": "C₆H₅CH₃ COOH, HCl,",
+   "D": "CH₃, COOH, C₆H₅CH₃,HCl"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-20",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 20,
+  "question": "Which of these is an acid salt?",
+  "options": {
+   "A": "K₂SO₄ Aₗ₂(SO₄)₃.24H₂O",
+   "B": "CuCO₃.Cu(OH)₂",
+   "C": "NaHS",
+   "D": "CaOCl₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-21",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 21,
+  "question": "How many grams of H₂SO₄ are necessary for the preparation of 0.175 dm³ of 6.00 M H₂ S O ₄ ?",
+  "options": {
+   "A": "206.0 g",
+   "B": "103.0 g",
+   "C": "98.1 g",
+   "D": "51.5 g [S = 32.06, O = 16.00, H = 1.00]."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-22",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 22,
+  "question": "Copper (ll) tetraoxosulphate (lV) solution is electrolyzed using carbon electrodes. Which of the following are produced at the anode and cathode respectively.",
+  "options": {
+   "A": "Copper and oxygen",
+   "B": "Oxygen and copper",
+   "C": "Hydrogen and copper",
+   "D": "Copper and hydrogen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-23",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 23,
+  "question": "Calculate the mass, in kilograms, of magnesium produced by the electrolysis of magnesium(ll) chloride in a cell operating for 24 hours at 500 amperes.",
+  "options": {
+   "A": "2.7",
+   "B": "5.4",
+   "C": "10.8",
+   "D": "21.7 [Faraday = 96,500 C mmol⁻¹, Mg = 24]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-24",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 24,
+  "question": "MnO ₂ + 2Cl⁻ + 4H Mn²⁺ +Cl₂ + 2H ₂O . The change is oxidation numbers when the manganese, chlorine and hydrogen ions react according to the above equation are respectively.",
+  "options": {
+   "A": "2, 2, 4",
+   "B": "–1,-2 4",
+   "C": "–2, 1, 0",
+   "D": "2, 4, 0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-25",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 25,
+  "question": "S ₂O 3²⁻ + l₂ S₄ O 6²⁻ + 21. In the reaction above, the oxidizing agents is",
+  "options": {
+   "A": "S₂ O 3²⁻",
+   "B": "l₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-26",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 26,
+  "question": "In which of the following is the entropy change positive?",
+  "options": {
+   "A": "H₂O₍ₗ₎ H₂O(g)",
+   "B": "Cu²⁺ ₍ₐ q₎ + Fe₍ₛ₎ Fe²⁺ ₍ₐ q₎+ Cu₍ₛ₎",
+   "C": "N₂₍g₎ + 3H₂₍g 2NH₃₍g₎ 2HCl N + Cl",
+   "D": "₍ₛ₎ ₂₍g₎ ₂₍g₎"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-27",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 27,
+  "question": "In what way is equilibrium constant for the forward reaction related to that that of the reverse reaction?",
+  "options": {
+   "A": "The addition of the two is expected to be one",
+   "B": "The product of the two is expected to be one",
+   "C": "The two equilibrium constants are identical",
+   "D": "The product of the two is always greater than one."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-28",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 28,
+  "question": "Which of the following equilibra shows little or no net reaction when the volume of the volume of the system is decreased? H + l 2Hl",
+  "options": {
+   "A": "₂₍g₎ ₂₍g ₍g₎ 2NO N O",
+   "B": "₂₍g ₂ ₄₍g₎",
+   "C": "PCl₅₍ PCl₃₍g₎ + Cl₂₍g₎",
+   "D": "ZnO₍ₛ₎ + CO₂₍g ZnCO₃₍ₛ₎"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-29",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 29,
+  "question": "For a general equation of the nature xP + yQ mR + nS, the expression for the equilibrium constant is",
+  "options": {
+   "A": "k [P]x [Q]y",
+   "B": "[P]x [Q]y [R]m [S]ⁿ",
+   "C": "[R]m [S]ⁿ [P]x [Q]y",
+   "D": "m [R] n [S] X [P] y [Q]."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-30",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 30,
+  "question": "Which of these statements is TRUE about carbon(1V)oxide?",
+  "options": {
+   "A": "It supports combustion",
+   "B": "It is strong acidic in water",
+   "C": "It is very soluble in water",
+   "D": "It supports the burning of magnesium to produce magnesium oxide."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-31",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 31,
+  "question": "In the experiment above, Z can be",
+  "options": {
+   "C": "a solution of sodium trioxonitrate(V) and ammonium chloride",
+   "D": "concentrated tetraoxosulphate (Vl) acid and sodium trioxonitrate(V)."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1992_p35_1.png",
+  "images": [
+   "chemistry/1992_p35_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1992-32",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 32,
+  "question": "Which of the following combination of gases is used for metal welding? 1. Oxygen and ethyne. ll Hydrogen and ethyne. 1ll. Hydrogen and oxygen. 1V Ethyne, hydrogen and oxygen.",
+  "options": {
+   "A": "1 and 11",
+   "B": "111 and 1V",
+   "C": "1 and 111",
+   "D": "11 and 1V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-33",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 33,
+  "question": "Which of the following oxides of nitrogen is unstable in air?",
+  "options": {
+   "A": "NO₂",
+   "B": "NO",
+   "C": "N₂O₄",
+   "D": "N₂O₅"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-34",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 34,
+  "question": "The gas formed when ammonium trioxonitrate (V) is heated with sodium hydroxide is",
+  "options": {
+   "A": "hydrogen",
+   "B": "nitrogen(1V) oxide",
+   "C": "oxygen",
+   "D": "ammonia"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-35",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 35,
+  "question": "Safety matches contain sulphur and",
+  "options": {
+   "A": "Potassium trioxochlorate(V)",
+   "B": "Potassium trioxonitrate (V)",
+   "C": "Charcoal",
+   "D": "Phosphorus sulpide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-36",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 36,
+  "question": "Addition of an aqueous solution of barium chloride to the aqueous solution of a salt gives a white precipate.",
+  "options": {
+   "A": "nitrate",
+   "B": "carbonate",
+   "C": "chloride",
+   "D": "sulphide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-37",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 37,
+  "question": "Sodium hydroxide solution can be conveniently stored in a container made of",
+  "options": {
+   "A": "lead",
+   "B": "zinc",
+   "C": "aluminum",
+   "D": "copper"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-38",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 38,
+  "question": "Which of the following is NOT used as raw material in the solvary process?",
+  "options": {
+   "A": "Ammonia",
+   "B": "Sodium chloride",
+   "C": "Calcium trioxocarbonate",
+   "D": "Sodium trioxocarbonate(V1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-39",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 39,
+  "question": "Duralumin consists of aluminum, copper,",
+  "options": {
+   "A": "zinc and gold",
+   "B": "lead and manganese",
+   "C": "nickel and silver",
+   "D": "manganese and magnesium."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-40",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 40,
+  "question": "CaO₍ₛ₎ + H₂O₍ₗ ₎ Ca(OH)₂₍ₛ₎ H = -65kJ. The process represented by the above equation is known as.",
+  "options": {
+   "A": "dissolution",
+   "B": "slackin",
+   "C": "liming",
+   "D": "mortaring"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-41",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 41,
+  "question": "The carbon atoms in ethane are",
+  "options": {
+   "A": "sp³ hybridized",
+   "B": "sp hybridized",
+   "C": "sp² hybridized"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-42",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 42,
+  "question": "CH₃ CH₃¯C = CH¯CH₂¯CH¯ CH₃ CH₂ CH₃ The IUPAC name for the hydrocarbon above is",
+  "options": {
+   "A": "2-ethyl-5-methylhex-2-ene",
+   "B": "2, 5-dimethylhex-2-ene",
+   "C": "3,5-dimethylhept-3-ene",
+   "D": "3,6-dimethylhexpt –3-ene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-43",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 43,
+  "question": "Which of the following compounds is a secondary alkanol?",
+  "options": {
+   "A": "CH₃¯ CH₂¯CH¯ CH₃",
+   "C": "CH₃ CH₂ CH₂ CH₂ OH",
+   "D": "CH₃ CH₂ OCH₂ CH₃ CH₃ CH₃¯ C¯OH CH₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-44",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 44,
+  "question": "Which of the following compounds reacts with sodium metals as well as silver and copper salt.",
+  "options": {
+   "A": "CH₃ Ca = C ¯CH₃ B CH₃ CH₂ CH₂ CH₂ CH₃",
+   "C": "CH₃ Ca CH₃",
+   "D": "CH₃ CH CH CH₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-45",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 45,
+  "question": "Which of the following are isomers?",
+  "options": {
+   "A": "Ethanol and dimethyl ether",
+   "B": "Benzene and methylbenzene",
+   "C": "Ethanol and propanone",
+   "D": "Trichloromethane and tetrachloromehane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-46",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 46,
+  "question": "The function group present in an treatment with a saturated solution of NaHCO₃ is .",
+  "options": {
+   "A": "hydroxyl group",
+   "B": "carbonalkoxyl group",
+   "C": "carbonyl group",
+   "D": "carboxy group."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-47",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 47,
+  "question": "The characteristic reaction of carbonyl compounds is.",
+  "options": {
+   "A": "Substitution",
+   "B": "Elimination",
+   "C": "Addition",
+   "D": "Saponificatioon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-48",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 48,
+  "question": "An organic compound containing 40.1% carbon and 6.667% hydrogen has an empirical formula of .",
+  "options": {
+   "A": "C₂H₄O₂",
+   "B": "C₂H₃O₂",
+   "C": "CH₂O D. CH₃O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-49",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 49,
+  "question": "Alkanals can be differentiated from alkanones by reaction with.",
+  "options": {
+   "A": "2,4-dinitrophenlhydrazine",
+   "B": "hydrogen cyanide",
+   "C": "sodium hydrogen sulphite",
+   "D": "tollen’s reagent."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-50",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 50,
+  "question": "An example of a polysaccharide is",
+  "options": {
+   "A": "dextrose",
+   "B": "mannose"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

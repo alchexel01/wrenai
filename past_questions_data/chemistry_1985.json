@@ -1,0 +1,936 @@
+[
+ {
+  "id": "chemistry-1985-1",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 1,
+  "question": "Figure shows part of the periodic Table. Which of the elements belongs to the p-block?",
+  "options": {
+   "A": "S,T and U.",
+   "B": "V, W and X",
+   "C": "S and T only",
+   "D": "P, Q and R",
+   "E": "V,W, X and S."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-2",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 2,
+  "question": "Which of the following conducts electricity?",
+  "options": {
+   "A": "Sulphur",
+   "B": "Graphite",
+   "C": "Diamond",
+   "D": "Red phosphorus",
+   "E": "Yellow phosphorus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-3",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 3,
+  "question": "An organic compound contains 72% carbon 12% hydrogen and 16% oxygen by mass. The empirical formula of the compound is",
+  "options": {
+   "A": "C₆H₂₂O₃",
+   "B": "C₆H₁₀O₃",
+   "C": "C₁₂H₁₂O",
+   "D": "C₆H₁₂O",
+   "E": "C₃CH₁₀ ( H= 1, C = 12, O= 16)."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-4",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 4,
+  "question": "0.499 of CuSO₄ . xH ₂O when heated to constant weight gave a residue of 0.346 g. The value of x is",
+  "options": {
+   "A": "0.5",
+   "B": "2.0",
+   "C": "3.0",
+   "D": "4.0",
+   "E": "5.0. (Cu = 63.5, S = 32.0 O = 16, H = 1)."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-5",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 5,
+  "question": "In an experiment which of the following observation would suggest that a solid sample is a mixture? The",
+  "options": {
+   "A": "solid can be ground to a fine powder",
+   "B": "density of the solid 2.25 g dm-3",
+   "C": "solid begins to melt until 648 K",
+   "D": "solid absorbs moisture from the atmosphere and turns into a liquid",
+   "E": "solid melts at 300 K."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-6",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 6,
+  "question": "Hydrogen diffuses through a porous plug",
+  "options": {
+   "A": "at the same rate as oxygen",
+   "B": "at a slower rare than oxygen",
+   "C": "twice as fast as oxygen",
+   "D": "three times as fast as oxygen",
+   "E": "four times as fast as oxygen. 1. Given the molecular mss of iron is 56 and that of oxygen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-8",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 8,
+  "question": "3.0 g of a mixture of potassium carbonate and potassium chloride were dissolved in a 250cm³ standard flask. 25 cm ₃ of this solution required 40.00cm³ of 0.1 M HCI for neutralization. What is the percentage by weight of K₂CO₃ in the mixture?",
+  "options": {
+   "A": "60",
+   "B": "72",
+   "C": "82",
+   "D": "89",
+   "E": "92 (K = 39, O = 16, C = 12). Figure 2 below represents the solubility curb\\ves of two salts, X and Y, in water. Use this diagram to answer question9 to 11"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1985_p10_2.png",
+  "images": [
+   "chemistry/1985_p10_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1985-9",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 9,
+  "question": "At room temperature (300K)",
+  "options": {
+   "A": "Y is twice as soluble as X",
+   "B": "X is twice as soluble as Y",
+   "C": "X and Y soluble to the same extent",
+   "D": "X is three times as soluble as Y",
+   "E": "Y is three times as soluble as X"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-10",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 10,
+  "question": "If 80 g each of X and Y are taken up in 100g of water at 353 K we shall have.",
+  "options": {
+   "A": "only 10 g of X and Y undissolve",
+   "B": "only 16 g of Y undissolve",
+   "C": "10 g of X and 16 g of Y undissolved",
+   "D": "all X and Y dissolved",
+   "E": "all X and Y undissolved"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-11",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 11,
+  "question": "If the molar mass of X is 36 g, the number of moles of X dissolved at 343 is",
+  "options": {
+   "A": "0.2 moles",
+   "B": "0.7 moles",
+   "C": "1.5 moles",
+   "D": "2.0 moles",
+   "E": "3.0 moles"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-12",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 12,
+  "question": "Some properties of chemical substances are mentioned below (i) solar taste (ii)slippery to touch (iii)yields alkaline gas with ammonium salts (iv) has pH less than 7 (v) turns phenolphthalein pink. Which of the above",
+  "options": {
+   "C": "(i) and (iv)",
+   "D": "(ii) and (v)",
+   "E": "(ii), (iii) and (v)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-13",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 13,
+  "question": "A certain volume of a gas at 298K is heated such that its volume and pressure are now four times the original values. What is the new temperature?",
+  "options": {
+   "A": "18.6 K",
+   "B": "100.0 K",
+   "C": "298.0 K",
+   "D": "1192.0 K",
+   "E": "47689.0 K"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-14",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 14,
+  "question": "Hydrogen is not liberated when trioxonirate (v) acid reacts with zinc because",
+  "options": {
+   "A": "Zinc is rendered passive by the acid",
+   "B": "Hydrogen produced is oxidized to water",
+   "C": "Oxides of nitrogen are produced",
+   "D": "All nitrates are soluble in water",
+   "E": "trioxonitrate v acid is a strong acid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-15",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 15,
+  "question": "The boiling points of water, ethanol, toluene and button-2-ol are 373.OK, 351.3K, 383.6 K and 372.5 K respectively. Which liquid has the highest vapour pressure at 323.0K?",
+  "options": {
+   "A": "water",
+   "B": "Toluene",
+   "C": "Ethanol",
+   "D": "Butan-2-ol",
+   "E": "None"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-16",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 16,
+  "question": "In what respect will two dry samples of nitrogen gas differ from each other if samples 1 is prepared by completely removing CO₂ and O₂ from air and sample 2 is prepared by passing purified nitrogen (i) oxide over heated copper? Sample 1 is",
+  "options": {
+   "A": "purer than sample 2",
+   "B": "slightly denser than sample 2",
+   "C": "in all respects the same as sample 2",
+   "D": "colourless but sample 2 has a light brown.",
+   "E": "slightly less reactive than sample 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-17",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 17,
+  "question": "Copper sulphate solution is electrolyzed using platinum electrodes. A current of 0.193 amperes is passed for 2hrs. How many grams of copper are deposited?",
+  "options": {
+   "A": "0.457 g",
+   "B": "0.500 g",
+   "C": "0.882 g",
+   "D": "0.914 g",
+   "E": "1.00 g (Cu = 63.5m F = 96500 coulombs)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-18",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 18,
+  "question": "X + Y Z is an equilibrium reaction. The addition of a catalyst",
+  "options": {
+   "A": "increases the amount of W produced in a given time",
+   "B": "increase the rate of change in concentrations of X, Y and Z",
+   "C": "increases the rate of disappearance of X and Y",
+   "D": "increases the rate of the forward reaction",
+   "E": "decreases the amounts of X and Y left after the attainment of equilibrium."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-19",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 19,
+  "question": "What is the formula of sodium gallate if gallium (Ga) shows an oxidation number of +3.",
+  "options": {
+   "A": "NaGaO₃",
+   "B": "Na₂G(OH)₂",
+   "C": "NaGa(OH)₃",
+   "D": "NaGa (OH)₄",
+   "E": "NaGaO carbon monoxide and high level of methane, the probable source(s) of the pollution must be"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-21",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 21,
+  "question": "A correct electrochemical series can be obtained from K, Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging",
+  "options": {
+   "A": "Al and Mg",
+   "B": "Zn and Fe",
+   "C": "Zn and Pb",
+   "D": "Pb and H",
+   "E": "Au and Hg."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-22",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 22,
+  "question": "A certain industrial process is represented by the chemical equation 2A(g) + B₍g₎ ’!C₍g₎ + 3D₍g₎ H = XkJ mol⁻ . Which of the following conditions will favour the yield of the product?",
+  "options": {
+   "A": "Increases in the temperature, decrease in pressure.",
+   "B": "Increase in temperature increase in pressure",
+   "C": "Decrease in temperature, increase in pressure",
+   "D": "Decrease in temperature, increase in pressure.",
+   "E": "Constant temperature, increase in pressure."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-23",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 23,
+  "question": "2MnO₄ ⁻ + 10Cl⁻ + 16H + ’! 2Mn²⁺ + 5Cl₂ + 8H ₂O . which of the substances serves as an oxidizing agent?",
+  "options": {
+   "A": "Mn²⁺",
+   "B": "Cl⁻",
+   "C": "H₂O",
+   "D": "MnO₄",
+   "E": "Cl₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-24",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 24,
+  "question": "In the reaction H O₂ ₍ g₎ ’! H2 ₍g₎ + ½O2 ₍g₎ H=-2436000kJ², which of the following has no effect on the equilibrium position?",
+  "options": {
+   "A": "Adding argon to the system",
+   "B": "Lowering the temperature",
+   "C": "Adding hydrogen to the system",
+   "D": "Decreasing the pressure",
+   "E": "Increasing the temperature."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-25",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 25,
+  "question": "which of the following metals will displace iron from a solution of iron(11) tetraoxosulphate(1V)?",
+  "options": {
+   "A": "copper",
+   "B": "mercury",
+   "C": "silver",
+   "D": "Zinc",
+   "E": "Gold"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-26",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 26,
+  "question": "Complete hydrogenation of ethyne yields",
+  "options": {
+   "A": "benzene",
+   "B": "methane",
+   "C": "ethene",
+   "D": "propane",
+   "E": "Ethane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-27",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 27,
+  "question": "Which of the following is used in the manufacture of bleaching powder?",
+  "options": {
+   "A": "sulphur dioxide",
+   "B": "chlorine",
+   "C": "hydrogen tetraoxosulphate",
+   "D": "hydrogen sulphide",
+   "E": "nitrogen dioxide has breath carries a significant level of ethanol, the final colour of the solution is."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-29",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 29,
+  "question": "When pollen grains are suspended in water and viewed through a microscope, they appear to be in a state of constant but erratic motion. This is due to",
+  "options": {
+   "A": "convection currents",
+   "B": "small changes in pressure",
+   "C": "small changes in temperature",
+   "D": "a chemical reaction between the pollen grains and water",
+   "E": "the bombardment of the pollen grains by molecules of water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-30",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 30,
+  "question": "The energy change (H) for the reaction CO₍g₎ +½O2₍g₎ CO2₍g₎ is",
+  "options": {
+   "A": "-503.7 kJ",
+   "B": "+503.7 kJ",
+   "C": "–282.9 kJ",
+   "D": "+282.9 kJ",
+   "E": "+393.3 kJ ( Hi(CO) = -110.4 kJ mol⁻¹( Hi(CO )₂ = -393 kJ mol⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-31",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 31,
+  "question": "The product formed on hydrolysis of",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "chemistry/1985_p12_1.png",
+  "images": [
+   "chemistry/1985_p12_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1985-32",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 32,
+  "question": "The neutralization reaction between NaOH solution and nitrogen (1V) oxide (NO₂) produces water and",
+  "options": {
+   "A": "NaNO₂ and NaNO₃",
+   "B": "NaNO and HNO ³ ³",
+   "C": "NaNO₂",
+   "D": "NaNO₃ CH₃."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-33",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 33,
+  "question": "The oxidation of CH- CH- C- O gives H H",
+  "options": {
+   "A": "2-butanone",
+   "B": "2-butanal",
+   "C": "butane",
+   "D": "butanoic acid",
+   "E": "3-butanal."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-34",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 34,
+  "question": "Tetraoxosulphate (V1) ions are finally tested using",
+  "options": {
+   "A": "acidified silver nitrate",
+   "B": "acidified barium chloride",
+   "C": "lime – water",
+   "D": "dilute hydrochloric acid",
+   "E": "acidified lead nitrate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-35",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 35,
+  "question": "The I.U.P.A.C name for the compound CH₃ CH₃- CH- CH –CH = CH - CH₃ is",
+  "options": {
+   "A": "2-methl-3-patene",
+   "B": "4-methy-2-pentane",
+   "C": "2-methl-2-penten",
+   "D": "4-methyl-3-pentene",
+   "E": "2-methyl-3-pentane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-36",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 36,
+  "question": "Mixing of aqueous solution of barium hydroxide and sodium tetraoxocarbonate(1V) yields a white precipitate",
+  "options": {
+   "A": "barium oxide",
+   "B": "sodium tetraoxocarbonate(1V)",
+   "C": "sodium, oxide",
+   "D": "sodium hydroxide",
+   "E": "barium tetraoxocarbonate."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-37",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 37,
+  "question": "An organic compound decolorized acidified KMnC₄ solution but failed to react with ammoniacal silver nitrate solution. The organic compound is likely to be.",
+  "options": {
+   "A": "a carbonxyllic acicd",
+   "B": "an alkane",
+   "C": "an alkene",
+   "D": "an alkyne",
+   "E": "an alkanone"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-38",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 38,
+  "question": "Solid sodium hydroxide on exposure to air absorbs a gas and ultimately gives another alkaline substance with the molecular formula.",
+  "options": {
+   "A": "NaOH.H₂O",
+   "B": "NaOH.N₂",
+   "C": "Na₂CO₃",
+   "D": "NaHCO₃",
+   "E": "NaNO₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-39",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 39,
+  "question": "Which of the following is the functional group of carboxylic acids?",
+  "options": {
+   "A": "-OH",
+   "B": ">C = O",
+   "C": ">C-OH",
+   "D": "-C"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-40",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 40,
+  "question": "Which of the following substances is the most abundant in the universe?",
+  "options": {
+   "A": "Carbon",
+   "B": "Air",
+   "C": "Water",
+   "D": "Oxygen",
+   "E": "Hydrogen Question 41 and 42 are based on the following. A colourless organic compound X was burnt in exces air to give two colourless and odourless grass, Y and Z , as products. X does not decolorize bomine vapour; Y turns lime milky while Z gives a blue colour with copper (11) tetraoxosulphate (V1)."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-41",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 41,
+  "question": "Compound X is",
+  "options": {
+   "A": "an alkene",
+   "B": "an alkane",
+   "C": "an alkyne",
+   "D": "tetra chloromethane",
+   "E": "Dichloromethane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-42",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 42,
+  "question": "Y and Z are respectively.",
+  "options": {
+   "A": "CO₂ and NH₃",
+   "B": "CO and NH₃",
+   "C": "SO₂ and H₂O",
+   "D": "CO₂ and H₂O",
+   "E": "SO₂ and NH₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-43",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 43,
+  "question": "Which of the following compounds is NOT the correct product formed when the parent metal is heated in air?",
+  "options": {
+   "A": "Calcium oxide (CaO)",
+   "B": "Sodium oxide (Na₂O)",
+   "C": "Copper (11) oxide (CuO)",
+   "D": "Tri-iron tetroxide (Fe₃O₄)",
+   "E": "Aluminium oxide (Al₂O₃)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-44",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 44,
+  "question": "The atomic number of an element whose caution, X²⁺, has the ground state electronic configuration is Is²2s²2P⁶3s²2p⁶ is",
+  "options": {
+   "A": "16",
+   "B": "18",
+   "C": "20",
+   "D": "22",
+   "E": "24"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-45",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 45,
+  "question": "When marble is heated to 1473 K, another whiter solid is obtained which reacts vigorously with water to give an alkaline solution. The solution contains",
+  "options": {
+   "A": "NaOH",
+   "B": "KOH",
+   "C": "Mg(OH)₂",
+   "D": "Zn(OH)₂",
+   "E": "Ca(OH)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-46",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 46,
+  "question": "Addition of dilute hydrochloric acid to an aqueous solution of a crystalline salt yielded a yellow precipitate and a gas which turned dichromate paper green. The crystalline salt was probably",
+  "options": {
+   "A": "Na₂SO₄",
+   "B": "Na₂S",
+   "C": "NaS₂O₃.5H₂O",
+   "D": "NaCO₃",
+   "E": "NaHCO₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-47",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 47,
+  "question": "The process involved in the conversion of an oil into margarine is known as",
+  "options": {
+   "A": "hydrogenation",
+   "B": "condensation",
+   "C": "hydrolysis",
+   "D": "dehydration",
+   "E": "cracking"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-48",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 48,
+  "question": "An aqueous solution of an inorganic salt gave white precipate (i) soluble in excess aqueous NaOH (ii) insoluble in excess aqueous NH₃ (III) with dilute HCI. The caution present in the inorganic salt is",
+  "options": {
+   "A": "NH3₄ ⁺",
+   "B": "Ca⁺⁺",
+   "C": "N⁺⁺",
+   "D": "Al⁺⁺⁺",
+   "E": "Pb⁺⁺"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-49",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 49,
+  "question": "Which of the following roles does sodium chloride play in soap preparation? It",
+  "options": {
+   "A": "reacts with glycerol",
+   "B": "purifies the soap",
+   "C": "accelerates the decomposition of the fat and oil",
+   "D": "separates the soap form the glycerol",
+   "E": "converts the fat acid to its sodium salt."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-50",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 50,
+  "question": "The function of sulphur during the vulcanization of rubber is to .",
+  "options": {
+   "A": "act as catalyst for the polymerization of rubber molecules",
+   "B": "convert rubber from thermosetting tio thermo plastic polymer",
+   "C": "from chains which bind rubber molecules together",
+   "D": "break down rubber polymer molecule",
+   "E": "shorten the chain length of rubber polymer."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

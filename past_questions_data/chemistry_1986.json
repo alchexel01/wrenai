@@ -1,0 +1,903 @@
+[
+ {
+  "id": "chemistry-1986-1",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 1,
+  "question": "The movement of liquid molecules from the surface of the liquid gaseous phase above it is known as",
+  "options": {
+   "A": "Brownian movement",
+   "B": "Condensation",
+   "C": "Evaporation",
+   "D": "Liquefaction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-2",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 2,
+  "question": "What mass of a divalent metal M (atomic mass= 40) would react with excess hydrochloric acid to liberate 22 cm³ of dry hydrogen gas measured as S.T.P?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-3",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 3,
+  "question": "10cm³ of hydrogen fluoride gas reacts with 5cm³ of dinitrogen difllouride gas (N F₂ )₂ to form 10cm³ of a single gas. Which of the following is the most likely equation to the reaction?",
+  "options": {
+   "A": "HF + N₂F₂ N₂HF₃",
+   "B": "2HF + N₂F₂ 2NHF₂",
+   "C": "2HF + N₂F₂ N₂H2F₄",
+   "D": "HF +2N₂F₂ N₄HF₄"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-4",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 4,
+  "question": "The number of atom chlorine present in 5.85 g of NaCI",
+  "options": {
+   "A": "6.02 x 10²²",
+   "B": "5.85 x 10₂₂₃₃",
+   "C": "6.02 x 10",
+   "D": "5.85 x 10²⁴ [Na = 23, Cl = 35.5] Avogadro’s Number = 6.02 x 10²³]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-5",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 5,
+  "question": "How much of magnesium is required to react with 250cm³ of 0.5 M HCl?",
+  "options": {
+   "A": "0.3 g",
+   "B": "1.5 g",
+   "C": "2.4 g",
+   "D": "3.0 g [Mg = 24]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-6",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 6,
+  "question": "200cm3 of oxygen diffuse through a porous plug in 50 seconds. Hoe long will 80 cm3 of methane (CH4) take to diffuse through the same porous plug under the same conditions?",
+  "options": {
+   "A": "20 sec",
+   "B": "20 sec",
+   "C": "14 sec",
+   "D": "7 sec [C = 12, O = 16, H = 1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-7",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 7,
+  "question": "The relationship between the velocity (U) of gas molecules and their relative molecule mass (M) is shown by the equation A Û = (kM) ½",
+  "options": {
+   "B": "Û = (kM)²",
+   "C": "Û = k ₘ D Û = (k/ₘ ) ½"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-8",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 8,
+  "question": "An element with atomic number twelve is likely to be",
+  "options": {
+   "A": "electrovalent with a valency of 1",
+   "B": "electrovalent with a valency of 2",
+   "C": "covalent with a valency of 2",
+   "D": "covalent with a valency of 4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-9",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 9,
+  "question": "Which of the following group of physical properties increases form left to right of the periodic table? 1 lonization energy 2 Atomic radius 3Electronegativity 4 Electron affinity",
+  "options": {
+   "A": "1 and 2",
+   "B": "1, 2 and 3",
+   "C": "3 and 4",
+   "D": "1, 2, 3 and 4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-10",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 10,
+  "question": "When 50 cm³ of a saturated solution of sugar (molar mass 342.0 g) at 40oC was evaporated to dryness, 34.2 g dry of solid was obtained. The solubility of sugar of 40oC is",
+  "options": {
+   "A": "10.0 moles dm⁻³",
+   "B": "7.0 moles dm⁻³",
+   "C": "3.5 moles dm⁻³",
+   "D": "2.0 moles dm⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1986_p14_1.png",
+  "images": [
+   "chemistry/1986_p14_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1986-11",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 11,
+  "question": "In the solubility curve above, water at 98oC is saturated with KCl impurity in the crystals formed when the solution is cooled to 30oC?",
+  "options": {
+   "A": "NaHSO₄, Ph<5",
+   "B": "Na ₂C O ₃, Ph>8",
+   "C": "Na₂Cl, Ph =7",
+   "D": "NaHCO₃, Ph <6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1986_p14_3.png",
+  "images": [
+   "chemistry/1986_p14_3.png"
+  ]
+ },
+ {
+  "id": "chemistry-1986-13",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 13,
+  "question": "Which of the following is an acid salt?",
+  "options": {
+   "A": "NaHSO₄",
+   "B": "Na₂SO₄",
+   "C": "CH₃CO₂Na",
+   "D": "Na₂S"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-14",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 14,
+  "question": "Which of the following solution will conduct the least amount of electricity?",
+  "options": {
+   "A": "2.00 M aqueous solution of NaOH",
+   "B": "0.01 M aqueous solution of NaOH",
+   "C": "0.01 m aqueous solution of hexaonic acid",
+   "D": "0.01 M aqueous solution of sugar."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-15",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 15,
+  "question": "In the electrolysis of aqueous solution of K₂SO₄ in the above cell, which species migrate to the anode?",
+  "options": {
+   "A": "SO₄ ²⁻ and OH-",
+   "B": "K⁺ and SO²⁻",
+   "C": "OH and H ₃O",
+   "D": "H ₃O and K⁺"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1986_p14_2.png",
+  "images": [
+   "chemistry/1986_p14_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1986-16",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 16,
+  "question": "How many coulombs of electricity are passed through a solution in which 6.5 amperes are allowed to run for 1.0 hour?",
+  "options": {
+   "A": "3.90 x 10² coulombs",
+   "B": "5.50 x 10³coulombs",
+   "C": "6.54 x 10³ coulombs",
+   "D": "2.34 x10⁴ coulombs"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-17",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 17,
+  "question": "Which of these represents a redox reaction?",
+  "options": {
+   "A": "AgNO₃ + NaCl AgCl + NNO₃",
+   "B": "H2s + Pb(NO₃)₂ PbS + 2HNO₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-18",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 18,
+  "question": "How many electrons are transferred in reducing one atom of Mn in the reaction MnO₂ + 4HCl MnCl₂ + 2H₂O + Cl₂",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-19",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 19,
+  "question": "20 cm³ of 0.1 molar NH4OH solution when neutralized with 20.05 cm³ of 0.1 molar HCl liberated 102 Joules of heat. Calculate the heat of neutralization of NH₄OH",
+  "options": {
+   "A": "-51.0 kJ mol⁻¹",
+   "B": "+57.3 kJ mol⁻¹",
+   "C": "+57.0kJ mol⁻¹",
+   "D": "+51.0kJ mol⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-20",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 20,
+  "question": "What is the consequence of increasing pressure on the equilibrium reaction ZnO₍ₛ₎ + H₂₍g Zn₍ₛ₎ + H₂O₍ᵢ₎",
+  "options": {
+   "A": "The equilibrium is driven to the left",
+   "B": "The equilibrium is driven to the right",
+   "C": "There is no effect",
+   "D": "More ZnO₍ₛ₎ is produced"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-21",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 21,
+  "question": "The approximate volume of air containing 10cm of oxygen is",
+  "options": {
+   "A": "20 cm³",
+   "B": "25 cm³",
+   "C": "50 cm³",
+   "D": "100 cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-22",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 22,
+  "question": "The reaction Mg + H₂O MgO + H₂ takes place only in the presence of",
+  "options": {
+   "A": "excess Mg ribbon",
+   "B": "excess cold water C very hot water",
+   "E": "steam"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-23",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 23,
+  "question": "When steam is passed through red hot carbon, which of the following are produced?",
+  "options": {
+   "A": "Hydrogen and oxygen and carbon(1V) oxide",
+   "B": "Hydrogen and carbon (1V) oxide",
+   "C": "Hydrogen and carbon (11) oxixde",
+   "D": "Hydrogen and trioxocarbonate(1V) acid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-24",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 24,
+  "question": "Which of the following contains an efflorescent, a deliquescent and a hydroscopic substance respectively?",
+  "options": {
+   "A": "Na2SO4, concentrated H₂SO₂ CaCl₂",
+   "B": "Na₂CO₃.H₂O, FeSO₂.7H₂O, concentrated H2SO4",
+   "C": "Na₂CO₃. 10H₂O, FeCl₃ concentrated H₂SO₄",
+   "D": "Concentrated H₂SO₄, FeSO₄.7H₂O, MgCl₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-25",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 25,
+  "question": "The tabulated results below were obtained by titrating 10.0 cm³ of water with soap. The titration was repeated with the same sample of water after boiling. Before boiling After boiling Final (cm³) 25.0 20.0 Initial (cm³) 10.00 15.0 The ratio of permanent to temporary hardness is",
+  "options": {
+   "A": "1:5",
+   "B": "1:4",
+   "C": "4:1",
+   "D": "5:1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-26",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 26,
+  "question": "The exhaust fumes from a garage in a place that uses petrol of high sulphur content are bound to contain",
+  "options": {
+   "A": "CO and SO₃",
+   "B": "CO and SO₂",
+   "C": "CO, SO₂ and SO₃",
+   "D": "CO and H₂S"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-27",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 27,
+  "question": "Oxygen-demanding wastes are considered to be a water pollutant because they.",
+  "options": {
+   "A": "deplete oxygen which is necessary for the survival of aquatic organisms",
+   "B": "increase oxygen which is necessary for the survival of aquatic organisms",
+   "C": "increase other gaseous species which are necessary for survival of aquatic organisms",
+   "D": "deplete other gaseous species which are necessary for the survival of aquatic organisms."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-28",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 28,
+  "question": "Which of the following will react further with oxygen to form a higher oxide?",
+  "options": {
+   "A": "NO and H₂O",
+   "B": "CO and CO₂",
+   "C": "SO₂ and NO",
+   "D": "CO₂ and H₂O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-29",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 29,
+  "question": "In the course of an experiment, two gases X and Y were produced. X turned wet lead ethanoate to black and Y bleached moist litmus paper. What are the elements(s) in each of the gases X and Y respectively?",
+  "options": {
+   "A": "H and S;Cl",
+   "B": "H and O; Cl",
+   "C": "H and S;C and O",
+   "D": "H and Cl;S and O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-30",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 30,
+  "question": "Which of the following sulphides is insoluble in dilute HCl?",
+  "options": {
+   "A": "Na₂S",
+   "B": "ZnS",
+   "C": "CuS",
+   "D": "FeS"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-31",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 31,
+  "question": "When chlorine is passes into water and subsequently exposed to sunlight, the gas evolved is",
+  "options": {
+   "A": "HCl",
+   "B": "HOCl",
+   "C": "O₂",
+   "D": "Cl₂O₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-32",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 32,
+  "question": "Which of the following metals does NOT form a stable trioxocarbonate(1V)",
+  "options": {
+   "A": "Fe",
+   "B": "Al",
+   "C": "Zn",
+   "D": "Pb"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-33",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 33,
+  "question": "Which of the following metals with NaOH to give salt and water only. When Z is treated with dilute HCl, a gas is evolved which gives a yellow suspension on passing into concentrated H S₂ O .₄ Substance Z is.",
+  "options": {
+   "A": "NaHS",
+   "B": "Na₂SO₃",
+   "C": "NaS",
+   "D": "NaHSO₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-34",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 34,
+  "question": "Ammonia gas is normally dried with",
+  "options": {
+   "A": "concentrated sulphuric acid",
+   "B": "quicklime"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-35",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 35,
+  "question": "What are the values of x, y and z respectively in the equation xCu +yHNO₃ xCu(NO₃)₂ + 4H₂O + zNO?s",
+  "options": {
+   "A": "4;1;2",
+   "B": "3;8;2",
+   "C": "2;8;3",
+   "D": "8;3;2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-36",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 36,
+  "question": "The iron (111) oxide impurity in bauxite can be removed",
+  "options": {
+   "A": "fractional crystallization in acid solution",
+   "B": "dissolution in sodium hydroxide and filtration",
+   "C": "extraction with concentrated ammonia and reprecipitation",
+   "D": "electrolysis of molten mixture."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-38",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 38,
+  "question": "A white solid suspected to be lead trioxonirate (V), zinc trioxocarbonate(1V) of calcium trioxocarbonate (1V) was heated strongly. Its residue, which was yellow when hot and white when cold, is",
+  "options": {
+   "A": "lead (11) oxide",
+   "B": "calcium oxide",
+   "C": "zinc oxide",
+   "D": "lead nitrite"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-39",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 39,
+  "question": "Which of the following compounds would give lilac fame coloration and a white precipitate with acidified barium chloride solution?",
+  "options": {
+   "A": "KCl",
+   "B": "NaNO₃",
+   "C": "K₂SO",
+   "D": "CaSO₄"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-40",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 40,
+  "question": "How will a metal X, which reacts explosively with air and with dilute acids be best extracted from its ores?",
+  "options": {
+   "A": "Electrolysis of the solution of its salt",
+   "B": "Decomposition of its oxide",
+   "C": "Displacement from solution by an alkali metal",
+   "D": "Electrolysis of fused salt"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-41",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 41,
+  "question": "Which of the following is NOT correct for the named organic compound in each case?",
+  "options": {
+   "A": "Butanoic acid solution gives effervescence with Na₂CO₃ solution",
+   "B": "Glucose when reacted with Na₂ CrO₄ at 0oC will show immediate discharge of colour",
+   "C": "When but-2-ene is reacted with dilute solution of KmnO4 the purple colour of KMnO is discharge readily even at room temperature",
+   "D": "When butan-2-ol is boiled with Butanoic acid with a drop of concentrated H₂SO₄ a sweet smelling liquids is produced."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-42",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 42,
+  "question": "Which of the following is used as an‘anti-knock’ in automobile engines?",
+  "options": {
+   "A": "Tetramethyl silane",
+   "B": "Lead tetra-ethyl",
+   "C": "Glycerol",
+   "D": "N-heptanes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-43",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 43,
+  "question": "What reaction takes place when palm-oil is added to potash and foams are observed?",
+  "options": {
+   "A": "Neutralization",
+   "B": "Saponification"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-44",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 44,
+  "question": "How many isomers can be formed from organic compounds with the formula C₃H₈O?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-45",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 45,
+  "question": "Which of the structural formula for pent-2-enoic acid?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "chemistry/1986_p16_1.png",
+  "images": [
+   "chemistry/1986_p16_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1986-46",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 46,
+  "question": "When ethanol is heated with excess concentrated sulphuric acid, the ethanol is",
+  "options": {
+   "A": "oxidized to ethene",
+   "B": "polymerized to polyethene",
+   "C": "dehydrated to ethene",
+   "D": "dehydrated to ethyne."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-47",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 47,
+  "question": "Which of the following compounds is NOT formed by the action of chlorine on methane?",
+  "options": {
+   "A": "CH₃Cl",
+   "B": "C₂H₅Cl",
+   "C": "CH₂Cl₂",
+   "D": "CHCl₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-48",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 48,
+  "question": "The general formula of an alkyl halide (where X represent the halide) is",
+  "options": {
+   "A": "CₙH₂ₙ-₂X",
+   "B": "–CₙH₂ₙ +₁X",
+   "C": "CₙH₂ₙ +₂X",
+   "D": "CₙH₂ₙX"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-49",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 49,
+  "question": "Which of the following are made by the process of polymerization?",
+  "options": {
+   "A": "Nylon and soap",
+   "B": "Nylon and rubber",
+   "C": "Soap and butane",
+   "D": "Margarine and Nylon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1986-50",
+  "subject": "chemistry",
+  "year": 1986,
+  "number": 50,
+  "question": "Starch can converted to ethyl alcohol by",
+  "options": {
+   "A": "distillation",
+   "B": "fermentation",
+   "C": "isomerization",
+   "D": "cracking."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

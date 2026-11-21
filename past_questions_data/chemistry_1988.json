@@ -1,0 +1,874 @@
+[
+ {
+  "id": "chemistry-1988-1",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 1,
+  "question": "In the experiment above, ammonium chloride crystals deposit on the walls of the tube is as a result of",
+  "options": {
+   "A": "Evaporation",
+   "B": "Recrystallization",
+   "C": "Sublimation",
+   "D": "Fractional precipitation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-2",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 2,
+  "question": "The formula of the compound formed in a reaction between a trivalent metal M and a tetravalent non-metal X is.",
+  "options": {
+   "A": "MX",
+   "B": "M ₃X ₄",
+   "C": "M₄X₃",
+   "D": "M₃X₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-3",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 3,
+  "question": "2.25 g of sample of an oxide of a copper. 2.50 g of another oxide of Copper on reduction also gave2.0 g of copper. These results are in accordance with the law of",
+  "options": {
+   "A": "constant composition",
+   "B": "conversation of matter",
+   "C": "multiple proportions",
+   "D": "definite proportions."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-4",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 4,
+  "question": "One role of propane is mixed with five moles of oxygen. The mixture is ignited and the propane burns completely. What is the volume of the products at soap?",
+  "options": {
+   "A": "112.0 dm³",
+   "B": "67.2 dm³",
+   "C": "56.0 dm³",
+   "D": "44.8 dm³ [G.M.V = 22.4 dm³mol⁻¹]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-5",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 5,
+  "question": "0.9 dm³ of a gas at s. t. p was subjected by means of a movable piston to two times the original pressure with the temperature being now kept at 364 K. What is the volume of the gas in dm³ at this pressure?",
+  "options": {
+   "A": "2.0",
+   "B": "4.5",
+   "C": "6.0",
+   "D": "8.3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-6",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 6,
+  "question": "",
+  "options": {
+   "A": "Boyle",
+   "B": "Charles",
+   "C": "Graham",
+   "D": "Gay-lussac 7, An increase in temperature causes an increase in the pressure in the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1988_p20_1.png",
+  "images": [
+   "chemistry/1988_p20_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1988-8",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 8,
+  "question": "The forces holding naphthalene crystal together can be overcome when naphthalene is heated to a temperature of 354 K resulting in the crystals melting. These forces are known as.",
+  "options": {
+   "A": "coulombic",
+   "B": "ionic",
+   "C": "covalent",
+   "D": "van der waals"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-9",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 9,
+  "question": "A metallic ion X²⁺ with an inert gas structure contain 18 electrons. How many protons are there in this ion?",
+  "options": {
+   "A": "20",
+   "B": "18",
+   "C": "16",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-10",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 10,
+  "question": "Which of the following physically properties decreases across the periodic table.",
+  "options": {
+   "A": "Ionization potential",
+   "B": "Electron affinity",
+   "C": "Electronegativity",
+   "D": "Atomic radius"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-11",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 11,
+  "question": "What are the possible oxidation numbers for an element if its atomic is 17?",
+  "options": {
+   "A": "-1 and 7",
+   "B": "– 1 and 6",
+   "C": "– 3 and 5",
+   "D": "– 2 and 6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-12",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 12,
+  "question": "The energy change accompanying the addition of an electron to a gaseous atom is called",
+  "options": {
+   "A": "first ionization energy",
+   "B": "second ionization energy",
+   "C": "electron affinity",
+   "D": "electronegativity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-13",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 13,
+  "question": "The molar ratio of oxygen to nitrogen in dissolved air is 2:1 whereas the ratio is 4:1 in atmospherics air because",
+  "options": {
+   "A": "nitrogen is less soluble than oxygen",
+   "B": "oxygen is heavier than nitrogen",
+   "C": "nitrogen has a higher partial than pressure in air",
+   "D": "gases are hydrated in water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-14",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 14,
+  "question": "An eruption polluted an environment with a gas suspected to H₂S, a poisonous gas. A rescue team should spray the environment with",
+  "options": {
+   "A": "water",
+   "B": "moist SO₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-15",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 15,
+  "question": "1.34 g of hydrated sodium tetraoxosulphate (V1) was heated to give an anhydrous salt weighing 0.71g. The formula of the hydrated salt.",
+  "options": {
+   "A": "Na₂SO₄.7H₂O",
+   "B": "Na₂SO₄.3H₂O",
+   "C": "Na₂SO₄.2H₂O",
+   "D": "Na₂SO₄.H₂O. [Na = 23, S =32, O = 16, H=1]."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-16",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 16,
+  "question": "The ion that may be assumed to have negligible concentration in a sample of water that lathers readily with soap is",
+  "options": {
+   "A": "Mg²⁺",
+   "B": "K⁺",
+   "C": "CO²⁻₃",
+   "D": "HCO₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-17",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 17,
+  "question": "A substance S is isomorphous with another substance R. When a tiny crystal of R,",
+  "options": {
+   "A": "S dissolves in the solution",
+   "B": "Crystals of R are precipitated",
+   "C": "There is no observable change",
+   "D": "R and S react to the generate heat."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-18",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 18,
+  "question": "Which of the following dilute solutions has the lowest pH value?",
+  "options": {
+   "A": "Calcium trioxocarbonate(1V) B Sodium trioxocarbonate(1V)",
+   "D": "hydrochloric acid",
+   "E": "ethanoic acid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-19",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 19,
+  "question": "Which of the following in aqueous solution neutralize litmus?",
+  "options": {
+   "A": "NH₄Cl",
+   "B": "Na₂CO₃",
+   "C": "FeCl₃",
+   "D": "NaCl."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-20",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 20,
+  "question": "What volume of a 0.1 M H₃PO will be required to neutralize 45.0cm³of a 0.2 M NaOH?",
+  "options": {
+   "A": "10.0 cm³",
+   "B": "20.0 cm³",
+   "C": "27.0 cm³",
+   "D": "30.0cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-21",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 21,
+  "question": "Which of the following substances is a basic salt?",
+  "options": {
+   "A": "Na₂CO₃",
+   "B": "Mg(OH)Cl",
+   "C": "NaCHO₃",
+   "D": "K₂SO₄.Al₂(SO₄)₃.24H₂O."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-22",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 22,
+  "question": "Which of the following acts both as reducing and an oxidizing agent?",
+  "options": {
+   "A": "H₂",
+   "B": "SO₂",
+   "C": "H₂S",
+   "D": "C"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-23",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 23,
+  "question": "Which of the following reactions takes place in the cathode compartment during the electrolysis of copper (11) chloride solution?",
+  "options": {
+   "A": "Cu²⁺ ₍ₐ q₎ + 2e Cu(s)",
+   "B": "2Cl – 2e Cl₂",
+   "C": "Cu(s) – 2e Cu²⁺ ₍ₐ q₎",
+   "D": "Cu²⁺ ₍ₐq₎ + 2Cl ₍ₐq CuCl₂₍ₐq₎ electricity. G passing through the electrolyte. This is represented graphically by."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1988_p21_1.png",
+  "images": [
+   "chemistry/1988_p21_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1988-25",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 25,
+  "question": "A mixture of starch solution and potassium iodide was placed in a test tube. On adding dilute tetraoxosulphate (V1) acid and then K₂Cr₂O₇ solutions, a blue-black colour was produced. In this reaction, the",
+  "options": {
+   "A": "iodine ion is oxidized",
+   "B": "tetraoxosulphate(V1) acid acts as an oxidizing agent",
+   "C": "starch has been oxidized",
+   "D": "K₂Cr₂O₇ is oxidized."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-26",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 26,
+  "question": "Which of the following statements is TRUE?",
+  "options": {
+   "A": "The dissolution of NaOH₍ₛ₎ in water is endothermic",
+   "B": "The heat of solution of NaOH₍ₛ₎ is positive",
+   "C": "The NaOH₍ₛ₎ gains heat from the surroundings.",
+   "D": "The heat of solution of NaOH₍ₛ₎ is negative."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1988_p21_2.png",
+  "images": [
+   "chemistry/1988_p21_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1988-28",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 28,
+  "question": "Which of the following will produced the greatest increase in the rate of the chemical reaction represented by the equation Na S O +2HCl 2NaCl + HO + SO +S ? ₂ ₂ ₃₍ₐq₎ ₍ₐ q ₍ₐq₎ ₂ ₍₁₎ ₂₍g₎ ₍ₛ₎",
+  "options": {
+   "A": "decrease in temperature and an in increase in the concentration of the reactants",
+   "B": "An increase in the temperature and a decrease in the concentration of the reactants",
+   "C": "An increase in the temperature and an increase in the concentrations of the reactants",
+   "D": "A decrease in the temperature and a decrease in the concentration of the reactants."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-29",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 29,
+  "question": "Which property of reversible reaction is affected by a catalyst?",
+  "options": {
+   "A": "heat content(enthalpy)",
+   "B": "energy of activation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-30",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 30,
+  "question": "Which of the following is used in fire extinguishers?",
+  "options": {
+   "A": "Carbon (11) oxide",
+   "B": "Carbon (1V) oxide",
+   "C": "Sulphur (1V) oxide",
+   "D": "Ammonia"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-31",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 31,
+  "question": "When H₂S gas is passed into a solution of iron (111) chloride, the colour changes from yellow to green. This is because.",
+  "options": {
+   "A": "H₂S is reduced to S",
+   "B": "Fe³⁺ ions are oxidized by H ₂S",
+   "C": "H₂ S ions are oxidized by Fe³⁺",
+   "D": "Fe³⁺ ions are reduced to Fe³⁺ ions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-32",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 32,
+  "question": "Carbon (11) oxide may be collected as shown above because it",
+  "options": {
+   "A": "is heavier than air",
+   "B": "is less dense than air",
+   "C": "is insoluble in water",
+   "D": "burns in oxygen to form carbon(1V)oxide."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1988_p22_1.png",
+  "images": [
+   "chemistry/1988_p22_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1988-33",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 33,
+  "question": "In the reaction C₅H₁₀O₅₍ₛ₎ 6C₍ₛ₎ + 5H₂O concentrated H₂SO₄ is acting as",
+  "options": {
+   "A": "a reducing agent",
+   "B": "an oxidizing agent",
+   "C": "a dehydrating agent",
+   "D": "a catalyst"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-34",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 34,
+  "question": "Suitable regents for the laboratory preparation of nitrogen are",
+  "options": {
+   "A": "sodium trioxonirate (lll) and ammonium chloride",
+   "B": "sodium trioxonirate(V) and ammonium chloride",
+   "C": "sodium chloride and ammonium trioxonirate (V)",
+   "D": "sodium chloride and ammonium trioxonirate(lll)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-35",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 35,
+  "question": "The thermal decomposition of copper (ll) trioxonirate (V) yields copper (ll) oxide, oxygen and",
+  "options": {
+   "A": "nitrogen (ll) oxide",
+   "B": "nitrogen(ll) oxide",
+   "C": "nitrogen (lV) oxide",
+   "D": "nitrogen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-36",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 36,
+  "question": "Chlorine is produced commercially by",
+  "options": {
+   "A": "electrolysis of dilute hydrochloric acid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-37",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 37,
+  "question": "Which of the following is used in the manufacture of glass?",
+  "options": {
+   "A": "Sodium chlorine",
+   "B": "Sodium trioxocarbonate (lV)",
+   "C": "Sodium tetraoxosulphate (Vl)",
+   "D": "Sodium trioxonirate (V)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-38",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 38,
+  "question": "Aluminium is extracted commercially from its ore by",
+  "options": {
+   "A": "heating aluminium oxide with coke in a furnace",
+   "B": "the electrolysis of fused aluminium oxide in cryolite",
+   "C": "treating cryolite with sodium hydroxide solution under pressure",
+   "D": "heating sodium aluminium silicate to a high temperature."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-39",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 39,
+  "question": "Given the reactions (i) Fe₍ₛ₎ + (NO3)₂₍ₐq₎ Fe(NO₃)₂₍ₐq₎ + X₍ₛ₎ (ii) H2₍g₎ + XO₍ₛ₎ X₍ₛ₎ + H₂O₍g₎, X is likely to be.",
+  "options": {
+   "A": "copper",
+   "B": "zinc",
+   "C": "calcium",
+   "D": "lead."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-40",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 40,
+  "question": "Crude copper can be purified by the electrolysis of CuSO4₍ₐq₎ if",
+  "options": {
+   "A": "platinum electrodes are used",
+   "B": "the crude copper is made the anode of the cell",
+   "C": "the crude copper is made the cathode of the cell",
+   "D": "crude copper electrodes are used."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-41",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 41,
+  "question": "The IUPAC name for CH₃ CH₂ CHC CH₃ OH",
+  "options": {
+   "A": "2 – methylbutanoic acid",
+   "B": "2 – methyl - -hydrosyketone",
+   "C": "2 – methyl - - hydroxyl baldheaded",
+   "D": "2 – methylpentanoic acid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-43",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 43,
+  "question": "Alkanoates are formed by the reaction of alkanoic acids with",
+  "options": {
+   "A": "alkyl halides",
+   "B": "alkanols",
+   "C": "ethers",
+   "D": "sodium"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-44",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 44,
+  "question": "The acidic hydrogen in the compound 1 2 3 4 5 H—C= C—CH=CH—CH₃ is the hydrogen attached to carbon number",
+  "options": {
+   "A": "5",
+   "B": "4",
+   "C": "3",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-45",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 45,
+  "question": "The four classes of hydrocarbons are",
+  "options": {
+   "A": "ethane, ethene ethyne and benzene",
+   "B": "alkanes, alkenesm alkynes and aromatics",
+   "C": "alkanes, alkenes, alkynes and benzene",
+   "D": "methane, ethane, propane and butane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-46",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 46,
+  "question": "Alkanes ₄₀c₀ₐ₋ₜ₇ₐ₀ₗ₀yoₛCₜ ₛₘₐₐₗₗₗₑₖᵣₐ +ₙₑ ₛ alkanes +hydrogen. The above reaction is known as",
+  "options": {
+   "A": "Photolysis",
+   "B": "Cracking"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-47",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 47,
+  "question": "In the reaction 2(C₆H₁₀O₅) n + nH₂O diastasen C₁₂H₂₂O₁₁ diastase is functioning as",
+  "options": {
+   "A": "a dehydrating agent",
+   "B": "a reducing agent",
+   "C": "an oxidizing agent",
+   "D": "a catalyst."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-48",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 48,
+  "question": "48. which of the following compounds has the highest boiling point?",
+  "options": {
+   "A": "CH₃ CH₂ CH₂ CH₂ OH",
+   "B": "CH₃ CH₂ CH₂ CHO",
+   "C": "CH₃ CH2 CH₂ CH₃",
+   "D": "CH₃ CH₂ OCH₂ CH₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-49",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 49,
+  "question": "Detergents have the general formula",
+  "options": {
+   "A": "R(CH₂)NOH",
+   "B": "RSO₃ Na+",
+   "C": "RCO₂ Na+",
+   "D": "RCO₂H"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1988-50",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 50,
+  "question": "What process would coal undergo to give coal gas, coal tar, ammoniac liquor and coke?",
+  "options": {
+   "A": "steam distillation",
+   "B": "Destructive distillation",
+   "C": "Liquefaction,",
+   "D": "Hydrolysis."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,947 @@
+[
+ {
+  "id": "chemistry-1990-1",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 1,
+  "question": "Which of the following is a physical change?",
+  "options": {
+   "A": "The bubbling of chlorine into water",
+   "B": "The bubbling of chlorine into jar containing hydrogen",
+   "C": "The dissolution of sodium chlorine in water",
+   "D": "The passing of steam over heated iron."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-2",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 2,
+  "question": "Changes in the physical states of chemical substances T are shown in the scheme below. Liquid T Z Y Solid Gaseous T The letters X, Y and Z respectively represent",
+  "options": {
+   "A": "sublimation, condensation and freezing",
+   "B": "sublimation, vaporization and solidification",
+   "C": "freezing, condensation and sublimation",
+   "D": "evaporation, liquefaction and sublimation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1990_p27_1.png",
+  "images": [
+   "chemistry/1990_p27_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1990-3",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 3,
+  "question": "In the reaction: SnO₂ + 2C Sn + 2CO the mass of coke containing 80% carbon required to reduce 0.032 kg of pure tin oxide is",
+  "options": {
+   "A": "0.40 kg",
+   "B": "0.20 kg",
+   "C": "0.06 kg",
+   "D": "0.40 g [Sn = 119, O = 16, C = 12]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-4",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 4,
+  "question": "The Avogadro’s number of 24 of magnesium is same as that of",
+  "options": {
+   "A": "1 g of hydrogen molecules",
+   "B": "16 g of oxygen molecules",
+   "C": "32 g of oxygen molecules",
+   "D": "35.5 of chlorine molecules."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-5",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 5,
+  "question": "If a gas occupies a container of volume 146 cm3 at 18oC and 0.971 atm, its volume on cm3 at s.t.p is",
+  "options": {
+   "A": "133",
+   "B": "146",
+   "C": "266",
+   "D": "292"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-6",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 6,
+  "question": "The volume occupied by 1.58 g of gas s.t.p is 500 cm³. What is the relative molecule mass of the gas?",
+  "options": {
+   "A": "28",
+   "B": "32 [G.M.V at s.t.p = 22.40 dm³]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-7",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 7,
+  "question": "Equal volumes of CO, SO₂ NO₂ and H₂S, were released into a room at the same point and time. Which of the following gives the order of the room?",
+  "options": {
+   "A": "CO₂, SO₂, NO, H₂S,",
+   "B": "SO₂, NO₂, H₂S, CO",
+   "C": "CO, H₂S, SO₂, NO₂",
+   "D": "CO, H₂S, NO₂, SO₂ [S = 32, C=12, 0=16, N = 14, H =1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-8",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 8,
+  "question": "A basic postulate of the kinetic theory of gases is that the molecules of a gas move in straight lines between collisions. This implies that.",
+  "options": {
+   "A": "collisions are perfectly elastics",
+   "B": "forces of repulsion exist",
+   "C": "forces of repulsion and attraction are in equilibrium",
+   "D": "collisions are inelastic."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1990_p27_2.png",
+  "images": [
+   "chemistry/1990_p27_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1990-9",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 9,
+  "question": "Which of the four atoms P,Q,R and S in the above data can be described by the following properties: relative atomic mass is greater than 30 but less than 40 ; it has an odd atomic number and forms a unipositive ion in solution?",
+  "options": {
+   "A": "P",
+   "B": "Q",
+   "C": "R",
+   "D": "S"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-10",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 10,
+  "question": "Which of the following terms indicates the number of bonds that can be formed by atom?",
+  "options": {
+   "A": "Oxidation number",
+   "B": "Valence",
+   "C": "Atomic number",
+   "D": "Electronegativity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-11",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 11,
+  "question": "X₍g₎ X₍g₎ . The type of energy involved in the above transformation is",
+  "options": {
+   "A": "ionization energy",
+   "B": "sublimation energy",
+   "C": "lattice energy",
+   "D": "electron affinity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-12",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 12,
+  "question": "Chlorine, consisting of two isotope of mass numbers 35 and 37, has an atomic of 35.5. The relative abundance of the isotope of mass number 37 is.",
+  "options": {
+   "A": "20",
+   "B": "25",
+   "C": "50",
+   "D": "75"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-13",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 13,
+  "question": "10.0 dm³ of air containing H₂ S as an Impurity was passed through a solution of Pb(NO₃)₂ until all the H2S had reacted. The precipitate of PbS was found weight 5.02 g. According to the equation: Pb(NO ) + H2O ’! PbS ₃ ₂ “!+2HNO3 the percentage by volume of hydrogen sulphides in the air is.",
+  "options": {
+   "A": "50.2",
+   "B": "47.0",
+   "C": "4.70",
+   "D": "0.47 [Pb = 207, S = 23, GMV at s.t.p = 22.4 dm₃]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-14",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 14,
+  "question": "A blue solid, T, which weighted 5.0 g was placed on a table. After 8 hours, the resulting pink sold was found to weight 5.5 g. It can be inferred that substance T",
+  "options": {
+   "A": "is deliquescent",
+   "B": "is hydroscopic",
+   "C": "has some molecules of water of crystallization",
+   "D": "is efflorescent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-15",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 15,
+  "question": "The effluent of an industrial plant used ins the electrolysis of concentrated brine, with a flowing mercury cathode may contain impurities like.",
+  "options": {
+   "A": "oxygen",
+   "B": "hydrogen",
+   "C": "mercury (ll) chloride",
+   "D": "hydrogen chloride"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-16",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 16,
+  "question": "The solubility in moles per dm³ of 20 g of CuSO ₄ dissolved in 100 g of water at 180oC is",
+  "options": {
+   "A": "0.13",
+   "B": "0.25",
+   "C": "1.25",
+   "D": "2.00 [Cu = 63.5, S = 32, O = 16]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-17",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 17,
+  "question": "Smoke consists of",
+  "options": {
+   "A": "solid particles dispersed in liquid",
+   "B": "solid or liquid particles dispersed in gas",
+   "C": "gas or liquid particles dispersed in liquid",
+   "D": "liquid particles dispersed in liquid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-18",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 18,
+  "question": "NaC₂O₄ + CaCl CaC₂O₄ + 2NaCl. Given a solution of 1.9 g of sodium oxalate in 50 g of water at room temperature, calculate the minimum volume of 0.1 M calcium oxalate required to produce maximum calcium oxalate using the above equation.",
+  "options": {
+   "A": "1.40 x 10² dm³",
+   "B": "1.40 x 10² cm³",
+   "C": "1.40 x 10-² dm³",
+   "D": "1.40 x 10-² cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-19",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 19,
+  "question": "2.0 g of monobasic acid was made up to 250 cm³ with dist₃illed water. 25.00 cm³ of this solution required 20.00 cm of 0.1 M NaOH solution for complete neutralization. The molar mass of the acid is",
+  "options": {
+   "A": "200 g",
+   "B": "160 g",
+   "C": "100 g",
+   "D": "50 g"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-20",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 20,
+  "question": "What is concentration of H⁺ ions in moles per dm³ of a solution of pH 4.398?",
+  "options": {
+   "A": "4.0 x 10⁻⁵",
+   "B": "0.4 x 10⁻⁵",
+   "C": "4.0 x 10⁻³",
+   "D": "0.4 x 10⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-21",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 21,
+  "question": "What volume of 11.0 M hydrochloric acid must be dilute to obtain 1 dm³ of 0.05 M acid?",
+  "options": {
+   "A": "0.05 dm³",
+   "B": "0.10 dm³",
+   "C": "0.55 dm³",
+   "D": "11.0 dm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-22",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 22,
+  "question": "If 10.8 g of silver is deposited in a silver coulometer connected in series with a copper coulometer, the volume of oxygen liberated is",
+  "options": {
+   "A": "0.56 dm³",
+   "B": "5.50 dm³",
+   "C": "11.20 dm³",
+   "D": "2 2 . 4 0 dm³ [Ag = 108, Cu = 64, GMV at s.t.p = 22.40 dm³]."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-23",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 23,
+  "question": "0.1 faraday of electricity deposited 2.95 g of nickel during electrolysis is an aqueous solution. Calculate the number of moles of nickel that will Be deposited by 0.4 faraday",
+  "options": {
+   "A": "0.20",
+   "B": "0.30",
+   "C": "0.034",
+   "D": "5.87 [Ni = 58.7]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-24",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 24,
+  "question": "Cr2O₇ ²⁻ + 6Fe²⁺ + 14H⁺ 2Cr³⁺ + 6Fe³⁺ + 7H₂ O. In the above chromium change from.",
+  "options": {
+   "A": "+7 to +3",
+   "B": "+6 to +3",
+   "C": "+5 to +3",
+   "D": "–2 to+3 ₋ ₋ ₊"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-25",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 25,
+  "question": "In the reaction 10 ₃+ 51 + 6H 31 ₂ + 3H₂O, the oxidizing agent is",
+  "options": {
+   "A": "H⁺",
+   "B": "1⁻",
+   "C": "10⁻₃",
+   "D": "1₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-26",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 26,
+  "question": "Fe₂ O ₃ ₍ₛ ₎ + 2Al Al ₂O ₃+ 2Fe ₍ₛ₎ are –1670 kJ mol-1 and –822kJ mol-1 respectively, the enthalpy change in kJ for the reason is",
+  "options": {
+   "A": "+2492",
+   "B": "+848",
+   "C": "–848",
+   "D": "2492"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-27",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 27,
+  "question": "Iron galvanized with zinc catholically protected from corrosion. This is because",
+  "options": {
+   "A": "zinc has a more positive oxidation potential than iron",
+   "B": "zinc has a less positive oxidation potential than iron",
+   "C": "both have the same oxidation potential",
+   "D": "zinc is harder than iron."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-28",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 28,
+  "question": "Which of the following samples will react faster with dilute dtrioxonitrate (V) acid?",
+  "options": {
+   "A": "5 g of lumps of CaCO at 25oₒC",
+   "B": "³ 5 g of powered CaCO₃ at 25 C",
+   "C": "5 g of lumps of CaCO at 50ₒoC",
+   "D": "³ 5 g of powered CaCO₃ at 50 C"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-29",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 29,
+  "question": "In th e reaction , 2Hl ₍g₎ H₂₍g₎ + I₂(g), H = 10 kJ;",
+  "options": {
+   "B": "raising the temperature",
+   "C": "adding the temperature",
+   "D": "lowering the pressure"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-30",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 30,
+  "question": "Which of the following gases can be collected by upward displacement of air?",
+  "options": {
+   "A": "NO",
+   "B": "H₂",
+   "C": "NH₃",
+   "D": "Cl₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-31",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 31,
+  "question": "The brown fumes given off when trioxonirate (V) acid consist of",
+  "options": {
+   "A": "NO₂ and O₂",
+   "B": "H₂O and NO₂",
+   "C": "NO₂, O₂ and H₂O",
+   "D": "NO₂ and H₂O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-32",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 32,
+  "question": "Which of the following tests will completely identify any one of sulphur (lV) oxide, hydrogen, carbon (lV) oxide and nitrogen (ll) oxixde?",
+  "options": {
+   "A": "pass each gas into water and test with blue litmus pare",
+   "B": "pass each gas into lime water",
+   "C": "expose each gas to atmospheric air",
+   "D": "passs each gas to concentrated tetraoxosulphate(Vl) acid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-33",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 33,
+  "question": "In the Haber process for the manufacture of ammonia, the catalyst commonly used is finely divided.",
+  "options": {
+   "A": "vanadium",
+   "B": "platinum",
+   "C": "iron",
+   "D": "copper"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-34",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 34,
+  "question": "A metallic oxide which reacts with both HCl and NaOH to give salt and water only can be classified as",
+  "options": {
+   "A": "an acidic oxide",
+   "B": "an atmospheric oxide",
+   "C": "a neutral oxide",
+   "D": "an atmospheric oxide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-35",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 35,
+  "question": "Which of the following metals will liberate hydrogen form steam or dilute acid?",
+  "options": {
+   "A": "copper",
+   "B": "iron",
+   "C": "lead",
+   "D": "mercury"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-36",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 36,
+  "question": "Coal fire should not be used in poorly ventilated rooms because",
+  "options": {
+   "A": "of the accumulation of CO₂ which cause deep sleep",
+   "B": "it is usually too hot",
+   "C": "of the accumulation of CO which causes suffocation",
+   "D": "it removes most of the gases in the room"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-37",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 37,
+  "question": "The major component of the slag from the production of iron is",
+  "options": {
+   "A": "an alloy of calcium and iron",
+   "B": "coke",
+   "C": "impure ion",
+   "E": "calcium trioxosilicate (V)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-38",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 38,
+  "question": "Sodium hydroxide should be stored in properly closed containers because it",
+  "options": {
+   "A": "readily absorbs water vapour from the air"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-39",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 39,
+  "question": "To make coloured glasses, small quantities of oxides of metals which form coloured silicates are often added to the reaction mixture consisting of Na₂CO₃ and SO₂. Such a metal is",
+  "options": {
+   "A": "potassium",
+   "B": "barium",
+   "C": "zinc",
+   "D": "copper"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-40",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 40,
+  "question": "Which of the following compounds gives a yellow residue when heated and also reacts with aqueous sodium hydroxide to give a white gelatinous precipitate soluble in excess sodium hydroxide solution.",
+  "options": {
+   "A": "(NH₄)₂CO₃",
+   "B": "ZnCO₃",
+   "C": "Al₂(SO₄)₃",
+   "D": "PbCO₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-41",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 41,
+  "question": "A cycloalkane with molecular formula C₅H₁₀ has",
+  "options": {
+   "A": "one isomer",
+   "B": "two isomers",
+   "C": "three isomers",
+   "D": "four isomers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-42",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 42,
+  "question": "The structure of cis-2butene is",
+  "options": {
+   "A": "CH₃ -CH=CH-CH₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1990_p29_1.png",
+  "images": [
+   "chemistry/1990_p29_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1990-43",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 43,
+  "question": "What is the IUPAC name for the hydrocarbon CH₃ CH₃—C = CH— CH—CH₃ CH₂ CH₃",
+  "options": {
+   "A": "2-ethyl-4-methylpent-2-ene",
+   "B": "3,5-dimenthylhex-3-ene",
+   "C": "2,4-dimenthylhex-3-ene",
+   "D": "2-methyl-4-ethylpent-3-ene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-44",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 44,
+  "question": "CH₃ = CH P. Compound P, in the above reaction, is.",
+  "options": {
+   "A": "CH — C = CH NH₂ NH₂",
+   "B": "CH₃ — C CH Na",
+   "C": "CH₃ — C C — Na",
+   "D": "CH3 — C C — NH₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-45",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 45,
+  "question": "The label on a reagent bottle containing a clear organic liquid dropped off. The liquid was neutral to litmus and gave a colourless gas with metallic sodium. The liquid must be an",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-46",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 46,
+  "question": "COOH COOH + H₂O + NaOH COOH COO-Na⁺ The above reaction is an example of",
+  "options": {
+   "A": "displacement reaction",
+   "B": "a neutralization reaction",
+   "C": "an elimination reaction",
+   "D": "Saponification"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-47",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 47,
+  "question": "Alkanoic acids have low volatility compared with Alkanoic because they",
+  "options": {
+   "A": "are more polar than alkanols B have two oxygen atoms while alkanols have one",
+   "C": "form two hydrogen bonds while alkanols donot",
+   "D": "form two hydrogen bonds while alkanols form one."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-48",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 48,
+  "question": "The octane number of a fuel whose performance is the same as that of a mixture of 55 g of 2, 2, 4-trimethyl pentane and 45 g of n-heptanes is",
+  "options": {
+   "A": "45",
+   "B": "55",
+   "C": "80",
+   "D": "100"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-49",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 49,
+  "question": "Which of the following is formed when maltose reacts with concentrated tetraoxosulphate (Vl) acid.",
+  "options": {
+   "A": "Carbon (lV) oxixde",
+   "B": "Coal tar",
+   "C": "Charcoal",
+   "D": "Toxic fumes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1990-50",
+  "subject": "chemistry",
+  "year": 1990,
+  "number": 50,
+  "question": "Which of the following compounds represents the polymerization product of ethyne? A..",
+  "options": {
+   "B": "",
+   "C": "",
+   "D": ""
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "chemistry/1990_p30_3.png",
+  "images": [
+   "chemistry/1990_p30_3.png",
+   "chemistry/1990_p30_2.png",
+   "chemistry/1990_p30_1.png",
+   "chemistry/1990_p30_4.png"
+  ]
+ }
+]

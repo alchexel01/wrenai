@@ -1,0 +1,921 @@
+[
+ {
+  "id": "chemistry-2004-1",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 1,
+  "question": "In the electrolysis of brine, the anode is",
+  "options": {
+   "A": "Zinc",
+   "B": "Platinum",
+   "C": "Carbon",
+   "D": "Copper."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-2",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 2,
+  "question": "N ₂O₄₍g₎ 2NO ₂ ₍g₎ In the endothermic reaction above, more product formation will be favoured by",
+  "options": {
+   "A": "a decrease in pressure",
+   "B": "a decrease in volume",
+   "C": "an increase in pressure",
+   "D": "a constant volume"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-3",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 3,
+  "question": "The oxidation state of Chlorine in HClO₄ is",
+  "options": {
+   "A": "-1",
+   "B": "5",
+   "C": "+7",
+   "D": "+1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-4",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 4,
+  "question": "Which of the following hydrogen halides has the highest entropy value?",
+  "options": {
+   "A": "HBr",
+   "B": "HF",
+   "C": "Hl",
+   "D": "HCl"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-5",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 5,
+  "question": "The mass of silver deposited when a current of 10A is passed through a solution of silver salt for 4830s",
+  "options": {
+   "A": "54.0 g",
+   "B": "27.0 g",
+   "C": "13.5 g",
+   "D": "108.0 g [Ag = 108, F = 96500 C mol⁻¹]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-6",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 6,
+  "question": "Which of the following acts as both a reducing and",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-7",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 7,
+  "question": "Which of the following shows little or not net reaction when the volume of the system is decreased?",
+  "options": {
+   "A": "2O₃₍g₎ 3O₂₍g₎",
+   "B": "H₂₍g₎ + l₂₍g₎ 2Hl₍g₎",
+   "C": "2NO₂₍g N2O₄₍g₎",
+   "D": "PCl₅₍g PCl₃₍g₎ + Cl₂₍g 2CO + O ₂ 2CO ₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-8",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 8,
+  "question": "Given that H [CO] is – 110.4 kJmol⁻¹ and H[CO ₂] is –393o kJmol⁻¹, the energy change for the reaction above is",
+  "options": {
+   "A": "-282.6 kJ",
+   "B": "+503.7 kJ",
+   "C": "–503.7 kJ",
+   "D": "+282.6 kJ ZnO + CO Zn + CO₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-9",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 9,
+  "question": "In the reaction above, Zinc has been",
+  "options": {
+   "A": "displaced",
+   "B": "oxidized",
+   "C": "reduced",
+   "D": "decomposed."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-10",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 10,
+  "question": "What volume of gas is evolved at s.t.p. if 2g of Calcium trioxocarbonate(iv) is added to a solution of hydrochloric acid?",
+  "options": {
+   "A": "224 cm³",
+   "B": "112 cm³",
+   "C": "2240 cm³",
+   "D": "448 cm³ [Ca = 40, C=12, O=16, Cl =35.5, H= 1, Molar volume of a gas at s.t.p =22.4 dm³]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-11",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 11,
+  "question": "A chemical reaction is always associated with",
+  "options": {
+   "A": "a change in the nature of the reactants",
+   "B": "the formation of new substances"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-12",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 12,
+  "question": "When a solid substance disappears completely as a gas on heating, the substance is said to have undergone.",
+  "options": {
+   "A": "sublimation",
+   "B": "crystallization",
+   "C": "distillation",
+   "D": "evaporation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-13",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 13,
+  "question": "If a solution contains 4.9g of tetraoxosulphate (V1) acid, calculate the amount of copper (11) oxide that will react with it",
+  "options": {
+   "A": "40.0 g",
+   "B": "80.0 g",
+   "C": "0.8 g",
+   "D": "4.0 g [Cu = 64, O =16, S =32, H =1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-14",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 14,
+  "question": "Vulcanization involves the removal of",
+  "options": {
+   "A": "the single bond",
+   "B": "a double bond",
+   "C": "a polymer",
+   "D": "a monomer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-15",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 15,
+  "question": "The alkyl group can be represented by the general formula.",
+  "options": {
+   "A": "CₙH₂ₙ",
+   "B": "CₙH₂ₙ₋₂",
+   "C": "CₙH₂ₙ₊₁",
+   "D": "CₙH₂ₙ₊₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-16",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 16,
+  "question": "C H OH Conc. H Y ₂ ₅ ₍ₐq₎ ₂SO₄ 180oC In the reaction above, Y represent",
+  "options": {
+   "A": "C₂H₅ COOH",
+   "B": "CH₄",
+   "C": "CH₃ OCH₃",
+   "D": "C₂H₄"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-17",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 17,
+  "question": "In the production of soap, concentrated sodium chloride is added to",
+  "options": {
+   "A": "saponify the soap",
+   "B": "emulsify the soap",
+   "C": "decrease the solubility of the soap",
+   "D": "increase the solubility of the soap"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-18",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 18,
+  "question": "Oxyacetylene flame is used for 1ron-welding because it",
+  "options": {
+   "A": "evolves a tot heat when burnt",
+   "B": "dissociates to produce carbon (1V) oxide and oxygen",
+   "C": "makes the iron metal solidify very quickly combines with oxygen give a pop sound."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-19",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 19,
+  "question": "Which of these reagents can confirm the presence of a triple bond?",
+  "options": {
+   "A": "Bromine gas",
+   "B": "Bromine water",
+   "C": "Acidified KMnO₄ Copper (1) chloride"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-20",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 20,
+  "question": "H CH₃ H₃C - C - C -CH₂ - CH₂₋CH₃ CH₃ H The IUPAC nomenclature of the compound above is",
+  "options": {
+   "A": "3,4 -dimethylhexane",
+   "B": "2,3 –dimethylhexane",
+   "C": "2 – ethylhexane",
+   "D": "2 – ethylpentane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-21",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 21,
+  "question": "An isomer of C₅ H₁₂ is",
+  "options": {
+   "A": "2 –ethyl butane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-22",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 22,
+  "question": "Alkanol + Alkanoic acid Ester + Water The reverse reaction of the equation above is known as.",
+  "options": {
+   "A": "saponification",
+   "B": "hydrolysis",
+   "C": "fermentation",
+   "D": "hydration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-23",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 23,
+  "question": "CH₃ COOH₍g₎ CH₄₍g₎ + CO₂₍g₎ The reaction above is",
+  "options": {
+   "A": "acidification",
+   "B": "esterification",
+   "C": "decarboxylation D.carboxylation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-24",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 24,
+  "question": "A characteristic of the alkane family is",
+  "options": {
+   "A": "substitution reaction",
+   "B": "neutralization reaction",
+   "C": "addition reaction",
+   "D": "elimination reaction."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-25",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 25,
+  "question": "Pollution of underground water by metal ions is very likely in a soil that has high",
+  "options": {
+   "A": "alkalinity",
+   "B": "nitrate content",
+   "C": "acidity",
+   "D": "chloride content"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-26",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 26,
+  "question": "The solubility in mol dm⁻³ of 20g of CuSO₄ dissolved in 100g of water at 180oC is",
+  "options": {
+   "A": "0.25",
+   "B": "0.13",
+   "C": "2.00",
+   "D": "1.25 [Cu = 64, S =32, O = 16]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-27",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 27,
+  "question": "Which of these compounds is a normal salt?",
+  "options": {
+   "A": "Na₂CO₃",
+   "B": "NaHCO₃",
+   "C": "NaHSO₄",
+   "D": "NaHS"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-28",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 28,
+  "question": "A carcinogenic substance is",
+  "options": {
+   "A": "nitrogen (ll) oxide",
+   "B": "carbon (ll) oxide",
+   "C": "asbestos dust",
+   "D": "sawdust."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-29",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 29,
+  "question": "What volume of 0.5mol dm⁻³ H ₂S O ₄w ill exactly neutralize 20 cm⁻³ of 0.1mol dm⁻³NaOH solution?",
+  "options": {
+   "A": "5.0 cm⁻³",
+   "B": "6.8 cm⁻³",
+   "C": "8.3 cm⁻³",
+   "D": "2.0 cm⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-30",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 30,
+  "question": "Calcium tetraoxosulphate (V1) dissolves in water only sparingly to form a",
+  "options": {
+   "A": "colloid",
+   "B": "solution",
+   "C": "suspension",
+   "D": "precipitate 31 Hardness of water is caused by the presence of the ions of"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-32",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 32,
+  "question": "It is difficult to achieve an orderly arrangement of the molecules of a gas because they.",
+  "options": {
+   "A": "can collide with one another in the container",
+   "B": "are too small in size",
+   "C": "have little force of attraction between them"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-33",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 33,
+  "question": "The shape of the s-orbital is",
+  "options": {
+   "A": "elliptical",
+   "B": "spiral",
+   "C": "circular",
+   "D": "spherical"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-34",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 34,
+  "question": "Which of the following mixtures of gases is likely to burn in flame?",
+  "options": {
+   "A": "Helium and neon",
+   "B": "Neon and nitrogen",
+   "C": "Neon and hydrogen",
+   "D": "Nitrogen and helium"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-35",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 35,
+  "question": "The property of chlorine which cause hydrogen chloride to be more ionic than the chlorine molecule is its.",
+  "options": {
+   "A": "electronegativity",
+   "B": "electropositivity",
+   "C": "electron affinity",
+   "D": "electrovalency."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-36",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 36,
+  "question": "In the experiment above, X is mixture of nitrogen, carbon 1V) oxide and",
+  "options": {
+   "A": "oxygen",
+   "B": "inert gas",
+   "C": "water",
+   "D": "impurities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/2004_p71_1.png",
+  "images": [
+   "chemistry/2004_p71_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-2004-37",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 37,
+  "question": "A given volume of methane diffuses in 20s. How long will it take same volume of sulphur (V1) oxide to diffuse under the same conditions?",
+  "options": {
+   "A": "40s",
+   "B": "60s",
+   "C": "20s",
+   "D": "5s [C=12, H=1, S=32, O=16]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-38",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 38,
+  "question": "Chlorine consisting of two isotopes of mass numbers 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotope of mass number 37.",
+  "options": {
+   "A": "60",
+   "B": "20",
+   "C": "75",
+   "D": "25"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-39",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 39,
+  "question": "An electron can be added to a halogen atom to form a halide ion with",
+  "options": {
+   "A": "8 valence electrons",
+   "B": "7 valence electron",
+   "C": "2 valence electrons",
+   "D": "3 valence electrons"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-40",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 40,
+  "question": "²₈²₈⁶ Ra ₈₆x Rn + alpha - particle",
+  "options": {
+   "A": "226",
+   "B": "220",
+   "C": "227",
+   "D": "222"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-41",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 41,
+  "question": "According to Charles’ law, the volume of a gas becomes zero at",
+  "options": {
+   "A": "-100oC",
+   "B": "-273oC",
+   "C": "-373oC",
+   "D": "0 oC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-42",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 42,
+  "question": "When steam is passed over red-hot carbon, the substances produced are",
+  "options": {
+   "A": "hydrogen and carbon(11) oxide",
+   "B": "hydrogen and carbon(1V) oxide",
+   "C": "hydrogen and trioxocarbonate (1V) acid",
+   "D": "hydrogen, oxygen and carbon (1V) oxide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-43",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 43,
+  "question": "Aluminum hydroxide is used in the dyeing industry as a",
+  "options": {
+   "A": "dye",
+   "B": "dispersant",
+   "C": "salt",
+   "D": "mordant"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-44",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 44,
+  "question": "Transition metals possess variable oxidation states because they have.",
+  "options": {
+   "A": "electrons in the s orbitals",
+   "B": "electrons in the d orbitals",
+   "C": "partially filled p orbitals",
+   "D": "a variable number of electrons in the p orbitals."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-45",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 45,
+  "question": "The allotrope of carbon used in the decolourization of sugar is",
+  "options": {
+   "A": "soot",
+   "B": "lampblack",
+   "C": "graphite",
+   "D": "charcoal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-46",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 46,
+  "question": "Carbon is tetravalent because",
+  "options": {
+   "A": "the 2s and 2p atomic orbital hybridized",
+   "B": "all the atomic orbitals of carbon hybridize",
+   "C": "the electrons in all the orbital of carbon are equivalent",
+   "D": "the electrons in both the 2s and 2p orbital are equivalent."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-47",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 47,
+  "question": "Sodium metal is always kept under oil because it",
+  "options": {
+   "A": "is reduced by atmospheric nitrogen",
+   "B": "readily reacts with water",
+   "C": "reacts with oxygen and carbon(1V)oxide",
+   "D": "reacts vigorous on exposure to air."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-48",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 48,
+  "question": "Alloys are best prepared by",
+  "options": {
+   "A": "cooling a molten mixture of the metals",
+   "B": "reducing a mixture of their metallic oxides",
+   "C": "arc-welding",
+   "D": "electroplating"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-49",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 49,
+  "question": "Sulphur (1V) oxide bleaches by",
+  "options": {
+   "A": "hydration",
+   "B": "reduction",
+   "C": "absorption",
+   "D": "oxidation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-50",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 50,
+  "question": "Which of the following gases can be collected by the method of downward delivery?",
+  "options": {
+   "A": "Oxygen",
+   "B": "Hydrogen",
+   "C": "Chlorine",
+   "D": "Ammonia"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

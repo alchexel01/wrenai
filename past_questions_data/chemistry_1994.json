@@ -1,0 +1,919 @@
+[
+ {
+  "id": "chemistry-1994-1",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 1,
+  "question": "A mixture of sand, ammonium chloride and sodium chloride is best separated by",
+  "options": {
+   "A": "sublimation followed by addition of water and filtration",
+   "B": "sublimation followed by addtion of water and evaporation",
+   "C": "addition of water followed by filtration and sublimation",
+   "D": "addition odf water followed by crystallization and sublimation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-2",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 2,
+  "question": "A pure solid usually melts",
+  "options": {
+   "A": "over a wide range of temperature",
+   "B": "over a narrow range of temperature",
+   "C": "at a lower temperature than the impure one",
+   "D": "at the same temperature as the impure one. 3 At the same temperature and pressure, 50 cm³ of nitrogen gas contains the same number of molecules"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-4",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 4,
+  "question": "8 g CH ₄o ccupies 11.2dm³ at s.t.p. What volume would 22 g of CH₃CH₂CH occupy under the sme condition?",
+  "options": {
+   "A": "3.7 dm³",
+   "B": "11.2 dm³ ₃ ₃",
+   "C": "22.4 dm",
+   "D": "33.6 dm [ C= 12, H =1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-5",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 5,
+  "question": "To what temperature must a gas 273 K be heated in order to double both its volume and pressure?",
+  "options": {
+   "A": "298 K",
+   "B": "546 K"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-6",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 6,
+  "question": "For a gas, the relative molecular mass is equal to 2Y. What is Y?",
+  "options": {
+   "A": "The mass of the gas",
+   "B": "The vapour density of the gas",
+   "C": "The volume of the gas",
+   "D": "The temperature of the gas"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-7",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 7,
+  "question": "The densities of two gases, X and Y are 0.5 g dm⁻³ and 2.0 g dm⁻³ respectively. What is the rate of diffusion of X relative to Y?",
+  "options": {
+   "A": "0.1",
+   "B": "0.5",
+   "C": "2.0",
+   "D": "4.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-8",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 8,
+  "question": "An increase in temperature curves causes an increase in the pressure of a gas because",
+  "options": {
+   "A": "it decreases the number of Collision between the molecules",
+   "B": "the molecules of the gas bombard the walls of the container more frequently",
+   "C": "it increase the number of Collision between the molecules",
+   "D": "it causes the molecules to combine"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-9",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 9,
+  "question": "The shape of ammonia molecules is",
+  "options": {
+   "A": "trigonal planar",
+   "B": "octahedral",
+   "C": "square planar",
+   "D": "tetrahedral."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-10",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 10,
+  "question": "The number of electrons in the valence shell of an element of atomic number 14 is",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-11",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 11,
+  "question": "Which of the following physical properties decreases down a group ion the periodic table?",
+  "options": {
+   "A": "Atomic radius",
+   "B": "Ionic radius",
+   "C": "Electropositivity",
+   "D": "Electronegativity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-12",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 12,
+  "question": "Nucleus An Electron The diagram above represents atom of",
+  "options": {
+   "A": "Mangnesium",
+   "B": "Helium",
+   "C": "Chlorine",
+   "D": "Neon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1994_p41_2.png",
+  "images": [
+   "chemistry/1994_p41_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1994-13",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 13,
+  "question": "Elements X, Y and Z belongs to groups 1,V and V11 respectively. Which of the following is TRUE about the bond types of XZ and YZ",
+  "options": {
+   "A": "Both are electrovalent",
+   "B": "Both are covalent",
+   "C": "XY is electrovalent and YZ₃ is covalent",
+   "D": "XZ is covalent and YZ₃ is electrovalent."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-14",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 14,
+  "question": "Which of the following atoms represents deuterium? ‘ No of No of No of protons neutrons electrons",
+  "options": {
+   "A": "1 0 0",
+   "B": "1 0 1",
+   "C": "1 1 1",
+   "D": "1 2 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1994_p41_1.png",
+  "images": [
+   "chemistry/1994_p41_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1994-15",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 15,
+  "question": "The set-up above would be useful for determining the amount of",
+  "options": {
+   "A": "Oxygen in air",
+   "B": "Water vapour in air",
+   "C": "CO₂ in air",
+   "D": "Argon in air."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-16",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 16,
+  "question": "A solid that absorbs water from the atmosphere and forms an aqueous solution is",
+  "options": {
+   "A": "hydrophilic"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-17",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 17,
+  "question": "A major effect of oil pollution in coastal water is the",
+  "options": {
+   "A": "destruction of marine life",
+   "B": "desalination of water",
+   "C": "increase in the acidity of the water",
+   "D": "detoxification of the water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-18",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 18,
+  "question": "Sodium chloride has no solubility product value because of its.",
+  "options": {
+   "A": "saline nature",
+   "B": "high solubility",
+   "C": "low solubility",
+   "D": "insolubility"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-19",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 19,
+  "question": "The solubility in moles per dm³ of 20.2g of potassium trioxonitrate (V) dissolved in 100g of water at room temperature is",
+  "options": {
+   "A": "0.10",
+   "B": "0.20",
+   "C": "1.00",
+   "D": "2.00 [K = 39, O = 16, N = 14]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-20",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 20,
+  "question": "A few drops of concentrated PCl are added to about 10cm³ of a solution of pH 3.4. The pH of the resulting mixture is",
+  "options": {
+   "A": "less than 3.4",
+   "B": "greater than 3.4",
+   "C": "unaltered",
+   "D": "the same as that of pure water"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-21",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 21,
+  "question": "Which of the following compounds is a base?",
+  "options": {
+   "A": "CO₂",
+   "B": "CaO",
+   "C": "H₃PO₃",
+   "D": "CH₃COOH"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-22",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 22,
+  "question": "20cm³ of a 2.0 M solution of ethanoic acid was added to excess of 0.05 M sodium hydroxide. The mass of the salt produced is",
+  "options": {
+   "A": "2.50 g",
+   "B": "2.73 g",
+   "C": "3.28 g",
+   "D": "4. 54 g [Na = 23, C =12, O = 16, H = 1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-23",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 23,
+  "question": "What volume of oxygen measured at s.t.p would be liberated on electrolysis by 9650 coulombs of electricity?",
+  "options": {
+   "A": ".......... 22.4 dm3",
+   "B": "......................11.2 dm³",
+   "C": "......................1.12 dm³",
+   "D": "............... 0.560 dm³ [Molar Volume of gas = 22.4 dm3, F = 96,500 C mol-1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-24",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 24,
+  "question": "Crude copper could be purified by the electrolysis of concentrated copper911) chloride if the crude copper",
+  "options": {
+   "A": "made both the anode and the cathode",
+   "B": "made the cathode",
+   "C": "made the anode"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-25",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 25,
+  "question": "H⁻(s) + H₂ O(1) H₂ ( g) + OH⁻(aq). From the equation above, it can be inferred that the",
+  "options": {
+   "A": "reaction is a double decomposition",
+   "B": "hydride ion is reducing agent",
+   "C": "hydride ion is an oxidizing agent",
+   "D": "reaction is neutralization."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-26",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 26,
+  "question": "The H for the reaction represented by the energy profile above is",
+  "options": {
+   "A": "-100 kJ mol⁻¹",
+   "B": "+100 kJ mmol⁻¹",
+   "C": "+50kJ mol⁻¹",
+   "D": "–50 kJ mol⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1994_p42_1.png",
+  "images": [
+   "chemistry/1994_p42_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1994-27",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 27,
+  "question": "An anhydride is an oxide of a non-metal.",
+  "options": {
+   "A": "Which will not dissolve in water",
+   "B": "whose solution water has pH greater than7",
+   "C": "whose solution in water has a pH less than 7",
+   "D": "whose solution in ware has a pH of 7 ₊ ₂₊ ₂₊ ₃₊"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-28",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 28,
+  "question": "MnO₄ (aq) + 8H (aq) + Fe (aq) Mn (aq) +5Fe + 4H₂O(1). The oxidation number of manganese in the above reaction change from",
+  "options": {
+   "A": "+7 to +2",
+   "B": "+6 to +2",
+   "C": "+5 to +2",
+   "D": "+4 to +2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-29",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 29,
+  "question": "In the diagram above, the activation energy is represented by",
+  "options": {
+   "A": "y-x",
+   "B": "x",
+   "C": "x-z",
+   "D": "y"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1994_p42_2.png",
+  "images": [
+   "chemistry/1994_p42_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1994-30",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 30,
+  "question": "Which of the following is TRUE of Le Chatelier ’s principle for an exothermic reaction?",
+  "options": {
+   "A": "Increase in temperature will cause an increase in equilibrium constant",
+   "B": "Increase in temperature will cause a decrease in the equilibrium constant",
+   "C": "Addition of catalyst will cause an increase in the equilibrium constant."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-31",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 31,
+  "question": "Which of the following are produced when ammonium trioxonirate(V) crystals are cautiously heated in a hard glass round bottomed flask?",
+  "options": {
+   "A": "N₂O and steam",
+   "B": "NO₂ and ammonia",
+   "C": "N₂O₄ and NO₂",
+   "D": "NO and NO₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-32",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 32,
+  "question": "2HCl(aq) + CaCO₃(s) CaCl₂(aq) + H2O(10 + CO₂g). From the reaction above, which of the following curves represents the consumption of calcium trioxocarbonate(lV) as dilute HCl is added to it?",
+  "options": {
+   "A": "L",
+   "B": "M",
+   "C": "N",
+   "D": "P"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1994_p42_4.png",
+  "images": [
+   "chemistry/1994_p42_4.png"
+  ]
+ },
+ {
+  "id": "chemistry-1994-33",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 33,
+  "question": "In the diagram above, R is a mixture of",
+  "options": {
+   "A": "potassium tetraoxochlorate(Vii) and concentrated H₂SO₄",
+   "B": "potassium tetraoxomanganate (vii) and concentrated HCl",
+   "C": "manganese(1V) oxide and concentrated HCl",
+   "D": "manganese (1V) oxide and concentrated HCl"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1994_p42_3.png",
+  "images": [
+   "chemistry/1994_p42_3.png"
+  ]
+ },
+ {
+  "id": "chemistry-1994-34",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 34,
+  "question": "Which of these metals CANNOT replace hydrogen from alkaline solutions?",
+  "options": {
+   "A": "Aluminium",
+   "B": "Zinc",
+   "C": "Tin",
+   "D": "Iron"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-35",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 35,
+  "question": "Clothes should be properly rinsed with water after bleaching because",
+  "options": {
+   "A": "the bleach decolourizes the clothes",
+   "B": "chlorine reacts with fabrics during bleaching",
+   "C": "the clothes are sterilized during bleaching",
+   "D": "hydrogen chloride solution is produced during bleaching."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-36",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 36,
+  "question": "Which of these solutions will give a white precipate with a solution of barium chloride acidified with hydrochloride acid?",
+  "options": {
+   "A": "Sodium trioxocarbonate(1V)",
+   "B": "Sodium tetraoxosulphate",
+   "C": "Sodium trioxosulphate (1V)",
+   "D": "Sodium sulphides"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-37",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 37,
+  "question": "SO₃ is NOT directly dissolved in water in the preparation of H₂SO₄ by the contact process because.",
+  "options": {
+   "A": "the reaction between SO3 and water is violently exotheremic",
+   "B": "acid is usually added to water and never water to acid",
+   "C": "SO₃ is an acid not dissolve in water readily",
+   "D": "SO₃ is an acid gas."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-38",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 38,
+  "question": "In an electrolytic set-up to protect iron from corrosion, the iron is",
+  "options": {
+   "A": "made the cathode",
+   "B": "made the anode",
+   "C": "used with a metal of lower electropositive potential",
+   "D": "initially coated with tin"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-39",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 39,
+  "question": "Which of the following is NOT true of metals?",
+  "options": {
+   "A": "They are good conductors of electricity",
+   "B": "They ionize by electron loss",
+   "C": "Their oxides are acidic",
+   "D": "They have high melting points."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-40",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 40,
+  "question": "Which of the following is the correct order of decreasing activity of the metal Fe, Ca, Al and Na?",
+  "options": {
+   "A": "Fe > Ca > Al > Na",
+   "B": "Na > Ca > Al > Fe",
+   "C": "Al > Fe > Na > Ca",
+   "D": "Ca > Na > Fe > Al."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-41",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 41,
+  "question": "H CH₃ H H H¯C ¯ C¯ C P- C H CH3 The IUPAC name of the compound above is",
+  "options": {
+   "A": "2,2-dimethyl but-1-yne",
+   "B": "2,2-dimethyl but-1-ene",
+   "C": "3,3-dimethyl but-1-ene",
+   "D": "3,3-dimethyl but-1-yne"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-43",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 43,
+  "question": "When sodium is added to ethanol, the products are",
+  "options": {
+   "A": "sodium hydroxide and water",
+   "B": "sodium hydroxide and hydrogen",
+   "C": "sodium ethnocide and water",
+   "D": "sodium ethnocide and hydrogen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-44",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 44,
+  "question": "The general formula of alkanones is",
+  "options": {
+   "A": "RCHO",
+   "B": "R₂CO"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-45",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 45,
+  "question": "When sodium ethanoate is treated with a few drops of concentrated tetraoxosulphate(V1) acid one of the products is",
+  "options": {
+   "A": "CH₃COOH",
+   "B": "CH₃COOH₃",
+   "C": "CH₃COOC₂H₅",
+   "D": "C2H₄COOCH"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-46",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 46,
+  "question": "One mole of a hydrocarbon contains 48 g of carbon. If its vapour density is 28, the hydrocarbon is",
+  "options": {
+   "A": "an alkane",
+   "B": "an alkene",
+   "C": "an alkyne",
+   "D": "aromatic [C= 12, H = 1] Use the diagram below to answer questions 47 and 48."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-47",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 47,
+  "question": "The reaction taking place in flask G is known as",
+  "options": {
+   "A": "hydrolysis",
+   "B": "double decomposition",
+   "C": "dehydration",
+   "D": "pyrolysis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1994_p43_1.png",
+  "images": [
+   "chemistry/1994_p43_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1994-48",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 48,
+  "question": "The caustic soda solution in the conical flask serves to",
+  "options": {
+   "A": "dry ethene",
+   "B": "remove carbon (1V) oxide from ethene",
+   "C": "remove carbon (11) oxide from ethene",
+   "D": "remove sulphur (1V0 oxide from ethene."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-49",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 49,
+  "question": "Which of the following orbital of carbon are mixed with hydrogen in methane?",
+  "options": {
+   "A": "1s and 2p",
+   "B": "1s and 2s",
+   "C": "2s and 2p",
+   "D": "2s and 3p"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-50",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 50,
+  "question": "Which of the following reagents will confirm the presence of instaurations in a compound?",
+  "options": {
+   "A": "Fehling’s solution",
+   "B": "Bromine water",
+   "C": "Tollen’s reagent",
+   "D": "Benedict’s solution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

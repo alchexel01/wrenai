@@ -1,0 +1,992 @@
+[
+ {
+  "id": "chemistry-1983-1",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 1,
+  "question": "X is crystalline salt of sodium. Solution of X in water turns litmus red produces a gas which turns lime water milky when added to sodium carbonate. With barium chloride solution, X gives a white precipitate which is insoluble in dilute hydrochloric acid. X is",
+  "options": {
+   "A": "Na₂,CO₃",
+   "B": "NaHCO₃ C NaHSO₄ D Na₂SO₃",
+   "E": "Na₂SO₄"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-2",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 2,
+  "question": "The alkanol obtained from the production of soap is",
+  "options": {
+   "A": "ethanol",
+   "B": "glycerol",
+   "C": "methanol",
+   "D": "propanol",
+   "E": "glycol"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-3",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 3,
+  "question": "The flame used by welders in cotton metals is",
+  "options": {
+   "A": "butane gas flame",
+   "B": "acetylene flame",
+   "C": "kerosene flame",
+   "D": "oxy-acetylene flame",
+   "E": "oxygen flame"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-4",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 4,
+  "question": "Consecutive members of an alkane homologous series differ by",
+  "options": {
+   "A": "CH",
+   "B": "CH₂",
+   "C": "CH₃",
+   "D": "CₙHₙ",
+   "E": "CnH₂ₙ₊₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-5",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 5,
+  "question": "If an element has the lectronic configuration 1s²2s² 2p ₆ 3s₂ 3p₂, it is",
+  "options": {
+   "A": "a metal",
+   "B": "an alkaline earth metal",
+   "C": "an s-block element",
+   "D": "a p-block element",
+   "E": "a transition element"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-6",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 6,
+  "question": "Some copper (11) sulphate pentahydrate (CuSO₄5H₂O), was heated at 120oC with the following results: Wt of crucible = 10.00 g; Wt of crucible + CuSO₄5H₂O= 14.98g; Wt of crucible + residue = 13.54g. How many molecules of water of crystallization were lost? [H=1, Cu =63.5, O=16, S= 32]",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-7",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 7,
+  "question": "The three-dimensional shape of methane is",
+  "options": {
+   "A": "hexagonal",
+   "B": "tigonal",
+   "C": "linear",
+   "D": "tertrahedral",
+   "E": "cubical Question 8-10 are based on the following An unknown organic compound X has a relative molecular mass of 180. It is a colourless crystalline solid, readily soluble in water. X contains the element C, H, sweet taste and melts on heating. In the presence of yeast and in the absence of air X is converted to compound Y in the absence of air, X is converted to compound Y and colourless gas. Compound Y reacts with sodium metal to produce a gas Z which gives a ‘pop’ sound with a glowing splint. Y also reacts with ethanoic acid to give a sweet smelling compound W."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-8",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 8,
+  "question": "Compound W is",
+  "options": {
+   "A": "a soap",
+   "B": "an oil",
+   "C": "an alkane",
+   "D": "an ester",
+   "E": "sucrose"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-9",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 9,
+  "question": "The molecular formula of X is",
+  "options": {
+   "A": "C ₁H₂ ₂O₂ ₁₁",
+   "B": "C ₆H ₁₂ O₆",
+   "C": "C ₃H ₆ O ₃",
+   "D": "C ₇H ₁₄ O₇",
+   "E": "C₄ H 3O ₄"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-10",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 10,
+  "question": "reaction of X with yeast forms the basic of the",
+  "options": {
+   "A": "plastic industry",
+   "B": "textile industry",
+   "C": "brewing industry",
+   "D": "soap industry",
+   "E": "dyeing industry."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-11",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 11,
+  "question": "A mixture of common salt, ammonium chloride and barium sulphate can best be separated by",
+  "options": {
+   "A": "addition of water followed by filtration then sublimation",
+   "B": "addition of water followed by sublimation then filtration",
+   "C": "sublimation followed by addition of water then filtration",
+   "D": "fractional distillation",
+   "E": "fractional crystallization."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-12",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 12,
+  "question": "Which of the following relationships between the pressure P, the volume V and the temperature T, represents and ideal gas behaviors?",
+  "options": {
+   "A": "P & VT",
+   "B": "P & T/V",
+   "C": "PT & V",
+   "D": "PV & VT",
+   "E": "P & V/T"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-13",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 13,
+  "question": "In the above experiment (fig1) the litmus paper will initially",
+  "options": {
+   "A": "be bleached",
+   "B": "turn green"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1983_p2_1.png",
+  "images": [
+   "chemistry/1983_p2_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1983-14",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 14,
+  "question": "The colour imparted to a flame by calcium ion",
+  "options": {
+   "A": "green",
+   "B": "blue",
+   "C": "brick-red",
+   "D": "yellow",
+   "E": "lilac"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-15",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 15,
+  "question": "In the reaction M + N P; H = + Q kJ. Which of the following would increase the concentration of the product?",
+  "options": {
+   "A": "Decreasing the concentration of N",
+   "B": "Increasing the concentration of P",
+   "C": "Adding a suitable catalyst.",
+   "D": "Decreasing the temperature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-16",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 16,
+  "question": "In which of the following processes is iron being oxidized? 1. Fe + H₂SO₄ H₂ + FeSO₄ 2. FeSO₄+ H₂S FeS + H₂SO₄ 3 FeCl + CI₂ 2FeCL₃ 4 FeCl₃ + SnCI₂ 2FeCL₂ + SnCI₄",
+  "options": {
+   "A": "1 only",
+   "B": "2 only",
+   "C": "3 only",
+   "D": "1 and 3",
+   "E": "2 and 4."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1983_p3_1.png",
+  "images": [
+   "chemistry/1983_p3_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1983-17",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 17,
+  "question": "In the above experiment (fig.2), a current was passed for 10 minutes and 0.63 g of copper was found to be deposited on the cathode of CuSO₄ cells. The weight of AgNO₃ cell during the same period would be [Cu = 63, Ag –108]",
+  "options": {
+   "A": "0.54 g",
+   "B": "1.08 g",
+   "C": "1.62 g",
+   "D": "2.16 g",
+   "E": "3.24 g"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-18",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 18,
+  "question": "In the reaction Fe + Cu²⁺ Fe²⁺ + Cu, iron displaces copper ions to form copper. This is due to the fact that",
+  "options": {
+   "A": "iron is in the metallic form while dthe copper is in the ionic form",
+   "B": "the atomic weight of copper is greater than that of ion",
+   "C": "copper metal has more electrons than ion metal",
+   "D": "iron is an inert metal",
+   "E": "iron is higher in the electrochemical series than copper."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-19",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 19,
+  "question": "C₂H₅ C =CH₂ CH₃ The correct name of the compound with the above structural formula is",
+  "options": {
+   "A": "2-methylbut-1-ene",
+   "B": "2-methylbut-2-ene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-20",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 20,
+  "question": "How many isomeric forms are there for the molecular formula C₃H₆Br₂?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-21",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 21,
+  "question": "A piece of burning sulphur will continue to burn in a gas jar of oxygen to give misty fumes which readily dissolve in water. The resulting liquid is",
+  "options": {
+   "A": "sulphur (1V) trioxide",
+   "B": "Tetraoxosulphate acid (V1)",
+   "C": "Trioxosulphate (1V) acid",
+   "D": "Dioxosulphate (11) acid",
+   "E": "Hydrogen sulphide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-22",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 22,
+  "question": "Sodium decahydrate (Na₂SO₄ 10H₂O) an exposure to air loses all its water of crystallization. The process of loss is known as",
+  "options": {
+   "A": "Efflorescence",
+   "B": "Hygroscopy",
+   "C": "Deliquescence",
+   "D": "Effervescence",
+   "E": "Dehydration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-23",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 23,
+  "question": "Which of the following happens during the electrolysis of molten sodium chloride?",
+  "options": {
+   "A": "Sodium ion loses an electron",
+   "B": "Chlorine atom gains an electron",
+   "C": "Chloride ion gains an electron",
+   "D": "Sodium ion is oxidized",
+   "E": "Chloride ion is oxidized."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-24",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 24,
+  "question": "Crude petroleum pollutant usually seen on some Nigeria creeks and waterways can be dispersed or removed by.",
+  "options": {
+   "A": "heating the affected parts order to boil off the petroleum",
+   "B": "mechanically stirring to dissolve the petroleum in water",
+   "C": "pouring organic solvents to dissolve the petroleum",
+   "D": "spraying the water with detergents",
+   "E": "cooling to freeze out the petroleum."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-25",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 25,
+  "question": "An element is electronegative if",
+  "options": {
+   "A": "it has a tendency to exist in the gaseous form",
+   "B": "its ions dissolve readily in water",
+   "C": "it has a tendency to lose electrons",
+   "D": "it has a tendency to gain electrons",
+   "E": "it readily forms covalent bonds"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-26",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 26,
+  "question": "Solution X,Y, and Z have pH values 3.0, 5.0 and 9.0 respectively. Which of the following statements is correct?",
+  "options": {
+   "A": "All the solution are acidic",
+   "B": "All solution are basic",
+   "C": "Y and Z are more acidic than water",
+   "D": "Y is more acidic than X.",
+   "E": "Z is the least acidic"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-27",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 27,
+  "question": "In the reactions (1) H2 (g) + 1 2 O₂(g) H ₂O(1); H =-2.86kJ",
+  "options": {
+   "A": "more heat is absorbed heat is evolved in (1)",
+   "B": "more heat is absorbed in (11)",
+   "C": "less heat is evolved in (1)",
+   "D": "reaction (11) proceeds faster than (1)",
+   "E": "reaction (1) proceeds faster than (11)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-28",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 28,
+  "question": "Which of these metals, Mg, Fe, Pb, and Cu will dissolve in dilute HCI?",
+  "options": {
+   "A": "All the metals",
+   "B": "Mgm Fe, and Cu",
+   "C": "Mg, Fem and Pb",
+   "D": "Mg and Fe only",
+   "E": "Mg only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-29",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 29,
+  "question": "Stainless steel is an alloy of",
+  "options": {
+   "A": "Carbon, iron and lead",
+   "B": "Carbon, ion and chromium",
+   "C": "Carbon iron and copper",
+   "D": "Carbon, iron and silver",
+   "E": "Carbon and iron only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-30",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 30,
+  "question": "What volume of 0.50 MH₂SO₄ will exactly neutralize 20cm³ of 0.1 M NaOH solution?",
+  "options": {
+   "A": "2.0 cm³",
+   "B": "5.0 cm³",
+   "C": "6.8 cm³",
+   "D": "8.3 cm³",
+   "E": "10.4 cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-31",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 31,
+  "question": "Which of the following pair of gases will NOT react further with oxygen at a temperature between 30oC and 400oC?",
+  "options": {
+   "A": "SO₂ and NH₃",
+   "B": "CO₂ and H₂",
+   "C": "NO₂ and SO₃",
+   "D": "SO₃ and NO",
+   "E": "CO and H²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-32",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 32,
+  "question": "Some metals are extracted from their ores after some preliminary treatments by electrolysis (L) some by thermal reaction(T) and some by a combination of both processes(TL). Which set-up in the following for the extraction of iron copper and aluminum is correct?",
+  "options": {
+   "A": "Iron (L), copper (L) m aluminum (T)",
+   "B": "Iron (T), copper (L), aluminum (T)",
+   "C": "Ion (TL), copper (TL), aluminium (TL)",
+   "D": "Iron (L), copper (T), aluminium (T).",
+   "E": "Ion (T), copper (L), aluminium (TL)."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-33",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 33,
+  "question": "In the preparation of some pure crystals of Cu (NO₃)₂ starting with CuO, a student gave the following statements as steps he employed. Which of these shows a flaw in his report?",
+  "options": {
+   "A": "Some CuO was reacted with excess dilute H₂SO₄",
+   "B": "The solution was concentrated",
+   "C": "When the concentrate was cooled, crystals formed were removed by filtration.",
+   "D": "The crystals were washed with very cold water",
+   "E": "The crystals were then allowed to dry."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-34",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 34,
+  "question": "Which of the following seperation processes is most likely to yield high quality ethanol (>95%) from palm wine?",
+  "options": {
+   "D": "Column chromatography",
+   "E": "Evaporation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-35",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 35,
+  "question": "Increasing the pressure of a gas",
+  "options": {
+   "A": "lowers the average kinetic energy of the molecules",
+   "B": "decreases the density of the gas",
+   "C": "decreases the temperature of the gas",
+   "D": "increases the density of the gas",
+   "E": "increases the volume of the gas."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-36",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 36,
+  "question": "2.5 g of a hydrated barium salt gave on heating, 2.13 g of the anhydrous salt. Given that the relative molecular mass of the anhydrous salt is 208, the number of molecules of water of crystallization of the barium salt",
+  "options": {
+   "A": "10",
+   "B": "7",
+   "C": "5",
+   "D": "2",
+   "E": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-37",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 37,
+  "question": "3.06 g of a sample of potassium trioxochlorate (v) (KCIO₃) was required to make a saturated solution with 10cm3 of water at 25oC. The solubility of the salt at 25oC is [K =39, CI =35.5, O=16]",
+  "options": {
+   "A": "5.0 moles dm³",
+   "B": "3.0 moles dm³",
+   "C": "2,5 moles dm³",
+   "D": "1.0 moles dm³",
+   "E": "0.5 moles dm₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-38",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 38,
+  "question": "The cracking process is very important in the petroleum industry because it",
+  "options": {
+   "A": "gives purer products",
+   "B": "Yields more lubricants",
+   "C": "Yields more engine fuels",
+   "D": "Yields more asphalt",
+   "E": "Yield more candle wax"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-39",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 39,
+  "question": "A gas that can behave as reducing agent towards chlorine and as an oxidizing agent toward hydrogen sulphide is",
+  "options": {
+   "A": "O₂",
+   "B": "NO",
+   "C": "SO₂",
+   "D": "NH₃",
+   "E": "CO₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-40",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 40,
+  "question": "Which if the following solution will give a white precipitate with barium chloride solution and a green flame test?",
+  "options": {
+   "A": "Na2SO₄",
+   "B": "CuSO4",
+   "C": "CaSO₄",
+   "D": "CaCI₂",
+   "E": "(NH₄)₂ SO₄"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-41",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 41,
+  "question": "The mass of an atom is determined by",
+  "options": {
+   "A": "its ionization potential",
+   "B": "its electrochemical potential",
+   "C": "the number of protons",
+   "D": "the number of neutrons and protons",
+   "E": "the number of neutrons and electrons"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-42",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 42,
+  "question": "Which of the following is neutralization reaction?",
+  "options": {
+   "A": "Addition of chloride solution",
+   "B": "Addition of trioxonirate (V) acid (nitric acid)",
+   "D": "Addition of trioxonirate (V) (potassium nitrate) solution",
+   "E": "Addition of trioxonirate (V) acid (nitric acid) potassium hydroxide solution."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-43",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 43,
+  "question": "A jet plane carrying 3,000 kg of ethane burns off all the gas forming water and carbondioxide. If all the carbondioxide is expelled and the water formed is condensed and kept on board the plane, then the gain in weight is",
+  "options": {
+   "A": "1,800 kg",
+   "B": "900 kg",
+   "C": "600 kg",
+   "D": "2,400 kg",
+   "E": "1,200kg"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-44",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 44,
+  "question": "Liquid X, reacts with sodium trioxocarbonate (IV) (Na₂CO₃) to give a gas which turns calcium chloride solution milky. X is",
+  "options": {
+   "A": "Na₂SO4 (aq)",
+   "B": "KI (ag)",
+   "C": "An alkali",
+   "D": "An acid",
+   "E": "A hydrocarbon."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-45",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 45,
+  "question": "Which of the following statements is FALSE?",
+  "options": {
+   "A": "copper (11) ion can be reduced to copper (1) ion by hydrochloric acid and zinc.",
+   "B": "Sodium metal dissolves in water giving oxygen",
+   "C": "Nitrogen is insoluble in water",
+   "D": "Carbondioxide is soluble in water",
+   "E": "Lead has a higher atomic weight than copper"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-46",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 46,
+  "question": "When sodium dioxonitrate (111) (HaNO₂ \\) dissolves is",
+  "options": {
+   "A": "Exothermic",
+   "B": "Endothermic",
+   "C": "Isothermic",
+   "D": "Isomeric",
+   "E": "Hydroscopic"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-47",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 47,
+  "question": "The equilibrium reaction between copper (1) chloride and chloride at 25oC and 1 atmosphere is represented by the equation: 2CuCI₂ + CI ₂ 2CuCI₂ H = -166kJ . Which of the following statement is TRUE for the reaction, pressure remaining constant.",
+  "options": {
+   "A": "More CuCI₂ i s formed at 40oC",
+   "B": "More CuCI₂ is formed at 10oC",
+   "C": "Less CuCI² is formed at 10oC D there is no change CuCI₂ formed at 40oC and 10oC",
+   "E": "More CuCI ₂i s consumed at 40oC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-48",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 48,
+  "question": "Zn + H²SO ₄ ZnCI ₂+ H ₂ The rate of the above reaction will be greatly increased if.",
+  "options": {
+   "A": "the zinc is in the powered form",
+   "B": "a greater volume of the acid is used",
+   "C": "a smaller volume of the acid is used",
+   "D": "the reaction vessel is immersed in an ice-bath",
+   "E": "the zinc is in the form of pellets."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-49",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 49,
+  "question": "Zn + H₂SO₄ ZnSO₄ + H₄ In the above reaction how much zinc will be left undissolve if 2.00 g of zinc treated with 10cm₃ of 1.0 M of H₂SO₄? [Zn =65, S=32, O = 16, H = 1]",
+  "options": {
+   "A": "1.35 g",
+   "B": "1.00 g",
+   "C": "0.70 g",
+   "D": "0.65 g",
+   "E": "0.06 g"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1983-50",
+  "subject": "chemistry",
+  "year": 1983,
+  "number": 50,
+  "question": "30cm3 of 0.1 M AI(NO3)3 solution is reacted with 100cm3 of 0.15M of NaOH solution. Which is in excess and by how much?",
+  "options": {
+   "A": "NaOH solution, by 70cm3",
+   "B": "NaOH solution, by 60cm3",
+   "C": "NaOH solution by 40cm3",
+   "D": "AI (NO³)³, solution by 20cm3",
+   "E": "AI (NO³)³ solution, by 10cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

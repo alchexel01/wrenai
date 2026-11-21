@@ -1,0 +1,853 @@
+[
+ {
+  "id": "chemistry-1997-1",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 1,
+  "question": "35 cm³ of hydrogen was sparked with 12cm³ of oxygen at 110o C and 760 mm Hg to produce steam. What percentage of the total volume gas left after the reaction is hydrogen",
+  "options": {
+   "A": "11%",
+   "B": "31%",
+   "C": "35%",
+   "D": "69%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-2",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 2,
+  "question": "2.85 g of an oxide of copper gave 2.52g of copper on reduction and 1.90 g of another oxide gave 1.52 g of copper on reduction. The data above illustrates the law of",
+  "options": {
+   "A": "constant composition",
+   "B": "conservation of mass Use the graph below to answer question 3 and 4 A sample, X, solid at room temperature, was melted, heated to a temprature of 358 K and allowed to cool as shown in OPQR."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1997_p47_1.png",
+  "images": [
+   "chemistry/1997_p47_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1997-3",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 3,
+  "question": "The section PQ indicate that X is",
+  "options": {
+   "A": "a mixture of salt",
+   "B": "a hydrated salt",
+   "C": "an ionic salt",
+   "D": "a pure compound. 4.. The section OP suggests that X is in the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-5",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 5,
+  "question": "An element, X, format a volatile hydride XH³ with a vapour density of 17.o. The relation mass of X is",
+  "options": {
+   "A": "34.0",
+   "B": "31.0",
+   "C": "20.0",
+   "D": "14.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-6",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 6,
+  "question": "A mixture of 0.20 mole of Ar, 0.20 mole of N² and 0.30 mole of He exerts a total pressure of 2.1 atm. The partial pressure of He in the mixture is",
+  "options": {
+   "A": "0.90 atm",
+   "B": "0.80 atm",
+   "C": "0.70 atm",
+   "D": "0.60 atm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-7",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 7,
+  "question": "If 30cm³ of oxygen diffuses through a porous plug in 7s, how long will it take 60 cm3 of chlorine to diffuse through the same plug",
+  "options": {
+   "A": "12 s",
+   "B": "14 s",
+   "C": "21 s",
+   "D": "30 s"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-8",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 8,
+  "question": "The temperature of a body decreases when drops of liquid placed on it evaporates because",
+  "options": {
+   "A": "the atmospheric vapour pressure has a cooling effect on the body",
+   "B": "a temperature gradient exists between the drops of liquid and the body",
+   "C": "the heat of vapourization is drawn from the bodycausing it to cool",
+   "D": "the random motion of the liquid molecules causes a cooling effect on the body."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-9",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 9,
+  "question": "The electron configuration of two elements with similar chemical properties are represented by",
+  "options": {
+   "A": "Is²2s² 2p⁵ and Is²2s²2p4",
+   "B": "Is²2s² 2p⁴ and Is²2s²2p⁶3s¹ C Is²2s²2p⁶3s¹ and Is²2sI"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-10",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 10,
+  "question": "In the periodic table, what is the property that decrease along the period and increases down the group",
+  "options": {
+   "A": "Atomic number",
+   "B": "Electron affinity.",
+   "C": "Ionization potential",
+   "D": "Atomic radius."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-11",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 11,
+  "question": "Two elements, P and Q with atomic numbers 11 and 8 respectively, combine chemically values of x and y are",
+  "options": {
+   "A": "1 and 1",
+   "B": "1 and 2",
+   "C": "2 and 1",
+   "D": "3 and 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-12",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 12,
+  "question": "Oxygen is a mixture of two isotopes ¹⁶₈ O and ¹⁸ ₈ O with relative abundance of 90% and 10% respectively. The relative atomic mass of oxygen",
+  "options": {
+   "A": "16.0",
+   "B": "16.2",
+   "C": "17.0",
+   "D": "18.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-13",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 13,
+  "question": "200cm³ of air was passed over heated copper in a syringe several times to produce copper (11) oxide. When cooled the final volume of air recorded was 158cm³. Estimate the percentage of oxygen in the air.",
+  "options": {
+   "A": "31%",
+   "B": "27%",
+   "C": "21%",
+   "D": "19%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-14",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 14,
+  "question": "Which of the following gases is the most dangerous pollutant",
+  "options": {
+   "A": "Hydrogen sulphide",
+   "B": "Carbon (1V) oxide",
+   "C": "Sulphur (1V) oxide",
+   "D": "Carbon (11) oxide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-15",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 15,
+  "question": "A major process involve in the softening of hard water is the",
+  "options": {
+   "A": "conversion of a soluble calcium salt to its trioxocarbonate (1V)",
+   "B": "decomposition of calcium trioxocarbonate (1V)",
+   "C": "conversion of an insoluble calcium salt to its trioxocrbonate (1V)",
+   "D": "oxidation of calcium atom to its ions."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-16",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 16,
+  "question": "On recrystallization, 20g of magnesium tetraoxosulphate (V1) forms 41 g of magnesium tetraoxosulphate (1V) crystals, MgSO₄.yH₂O. The value of y is",
+  "options": {
+   "A": "1",
+   "B": "3",
+   "C": "5",
+   "D": "7 (Mg = 24, S=32, O=16, H= 1) 17 A satyrated solution of AgCI was found to have a concentration of 1.30 x 100⁻⁵ mol dm⁻³. The solution product of AgCI. therefore is."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-18",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 18,
+  "question": "The hydroxyl ion concentration, (OH-), in a solution of sodium hydroxide of pH 10.0 is",
+  "options": {
+   "A": "10⁻¹⁰ mol dm⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-19",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 19,
+  "question": "Which of the aqueous solution with the pH values below will liberate hydrogen when it reacts with magnesium metal?",
+  "options": {
+   "A": "13.0",
+   "B": "7.0",
+   "C": "6.5",
+   "D": "3.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-20",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 20,
+  "question": "Given that 15.00cm3 of H2SO4 was required to completely neutralize 25.00 cm3 of 0.125 mol dm-3 NaOH, calculate the molar concentration of the acid solution.",
+  "options": {
+   "A": "0.925 mol dm-3",
+   "B": "0.156 mol dm-3",
+   "C": "0.104 mol dm-3",
+   "D": "0.023 mol dm –3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-21",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 21,
+  "question": "When platinum electrodes are used during the electrolysis of copper (11) tetraoxosulphate (1V) solution, the solution gets progressively",
+  "options": {
+   "A": "acidic",
+   "B": "basic",
+   "C": "neutral",
+   "D": "amphoteric"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-22",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 22,
+  "question": "How many faradays of electricity are required to deposit 0.20 mole of nickel, if 0.10 faraday of electricity deposited 2.98 g of nickel during electrolysis of its aqueous solution?",
+  "options": {
+   "A": "0.20",
+   "B": "0.30",
+   "C": "0.40",
+   "D": "0.50 ( Ni =058.7, IF=96 500C mol⁻¹)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-23",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 23,
+  "question": "What is the oxidation unmber of Z in K₃ ZCI⁶ ?",
+  "options": {
+   "A": "-3",
+   "B": "+3",
+   "C": "–6",
+   "D": "+6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-24",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 24,
+  "question": "2H₂S(g) + SO₂(g) +H2O₍₁₎ 3S (s) +3H₂O(1)…. (I) 3CuO(s) + 2NH₃ (g) 3Cu(s)+3H2)(1)+N₂(g)… (ii) In the equation above, the oxidizing agent in (I) and the reducing agent in (ii) respectively are A H₂S and NH₃ B SO₂ and CuO",
+  "options": {
+   "C": "SO₂ and NH₃",
+   "D": "H₂S and CuO"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-25",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 25,
+  "question": "2SO ₂(g)+O₂(g) 2 SO₃(g) In the reaction above, the standard heats of formation of SO ₂( g) and SO₃ (g) are –297 kJ mol-1 and –396 kJ mol⁻¹ respectively. The heat change of the reaction is",
+  "options": {
+   "A": "-99 kJ mol-1",
+   "B": "–198 kJ mol-1",
+   "C": "+198 kJ mol-1",
+   "D": "+683 kJ mol-1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-26",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 26,
+  "question": "½ N2(g) +1/2 O2(g); H- = 89 kJ mol-1 If the entropy change for the reaction above at 25oC is 11.8 J, calculate the change in free energy, G , for the reaction at 25⁰C",
+  "options": {
+   "A": "88.71 KJ",
+   "B": "85.48 kJ",
+   "C": "–204.00 kJ",
+   "D": "–3427.40 kJ"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-27",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 27,
+  "question": "If the rate law obtained for a given reaction is rate=k(X)n(Y)m, what is the overall order of the reaction?",
+  "options": {
+   "A": "nm",
+   "B": "n"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-28",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 28,
+  "question": "One method of driving the positon of equilibrium of an endothermic reaction forward is to",
+  "options": {
+   "A": "increase temperature at constant pressure",
+   "B": "decrease pressure at constant temperature",
+   "C": "cool down the apparatus with water",
+   "D": "decrease temperature at constant pressure."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-29",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 29,
+  "question": "Oxidation of concentrated hydrochloric acid with manganese(1V) oxide liberates a gas used in the",
+  "options": {
+   "A": "manufacture of tooth pastes",
+   "B": "treatment of simple goiter",
+   "C": "valcanization of rubber",
+   "D": "sterilization of water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-30",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 30,
+  "question": "mE + nF pG + qH In the equation above, the equlibrium constant is given",
+  "options": {
+   "A": "(E)m(F)n (G)p(H)q",
+   "B": "(E)(F) (G) (H)",
+   "C": "(G)p(H)q (E)m(F)n",
+   "D": "(G)(H)",
+   "E": "(F)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-31",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 31,
+  "question": "A compound that will NOT produce oxygen on heating is",
+  "options": {
+   "A": "potassium dioxonitrate (111)",
+   "B": "lead (1V) oxide",
+   "C": "potassium trioxochlorate (V)",
+   "D": "potassium trioxochlorate (V)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-32",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 32,
+  "question": "Coal gas is made up to carbon (11) oxide, hydrogen and",
+  "options": {
+   "A": "nitrogen",
+   "B": "air",
+   "C": "argon",
+   "D": "methane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-33",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 33,
+  "question": "In the diagram above, the gas Y could be",
+  "options": {
+   "A": "hydrogen chloride",
+   "B": "oxygen",
+   "C": "carbon (1V) oxide",
+   "D": "chlorine. The reaction above can be used for the laboratory preparation of all halogens except fluorine because it is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1997_p48_1.png",
+  "images": [
+   "chemistry/1997_p48_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1997-35",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 35,
+  "question": "The reaction that occurs during the laboratory test for the presence of tetraoxosulphate (V1)",
+  "options": {
+   "A": "SO²⁻ ₄ ₍ₐq₎ + Ba²⁺ ₍ₐq ₎ dilHNO₃ BaSO₄",
+   "C": "4H⁺ ₍ₐq₎+ 2SO2-4(aq) +2e⁻ SO²⁻ ₄₍ₐq₎ +2H² ₍₁₎ + SO ₂₍g₎ ₊ ₂₋",
+   "D": "CuO₍ ₛ ₎ + 2H ₍ ₐq₎ + SO ₄ ₍ₐq₎ CuSO ₄₍ₐq₎+ H₂ O ₍₁₎"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-36",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 36,
+  "question": "The removal of rust from iron by treatment with tetraoxosulphate (V1) acid is based on the",
+  "options": {
+   "A": "hydrolysis of the iron",
+   "B": "reaction of acid with base",
+   "C": "oxidation of the rust",
+   "D": "dehydration of the iron."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-37",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 37,
+  "question": "Which of the following additives could improve the quality of steel?",
+  "options": {
+   "A": "Silicon",
+   "B": "Sulphur and phosphorus",
+   "C": "Carbon.",
+   "D": "Chromium and nickel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-38",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 38,
+  "question": "Sodium hydroxide is prepared commercially from sodium chloride solution by.",
+  "options": {
+   "A": "electrolysis using mercury as cathode",
+   "B": "hydrolysis in steam using a catal.yst",
+   "C": "electrolysis using iron as anode",
+   "D": "treating sodium chloride with ammonia and carbon (1V) oxide. 39 A sample of a substance containing only C and H burns in excess O₂ t o yield 4.4 g of CO ₂a nd 2.7 g of H₂ O . The empirical formular of the substance is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-40",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 40,
+  "question": "An undesirable paraffin in the petroleum industry which is particularly prone to knocking is",
+  "options": {
+   "A": "iso-octane",
+   "B": "n-heptane",
+   "C": "iso-heptane",
+   "D": "n-octane CH₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1997_p49_1.png",
+  "images": [
+   "chemistry/1997_p49_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1997-41",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 41,
+  "question": "CH₃ CH H CH CH₃ CH₃",
+  "options": {
+   "C": "3-ethyl-1, 1, 4-trimethypentane",
+   "D": "3-ethyl-2,5,5-trimethypentane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-42",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 42,
+  "question": "The reaction of an alkanol with an alkanoic acid in the presence of concentrated H₂SO₄ will produce an",
+  "options": {
+   "A": "Alkanal",
+   "B": "Alkanonate",
+   "C": "Alkanone",
+   "D": "Alkayne."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-43",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 43,
+  "question": "The final product of the reaction of ethyne with hydrogen iodide is",
+  "options": {
+   "A": "CH CHI 3 ₂",
+   "B": "CH₂I CH₂1",
+   "C": "CH₃ CI₃ D CH₂ =CHI CH₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-44",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 44,
+  "question": "CH₃CH₂ C CH₃ CH₃ How many more isomers of the compound above can be obtained?",
+  "options": {
+   "A": "5",
+   "B": "4",
+   "C": "3",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-45",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 45,
+  "question": "Synthesis detergents are preferred to soap for laundry using hard water because",
+  "options": {
+   "A": "detergent are water soluble while soap not",
+   "B": "the calcium salts of detergent are water soluble",
+   "C": "the magnesium salt of soap is soluble in hard water",
+   "D": "soap does not have a hydrocarbon terminal chain."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-46",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 46,
+  "question": "The synthetic rubber obtained by the polymerization of chlorobutadiene in the presence of sodium is called",
+  "options": {
+   "A": "Teflon",
+   "B": "Isoprene",
+   "C": "Polythene",
+   "D": "Neoprene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-47",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 47,
+  "question": "25cm³ of 0.02 M KOH neutralized 0.03 g of a monobasic",
+  "options": {
+   "B": "4-ethyl-2, 5-dimethylexane organic acid having the general formula CₙH₂ₙ₊₁COOH. The molecular formula of the acid is",
+   "A": "HCOOH",
+   "C": "CH₃COOH",
+   "D": "C₃H₇COOH (C= 12, H=1, 0=16) 48 When Fehling’s solution is added to two isomeric carbonyl compounds X and Y with the molecular formula C₅H₁₀O, compound X gives a red precipitate while Y does not react. It can be inferred that X is A .CH₃ C CH₂ CH₂ CH₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1997_p51_1.png",
+  "images": [
+   "chemistry/1997_p51_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1997-49",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 49,
+  "question": "The compound above contains",
+  "options": {
+   "A": "sp³ hybridized carbon atoms only",
+   "B": "sp³ hybridized carbon atoms only",
+   "C": "sp³ and sp hybridized carbon atoms",
+   "D": "sp³ and sp² hybridized carbon atoms. H H H O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-50",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 50,
+  "question": "H H H H H CH₃ The compound above is the product of the oxidation of",
+  "options": {
+   "A": "2 – methylbutan – 2 - o1",
+   "B": "2 – methylbutan –1 - o1",
+   "C": "2,3 – dimenthylpropan – 1 – o1",
+   "D": "Pentan –2 – o1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1997_p51_2.png",
+  "images": [
+   "chemistry/1997_p51_2.png"
+  ]
+ }
+]

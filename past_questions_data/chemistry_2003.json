@@ -1,0 +1,806 @@
+[
+ {
+  "id": "chemistry-2003-3",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 3,
+  "question": "What is the percentage by mass of oxygen in Al₂(SO₄)₃.2H₂O?",
+  "options": {
+   "A": "14.29%",
+   "B": "25.39%",
+   "C": "50.79%",
+   "D": "59.25% [A = 27, S=32, H=1, O=16] [Molar volume of a gas s.t.p = 22.4 dm³]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-5",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 5,
+  "question": "3Cu + pHNO₃ 3Cu(NO₃)₂ + 4H₂O + xNO In the equation above, the values of p and x respectively are",
+  "options": {
+   "A": "1 and 3",
+   "B": "2 and 3",
+   "C": "6 and 2",
+   "D": "8 and 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-6",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 6,
+  "question": "Neutral atoms of neon with atomic number 10 have the same number of electrons as",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-7",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 7,
+  "question": "The noble gases owe their inactivity to",
+  "options": {
+   "A": "octet configuration",
+   "B": "cyclic shape",
+   "C": "hexagonal shape",
+   "D": "obtuse configuration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-8",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 8,
+  "question": "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to",
+  "options": {
+   "A": "decrease",
+   "B": "increase",
+   "C": "remain constant",
+   "D": "be zero"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-9",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 9,
+  "question": "1. H = Is¹ II N = Is²2s²2p³ III O = Is²2s²2p⁴ IV Zn = Is²2s²2p⁶3s²3p⁶4s²3d¹⁰ From the above, which of the following pairs is likely to be paramagnetic?",
+  "options": {
+   "A": "I and II",
+   "B": "I and III",
+   "C": "I and IV",
+   "D": "I and IV"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-10",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 10,
+  "question": "A gas exerts pressure on its container because",
+  "options": {
+   "A": "some of its molecules are moving faster than others",
+   "B": "of the collision of the molecules with each other",
+   "C": "of the mass of the molecules of gas",
+   "D": "the molecules of a gas collide with walls of the container."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-11",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 11,
+  "question": "When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes",
+  "options": {
+   "A": "negatively charged",
+   "B": "positively charged",
+   "C": "neutral",
+   "D": "bipolar"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-12",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 12,
+  "question": "The weakest attractive forces that can be observed between two molecules is",
+  "options": {
+   "A": "ionic",
+   "B": "covalent",
+   "C": "coordinate covalent",
+   "D": "Van der Waals."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-13",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 13,
+  "question": "A consequence of global warming is",
+  "options": {
+   "A": "air pollution",
+   "B": "water pollution",
+   "C": "increased humidity",
+   "D": "flooding"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-14",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 14,
+  "question": "Which of the following ions is acidic?",
+  "options": {
+   "A": "K⁺",
+   "B": "NO₃ ⁻",
+   "C": "S²⁻",
+   "D": "H₃ O⁺"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-15",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 15,
+  "question": "The structural component that makes detergent dissolve more quickly in water than soap is",
+  "options": {
+   "A": "-SO³⁻Na⁺",
+   "B": "-COO⁻ Na⁺",
+   "C": "–SO₄ ⁻ Na⁺",
+   "D": "-COO⁻ K⁺"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-16",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 16,
+  "question": "A liquid that will dissolve fat is",
+  "options": {
+   "A": "hydrochloric acid",
+   "B": "calcium hydroxide",
+   "C": "19.42 g",
+   "D": "97.10 g [K ₂C rO ₄= 194.2 g mol dm⁻¹]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-18",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 18,
+  "question": "Farmlands affected by crude-oil spillage can be decontaminated by",
+  "options": {
+   "A": "adding acidic solution",
+   "B": "using aerobic bacteria",
+   "C": "pouring water on the affected area",
+   "D": "burning off the oil from the area."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-19",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 19,
+  "question": "When 10g of sodium hydroxide is dissolved in 100cm³ of water, the solution formed is approximately",
+  "options": {
+   "A": "0.01 mol dm⁻³",
+   "B": "0.10 mol dm⁻¹",
+   "C": "0.25 mol dm⁻¹",
+   "D": "0.50 mol dm⁻¹ [Na = 23, H= 1, O = 16]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-20",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 20,
+  "question": "A change in the temperature of a saturated solution disturbs the equilibrium between the",
+  "options": {
+   "A": "dissolved solute and the solvent",
+   "B": "Solvent and the undissolved",
+   "C": "Dissolved solute and the undissolved solute",
+   "D": "Dissolved solute and the solution."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-21",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 21,
+  "question": "If an equilibrium reaction has H > 0, the reaction will proceed favourable in the forward direction.",
+  "options": {
+   "A": "high temperature",
+   "B": "any temperature",
+   "C": "low temperature",
+   "D": "minimum temperature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-22",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 22,
+  "question": "n the o xide",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "chemistry/2003_p67_1.png",
+  "images": [
+   "chemistry/2003_p67_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-2003-23",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 23,
+  "question": "s that",
+  "options": {
+   "A": "electrons are consumed",
+   "B": "oxidation is involved",
+   "C": "ions are reduced",
+   "D": "electrode dissolves"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-24",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 24,
+  "question": "Which of the following will change when a catalyst is added to a chemical reaction?",
+  "options": {
+   "A": "The activation energy",
+   "B": "The potential energy of the reactants",
+   "C": "The heat of reaction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-25",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 25,
+  "question": "If Y is an oxidizing agent that reacts with a reducing agent, Z, which of the following is correct?",
+  "options": {
+   "A": "Y increases in oxidation number",
+   "B": "Y becomes reduced",
+   "C": "Z loses protons",
+   "D": "Z gains protons."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-26",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 26,
+  "question": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant .",
+  "options": {
+   "A": "2SO₃₍g₎ 2SO₂₍g₎ + O₂₍g₎",
+   "B": "2SO₂₍g₎ 2CO₍g₎ + O₂₍g₎",
+   "C": "2H₂₍g₎ +’!O₂₍g₎ 2H₂O ₍g₎",
+   "D": "2NO₍g₎ N₂₍g₎ + O₂₍g₎"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-27",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 27,
+  "question": "In the electrolysis of a concentrated solution of sodium chloride using inert electrodes, which of the following ions are discharge at the cathode and anode respectively?",
+  "options": {
+   "A": "Na⁺ and Cl⁻",
+   "B": "Na⁺ and OH⁻",
+   "C": "H⁺ and OH⁻",
+   "D": "H⁺ and Cl⁻"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-28",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 28,
+  "question": "CO₍g₎ + H₂O₍g₎ CO₂₍g₎ + H₂₍g₎ From the reaction above, calculate the standard heat change if the standard enthalpies of formation of CO₂₍g₎ , H2O₍g₎ and CO₍g₎ in kJ mol⁻¹ are –394, -242 and –110 respectively.",
+  "options": {
+   "A": "-262 kJmol⁻¹",
+   "B": "–42 kJmol⁻¹",
+   "C": "+42 kJmol⁻¹",
+   "D": "+262 kJmol⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-29",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 29,
+  "question": "When sugar is dissolved in a tea, the reaction is always accompanied by",
+  "options": {
+   "A": "positive entropy change",
+   "B": "negative entropy change",
+   "C": "no entropy change",
+   "D": "a minimum entropy change."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-30",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 30,
+  "question": "Which of the following is an electrolyte?",
+  "options": {
+   "A": "Alcohol",
+   "B": "Sodium acetate solution",
+   "C": "Solid potassium hydroxide",
+   "D": "Mercury"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-31",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 31,
+  "question": "Chlorine gas is prepared in the laboratory by",
+  "options": {
+   "A": "adding concentrated hydrochloric acid to solid manganese (1V) oxide",
+   "B": "adding concentrated tetraoxosulphate (V1) acid to solid sodium chloride",
+   "C": "dropping concentrated hydrochloric acid onto potassium tetraoxomanganate (V11) crystals",
+   "D": "oxidizing concentrated hydrochloric using potassium heptadichromate (V1) crystals."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-32",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 32,
+  "question": "Metal of the transition series have special properties which are different from those of groups 1 and 11 elements because they have partially filled",
+  "options": {
+   "A": "s orbitals",
+   "B": "p orbitals",
+   "C": "d orbitals",
+   "D": "f orbitals"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-34",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 34,
+  "question": "Which of the following statements is true of sulphur (1V) oxide?",
+  "options": {
+   "A": "It forms tetraoxosulphate(V1) acid with water",
+   "B": "It is an odourless gas",
+   "C": "It is an acid anhydride",
+   "D": "It forms white precipitate with acidified barium chloride."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-35",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 35,
+  "question": "The salt that will form a precipitate soluble in excess ammonia solution is",
+  "options": {
+   "A": "Ca(NO₃)₂",
+   "B": "Cu(NO₃)₂",
+   "C": "Mg(NO₃)₂",
+   "D": "Al(NO₃)₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-36",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 36,
+  "question": "The metal liberates hydrogen from cold water in bubbles only is",
+  "options": {
+   "A": "Na",
+   "B": "K",
+   "C": "Ca",
+   "D": "Al"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-37",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 37,
+  "question": "Chlorine gas turns a damp starch-iodine paper",
+  "options": {
+   "A": "pink",
+   "B": "colourless",
+   "C": "red",
+   "D": "dark blue"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-38",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 38,
+  "question": "The modern process of manufacturing steel form iron is by",
+  "options": {
+   "A": "treatment with acids",
+   "B": "oxidation",
+   "C": "blast reduction",
+   "D": "treatment with alkalis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-39",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 39,
+  "question": "",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "chemistry/2003_p68_1.png",
+  "images": [
+   "chemistry/2003_p68_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-2003-40",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 40,
+  "question": "",
+  "options": {
+   "B": "CH²₃ ²C H₂Br",
+   "C": "C₂ H₂Br₂",
+   "D": "CHBr₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-41",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 41,
+  "question": "Carbohydrates are compounds containing carbon hydrogen and oxygen in the ration",
+  "options": {
+   "A": "3 : 1: 1",
+   "B": "2 : 1: 1",
+   "C": "1 : 2: 1",
+   "D": "1 : 1: 1 42 How many isomers does pentane have?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-44",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 44,
+  "question": "The formula for ethyl butanoate is",
+  "options": {
+   "A": "C₃H₇COOC₂H₅",
+   "B": "C₂H₅COOC₃H₇",
+   "C": "C₄H₉COOC₂H₅",
+   "D": "C₂H₅COOC₄H₉"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-45",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 45,
+  "question": "The type of reaction that is peculiar to benzene is",
+  "options": {
+   "A": "addition",
+   "B": "hydrolysis",
+   "C": "polymerization",
+   "D": "substitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-46",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 46,
+  "question": "Ethanol reacts with excess acidified K₂Cr₂O₇",
+  "options": {
+   "A": "ethanedioc acid",
+   "B": "ethanol",
+   "C": "ethyl ethanoate",
+   "D": "ethanoic acid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-47",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 47,
+  "question": "A compound contains 40.0% caron 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula.",
+  "options": {
+   "A": "CH₂O",
+   "B": "C₃H₆O₃",
+   "C": "C₆H₁₂O₆",
+   "D": "C₆H₆O₃ [ H = 1, C= 12, O = 16]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-48",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 48,
+  "question": "The process by which atoms are rearrange into different molecular structures in the petroleum refining process is referred to as",
+  "options": {
+   "A": "catalytic cracking",
+   "B": "hydrocracking",
+   "C": "plolymerization",
+   "D": "reforming"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-49",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 49,
+  "question": "Which of the following is found in cotton",
+  "options": {
+   "A": "Starch",
+   "B": "Cellulose",
+   "C": "Fat",
+   "D": "Oil"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-50",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 50,
+  "question": "The principal constituent of natural gas is",
+  "options": {
+   "A": "methane",
+   "B": "ethane",
+   "C": "propane",
+   "D": "butane."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

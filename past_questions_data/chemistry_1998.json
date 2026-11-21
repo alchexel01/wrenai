@@ -1,0 +1,698 @@
+[
+ {
+  "id": "chemistry-1998-1",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 1,
+  "question": "The addition of water to calcium oxide leads to",
+  "options": {
+   "A": "a physical change",
+   "B": "a chemical change",
+   "C": "the formation of mixture",
+   "D": "an endothermic change."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-2",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 2,
+  "question": "A mixture of iron and sulphur can be separated by dissolving the mixture in",
+  "options": {
+   "A": "steam",
+   "B": "dilute hydrochloric acid",
+   "C": "dilute sodium hydroxide",
+   "D": "benzene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-3",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 3,
+  "question": "8.0 g of an element X reacted with an excess of copper (11) tetraoxosulphate (1V) solution to deposit 21.3 g of copper. The correct equation for the reaction is",
+  "options": {
+   "A": "X₍ₛ₎ +CuSO₄₍ₐq₎ Cu₍ₛ₎ + XSO₄₍ₐq₎",
+   "B": "X₍ₛ₎ +2CuSO₄₍ₐq₎ 2 Cu₍ₛ₎ + X(SO₄)₍ₐq₎",
+   "C": "2X₍ₛ₎ +2CuSO₄₍ₐq₎ Cu₍ₛ₎ + X₂(SO₄) ₍ₐq₎",
+   "D": "2X₍ₛ₎ +3CuSO₄₍ₐq₎ 3Cu₍ₛ₎ + X₂(SO)₃₍ₐq₎"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-4",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 4,
+  "question": "C₃H₈(g) + 5O₂(g) 4H₂O(g) +3CO₂(G) From the equation abovem the volume of oxygen at s.t.p. required to burn 50cm3 of propane is",
+  "options": {
+   "A": "250cm³",
+   "B": "150cm³",
+   "C": "100cm³",
+   "D": "50cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-5",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 5,
+  "question": "30cm³ of hydrogen was collected over water at 27oC and 780 mm Hg. If the vapour pressure of water at the temperature of the experiement was 10mm Hgm calcuale",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-6",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 6,
+  "question": "A given amount of gas occupies 10.0 dm3 at 4 atm. and 273⁰C. The number of moles of the gas present is",
+  "options": {
+   "A": "0.089 mol",
+   "B": "1.90 mol",
+   "C": "3.80 mol",
+   "D": "5.70 mol [Molar volume of gas at s.t.p.= 22.4 dm³]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-7",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 7,
+  "question": "If sulphur oxide and methane are released simultaneously at the opposite ends of narrow tube, the rates of diffusion Rₛ ₒa₂n d R wCiHll₄ be in the ratio",
+  "options": {
+   "A": "4:1",
+   "B": "2:1",
+   "C": "1:2",
+   "D": "1:4 [S=32, O= 16, C=12, H=1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-8",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 8,
+  "question": "A solid begins to melt when",
+  "options": {
+   "A": "constituent particles acquire a greater kinetic energy",
+   "B": "energy of vibration of particles of the solid is less than the intermolecular forces",
+   "C": "Constituent particles acquire energy of the above the average kinetic energy",
+   "D": "energy of vibration of particles of the solid equals the intermolecular forces."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-9",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 9,
+  "question": "with chlorine to form",
+  "options": {
+   "A": "a convalent bond",
+   "B": "an electrovalent bond",
+   "C": "a hydrogen bond",
+   "D": "a co-ordinate bond"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1998_p51_3.png",
+  "images": [
+   "chemistry/1998_p51_3.png"
+  ]
+ },
+ {
+  "id": "chemistry-1998-10",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 10,
+  "question": "Which of the following electron configurations indicates an atom with the highest ionization energy?",
+  "options": {
+   "A": "2, 8, 7",
+   "B": "2, 8, 8, 1",
+   "C": "2, 8, 8, 2",
+   "D": "2, 8, 8, 7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-11",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 11,
+  "question": "The lines observe in the simple hydrogen spectrum are due to emission of",
+  "options": {
+   "A": "electron from the atom",
+   "B": "energy by proton transition",
+   "C": "energy by electron transition",
+   "D": "neutrons from the atom 12 If an element X of atomic number Z and mass number Y is irradiated by an intense concentration of neutrons the relevant nuclear equation is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-13",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 13,
+  "question": "The property used in obtaining oxygen and nitrogen industrially from air is the",
+  "options": {
+   "A": "boiling point",
+   "B": "density",
+   "C": "rate of diffusion",
+   "D": "solubility"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-14",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 14,
+  "question": "Excess phosphorus was burnt in gas jar and the residual gas passed successively over concentrated KOH solution and concentrated H₂SO₄ before being collected in a flask. The gases collected are",
+  "options": {
+   "A": "carbon (1V) oxide nitrogen and the rare gases",
+   "B": "nitrogen (1V) oxide and the rare gases",
+   "C": "nitrogen and the rare gases",
+   "D": "carbon (1V) oxide nitrogen (1V) oxide and the rare gases."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-15",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 15,
+  "question": "Potassium tetraoxomanganate (v11) is often added to impure water to",
+  "options": {
+   "A": "reduce organic impurities",
+   "B": "reduce inorganic impurities",
+   "C": "destroy bacteria and algae",
+   "D": "remove permanent hardness."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-16",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 16,
+  "question": "The soil around a battery manufacturing factory is likely to contain a high concentration of",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-17",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 17,
+  "question": "90.0 g of MgCI ₂ was placed in 50.0cm³ of water to give a saturated solution at 298 K. If the solubility of the salt is 8.0-mol dm⁻³ at the same temperature, what is the mass of the salt felt undissolve at the given temperature?",
+  "options": {
+   "A": "52.0 g",
+   "B": "58.5 g",
+   "C": "85.5 g",
+   "D": "88.5 g [Mg = 24, CI=35.5]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-18",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 18,
+  "question": "Soap leather is an example of a colloid in which a",
+  "options": {
+   "A": "Liquid is dispersed in gas",
+   "B": "Solid is dispersed in liquid",
+   "C": "Gas is dispersed in liquid",
+   "D": "Liquid is dispersed in liquid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-19",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 19,
+  "question": "The pH of a solution obtained by mixing 100cm³ of a 0.1 M HCI solution with 100cm³ of a 0.2 M solution of NaOH is",
+  "options": {
+   "A": "1.3",
+   "B": "7.0",
+   "C": "9.7",
+   "D": "12.7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-20",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 20,
+  "question": "In the conductance of aqueous potassium tetraoxosulphate (1V) solution, the current carriers are the",
+  "options": {
+   "A": "ions",
+   "B": "electrons",
+   "C": "hydrated ions",
+   "D": "hydrated electrons"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-21",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 21,
+  "question": "What volume of 0.1 mol dm⁻³ solution of tetraoxosulphate (1V) acid would be needed to dissolve 2.86 g of sodium trioxocarbonate (1V) decahydrate crystals?",
+  "options": {
+   "A": "20 cm³",
+   "B": "40 cm ₃",
+   "C": "80 cm³",
+   "D": "100 cm³ [H=1, C=12, 0= 16, S= 32, Na =23]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-22",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 22,
+  "question": "1.2 of electricity are passed through electrolytic cells containing Na⁺, Cu²⁺ and AI³⁺ in series. How many moles of each metal would be formed at the cathode of each cell?",
+  "options": {
+   "A": "0.6 mole of Na, 1.2 moles of Cu and 1.2 moles of AI",
+   "B": "1.2 moles of Na, 0.6 mole of Cu and 0.4 mole of",
+   "C": "1.3 mmoles of Na, 2.4 moles of Cu and 2.4 moles of AI",
+   "D": "1.2 moles of Na, 2.4 moles of Cu and 3.6 moles of AI"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-23",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 23,
+  "question": "What mass of gold is deposited during the electrolysis of gold (111) tetraoxosulphate (V1)when a current of 15 A is passed for 193 seconds?",
+  "options": {
+   "A": "1.97 g",
+   "B": "3.94 g",
+   "C": "5.91 g",
+   "D": "19.70g [Au = 97, F=96 5000C mol⁻¹]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-24",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 24,
+  "question": "Fe₍ₛ₎ + Cu ²⁺ ₍ₐq₎ Fe²⁺ ₍ₐ q₎ +Cu₍ₛ₎ From the reaction above it can be inferred that",
+  "options": {
+   "A": "Fe is the oxidizing agent",
+   "B": "Fe is reduced"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-25",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 25,
+  "question": "2FeCI2(s) + CI₂₍g₎ 2FeCI₃₍ₛ₎ The reducing agent in the reaction above is",
+  "options": {
+   "A": "FeCI₂",
+   "B": "CI₂",
+   "C": "FeCI₃",
+   "D": "Fe"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-26",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 26,
+  "question": "The reaction that is accompanied by a decrease in entropy when carried out constant temperature is",
+  "options": {
+   "A": "N₂O₄₍ ₂",
+   "B": "N₂ + NH₃",
+   "C": "CaCO + CO₂",
+   "D": "2N₂H₄ 3N₂ + 4H₂O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1998_p53_1.png",
+  "images": [
+   "chemistry/1998_p53_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1998-27",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 27,
+  "question": "32g of anhydrous copper 11 tetraoxosulphate (1V) dissolved in 1 dm3 of water generated 13.0kJ of heat. The heat of solution is",
+  "options": {
+   "A": "26.0 kJ mol⁻¹",
+   "B": "65.0kJ mol⁻¹",
+   "C": "130.0kJ mol⁻¹",
+   "D": "260.0 kJ mol⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-28",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 28,
+  "question": "Mg²⁺ ₍ₐ g₎ + 2e⁻ ₍ₐ q₎ Eo (volts) = -2.370 ₂₊ ₍ₐ g₎ + 2e⁻ ₍ₐ q₎ Zn₍ₛ₎ Eo (volts) = -0.763 Cd²⁺ ₍ₐ g₎ + 2e⁻ ₍ₐ q₎ Cd₍ₛ₎ Eo (volts) = -0.403 Cu²⁺ ₍ₐ g₎ + 2e⁻ ₍ₐ q₎ Cu₍ₛ₎ Eo (volts) = +0.403 In the electrochemical series above the strongest reducing agent is",
+  "options": {
+   "A": "Cu₍ₛ₎",
+   "B": "Cd₍ₛ₎",
+   "C": "Zn₍ₛ₎",
+   "D": "Mg₍ₛ₎"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-29",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 29,
+  "question": "In the diagram above, the activation energy for the backward reaction is",
+  "options": {
+   "A": "+5 kJ",
+   "B": "+15 kJ",
+   "C": "+25kJ",
+   "D": "+30kJ + Y Z"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1998_p53_2.png",
+  "images": [
+   "chemistry/1998_p53_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1998-30",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 30,
+  "question": "2X₍g₎ ₍g₎ ₍g₎ In the equation above the rate of formation of Z is found to be independent of the concentration of Y and to quadruple when rate equation for the reaction is",
+  "options": {
+   "A": "R = k [X][Y]",
+   "B": "R= k [X]²[Y]",
+   "C": "R = k [X]²[Y]²",
+   "D": "R = k [X]²[Y]⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-31",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 31,
+  "question": "2CI ₂₍g₎ + 2H₂ O₍g₎ 4HCI₍ g+₎ O ₂₍g₎ Ho = +115kJ mol⁻¹ In the above equilibrium reaction a decrease in temperature will.",
+  "options": {
+   "A": "favour the reverse reaction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-32",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 32,
+  "question": "3CuO₍ₛ₎ +2NH₃₍g₎ 3Cu₍ₛ₎ + 3H₂O₍₁₎ + N₂₍g₎ (i) 2NH₃₍ₛ₎ + 3CI₂₍g₎ 6HCI₍ₛ₎ + N₍₁₎ + H₂O (ii) 4NH₃₍ₛ₎ + 3CI₂₍g₎ 6H₂O₍I₎ + 2N₂₍g₎ + HCl The reactions represented by the equations above demonstrate the",
+  "options": {
+   "A": "basic properties of ammonia",
+   "B": "acidic properties of ammonia",
+   "C": "reducing properties of ammonia",
+   "D": "oxidizing properties of ammonia."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-33",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 33,
+  "question": "A gas that trun a filter paper previously soaked in lead ethanoate solution black is",
+  "options": {
+   "A": "hydrogen chloride",
+   "B": "hydrogen sulphide",
+   "C": "sulphur (1V) oxide",
+   "D": "sulphur (VI) oxide."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-34",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 34,
+  "question": "A solution containing chloride gives a white precipitate with silver trioxonirate (V) solution. The precipitate will be insoluble in dilute",
+  "options": {
+   "A": "HNO₃ but soluble in ammonia solution",
+   "B": "HNO₃ and in ammonia solution",
+   "C": "HCI but soluble in ammonia solution",
+   "D": "HCI and in ammonia solution."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-35",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 35,
+  "question": "In the experiment above, X could be a solution of",
+  "options": {
+   "A": "Sodium, trioxonirate (V) and ammonium chloride",
+   "B": "Sodium trioxonirate (111) and ammonium chloride",
+   "C": "lead (11) trioxonirate (V) and copper turnings",
+   "D": "potassium, trioxonirate (V) and copper turnings."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1998_p53_3.png",
+  "images": [
+   "chemistry/1998_p53_3.png"
+  ]
+ },
+ {
+  "id": "chemistry-1998-36",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 36,
+  "question": "The oxide that remains unchanged when heated in hydrogen is",
+  "options": {
+   "A": "CuO",
+   "B": "Fe₂O₃",
+   "C": "PbO₂",
+   "D": "ZnO"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-37",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 37,
+  "question": "Whichof thefollowingisobservedwhenasolutionof Iron(111) chlorideismixedwithasolutionof sodium hydroxide?",
+  "options": {
+   "A": "calcium",
+   "B": "aluminium",
+   "C": "iron",
+   "D": "zinc"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-39",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 39,
+  "question": "A commoncharacteristicsharedbyironandaluminum is that both",
+  "options": {
+   "A": "areextractedby reduction methods",
+   "B": "formonlybasicoxides 40 . Alloys are often used in preference to pure metals bacause",
+   "C": "metallic properties are improved in alloys",
+   "D": "alloys are a mixture of metals. 41 . CH₃ CH₂ CHCH(CH₃)₂ The IUPAC nomenclature for the above compound is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

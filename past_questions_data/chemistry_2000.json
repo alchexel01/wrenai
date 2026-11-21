@@ -1,0 +1,880 @@
+[
+ {
+  "id": "chemistry-2000-1",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 1,
+  "question": "A mixture of iodine and sulphur crystals can be separated by treatment with",
+  "options": {
+   "A": "water of filter off sulphur",
+   "B": "carbon (1V) sulphide to filter off iodine",
+   "C": "ethanoic acid to filter off sulphur",
+   "D": "methanol to filter off iodine"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-2",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 2,
+  "question": "Sieving is a technique used to separate mixtures containing solid particles of",
+  "options": {
+   "A": "small sizes",
+   "B": "large sizes",
+   "C": "different sizes",
+   "D": "the same size"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-3",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 3,
+  "question": "Which of the compounds is composed of Al, Si, O and H?",
+  "options": {
+   "A": "Epson salt",
+   "B": "Limestone",
+   "C": "Clay",
+   "D": "Urea"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-4",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 4,
+  "question": "50cm³ of carbon (11) oxide was exploded with 150cm³ of air containing 20% oxygen by volume, which of the reactants was in excess?",
+  "options": {
+   "A": "Carbon (11) oxide",
+   "B": "Carbon (1V) oxide",
+   "C": "Oxygen",
+   "D": "Nitrogen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-5",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 5,
+  "question": "How many moles of HCl will be required to react with potassium heptaoxodichromate (V1) to produce 3 moles of chlorine?",
+  "options": {
+   "A": "14",
+   "B": "12",
+   "C": "11",
+   "D": "10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-6",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 6,
+  "question": "The ratio of the initial to the final pressure of a given mass of gas is 1:1:5. Calculate the final volume of the gas if the initial volume was 300cm3 at the same temperature.",
+  "options": {
+   "A": "120 cm³",
+   "B": "200 cm³",
+   "C": "450 cm³",
+   "D": "750 cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-7",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 7,
+  "question": "The partial pressure of oxygen in a sample of air is 452mm Hg and the total pressure is 780mmHg. What is the mole fraction of oxygen?",
+  "options": {
+   "A": "0.203",
+   "B": "0.579",
+   "C": "2.030",
+   "D": "5.790"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-8",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 8,
+  "question": "The fundamental difference between the three states of matter is the",
+  "options": {
+   "A": "shape of their particles",
+   "B": "number of particles in each state",
+   "C": "shape of the container they occupy",
+   "D": "degree of movement of their particles"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-9",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 9,
+  "question": "Which of the following the following statements is correct about the periodic table?",
+  "options": {
+   "A": "Element in the same period have the same number of valence electrons",
+   "B": "The valence electrons of the elements in the",
+   "C": "Elements in the same group have the number of electron shells",
+   "D": "The non-metallic properties of the elements tent to decrease across each period"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-10",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 10,
+  "question": "The electron configuration of ₂₂X ²⁺ ion is",
+  "options": {
+   "A": "ls² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d²",
+   "B": "ls² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹",
+   "C": "ls² 2s² 2p⁶ 3s² 3p⁶",
+   "D": "ls² 2s² 2p⁶ 3s² 3p⁶ 4p²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-11",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 11,
+  "question": "Which of the following types of bonding does not involves the formation of new substance?",
+  "options": {
+   "A": "Metallic",
+   "B": "Covalent",
+   "C": "Co-ordinate",
+   "D": "Electrovalent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-12",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 12,
+  "question": "The knowledge of half-life can be used to",
+  "options": {
+   "A": "create an element",
+   "B": "detect an element",
+   "C": "split an element",
+   "D": "irradiate an element"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-13",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 13,
+  "question": "The shape of CO ₂, H ₂O and CH ₄r espectively are",
+  "options": {
+   "A": "bent linear and tetrahedral",
+   "B": "bent tetrahedral and linear",
+   "C": "linear bent and tetrahedral",
+   "D": "tetrahedral, linear and bent."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-14",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 14,
+  "question": "The distance between the nuclei of chlorine atoms in a chlorine molecule is 0.914 nm. The atomic radius of chlorine atom is",
+  "options": {
+   "A": "0.097 nm",
+   "B": "0.914 nm",
+   "C": "2.388 nm",
+   "D": "2.388 nm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-15",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 15,
+  "question": "The noble gas, argon, is used for",
+  "options": {
+   "A": "electric are welding",
+   "B": "welding brass",
+   "C": "underwater welding",
+   "D": "steal welding"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-16",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 16,
+  "question": "A side effect of soft water is that",
+  "options": {
+   "A": "it gives offensive taste",
+   "B": "excess calcium s precipitate",
+   "C": "it attacks lead contained in pipes",
+   "D": "it encourages the growth of bacteria 17 Water molecules can be ligands especially when they are bonded to."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-18",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 18,
+  "question": "The air pollutant unknown in nature is",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-19",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 19,
+  "question": "10dm³ of distilled water used to wash 2.0 g of a precipitate of AgCl. If the solubility product of AgCl is 2.0 x10⁻¹⁰ moldm⁻⁶, what quantity of silver was lost in the process?",
+  "options": {
+   "A": "2.029 x10⁻³ mol dm⁻³",
+   "B": "1.414 x 10⁻³ mol dm⁻³",
+   "C": "2.029 x 10⁻⁵ mol dm⁻³",
+   "D": "1.414 x 10⁻⁵ mol dm⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-20",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 20,
+  "question": "Hydration of ions in solution is associated with",
+  "options": {
+   "A": "absorption of heat",
+   "B": "reduction of heat",
+   "C": "conduction of heat",
+   "D": "liberation of heat"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-21",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 21,
+  "question": "The diagram above is the solubility curve of solute, X. Find the amount of X deposited when 500cm3 of solution of X is cooled from 60oC to 20oC",
+  "options": {
+   "A": "0.745 mole",
+   "B": "0.950 mole",
+   "C": "2.375 moles",
+   "D": "4.750 moles."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/2000_p59_1.png",
+  "images": [
+   "chemistry/2000_p59_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-2000-22",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 22,
+  "question": "HCl₍ₐq₎ + H₂O₍₁₎ H ₃O ⁺ ₍ₐq₎ + Cl⁻ ₍ₐ q₎ In the reaction above, Cl⁻ ₍ₐ q₎ is the",
+  "options": {
+   "A": "Conjugate acid",
+   "B": "Acid",
+   "C": "Conjugate base",
+   "D": "Base."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-23",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 23,
+  "question": "In which order are the following salts sensitive to light?",
+  "options": {
+   "A": "Agl ›AgCl ›AgBr",
+   "B": "AgCl ›Agl ›AgBr",
+   "C": "AgBr ›AgCl ›AgI",
+   "D": "AgCl ›AgBr ›AgI"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-24",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 24,
+  "question": "Thee pOH of a solution of 0.25 mol dm⁻³ of hydrochloric acid is",
+  "options": {
+   "A": "12.40",
+   "B": "13.40",
+   "C": "14.40",
+   "D": "14.60"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-25",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 25,
+  "question": "MnO ₄₍ₐq₎ + 8H⁺ ₍ₐq₎ ’! Mn²⁺(aq)+4H₂ O₍₁₎ Y in the equation above represents",
+  "options": {
+   "A": "2e⁻",
+   "B": "3e⁻",
+   "C": "5e⁻",
+   "D": "7e⁻ electricity required to discharge zinc"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-27",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 27,
+  "question": "Given that M is the mass of substance deposited in an electrolysis and Q the quantity of electricity consumed, then Faraday’s law can be written as",
+  "options": {
+   "A": "M = Z",
+   "B": "M = Q",
+   "C": "M = Z",
+   "E": "M = QZ 28 0.46g of ethanol when burned raised the temperature of 50 g water by 14.3 K. Calculate the heat of combustion of ethanol.",
+   "D": "-3 000 kJ mol⁻¹ [C = 12, O = 16, H = 1] Specific heat capacity of water = 4.2 jg⁻¹K⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-29",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 29,
+  "question": "Powdered marble reacts with hydrochloric acid solution than the granular form because the powdered form has",
+  "options": {
+   "A": "more molecules",
+   "B": "more atoms",
+   "C": "large surface are",
+   "D": "relatively large mass"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-30",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 30,
+  "question": "The graph that describes a zero order reaction is",
+  "options": {
+   "A": "Rate Conc.",
+   "B": "Rate Conc.",
+   "C": "Rate Conc.",
+   "D": "Rate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/2000_p59_5.png",
+  "images": [
+   "chemistry/2000_p59_5.png",
+   "chemistry/2000_p59_3.png",
+   "chemistry/2000_p59_4.png",
+   "chemistry/2000_p59_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-2000-31",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 31,
+  "question": "",
+  "options": {
+   "A": "increase the quantity of N₂",
+   "B": "increase the yield of NO",
+   "C": "decrease the yield of NO",
+   "D": "decrease the quantity of O₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-32",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 32,
+  "question": "For a reaction in equilibrium, the species involved in the equilibrium constant expression are",
+  "options": {
+   "A": "gaseous and solid species",
+   "B": "liquid and solid species",
+   "C": "solid and dissolved species",
+   "D": "gaseous and dissolved species"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-33",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 33,
+  "question": "A phenomenon where an element exists in different forms in the same physical state is known as",
+  "options": {
+   "A": "isomerism",
+   "B": "amorphism",
+   "C": "allotropy",
+   "D": "isotropy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-34",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 34,
+  "question": "The substance often used for vulcanization of rubber is",
+  "options": {
+   "A": "chlorine",
+   "B": "hydrogen peroxide",
+   "C": "sulphur",
+   "D": "tetraoxosulphate (V1) acid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-35",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 35,
+  "question": "A gas that is not associated with global warming is",
+  "options": {
+   "A": "CO₂",
+   "B": "SO₃",
+   "C": "CH₄",
+   "D": "H₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-36",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 36,
+  "question": "The refreshing and characteristics taste of soda water and other soft drinks is as a result of the presence in them of",
+  "options": {
+   "A": "carbon(1V)oxide",
+   "B": "carbon(11) oxide",
+   "C": "soda",
+   "D": "glucose"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-37",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 37,
+  "question": "A form of carbon used for absorbing poisonous gases and purification of noble gases is",
+  "options": {
+   "A": "wood charcoal’",
+   "B": "animal charcoal",
+   "C": "carbon fibres",
+   "D": "carbon black."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-38",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 38,
+  "question": "Synthesic gas is a mixture of",
+  "options": {
+   "A": "CH₄ and H₂O",
+   "B": "CH₄ and H₂",
+   "C": "CO₂ and H₂",
+   "D": "CO and H₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-39",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 39,
+  "question": "Potassium vapour burns with a",
+  "options": {
+   "A": "blue-flame",
+   "B": "brick-red flame",
+   "C": "violet flame",
+   "D": "golden-yellow flame"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-40",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 40,
+  "question": "A common characteristics of copper and silver in their usage as coinage metals is that they",
+  "options": {
+   "A": "have high metallic lustre",
+   "B": "are not easily oxidized",
+   "C": "are easily oxidized",
+   "D": "are not easily reduced",
+   "E": "copper."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-42",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 42,
+  "question": "The least easily oxidized of the metals below is",
+  "options": {
+   "A": "Ca",
+   "B": "Na",
+   "C": "Zn",
+   "D": "Al"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-43",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 43,
+  "question": "The repeating unit in natural rubber is",
+  "options": {
+   "A": "alkynes",
+   "B": "isoprene",
+   "C": "n-propane",
+   "D": "neoprene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-44",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 44,
+  "question": "Unsaturated organic compounds are identified by decolourization of.",
+  "options": {
+   "A": "silver bromide and potassium tetraoxomanganate(v11) solution",
+   "B": "bromine water and acidified potassium tetraoxomanganate(V11) solution",
+   "C": "silver bromine solution and bromine water",
+   "D": "bromine water and alkaline potassium tetraoxomanganate (V11) solution."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-45",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 45,
+  "question": "The conditions necessary for thee extraction of a water molecule form two molecules of ethanol are.",
+  "options": {
+   "A": "less acid and a lower temperature",
+   "B": "excess acid and a lower temperature",
+   "C": "excess acid and a higher temperature",
+   "D": "less acid and a higher temperature."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-46",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 46,
+  "question": "The chlorinated alkane often used industrially to remove grease is",
+  "options": {
+   "A": "tetrachloromethane",
+   "B": "chloromethane",
+   "C": "trichloromethane",
+   "D": "dichloromethane."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-47",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 47,
+  "question": "The reaction of carbide with water gives",
+  "options": {
+   "A": "ethyne",
+   "B": "ethane",
+   "C": "ethane",
+   "D": "Ethanal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-48",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 48,
+  "question": "CH₃-CH₂-C--OCH₂CH₃ The compound above is an",
+  "options": {
+   "A": "ether",
+   "B": "ester",
+   "C": "alkanal",
+   "D": "alkanol"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-49",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 49,
+  "question": "Alkanone are generally obtained by the oxidation of",
+  "options": {
+   "A": "primary alkanols",
+   "B": "secondary alkanols",
+   "C": "tertiary alkanols",
+   "D": "alkanoic acid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-50",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 50,
+  "question": "Sucrose is made up to",
+  "options": {
+   "A": "glucose and glucose",
+   "B": "glucose and fructose",
+   "C": "fructose and fructose",
+   "D": "galactose and glucose."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

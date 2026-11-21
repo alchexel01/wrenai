@@ -1,0 +1,929 @@
+[
+ {
+  "id": "chemistry-1999-1",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 1,
+  "question": "200 cm3 each of 0.1 M solution of lead (11) trioxonirate (V) and hydro chlorioc acid were mixed. Assuming that lead (11) chloride is completely insoluble, calculate the mass of lead (11) chloride that will be precipate.",
+  "options": {
+   "A": "2.78 g",
+   "B": "5.56 g",
+   "C": "8.34 g",
+   "D": "11.12 g [Pb = 207, CI = 35.5, N = 14, O = 16]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-2",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 2,
+  "question": "56.00cm3 of a gas at s.t.p weighed 0.11 g, What is the vapour density of the gas?",
+  "options": {
+   "A": "11.00",
+   "B": "22.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-3",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 3,
+  "question": "Which of the following gases will diffuse fastest when passed through a porous plug?",
+  "options": {
+   "A": "Propane",
+   "B": "Oxygen",
+   "C": "Methane",
+   "D": "Ammonia [H = 1, C = 12, N= 14, O = 16]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-4",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 4,
+  "question": "Which of the following will have its mass increased when heated in air?",
+  "options": {
+   "A": "Helium",
+   "B": "Magnesium",
+   "C": "Copper pyrites",
+   "D": "Glass atmosphere at constant volume?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-6",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 6,
+  "question": "In the diagram above, the mixture of the two solid P and Q can be separated by",
+  "options": {
+   "A": "distillation",
+   "B": "fractional distillation",
+   "C": "crystallization",
+   "D": "fractional crystallization."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1999_p55_2.png",
+  "images": [
+   "chemistry/1999_p55_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1999-7",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 7,
+  "question": "Mg(s) + 2HCl (aq) MgCl2(aq) + H2(g). From the equation above, the mass of magnesium required to react with 250cm3 of .5 M HCl is",
+  "options": {
+   "A": "0.3 g",
+   "B": "1.5 g",
+   "C": "2.4 g",
+   "D": "3.0 g [ M = 27, Cl = 35.5]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-8",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 8,
+  "question": "A gaseous metallic chloride MClx consist od 20.22% of M by mass. The formula of the chloride is",
+  "options": {
+   "A": "MCl",
+   "B": "MCl₂",
+   "C": "MCl₃",
+   "D": "M₂Cl₆ [M = 27, Cl = 35.5]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-9",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 9,
+  "question": "In which of the following are water molecules in the most disorderly arrangement?",
+  "options": {
+   "A": "Ice at –10oC",
+   "B": "Ice at OoC",
+   "C": "Water at 100oC",
+   "D": "Steam at 100oC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-10",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 10,
+  "question": "In order to remove one electron from 3s-orbital of gaseous sodium atom, about 496 kJ mol-1 of energy is required. This energy is referred to as",
+  "options": {
+   "A": "electron affinity",
+   "B": "ionization energy",
+   "C": "activation energy",
+   "D": "electronegativity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-11",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 11,
+  "question": "Nitrogen obtained from the liquefaction of air has a higher density than that obtained from nitrogen containing compounds because the former contains A Water vapour B. Oxygen",
+  "options": {
+   "C": "Carbon (1V) oxide",
+   "D": "Rare gases Use the table below to answer question 13 and 14."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-12",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 12,
+  "question": "The method that can be used to convert hard water to soft water is",
+  "options": {
+   "A": "Chlorination B Passage over activated charcoal",
+   "C": "the use of an ion exchange resin",
+   "D": "aeration Use the table below to answer question 13 and 14"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1999_p55_1.png",
+  "images": [
+   "chemistry/1999_p55_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1999-13",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 13,
+  "question": "The element that is likely to participate in covalent rather than ionic bonding is",
+  "options": {
+   "A": "Z",
+   "B": "Y",
+   "C": "X",
+   "D": "W"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-14",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 14,
+  "question": "The least reactive elements is",
+  "options": {
+   "A": "W",
+   "B": "X",
+   "C": "Y",
+   "D": "Z"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-15",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 15,
+  "question": "ls²2s²2p⁶3s²3p⁶3d⁷4s². An element with the electron configuration above is a",
+  "options": {
+   "A": "non-metal",
+   "B": "metal",
+   "C": "transition element",
+   "D": "group two element"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-16",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 16,
+  "question": "Given that electronegativity increases across a period and decreases down a group in the periodic table, in which of the following compounds will the molecules be held together by the strongest hydrogen bond?",
+  "options": {
+   "A": "HF₍g₎",
+   "B": "NH₍g₎",
+   "C": "CH4₍g₎",
+   "D": "HCl₍g₎"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-17",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 17,
+  "question": "0.25 mole of hydrogen chloride was dissolved in distilled water and the volume made up to 0.50dm3. If 15.00cm3 of the solution requires 12.50 cm3 of aqueous sodium trioxocarbonate (1V0 for neutralization, calculate the concentration of the alkaline solution.",
+  "options": {
+   "A": "0.30 mol dm⁻³",
+   "B": "0.40 mol dm⁻³",
+   "C": "0.50 mol dm⁻³",
+   "D": "0.60 mol dm⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-18",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 18,
+  "question": "The correct order of increasing oxidation number of the transition metal ions for the compounds K₂ C r ₂O ₇ , V ₂O ₅ a nd KmnO ₄i s",
+  "options": {
+   "A": "V₂O₅ < K₂Cr₂O₇, < KMnO₄",
+   "B": "K₂Cr₂O₇, < KMnO₄ < V₂O₅",
+   "C": "KMnO₄ < K₂Cr₂O₇, <V₂O₅",
+   "D": "KMnO₄ < <V₂O₅ < K₂Cr₂O₇,"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-19",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 19,
+  "question": "The set of pollutants that is most likely to be produced when petrol is accidentally spilled on plastic materials and ignited is",
+  "options": {
+   "A": "CO, CO₂ and SO₂",
+   "B": "CO, HCl and SO₂",
+   "C": "CO, CO₂ and HCl",
+   "D": "SO₂, CO₂ and HCl"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-20",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 20,
+  "question": "What is observed when aqueous solution of each of tetraoxosulphate(V1) acid, potassium trioxides (V) and potassium iodine are mixed together?",
+  "options": {
+   "A": "white precipitate is formed",
+   "B": "a green precipitate is formed",
+   "C": "The mixture remains colourless",
+   "D": "The mixture turns reddish-brown."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1999_p55_3.png",
+  "images": [
+   "chemistry/1999_p55_3.png"
+  ]
+ },
+ {
+  "id": "chemistry-1999-21",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 21,
+  "question": "deposited when 1 dm3 of a saturated solution of NaCl is cooled from 80oC to 60oC is",
+  "options": {
+   "A": "117.00 g",
+   "B": "58.50 g",
+   "C": "11.70 g",
+   "D": "5.85 g [Na = 23, Cl = 35.5]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-22",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 22,
+  "question": "The solution with the lowest pH value is",
+  "options": {
+   "A": "5 ml of m/n HCl",
+   "B": "10 ml of m/n HCl",
+   "C": "15 ml of m/n HCl",
+   "D": "20 ml of m/n HCl"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-23",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 23,
+  "question": "The solubility product of Cu(lO₃)₂ is 1.08 x 10-7. Assuming that neither ions react appreciably with water to form H⁺ and OH⁻, what is the solubility of this salt? ₋₈ ₋₃",
+  "options": {
+   "A": "2.7 x 10 mol dm",
+   "B": "9.0 x 10⁻⁸ mol dm⁻³",
+   "C": "3.0 x 10⁻⁸ mol dm⁻³",
+   "D": "9.0 x 10⁻⁸ mol dm⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-24",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 24,
+  "question": "The entropy and enthalpy of a system are a measure of",
+  "options": {
+   "A": "degree of disorderliness and heat content respectively",
+   "B": "heat content and degree of disorderliness respectively",
+   "C": "heat content of a system only",
+   "D": "degree of disorderliness only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-25",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 25,
+  "question": "2SO2(g) + O ₂( g) 2NO²(g). In the chemical reaction above, the substance that will increase the rate of production of sulphur (V1) oxide is",
+  "options": {
+   "A": "manganese (1V)oxide",
+   "B": "finely divided ion",
+   "C": "vanadium (V0 oxide",
+   "D": "nickel"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-26",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 26,
+  "question": "N₂O₄(g) 2NO₂g). Increases in total pressure of the equilibrium reaction above will",
+  "options": {
+   "A": "Produce more of NO₂(g) in the mixture",
+   "B": "Convert all of N₂O₄(g) to NO₂(g)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-27",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 27,
+  "question": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution?",
+  "options": {
+   "A": "24 125 coulombs",
+   "B": "48 250 coulombs",
+   "C": "72 375 coulombs",
+   "D": "96 500 coulombs [F = 96 500C mol⁻¹]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-28",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 28,
+  "question": "X +Y Z. The rate equation for the chemical reaction above is – [X]=[X]²[Y] The overall order of the reaction is",
+  "options": {
+   "A": "0",
+   "B": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-29",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 29,
+  "question": "When a current 1 was passed through an electrolyte solution for 40 minutes, a mass Xg of a univalent metal was deposited at the cathode. What mass of the metal will be deposited when a current 21 is passed through the solution for 10 minutes?",
+  "options": {
+   "A": "x/4 g",
+   "B": "x/2 g",
+   "C": "2X g",
+   "D": "4X g"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-30",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 30,
+  "question": "RS ₍ ₐq₎ + HF ₍ₐq₎ RF₍ₛ₎ + HS ₍ ₐq₎ H =-65.7 kJ mol¹. From the equation above, it can be deduced that.",
+  "options": {
+   "A": "the heat content of the reactants is lower than that of the reactants ucts",
+   "B": "the heat content of the reactants is higher than that of the products",
+   "C": "the reaction is slow",
+   "D": "a large amount of heat is absorbed."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-31",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 31,
+  "question": "Which of the following statements is true of the electrochemical series?",
+  "options": {
+   "A": "Electropositivity of metals increase down the series",
+   "B": "Electropositivity of non-metals decrease down the series",
+   "C": "Electronegativity of non-metals increase down the series",
+   "D": "Electropositivity of metal decreases down the series"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-32",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 32,
+  "question": "The gas that will form a white precipitate with acidified silver trioxonirate (V) is",
+  "options": {
+   "A": "NH₃",
+   "B": "SO₂",
+   "C": "CO₂",
+   "D": "HCl"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-33",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 33,
+  "question": "Chlorine bromine and iodine resemble one another in that they",
+  "options": {
+   "A": "dissolve in alkalis",
+   "B": "react violently with hydrogen without heating",
+   "C": "are liquids",
+   "D": "displace one another from solutions of their salts."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-34",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 34,
+  "question": "The salt that reacts with dilute hydrochloric which decolourizes acidified purple smelling gas which decolourizes acidified purple potassium tetraoxomanganate(V11) solution is",
+  "options": {
+   "A": "Na₂SO₄",
+   "B": "Na₂SO₃",
+   "C": "Na₂S",
+   "D": "Na₂CO₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-35",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 35,
+  "question": "A pair of compounds that can be used to generate a gas which physiological effect on human beings is",
+  "options": {
+   "A": "sodium trioxonirate(V) and calcium chloride",
+   "B": "sodium dioxonitrate (111) and ammonium chloride",
+   "C": "sodium trioxonirate(V) an ammonium chloride",
+   "D": "sodium dioxonitrate (11l) and potassium chloride."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-36",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 36,
+  "question": "Hydrogen is used in oxy-hydrogen flames for melting metals because it",
+  "options": {
+   "A": "evolves a lot of heat when burnt"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-37",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 37,
+  "question": "In the diagram above Y is mixture of",
+  "options": {
+   "A": "Calcium hydroxide and ammonium chloride",
+   "B": "Calcium hydroxide and sodium chloride(V)",
+   "C": "Sodium chloride and ammonium trioxonirate(V)",
+   "D": "Sodium dioxonitrate(lll) and ammonium chloride."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1999_p57_1.png",
+  "images": [
+   "chemistry/1999_p57_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1999-38",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 38,
+  "question": "What properties of duralumin make it more useful than its constituent metals?",
+  "options": {
+   "A": "it is heavy with a high melting point",
+   "B": "it is malleable and has high density",
+   "C": "it is strong and light",
+   "D": "it is hard and ductile"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-39",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 39,
+  "question": "The pair of metals in the reactivity series that are usually extracted by the electrolysis of their ores is",
+  "options": {
+   "A": "Magnesium and zinc",
+   "B": "Magnesium and calcium",
+   "C": "Copper and zinc",
+   "D": "Lead and calcium"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-40",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 40,
+  "question": "A metal that can be extracted from cassiterite is",
+  "options": {
+   "A": "calcium",
+   "B": "magnesium",
+   "C": "tin",
+   "D": "copper"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-41",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 41,
+  "question": "Which of the following metals is passive to concentrated trioxonirate(V) acid?",
+  "options": {
+   "A": "iron",
+   "B": "tin",
+   "C": "copper",
+   "D": "zinc"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-42",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 42,
+  "question": "The hydrocarbon the burns in air with a sooty flame is",
+  "options": {
+   "A": "C₆H₆",
+   "B": "C₃H₆",
+   "C": "C₄H₁₀",
+   "D": "C₆H₆"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-43",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 43,
+  "question": "2-methylprop-1-ene is an isomer of",
+  "options": {
+   "A": "but-2-ene",
+   "B": "pent-l-ene",
+   "C": "2-methylbut-ene",
+   "D": "2-methylbut-l-ene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-44",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 44,
+  "question": "Which of the following is a solvent for perfumes? A C₅H₁₂ B. C₄H₆",
+  "options": {
+   "C": "CH₃COOH",
+   "D": "C₂H₅OH"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-45",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 45,
+  "question": "When excess ethanol is heated to 145oC in the presence of concentrated H₂SO₄ the product is",
+  "options": {
+   "A": "ethyne",
+   "B": "diethyl sulphate",
+   "C": "diethyl ether",
+   "D": "acetone"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-46",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 46,
+  "question": "How many grammes of bromine will saturate 5.2 g of but-l-ene-3-yne?",
+  "options": {
+   "A": "64.0 g",
+   "B": "48.0 g",
+   "C": "32.0 g",
+   "D": "16.0 g [C = 12, H= 1, Br = 80]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-47",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 47,
+  "question": "Polyvinyl chloride is used to produced",
+  "options": {
+   "A": "bread",
+   "B": "pencils",
+   "C": "ink",
+   "D": "pipes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-48",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 48,
+  "question": "An organic compound that does not undergo a reaction with both hydrogen cyanide and hydroxylamine can be an",
+  "options": {
+   "A": "alkenes",
+   "B": "alkanal",
+   "C": "alkanone",
+   "D": "Alkanoic acid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-49",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 49,
+  "question": "When two end alkyl groups of ethyl ethanoate are interchanged, the compound formed is known as",
+  "options": {
+   "A": "methylethanoate",
+   "B": "ethyl propionate",
+   "C": "methylpronoste",
+   "D": "propel ethanoate."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-50",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 50,
+  "question": "Which of the compounds above would react to take up two molecules of bromine during bromination?",
+  "options": {
+   "A": "1 only",
+   "B": "111 only",
+   "C": "1 and 11 only",
+   "D": "11 and 111 only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1999_p57_2.png",
+  "images": [
+   "chemistry/1999_p57_2.png"
+  ]
+ }
+]

@@ -1,0 +1,895 @@
+[
+ {
+  "id": "chemistry-2001-1",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 1,
+  "question": "25cm³ of a gas X contains Z molecules at 15oC and 75 mm Hg. How many molecules will 25cm³ of another gas Y contain at the same temperature and pressure? A, 2Y, B. 2Z. C. Y, D. Z.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-2",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 2,
+  "question": "What mass of water is produced when 8.0g of hydrogen reacts with excess oxygen?",
+  "options": {
+   "A": "72.0g,",
+   "B": "36.0g,",
+   "C": "16.0g,",
+   "D": "8.0g Use the graph below to answer questions 3 and 4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/2001_p61_1.png",
+  "images": [
+   "chemistry/2001_p61_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-2001-3",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 3,
+  "question": "How long does it take all the solid to melt?",
+  "options": {
+   "A": "6.0mins,",
+   "B": "3.0mins,",
+   "C": "2.5mins,",
+   "D": "1.0min"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-4",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 4,
+  "question": "If the gas is cooled, at what temperature will it start to condense?",
+  "options": {
+   "A": "175oC,",
+   "B": "250oC,",
+   "C": "125oC,",
+   "D": "150oC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-5",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 5,
+  "question": "Four elements W,X,Y and Z have atomic numbers 2,6,16 and 20 respectively. Which of these elements is a meal?",
+  "options": {
+   "A": "X,",
+   "B": "Z,",
+   "C": "W,",
+   "D": "Y"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/2001_p61_2.png",
+  "images": [
+   "chemistry/2001_p61_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-2001-6",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 6,
+  "question": "The diagram above represents the formation of",
+  "options": {
+   "A": "a metallic bond,",
+   "B": "a covalent bond,",
+   "C": "an electrovalent bond. D a coordinate covalent bond with relative abundance of 10%. The value of m is",
+   "D": "16"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-8",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 8,
+  "question": "Cancerous growth are cured by exposure to",
+  "options": {
+   "A": "x-rays,",
+   "B": "betta-rays,",
+   "C": "alpha-rays,",
+   "D": "gamma-rays"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-9",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 9,
+  "question": "Which of the following statement is correct about the average kinetic energy of the molecules of a gas?",
+  "options": {
+   "A": "it increases with increase in pressure,",
+   "B": "it increases with increase in temperature,",
+   "C": "It increases with increase in volume,",
+   "D": "It increases at constant pressure."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-10",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 10,
+  "question": "Millikan’s contribution to the development of atomic theory is the determination of",
+  "options": {
+   "A": "positive rays,",
+   "B": "cathode rays,",
+   "C": "charge to mass ratio ,",
+   "D": "charge on electron."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-11",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 11,
+  "question": "A particle that contains 9 protons, 10 neutrons and 10 electrons is",
+  "options": {
+   "A": "positive ion B.neutral atom of a metal",
+   "C": "neutral atom of a non-metal",
+   "D": "negative ion."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-12",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 12,
+  "question": "An oxide XO₂ has a vapour density of 32. What is the atomic mass of X?",
+  "options": {
+   "A": "20",
+   "B": "32",
+   "C": "14",
+   "D": "12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-13",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 13,
+  "question": "The chemical used for coagulation in water purification is",
+  "options": {
+   "A": "copper tetraoxosulphate (VI)",
+   "B": "sodium tetraoxosulphate (VI)",
+   "C": "aluminium tetraoxosulphate (VI)",
+   "D": "calcium tetraoxosulphate (VI)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-14",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 14,
+  "question": "Environment pollution is worsened by the release from automobile exhausts of",
+  "options": {
+   "A": "heavy metals",
+   "B": "water vapour",
+   "C": "smoke",
+   "D": "steam"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-15",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 15,
+  "question": "Phosphorus is stored under water to prevent it from",
+  "options": {
+   "A": "smelling",
+   "B": "dehydrating",
+   "C": "catching fire",
+   "D": "becoming inert"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-16",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 16,
+  "question": "Pure solvents are obtained by",
+  "options": {
+   "A": "evaporation",
+   "B": "extraction",
+   "C": "condensation",
+   "D": "distillation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/2001_p62_1.png",
+  "images": [
+   "chemistry/2001_p62_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-2001-17",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 17,
+  "question": "d K",
+  "options": {
+   "A": "75⁰C",
+   "B": "100⁰C",
+   "C": "90⁰C",
+   "D": "82⁰C"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-18",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 18,
+  "question": "If 1 dm³ of a saturated solution of L at 60⁰C is cooled to 25⁰C, what amount in mole will separate?",
+  "options": {
+   "A": "0.25",
+   "B": "0.50",
+   "C": "0.75",
+   "D": "1.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-19",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 19,
+  "question": "Deliquescent substance are used for",
+  "options": {
+   "A": "drying",
+   "B": "melting",
+   "C": "wetting",
+   "D": "cooling"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-20",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 20,
+  "question": "What is the decrease in volume of air when pyrogallol is shaken with 30.00cm³ of air?",
+  "options": {
+   "A": "0.63cm³",
+   "B": "..................... 0.06cm³",
+   "C": "15.00cm³",
+   "D": "................ 6.30cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-21",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 21,
+  "question": "The pollution from petroleum spillage in rivers and takes can best be dispersed by",
+  "options": {
+   "A": "passing of ships through the area",
+   "B": "pouring detergents",
+   "C": "pouring organic solvents",
+   "D": "evaporation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-22",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 22,
+  "question": "3Cu(s) + 8HNO₃(aq) 3Cu(NO₃)₂(aq) + 4H₂0(i)+2NO(g) In the equation above, copper is",
+  "options": {
+   "A": "a base",
+   "B": "an oxidizing agent",
+   "C": "a reducing agent",
+   "D": "an electron acceptor."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-23",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 23,
+  "question": "NH3(g) + HCI(g) ’! NH4CI(s) The entropy change in the system above is",
+  "options": {
+   "A": "zero",
+   "B": "indeterminate",
+   "C": "positive",
+   "D": "negative"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-24",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 24,
+  "question": "What current in amperes will deposit 2.7g of aluminum in 2 hours?",
+  "options": {
+   "A": "32",
+   "B": "16",
+   "C": "8",
+   "D": "4 {AI= 27, F 96 500C mol⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-25",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 25,
+  "question": "2SO₂(g)+O₂ (g) 2SO₃(g) The equilibrium constant for the reaction above is increased by",
+  "options": {
+   "A": "increasing the pressure of the system",
+   "B": "increasing the temperature of the system",
+   "C": "increasing the surface area of the vessel",
+   "D": "the addition of a catalyst to the system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-26",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 26,
+  "question": "As the concentration of an electrolyte reduces, the conductivity",
+  "options": {
+   "A": "decreases",
+   "B": "increases",
+   "C": "reduces to zero",
+   "D": "is unaffected."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-27",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 27,
+  "question": "C(s) + 2S(g) CS₂ H =89kJmol ₋₁ The chemical equation above implies that",
+  "options": {
+   "A": "89kJ of energy is absorbed",
+   "B": "each of carbon and sulphur has 89 kJ of energy",
+   "C": "both carbon and sulphur contribute 89kJ of energy",
+   "D": "89 kJ of energy is released"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-28",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 28,
+  "question": "Which of the following best explains the increase in the rate of a chemical reaction as the temperature rises?",
+  "options": {
+   "A": "A lower proportion of the molecules has the necessary minimum energy to react",
+   "B": "The bonds in the reacting molecules are more readily broken",
+   "C": "The collision frequency of the molecules increases",
+   "D": "The molecular collisions become more violent."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-29",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 29,
+  "question": "In which of the following reaction have the oxidation number of nitrogen increased?",
+  "options": {
+   "A": "2NO(g) + Br₂ (l) 2NOBr(1)",
+   "B": "FeSO4 (aq) + NO(g) Fe(NO)SO₄(s)",
+   "C": "2NO(g) + CI₂(g) 2NOCI(l)",
+   "D": "2NO(g) + O₂(g) 2NO ₂(g)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-30",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 30,
+  "question": "P₍g₎ + Q₍g₎ 3R₍ₛ₎+S₍g₎ which of the following will increase the yield of R?",
+  "options": {
+   "A": "Removing some S",
+   "B": "Using a larger closed vessel",
+   "C": "Adding a positive catalyst",
+   "D": "Increasing the temperature 31 Ethanoic acid is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-32",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 32,
+  "question": "A metal M displaces zinc from zinc chloride solution. This shows that",
+  "options": {
+   "A": "M is more electronegative than zinc",
+   "B": "Zinc is above hydrogen in the series",
+   "C": "Electron flow from zinc to M",
+   "D": "M is more electropositive that zinc"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-33",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 33,
+  "question": "In which of the following reactions does reduction take place?",
+  "options": {
+   "A": "2O²⁻——————O² + 4e⁻",
+   "B": "Fe²₊⁺₋ - e———————Fe³⁺",
+   "C": "2H ——————H₂",
+   "D": "Cr – 2e———————Cr²⁺"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-34",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 34,
+  "question": "When H is negative, a reaction is said to be",
+  "options": {
+   "A": "Endothermic",
+   "B": "Exothermic",
+   "C": "Rerverisble",
+   "D": "Ionic. ethyne?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-36",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 36,
+  "question": "Protein in acid solution undergo",
+  "options": {
+   "A": "Polymorphism",
+   "B": "Hydrolysis",
+   "C": "Fermentation",
+   "D": "Substitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-37",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 37,
+  "question": "Fermentation is the",
+  "options": {
+   "A": "breaking down of carbohydrate to glucose",
+   "B": "breaking down of sugar to carbohydrate",
+   "C": "conversion of sugar to alcohol in the presence of yeast",
+   "D": "conversion of alcohol to sugar in the presence of yeast."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-38",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 38,
+  "question": "Catalytic hydrogenation of benzene produces",
+  "options": {
+   "A": "Cyclohexene",
+   "B": "Oil",
+   "C": "Margarine",
+   "D": "Cyclohexane."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-39",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 39,
+  "question": "A characteristics reaction of the compounds with the general formula Cₙ2ₙ is",
+  "options": {
+   "A": "Substitution",
+   "B": "Esterification",
+   "C": "Decarboxylation",
+   "D": "Polymerization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-40",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 40,
+  "question": "When chlorine is passed into water and the resulting solution exposed to sunlight, the products formed are",
+  "options": {
+   "A": "Chlorine gas and hydrogen",
+   "B": "Hydrochloric acid and oxygen",
+   "C": "Chlorine gas and oxochlorate (1) acid",
+   "D": "Oxygen and oxochlorate (1) acid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-41",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 41,
+  "question": "The pair of organic compounds that are isomers is",
+  "options": {
+   "A": "But – 1-ene and but – 2-ene",
+   "B": "Ethanol and propanone",
+   "C": "Trichlorometheane and tetrachloromethane",
+   "D": "Benzene and methylbenzene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-42",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 42,
+  "question": "C₁₂H₂₂O₍ₛ₎ + H₂SO₄₍ₐq₎———12C₍ₛ₎ + 11H₂O₍ₗ₎ + H₂SO₄₍ₐq₎ In the reaction above, tetraoxosulphate (VI) acid function as",
+  "options": {
+   "A": "a reducing agent",
+   "B": "a catalyst",
+   "C": "a dehydrating agent",
+   "D": "an oxidizing agent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-43",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 43,
+  "question": "During the vulcanization of rubber sulphur is added to",
+  "options": {
+   "A": "lengthen the chain of rubber",
+   "B": "break down rubber polymer",
+   "C": "act as a catalyst",
+   "D": "bind rubber molecules together"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-44",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 44,
+  "question": "When sodium reacts with water, the resulting solution is",
+  "options": {
+   "A": "Alkaline",
+   "B": "Acidic",
+   "C": "Neutral",
+   "D": "Weakly acidic."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-45",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 45,
+  "question": "The general formula for the alkanals is",
+  "options": {
+   "A": "RCOOR¹",
+   "B": "R₁ C O",
+   "C": "RCHO",
+   "D": "ROH"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-46",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 46,
+  "question": "Which of the following metals burns with a brick red flame?",
+  "options": {
+   "A": "Ca",
+   "B": "Na",
+   "C": "Mg",
+   "D": "Pb"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-47",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 47,
+  "question": "The gas that can best be collected by downward displacement of air is",
+  "options": {
+   "A": "Chlorine",
+   "B": "Sulphur (IV) oxide",
+   "C": "Carbon (IV) oxide",
+   "D": "Ammonia."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-48",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 48,
+  "question": "A trihydric alkanol is",
+  "options": {
+   "A": "Phenol",
+   "B": "Glycol",
+   "C": "Glycerol",
+   "D": "Ethanol"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-49",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 49,
+  "question": "The main impurity in iron ore during the extraction of iron is",
+  "options": {
+   "A": "Calcium trioxosilicate",
+   "B": "Silicon (IV) oxide",
+   "C": "Sulphur (II) oxide",
+   "D": "Carbon (IV) oxide."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-50",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 50,
+  "question": "A burning candle produces water and",
+  "options": {
+   "A": "carbon (IV) oxide",
+   "B": "carbon (IV) oxide",
+   "C": "oxygen",
+   "D": "hydrogen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

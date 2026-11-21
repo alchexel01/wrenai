@@ -1,0 +1,902 @@
+[
+ {
+  "id": "chemistry-2002-2",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 2,
+  "question": "Which of the following gases contains the least number of atoms at s.t.p?",
+  "options": {
+   "A": "7 moles of argon",
+   "B": "4 moles of chlorine",
+   "C": "3 moles of ozone",
+   "D": "1 mole of butane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-3",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 3,
+  "question": "The chromatographic separation of ink is based on the empiricalformula",
+  "options": {
+   "A": "dissolveineachother in the column",
+   "B": "move at different speeds in the column",
+   "C": "react with the solvent",
+   "D": "react with each other."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-4",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 4,
+  "question": "A compound contain 31.91% potassium, 28.93% chlorine and the rest oxygen. What is the chemical formula of the compound?",
+  "options": {
+   "A": "KClO",
+   "B": "KClO₂",
+   "C": "KClO₃",
+   "D": "KClO₄"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-5",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 5,
+  "question": "A little quantity of trichloromethane (b.pt.60oC) was added",
+  "options": {
+   "C": "70 oC - 74oC",
+   "D": "82 oC - 84oC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-6",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 6,
+  "question": "The gas that gives brown colouration in brown ring test is",
+  "options": {
+   "A": "CO",
+   "B": "NO",
+   "C": "CO₂",
+   "D": "NO₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-7",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 7,
+  "question": "Which of the following gives a precipitate when treated with NaOH solution?",
+  "options": {
+   "A": "NH₄Cl",
+   "B": "Na₂CO₃",
+   "C": "AlCl₃",
+   "E": "CH₃COONa"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-8",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 8,
+  "question": "The reaction of an alkene with hydrogen in the presence of a catalyst is",
+  "options": {
+   "A": "a nucleophilic reaction",
+   "B": "an addition reaction",
+   "C": "a substitution reaction",
+   "D": "an oxidative reaction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-9",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 9,
+  "question": "A rock sample was added to cold dilute HNO₃. The gas evolved was passed into a solution of acidified K₂Cr₂O₇ and the solution turned green. The rock sample contains.",
+  "options": {
+   "A": "SO₄ ²⁻",
+   "B": "SO₃ ²⁻",
+   "C": "NO³⁻",
+   "D": "Cl⁻"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-10",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 10,
+  "question": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate (V1) is",
+  "options": {
+   "A": "methanal",
+   "B": "propanal",
+   "C": "ethanal",
+   "D": "butanal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-11",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 11,
+  "question": "CH₃ CH₃ CH₂--C-H The compound above is a",
+  "options": {
+   "A": "primary alkanols",
+   "B": "secondary alkanols",
+   "C": "tertiary alkanols",
+   "D": "glycol 12, A red precipitate of copper (1) carbide is formed when ammonium solution copper (1) chloride is introduced into."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-13",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 13,
+  "question": "The most important use of hydrogen is in the",
+  "options": {
+   "A": "manufacture of methyl alcohol",
+   "B": "manufacture of ethyl alcohol",
+   "C": "hydrogenation of oils",
+   "D": "manufacture of ammonia"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-14",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 14,
+  "question": "Which of the following polymers is suitable for packaging and electrical insulation?",
+  "options": {
+   "A": "Polyethene",
+   "B": "Polystyrene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-15",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 15,
+  "question": "The boiling of fat and aqueous caustic soda is referred to as.",
+  "options": {
+   "A": "acidification",
+   "B": "hydrolysis",
+   "C": "saponification",
+   "D": "esterification."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-16",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 16,
+  "question": "Ordinary glass is manufactured from silica, CaCO₃ and",
+  "options": {
+   "A": "NaHCO₃",
+   "B": "K₂SO₄",
+   "C": "K₂CO₃",
+   "D": "Na₂CO₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-17",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 17,
+  "question": "OH CH₃- C-CH₂-CH₃ CH₃ The major product of the dehydration of the compound above is A H CH₃- C-CH₂₋CH₃ CH₃",
+  "options": {
+   "B": "CH₃- C= CH₂-CH₃ CH₃",
+   "C": "CH₃ - CH-CH-CH₂₃ CH₃",
+   "D": "CH₃ CH₂CH₂CH₃ CH₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-18",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 18,
+  "question": "The number of isomers formed by C₆H₁₄ is",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-19",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 19,
+  "question": "Which of these pairs are synthetic and natural macromolecules respectively?",
+  "options": {
+   "A": "Nylon and polyethylene, creatine and haemoglobin",
+   "B": "Nylon and creative, polyethylene and haemoglobin",
+   "C": "Polyethylene and creatine, nylon and haemoglobin",
+   "D": "Haemoglobin and nylon, creatine and polyethylene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-20",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 20,
+  "question": "An example of an element that can catenate is",
+  "options": {
+   "A": "nitrogen",
+   "B": "chlorine",
+   "C": "carbon",
+   "D": "bromine"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-21",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 21,
+  "question": "Ethanol can easily be produced by",
+  "options": {
+   "A": "distillation of starch solution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-22",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 22,
+  "question": "Hydrogen is readily released when dilute hydrochloric acid reacts with",
+  "options": {
+   "A": "Ag",
+   "B": "Au",
+   "C": "Cu",
+   "D": "Na"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-23",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 23,
+  "question": "Which of the following statement is true of a proton?",
+  "options": {
+   "A": "The mass of a proton is 1.0008 g",
+   "B": "The mass of a proton is",
+   "C": "The mass of proton is 1840 times the mass of an electron",
+   "D": "The total mass of the proton in a particular nucleus is always half the nucleus is always half the nuclear mass."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-24",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 24,
+  "question": "¹⁴ ₆ C X + B X in the equation above represents.",
+  "options": {
+   "A": "¹⁴ ₇ N",
+   "B": "¹³ ₆C",
+   "C": "¹² ₆ C",
+   "D": "¹² ₅B"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-25",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 25,
+  "question": "A gas X diffuses twice as fast as gas Y under the same condition. If the relative molecular mass of X is 28, calculate the relative molecular mass of Y",
+  "options": {
+   "A": "14",
+   "B": "56",
+   "C": "112",
+   "D": "120"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-26",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 26,
+  "question": "Which of the following chlorides would exhibit the least ionic character?",
+  "options": {
+   "A": "LiCl",
+   "B": "MgCl₂",
+   "C": "CaCl₂",
+   "D": "AlCl₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-27",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 27,
+  "question": "A fixed mass of gas has a volume of 92 cm³ at 3oC. What will be its volume at 18oC if the pressure remains constant?",
+  "options": {
+   "A": "552.0 cm³",
+   "B": "..................... 97.0 cm³",
+   "C": "87.3 cm³",
+   "D": "15.3 cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-28",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 28,
+  "question": "The processes which return carbon(1V) oxide to the atmosphere include",
+  "options": {
+   "A": "Photosynthesis, respiration and transpiration",
+   "B": "Respiration, decay and combustion",
+   "C": "Photosynthesis, decay and respiration",
+   "D": "Ozone depletion, combustion and decay."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-29",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 29,
+  "question": "The postulate of Dalton’s atomic theory which still hold is that",
+  "options": {
+   "A": "all element are made of small indivisible particles",
+   "B": "particles of different elements combine in a simple whole number ration",
+   "C": "atoms can neither be created nor destroy ed",
+   "D": "the particles of the same element are exactly alike"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-30",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 30,
+  "question": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in a vessel with a total pressure of 0.7 atmosphere,",
+  "options": {
+   "C": "0.44 atmosphere",
+   "D": "0.55 atmosphere"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-31",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 31,
+  "question": "When H₂S is passed into a solution of iron (iii) chloride, the solution turns",
+  "options": {
+   "A": "brown",
+   "B": "pale green",
+   "C": "colourless",
+   "D": "pale red."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-32",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 32,
+  "question": "Which of the following equations shows that a reaction is in equilibrium?",
+  "options": {
+   "A": "G = H – T S",
+   "B": "G < O",
+   "C": "G = O",
+   "D": "G > O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-33",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 33,
+  "question": "Cu ₂S ₍ₛ ₎+ O ₂₍g₎ 2Cu ₍ₛ₎ + SO ₂₍g₎ What is the change in the oxidation number of copper in the reaction above?",
+  "options": {
+   "A": "0 to +2",
+   "B": "0 to +1",
+   "C": "+1 to 0",
+   "D": "+2 to +1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-34",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 34,
+  "question": "the n of",
+  "options": {
+   "C": "R",
+   "D": "S",
+   "E": ""
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/2002_p65_1.png",
+  "images": [
+   "chemistry/2002_p65_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-2002-35",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 35,
+  "question": "In the reaction E + F G + H, the backward reaction is favoured if the concentration of",
+  "options": {
+   "A": "E is reduced",
+   "B": "G is reduced",
+   "C": "F is increases",
+   "D": "E is increased"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-36",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 36,
+  "question": "The products of the electrolysis of dilute sodium hydroxide using platinum electrodes are",
+  "options": {
+   "A": "sodium metal and oxygen gas",
+   "B": "hydrogen and oxygen gases",
+   "C": "water and hydrogen gas",
+   "D": "water and sodium metal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-37",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 37,
+  "question": "PCl₅₍g₎ PCl₃₍g₎ + Cl₂₍g₎ In the reaction above, a decrease in pressure will",
+  "options": {
+   "A": "increase the yield of PCl"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-38",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 38,
+  "question": "The Arrhenius equation expresses the relationship between the speed of a reaction and its",
+  "options": {
+   "A": "catalyst",
+   "B": "activation energy",
+   "C": "molecular collisions",
+   "D": "heat of reaction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-39",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 39,
+  "question": "What amount of mercury would be liberated if the same quantity of electricity that liberated 0.65 g of zinc is supplied?",
+  "options": {
+   "A": "8.04 g",
+   "B": "4.02 g",
+   "C": "2.01 g",
+   "D": "1.00 g [Zn = 65, Hg = 201]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-40",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 40,
+  "question": "When dissolved in water, NaOH flakes show",
+  "options": {
+   "A": "a rapid reaction",
+   "B": "a slow reaction",
+   "C": "an exothermic change",
+   "D": "an endothermic change"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-41",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 41,
+  "question": "Steam changes the colour of anhydrous cobalt (11) chloride from",
+  "options": {
+   "A": "blue to white",
+   "B": "white to green",
+   "C": "blue to pink",
+   "D": "white to red"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-42",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 42,
+  "question": "Which of the following solutions containing only hydroxyl ions will liberate hydrogen gas when reacted with magnesium metal?",
+  "options": {
+   "A": "1.0 x 10⁻¹² mol dm⁻³",
+   "B": "1.0 x 10⁻⁶ mol dm⁻³",
+   "C": "1.0 x 10⁻⁴ mol dm⁻³",
+   "D": "1.0 x 10⁻² mol dm⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-43",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 43,
+  "question": "The solubility of a salt of molar mass101 g at 20oC is 0.34mol dm⁻³. If 3.40 g of the salt is dissolved completely in 250 cm³ of water in beaker, the resulting solution is",
+  "options": {
+   "A": "saturated",
+   "B": "unsaturated",
+   "C": "supersaturated",
+   "D": "a suspension. ₃ ₋₃ ₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-44",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 44,
+  "question": "25 cm of a 0.2mol dm solution of Na₂ CO₃ requires 20cm of a solution of HCl for neutralization. The concentration of the HCl solution is",
+  "options": {
+   "A": "0.2 mol dm⁻³",
+   "B": "0.4 mol dm⁻³",
+   "C": "0.5 mol dm⁻³",
+   "D": "0.6 mol dm⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-45",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 45,
+  "question": "When a salt loses its water of crystallization to the atmosphere exposure, the process is said to be",
+  "options": {
+   "A": "effervescence",
+   "B": "efflorescence",
+   "C": "fluorescence",
+   "D": "deliquescence"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-46",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 46,
+  "question": "Three drops of 1.0 mol dm⁻³ solution of NaOH are added to 20 cm⁻³ of a solution of pH 8.4. The pH of the resulting solution will be",
+  "options": {
+   "A": "less than 8.4",
+   "B": "greater than 8.4",
+   "C": "unaltered",
+   "D": "close to that of pure water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-47",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 47,
+  "question": "Tetraoxosulphate (Vl) acid burns the sk9in by",
+  "options": {
+   "A": "dehydration",
+   "B": "hydrolysis",
+   "C": "hydration",
+   "D": "heating"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-48",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 48,
+  "question": "The substance least considered as a source of environmental pollution is",
+  "options": {
+   "A": "uranium",
+   "B": "lead compounds",
+   "C": "organphosphourous compounds",
+   "D": "silicate minerals."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-49",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 49,
+  "question": "The property which makes alcohol soluble in water is the",
+  "options": {
+   "A": "ionic character",
+   "B": "boiling point",
+   "C": "covalent nature",
+   "D": "hydrogen bonding"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-50",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 50,
+  "question": "The furring of kettles is caused by the presence in water",
+  "options": {
+   "A": "calcium hydrogentrioxocarbonate (1V)",
+   "B": "calcium trioxocarbonate(1V)",
+   "C": "calcium tetraoxosulphate (V1)",
+   "D": "calcium hydroxide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

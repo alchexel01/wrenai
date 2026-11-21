@@ -1,0 +1,950 @@
+[
+ {
+  "id": "chemistry-1991-1",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 1,
+  "question": "Which of the following can be obtained by fraction of distillation?",
+  "options": {
+   "A": "Nitrogen from liquid air",
+   "B": "Sodium chloride for sea water",
+   "C": "Iodine from a solution of iodine in carbon tetrachloride",
+   "D": "Sulphur from a solution of sulphur in carbon disulphide."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-2",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 2,
+  "question": "Which of the following are mixture? I Petroleum ii Rubber latex. Iii Vulcanizes’ solution. Iv Carbon (ll) sulphides",
+  "options": {
+   "A": "I, ii and iii",
+   "B": "I, ii and iv",
+   "C": "I and ii only",
+   "D": "I and iv"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-3",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 3,
+  "question": "Anironoreisknowntocontain70.0%Fe₂O .₃ The mass of iron metal which can theorically be obtained from 80kg of the ore is.",
+  "options": {
+   "A": "35.0 kg",
+   "B": "39.2 kg",
+   "C": "70.0 kg",
+   "D": "78.4 kg [Fe = 356, O = 16]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-4",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 4,
+  "question": "In two separate experiments 0.36 g and 0.71 g of chlorine combine with a metal X to give Y and Z respectively. An analysis showed that Y and Z contain 0.20 g and 0.40 g of X respectively. The data above represents the law of .",
+  "options": {
+   "A": "multiple proportion",
+   "B": "conversation of mass",
+   "C": "constant composition",
+   "D": "reciprocal proportion."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-5",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 5,
+  "question": "30cm³ of oxygen at 10 atmosphere pressure is placed in a 20 dm³ container. Calculate the new pressure it temperature is kept constant.",
+  "options": {
+   "A": "6.7 atm",
+   "B": "15.0 atm",
+   "C": "6.0 atm",
+   "D": "66.0 atm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-6",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 6,
+  "question": "A given quantity of gas occupies a volume of 228 cm ³ at a pressure of 750 mm Hg. What will be its volume at atmospheric pressure?",
+  "options": {
+   "A": "200cm³",
+   "B": "225 cm³",
+   "C": "230 cm³",
+   "D": "235 cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-7",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 7,
+  "question": "Calculate the volume of carbon (lv) oxide measure at s.t.p, produced when 1 kg of potassium hydrogen trioxocarbonate (iV) is totally decomposed by heat.",
+  "options": {
+   "A": "28 dm³",
+   "B": "56 dm³",
+   "C": "112 dm³",
+   "D": "196 dm³ [G.M.V at s.t.p = 22.4 dm³, K = 39, O = 16, C = 12, H = 1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-8",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 8,
+  "question": "A sample of a gas exerts a pressure of 8.2 atm when confined in a 2.93dm³ container at 20oC. The number of moles of gas in the sample is",
+  "options": {
+   "A": "1.00",
+   "B": "2.00",
+   "C": "3.00",
+   "D": "4.00 [ R= 0.082 litre atm/deg mole]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-9",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 9,
+  "question": "Atoms of element X (with 2 electrons in the outer shell) combine with atoms of Y( with 7 electrons in the outer shell). Which of the following is FALSE? The compound formed",
+  "options": {
+   "A": "has formula XY",
+   "B": "is likely to be ionic",
+   "C": "contains X²⁺ ions",
+   "D": "contains Y⁻ ions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-10",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 10,
+  "question": "The ions X⁻ and Y⁺ are isoelectronic, each containing a total of 10 electrons. How many proteins are in the nuclei of the neutral atoms of X and Y respectively?",
+  "options": {
+   "A": "10 and 10",
+   "B": "9 and 9",
+   "C": "11 and 9",
+   "D": "9 and 11"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-11",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 11,
+  "question": "The electronic configuration of an element is 1s² 2s²2p⁶ 3s² 3p³. How many unpaired electron are there in the element.",
+  "options": {
+   "A": "5",
+   "B": "4",
+   "C": "3",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-12",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 12,
+  "question": "Which of the following represents the type of bonding present in ammonium chloride molecule?",
+  "options": {
+   "A": "Ionic only",
+   "B": "Covalent only",
+   "C": "Ionic and dative covalent",
+   "D": "Dative covalent only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-13",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 13,
+  "question": "Which of the following is arranged in order of increasing electronegativity?",
+  "options": {
+   "A": "Chlorine, aluminium, magnesium, phosphorus, sodium.",
+   "B": "Sodium, magnesium, aluminium phosphorus, chlorine",
+   "C": "Chlorine, phosphorus, aluminium, magnesium, sodium.",
+   "D": "Sodium, chlorine, phosphorus, magnesium, aluminium."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-14",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 14,
+  "question": "A quantity of air was passed through a weighed mount of alkaline pyrogallol. An increase in the weight of the pyrogallol would result from the absorption of.",
+  "options": {
+   "A": "nitrogen",
+   "B": "neon",
+   "C": "argon",
+   "D": "oxygen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-15",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 15,
+  "question": "The electrons of two atoms of Y and Z are arranged in shells as shown above. The bond formed between the atoms of Y and Z is",
+  "options": {
+   "A": "ionic",
+   "B": "covalent",
+   "C": "dative",
+   "D": "metallic."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1991_p31_1.png",
+  "images": [
+   "chemistry/1991_p31_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1991-16",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 16,
+  "question": "Which of the following ionsis a pollutant in drinking water even in trace amount?",
+  "options": {
+   "A": "Ca²⁺",
+   "B": "Hg²⁺",
+   "C": "Mg²⁺",
+   "D": "Fe²⁺"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-17",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 17,
+  "question": "The solubility of copper (ll) tetraoxosulphate (Vl) is 75 g in 100 g of water at 100oC and 25 g in 100 g of water at 30oC.What mass of the salt would crystallize, if 50 g of copper (ll) tetraoxosulphate (Vl) solution saturated at 100oC were cooled to 30oC?",
+  "options": {
+   "A": "57.5 g",
+   "B": "42.9 g",
+   "C": "28. 6g",
+   "D": "14.3 g"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-18",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 18,
+  "question": "A sample of temporary hard water can be prepared in the laboratory by.",
+  "options": {
+   "A": "dissolving calcium chloride in distilled water",
+   "B": "saturating lime water with carbon(lV) oxide",
+   "C": "saturating distilled water with calcium hydroxide",
+   "D": "dissolving sodium hydrogen trioxocarbonate (lV) in some distilled water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-19",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 19,
+  "question": "A property of a colloidal dispersion which a solution does not have is .",
+  "options": {
+   "A": "the Tyndall effect",
+   "B": "homogeneity",
+   "C": "osmotic pressure",
+   "D": "surface polarity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-20",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 20,
+  "question": "50 cm3 of sulphur (lV) oxide, 800cm3 of ammonia, 450 cm3 of hydrogen chloride, 1.0 cm3 of water at 15oC. Which of the following is suitable for demonstrating the fountain experiment?",
+  "options": {
+   "A": "Sulphur (lV) oxide and hydrogen chloride",
+   "B": "Carbon (lV) oxide and ammonia",
+   "C": "Ammonia and hydrogen chloride"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1991_p32_1.png",
+  "images": [
+   "chemistry/1991_p32_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1991-21",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 21,
+  "question": "Which of the following substances could be satisfactorily used as X in the above figure?",
+  "options": {
+   "A": "Ammonia and Potassium hydroxide",
+   "B": "Potassium hydroxide and sodium chloride",
+   "C": "Ammonia and ethanoic acid",
+   "D": "Ethanoic and sodium chloride"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-22",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 22,
+  "question": "What volume of CO₂ at s.t.p would be obtained by reacting 10cm³ of 0.1 M solution of anhydrous sodium trioxocarbonate (lV) with excess acid?",
+  "options": {
+   "A": "2.240 cm₃",
+   "B": "22.40 cm₃",
+   "C": "224.0 cm₃",
+   "D": "2240 cm₃ [G.M.V at s.t.p = 22.4 dm₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-23",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 23,
+  "question": "If a current of 1.5 A is passed for 4.00 hours through a molten tin salt and 13.3 g of tins is deposited, What is the oxidation state of the metal in the salt?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4 [Sn = 118.7, F = 96500 C mol⁻¹]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-24",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 24,
+  "question": "Which of the following equivocal solutions, Na₂CO₃, Na₂SO₄, FeCl₃, NH₄Cl and CH₃ COONa, have pH greater than?",
+  "options": {
+   "A": "FeCl₃ and NH₄Cl",
+   "B": "Na₂CO₃ CH₃ COONa and Na₂SO₄,",
+   "C": "Na₂CO₃ and CH₃ COONa",
+   "D": "FeCl₃ , CH₃, COONa. NH₄Cl"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-25",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 25,
+  "question": "MnO⁻ ₄+ 8H⁺ + ne M⁺⁺ + 4H ₂ O. Which is the value of n the reaction above?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-26",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 26,
+  "question": "2H₂₍g₎ + SO₂₍g₎ 3S₍ₛ₎ + 2H₂O₍₁₎. The above reaction is",
+  "options": {
+   "A": "a redox reaction in which H₂S is the oxidant and SO₂ is the reductant.",
+   "B": "a redox reaction in which SO₂is the oxidant and H₂S is the reductant.",
+   "C": "Not a redox reaction because there is no oxidant in the reaction equation",
+   "D": "Not a redox reaction because there is no reductant in the reaction equation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-27",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 27,
+  "question": "Manganese(lV) oxide is known to hasten the decomposition of hydrogen peroxide. Its main actions",
+  "options": {
+   "C": "lower the activation energy for the reaction",
+   "D": "lower the heat of reaction, H, for the reaction,"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-28",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 28,
+  "question": "1.1 g of CaCl₂ dissolved in 50 cm³ of water caused a rise in temperature of 34oC. The heat reaction, H for CaCl ₂ in kJ per moles is",
+  "options": {
+   "A": "-71.1",
+   "B": "–4.18",
+   "C": "+17.1",
+   "D": "+111.0 [Ca = 40, Cl = 35.5, specific heat of water is 4.18 KJ⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-29",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 29,
+  "question": "NO + CO 1/2 N₂ + CO₂ H = -89.3kJ .What conditions would favour maximum conversion of nitrogen (ll) oxide and carbon(ll) oxide in the reaction above?",
+  "options": {
+   "A": "low temperature and high pressure",
+   "B": "high temperature and low pressure",
+   "C": "high temperature and high pressure",
+   "D": "low temperature and low pressure."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-30",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 30,
+  "question": "Which of the following equilibria is unaffected by a pressure change?",
+  "options": {
+   "A": "2NaCl 2Na + Cl₂",
+   "B": "H₂ + I₂ 2HI",
+   "C": "2O₃ 3O₂",
+   "D": "2NO₂ N₂O₄"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-31",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 31,
+  "question": "The data in the table above shows the rate of reaction of nitrogen (ll) oxide with chlorine at 25oC. It can be concluded that doubling the intial concentration of NO increase the rate of reaction by factor of",
+  "options": {
+   "A": "two",
+   "B": "three",
+   "C": "four",
+   "D": "five"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1991_p32_2.png",
+  "images": [
+   "chemistry/1991_p32_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1991-32",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 32,
+  "question": "Which of the following gases will rekindle a brightly glowing splint?",
+  "options": {
+   "A": "NO₂",
+   "B": "NO",
+   "C": "N₂O",
+   "D": "Cl₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-33",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 33,
+  "question": "Which of the following salts can be melted without decomposition?",
+  "options": {
+   "A": "Na₂CO₃",
+   "B": "CaCO₃",
+   "C": "MgCO₃",
+   "D": "ZnCO₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-34",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 34,
+  "question": "Oxygen gas can be prepared by heating",
+  "options": {
+   "A": "ammonium trioxonirate (V)",
+   "B": "ammonium trioxonirate (lll)",
+   "C": "potassium trioxonirate (V)",
+   "D": "manganese (lV) oxide."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-35",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 35,
+  "question": "The appropriate test paper to use in the above experiment is moist.",
+  "options": {
+   "A": "litmus paper",
+   "B": "potassium heptaoxodichromate (1V) paper",
+   "C": "lead (11)trioxonirate (V) paper.",
+   "D": "Universal indicator paper."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1991_p33_1.png",
+  "images": [
+   "chemistry/1991_p33_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1991-36",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 36,
+  "question": "Addition of aqueous ammonia to a solution of Zn⁺⁺ gives a white precipitate which dissolves in an excess of ammonia because.",
+  "options": {
+   "A": "zinc is amphoteric",
+   "B": "zinc hydroxide is readily soluble",
+   "C": "zinc forms a complex which is readily soluble in excess ammonia",
+   "D": "ammonia solution is a strong base."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-37",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 37,
+  "question": "Which of the following, in clear solution, forms a white precipitate when carbon(1V) oxide is bubbled into it for a short time?",
+  "options": {
+   "A": "KOH",
+   "B": "NaOH",
+   "C": "Ca(OH)₂",
+   "D": "Al(OH)₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-38",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 38,
+  "question": "Copper (11) tetraoxosulphate (V1) is widely used as a",
+  "options": {
+   "A": "Fertilizer",
+   "B": "Fungicide",
+   "C": "Disinfectant",
+   "D": "Purifier"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-39",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 39,
+  "question": "Which of the following metals can be prepared in samples by the thermal decomposition to their trioxonirate (V) salt?",
+  "options": {
+   "A": "Copper and mercury",
+   "B": "Silver and copper",
+   "C": "Mercury and silver",
+   "D": "Magnesium and mercury"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-40",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 40,
+  "question": "Which of the following compounds can exist as geometric isomers?",
+  "options": {
+   "A": "2-methylbut2-ene",
+   "B": "But-2-ene",
+   "C": "But-1-ene",
+   "D": "H Cl — C—Br"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-41",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 41,
+  "question": "How many structural isomers can be written for the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-42",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 42,
+  "question": "The final products of the presence of ultraviolet light are hydrogen chloride and",
+  "options": {
+   "A": "chloromethane",
+   "B": "tetrachloromethane",
+   "C": "trichloromethane",
+   "D": "dichloromethane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-43",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 43,
+  "question": "How many grams of bromine will be required to completely react with 10 g of propyne?",
+  "options": {
+   "A": "20 g",
+   "B": "40 g",
+   "C": "60 g",
+   "D": "80 g [C = 12, H = 1, Br = 80]."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-44",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 44,
+  "question": "Ethene when passed into concentrated H ₂S O ⁴is rapidly absorbed. The product is diluted with water and then warmed to produce.",
+  "options": {
+   "A": "ethanol",
+   "B": "diethyl ether",
+   "C": "ethanal",
+   "D": "diethyl sulphate."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-45",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 45,
+  "question": "One of the advantages of detergents over soap is that detergents.",
+  "options": {
+   "A": "are easier to manufacture",
+   "B": "foam more than soap",
+   "C": "form soluble salts with hard water",
+   "D": "are able to deter germ more than soap."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-46",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 46,
+  "question": "CH₃CH₂ CHCH ₃ alc.KOH CH₃CH = CHCH₃ X CHCH₃ + CH ₃C H ₂C H =CH ₂ The above reaction is an example of",
+  "options": {
+   "A": "dehydration",
+   "B": "dehydrohalogenation",
+   "C": "neutralization",
+   "D": "a fission reaction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-47",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 47,
+  "question": "A certain liquid has a high boiling point. It is viscous, non-toxic, miscible with water to be hygroscopic. This liquid is most likely to be.",
+  "options": {
+   "A": "CH₃CH₂CH₂CH₂OH",
+   "B": "CH₃CH₂OHCH₃",
+   "C": "CH₃CH₂CHOHCH₃",
+   "E": "CH₃OHCHOCH₂ OH"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-48",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 48,
+  "question": "The compound. CH₃¯CH¯CH3 sCH₂Cl Is known as",
+  "options": {
+   "A": "1-chloro-2-methylbutane",
+   "B": "1-chloro-2-methylpronane",
+   "C": "2-chloromethylethane",
+   "D": "1-chloro-2,2-dimethylethane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-49",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 49,
+  "question": "Which of the following statements is TRUE of the complete hydrolysis of a glyceride by sodium hydroxide?",
+  "options": {
+   "A": "3 moles of NaOH are required for each mole of glyceride",
+   "B": "3 moles of glycerol are produced"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1991-50",
+  "subject": "chemistry",
+  "year": 1991,
+  "number": 50,
+  "question": "Which of the following are the products of the reaction between CH₃COOH and Cl₂ in sunlight?",
+  "options": {
+   "A": "ClCH₂COOH + HCl",
+   "B": "CH₃COCl + HOCl",
+   "C": "CH₃COOCl + HCl",
+   "D": "CH₃COCl + H₂O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

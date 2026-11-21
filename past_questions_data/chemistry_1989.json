@@ -1,0 +1,913 @@
+[
+ {
+  "id": "chemistry-1989-1",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 1,
+  "question": "Which of the following would support the conclusion that a solid sample is mixture?",
+  "options": {
+   "A": "The solid can be ground to a fine powder",
+   "B": "The density of the solid is 2.25 g dm³",
+   "C": "The solid has a melting range of 300oC to 375oC.",
+   "D": "The solid of the moisture from the atmosphere."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-2",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 2,
+  "question": "The molar of carbon to hydrogen of volatile liquid compound is 1:2. 0.12 g of the liquid evaporation at s.t.p gave 32 cm3 of vapour. The molecular formula of the liquids is",
+  "options": {
+   "A": "C₃ H ₆",
+   "B": "C₄ H₈ C C ₅H ₁₀ D. C ₆H ₁₂ [ G.M.V = 22.4 DM3, C=12, H=1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-3",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 3,
+  "question": "It can be deduced from the vapour of pressure curves above that.",
+  "options": {
+   "A": "liquid has the highest boiling point",
+   "B": "liquid has the highest boiling point",
+   "C": "liquid lll has the highest boiling point",
+   "D": "liquid lll has the lowest boiling point."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1989_p23_1.png",
+  "images": [
+   "chemistry/1989_p23_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1989-4",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 4,
+  "question": "20.00 cm3 of a solution containing 0.53 g of anhydrous Na₂CO₃ in 100 cm3 requires 25.00 cm3 of H₂ S O ₄f or complete neutralization. The concentration of the acid solution in moles per dm3 is",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-5",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 5,
+  "question": "The minimum volume of oxygen required for the complete combustion of mixture of 10cm3 of CO and 15 cm3 of H₂ is",
+  "options": {
+   "A": "25.0 cm³ B 12.5 cm³ C 10.0 cm³ D 5.0 cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-6",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 6,
+  "question": "What is the partial pressure of hydrogen gas collected over water at standard atmospheric pressure and 25oC if the saturation vapour pressure of water is 23 mm Hg at that temperature?.",
+  "options": {
+   "A": "737 mm Hg",
+   "B": "763 mm Hg",
+   "C": "777 mm Hg",
+   "D": "737 mm Hg"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-7",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 7,
+  "question": "The atomic radius Li, Na and K are 1:33 A m 1.54A and 1.96A respectively. Which of the following explain this gradation in atomic radius?",
+  "options": {
+   "A": "Electropositivity decreases from Li to Na to K",
+   "B": "Electronegativity decreases from Li to Na to",
+   "C": "The number of electron shells increase from Li to Ma to K",
+   "D": "The elements are in the same period."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-8",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 8,
+  "question": "Which of the curves in the above graph illustrates the behaviors of an ideal gas?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "chemistry/1989_p23_2.png",
+  "images": [
+   "chemistry/1989_p23_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1989-9",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 9,
+  "question": "Elements X and Y have electronic configurations 1s²2s²2p⁴ and 1s²2s²2p⁶3s²3p¹ respectively. When they combine, the formula of the compound formed is",
+  "options": {
+   "A": "XY",
+   "B": "YX",
+   "C": "X₂Y₃",
+   "D": "Y₂X₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-10",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 10,
+  "question": "The atomic number of cesium is 55 and its atomic mass is 133. The nucleus of cesium atom therefore contains",
+  "options": {
+   "A": "78 protons and 55 electrons",
+   "B": "55 protons and 78 neutrons",
+   "C": "55 neutrons and 78 electrons",
+   "D": "78 neutron and 55 neutrons"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-11",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 11,
+  "question": "Four elements P,Q,R and S have atomic numbers of 4, 10, 12, and 14 respectively. Which of these elements is a noble gas?",
+  "options": {
+   "A": "P",
+   "B": "Q",
+   "C": "R",
+   "D": "S"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-12",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 12,
+  "question": "How many valence electrons are contained in the element represented by ³¹ ₁P₅ ?",
+  "options": {
+   "A": "3",
+   "B": "5",
+   "C": "15",
+   "D": "31"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-13",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 13,
+  "question": "In the above set up, substances X and Y are respectively.",
+  "options": {
+   "A": "Lime water and copper (ll) tetraoxosulphate (Vl)",
+   "B": "Potassium trioxocarbonate(lV) and alkaline prygallol",
+   "C": "Potassium hydroxide and alkaline pyrogallo",
+   "D": "Potassium trioxocarbonate (lV) and concerntrate tetraoxosulphate (Vl) aid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1989_p24_1.png",
+  "images": [
+   "chemistry/1989_p24_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1989-14",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 14,
+  "question": "The gaseous pollutant sulphur (lV) oxide is most likely to be detected in fairly reasonable quantities in the area around a plant for the",
+  "options": {
+   "A": "extraction of aluminium from bauxite",
+   "B": "production of margarine",
+   "C": "smelting of copper",
+   "D": "production of chlorine from brine"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-15",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 15,
+  "question": "Calcium hydroxide is added in the treatment of town water supply to",
+  "options": {
+   "A": "kill bacteria in the water"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-16",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 16,
+  "question": "A hydrated salt of formula MSO₄.XH₂O contains 45.3% by mass of the water of crystallization. Calculate the value of X.",
+  "options": {
+   "A": "3",
+   "B": "5",
+   "C": "7",
+   "D": "10 [M = 56, S= 32, O =16, H= 1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-17",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 17,
+  "question": "If the graph above 1 dm³ of a saturated solution of HCI is cooled from 80oC, the mass of crystals deposited will be.",
+  "options": {
+   "A": "7.45 g",
+   "B": "14.90 g",
+   "C": "74.50 g",
+   "D": "149.00 g [K = 39, Cl= 35.5]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1989_p24_2.png",
+  "images": [
+   "chemistry/1989_p24_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1989-18",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 18,
+  "question": "Using 50cm3 of 1 M potassium hydroxide and 100cm3 of 1M tetraoxosulphate(Vl) acid, calculate the respective volumes in cm3 of bade and acid 100 cm3 of base and acid that would be required to produce the maximum amount of potassium tetraoxosulphate(Vl)",
+  "options": {
+   "A": "50,50",
+   "B": "25,50",
+   "C": "50,25",
+   "D": "25,25 [K = 39, S= 32, O = 16, H = 1]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-19",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 19,
+  "question": "A solution of calcium bromide contains 20 g dm³ What is the molarity of the solution with respect to calcium bromide and bromide ions?",
+  "options": {
+   "A": "0.1,0.1",
+   "B": "0.1,0.2",
+   "C": "0.1,0.05",
+   "D": "0.05,0.1 [Ca = 40, Br = 80]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-20",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 20,
+  "question": "The substance of ZnO dissolves in sodium hydroxide solution and mineral acid solution to gives soluble products in each case. ZnO is therefore referred to as.",
+  "options": {
+   "A": "an allotropic acid",
+   "B": "an atmopheric oxide",
+   "C": "a peroxide",
+   "D": "a dioxide."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-21",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 21,
+  "question": "An acid its conjugate base .",
+  "options": {
+   "A": "can neutralize each other to form a salt",
+   "B": "differ only by a proton",
+   "C": "differ only by the opposite charges they carry",
+   "D": "are always neutral substances"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-22",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 22,
+  "question": "The same current is passed for the same time through solutions of AgNO3 and CuSO4 connected in series. How much silver will be deposited if 1.0 g of copper is produced?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-23",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 23,
+  "question": "What is discharged at the cathode during the electrolysis of copper (ll) tetraoxosulphate (Vl) solution?",
+  "options": {
+   "A": "Cu²⁺ only",
+   "B": "H+ only",
+   "C": "Cu₂ ₊ and H⁺",
+   "D": "Cu²⁺ and SO²⁻"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-24",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 24,
+  "question": "An element, Z forms an anion whose formula is [Z(CN) ₆] y. If has an oxidation number of +2, what is the value of y?",
+  "options": {
+   "A": "-2",
+   "B": "3",
+   "C": "–4",
+   "D": "–5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-25",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 25,
+  "question": "Which of the reaction is NOT an example of a redox reaction? I Fe + 2Ag⁺ Fe²⁺ + 2Ag+ II 2H₂S + SO₂ 2H₂O + 3S III N₂ + O₂ 2NO IV CaCO₃ CaO + CO₂",
+  "options": {
+   "A": "I, II, III",
+   "B": "II and III",
+   "C": "III and IV",
+   "D": "IV only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-26",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 26,
+  "question": "The above diagram gives the potential energy profile of the catalyzed uncatalysed reactions of X(g) + Y(g) XY(g) . Deduce the respective activation energies in kJ of the catalyzed and uncatalysed reverse reactions. XY(g) + X(g) X(g) + Y(g)",
+  "options": {
+   "A": "300, 500",
+   "B": "500, 300",
+   "C": "–300, -500",
+   "D": "–5000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1989_p25_1.png",
+  "images": [
+   "chemistry/1989_p25_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1989-27",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 27,
+  "question": "The combustion of ethene, C2H2, is given by the equation C₂H₄ 2CO₂ + 2H₂O; H = -1428 kJ. If the molar heats of formation of water and carbon (l) oxide are –286kJ and –396 kJ respectively. Calculate the molar heat of formation of ethane in kJ.",
+  "options": {
+   "A": "-2792",
+   "B": "+2792",
+   "C": "–64",
+   "D": "+64"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-28",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 28,
+  "question": "CO(g) + H₂O CO₂(g) + H2(g) H = -41000 J. Which of the following factors favour the formation of hydrogen in the above reaction? I high pressure II low pressure III high temperature IV use of excess steam",
+  "options": {
+   "A": "I, III, and IV",
+   "B": "III only",
+   "C": "II, III and I",
+   "D": "Iv only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-29",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 29,
+  "question": "The above graph shows a typical heating curve from the solid phase through the liquid phase to the gaseous phase of a substance . What part of the curve shows solid and liquid in equilibrium?",
+  "options": {
+   "A": "T",
+   "B": "U",
+   "C": "X",
+   "D": "Y"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1989_p25_2.png",
+  "images": [
+   "chemistry/1989_p25_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1989-30",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 30,
+  "question": "Which of the following represents the balanced equation for the reaction of copper with concentrated trioxonirate (V) acid?",
+  "options": {
+   "A": "2NHO₃₍ₐq₎ Cu(NO₃)₂₍ₐq₎ + H₂₍g₎",
+   "B": "Cu₍ₛ₎ + 4HNO₃ Cu(NO₃)₂₍ₐq₎ + 2H₂O₍ₗ₎ + 2NO₂₍g₎",
+   "C": "3Cu₍ₛ₎ + 8HNO₃₍ₐq₎ 3Cu(NO₃)₂₍ₐq₎ + 4H₂O₍ₗ₎ + 2NO₍g₎",
+   "D": "3Cu₍ₛ₎ + 4 HNO₃₍ₐq 3Cu(NO₃)₂₍ₐq₎ + 2H₂O₍ₗ₎ + 2NO(g)."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-31",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 31,
+  "question": "The catalyst used in the contact process for the manufacture of tetraoxosulphate(Vl) acid is",
+  "options": {
+   "A": "Manganese (lV) oxide",
+   "B": "Manganese (ll) tetraoxosulphate (lV)",
+   "C": "Vanadium (V) oxide",
+   "D": "Iron metal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-32",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 32,
+  "question": "Some products of destructive distillation of coal are",
+  "options": {
+   "A": "carbon (iV) oxide and ethanoic acid",
+   "B": "trioxocarbonate (lV) acid and methanoic acid",
+   "C": "producer gas and water gas",
+   "D": "coke and ammonia liquor"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-33",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 33,
+  "question": "Gunpowder is made from charcoal, sulphur and potassium trioxonirate (V). The salt in the mixture performs the function of",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-34",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 34,
+  "question": "Which of the following reaction is (are) feasible? l Br ₍₂ₗ₎ + 2Cl₍ₐq 2Br₍ₐq₎ + Cl2₍ₐq ₎ ll 21₍ₐq₎ + Br₂₍₁₎ 2Br₍ₐq₎ + l2₍ₛ₎ lll 2F(aq) + Cl2₍ₐq 2Cl(aq) + F₂₍g₎ lV 2F₍ₐg₎ + Br₂₍₁₎ 2Br₍ₐq₎ + F₂₍g₎ A l B. ll C I and lll D. lll and lV",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-35",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 35,
+  "question": "Bleaching powder, CaOCl2.H2O, deteriorates on exposure to air because",
+  "options": {
+   "A": "it loses its water of crystallization",
+   "B": "atmospheric nitrogen displaces chlorine from",
+   "C": "carbon (lV) oxide of the atmosphere displaces chlorine from it",
+   "D": "bleaching agents should be stored in solution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-36",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 36,
+  "question": "The product of the thermal decomposition of ammonium trioxonirate (V) are.",
+  "options": {
+   "A": "NO₂ and oxygen",
+   "B": "NH₃ and oxygen",
+   "C": "nitrogen and water",
+   "D": "N₂O and water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-37",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 37,
+  "question": "The scale of a chemical balance is made of iron plate and coated with copper electrolytically because.",
+  "options": {
+   "A": "iron is less susceptible to corrosion than copper",
+   "B": "copper is less susceptible corrosion as ion",
+   "C": "copper is less susceptible to corrosion than ion",
+   "D": "copper and ion are equally susceptible to corrosion."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-38",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 38,
+  "question": "A metal is extracted for, its ore by the electrolysis of tits molten chlorine and it displace lead from lead (ll) trioxonirate(V) solution. The metal is",
+  "options": {
+   "A": "copper",
+   "B": "aluminium",
+   "C": "zinc",
+   "D": "sodium"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-39",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 39,
+  "question": "Mortar is NOT used for under-water construction because.",
+  "options": {
+   "A": "It hardens by loss of water",
+   "B": "Its hardening does not depent upon evaporation",
+   "D": "It requires concrete to harden",
+   "E": "It will be washed away by the flow of water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-40",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 40,
+  "question": "Which of the following is NOT involved in the extraction of metals from their ores?",
+  "options": {
+   "A": "reduction with carbon",
+   "B": "reduction with other metals",
+   "C": "reduction by electrolysis",
+   "D": "oxidation with oxidizing agent. 41 Which of the following compounds is an isomer of the compound."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-42",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 42,
+  "question": "When excess chlorine is mixed with ethene at room temperature, the product is",
+  "options": {
+   "A": "1,2 – dichloroethane",
+   "B": "1,2 – dichloroethene",
+   "C": "1, 1- dichloroethane",
+   "D": "1, 1- dichloroethene."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-43",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 43,
+  "question": "Vulcanization of rubber is a process by which",
+  "options": {
+   "A": "Isoprene units are joined to produce rubber",
+   "B": "Rubber latex is coagulated",
+   "C": "Sulphur is chemically combined in the rubber",
+   "D": "Water is removed from the rubber."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-44",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 44,
+  "question": "The reaction between ethanoic acid and sodium hydroxide is an example of",
+  "options": {
+   "A": "esterification",
+   "B": "neutralization",
+   "C": "hydrosylation",
+   "D": "hydrolysis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-45",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 45,
+  "question": "The bond which joins two ethanoic acid molecules in the liquid state is",
+  "options": {
+   "A": "a covalent bond",
+   "B": "an ionic bond",
+   "C": "a dative covalent bond",
+   "D": "a hydrogen bond"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-46",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 46,
+  "question": "The alkaline hydrolysis of fats and oils produces soap and",
+  "options": {
+   "A": "propane 1, 1, 3-triol",
+   "B": "propane – 1, 3, 3-triol",
+   "C": "propane-1-2-2-triol",
+   "D": "propane-1-2-3-triol"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-47",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 47,
+  "question": "which of the following is NOT a monomer?",
+  "options": {
+   "A": "",
+   "B": "CH₂ = CH₂",
+   "D": "CH₂ = CHCl"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1989_p26_1.png",
+  "images": [
+   "chemistry/1989_p26_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1989-48",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 48,
+  "question": "What is the IUPAC name for the compound CH₃ CH₂ = C CH₂CI",
+  "options": {
+   "A": "1-chloro-2-methylprop-2, 3-ene",
+   "B": "1-chloro-2-methlprop-2-ene",
+   "C": "3-chloro-2-methylprop-1-ene",
+   "D": "3-chloro-2-methyprop-1,2-ene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-49",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 49,
+  "question": "The gas responsible for most of the fatal explosion in coal mines is",
+  "options": {
+   "A": "butane",
+   "B": "ethene",
+   "C": "ethane",
+   "D": "methane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-50",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 50,
+  "question": "Three liquids X,Y and Z containing only hydrogen and carbon were burnt on a spoon, X and Y burnt with sooty flames while Z did not. Y is able to discharge the colour of bromine water whereas X and Z cannot. Which of the liquids would be aromatic in nature?",
+  "options": {
+   "A": "X and Z",
+   "B": "Y",
+   "C": "X",
+   "D": "Z"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

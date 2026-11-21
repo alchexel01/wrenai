@@ -1,0 +1,888 @@
+[
+ {
+  "id": "chemistry-1995-1",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 1,
+  "question": "Chromatography is used to separate components of mixtures which differ in their rates of",
+  "options": {
+   "A": "diffusion",
+   "B": "migration C reaction D. sedimentation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-2",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 2,
+  "question": "Which of the following is an example of chemical change?",
+  "options": {
+   "A": "Dissolution of salt in water.",
+   "B": "Rusting of iron",
+   "C": "Melting of ice.",
+   "D": "Separating a mixture by distillation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-3",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 3,
+  "question": "The number of hydrogen ions in 4.9 g of tetraoxosulphate (VI) acids is",
+  "options": {
+   "A": "3.01 x 10²²",
+   "B": "6.02 x 10²²",
+   "C": "3.01 x 10²³",
+   "D": "6.02 x 10²². (S = 32, O = 16, H =1, N = 6.02 x 10²³)."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-4",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 4,
+  "question": "What volume of oxygen will remain after reacting 8 cm³ of hydrogen with 20 cm³ of oxygen?",
+  "options": {
+   "A": "10 cm3",
+   "B": "12 cm³",
+   "C": "14 cm³",
+   "D": "16 cm³."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-5",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 5,
+  "question": "A gas sample with initial volume of 3.25 dm3 is heated and allowed to expand to 9.75 dm3 is heated and allowed to expand to 9.75 dm³ at constant pressure. What is the ratio of the final absolute temperature to the initial absolute temperature?",
+  "options": {
+   "A": "3:1",
+   "B": "5:2",
+   "C": "5:4",
+   "D": "8:3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-6",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 6,
+  "question": "Two cylinders A and B each contains 30 cm³ of oxygen and nitrogen respectively at the same temperature and pressure. If there are 5.0 moles of nitrogen, then the mass of oxygen is",
+  "options": {
+   "A": "3.2 g",
+   "B": "6.4g",
+   "C": "80.0g",
+   "D": "160.0g."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-7",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 7,
+  "question": "A liquid begins to boil when",
+  "options": {
+   "A": "its vapour pressure is equal to vapour pressure of its solid at the given temperature",
+   "B": "molecules start escaping from its surface",
+   "C": "its vapour pressure equals the atmosheric pressure",
+   "D": "its volume is slightly increased."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-8",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 8,
+  "question": "A particle that contains 8 protons, 9 neutrons and 7 electrons could be written as",
+  "options": {
+   "A": "¹⁶₈ O",
+   "B": "¹⁷₈ O⁺",
+   "C": "¹⁷ O⁺",
+   "D": "¹⁷ O. ⁹ ⁸ Use the section of the periodic table below to answer questions 9 and 10."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1995_p44_1.png",
+  "images": [
+   "chemistry/1995_p44_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1995-9",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 9,
+  "question": "Which of the letters indicate an alkali metal and a noble gas respectively?",
+  "options": {
+   "A": "M and",
+   "E": "",
+   "B": "G and",
+   "C": "R and L.",
+   "D": "G and L."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-10",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 10,
+  "question": "Which letter represents a non-metal that is a solid at room temperature?",
+  "options": {
+   "A": "T",
+   "B": "R.",
+   "C": "J.",
+   "D": "X."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-11",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 11,
+  "question": "In the oil drop experiment, Milikan determined the",
+  "options": {
+   "A": "charge to mass ratio of the electron",
+   "B": "mass of the electron",
+   "C": "charge of the electron",
+   "D": "mass of the proton."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-12",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 12,
+  "question": "The stability of ionic solids is generally due to the",
+  "options": {
+   "A": "negative electron affinity of most atoms",
+   "B": "crystal lattice forces",
+   "C": "electron pair sharing",
+   "D": "positive ionization potentials."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-13",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 13,
+  "question": "Which of the following statements is FALSE about isotopes of the same element?",
+  "options": {
+   "A": "They have the same number of electrons in their outermost shells.",
+   "B": "they have different atomic masses.",
+   "C": "They have the same atomic number and the same number of electrons.",
+   "D": "they have the same atomic number but different number of electrons."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-14",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 14,
+  "question": "Helium is often used in observation balloons because it is",
+  "options": {
+   "A": "light and combustible",
+   "B": "light and non-combustible",
+   "C": "heavy and combustible",
+   "D": "heavy and non-combustible."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-15",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 15,
+  "question": "When plastic and packaging materials made from chloromethane are burnt in the open, the mixture of gases released into the atmosphere is most likely to contain",
+  "options": {
+   "A": "ethane",
+   "B": "chlorine",
+   "C": "hydrogen chlorine",
+   "D": "ethane."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-16",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 16,
+  "question": "Deliquescent substances are also",
+  "options": {
+   "A": "efflorescent",
+   "B": "anhydrous",
+   "C": "hydroscopic",
+   "D": "insoluble."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-17",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 17,
+  "question": "The difference between colloids and suspensions is brought out clearly by the fact that while colloids",
+  "options": {
+   "A": "do not scatter light, suspensions cannot be so separated",
+   "B": "can be separated by filteration, suspension cannot be separated",
+   "C": "can be separated by a membrane, suspensions cannot",
+   "D": "do not settle out on standing, suspensions do."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-18",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 18,
+  "question": "In general, an increase in temperatue increases the dissolve with the evolution of heat",
+  "options": {
+   "C": "more solute molecules dissociate at higher temperature",
+   "D": "most solutes dissolve with absorption of heat."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-19",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 19,
+  "question": "Neutralization involves a reaction between H ₃O ⁺ and",
+  "options": {
+   "A": "CI⁻",
+   "B": "OH⁻",
+   "C": "NO₃ ⁻ D. CO₃ ²⁻."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-20",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 20,
+  "question": "Which of the following solutions will have a pH < 7?",
+  "options": {
+   "A": "Na₂SO₄₍ₐq₎",
+   "B": "NaCI₍ₐq₎",
+   "C": "Na₂CO₃₍ₐq₎",
+   "D": "NH₄CI₍ₐq₎."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-21",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 21,
+  "question": "What is the pH of a 2.50 x 10⁻⁵ M solution of sodium hydroxide?",
+  "options": {
+   "A": "3.6",
+   "B": "5.0",
+   "C": "9.4",
+   "D": "12.0. ₂₅VOL OF BASE"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1995_p45_1.png",
+  "images": [
+   "chemistry/1995_p45_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1995-22",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 22,
+  "question": "The graph above shows the pH changes for the titration of a",
+  "options": {
+   "A": "strong acid versus strong base",
+   "B": "weak acid versus strong base",
+   "C": "strong acid versus weak base.",
+   "D": "weak acid versus weak base."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-23",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 23,
+  "question": "In the process of silver-plating a metal M, the metal M is the",
+  "options": {
+   "A": "anode and a direct current is used",
+   "B": "cathode and an alternating current is used",
+   "C": "anode and an alternating current is used.",
+   "D": "cathode and a direct current is used."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-24",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 24,
+  "question": "How many moles of copper would be deposited by passing 3F of electricity through a solution of copper (II) tetraoxosulphate (VI)?",
+  "options": {
+   "A": "0.5",
+   "B": "1.0",
+   "C": "1.5",
+   "D": "3.0 (F = 96 500 C mol-1)."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-25",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 25,
+  "question": "2Cl-₍ₐq₎ ’!CI ₂ ₍g₎ = 2e⁻ ₍ₐ q₎. The above half-cell reaction occurring at the anode during the electrolysis of dilute ZnCI₂ solution is",
+  "options": {
+   "A": "ionization",
+   "B": "oxidation",
+   "C": "reduction.",
+   "D": "recombination."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-26",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 26,
+  "question": "Which of the following is a redox reaction? KCI + HSO KHSO + HCI",
+  "options": {
+   "A": "₍ₐg₎ ₂ ₄₍ₐq₎ ₄₍ₐq₎ ₍ₐq₎",
+   "B": "2FeBr₂₍ₐg₎ + Br₂₍ !2FeBr₃₍ₐq₎",
+   "C": "AgNO₃₍ₐg₎ + FeCI₃ !3AgCl₍ₐq₎ + CO Fe(NO₃)₃₍ₐq₎",
+   "D": "H₂₋₂CO₃₍ₐq₎ ₊ H₂O₋(l) + CO₂₍₃g₎."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-27",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 27,
+  "question": "Cr O + 14H + 6I 2Cr + 3I ₍₁₎₊. ₊ + 7H O ₂ ₇ ₍ₐq₎ ₍ₐg₎ ₍ₐq₎ ’! ₍ₐg₎ ₂₍g₎ ₂ The change in the oxidation number of oxygen in the equation above is",
+  "options": {
+   "A": "O.",
+   "B": "1",
+   "C": "2",
+   "D": "7."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-28",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 28,
+  "question": "If an equilibrium reaction has “H < O, the reaction will proceed favourably in the forward reaction at",
+  "options": {
+   "A": "low temperature",
+   "B": "high temperatures",
+   "C": "all temperatures",
+   "D": "all pressures."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-30",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 30,
+  "question": "Which of the following equibrai is shifted to the right as a result of an increase in pressure?",
+  "options": {
+   "A": "H₂₍g₎ + I₂₍g₎ 2H₍g₎ B.2N₂ O ₂₍g₎ N2O ₄₍g₎ C.PCl₅₍g₎ PCl₃₍g₎ + Cl₂₍g₎",
+   "D": "2O 3O . ₃₍g₎ ₂₍g₎"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-31",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 31,
+  "question": "The arrangement above can be used for the collection of",
+  "options": {
+   "A": "sulphur (IV) oxide",
+   "B": "ammonia",
+   "C": "nitrogen",
+   "D": "hydrogen chloride."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1995_p45_2.png",
+  "images": [
+   "chemistry/1995_p45_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1995-32",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 32,
+  "question": "The activation energy of the uncatalysed reaction is",
+  "options": {
+   "A": "x",
+   "B": "x + y",
+   "C": "x- y",
+   "D": "y"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-33",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 33,
+  "question": "It can be deduced that the rate of the reaction",
+  "options": {
+   "A": "for path I is higher than path II",
+   "B": "for path II is higher than path I",
+   "C": "is the same for both paths at all temperatures",
+   "D": "depends on the values of both x and y at all pressures."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-34",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 34,
+  "question": "In the industrial production of hydrogen from natural gas, carbon (IV) oxide produced along with the hydrogen is removed by",
+  "options": {
+   "A": "washing under pressure",
+   "B": "passing the mixture into the lime water",
+   "C": "using ammoniacal copper (I) chloride",
+   "D": "drying over phosphorus (V) oxide."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-35",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 35,
+  "question": "Sulpur exists in six forms in the solid state. This property is known as",
+  "options": {
+   "A": "isomerism",
+   "B": "allotrophy",
+   "C": "isotopy",
+   "D": "isomorphism."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-36",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 36,
+  "question": "A gas that will turn orange potassium heptaoxodichromate (VI) solution to clear green is",
+  "options": {
+   "A": "sulpur (VI) oxide",
+   "B": "hydrogen sulphide",
+   "C": "sulpur (IV) oxide",
+   "D": "hydrogen Chloride."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-37",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 37,
+  "question": "Which of the following ions will give a white precipitate with aqueou₂s₊ NaOH and soluble in exce₂ss of the base?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-38",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 38,
+  "question": "In the extraction of iron in the blast furnace, limestone is used to",
+  "options": {
+   "A": "release CO₂ for the reaction",
+   "B": "reduce the iron",
+   "C": "Increase in the strenght of Iron",
+   "D": "remove impurities."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-39",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 39,
+  "question": "Which of the following compound will impart a brick- red colour to a non-luminous Busen flame?",
+  "options": {
+   "A": "NaCl",
+   "B": "LiCl",
+   "C": "CaCl₂",
+   "D": "MgCl . 40.. Group 1 A metals are not found free in nature because they"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-41",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 41,
+  "question": "CH₃ COOH + CH₃ CH₂ OH ₂ X + Y. X and Y in the reaction of above are respectively",
+  "options": {
+   "A": "CH₃ COCH₃ and H₂O",
+   "B": "CH₃ CH₂ COCH₂ and H₂O₂",
+   "C": "CH₃ COOCH₂ CH₃ and H₂O₃",
+   "D": "CH₃CH₂ CHO and CH₄. 42 CHCl₃ + Cl₂ HCl + CCl₄. The reaction above is an example of"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-43",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 43,
+  "question": "CH₃ – CH –CH = CH –CH₃ CH₃. The IUPAC nomenclature for the compound above is",
+  "options": {
+   "A": "1.1-dimenthyilbut –ene",
+   "B": "2-methlypnet 3 –ene",
+   "C": "4,4 –dimethy –1but –2 –ene",
+   "D": "4 –methylpent –2 –ene ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-44",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 44,
+  "question": "Which of the following pairs has compounds that are isomers?",
+  "options": {
+   "A": "propanal and propanone",
+   "B": "ethanoic acid and ethylmethanoate",
+   "C": "ethanoic acid and thane –1 ,2 –diol",
+   "D": "2 –methylbutnae and 2,2 –dimethylbutane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-45",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 45,
+  "question": "Aromatic and aliphatic hydrocarbons can be distinguished from each other by the",
+  "options": {
+   "A": "action of bromine",
+   "B": "use of polymerization reaction.",
+   "C": "Action of heat",
+   "D": "Use of oxidation reaction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-46",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 46,
+  "question": "The role of sodium chloride in the preparation of soap is to",
+  "options": {
+   "A": "purify the soap",
+   "B": "separate the soap from glycerol",
+   "C": "accelerate the decomposition of the fat or oil",
+   "D": "react with glycerol. CH₃CH₂=CH₂- C - H"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-47",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 47,
+  "question": "The functional group represented in the compound above is",
+  "options": {
+   "A": "alkanol",
+   "B": "alkanal",
+   "C": "alkanone",
+   "D": "alkanoate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-48",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 48,
+  "question": "CₓHy + 4O₂ 3CO₂ + 2H₂O. The hydrocarbon, Cₓ Hy in the reaction above is",
+  "options": {
+   "A": "propane",
+   "B": "propene",
+   "C": "propyne",
+   "D": "propanone."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-49",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 49,
+  "question": "An example of a secondary amine is",
+  "options": {
+   "A": "propylene",
+   "B": "di-butylamine C . methylamine D. trimethylamine."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-50",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 50,
+  "question": "The relatively high boiling points of alkanol are due to",
+  "options": {
+   "A": "ionic bonding",
+   "B": "aromatic character",
+   "C": "covalent bonding",
+   "D": "hydrogen bonding."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

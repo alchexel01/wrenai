@@ -1,0 +1,937 @@
+[
+ {
+  "id": "chemistry-1993-1",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 1,
+  "question": "The dissolution of common salt in water is physical change because",
+  "options": {
+   "A": "the salt can be obtained by crystallization",
+   "B": "the salt can be recovered by the evaporation of water.",
+   "C": "Heat is not generated during mixing",
+   "D": "The solution will not boil at 100oC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-2",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 2,
+  "question": "Which of the following substances is mixture?",
+  "options": {
+   "A": "Sulphur powder",
+   "B": "Bronze",
+   "C": "Distilled water",
+   "D": "Ethanol"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-3",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 3,
+  "question": "How many moles of oxygen molecules would be produced dfrom the decompostition of 2.5 moles of potassium trioxochlorate (V)?",
+  "options": {
+   "A": "2.50",
+   "B": "3.50",
+   "C": "3.75",
+   "D": "7.50"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-4",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 4,
+  "question": "A balanced chemical equation obeys the law of",
+  "options": {
+   "A": "Conservation of mass",
+   "B": "Definite proportions",
+   "C": "Multiple proportions",
+   "D": "Conservation of energy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-5",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 5,
+  "question": "At 25oC and 1 atm, a gas occupies a volume of 1.50 dm³. What volume will it occupy at 100oC at 1 atm?",
+  "options": {
+   "A": "1.88 dm³",
+   "B": "..................... 6.00 dm³",
+   "C": "18.80 dm³",
+   "D": "60.00 dm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-6",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 6,
+  "question": "A gaseous mixture of 80.0 g of oxygen and 56.0 g of nitrogen has a total pressure of 1.8 atm. The partial pressure of oxygen in the mixture is",
+  "options": {
+   "A": "0.8 atm",
+   "B": "1.0 atm",
+   "C": "1.2 atm",
+   "D": "1.4 atm [O = 16, N = 14]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-7",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 7,
+  "question": "Which of the curves above represents the behavior of 1 mole of an ideal gas?",
+  "options": {
+   "A": "1",
+   "B": "11",
+   "C": "111",
+   "D": "1V"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1993_p37_1.png",
+  "images": [
+   "chemistry/1993_p37_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1993-8",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 8,
+  "question": "For iodine crystals to sublime on heating, the molecules must acquire energy that is",
+  "options": {
+   "A": "less than the forces of attraction in the solid",
+   "D": "greater than the forces of attraction in both solid and the liquid phases"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-9",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 9,
+  "question": "An element, E, has the electronic configuration 1s²2s²2p⁶3s²3p³. The reaction of E with a halogen X can give.",
+  "options": {
+   "A": "EX ₃a nd EX ₅",
+   "B": "EX ₃ only",
+   "C": "EX₅ only",
+   "D": "EX₂ and EX₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-10",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 10,
+  "question": "Two atoms represented as ²³₉⁵₂ Uand ²³⁸₉ ₂ U are",
+  "options": {
+   "A": "isomers",
+   "B": "allotropes",
+   "C": "isotopes",
+   "D": "anomers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-11",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 11,
+  "question": "As the difference in electronegativity between bonded atoms increase, polarity of the bond",
+  "options": {
+   "A": "decreases",
+   "B": "increases",
+   "C": "remains unchanged",
+   "D": "reduces to zero."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-12",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 12,
+  "question": "Which group of elements forms hydrides that are pyramidal in structure?",
+  "options": {
+   "A": "111",
+   "B": "1V",
+   "C": "V",
+   "D": "V1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-13",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 13,
+  "question": "Water has a rather high boiling point despite its low molecular mass because of the presence of",
+  "options": {
+   "A": "hydrogen bonding",
+   "B": "covalent bonding",
+   "C": "ionic bonding",
+   "D": "metallic bonding"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-14",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 14,
+  "question": "Argon is used in gas-filled electric lamps because it helps to",
+  "options": {
+   "A": "prevent the reduction of the lamp filament",
+   "B": "prevent oxidation of lamp filament",
+   "C": "make lamp filaments glow brightly",
+   "D": "keep the atmosphere in the lamp inert."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-15",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 15,
+  "question": "The air around a petroleum refinery is most likely to contain",
+  "options": {
+   "A": "CO₂ SO₃ and N₂O",
+   "B": "CO₂ CO and N₂O",
+   "C": "SO₃ CO and NO₂",
+   "D": "PH₃ H₂O and CO₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-16",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 16,
+  "question": "Water can be identified by the use of",
+  "options": {
+   "A": "an hydrogen copper(11) tetraoxosulphate(1V)",
+   "B": "an hydrogen sodium trioxocarbonate(1V)",
+   "C": "potassium heptaoxochromate(vii)",
+   "D": "copper (11) trioxocarbonate(iv)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-17",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 17,
+  "question": "The phenomenon whereby sodium trioxocarbonate (1) decahydrate loses some of its water crystallization on exposure to the atmosphere is known as",
+  "options": {
+   "A": "deliquescence",
+   "B": "hygroscopy",
+   "C": "effervescence",
+   "D": "efflorescence"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-18",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 18,
+  "question": "A student prepares 0.5 M solution each of hydrochloric and ethanoic acids and then measured their pH. The result would show that the",
+  "options": {
+   "A": "pH values are equal",
+   "B": "HCl solution has higher pH",
+   "C": "Sum of the pH values is 14",
+   "D": "Ethanoic acid solution has a higher pH."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-19",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 19,
+  "question": "For which salt in the graph above does the solubility increase most rapidly with rise in temperature",
+  "options": {
+   "A": "CaSO₄",
+   "B": "KNO₃",
+   "C": "NaCl",
+   "D": "KCl"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1993_p38_2.png",
+  "images": [
+   "chemistry/1993_p38_2.png"
+  ]
+ },
+ {
+  "id": "chemistry-1993-20",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 20,
+  "question": "NH₃ + H₃O NH₄ + H₂O. it may be deduced from the reaction above that",
+  "options": {
+   "A": "a redox reaction has occurred",
+   "B": "H₃ O ⁺ acts as an oxidizing agent",
+   "C": "H₃ O ⁺ acts as an acid",
+   "D": "Water acts as an acid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-21",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 21,
+  "question": "4.0 g of sodium hydroxide in 250 cm³ of solution contains",
+  "options": {
+   "A": "0.40 moles per dm³",
+   "B": "0.10 moles per dm³",
+   "C": "0.04 moles per dm³",
+   "D": "0.02 moles per dm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-22",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 22,
+  "question": "During the electrolysis of a salt of metal M, a current of 0.05 A flow for 32 minutes 10 second and deposit 0.325 g of M. What is the charges of the metal ion?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4 [M = 65,l = 96,500 C per mole of electron]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-23",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 23,
+  "question": "Which of the following reactions occurs at the anode during the electrolysis of a very dilute aqueous solution of sodium chloride?",
+  "options": {
+   "A": "OH –CH OH",
+   "B": "Cl⁻ - e⁻ Cl",
+   "C": "OH + Cl⁻ HCl",
+   "D": "Na⁺ + e⁻ Hg Na/Hg amalgam"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1993_p38_1.png",
+  "images": [
+   "chemistry/1993_p38_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1993-24",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 24,
+  "question": "From the data above, it can be deduced that the most powerful reducing agent of the four metals is",
+  "options": {
+   "A": "Cu",
+   "B": "Fe",
+   "C": "Ba",
+   "D": "Zn"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-25",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 25,
+  "question": "The oxidation states of chlorine in HOCl, HClO₃ and HClO₄ are respectively",
+  "options": {
+   "A": "-1, +5 and +7",
+   "B": "–1 ,-5 and 7",
+   "C": "+1, +3 and +4",
+   "D": "+1, +5 and +7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-26",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 26,
+  "question": "A reaction takes place spontaneously if",
+  "options": {
+   "A": "ÄG = O",
+   "B": "ÄS < O and ÄH > O",
+   "C": "ÄH < TÄS",
+   "D": "ÄG>O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-28",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 28,
+  "question": "The standard enthalpies of formation of CO₂(g), H₂O(g) and CO(g) in kJ mol-1 are –394, -242 and –110 respectively. What is the standard enthalpy change for the reaction CO(g) + H₂O CO₂(g) + H₂(g)?",
+  "options": {
+   "A": "-42 kJ mol-1",
+   "B": "+42 kJ mol-1",
+   "C": "–262 kJ mol-1",
+   "D": "+262 kJ mol-1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-29",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 29,
+  "question": "10 g of a solid is in equilibrium with its own vapour. When 1 g of a small amount of solid is added, the vapour pressure",
+  "options": {
+   "A": "remain the same",
+   "B": "drops",
+   "C": "increase by 1%",
+   "D": "increase by 99%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1993_p38_3.png",
+  "images": [
+   "chemistry/1993_p38_3.png"
+  ]
+ },
+ {
+  "id": "chemistry-1993-30",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 30,
+  "question": "In the diagram above, curve X represents the energy profile for a homogeneous gaseous reaction. Which of the following conditions would produce curve Y for the same reaction?",
+  "options": {
+   "A": "increase in temperature",
+   "B": "increase in the concentration of a rectant",
+   "C": "addition of a catalyst",
+   "D": "increase in pressure."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-31",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 31,
+  "question": "NaCl(s) + H₂SO₄(1) HCl(g) + NaHSO₄(s). In the reaction above. H2SO4 behaves as",
+  "options": {
+   "A": "a stron acid",
+   "B": "an oxiding agent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-32",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 32,
+  "question": "Which of these salts will produce its metal, oxygen and nitrogen(1V) oxide on heating?",
+  "options": {
+   "A": "Silver trioxonitrate(V)",
+   "B": "Sodium trioxonitrate (V)",
+   "C": "Calcium trioxonitrate (V)",
+   "D": "Lithium trioxonitrate (V)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-33",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 33,
+  "question": "An experiment produces a gaseous mixture of carbon (1V) oxide and carbon(11) Oxide. In order to obtain pure carbon (11) oxide, the gas mixture should be",
+  "options": {
+   "A": "passed over heated copper(11) oxide",
+   "B": "bubbled through concentrated tetraoxosulphate(V1) acid",
+   "C": "bubbled through sodium hydroxide solution",
+   "D": "bubbled through water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-34",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 34,
+  "question": "Which of the following is property of ionic chlorides?",
+  "options": {
+   "A": "They can be decomposed heat.",
+   "B": "They react with aqueous AgNO₃ to give q white precipitate which is soluble in excess ammonia",
+   "C": "They explode when in contact with dry ammonia gas",
+   "D": "They react with concentrated tetraoxosulphate (V1) acid to give white fumes of chlorides gas"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-35",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 35,
+  "question": "When dilute aqueous solutions of (11) nitrate and potassium bromide are mixed, a precipitate is observed. The products of this reaction are.",
+  "options": {
+   "A": "PbO(s) + Br- (aq) + KNO₃",
+   "B": "Br₂ + NO2(g) + PbBr2(s)",
+   "C": "PbO(s) PbO(s) + K+(aq) + Br(aq) +NO₂(g)",
+   "D": "PbBr₂(s) + K+(aq) + NO₃(aq)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-36",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 36,
+  "question": "Bronze is an alloy will react to",
+  "options": {
+   "A": "Silver and copper",
+   "B": "Silver and gold",
+   "C": "Copper and nickel",
+   "D": "Copper and zinc"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-37",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 37,
+  "question": "Copper metal will react with concentrated trioxonitrate (V) acid to give",
+  "options": {
+   "A": "Cu(NO₃)₃ + NO + N₂O₄ + H₂O",
+   "B": "Cu(NO₃)₂ + NO + H₂O",
+   "C": "CuO +NO₂ + H₂O",
+   "D": "Cu(NO₃)₂ + NO₂ + H₂O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-38",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 38,
+  "question": "The active reducing agent in the blast furnace for the extraction of iron is",
+  "options": {
+   "A": "carbon",
+   "B": "limestone",
+   "C": "carbon (11) oxide",
+   "D": "calcium oxide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-39",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 39,
+  "question": "Al2O3(s) + 3H2SO4(aq)=Al2(SO4)3(aq) + 3H2O(1) Al2O3(s) + 2NaOH(aq) + 3H2O (1) ’! 2NaAl(OH)4(aq). We can conclude from the equations above that Al2O3(s) is",
+  "options": {
+   "A": "an acidic oxide",
+   "B": "an amphoteric oxide",
+   "C": "a basic oxide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-40",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 40,
+  "question": "H₂N CH C OH The two functional groups in the above compound are. A alcohol and amine",
+  "options": {
+   "B": "acid and amine",
+   "C": "aldehyde and acid",
+   "D": "ketone and mine"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-41",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 41,
+  "question": "The fraction of crude oil used as jet fule is",
+  "options": {
+   "A": "refinery gas",
+   "B": "diesel oil",
+   "C": "kerosene",
+   "D": "gasoline"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-42",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 42,
+  "question": "CH₃CHCH₂CHCH₂CH₃ CH₃ CH₃. The IUPAC nomenclature for the compound above is.",
+  "options": {
+   "A": "dimethylhexane",
+   "B": "3,5 dimethlpentane",
+   "C": "1,1 dimethyl , 3 methylpentane",
+   "D": "2,4 dimethylhexane."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-43",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 43,
+  "question": "It is not desirable to use lead tetraethyl as an anti- knock agent because",
+  "options": {
+   "A": "it is expensive",
+   "B": "of pollution effects from the exhaust fumes",
+   "C": "it lowers the octane rating of petrol",
+   "D": "it is explosive."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-44",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 44,
+  "question": "The carbon atoms on ethane are",
+  "options": {
+   "A": "sp² hybridized",
+   "B": "sp³ hybridized",
+   "C": "sp²d hybridized",
+   "D": "sp hybridized."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-45",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 45,
+  "question": "Catalytic hydrogenation of benzene produces",
+  "options": {
+   "A": "an aromatic hydrocarbon",
+   "B": "margarine",
+   "C": "cyclohexane",
+   "D": "D.D.T"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-46",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 46,
+  "question": "O O CH₃ C-OCH₂CH₂ and CH₃CH₂CH₂ C-OH are",
+  "options": {
+   "A": "isomers",
+   "B": "esters",
+   "C": "carboxylic acids",
+   "D": "polymers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-47",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 47,
+  "question": "Palm wine turns sour with time because.",
+  "options": {
+   "A": "the sugar content is converted into alcohol",
+   "B": "the carbon(1V) oxide formed during the fermentation process has a sour taste",
+   "C": "it is commonly adulterated by the tappers and sellers",
+   "D": "microbial activity results in the production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-48",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 48,
+  "question": "The function of the copper (11) tetraoxosulphate (V1) in dilute H₂SO₄ in the figure above is to",
+  "options": {
+   "A": "Dry the gas",
+   "B": "Absorb phosphine impurity]",
+   "C": "Absorb ethene impurity",
+   "D": "Form an acetylide with ethyne."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1993_p40_1.png",
+  "images": [
+   "chemistry/1993_p40_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1993-49",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 49,
+  "question": "Which of the represents Saponification?",
+  "options": {
+   "A": "reaction of carboxylic acids with sodium hydroxide",
+   "B": "reaction of Alkanoates with acids",
+   "C": "reaction of carboxylic acids with sodium alcohols",
+   "D": "reaction of Alkanoates with sodium hydroxide."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1993-50",
+  "subject": "chemistry",
+  "year": 1993,
+  "number": 50,
+  "question": "The confirmatory test for Alkanoic acids in organic qualitative analysis is the",
+  "options": {
+   "A": "turning of wet blue litmus paper red",
+   "B": "reaction with alkanols to form esters",
+   "C": "reaction with sodium hydroxide to foem salt and water",
+   "D": "reaction with aqueous Na2CO3 to liberate a gas which turns lime water milky."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
