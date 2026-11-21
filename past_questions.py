@@ -63,6 +63,24 @@ log = logging.getLogger("wren-backend")
 
 DATA_DIR = pathlib.Path(__file__).parent / "past_questions_data"
 
+# Paper files (<subject>_<year>.json) are looked for in the main folder AND in
+# raw/, so files uploaded to either place are served. The main folder wins if
+# the same paper exists in both.
+PAPER_DIRS = [DATA_DIR, DATA_DIR / "raw"]
+
+
+def _paper_files() -> dict:
+    """{(subject_slug, year): path} for every <subject>_<year>.json found."""
+    found = {}
+    for d in PAPER_DIRS:
+        if not d.is_dir():
+            continue
+        for f in sorted(d.glob("*.json")):
+            subject, _, year = f.stem.rpartition("_")
+            if subject and year.isdigit():
+                found.setdefault((subject, int(year)), f)
+    return found
+
 # path -> ((mtime of questions, mtime of answers), questions). Files are small;
 # this just avoids re-parsing the same JSON on every request while still
 # picking up a redeploy.
@@ -134,8 +152,8 @@ def _answers_for(slug: str, year: int) -> dict:
 
 def _load(subject: str, year: int) -> list:
     slug = _slug(subject)
-    path = DATA_DIR / f"{slug}_{year}.json"
-    if not slug or not path.is_file():
+    path = _paper_files().get((slug, year))
+    if not slug or path is None or not path.is_file():
         return []
     apath = DATA_DIR / "answers" / f"{slug}_{year}.json"
     stamp = (path.stat().st_mtime, apath.stat().st_mtime if apath.is_file() else 0)
@@ -175,14 +193,12 @@ def image_path(subject: str, filename: str) -> pathlib.Path:
 
 
 def list_papers() -> PapersResponse:
+    files = _paper_files()
     log.info(f"past_questions: DATA_DIR={DATA_DIR} exists={DATA_DIR.is_dir()} "
-             f"json_files={len(list(DATA_DIR.glob('*.json'))) if DATA_DIR.is_dir() else 0}")
+             f"paper_files={len(files)}")
     papers: dict[str, list[int]] = {}
-    if DATA_DIR.is_dir():
-        for f in sorted(DATA_DIR.glob("*.json")):
-            subject, _, year = f.stem.rpartition("_")
-            if subject and year.isdigit():
-                papers.setdefault(subject, []).append(int(year))
+    for (subject, year) in files:
+        papers.setdefault(subject, []).append(year)
     for years in papers.values():
         years.sort(reverse=True)
     return PapersResponse(papers=papers)
