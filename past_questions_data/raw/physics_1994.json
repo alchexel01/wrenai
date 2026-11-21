@@ -1,0 +1,788 @@
+[
+ {
+  "id": "physics-1994-2",
+  "subject": "physics",
+  "year": 1994,
+  "number": 2,
+  "question": "If it takes 5.0 hours to drain a container of 540.0 cm³ of water, what is the flow rate of water from the container in kgs⁻¹?",
+  "options": {
+   "A": "32.5",
+   "B": "31.5",
+   "C": "30.8",
+   "D": "30.0 (Density of water = 100 kgm⁻³)"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-3",
+  "subject": "physics",
+  "year": 1994,
+  "number": 3,
+  "question": "A boat travels due east at a speed of 40 ms⁻¹. What is the resultant speed of the boat?",
+  "options": {
+   "A": "1.3 ms⁻¹",
+   "B": "10.0ms⁻¹",
+   "C": "50.0 ms⁻¹",
+   "D": "70.0 ms⁻¹"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-4",
+  "subject": "physics",
+  "year": 1994,
+  "number": 4,
+  "question": "An object is projected with velocity of 80 ms⁻¹ at an angle of 30o to the horizontal. The maximum height reached is",
+  "options": {
+   "A": "20 m",
+   "B": "80 m",
+   "C": "160 m",
+   "D": "320 m"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-5",
+  "subject": "physics",
+  "year": 1994,
+  "number": 5,
+  "question": "A motor vehicle is brought to rest from a speed of 15 ms⁻¹ in 20 seconds. Calculate the retardation.",
+  "options": {
+   "A": "0.75 ms⁻²",
+   "B": "1.33 ms⁻²",
+   "C": "5.00 ms⁻²",
+   "D": "7.50 ms⁻²"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-6",
+  "subject": "physics",
+  "year": 1994,
+  "number": 6,
+  "question": "Which of the following is TRUE of a particle moving in a horizontal circle with constant angular velocity?",
+  "options": {
+   "A": "The energy is constant but the linear momentum varies",
+   "B": "The linear momentum is constant but the energy varies.",
+   "C": "Both energy and linear momentum are constant.",
+   "D": "The speed and the linear velocity are both constant."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-7",
+  "subject": "physics",
+  "year": 1994,
+  "number": 7,
+  "question": "A stone thrown vertically upwards returns to the ground. Which of the following figures represents the velocity-time graph?",
+  "options": {},
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": null
+ },
+ {
+  "id": "physics-1994-8",
+  "subject": "physics",
+  "year": 1994,
+  "number": 8,
+  "question": "The diagram above shows a uniform wood of weight 200 N and length 50 m. it is pivoted at one end and suspended by a cord at the other end at an angle of 30o to the wood. Calculate the tension in the cord if the wood is horizontal.",
+  "options": {
+   "A": "10 N",
+   "B": "20 N",
+   "C": "100 N",
+   "D": "200 N"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-9",
+  "subject": "physics",
+  "year": 1994,
+  "number": 9,
+  "question": "An object of mass 50 kg is released from a height of 2 m. find the kinetic energy just before it strikes the ground.",
+  "options": {
+   "A": "250 J",
+   "B": "1 000 J",
+   "C": "10 000 J",
+   "D": "100 000 J"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-10",
+  "subject": "physics",
+  "year": 1994,
+  "number": 10,
+  "question": "A cone in an unstable equilibrium has its potential energy",
+  "options": {
+   "A": "Decreased",
+   "B": "Increased",
+   "C": "Unchanged",
+   "D": "Oscillating"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-11",
+  "subject": "physics",
+  "year": 1994,
+  "number": 11,
+  "question": "Calculate the magnitude of the force required to just move a 20 kg object along a horizontal surface if the coefficient of friction is 0.2",
+  "options": {
+   "A": "400.0 N",
+   "B": "40.0 N",
+   "C": "4.0 N",
+   "D": "0.4 N"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-12",
+  "subject": "physics",
+  "year": 1994,
+  "number": 12,
+  "question": "Calculate the velocity ratio of a screw jack of pitch 0.3 cm if the length of the tommy bar is 21 cm.",
+  "options": {
+   "A": "1 140",
+   "B": "14",
+   "C": "70",
+   "D": "140"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-13",
+  "subject": "physics",
+  "year": 1994,
+  "number": 13,
+  "question": "Which of the following graphs correctly represents the relationship between the load and the velocity ratio of a machine?",
+  "options": {},
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": null
+ },
+ {
+  "id": "physics-1994-14",
+  "subject": "physics",
+  "year": 1994,
+  "number": 14,
+  "question": "A spring of length 25 cm is extended to 30 cm by a load of 150 N attached to one of its ends. What is the energy stored in the spring?",
+  "options": {
+   "A": "3750 J",
+   "B": "2500 J",
+   "C": "3.75 J",
+   "D": "2.50 J"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-15",
+  "subject": "physics",
+  "year": 1994,
+  "number": 15,
+  "question": "In the diagram above, if the atmospheric pressure is 760 mm, the pressure in the chamber G is",
+  "options": {
+   "A": "660mm",
+   "B": "690mm",
+   "C": "830mm",
+   "D": "860mm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-16",
+  "subject": "physics",
+  "year": 1994,
+  "number": 16,
+  "question": "A force of 15 N stretches a spring to a total length of 30 cm. An additional force of 10 N stretches the spring 5 cm further. Find the natural length of the spring.",
+  "options": {
+   "A": "25.0 cm",
+   "B": "22.5 cm",
+   "C": "20.0 cm",
+   "D": "15. 0 cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-17",
+  "subject": "physics",
+  "year": 1994,
+  "number": 17,
+  "question": "Which of these statements are TRUE of pressure in liquids? I Pressure acts equally in all directions. II Pressure decreases with depth. III Pressure at the same level of a liquid is the same. IV Pressure is dependent on the cross-sectional area of the barometer tube.",
+  "options": {
+   "A": "I and III only.",
+   "B": "I, II and III only.",
+   "C": "I, II and IV only.",
+   "D": "I, II, III and IV."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-18",
+  "subject": "physics",
+  "year": 1994,
+  "number": 18,
+  "question": "The mass of a specific gravity bottle is 15.2 g when it is empty. It is 24.8 g when filled with kerosene and 27.2 g when filled with distilled water. Calculate the relative density of kerosene.",
+  "options": {
+   "A": "1.25",
+   "B": "1.10",
+   "C": "0.90",
+   "D": "0.80"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-19",
+  "subject": "physics",
+  "year": 1994,
+  "number": 19,
+  "question": "If a solid X floats in liquid P of relative density 2.0 and in liquid Q of relative density 1.5, it can be inferred that the",
+  "options": {
+   "A": "Weight of P displaced is greater than that of Q",
+   "B": "Weight of P displaced is less than that of",
+   "C": "Volume of P displaced is greater than that of Q",
+   "D": "Volume of P displaced is les than that of"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-20",
+  "subject": "physics",
+  "year": 1994,
+  "number": 20,
+  "question": "The melting point of naphthalene is 78⁰C. What is this temperature in Kelvin?",
+  "options": {
+   "A": "100 K",
+   "B": "315 K",
+   "C": "378 K",
+   "D": "444 K"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-21",
+  "subject": "physics",
+  "year": 1994,
+  "number": 21,
+  "question": "A motor tyre is inflated to pressure of 2.0 x 10⁵ Nm⁻ ² when the temperature of air is 27oC. What will be the pressure in it at 87oC assuming that the volume of the tyre does not change?",
+  "options": {
+   "A": "2.6 x 10⁵ Nm⁻²",
+   "B": "2.4 x 10⁵ Nm⁻²",
+   "C": "2.2 x 10⁵ Nm⁻²",
+   "D": "1.3 x 10⁵ Nm⁻²"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-22",
+  "subject": "physics",
+  "year": 1994,
+  "number": 22,
+  "question": "When 100 g of liquid L₁ at 78oC was mixed Xg of liquid L ₂ at 50oC, the final temperature was 66oC. Given that the specific heat capacity of L₂ is half that of L₁, find X.",
+  "options": {
+   "A": "50 g",
+   "B": "100 g",
+   "C": "150 g",
+   "D": "200 g"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-23",
+  "subject": "physics",
+  "year": 1994,
+  "number": 23,
+  "question": "A volume of water is heated from 0oC to 15oC. Which of the following diagrams correctly represents the variation of the volume with temperature?",
+  "options": {},
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": null
+ },
+ {
+  "id": "physics-1994-24",
+  "subject": "physics",
+  "year": 1994,
+  "number": 24,
+  "question": "Heat is supplied to a test tube containing 100 g of ice at its melting point. The ice melts completely in 1 min. what is the power rating of the source of heat?",
+  "options": {
+   "A": "336 W",
+   "B": "450 W",
+   "C": "560 W",
+   "D": "600 W (Latent heat of fusion of ice = 336 Jg⁻¹)"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-25",
+  "subject": "physics",
+  "year": 1994,
+  "number": 25,
+  "question": "If a room is saturated with water vapour, the temperature of the room must be",
+  "options": {
+   "A": "at 0⁰C",
+   "B": "above the dew point",
+   "C": "at 100⁰C",
+   "D": "below or at the dew point."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-26",
+  "subject": "physics",
+  "year": 1994,
+  "number": 26,
+  "question": "Which of the following graphs represents the variation of pressure P against volume V at constant temperature?",
+  "options": {},
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": null
+ },
+ {
+  "id": "physics-1994-27",
+  "subject": "physics",
+  "year": 1994,
+  "number": 27,
+  "question": "Two similar kettles containing equal masses of boiling water are placed on a table. If the surface of one is highly polished and the surface of the other is covered with soot, which of the following observations is correct?",
+  "options": {},
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-28",
+  "subject": "physics",
+  "year": 1994,
+  "number": 28,
+  "question": "The equation of a transverse wave traveling along a string is given by y = 0.3 sin (0.5x – 50t) where y and x are in cm and t is in seconds. Find the maximum displacement of the particles from the equilibrium position.",
+  "options": {
+   "A": "50.0 cm",
+   "B": "2.5 cm",
+   "C": "0.5 cm",
+   "D": "0.3 cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-29",
+  "subject": "physics",
+  "year": 1994,
+  "number": 29,
+  "question": "The sound from a source traveled to the bottom of the sea and the echo was heard 4s latter. If the speed of sound in sea water is 1500 ms⁻¹, the depth of the sea is",
+  "options": {
+   "A": "6000 m",
+   "B": "3000 m",
+   "C": "1500 m",
+   "D": "375 m"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-30",
+  "subject": "physics",
+  "year": 1994,
+  "number": 30,
+  "question": "The fundamental frequency of vibration of a sonometer wire may be halved by",
+  "options": {
+   "A": "Doubling the length of the wire",
+   "B": "Doubling the mass of the wire",
+   "C": "Reducing the tension by half",
+   "D": "Reducing the absolute temperature by half."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-31",
+  "subject": "physics",
+  "year": 1994,
+  "number": 31,
+  "question": "A pipe of length 45 cm is closed at one end. Calculate the fundamental frequency of the sound wave generated in the pipe if the velocity of sound in air is 360 ms⁻¹ (Neglect end corrections).",
+  "options": {
+   "A": "55. Hz",
+   "B": "148.5 Hz",
+   "C": "200.00 Hz",
+   "D": "550.0 Hz"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-32",
+  "subject": "physics",
+  "year": 1994,
+  "number": 32,
+  "question": "The note produced by a stretched string has a fundamental frequency of 400 Hz. If the length of the string is doubled while the tension in the string is increased by a factor of 4, the frequency is",
+  "options": {
+   "A": "200 Hz",
+   "B": "400 Hz",
+   "C": "800 Hz",
+   "D": "1600 Hz"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-33",
+  "subject": "physics",
+  "year": 1994,
+  "number": 33,
+  "question": "To produce a parallel beam of light from a concave mirror, the distance at which the lamp should be placed from the mirror is equal to",
+  "options": {
+   "A": "the focal length",
+   "B": "two times the focal length",
+   "C": "the distance of the image",
+   "D": "two times the radius of curvature."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-34",
+  "subject": "physics",
+  "year": 1994,
+  "number": 34,
+  "question": "Light of frequency 6.0 x 10¹⁴ Hz traveling in air is transmitted through glass of refractive index 1.5. Calculate the frequency of the light in the glass.",
+  "options": {
+   "A": "4.0 x 10¹⁴ Hz",
+   "B": "6.0 x 10¹⁴ Hz",
+   "C": "7.5 x 10¹⁴ Hz",
+   "D": "9.0 x 10¹⁴ Hz"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-35",
+  "subject": "physics",
+  "year": 1994,
+  "number": 35,
+  "question": "An object is placed in front of a converging lens of focal length 200 cm. The image is virtual and has a magnification of 2. what is the distance of the object from the lens?",
+  "options": {
+   "A": "5 cm",
+   "B": "10 cm",
+   "C": "30 cm",
+   "D": "40 cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-36",
+  "subject": "physics",
+  "year": 1994,
+  "number": 36,
+  "question": "An object is placed directly below a glass block of thickness 3.0 cm. Calculate the lateral displacement of the object if the refractive index of the glass is 1.5",
+  "options": {
+   "A": "1.0 cm",
+   "B": "1.5 cm",
+   "C": "2.0 cm",
+   "D": "2.5 cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-37",
+  "subject": "physics",
+  "year": 1994,
+  "number": 37,
+  "question": "In a projection lantern of focal length ƒ, the object distance u, is such that",
+  "options": {
+   "A": "u > 2ƒ > ƒ",
+   "B": "u < ƒ < 2ƒ",
+   "C": "u = ƒ < 2ƒ",
+   "D": "ƒ < u < 2ƒ"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-38",
+  "subject": "physics",
+  "year": 1994,
+  "number": 38,
+  "question": "If the Nigerian flag (green, white, green) is viewed in pure yellow light, which of the following set of colours would be observed on the flag?",
+  "options": {
+   "A": "Green, yellow, green",
+   "B": "Red, yellow, red.",
+   "C": "Black, yellow, black.",
+   "D": "Green, white, green."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-39",
+  "subject": "physics",
+  "year": 1994,
+  "number": 39,
+  "question": "Which of the figures below illustrates the dispersion of white light through a triangular glass prism?",
+  "options": {},
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": null
+ },
+ {
+  "id": "physics-1994-40",
+  "subject": "physics",
+  "year": 1994,
+  "number": 40,
+  "question": "Which of the following has the lowest internal resistance when new?",
+  "options": {
+   "A": "Leclanche cell.",
+   "B": "Daniel cell.",
+   "C": "Accumulator",
+   "D": "Torch battery."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-41",
+  "subject": "physics",
+  "year": 1994,
+  "number": 41,
+  "question": "When biro pen rubbed on a dry silk cloth is moved very closed to a piece of paper on a dry table, the pen is found to pick up the paper. This is because",
+  "options": {
+   "A": "Both the pen and the cloth are magnetized",
+   "B": "The pen is magnetized but the cloth is not",
+   "C": "The pen is charged while the cloth is magnetized",
+   "D": "Both the pen and the cloth are charged. [IMAGE] In the figure above, XY is of length 1m. The value of R at balance point Z is"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-43",
+  "subject": "physics",
+  "year": 1994,
+  "number": 43,
+  "question": "A capacitor 8 uF, is charged to a potential difference of 100V. The energy stored by the capacitor is",
+  "options": {
+   "A": "1.0 x 10⁴ J",
+   "B": "8.0 x 10 J",
+   "C": "1.25 x 10 J",
+   "D": "4.0 x 10⁻²J"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-44",
+  "subject": "physics",
+  "year": 1994,
+  "number": 44,
+  "question": "Two resistors, R₁ = 4Ohms and R₂ = 5 Ohms, are connected in parallel across a potential difference. If P₁ and P₂ represent the power dissipated in R₁ and R₂ respectively, the ratio P₁ :P₂ is",
+  "options": {
+   "A": "4 : 5",
+   "B": "5 : 4",
+   "C": "16 : 25",
+   "D": "25 : 16"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-45",
+  "subject": "physics",
+  "year": 1994,
+  "number": 45,
+  "question": "In the circuit diagram above, calculate the current in the 12 – Ohms resistor if the cell has an e.m.f. of 12V and an internal resistance of 1 ohms.",
+  "options": {
+   "A": "0.8 A",
+   "B": "1.0 A",
+   "C": "1.6 A",
+   "D": "2.4 A"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-46",
+  "subject": "physics",
+  "year": 1994,
+  "number": 46,
+  "question": "Which of the following are found in the receiver but not in the microphone of a telephone handset? I Diaphragm II Soft iron ole pieces. III Permanent magnet. IV Carbon blocks",
+  "options": {
+   "A": "I and II",
+   "B": "I and IV.",
+   "C": "II and III",
+   "D": "III and IV."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-47",
+  "subject": "physics",
+  "year": 1994,
+  "number": 47,
+  "question": "If two parallel conductors carry currents flowing in the same direction, the conductors will",
+  "options": {
+   "A": "Attract each other",
+   "B": "Repel each other",
+   "C": "Both move in the same direction",
+   "D": "Have no effect on each other."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-48",
+  "subject": "physics",
+  "year": 1994,
+  "number": 48,
+  "question": "A certain radioisotope of ²³⁵U emits four alpha particles and three beta particles. The mass number and the atomic number of the resulting element respectively are",
+  "options": {
+   "A": "219 and 87",
+   "B": "84 and 223",
+   "C": "223 and 87",
+   "D": "219 and 81"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-49",
+  "subject": "physics",
+  "year": 1994,
+  "number": 49,
+  "question": "In the curve above, PQRST represents an alternating voltage frequency 50 Hz. The time interval between point P and R on the graph is",
+  "options": {
+   "A": "25 s",
+   "B": "1 S",
+   "C": "1 S 100",
+   "D": "1 S 200"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1994-50",
+  "subject": "physics",
+  "year": 1994,
+  "number": 50,
+  "question": "If the light with photon energy 2 eV is incident suitably on the surface of a metal with work function 3 eV, then",
+  "options": {
+   "A": "No electron will be emitted",
+   "B": "The few electrons emitted will have a maximum kinetic energy of 1 eV",
+   "C": "The few electrons emitted will have a maximum kinetic energy of 3 eV",
+   "D": "Many electrons will be emitted."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ }
+]

@@ -1,0 +1,865 @@
+[
+ {
+  "id": "physics-1985-1",
+  "subject": "physics",
+  "year": 1985,
+  "number": 1,
+  "question": "Which of the following is NOT a fundamental S.I. unit?",
+  "options": {
+   "A": "Metre",
+   "B": "Ampere",
+   "C": "Kelvin",
+   "D": "Second",
+   "E": "Radian"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-2",
+  "subject": "physics",
+  "year": 1985,
+  "number": 2,
+  "question": "A simple pendulum with a period of 2.0s has its length doubled. Its new period is",
+  "options": {
+   "A": "1.00 s",
+   "B": "1.41 s",
+   "C": "0.35 s",
+   "D": "2.83 s",
+   "E": "4.00 s"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-3",
+  "subject": "physics",
+  "year": 1985,
+  "number": 3,
+  "question": "Which of the following statements are true about the spring balance and the chemical balance? I Both are used to measure the mass of an object. II Either of them may be used to measure the weight of an object. III The spring balance works on the principle of Hooke’s law while the chemical balance works on the principle of moments. IV A change in gravity changes the readings of a spring balance but not that of a chemical balance.",
+  "options": {
+   "A": "I and IV",
+   "B": "II and III",
+   "C": "III and IV",
+   "D": "I, II, and III",
+   "E": "I and III."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-4",
+  "subject": "physics",
+  "year": 1985,
+  "number": 4,
+  "question": "Which of the following types of motion are oscillatory? I A driving board when used by a driver. II The motion of the balance wheel of a wrist watch. III The motion of the turn-table of a record player. IV The motion of the center of a ten kobo piece as it rolls down an inclined plane. V. The motion of the needle of a D.C. ammeter into which a low A.C. current is passed.",
+  "options": {
+   "A": "I and II only",
+   "B": "I, II and III",
+   "C": "II, III and IV",
+   "D": "I, II and V",
+   "E": "III, IV, and V."
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-5",
+  "subject": "physics",
+  "year": 1985,
+  "number": 5,
+  "question": "Velocity (ms⁻¹) 6 0 1 2 3 4 5 6 Time (s) The graph Fig. 1 above describes the motion of a particle. The acceleration of the particle during the motion is",
+  "options": {
+   "A": "0.00m s²",
+   "B": "0.25m s⁻²",
+   "C": "4.00m s-²",
+   "D": "8.00m s⁻²",
+   "E": "10.00m s⁻²"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-6",
+  "subject": "physics",
+  "year": 1985,
+  "number": 6,
+  "question": "If a car starts from rest and moves with a uniform acceleration of 10m s⁻² for ten seconds, the distance it covers in the last one second of the motion is",
+  "options": {
+   "A": "95 m",
+   "B": "100 m",
+   "C": "500 m",
+   "D": "905 m",
+   "E": "1 000 m"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-7",
+  "subject": "physics",
+  "year": 1985,
+  "number": 7,
+  "question": "A block of mass 2.0kg resting on a smooth horizontal plane is acted upon simultaneously by two-forces, 10N due North and 10N due East. The magnitude of the acceleration produced by the forces on the block is",
+  "options": {
+   "A": "0.10m s⁻²",
+   "B": "7.05m s⁻²",
+   "C": "10.00m s⁻²",
+   "D": "14.10m s⁻²",
+   "E": "20.00m s⁻²"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-8",
+  "subject": "physics",
+  "year": 1985,
+  "number": 8,
+  "question": "A metal block of mass 5kg lies on a rough horizontal platform. If a horizontal force of 8N applied to the block through its centre of mass just slides the block on the platform, then the coefficient of limiting friction between the block and the platform",
+  "options": {
+   "A": "0.16",
+   "B": "0.63",
+   "C": "0.80",
+   "D": "1.60",
+   "E": "2.00"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-9",
+  "subject": "physics",
+  "year": 1985,
+  "number": 9,
+  "question": "Which of the following is NOT a force?",
+  "options": {
+   "A": "Friction",
+   "B": "Tension",
+   "C": "Upthrust",
+   "D": "Weight",
+   "E": "Impulse."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-10",
+  "subject": "physics",
+  "year": 1985,
+  "number": 10,
+  "question": "Two masses 40g and 60g respectively, are attached firmly to the ends of a light metre rule. The centre of gravity of the system is",
+  "options": {
+   "A": "At the mid-point of the metre rule",
+   "B": "40cm from the lighter mass",
+   "C": "40cm from the heavier mass",
+   "D": "60cm from the heavier mass",
+   "E": "indeterminate because the metre-rule is light."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-11",
+  "subject": "physics",
+  "year": 1985,
+  "number": 11,
+  "question": "In Fig. 2 above. MN is a light uniform metre rule pivoted at O, the 80cm mark. A load of mass 3.0kg is suspended on the rule at L, the 10cm mark. If the rule is kept in equilibrium by a string RP, fixed at P and attached to the rule at R, the 20cm mark, then the tension T in the string is",
+  "options": {
+   "A": "25 N",
+   "B": "50 N",
+   "C": "250 N",
+   "D": "5 000 N",
+   "E": "25 000 N"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-12",
+  "subject": "physics",
+  "year": 1985,
+  "number": 12,
+  "question": "A 0.05kg bullet traveling at 500m s⁻¹ horizontal strikes a thick vertical wall. A load of mass 3.0kg is suspended on the rule at L, the 10cm mark. If the rule is kept in equilibrium by a string RP, fixed at P and attached to the rule at R, the 20cm mark, then tension T in the string is",
+  "options": {
+   "A": "25 N",
+   "B": "50 N",
+   "C": "250 N",
+   "D": "5 000 N",
+   "E": "25 000 N"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-13",
+  "subject": "physics",
+  "year": 1985,
+  "number": 13,
+  "question": "A force of 100N stretches an elastic string to a total length of 20cm. If an additional force of 100N stretches the string 5cm further, find the natural length of the string.",
+  "options": {
+   "A": "15 cm",
+   "B": "12 cm",
+   "C": "10 cm",
+   "D": "8 cm",
+   "E": "5 cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-14",
+  "subject": "physics",
+  "year": 1985,
+  "number": 14,
+  "question": "Two drivers G and H are at depths 20m and 40m respectively below the water surface in a lake. The pressure on G is P₁ while the pressure on H is P₁. If the atmospheric pressure is equivalent to 10m of water, then the value of P₂/P₁ is",
+  "options": {
+   "A": "0.50",
+   "B": "0.60",
+   "C": "1.67",
+   "D": "2.00",
+   "E": "3.00"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-15",
+  "subject": "physics",
+  "year": 1985,
+  "number": 15,
+  "question": "The areas of the effort and load pistons of a hydraulic press are 0.5m² and 5m² respectively. If a force F₁ of 100N is applied on the effort piston, the force F₂ on the load is",
+  "options": {
+   "A": "10 N",
+   "B": "100 N",
+   "C": "500 N",
+   "D": "1 000 N",
+   "E": "5 000 N"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-16",
+  "subject": "physics",
+  "year": 1985,
+  "number": 16,
+  "question": "A metal cube of volume 10³mm³ is lowered into a measuring cylinder containing water. If the internal cross-sectional area of the cylinder is 1.5 x 10² mm², by how much does the water level rise in the cylinder?",
+  "options": {
+   "A": "6.67 x 10⁰ mm",
+   "B": "8.50 x 10² mm",
+   "C": "1.15 x 10³ mm",
+   "D": "2.50 x 10³ mm",
+   "E": "1.50 x 10⁵ mm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-17",
+  "subject": "physics",
+  "year": 1985,
+  "number": 17,
+  "question": "A uniform cylindrical block of wood floats in water with one-third of its height above the water level. In a liquid of relative density 0.8, What fraction of its height will be above the liquid level?",
+  "options": {
+   "A": "¹/ ₆",
+   "B": "¹/ ₅",
+   "C": "¹/ ₃",
+   "D": "⁴/ ₅",
+   "E": "⁵/ ₆"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-18",
+  "subject": "physics",
+  "year": 1985,
+  "number": 18,
+  "question": "A thin aluminum plate has a surface area of 1,500m² at 20⁰C. What will be its surface area when it is cooled to – 20⁰C? (Take the linear expansivity of aluminium to be 2.5 x 10⁻⁵ K⁻¹)",
+  "options": {
+   "A": "1.503 m²",
+   "B": "1.500 m²",
+   "C": "1.498 m²",
+   "D": "1.497 m²",
+   "E": "1.490 m²"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-19",
+  "subject": "physics",
+  "year": 1985,
+  "number": 19,
+  "question": "Two liquids, P at a temperature of 20⁰C and Q at a temperature of 80⁰C have specific heat capacities of 1.0J kg⁻¹ ⁰C⁻¹ and 1.5J kg⁻¹ ⁰C⁻¹ respectively. If equal masses of P and Q are mixed in a lagged calorimeter, then the equilibrium temperature is",
+  "options": {
+   "A": "44⁰C",
+   "B": "50⁰C",
+   "C": "56⁰C",
+   "D": "60⁰C",
+   "E": "70⁰C"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-20",
+  "subject": "physics",
+  "year": 1985,
+  "number": 20,
+  "question": "A quantity of gas occupies a certain volume when the temperature is – 73⁰C and the pressure is 1.5 atmospheres. If the pressure is increased to 4.5 atmospheres and the volume is halved at the same time, what will be the new temperature of the gas?",
+  "options": {
+   "A": "573⁰C",
+   "B": "327⁰C",
+   "C": "300⁰C",
+   "D": "110⁰C",
+   "E": "27⁰C"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-21",
+  "subject": "physics",
+  "year": 1985,
+  "number": 21,
+  "question": "In a gas experiment, the pressure of the gas is plotted against the reciprocal of the volume of the gas at a constant temperature. The unit of the slope of the resulting curve is",
+  "options": {
+   "A": "Force",
+   "B": "Force/m",
+   "C": "Work",
+   "D": "Force/m³",
+   "E": "Energy/m²."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-22",
+  "subject": "physics",
+  "year": 1985,
+  "number": 22,
+  "question": "Water shows anomalous behaviour",
+  "options": {
+   "A": "Below 0⁰C",
+   "B": "Between 0⁰C and 4⁰C",
+   "C": "At exactly 4⁰C",
+   "D": "Between 4⁰C and 100⁰C",
+   "E": "Above 100⁰C"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-23",
+  "subject": "physics",
+  "year": 1985,
+  "number": 23,
+  "question": "Two thermos flasks of volume Vx and Vy are filled with liquid water at an initial temperature of 0⁰C. After some time the temperatures were found to be èx, èy respectively . given that Vx ₌ ₂ ₐₙd èx ₌ ½ Vy èy The ratio of the heat flow into the flasks is",
+  "options": {
+   "A": "¹/ ₄",
+   "B": "½",
+   "C": "4",
+   "D": "1",
+   "E": "2"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-24",
+  "subject": "physics",
+  "year": 1985,
+  "number": 24,
+  "question": "A good calorimeter should be of",
+  "options": {
+   "A": "Low specific heat capacity and low heat conductivity.",
+   "B": "Low specific heat capacity and high heat conductivity.",
+   "C": "High specific heat capacity and low heat conductivity",
+   "D": "High specific heat capacity and low heat conductivity,",
+   "E": "Dull surface and low heat conductivity."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-25",
+  "subject": "physics",
+  "year": 1985,
+  "number": 25,
+  "question": "Which of the following statements is NOT correct?",
+  "options": {
+   "A": "Boiling occurs when the saturated vapour pressure of the liquid involved equals the external pressure.",
+   "B": "Both the boiling point and the saturated vapour pressure of a given liquid depend on the external pressure.",
+   "C": "The saturated vapour pressure rises with increase in temperature.",
+   "D": "The saturated vapour pressure is independent of the volume available for the vapour.",
+   "E": "It is possible to boil water at a lower temperature than 100⁰C at high altitude."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-26",
+  "subject": "physics",
+  "year": 1985,
+  "number": 26,
+  "question": "Which of the following phenomena CANNOT be explained by the molecular theory of matter?",
+  "options": {
+   "A": "Expansion",
+   "B": "Conduction",
+   "C": "Convection",
+   "D": "Radiation",
+   "E": "Evaporation."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-27",
+  "subject": "physics",
+  "year": 1985,
+  "number": 27,
+  "question": "In order to find the depth of the sea. A ship sends out a sound wave and receives an echo after one second. If the velocity of sound in water is 1500m/s, what is the depth of the sea?",
+  "options": {
+   "A": "0.75km",
+   "B": "1.50km",
+   "C": "2.20km",
+   "D": "3.00km",
+   "E": "3.75km"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-28",
+  "subject": "physics",
+  "year": 1985,
+  "number": 28,
+  "question": "When a sound wave passes from air into water its",
+  "options": {
+   "A": "Speed and frequency increase but its wavelength remains the same.",
+   "B": "Speed and wavelength increase but its frequency remains the same",
+   "C": "Speed decreases.",
+   "D": "Speed remains the same but its frequency and wavelength change.",
+   "E": "Speed increases but its frequency and wavelength decrease."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-29",
+  "subject": "physics",
+  "year": 1985,
+  "number": 29,
+  "question": "If the fundamental frequency of a closed pipe organ on a day when the speed of sound is 340m s⁻¹ is 170 Hz, then the length of the pipe is",
+  "options": {
+   "A": "50cm",
+   "B": "70cm",
+   "C": "100cm",
+   "D": "150cm",
+   "E": "200cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-30",
+  "subject": "physics",
+  "year": 1985,
+  "number": 30,
+  "question": "An object is placed 15cm in front of a concave mirror of radius 40cm. The image formed is",
+  "options": {
+   "A": "Virtual and 60cm behind the mirror",
+   "B": "Real and 60cm in front of the mirror",
+   "C": "Virtual and at infinity",
+   "D": "Real and at infinity",
+   "E": "Virtual and 40cm from the mirror."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-31",
+  "subject": "physics",
+  "year": 1985,
+  "number": 31,
+  "question": "A 45⁰ triangular glass prism can be used as a reflector of light because",
+  "options": {
+   "A": "Refraction never takes place in such a prism",
+   "B": "The angle of reflection equals the angle of incidence.",
+   "C": "The refractive index of glass is less than",
+   "D": "It is transparent",
+   "E": "The critical angle for glass is less than 45⁰"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-32",
+  "subject": "physics",
+  "year": 1985,
+  "number": 32,
+  "question": "A convex mirror is used as a driving mirror because I Its image is erect II It has a large field of view III It has a long focal length Identify the CORRECT statement(s).",
+  "options": {
+   "A": "I and III only",
+   "B": "I and II only",
+   "C": "II and III only",
+   "D": "I, II and III only",
+   "E": "I only"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-33",
+  "subject": "physics",
+  "year": 1985,
+  "number": 33,
+  "question": "Two rays of light from a point below the surface of water are equally inclined to the vertical and are inclined to each other at 60⁰ in water. What is the angle between the rays when they emerge into air? (Take the refractive index of water to be 4/3)",
+  "options": {
+   "A": "41.8⁰",
+   "B": "44.1⁰",
+   "C": "60.0⁰",
+   "D": "83.6⁰",
+   "E": "120.⁰."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-34",
+  "subject": "physics",
+  "year": 1985,
+  "number": 34,
+  "question": "A narrow beam of white light can be split up into different colours by a glass prism. The correct explanation is that",
+  "options": {
+   "A": "White light is an electromagnetic wave",
+   "B": "The prism has all the colours of the white light",
+   "C": "White light has undergone total internal reflection in the prism",
+   "D": "Different colours of white light travel with different speeds in glass.",
+   "E": "White light consists of yellow, green and red colours."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-35",
+  "subject": "physics",
+  "year": 1985,
+  "number": 35,
+  "question": "A charge of one coulomb liberates 0.0033g of copper in an electrolytic process. How long will it take a current of 2A to liberate 1.98g of copper in such a process.",
+  "options": {
+   "A": "5 minutes",
+   "B": "30 minutes",
+   "C": "50 minutes",
+   "D": "60 minutes",
+   "E": "120 minutes"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-36",
+  "subject": "physics",
+  "year": 1985,
+  "number": 36,
+  "question": "If the distance between two stationary charged particles is doubled, the magnitude of the electrostatic force between them will be",
+  "options": {
+   "A": "Passing on an electric current through a solenoid.",
+   "B": "Repeated stroking of the specimen with a magnet",
+   "C": "Repeated stroking of the specimen in opposite directions with two magnets",
+   "D": "Heating of the specimen",
+   "E": "Hammering of the specimen in the earth’s magnetic field’s"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-39",
+  "subject": "physics",
+  "year": 1985,
+  "number": 39,
+  "question": "Which of the following will convert a milliammeter to a voltmeter?",
+  "options": {
+   "A": "Low series resistance",
+   "B": "Low parallel resistance",
+   "C": "High series resistance",
+   "D": "High parallel resistance",
+   "E": "Parallel resistance equal to milliameter resistance."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-40",
+  "subject": "physics",
+  "year": 1985,
+  "number": 40,
+  "question": "Which of the graphs A – E (Fig. 3) represents the current-voltage (I – V) relationship for a cell with internal resistance?",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "[IMAGE] [IMAGE]",
+   "D": "",
+   "E": "[IMAGE]"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": null
+ },
+ {
+  "id": "physics-1985-41",
+  "subject": "physics",
+  "year": 1985,
+  "number": 41,
+  "question": "A wire P has half the diameter and half the length of a wire Q of similar material. The ratio of the resistance of P to that of Q is",
+  "options": {
+   "A": "8 : 1",
+   "B": "4 : 1",
+   "C": "2 : 1",
+   "D": "1 : 1",
+   "E": "1 : 4"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-42",
+  "subject": "physics",
+  "year": 1985,
+  "number": 42,
+  "question": "An electric kettle, connected to a 240V mains, produces 6.0 x 10⁵J of heat energy to boil a quantity of water in 5 minutes. Find the resistance of the kettle.",
+  "options": {
+   "A": "14.4 ohms",
+   "B": "28.8 ohms",
+   "C": "144 ohms",
+   "D": "288 ohms",
+   "E": "2 880 ohms"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-43",
+  "subject": "physics",
+  "year": 1985,
+  "number": 43,
+  "question": "On which of the following does the operation of a moving coil ammeter depend? I Electromagnetic induction. II Force on a current-carrying conductor in a magnetic field. III Magnetic effect of an electric current.",
+  "options": {
+   "A": "I only",
+   "B": "II only",
+   "C": "III only",
+   "D": "II and III",
+   "E": "I, II and III"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-44",
+  "subject": "physics",
+  "year": 1985,
+  "number": 44,
+  "question": "10 Ohms In Fig. 4, current (I) passes through the parallel combination. If the power dissipated in the 5 ohms resistor is 40W, then the power dissipated in the 10 ohms resistor is",
+  "options": {
+   "A": "10 W",
+   "B": "20 W",
+   "C": "40 W",
+   "D": "80 W",
+   "E": "100 W"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-45",
+  "subject": "physics",
+  "year": 1985,
+  "number": 45,
+  "question": "Which of the following statements is NOT correct?",
+  "options": {
+   "A": "A galvanometer can be converted to an ammeter with a different range by connecting a high resistance in series.",
+   "B": "An electric current always produces a magnetic field",
+   "C": "Maxwell’s screw rule states that if a corkscrew moves in the direction of the current, the hand turns in the direction of the lines of force.",
+   "D": "Electromagnets are used in electric bells and telephone receivers.",
+   "E": "The lines of force round a straight current carrying conductor are circular."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-46",
+  "subject": "physics",
+  "year": 1985,
+  "number": 46,
+  "question": "A transformer has a primary coil with 500 turns and secondary coil with 2500 turns. When the voltage input to the primary coil is 120V, the output",
+  "options": {
+   "A": "6 000 V",
+   "B": "600 V",
+   "C": "240 V",
+   "D": "60 V",
+   "E": "24 V"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-47",
+  "subject": "physics",
+  "year": 1985,
+  "number": 47,
+  "question": "Which of the following statements about electrolysis is NOT correct?",
+  "options": {
+   "A": "The substances in solution in the electrolyte become ionized.",
+   "B": "Ions are electrically charged and are attracted towards electrodes when a potential difference is applied.",
+   "C": "Ions may be discharged at the electrodes, forming bubbles or deposits.",
+   "D": "The mass deposited depends upon the length of time for which current flows.",
+   "E": "The mass of gas set free or metal deposited is proportional to the square of the current."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-48",
+  "subject": "physics",
+  "year": 1985,
+  "number": 48,
+  "question": "Which of the following statements is NOT correct?",
+  "options": {
+   "A": "The average range of distinct vision for a normal eye is from the far distance (infinity) up to about 25cm in front of the eye.",
+   "B": "Longsighted people have difficulty in making the eye lens sufficiently powerful to the focus on nearby objects.",
+   "C": "Shortsighted people cannot accommodate distant objects.",
+   "D": "Longsighted people need diverging spectacles lenses.",
+   "E": "A person with long sight has his eye-ball too short and the image of an object is therefore formed behind the retina."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-49",
+  "subject": "physics",
+  "year": 1985,
+  "number": 49,
+  "question": "Which of the following features is NOT a characteristic of natural radioactivity?",
+  "options": {
+   "A": "Radioactivity is a nuclear phenomenon.",
+   "B": "Radioactivity is exhibited only by elements of mass number greater 206.",
+   "C": "The radioactivity of an element is affected by electric and magnetic fields in the surroundings.",
+   "D": "The radioactive element is transformed into a new element."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1985-50",
+  "subject": "physics",
+  "year": 1985,
+  "number": 50,
+  "question": "What is the number of neutrons in the Uranium isotope ²³⁸ X₉₂ ?",
+  "options": {
+   "A": "92",
+   "B": "146",
+   "C": "238",
+   "D": "330",
+   "E": "119"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ }
+]

@@ -1,0 +1,837 @@
+[
+ {
+  "id": "physics-1986-1",
+  "subject": "physics",
+  "year": 1986,
+  "number": 1,
+  "question": "Which of the following represents the correct precision if the length of a piece of wire is measured with a metre rule?",
+  "options": {
+   "A": "35 mm",
+   "B": "35.0 mm",
+   "C": "35.00 mm",
+   "D": "35.01 mm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-2",
+  "subject": "physics",
+  "year": 1986,
+  "number": 2,
+  "question": "sion Figure 1 is a graph of force against extension for a spiral spring. The force constant of the spring is given by the.",
+  "options": {
+   "A": "Slope of the linear portion of the graph.",
+   "B": "Length of the linear portion of the graph.",
+   "C": "Area under the linear portion of the graph.",
+   "D": "Area under the entire graph."
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-3",
+  "subject": "physics",
+  "year": 1986,
+  "number": 3,
+  "question": "A heavy object is suspended from a string and lowered into water so that it is completely submerged. The object appears lighter because",
+  "options": {
+   "A": "The density of water is less than that of the object.",
+   "B": "The pressure is low just below the water surface.",
+   "C": "It experiences an upthrust.",
+   "D": "The tension in the string neutralizes part of the weight."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-4",
+  "subject": "physics",
+  "year": 1986,
+  "number": 4,
+  "question": "Which of the following is a derived unit?",
+  "options": {
+   "A": "Kilogramme",
+   "B": "Metre",
+   "C": "Kelvin",
+   "D": "Newton"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-5",
+  "subject": "physics",
+  "year": 1986,
+  "number": 5,
+  "question": "Two objects, one having three times the mass of the other, are dropped at the same time from at tall building. When they are above the ground, the two objects will have the same",
+  "options": {
+   "A": "Momentum",
+   "B": "Kinetic energy",
+   "C": "Potential energy",
+   "D": "Acceleration."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-6",
+  "subject": "physics",
+  "year": 1986,
+  "number": 6,
+  "question": "Which of the following is in a neutral equilibrium?",
+  "options": {
+   "A": "A heavy weight suspended on a string.",
+   "B": "A cone resting on its slant edge.",
+   "C": "A heavy based table lamp.",
+   "D": "The beam of a balance in use."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-7",
+  "subject": "physics",
+  "year": 1986,
+  "number": 7,
+  "question": "A ball is thrown vertically into the air with an initial velocity u. What is the greatest height reached?",
+  "options": {
+   "A": "U/ ₂g",
+   "B": "3u²/2g",
+   "C": "u²/g",
+   "D": "u²/₂ g."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-8",
+  "subject": "physics",
+  "year": 1986,
+  "number": 8,
+  "question": "Which of the following assumptions is made in a simple pendulum experiment? The",
+  "options": {
+   "A": "Suspending string is inextensible",
+   "B": "Bob has a finite size",
+   "C": "Bob has a definite mass",
+   "D": "Initial angle of oscillation must be large."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-9",
+  "subject": "physics",
+  "year": 1986,
+  "number": 9,
+  "question": "10cm Q R A uniform metre rule QR is balanced on a knife edge which is 55cm from R. when a mass of 10g is hung at P as shown in Fig. 2, the mass of the metre rule is",
+  "options": {
+   "A": "550g",
+   "B": "350g",
+   "C": "70g",
+   "D": "35g"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-10",
+  "subject": "physics",
+  "year": 1986,
+  "number": 10,
+  "question": "F O 5.0N F₃ Fig. 3 In Fig. 3, the forces F₁, F₂, F₃, acting at O are in equilibrium. If the magnitude of F¹, is 10.0N and the magnitude of F₂ is 5.0N, find the magnitude of F₃.",
+  "options": {
+   "A": "26.4 N",
+   "B": "15.0 N",
+   "C": "13.2 N",
+   "D": "10.0 N"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-11",
+  "subject": "physics",
+  "year": 1986,
+  "number": 11,
+  "question": "When a box of mass 400g is given an initial speed of 5m s⁻¹, it slides along a horizontal floor a distance of 3m before coming to rest. What is the coefficient of the kinetic friction between the box and the floor? (g = 10m s⁻²)",
+  "options": {
+   "A": "⁵/ ₆",
+   "B": "⁵/ ₁₂",
+   "C": "¹/ ₃",
+   "D": "²/ ₃"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-12",
+  "subject": "physics",
+  "year": 1986,
+  "number": 12,
+  "question": "₁₂. 1₂₀₀N Figure 4 represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40⁰, then the value of W is",
+  "options": {
+   "A": "28.0 N",
+   "B": "48.0 N",
+   "C": "50.0 N",
+   "D": "288.0 N"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-13",
+  "subject": "physics",
+  "year": 1986,
+  "number": 13,
+  "question": "A constant force of magnitude F acts on an object of mass 0.04kg initially at rest at a point O. If the speed of the object when it has moved 50m from O is 500m s⁻¹, what is the value of F?",
+  "options": {
+   "A": "0.4 N",
+   "B": "100.0 N",
+   "C": "250.0 N",
+   "D": "1 000.0 N"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-14",
+  "subject": "physics",
+  "year": 1986,
+  "number": 14,
+  "question": "A rectangular tank contains water to a depth of 2m. if the base is 4m x 3m, calculate the force on the base. (Density of water = 10³kg m⁻³, g = 10m s⁻²)",
+  "options": {
+   "A": "2.4 x 10⁵ N",
+   "B": "2.4 x 10⁴ N",
+   "C": "2.0 x 10⁴ N",
+   "D": "1.7 x 10³ N"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-15",
+  "subject": "physics",
+  "year": 1986,
+  "number": 15,
+  "question": "A 1000kg elevator is descending vertically with an acceleration of 1.0ms⁻², if the acceleration due to gravity is 10.0m 5s, the tension in the suspending cable is",
+  "options": {
+   "A": "1.0 N",
+   "B": "10.0 N",
+   "C": "9 000.0 N",
+   "D": "11 000.0 N"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-16",
+  "subject": "physics",
+  "year": 1986,
+  "number": 16,
+  "question": "A ball attached to one end of a string moves anticlockwise around a circle whose centre is O. If the string suddenly breaks when the ball is at point P, along which of the following paths will it move? 16. P P P P",
+  "options": {},
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": null
+ },
+ {
+  "id": "physics-1986-17",
+  "subject": "physics",
+  "year": 1986,
+  "number": 17,
+  "question": "The mode of heat transfer which does not requires material medium is",
+  "options": {
+   "A": "Conduction",
+   "B": "Radiation",
+   "C": "Convection",
+   "D": "Propagation"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-18",
+  "subject": "physics",
+  "year": 1986,
+  "number": 18,
+  "question": "The expansion of solids can be considered a disadvantages in the",
+  "options": {
+   "A": "Balance wheel of a watch",
+   "B": "Fitting of wheels on rims",
+   "C": "Fire alarm",
+   "D": "Thermostat."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-19",
+  "subject": "physics",
+  "year": 1986,
+  "number": 19,
+  "question": "19. ₑ© 100 ᵤrₜ 90 aₑᵣ 80 p 70 ₑmT 60 5 10 Time (min) In an experiment in which molten naphthalene is allowed to cool. The cooling curve in Fig. 5 was obtained. The temperature 80⁰C is known as the",
+  "options": {
+   "A": "Cooling temperature",
+   "B": "Boiling point",
+   "C": "Melting point",
+   "D": "Vaporization point"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-20",
+  "subject": "physics",
+  "year": 1986,
+  "number": 20,
+  "question": "The specific latent heat of fusion of lead is the amount of heat required to",
+  "options": {
+   "A": "Melt lead at its melting point",
+   "B": "Heat a unit mass of lead through 1⁰C.",
+   "C": "Change the state of a unit mass lead at its melting point.",
+   "D": "Change the state of a unit mass of lead at its boiling point."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-21",
+  "subject": "physics",
+  "year": 1986,
+  "number": 21,
+  "question": "Which of the following is common to evaporation and boiling? They",
+  "options": {
+   "A": "Take place at any temperature.",
+   "B": "Are surface phenomena.",
+   "C": "Involve change of state",
+   "D": "Take place at a definite pressure."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-22",
+  "subject": "physics",
+  "year": 1986,
+  "number": 22,
+  "question": "Mercury is suitable as a barometric fluid because",
+  "options": {
+   "A": "Expands uniformity",
+   "B": "Is opaque",
+   "C": "Is several times denser than water",
+   "D": "Is a good conductor of heat"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-23",
+  "subject": "physics",
+  "year": 1986,
+  "number": 23,
+  "question": "Which of the following properties makes metals ideal for cooking utensils?",
+  "options": {
+   "A": "High coefficient of expansion",
+   "B": "Good conduction of heat",
+   "C": "Low specific heat capacity",
+   "D": "Poor radiation of heat."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-24",
+  "subject": "physics",
+  "year": 1986,
+  "number": 24,
+  "question": "A gas occupies a volume of 300cm³ at a temperature of 27⁰C. What is its volume at 54⁰C, when the pressure is constant?",
+  "options": {
+   "A": "150 cm³",
+   "B": "273 cm³",
+   "C": "327 cm³",
+   "D": "600 cm³"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-25",
+  "subject": "physics",
+  "year": 1986,
+  "number": 25,
+  "question": "When two objects P and Q are supplied with the same quantity of heat, the temperature change in P is observed to be twice that of Q. The mass of P is half that of Q the ratio of the specific heat capacity of P to Q is",
+  "options": {
+   "A": "1 : 4",
+   "B": "4 : 1",
+   "C": "1 : 1",
+   "D": "2 : 1"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-26",
+  "subject": "physics",
+  "year": 1986,
+  "number": 26,
+  "question": "Which of the following is true of sound?",
+  "options": {
+   "A": "Sound travels faster in air at 20⁰C that at 30⁰C.",
+   "B": "The frequency of a given sound wave changes when it crosses the boundary separating two media..",
+   "C": "The wavelength of a given sound wave in air decreases as the temperature increases.",
+   "D": "Sound waves cannot be reflected."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-27",
+  "subject": "physics",
+  "year": 1986,
+  "number": 27,
+  "question": "In Fig. 6, a ray of light in air strikes a glass plate at an angle of incidence of 60⁰C. The reflected ray is observed to be perpendicular to the refracted ray. What is the refractive index of the glass?",
+  "options": {
+   "A": "1.73",
+   "B": "1.50",
+   "C": "0.87",
+   "D": "0.57."
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-28",
+  "subject": "physics",
+  "year": 1986,
+  "number": 28,
+  "question": "A lens of focal length 12.0cm forms an upright image three times the size of a real object. The distance between the object and the image is",
+  "options": {
+   "A": "8.0 cm",
+   "B": "16.0 cm",
+   "C": "24.0 cm",
+   "D": "32.0 cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-29",
+  "subject": "physics",
+  "year": 1986,
+  "number": 29,
+  "question": "In which of the following arrangements is the wavelength in an increasing order?",
+  "options": {
+   "A": "Gamma rays, infra-red rays, X-rays, radiowaves.",
+   "B": "Gamma rays, X-rays, infra-red rays, radiowaves.",
+   "C": "Radiowaves, X-rays, gamma rays, infra-red rays.",
+   "D": "Infra-red rays, radiowaves, X-rays, gamma rays."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-30",
+  "subject": "physics",
+  "year": 1986,
+  "number": 30,
+  "question": "If the refractive index of glass is 1.5, what is the critical angle at the air-glass interface?",
+  "options": {
+   "A": "sin⁻¹ ½",
+   "B": "Sin⁻¹ 2/3",
+   "C": "Sin⁻¹ ¾",
+   "D": "Sin⁻¹ 8/9"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-31",
+  "subject": "physics",
+  "year": 1986,
+  "number": 31,
+  "question": "A dentist obtains a linear magnification of 4 of a hole in a tooth by placing a concave mirror at a distance of 2.0cm from the tooth. The radius of curvature of the mirror is",
+  "options": {
+   "A": "5.3 cm",
+   "B": "3.2 cm",
+   "C": "2.7 cm",
+   "D": "1.6 cm."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-32",
+  "subject": "physics",
+  "year": 1986,
+  "number": 32,
+  "question": "What is the effect of the increase in the size of the hole of a pin-hole camera on the image? It",
+  "options": {
+   "A": "Gives a blurred image.",
+   "B": "Corrects for chromatic aberration",
+   "C": "Magnifies the image",
+   "D": "Brings the image into the sharper focus."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-33",
+  "subject": "physics",
+  "year": 1986,
+  "number": 33,
+  "question": "A pencil is placed vertically between a concave mirror and its focal point. The image of the pencil in the mirror will be",
+  "options": {
+   "A": "Real inverted and diminished",
+   "B": "Virtual, inverted and enlarged",
+   "C": "Real, erect and enlarged.",
+   "D": "Virtual, erect and enlarged."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-34",
+  "subject": "physics",
+  "year": 1986,
+  "number": 34,
+  "question": "A wave of frequency 10 HZ forms a stationary wave pattern in a medium where the velocity is 20cm s⁻¹. the distance between adjacent nodes is",
+  "options": {
+   "A": "1.0 cm",
+   "B": "1.5 cm",
+   "C": "2.0 cm",
+   "D": "5.0 cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-35",
+  "subject": "physics",
+  "year": 1986,
+  "number": 35,
+  "question": "35. In Fig. 7, a resonance tube experiment is performed using one turning fork. As the water level is lowered the first resonance is obtained when the length of the air column l = ë/4. The second resonance is obtained when l equals",
+  "options": {
+   "A": "/2",
+   "B": "3 /4",
+   "C": "",
+   "D": "3 /2."
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-36",
+  "subject": "physics",
+  "year": 1986,
+  "number": 36,
+  "question": "Which of the following is true of the loudness of sound? It",
+  "options": {
+   "A": "Depends on the square of the amplitude of the vibrating body.",
+   "B": "Is proportional to the distance of the observer from the source of the sound.",
+   "C": "Is greatest in vacuum",
+   "D": "Is independent of frequency."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-37",
+  "subject": "physics",
+  "year": 1986,
+  "number": 37,
+  "question": "A man clapping his hands at regular intervals observes that the echo of a clap coincides with the next clap. If the reflecting cliff is 160m away and the speed of sound is 320m s⁻¹, what is the frequency of the clapping?",
+  "options": {
+   "A": "I Hz",
+   "B": "2 Hz",
+   "C": "4 Hz",
+   "D": "8 Hz."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-38",
+  "subject": "physics",
+  "year": 1986,
+  "number": 38,
+  "question": "The vibration of an air column produces the sound in the",
+  "options": {
+   "A": "Piano",
+   "B": "Guitar",
+   "C": "Flute",
+   "D": "School handbell."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-39",
+  "subject": "physics",
+  "year": 1986,
+  "number": 39,
+  "question": "In Fig. 8, E is an accumulator with negligible internal resistance. If the e.m.f. is 9.0V, then the total current",
+  "options": {
+   "A": "0.3 A",
+   "B": "0.8 A",
+   "C": "1.0 A",
+   "D": "1.8 A"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-40",
+  "subject": "physics",
+  "year": 1986,
+  "number": 40,
+  "question": "40. 12V In Fig. 9, the value of R is",
+  "options": {
+   "A": "3 Ohms",
+   "B": "4 Ohms",
+   "C": "5 Ohms",
+   "D": "6 Ohms"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-41",
+  "subject": "physics",
+  "year": 1986,
+  "number": 41,
+  "question": "Which of the following if NOT a part of the a.d.c. electric motor?",
+  "options": {
+   "A": "Field-magnet",
+   "B": "Armature",
+   "C": "Commutator",
+   "D": "Transfomer."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-42",
+  "subject": "physics",
+  "year": 1986,
+  "number": 42,
+  "question": "Which of the following is stored by a dry Leclanche cell?",
+  "options": {
+   "A": "Electrical power",
+   "B": "Kinetic energy",
+   "C": "Electric current",
+   "D": "Chemical energy."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-43",
+  "subject": "physics",
+  "year": 1986,
+  "number": 43,
+  "question": "Which of the following arrangements will produce an equivalent resistance of 1.5Ù from three 1Ù resistors? ₄₃. ₁ ₁ ₁ 1 ₁",
+  "options": {},
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": null
+ },
+ {
+  "id": "physics-1986-44",
+  "subject": "physics",
+  "year": 1986,
+  "number": 44,
+  "question": "Which of the following is true of magnetism?",
+  "options": {
+   "A": "Iron fillings cling mainly round the ends of a bar magnet.",
+   "B": "The freely suspended bar magnet comes to rest in the geographic north-south direction.",
+   "C": "Like poles attract.",
+   "D": "Lodestone is a non-magnetic oxide."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-45",
+  "subject": "physics",
+  "year": 1986,
+  "number": 45,
+  "question": "The angle between the magnetic meridian and the geographic meridian at a locality on the earth is the",
+  "options": {
+   "A": "Longitude of the locality.",
+   "B": "Angle of inclination at the locality",
+   "C": "Latitude of the locality",
+   "D": "Angle of declination of the locality."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-46",
+  "subject": "physics",
+  "year": 1986,
+  "number": 46,
+  "question": "The sign of the charge on a charged glass rod may be determined with",
+  "options": {
+   "A": "A charged electroscope",
+   "B": "An uncharged electroscope",
+   "C": "A galvanometer",
+   "D": "An electrometer."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-47",
+  "subject": "physics",
+  "year": 1986,
+  "number": 47,
+  "question": "The diagrams below depict the current induced in a coil as a result of the relative motion between it and a bar magnet. Which of the diagrams illustrates the₄ ₇d. irection of the induced current? N S N S N S N S",
+  "options": {},
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": null
+ },
+ {
+  "id": "physics-1986-48",
+  "subject": "physics",
+  "year": 1986,
+  "number": 48,
+  "question": "If the inclination at Ibadan is 70⁰S, this means that",
+  "options": {
+   "A": "The angle between the geographic meridian and the magnetic meridian at Ibadan is 7⁰",
+   "B": "The earth’s resultant magnetic intensity at Ibadan makes angle 7⁰ with the horizontal direction",
+   "C": "A magnetic needle will be inclined at 7⁰ to the vertical at Ibadan.",
+   "D": "The north pole of a magnetic needle dips downwards at Ibadan."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-49",
+  "subject": "physics",
+  "year": 1986,
+  "number": 49,
+  "question": "The wavelength of ultraviolet radiation is 400nm. If the speed of light in air is 3 x 10⁸m s⁻¹, then the frequency of the ultraviolet radiation is",
+  "options": {
+   "A": "1.3 x 10⁻¹⁵ Hz",
+   "B": "7.5 x 10⁵ Hz",
+   "C": "1.2 x 10¹¹ Hz",
+   "D": "7.5 x 10¹⁴ Hz."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1986-50",
+  "subject": "physics",
+  "year": 1986,
+  "number": 50,
+  "question": "Which of the following is most strongly deflected by a magnetic field?",
+  "options": {
+   "A": "gammarays",
+   "B": "alphaparticles",
+   "C": "beta-particles",
+   "D": "X-rays."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ }
+]

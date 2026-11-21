@@ -1,0 +1,825 @@
+[
+ {
+  "id": "physics-1987-1",
+  "subject": "physics",
+  "year": 1987,
+  "number": 1,
+  "question": "Which of the following units is equivalent to kg ms⁻¹?",
+  "options": {
+   "A": "Ns⁻¹",
+   "B": "Nms",
+   "C": "Ns",
+   "D": "Js⁻¹"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-2",
+  "subject": "physics",
+  "year": 1987,
+  "number": 2,
+  "question": "A man walks 8km north and then 5km in a direction 60⁰ east of north. Find the distance from his starting point.",
+  "options": {
+   "A": "11.36km",
+   "B": "12.36km",
+   "C": "13.00km",
+   "D": "14.36km."
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-3",
+  "subject": "physics",
+  "year": 1987,
+  "number": 3,
+  "question": "₎ ₁ 3. ₛ ₋ 8 mY⁽ 6 CTI 4 OEL 2 1.0 2.0 3.0 4.0 Q TIME (s) The velocity – time graph above describes the motion of a particle between two points P and Q. What is the distance between P and Q?",
+  "options": {
+   "A": "17.0 m",
+   "B": "18.0 m",
+   "C": "22.5 m",
+   "D": "30.0 m"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-4",
+  "subject": "physics",
+  "year": 1987,
+  "number": 4,
+  "question": "A jet engine develops a thrust of 270Ns when the velocity of the exhaust gases relative to the engine is 300m s⁻¹. What is the mass of the material ejected per second?",
+  "options": {
+   "A": "81.00 kg",
+   "B": "9.00 kg",
+   "C": "0.90 kg",
+   "D": "0.09 kg"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-5",
+  "subject": "physics",
+  "year": 1987,
+  "number": 5,
+  "question": "5. Figure 1 above shows two connected bodies of masses m₁ and m₂ in equilibrium under gravity. The tension in the upper string is",
+  "options": {
+   "A": "(m ₁ – m ₂) g",
+   "B": "m ₁g",
+   "C": "m₂g",
+   "D": "(m₁ + m₂)g."
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-6",
+  "subject": "physics",
+  "year": 1987,
+  "number": 6,
+  "question": "An elevator of mass 4800kg is supported by a cable which can safely withstand a maximum tension of 60 000N. the maximum upward acceleration the elevator can have is",
+  "options": {
+   "A": "2.5m s⁻²",
+   "B": "5.0m s⁻²",
+   "C": "7.5m s⁻²",
+   "D": "10.0m s⁻² (g = 10m s⁻²)"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-7",
+  "subject": "physics",
+  "year": 1987,
+  "number": 7,
+  "question": "10m 7. A 50.0kg block is dropped on a string from a point 10m above (Fig. 2). If the force constant of the spring is 4.0 x 10⁴ Nm⁻¹, find the maximum compression of the spring.",
+  "options": {
+   "A": "1.25 m",
+   "B": "0.50 m",
+   "C": "0.25 m",
+   "D": "0.05 m (g = 10 ms⁻²)"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-8",
+  "subject": "physics",
+  "year": 1987,
+  "number": 8,
+  "question": "A constant force of 40N acting on a body initially at rest gives an acceleration of 0.1ms⁻² for 4s. Calculate the work done by the force.",
+  "options": {
+   "A": "8 J",
+   "B": "10 J",
+   "C": "32 J",
+   "D": "160 J"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-9",
+  "subject": "physics",
+  "year": 1987,
+  "number": 9,
+  "question": "A body rolls down a slope from a height of 100m. Its velocity at the foot of the slope 20ms⁻¹. What percentage of its initial potential energy is converted into kinetic energy?",
+  "options": {
+   "A": "40 %",
+   "B": "35 %",
+   "C": "20%",
+   "D": "15 % (g = 10ms⁻²)"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-10",
+  "subject": "physics",
+  "year": 1987,
+  "number": 10,
+  "question": "10 [g= 10 ms ] Electrical Energy Figure 3 above represents the main sequence of energy conversion at Kainji dam. The efficiency of the system is",
+  "options": {
+   "A": "Q₁ .",
+   "B": "E .",
+   "C": "E . (Q₁ – Q₂)",
+   "D": "E . (Q₁ + Q₂)"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-11",
+  "subject": "physics",
+  "year": 1987,
+  "number": 11,
+  "question": "The coefficient os static friction between a 40kg crate and a concrete surface is 0.25. Find the magnitude of the minimum force needed to keep the crate stationary on the concrete base inclined at 45⁰ to the horizontal.[g = 10ms⁻²]",
+  "options": {
+   "A": "400 N",
+   "B": "300 N",
+   "C": "283 N",
+   "D": "212 N"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-12",
+  "subject": "physics",
+  "year": 1987,
+  "number": 12,
+  "question": "If a beaker is filled with water, it is observed that the surface of the water is not horizontal at the glass-water interface. This behaviour is due to",
+  "options": {
+   "A": "Friction",
+   "B": "Viscosity",
+   "C": "Surface tension",
+   "D": "Evaporation."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-13",
+  "subject": "physics",
+  "year": 1987,
+  "number": 13,
+  "question": "The mechanical advantage (MA) of an inclined plane depends on",
+  "options": {
+   "A": "Its length",
+   "B": "Its height]",
+   "C": "The product of its length and height",
+   "D": "The ratio of its length and its height."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-14",
+  "subject": "physics",
+  "year": 1987,
+  "number": 14,
+  "question": "A load of 5N gives an extension of 0.56cm in a wire which obeys Hooke’s law. What is the extension caused by a load of 20N?",
+  "options": {
+   "A": "1.12 cm",
+   "B": "2.14 cm",
+   "C": "2.24 cm",
+   "D": "2.52 cm."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-15",
+  "subject": "physics",
+  "year": 1987,
+  "number": 15,
+  "question": "A cube of side 10cm and mass 0.5kg floats in a liquid with only ¹/₅ of its height above the liquid surface. What is the relative density of the liquid?",
+  "options": {
+   "A": "0.125",
+   "B": "0.250",
+   "C": "0.625",
+   "D": "2.500."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-16",
+  "subject": "physics",
+  "year": 1987,
+  "number": 16,
+  "question": "The distance between the fixed points of centigrade thermometer is 20cm. What is the temperature when the mercury level is 4.5cm above the lower mark?",
+  "options": {
+   "A": "22.5⁰C",
+   "B": "29.0⁰C",
+   "C": "90.0⁰C",
+   "D": "100.0⁰C"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-17",
+  "subject": "physics",
+  "year": 1987,
+  "number": 17,
+  "question": "A metallic strip of iron and brass was heated. Which of the following diagrams accurately illustrates the shape of the strip after heating? 17. Iron ass Iron Brass Brass Iron",
+  "options": {},
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": null
+ },
+ {
+  "id": "physics-1987-18",
+  "subject": "physics",
+  "year": 1987,
+  "number": 18,
+  "question": "The length of a side of a metallic cube at 20⁰C is 5.0cm. Given that the linear expansivity of the metal is 4.0 x 10⁻⁵ k⁻¹ Find the volume of the cube at 120⁰C.",
+  "options": {
+   "A": "126.50 cm³",
+   "B": "126.25 cm³",
+   "C": "126.00 cm³",
+   "D": "125.00 cm³"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-19",
+  "subject": "physics",
+  "year": 1987,
+  "number": 19,
+  "question": "As a result of air at the top of a barometer, the height of the mercury column is 73.5cm when it should be 75.0cm; the volume of the space above the mercury is 8.0 cm³ Calculate the correct barometric height when the barometer reads 74.0cm and the volume of the space above the mercury is 6.0 cm³.",
+  "options": {
+   "A": "72.0 cm",
+   "B": "74.5 cm",
+   "C": "75.1 cm",
+   "D": "76.0 cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-20",
+  "subject": "physics",
+  "year": 1987,
+  "number": 20,
+  "question": "A fixed quantity of gas is subjected to various pressures P and the corresponding volumes V measured at a constant temperature. Which of the following graphs best represent the results? I III P iagraPm V V II IV P P V V",
+  "options": {
+   "A": "I, II",
+   "B": "II, III",
+   "C": "II, IV",
+   "D": "III, IV"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-21",
+  "subject": "physics",
+  "year": 1987,
+  "number": 21,
+  "question": "Hot water is added to three times its mass of water at 10⁰C and the resulting temperature is 20⁰C. What is the initial temperature of the hot water?",
+  "options": {},
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-22",
+  "subject": "physics",
+  "year": 1987,
+  "number": 22,
+  "question": "22,000J of heat is required to raise the temperature of 1.5kg of paraffin from 20⁰C. Calculate the specific heat ca₀pacity of paraffin. ₀",
+  "options": {
+   "A": "100 C ₋₁₀B.₋ ₁ 80 C",
+   "C": "50 C ₋₁₀D₋.₁ 40 C",
+   "B": "2933J kg C",
+   "D": "5866J kg⁻¹ ⁰C⁻¹"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-23",
+  "subject": "physics",
+  "year": 1987,
+  "number": 23,
+  "question": "Calculate the amount of heat required to convert 2kg of ice at –2⁰C to water at 0 ⁰C. (Specific heat capacity of ice = 2090J kg⁻¹ ⁰C⁻¹, specific latent heat of fusion = 333kJ kg⁻¹).",
+  "options": {
+   "A": "666J",
+   "B": "8 360J",
+   "C": "666 000J",
+   "D": "674 360J."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-24",
+  "subject": "physics",
+  "year": 1987,
+  "number": 24,
+  "question": "In which of the following are the substances arranged in descending order of their thermal conductivities?",
+  "options": {
+   "A": "Copper, steel, glass",
+   "B": "Steel, copper, glass",
+   "C": "Steel, glass, copper",
+   "D": "Copper, glass, steel."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-25",
+  "subject": "physics",
+  "year": 1987,
+  "number": 25,
+  "question": "The vacuum in the Thermos flask helps to reduce heat transfer by",
+  "options": {
+   "A": "Convection and radiation",
+   "B": "Convection and conduction",
+   "C": "Conduction and radiation",
+   "D": "Radiation only."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-26",
+  "subject": "physics",
+  "year": 1987,
+  "number": 26,
+  "question": "Which of the following phenomena explains the fact that a house whose roof is coated with white paint will be cooler in the hot season than one coated with black paint?",
+  "options": {
+   "A": "Conduction",
+   "B": "Convection",
+   "C": "Refraction",
+   "D": "Reflection."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-27",
+  "subject": "physics",
+  "year": 1987,
+  "number": 27,
+  "question": "A wave has a frequency of 2 Hz and a wavelength of 30cm. The velocity of the wave is",
+  "options": {
+   "A": "60.0m s⁻¹",
+   "B": "6.0m s⁻¹",
+   "C": "1.5m s⁻¹",
+   "D": "0.6m s⁻¹"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-28",
+  "subject": "physics",
+  "year": 1987,
+  "number": 28,
+  "question": "A boat at anchor is rocked by waves whose crests are 100m apart and whose velocity is 25m s⁻¹. At what interval does the wave crest reach the boat?",
+  "options": {
+   "A": "2,500.00s",
+   "B": "75.00s",
+   "C": "4.00s",
+   "D": "0.25s"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-29",
+  "subject": "physics",
+  "year": 1987,
+  "number": 29,
+  "question": "Which of the following instruments has a pure tone?",
+  "options": {
+   "A": "Guitar",
+   "B": "Vibrating string",
+   "C": "Turning fork",
+   "D": "Siren."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-30",
+  "subject": "physics",
+  "year": 1987,
+  "number": 30,
+  "question": "The lowest note emitted by a stretched string has a frequency of 40 Hz. How many overtones are there between 40 hZ and 150 Hz?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-31",
+  "subject": "physics",
+  "year": 1987,
+  "number": 31,
+  "question": "When the length I of a piece of wire under constant tension is varied, the relationship of the frequency of vibration f with l is",
+  "options": {
+   "A": "f & l",
+   "B": "f & ¹/ ₗ ²",
+   "C": "f & l",
+   "D": "f & ¹/ ₗ"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-32",
+  "subject": "physics",
+  "year": 1987,
+  "number": 32,
+  "question": "Which of the following statements supports the assumption that light travels in straight lines?",
+  "options": {
+   "A": "Light can be diffracted",
+   "B": "A source of light produces distinct shadows of opaque objects",
+   "C": "A source of light produces interference patterns on a suitably placed screens.",
+   "D": "Light can be reflected."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-33",
+  "subject": "physics",
+  "year": 1987,
+  "number": 33,
+  "question": "If an object is placed in front of two mirrors inclined at 90⁰, how many images will be formed?",
+  "options": {
+   "A": "Five",
+   "B": "Four",
+   "C": "Three",
+   "D": "Two."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-34",
+  "subject": "physics",
+  "year": 1987,
+  "number": 34,
+  "question": "An object 3.0cm high is placed 60.0cm from a converging lens whose focal length is 20.0cm. Calculate the size of the image formed.",
+  "options": {
+   "A": "0.5 cm",
+   "B": "1.5 cm",
+   "C": "2.0 cm",
+   "D": "6.0 cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-35",
+  "subject": "physics",
+  "year": 1987,
+  "number": 35,
+  "question": "A pool of water appears to be 1.0m deep when viewed vertically from above. If the refractive index of water is 1.33. what is the actual depth of the pool?",
+  "options": {
+   "A": "0.75 m",
+   "B": "1.013 m",
+   "C": "1.330 m",
+   "D": "13,3000 m"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-36",
+  "subject": "physics",
+  "year": 1987,
+  "number": 36,
+  "question": "A ray of light is incident at an angle of 30⁰ on one top surface of a parallel-sided glass block of refractive index 1.5. The ray finally emerges from the lower surface. What is the angular deviation of the emergent ray?",
+  "options": {
+   "A": "60⁰",
+   "B": "39⁰",
+   "C": "28⁰",
+   "D": "0⁰"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-37",
+  "subject": "physics",
+  "year": 1987,
+  "number": 37,
+  "question": "Four lenses are being considered for use as a microscope objective. Which of the following focal lengths is most suitable?",
+  "options": {
+   "A": "-5mm",
+   "B": "+5mm",
+   "C": "–5cm",
+   "D": "+5cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-38",
+  "subject": "physics",
+  "year": 1987,
+  "number": 38,
+  "question": "If the angle of declination in a place is 10⁰E, calculate the true geographic bearing if the compass reads N40⁰E.",
+  "options": {
+   "A": "N50⁰E",
+   "B": "N40⁰E",
+   "C": "N30⁰E",
+   "D": "N25⁰E [IMAGE] In Fig. 4 above, a voltage V is applied across the terminals P and Q. the voltage across the 1 resistor"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-40",
+  "subject": "physics",
+  "year": 1987,
+  "number": 40,
+  "question": "Two capacitances of 6uF and 8 uF are connected in series. What additional capacitance must be connected in series with this combination to give a total of 3 uF?",
+  "options": {
+   "A": "3 uF",
+   "B": "16 uF",
+   "C": "24 uF",
+   "D": "30 uF."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-41",
+  "subject": "physics",
+  "year": 1987,
+  "number": 41,
+  "question": "4₁. M N In Fig. 5 above, M and N are insulated metal spheres in contact. A negatively charged ebonite rod P is brought near M. when M and N are separated and the rod is taken away, which of the following statements is CORRECT?",
+  "options": {
+   "A": "Both M and N have acquired negative charges",
+   "B": "Both M and N have acquired positive charges",
+   "C": "M has acquired negative charge and N positive charge",
+   "D": "M has acquired positive charge and N negative charge."
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-42",
+  "subject": "physics",
+  "year": 1987,
+  "number": 42,
+  "question": "When a transformer has more secondary windings than primary winding, it",
+  "options": {
+   "A": "Has a smaller seconder current",
+   "B": "Has a greater power output",
+   "C": "Is a step-down transformer",
+   "D": "Increases the total energy output."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-43",
+  "subject": "physics",
+  "year": 1987,
+  "number": 43,
+  "question": "A current of 0.5A flows through a resistor when connected to a 40-V battery. How much energy is dissipated in 2 minutes?",
+  "options": {
+   "A": "1 200J",
+   "B": "1 500J",
+   "C": "2 400J",
+   "D": "96 000J."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-44",
+  "subject": "physics",
+  "year": 1987,
+  "number": 44,
+  "question": "The direction of the magnetic field at a point in the vicinity of a bar magnet is",
+  "options": {
+   "A": "Always towards the north pole of the magnet",
+   "B": "Always away from the south pole of the magnet",
+   "C": "Along the line joining the point to the neutral point",
+   "D": "In the direction the north pole of a compass needle would point."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-45",
+  "subject": "physics",
+  "year": 1987,
+  "number": 45,
+  "question": "When two parallel wires carry currents in opposite directions, the force on either wire is",
+  "options": {
+   "A": "Away from the other wire",
+   "B": "Zero, because the currents cancel each other",
+   "C": "Twice as much as when the currents are in the same direction",
+   "D": "Towards the other wire."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-46",
+  "subject": "physics",
+  "year": 1987,
+  "number": 46,
+  "question": "A galvanometer of resistance 20 is to be provided with a shunt that ¹/ o₁f₀ the whole current in a circuit passes through the galvanometer. The resistance of the shunt is",
+  "options": {
+   "A": "2.00",
+   "B": "2.22",
+   "C": "18.00",
+   "D": "18.22"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-47",
+  "subject": "physics",
+  "year": 1987,
+  "number": 47,
+  "question": "What type of reaction is represented by the following scheme? ²₁ X + ²₁ Y ³₃ Z + ¹ n₀ + energy",
+  "options": {
+   "A": "Fusion reaction",
+   "B": "Fission reaction",
+   "C": "Chain reaction",
+   "D": "Radioactivite decay."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-48",
+  "subject": "physics",
+  "year": 1987,
+  "number": 48,
+  "question": "Which of the following statements is TRUE of photoelectric effect?",
+  "options": {
+   "A": "It cannot occur in liquids",
+   "B": "The energy of the emitted electron is independent of the work function of the surface",
+   "C": "The energy of the emitted electron depends on the wavelength of the incident light",
+   "D": "The greater the intensity of the incident, the greater the energy of the emitted electron."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-49",
+  "subject": "physics",
+  "year": 1987,
+  "number": 49,
+  "question": "Isotopes are nuclei which have",
+  "options": {
+   "A": "The same number of neutrons and electrons",
+   "B": "Equal number of electrons and protons",
+   "C": "The same atomic number but different number of neutrons",
+   "D": "The same number of total particles."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1987-50",
+  "subject": "physics",
+  "year": 1987,
+  "number": 50,
+  "question": "A radioactive sample initially contains N atoms. After three half-lives the number of atoms that have disintegrated is",
+  "options": {
+   "A": "N",
+   "B": "3N",
+   "C": "5N",
+   "D": "7N"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ }
+]

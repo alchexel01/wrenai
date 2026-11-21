@@ -1,0 +1,829 @@
+[
+ {
+  "id": "physics-1991-1",
+  "subject": "physics",
+  "year": 1991,
+  "number": 1,
+  "question": "Which of the following is the most suitable for use as an altimeter?",
+  "options": {
+   "A": "A mercury barometer",
+   "B": "A fortin barometer",
+   "C": "A mercury manometer",
+   "D": "An aneroid barometer."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-2",
+  "subject": "physics",
+  "year": 1991,
+  "number": 2,
+  "question": "A body of weight W N rests on a smooth plane inclined at an angle Q⁰ to the horizontal. What is the resolved part of the weight in newtons along the plane?",
+  "options": {
+   "A": "W sin Q",
+   "B": "W cosQ",
+   "C": "W secQ",
+   "D": "W tanQ"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-3",
+  "subject": "physics",
+  "year": 1991,
+  "number": 3,
+  "question": "A small metal ball is trown vertically upwards from the top of a tower with an initial velocity of 20ms⁻¹. If the ball took a total of 6s to reach ground level, determine the height of the tower.",
+  "options": {
+   "A": "60m",
+   "B": "80m",
+   "C": "100m",
+   "D": "120m"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-4",
+  "subject": "physics",
+  "year": 1991,
+  "number": 4,
+  "question": "An object moves with uniform speed round a circle. Its acceleration has",
+  "options": {
+   "A": "Constant magnitude and constant direction.",
+   "B": "Constant magnitude and varying direction.",
+   "C": "Varying magnitude and constant direction",
+   "D": "Varying magnitude and varying direction."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-5",
+  "subject": "physics",
+  "year": 1991,
+  "number": 5,
+  "question": "A body of mass 100g moving with a velocity of 10.0 ms⁻¹ collides with a wall. If after the collision, it moves with a velocity of 2.0ms⁻¹ in the opposite direction, calculate the change in momentum.",
+  "options": {
+   "A": "0.8Ns",
+   "B": "1.2Ns",
+   "C": "12.0Ns",
+   "D": "80.0Ns"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-6",
+  "subject": "physics",
+  "year": 1991,
+  "number": 6,
+  "question": "Find the tensionT¹ in the diagram above if the system is in equilibrium.",
+  "options": {
+   "A": "200/ 3 N",
+   "B": "100/ 3 N",
+   "C": "300/ 3 N",
+   "D": "100 N [g = 10m s⁻²]"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-7",
+  "subject": "physics",
+  "year": 1991,
+  "number": 7,
+  "question": "A spring of force constant 1500 Nm⁻¹ is acted upon by a constant force of 75N. Calculate the potential energy stored in the spring.",
+  "options": {
+   "A": "1.9J",
+   "B": "3.2J",
+   "C": "3.8J",
+   "D": "5.0J"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-8",
+  "subject": "physics",
+  "year": 1991,
+  "number": 8,
+  "question": "A wheel and axle have radiu 80cm and 10cm respectively. If the efficiency of the machine is 0.85, an applied force of 1200N to the wheel will raise a load of",
+  "options": {
+   "A": "8.0 N",
+   "B": "6.8 N",
+   "C": "8160.0 N",
+   "D": "9600.0 N"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-9",
+  "subject": "physics",
+  "year": 1991,
+  "number": 9,
+  "question": "F(N) 12 - 6 - 0 12 24 A body is under the action of a force F such that the force – displacement graph of the body is semicircular as shown above. The work done on the body by the force in moving through 24 metres",
+  "options": {
+   "A": "36 ð J",
+   "B": "72 ð J",
+   "C": "144 ð J",
+   "D": "288 ð J"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-10",
+  "subject": "physics",
+  "year": 1991,
+  "number": 10,
+  "question": "A 20kg mass is to be pulled up a slope inclined at 30⁰ to the horizontal. If the efficiency of the plane is 75%, the force required to pull the load up the plane is",
+  "options": {
+   "A": "13.3 N",
+   "B": "73.5 N",
+   "C": "133.3 N",
+   "D": "533.2 N"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-11",
+  "subject": "physics",
+  "year": 1991,
+  "number": 11,
+  "question": "The spiral spring of a spring balance is 25.0cm long when 5N hangs on it and 30.0cm long, when the weight is 10N. What is the length of the spring if the weight is 3N assuming Hooke’s Law is obeyed?",
+  "options": {
+   "A": "15.0 cm",
+   "B": "17.0 cm",
+   "C": "20.0 cm",
+   "D": "23.0cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-12",
+  "subject": "physics",
+  "year": 1991,
+  "number": 12,
+  "question": "The mass of a stone is 15.0g when completely immersed in water and 10.0g when completely immersed in a liquid of relative density 2.0. The mass of the stone in air is",
+  "options": {
+   "A": "5.0g",
+   "B": "12.0g",
+   "C": "20.0g",
+   "D": "25.0g"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-13",
+  "subject": "physics",
+  "year": 1991,
+  "number": 13,
+  "question": "A pilot records the atmospheric pressure outside his plane as 63cm of Hg while a ground observer records a reading of 75cm of Hg for the atmospheric pressure on the ground. Assuming that the density of the atmosphere is constant, calculate the height of the plane above the ground. (Relative density of Hg = 13.0 and that of air = 0.00013)",
+  "options": {
+   "A": "1 200 m",
+   "B": "6 300 m",
+   "C": "7 500 m",
+   "D": "12 800 m"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-14",
+  "subject": "physics",
+  "year": 1991,
+  "number": 14,
+  "question": "In which of the following is surface tension important?",
+  "options": {
+   "A": "The floating of a ship in water",
+   "B": "The floating of a dry needle in water",
+   "C": "The floating of a balloon in air",
+   "D": "The diffusion of a sugar solution across membrane."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-15",
+  "subject": "physics",
+  "year": 1991,
+  "number": 15,
+  "question": "A thermometer with an arbitrary scale, S, of equal divisions registers –30⁰S at the ice point and +90⁰S at the steam point. Calculate the Celsius temperature corresponding to 60⁰S.",
+  "options": {
+   "A": "25.0⁰C",
+   "B": "50.0⁰C",
+   "C": "66.7⁰C",
+   "D": "75.0⁰C"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-16",
+  "subject": "physics",
+  "year": 1991,
+  "number": 16,
+  "question": "A brass rod is 2m long at a certain temperature. What is the length for a temperature rise of 100K, if the expansivity of brass is 18 x 10⁻⁶ K⁻¹?",
+  "options": {
+   "A": "2.0036m",
+   "B": "2.0018m",
+   "D": "2.0360m"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-17",
+  "subject": "physics",
+  "year": 1991,
+  "number": 17,
+  "question": "What is the difference in the amount of heat given out by 4kg of steam and 4kg of water when both are cooled from 100⁰C to 80⁰C? [The specific latent heat of steam is 2,260,000J kg¹, specific heat capacity of water is 4200J kg⁻¹ K⁻¹]",
+  "options": {
+   "A": "4,200J",
+   "B": "2,260,000J",
+   "C": "9,040,000J",
+   "D": "9,380,000J"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-18",
+  "subject": "physics",
+  "year": 1991,
+  "number": 18,
+  "question": "The graphs below show the variation of volume (V) against temperature (T) in Kelvin for a given mass of gas at constant pressure. Which of the graphs depicts the behaviour of an ideal gas? T T T T",
+  "options": {},
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": null
+ },
+ {
+  "id": "physics-1991-19",
+  "subject": "physics",
+  "year": 1991,
+  "number": 19,
+  "question": "How long does it take a 750-W heater to rise the temperature of 1kg to water from 20⁰C to 50⁰C? [Specific heat capacity of water = 4200J kg⁻¹ K⁻¹]",
+  "options": {
+   "A": "84s",
+   "B": "112s",
+   "C": "168s",
+   "D": "280s"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-20",
+  "subject": "physics",
+  "year": 1991,
+  "number": 20,
+  "question": "The saturated vapour pressure of a liquid increases as the",
+  "options": {
+   "A": "Volume of the liquid increases",
+   "B": "Volume of the liquid decreases",
+   "C": "Temperature of the liquid decreases",
+   "D": "Temperature of the liquid decreases"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-21",
+  "subject": "physics",
+  "year": 1991,
+  "number": 21,
+  "question": "The absolute temperature of a perfect gas is proportional to the average",
+  "options": {
+   "A": "Potential energy of the molecules",
+   "B": "Separation between the molecules",
+   "C": "Kinetic energy of the molecules",
+   "D": "Velocity of the molecules."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-22",
+  "subject": "physics",
+  "year": 1991,
+  "number": 22,
+  "question": "A room is heated by means of a charcoal fire. An occupant of the room standing away from the fire is warmed mainly by",
+  "options": {
+   "A": "Convection",
+   "B": "Radiation",
+   "C": "Conduction",
+   "D": "Reflection"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-23",
+  "subject": "physics",
+  "year": 1991,
+  "number": 23,
+  "question": "A boy timed 30 oscillations of a certain pendulum thrice and obtained 1 min. 10s, 1min. 12s and 1 min. 7s respectively. The mean period of oscillation of the pendulum is",
+  "options": {
+   "A": "0.14s",
+   "B": "0.43s",
+   "C": "2.32s",
+   "D": "6.97s"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-24",
+  "subject": "physics",
+  "year": 1991,
+  "number": 24,
+  "question": "Which of the following is TRUE of light and sound waves?",
+  "options": {
+   "A": "They both transmit energy",
+   "B": "They both need a medium for propagation",
+   "C": "They are both transverse waves",
+   "D": "Their velocities in air are equal."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-25",
+  "subject": "physics",
+  "year": 1991,
+  "number": 25,
+  "question": "The image in pin-hole camera is",
+  "options": {
+   "A": "Erect and formed by refraction through a lens",
+   "B": "Virtual and formed by dispersion",
+   "C": "Erect and gets sharper as the hole becomes larger",
+   "D": "Inverted and formed by the light from each point traveling in a straight line."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-26",
+  "subject": "physics",
+  "year": 1991,
+  "number": 26,
+  "question": "When a plane mirror at which a ray is incident is rotated through an angle Q, the reflected ray will be rotated through",
+  "options": {
+   "A": "½Q",
+   "B": "Q",
+   "C": "2Q",
+   "D": "3Q"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-27",
+  "subject": "physics",
+  "year": 1991,
+  "number": 27,
+  "question": "A trough 12.0cm deep is filled with water of refractive index 4/3. By how much would a coin at the bottom of the trough appear to be displaced when viewed vertically from above the water surface?",
+  "options": {
+   "A": "3.0cm",
+   "B": "6.0cm",
+   "C": "9.0cm",
+   "D": "16.0cm"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-28",
+  "subject": "physics",
+  "year": 1991,
+  "number": 28,
+  "question": "In a ray diagram for a thin converging lens, a ray that is not parallel to the optic axis but passes through the optic center will",
+  "options": {
+   "A": "Pass through undeviated",
+   "B": "Pass through the center of curvature after refraction",
+   "C": "Emerge parallel to the principal axis",
+   "D": "Pass through the principal focus after refraction."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-29",
+  "subject": "physics",
+  "year": 1991,
+  "number": 29,
+  "question": "Which of the following correctly describes the image of an object, 4cm from a diverging lens of focal length –12cm?",
+  "options": {
+   "A": "The image is virtual, 3cm in front of the lens",
+   "B": "The image is real, 6cm behind the lens",
+   "C": "The image is virtual, 6cm in front of the lens",
+   "D": "The image is real, 3cm in front of the lens."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-30",
+  "subject": "physics",
+  "year": 1991,
+  "number": 30,
+  "question": "Two tuning forks of frequencies 256Hz and 260 Hz are sounded close to each other. What is the frequency of the beats produced?",
+  "options": {
+   "A": "2 Hz",
+   "B": "4 Hz",
+   "C": "8 Hz",
+   "D": "258 Hz"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-31",
+  "subject": "physics",
+  "year": 1991,
+  "number": 31,
+  "question": "A man hears his echo from a nearby hill 2s after he shouted. If the frequency of his voice is 260 Hz and the wavelength is 1.29m, how far away is the hill?",
+  "options": {
+   "A": "330.0m",
+   "B": "335.4m",
+   "C": "660.0m",
+   "D": "670.8m"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-32",
+  "subject": "physics",
+  "year": 1991,
+  "number": 32,
+  "question": "When the bottom tip of a vibrating turning fork held in contact with a wooden box, a louder sound is heard. This phenomena is known as",
+  "options": {
+   "A": "Beats",
+   "B": "Echoing",
+   "C": "Resonance",
+   "D": "Reverberation"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-33",
+  "subject": "physics",
+  "year": 1991,
+  "number": 33,
+  "question": "Which of the following statements is CORRECT about the earth’s magnetic field?",
+  "options": {
+   "A": "The angle of dip is the angle which a free suspended magnet makes with the vertical",
+   "B": "The angle of declination is the angle between the magnetic meridian and the geographic meridian",
+   "C": "The angle of declination is the angle which a magnetic compass makes with the magnetic meridian.",
+   "D": "The angle of inclination is the difference between the angle of dip and the angle of declination."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-34",
+  "subject": "physics",
+  "year": 1991,
+  "number": 34,
+  "question": "An insulated rod when rubbed with a material acquires",
+  "options": {
+   "A": "A negative charge if it is made of glass and rubbed with silk",
+   "B": "No charge if it is made of glass and rubbed with fur",
+   "C": "No charge if it is made of copper and rubbed with silk",
+   "D": "A positive charge if it is made of copper and rubbed with fur."
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-35",
+  "subject": "physics",
+  "year": 1991,
+  "number": 35,
+  "question": "The internal resistance of each of the cells E₁ and E₂ shown in the figure above is 2Ù. Calculate the total current in the circuit",
+  "options": {
+   "A": "0.80A",
+   "B": "0.50A",
+   "C": "0.40A",
+   "D": "0.004A"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-36",
+  "subject": "physics",
+  "year": 1991,
+  "number": 36,
+  "question": "The function of the system of granulated carbon mixed with manganese (IV) oxide in a Leclanche cell is to",
+  "options": {
+   "A": "Increase the e.m.f. of the cell to 2.0V",
+   "B": "Prevent local action in the cell",
+   "C": "Prevent polarization in the cell",
+   "D": "Make the cell black and hence a good radiator"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-37",
+  "subject": "physics",
+  "year": 1991,
+  "number": 37,
+  "question": "A moving coil galvanometer of 300 Ohms resistance gives full scale deflection for 1.0mA. The resistance, R, of the shunt that is required to convert the galvanometer into a 3.0A ammeter is",
+  "options": {
+   "A": "899.70Ohms",
+   "B": "10.00 Ohms",
+   "C": "0.10 Ohms",
+   "D": "0.01 Ohms"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-38",
+  "subject": "physics",
+  "year": 1991,
+  "number": 38,
+  "question": "Which of the following obeys Ohm’s Law?",
+  "options": {
+   "A": "Glass",
+   "B": "Diode",
+   "C": "All electrolytes",
+   "D": "All metals."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-39",
+  "subject": "physics",
+  "year": 1991,
+  "number": 39,
+  "question": "The net capacitance in the circuit shown above is",
+  "options": {
+   "A": "8.0 uF",
+   "B": "6.0 uF",
+   "C": "4.0 uF",
+   "D": "2.0 uF . ⁴⁰. [IMAGE] In the above circuit, the fuse wire melts when"
+  },
+  "answer": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-41",
+  "subject": "physics",
+  "year": 1991,
+  "number": 41,
+  "question": "An equipment whose power is 1500W and resistance is 375 ohms would draw a current of",
+  "options": {
+   "A": "0.10A",
+   "B": "2.00A",
+   "C": "4.00A",
+   "D": "77.5A."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-42",
+  "subject": "physics",
+  "year": 1991,
+  "number": 42,
+  "question": "To convert an alternating current dynamo into a direct current dynamo, the",
+  "options": {
+   "A": "Number of turns in the coil is increased",
+   "B": "Strength of the field magnetic is increased",
+   "C": "Slip rings are replaced with a split ring commutator",
+   "D": "Coil is wound on a soft iron armature."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-43",
+  "subject": "physics",
+  "year": 1991,
+  "number": 43,
+  "question": "If a current carrying coil is mounted on a metal frame, the back e.m.f. induced in the coil causes",
+  "options": {
+   "A": "Inductance",
+   "B": "Eddy currents",
+   "C": "Electromagnetism",
+   "D": "Dipole moment"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-44",
+  "subject": "physics",
+  "year": 1991,
+  "number": 44,
+  "question": "The electrochemical equivalent of platinum is 5.0 x 10⁷ kg C⁻¹. To plate-out 1.0kg of platinum, a current of 100A must be passed through n appropriate vessel for",
+  "options": {
+   "A": "5.6 hours",
+   "B": "56 hours",
+   "C": "1.4 x 10⁴ hours",
+   "D": "2.0 x 10⁴ hours."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-45",
+  "subject": "physics",
+  "year": 1991,
+  "number": 45,
+  "question": "Which of the following statements are TRUE of isotopes? I Isotopes of an element have the same chemical properties because they have the same number of electrons. II Isotopes of elements are normally separated using physical properties III Isotopes of an element have the same number of protons in the nuclei.",
+  "options": {
+   "A": "I and II only",
+   "B": "I and III only",
+   "C": "II and III only",
+   "D": "I, II and III."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-46",
+  "subject": "physics",
+  "year": 1991,
+  "number": 46,
+  "question": "When an atom loses or gains a charge, it becomes",
+  "options": {
+   "A": "An electron",
+   "B": "An ion",
+   "C": "A neutron",
+   "D": "A proton."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-47",
+  "subject": "physics",
+  "year": 1991,
+  "number": 47,
+  "question": "4g of a radioactive material of half-life 10 days is spilled on a laboratory floor. How long would it take to disintegrate 3.5g of the material?",
+  "options": {
+   "A": "1¼ days",
+   "B": "8¾ days",
+   "C": "30 days",
+   "D": "80 days."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-48",
+  "subject": "physics",
+  "year": 1991,
+  "number": 48,
+  "question": "In a nuclear fusion process, four protons each of mass Mₚ were fused to produce a nucleus X of mass Mₓ. Which of the following equations is CORRECT?",
+  "options": {
+   "A": "4 Mₚ > Mₓ",
+   "B": "4 Mₚ = Mₓ",
+   "C": "4 Mₚ < Mₓ",
+   "D": "Mₚ = Mₓ"
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-49",
+  "subject": "physics",
+  "year": 1991,
+  "number": 49,
+  "question": "Which of the following are TRUE for á-decay I. Mass number decreases by four II Atomic number decreases by two III Mass number does not change.",
+  "options": {
+   "A": "I and II only",
+   "B": "II and III only",
+   "C": "I and III only",
+   "D": "I, II and III."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ },
+ {
+  "id": "physics-1991-50",
+  "subject": "physics",
+  "year": 1991,
+  "number": 50,
+  "question": "Which of the following phenomena is called photoelectric effect?",
+  "options": {
+   "A": "High energy electrons impinge on a metallic anode which then emits photons",
+   "B": "A high energy photon emits photons as it is slowed down",
+   "C": "A metal absorbs quanta of light and then emits electrons",
+   "D": "Two electrons are created from quantum of light."
+  },
+  "answer": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null
+ }
+]
