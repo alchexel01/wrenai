@@ -15,8 +15,8 @@ It expects the text to follow the extraction prompt:
     B. option
     ...
     ANSWER KEY                      <- optional, after the questions of that year
-    1. B
-    2. C
+    1. B | one short sentence explaining why
+    2. C | ...
 
     YEAR: 1984
     1. ...
@@ -50,7 +50,7 @@ UNCLEAR = "[UNCLEAR]"
 
 YEAR_RE = re.compile(r"(?im)^[ \t]*YEAR[ \t]*[:\-]?[ \t]*((?:19|20)\d{2})\b.*$")
 KEY_RE = re.compile(r"(?im)^[ \t]*ANSWER[ \t]*KEYS?\b.*$")
-NUM_RE = re.compile(r"(?m)^[ \t]*(\d{1,3})[.)][ \t]+")
+NUM_RE = re.compile(r"(?m)^[ \t]*(\d{1,3})[.)](?:[ \t]+|[ \t]*$)")
 OPT_RE = re.compile(r"(?m)^[ \t]*\(?([A-E])[.)](?:[ \t]+|[ \t]*$)")
 
 
@@ -95,6 +95,29 @@ def split_questions(text: str):
     return blocks
 
 
+def split_inline_options(text: str):
+    """Fallback for 'question? A. 11 km B. 12 km C. 13 km D14 km' typed on one
+    line. -> (stem, {letter: text}) or None."""
+    m = re.search(r"(?:(?<=\s)|^)A[.)]\s*(?=\S)", text)
+    if not m:
+        return None
+    marks = [("A", m.start(), m.end())]
+    pos = m.end()
+    for letter in "BCDE":
+        mm = re.compile(r"(?<=\s)%s(?:[.)]\s*(?=\S)|(?=\d))" % letter).search(text, pos)
+        if not mm:
+            break
+        marks.append((letter, mm.start(), mm.end()))
+        pos = mm.end()
+    if len(marks) < 3:
+        return None
+    opts = {}
+    for i, (letter, _s, e) in enumerate(marks):
+        end = marks[i + 1][1] if i + 1 < len(marks) else len(text)
+        opts[letter] = clean(text[e:end])
+    return text[: marks[0][1]], opts
+
+
 # ── parsing one year ─────────────────────────────────────────────────────
 def parse_year(text: str, subject: str, year: int, notes: list):
     km = KEY_RE.search(text)
@@ -110,6 +133,15 @@ def parse_year(text: str, subject: str, year: int, notes: list):
             if letter not in options:          # keep the first one if OCR repeats a letter
                 options[letter] = clean(pieces[j + 1])
 
+        inline_note = False
+        if len(options) <= 1:
+            alt = split_inline_options(" ".join(block.split()))
+            if alt:
+                stem, options = clean(alt[0].replace(IMG, " ")), alt[1]
+                if IMG in alt[0]:
+                    block = IMG + block
+                inline_note = True
+
         # [IMAGE] belongs between the question and option A. If it landed at
         # the end of the last option instead, move it back to the question.
         has_diagram = IMG in stem
@@ -122,6 +154,12 @@ def parse_year(text: str, subject: str, year: int, notes: list):
                 notes.append((year, num, "[IMAGE] was after the options; treated as a diagram"))
         stem = clean(stem.replace(IMG, " "))
         options_are_images = any(v == IMG for v in options.values())
+        if not options and has_diagram:
+            # the options are drawn inside the picture itself
+            options_are_images = True
+            notes.append((year, num, "options are inside the diagram image; check the crop"))
+        if inline_note:
+            notes.append((year, num, "options were on one line and were split automatically; check them"))
 
         questions.append({
             "id": f"{slug(subject).replace('_', '-')}-{year}-{num}",
@@ -131,6 +169,7 @@ def parse_year(text: str, subject: str, year: int, notes: list):
             "question": stem,
             "options": options,
             "answer": None,
+            "explanation": None,
             "has_diagram": has_diagram,
             "options_are_images": options_are_images,
             "image": None,
@@ -138,29 +177,46 @@ def parse_year(text: str, subject: str, year: int, notes: list):
     return questions, key_text
 
 
+KEY_LINE = re.compile(
+    r"(?m)^[ \t]*(\d{1,3})[.):\-]?[ \t]*([A-Ea-e?])(?![A-Za-z0-9])[ \t]*(?:\|[ \t]*(.*?))?[ \t]*$")
+
+
 def read_key(key_text: str) -> dict:
+    """-> {question number: (letter or None, explanation or None)}.
+    Accepts   "14. C | Because ..."   (answer + short explanation)
+    and       "14. C"                 (answer only)
+    and the old several-per-line form "1. B 2. C 3. A"."""
     key = {}
-    for n, a in re.findall(r"(\d{1,3})\s*[.\-):]?\s*([A-Ea-e])\b", key_text):
-        key.setdefault(int(n), a.upper())
+    for n, a, expl in KEY_LINE.findall(key_text):
+        letter = a.upper() if a != "?" else None
+        key.setdefault(int(n), (letter, clean(expl) if (letter and expl) else None))
+    if not key:                                   # old format: several answers per line
+        for n, a in re.findall(r"(\d{1,3})\s*[.\-):]?\s*([A-Ea-e])\b", key_text):
+            key.setdefault(int(n), (a.upper(), None))
     return key
 
 
 # ── checks ───────────────────────────────────────────────────────────────
-def check(questions):
+def check(questions, expect_answers=True):
     bad = []
     for q in questions:
         p = []
         n_opts = len(q["options"])
-        if n_opts not in (4, 5):
+        if n_opts == 0 and q["options_are_images"]:
+            pass                                   # options live inside the diagram
+        elif n_opts not in (4, 5):
             p.append(f"{n_opts} options")
-        elif list(q["options"]) != list("ABCDE")[:n_opts]:
+        elif n_opts and list(q["options"]) != list("ABCDE")[:n_opts]:
             p.append(f"options out of order: {''.join(q['options'])}")
         if not q["answer"]:
-            p.append("no answer")
+            if expect_answers:
+                p.append("no answer")
         elif q["answer"] not in q["options"]:
             p.append("answer not in options")
         if not q["question"]:
             p.append("empty question")
+        if any(len(v) > 200 for v in q["options"].values()):
+            p.append("an option is very long (the next question's number may be missing)")
         if UNCLEAR in q["question"] or any(UNCLEAR in v for v in q["options"].values()):
             p.append("contains [UNCLEAR]")
         if not q["has_diagram"] and re.search(r"\bFig(ure)?\.?\s*\d|diagram shown|shown below", q["question"], re.I):
@@ -198,7 +254,9 @@ def main():
         key = read_key(inline_key_text)
         key.update(key_by_year.get(year, {}))
         for q in qs:
-            q["answer"] = key.get(q["number"])
+            ans, expl = key.get(q["number"], (None, None))
+            q["answer"] = ans
+            q["explanation"] = expl
 
         out = OUT_DIR / f"{slug(args.subject)}_{year}.json"
         out.write_text(json.dumps(qs, indent=1, ensure_ascii=False), encoding="utf-8")
@@ -210,9 +268,15 @@ def main():
         missing = [n for n in range(1, (max(nums) if nums else 0) + 1) if n not in nums]
         if missing:
             print(f"  CHECK missing question numbers: {missing}")
-        for num, why in notes:
+        for _y, num, why in notes:
             print(f"  NOTE Q{num}: {why}")
-        for num, probs in check(qs):
+        has_any = any(q["answer"] for q in qs)
+        n_expl = sum(1 for q in qs if q["explanation"])
+        if has_any:
+            print(f"  {sum(1 for q in qs if q['answer'])} answers, {n_expl} explanations")
+        if not has_any:
+            print("  NOTE no answers for this year yet (add an ANSWER KEY or use --key)")
+        for num, probs in check(qs, expect_answers=has_any):
             print(f"  CHECK Q{num}: {', '.join(probs)}")
     print(f"\nDone: {total} questions across {len(sections)} year(s).")
 
