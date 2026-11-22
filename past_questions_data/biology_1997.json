@@ -1,0 +1,817 @@
+[
+ {
+  "id": "biology-1997-1",
+  "subject": "biology",
+  "year": 1997,
+  "number": 1,
+  "question": "The structure labelled I is the",
+  "options": {
+   "A": "Golgi body",
+   "B": "mitochondrion",
+   "C": "endoplasmic reticulum",
+   "D": "vacuole."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-2",
+  "subject": "biology",
+  "year": 1997,
+  "number": 2,
+  "question": "Protein is synthesized in the part labelled",
+  "options": {
+   "A": "I",
+   "B": "II",
+   "C": "III",
+   "D": "IV."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-4",
+  "subject": "biology",
+  "year": 1997,
+  "number": 4,
+  "question": "Virus differ from all forms of life because they A have a thick cell wall B. feed on waste products of other organisms C. cause infectious diseases D. require other living cells to multiply.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-5",
+  "subject": "biology",
+  "year": 1997,
+  "number": 5,
+  "question": "The endoblast cells found in Hydra are used for",
+  "options": {
+   "A": "reproduction",
+   "B": "offence and defence",
+   "C": "locomotion and nutrition",
+   "D": "food collection."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-6",
+  "subject": "biology",
+  "year": 1997,
+  "number": 6,
+  "question": "Annelids differ from nematodes in that they",
+  "options": {
+   "A": "exhibit bilateral symmetry",
+   "B": "are triploblastic",
+   "C": "are metamerically segmented",
+   "D": "possess complete digestive system."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-7",
+  "subject": "biology",
+  "year": 1997,
+  "number": 7,
+  "question": "Which of the following perform similar functions?",
+  "options": {
+   "A": "Ascospores and ascocarp.",
+   "B": "antherozoids and rhizoid. C. Sorus and indusium. D. Strobili and inflorescence."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-8",
+  "subject": "biology",
+  "year": 1997,
+  "number": 8,
+  "question": "In ferns, the saprophyte",
+  "options": {
+   "A": "develops from a haploid zygote",
+   "B": "reproduces sexually to produce spores C. is haploid and dependent on the gametophyte D. is diploid and independent of the gametophy."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-9",
+  "subject": "biology",
+  "year": 1997,
+  "number": 9,
+  "question": "The group of insects that undergoes complete metamorphosis is",
+  "options": {
+   "A": "houseflies, beetles and cockroaches",
+   "B": "cockroaches, grasshoppers and bees C. houseflies, beetles and butterflies D. aphids, grasshoppers and butterflies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-10",
+  "subject": "biology",
+  "year": 1997,
+  "number": 10,
+  "question": "The nitrogenous substance that is excreted by birds in order to conserve water is",
+  "options": {
+   "A": "ammonia",
+   "B": "urea",
+   "C": "uric acid",
+   "D": "nitric acid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-11",
+  "subject": "biology",
+  "year": 1997,
+  "number": 11,
+  "question": "In mammals, the exchange of nutrients and metabolic products occurs in the",
+  "options": {
+   "A": "lymph",
+   "B": "lungs",
+   "C": "heart",
+   "D": "liver."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-12",
+  "subject": "biology",
+  "year": 1997,
+  "number": 12,
+  "question": "The part of the stomach nearer the gullet is called the",
+  "options": {
+   "A": "epiglottis",
+   "B": "cardiac sphincter",
+   "C": "duodenum",
+   "D": "pyloric sphincter."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-13",
+  "subject": "biology",
+  "year": 1997,
+  "number": 13,
+  "question": "Trace elements are required by plants mainly for the",
+  "options": {
+   "A": "formation of pigments and enzymes B . production of energy and hormones",
+   "C": "manufacture of carbohydrates",
+   "D": "manufacture of proteins. Use the diagram below to answer questions 14 and 15."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1997_p36_1.png",
+  "images": [
+   "biology/1997_p36_1.png"
+  ]
+ },
+ {
+  "id": "biology-1997-14",
+  "subject": "biology",
+  "year": 1997,
+  "number": 14,
+  "question": "The part that is similar to bone is labelled",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-16",
+  "subject": "biology",
+  "year": 1997,
+  "number": 16,
+  "question": "A food substance was treated with a few drops of Sudan III solution and a red coloration was obtained. The food contained",
+  "options": {
+   "A": "protein",
+   "B": "starch",
+   "C": "fat",
+   "D": "mineral salt."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-17",
+  "subject": "biology",
+  "year": 1997,
+  "number": 17,
+  "question": "Oozing out of water from the leaves of plants in a humid environment is known as",
+  "options": {
+   "A": "transpiration",
+   "B": "osmosis",
+   "C": "pinocytosis",
+   "D": "guttation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-18",
+  "subject": "biology",
+  "year": 1997,
+  "number": 18,
+  "question": "The element that is essential for the coagulation of blood is",
+  "options": {
+   "A": "potassium",
+   "B": "calcium",
+   "C": "phosphorus",
+   "D": "iron."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-19",
+  "subject": "biology",
+  "year": 1997,
+  "number": 19,
+  "question": "Anaerobic respiration differs aerobic respiration by the production of",
+  "options": {
+   "A": "less amount of energy and water",
+   "B": "greater amount of energy and alcohol C. less amount of energy and alchohol. D. Greater amount of energy water. 20 Stomata pores open when there is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-21",
+  "subject": "biology",
+  "year": 1997,
+  "number": 21,
+  "question": "The process of deamination is essential for the",
+  "options": {
+   "A": "digestion of protein",
+   "B": "secretion of bile",
+   "C": "formation of urea",
+   "D": "formation of antibody."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-22",
+  "subject": "biology",
+  "year": 1997,
+  "number": 22,
+  "question": "A band of connective tissue linking two bones in a joint is known as",
+  "options": {
+   "A": "tendon",
+   "B": "cartilage",
+   "C": "synovial membrane",
+   "D": "ligament."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-23",
+  "subject": "biology",
+  "year": 1997,
+  "number": 23,
+  "question": "The appendicular skeleton is composed of the pectoral girdle",
+  "options": {
+   "A": "pelvic girdle, fore and hind limbs B pelvic girdle and fore limbs C. lumbar vertebrae and pelvic girdle D. lumbar vertebrae, fore and hind limbs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-24",
+  "subject": "biology",
+  "year": 1997,
+  "number": 24,
+  "question": "The companion cells are part of the",
+  "options": {
+   "A": "pericycle",
+   "B": "phloem",
+   "C": "pith",
+   "D": "xylem"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-25",
+  "subject": "biology",
+  "year": 1997,
+  "number": 25,
+  "question": "In which of the following groups of vertebrates would the largest amount of yolk be found in the egg?",
+  "options": {
+   "A": "Mammals",
+   "B": "Fishes.",
+   "C": "Amphibians.",
+   "D": "Reptiles. Use the diagram below to answer questions 26 and 27."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1997_p36_2.png",
+  "images": [
+   "biology/1997_p36_2.png"
+  ]
+ },
+ {
+  "id": "biology-1997-26",
+  "subject": "biology",
+  "year": 1997,
+  "number": 26,
+  "question": "The function of the part labeled V is for the passage of",
+  "options": {
+   "A": "pollen tube and pollen nucleus",
+   "B": "air, water and pollen nucleus C. air, antipodal cells and ovum",
+   "D": "synergids and egg cell."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-28",
+  "subject": "biology",
+  "year": 1997,
+  "number": 28,
+  "question": "The type of vegetable reproduction illustrated in the diagram above is",
+  "options": {
+   "A": "grafting",
+   "B": "adventitious bud",
+   "C": "sucker",
+   "D": "aerial layering."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1997_p37_2.png",
+  "images": [
+   "biology/1997_p37_2.png"
+  ]
+ },
+ {
+  "id": "biology-1997-29",
+  "subject": "biology",
+  "year": 1997,
+  "number": 29,
+  "question": "Coconut and oil palm fruits can be grouped as",
+  "options": {
+   "A": "berry",
+   "B": "legume",
+   "C": "Capsule",
+   "D": "drupe."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-30",
+  "subject": "biology",
+  "year": 1997,
+  "number": 30,
+  "question": "The substance that is responsible for apical dominance in plants is known as",
+  "options": {
+   "A": "gibberellin",
+   "B": "tannin",
+   "C": "auxin",
+   "D": "kinin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-31",
+  "subject": "biology",
+  "year": 1997,
+  "number": 31,
+  "question": "The part of the brain that regulates most biological cycles in humans is",
+  "options": {
+   "A": "olfactory lobe",
+   "B": "optic lobe",
+   "C": "medulla oblongata",
+   "D": "pineal body."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-32",
+  "subject": "biology",
+  "year": 1997,
+  "number": 32,
+  "question": "The ability of the eye to focus on both near and distant objects is termed",
+  "options": {
+   "A": "image formation",
+   "B": "refraction",
+   "C": "hypermetropia",
+   "D": "accommodation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-33",
+  "subject": "biology",
+  "year": 1997,
+  "number": 33,
+  "question": "Thespeed of wind can be measured with an instrument called",
+  "options": {
+   "A": "hydrometer",
+   "B": "secchi disc",
+   "C": "anemometer",
+   "D": "wind vane."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-34",
+  "subject": "biology",
+  "year": 1997,
+  "number": 34,
+  "question": "Which organism in the food-web illustrated above is an omnivore?",
+  "options": {
+   "A": "Weevils.",
+   "B": "Rat.",
+   "C": "Hawk.",
+   "D": "Praying mantis."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1997_p37_1.png",
+  "images": [
+   "biology/1997_p37_1.png"
+  ]
+ },
+ {
+  "id": "biology-1997-35",
+  "subject": "biology",
+  "year": 1997,
+  "number": 35,
+  "question": "Toads and lizards in an ecosystem depend on a limited quantity of food. This is an example of",
+  "options": {
+   "A": "parasitism",
+   "B": "intraspecific competition",
+   "C": "predation",
+   "D": "interspecific competition."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-36",
+  "subject": "biology",
+  "year": 1997,
+  "number": 36,
+  "question": "Adaptive features of plants to desert conditions include",
+  "options": {
+   "A": "thick barks, succulent stems and sunken stomata",
+   "B": "thin barks, succulent stems and sunken stomata",
+   "C": "thin barks, air floats on stems and sunken stomata",
+   "D": "air spaces in tissues, adventitious roots and thick barks."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-37",
+  "subject": "biology",
+  "year": 1997,
+  "number": 37,
+  "question": "The Southern Guinea Savanna differs from the Northern Guinea Savanna in that it has",
+  "options": {
+   "A": "lower rainfall and shorter grasses",
+   "B": "less grasses"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-38",
+  "subject": "biology",
+  "year": 1997,
+  "number": 38,
+  "question": "After a heavy rainfall and the formation of a large pond, the most likely sequence of changes in the vegetation of the pond is",
+  "options": {
+   "A": "Euglena- water lily –Spirogyra-grass",
+   "B": "water lily – Spirogyra grass – Euglena C. Spirogyra – Euglena – grass – water lily D. Euglena – Spirogyra – water lily – grass."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-39",
+  "subject": "biology",
+  "year": 1997,
+  "number": 39,
+  "question": "In a soil sample, the relative amounts of the different soil particles can best be determined by the process of",
+  "options": {
+   "A": "filtration",
+   "B": "centrifugation",
+   "C": "precipitation",
+   "D": "sedimentation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-40",
+  "subject": "biology",
+  "year": 1997,
+  "number": 40,
+  "question": "Which is the most important pollutant of the marine environment in Nigeria?",
+  "options": {
+   "A": "Insecticides",
+   "B": "Sewage",
+   "C": "Oil",
+   "D": "Inorganic fertilizers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-41",
+  "subject": "biology",
+  "year": 1997,
+  "number": 41,
+  "question": "One of the most effective ways of controlling guinea worm is by",
+  "options": {
+   "A": "treating the disease",
+   "B": "public enlighten men campaigns. C. accelerating rural development",
+   "D": "provision of portable drinking water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-42",
+  "subject": "biology",
+  "year": 1997,
+  "number": 42,
+  "question": "During binary fission in lower organisms, the nucleus is known to undergo",
+  "options": {
+   "A": "mitosis",
+   "B": "meiosis",
+   "C": "fragmentation",
+   "D": "mutation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-43",
+  "subject": "biology",
+  "year": 1997,
+  "number": 43,
+  "question": "One reason for the success of Mendel’s work is that he",
+  "options": {
+   "A": "was the first to carry out research work on modern genetics",
+   "B": "introduced quantitative and qualitative elements into his work",
+   "C": "selected two characteristics only at a time for study",
+   "D": "drew up his laws of inheritance based on his knowledge of chromosomes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-44",
+  "subject": "biology",
+  "year": 1997,
+  "number": 44,
+  "question": "The homozygo condition Hbs Hbs results in sickle cell anaemia whereas HbA Hbs has the sickling trait. What is the probability that a couple with the sickling trait will give birth to one normal child?",
+  "options": {
+   "A": "½",
+   "B": "¼",
+   "C": "1/8",
+   "D": "0."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-45",
+  "subject": "biology",
+  "year": 1997,
+  "number": 45,
+  "question": "Which of the following characters is NOT sex-linked?",
+  "options": {
+   "A": "Albinism",
+   "B": "Baldness.",
+   "C": "Haemophilia"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-46",
+  "subject": "biology",
+  "year": 1997,
+  "number": 46,
+  "question": "Water loss is regulated in plants and animals by both the",
+  "options": {
+   "A": "scales and the skin",
+   "B": "scales and the hair",
+   "C": "thick leaves and the feathers",
+   "D": "leathery curticle and the feathers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-47",
+  "subject": "biology",
+  "year": 1997,
+  "number": 47,
+  "question": "What combination of characters should a prey develop to survive in the environment of its predator?",
+  "options": {
+   "A": "Camouflage, well developled limbs and effective vision.",
+   "B": "Showy colour, big body and well developed limbs.",
+   "C": "Camouflage, big body and effective vision.",
+   "D": "Show colour, well developed muscles and an acute sense of smell."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-48",
+  "subject": "biology",
+  "year": 1997,
+  "number": 48,
+  "question": "The three classes in a termitarium are",
+  "options": {
+   "A": "soldiers, queen and workers",
+   "B": "workers, soldiers explanation for the theory of evolution because",
+   "D": "most animal and plant fossils bear little resemblance to present day living specimens.",
+   "C": "origin of life"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,885 @@
+[
+ {
+  "id": "biology-1994-1",
+  "subject": "biology",
+  "year": 1994,
+  "number": 1,
+  "question": "The membrane surrounding the vacuole in a plant cell is called the",
+  "options": {
+   "A": "plasmalemma",
+   "B": "tonoplast",
+   "C": "nuclear membrane",
+   "D": "endoplasmic reticulum."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-2",
+  "subject": "biology",
+  "year": 1994,
+  "number": 2,
+  "question": "The smallest living organisms which share the characteristics of both living and non-living matter are",
+  "options": {
+   "A": "bacteria",
+   "B": "fungi",
+   "C": "viruses",
+   "D": "protozoa."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-3",
+  "subject": "biology",
+  "year": 1994,
+  "number": 3,
+  "question": "Green plants are distinguished from other living",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-4",
+  "subject": "biology",
+  "year": 1994,
+  "number": 4,
+  "question": "The soil swallowed by the earthworm to form the worm cast is ground up in the",
+  "options": {
+   "A": "clitellium",
+   "B": "prostosium",
+   "C": "mouth",
+   "D": "gizzard."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-5",
+  "subject": "biology",
+  "year": 1994,
+  "number": 5,
+  "question": "Which is the correct order in an evolutionary sequence for the following plant groups?",
+  "options": {
+   "A": "Bacteria ferns algae mosses seed plant.",
+   "B": "Bacteria ferns mosses algae seed plants",
+   "C": "Bacteria algae mosses ferns seed plants",
+   "D": "Bacteria mosses algae ferns seed plants. Use the diagram below to answer questions 7 and 8. Head of a cockroach"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1994_p31_2.png",
+  "images": [
+   "biology/1994_p31_2.png"
+  ]
+ },
+ {
+  "id": "biology-1994-7",
+  "subject": "biology",
+  "year": 1994,
+  "number": 7,
+  "question": "The part used for feeling is labelled",
+  "options": {
+   "A": "1",
+   "B": "J",
+   "C": "K",
+   "D": "L."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-8",
+  "subject": "biology",
+  "year": 1994,
+  "number": 8,
+  "question": "The mouth part of the insect is adapted for",
+  "options": {
+   "A": "biting and chewing",
+   "B": "suckling and chewing",
+   "C": "biting and sucking",
+   "D": "piercing and sucking."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-9",
+  "subject": "biology",
+  "year": 1994,
+  "number": 9,
+  "question": "Which of the following combinations differentiates a bony fish from a cartilaginous fish? I Presence of gills. II Absence of gill slits III Possession of bony skeleton IV Possession of laterally compressed body V Possession of dorso ventrally compressed body",
+  "options": {
+   "A": "I,II and II.",
+   "B": "I, III and IV.",
+   "C": "II, III and IV.",
+   "D": "II, III and V."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-10",
+  "subject": "biology",
+  "year": 1994,
+  "number": 10,
+  "question": "Which is the most important adaptation of a bony fish to life in water?",
+  "options": {
+   "A": "The possession of a streamlined shape",
+   "B": "The presence of overlapping scales",
+   "C": "The covering of the body by thin film of shine.",
+   "D": "The possession of a caudalfin. Use the diagram below to answer questions 11 and 12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1994_p31_1.png",
+  "images": [
+   "biology/1994_p31_1.png"
+  ]
+ },
+ {
+  "id": "biology-1994-11",
+  "subject": "biology",
+  "year": 1994,
+  "number": 11,
+  "question": "Which of the labeled part allows for efficient absorption of water and mineral?",
+  "options": {
+   "A": "I.",
+   "B": "II",
+   "C": "III.",
+   "D": "IV."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-12",
+  "subject": "biology",
+  "year": 1994,
+  "number": 12,
+  "question": "Starch is usually stored in the part labelled",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-13",
+  "subject": "biology",
+  "year": 1994,
+  "number": 13,
+  "question": "The failure of transport and respiratory systems in plants as well as the presence of reddish colour in stems and leaves result from the deficiency of",
+  "options": {
+   "A": "magnesium",
+   "B": "nitrogen",
+   "C": "potassium",
+   "D": "phosphorus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-14",
+  "subject": "biology",
+  "year": 1994,
+  "number": 14,
+  "question": "The dental formula I 3 C1 ₚₘ4 m2 is that of a 3 1 4 3",
+  "options": {
+   "A": "goat",
+   "B": "rabbit",
+   "C": "man",
+   "D": "dog"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-15",
+  "subject": "biology",
+  "year": 1994,
+  "number": 15,
+  "question": "The nitrifying bacteria, Nitrosomonas, convert ammonia to",
+  "options": {
+   "A": "nitrites",
+   "B": "nitric acid",
+   "C": "nitrates",
+   "D": "nitrous oxide."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-16",
+  "subject": "biology",
+  "year": 1994,
+  "number": 16,
+  "question": "The activity of ptyalin of ptyalin is likely to decrease with an increase in the concentration of",
+  "options": {
+   "A": "oxygen",
+   "B": "starch",
+   "C": "protein",
+   "D": "acid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-17",
+  "subject": "biology",
+  "year": 1994,
+  "number": 17,
+  "question": "The phloem parenchyma is sometimes used for",
+  "options": {
+   "A": "food storage",
+   "B": "supporting the stem",
+   "C": "production of the sieve tube D. transporting water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-18",
+  "subject": "biology",
+  "year": 1994,
+  "number": 18,
+  "question": "The process by which a red blood cell placed in distilled water absorbs until it bursts and releases its contents into the surrounding is known as",
+  "options": {
+   "A": "osmosis",
+   "B": "plasmolysis",
+   "C": "turgidity",
+   "D": "haemolysis. Use the diagram below to answer questions 19 and 20."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1994_p31_3.png",
+  "images": [
+   "biology/1994_p31_3.png"
+  ]
+ },
+ {
+  "id": "biology-1994-19",
+  "subject": "biology",
+  "year": 1994,
+  "number": 19,
+  "question": "The most appropriate title for the set up is",
+  "options": {
+   "A": "quantitative measurement of respiration in plants and animals B. measurement of respiratory rates in living organisms C. comparison between photosynthesis and respiratory",
+   "D": "comparison of respiratoryrates in plants and animals."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-20",
+  "subject": "biology",
+  "year": 1994,
+  "number": 20,
+  "question": "The part labeled J is called",
+  "options": {
+   "A": "porosimeter",
+   "B": "porometer",
+   "C": "manometer",
+   "D": "auxanometer."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-21",
+  "subject": "biology",
+  "year": 1994,
+  "number": 21,
+  "question": "A circulatory system that does not allow mixing of oxygenated and de-oxygenated blood in mammalian heart is referred to as",
+  "options": {
+   "A": "open",
+   "B": "haemocoelic",
+   "C": "single",
+   "D": "closed."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-22",
+  "subject": "biology",
+  "year": 1994,
+  "number": 22,
+  "question": "Which of the following waste products in plant is excreted through the stomata and lenticels?",
+  "options": {
+   "A": "Carbondioxide",
+   "B": "Alkaloids.",
+   "C": "Tannins",
+   "D": "Anthocyanins. Use the diagram below to answer questions 23 and 24."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1994_p32_2.png",
+  "images": [
+   "biology/1994_p32_2.png"
+  ]
+ },
+ {
+  "id": "biology-1994-23",
+  "subject": "biology",
+  "year": 1994,
+  "number": 23,
+  "question": "The vertebra illustrated is",
+  "options": {
+   "A": "lumbar",
+   "B": "thoracic",
+   "C": "caudal",
+   "D": "cervical."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-24",
+  "subject": "biology",
+  "year": 1994,
+  "number": 24,
+  "question": "The neural arch is labelled",
+  "options": {
+   "A": "I.",
+   "B": "II",
+   "C": "III",
+   "D": "IV."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-25",
+  "subject": "biology",
+  "year": 1994,
+  "number": 25,
+  "question": "In animals, meiosis comes",
+  "options": {
+   "A": "after fertilization",
+   "B": "after every mitotic division",
+   "C": "before fertilization",
+   "D": "before every mitotic division."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-26",
+  "subject": "biology",
+  "year": 1994,
+  "number": 26,
+  "question": "The fleshy base of a flower to which the different floral parts are attached is known as",
+  "options": {
+   "A": "calyx",
+   "B": "sepals",
+   "C": "thalamus",
+   "D": "hypothalamus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-27",
+  "subject": "biology",
+  "year": 1994,
+  "number": 27,
+  "question": "When a short-sighted person views a distant object without spectacles, the image is formed",
+  "options": {
+   "A": "on the retina",
+   "B": "in front ofthe retina",
+   "C": "behind the retina",
+   "D": "on the blind spot."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-28",
+  "subject": "biology",
+  "year": 1994,
+  "number": 28,
+  "question": "The graph shows the relationship between the body and atmospheric temperatures for dog and lizard. What is the most appropriate deduction that could be made form the graph?",
+  "options": {
+   "A": "Lizards are more likely to survive hazards than dogs.",
+   "B": "Both animals maintain a constant body temperature",
+   "C": "The dog’s body temperature is independent of the external temperature. D. The lizard’s body temperature varies with that of the dog."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1994_p32_1.png",
+  "images": [
+   "biology/1994_p32_1.png"
+  ]
+ },
+ {
+  "id": "biology-1994-29",
+  "subject": "biology",
+  "year": 1994,
+  "number": 29,
+  "question": "The part of the brain that controls heart beat and breathing is the Use the list of ecological constituents below to answer questions 30 and 31 1. Mango 2. Speargrass 3. Goat 4. Sheep 5. Temperature 6. Beans 7. Rock 8. Water.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-30",
+  "subject": "biology",
+  "year": 1994,
+  "number": 30,
+  "question": ". Items 1-4 can be regarded as",
+  "options": {
+   "A": "a population",
+   "B": "a community",
+   "C": "an ecosystem",
+   "D": "a niche."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-31",
+  "subject": "biology",
+  "year": 1994,
+  "number": 31,
+  "question": "The physical factors are represented by",
+  "options": {
+   "A": "1,5,6,",
+   "B": "4,5,7,",
+   "C": "5,7,8,",
+   "D": "6,7,8."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-32",
+  "subject": "biology",
+  "year": 1994,
+  "number": 32,
+  "question": "Which of the following sets is made up of decomposers?",
+  "options": {
+   "A": "Rhizopus, earthworm and protozoa",
+   "B": "Mushroom, rhizopus and bacteria",
+   "C": "Bacteria, earthworm and nematodes",
+   "D": "Earthworm, sedges and platyhelminthes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-33",
+  "subject": "biology",
+  "year": 1994,
+  "number": 33,
+  "question": "The correct order in a food chain involving the organisms (1) Grasses, (2) Hawks, (3) Snakes, (4) Grasshopper, (5) Lizards is",
+  "options": {
+   "A": "1 2 3 4 5",
+   "B": "5 4 3 2 1",
+   "C": "1 4 5 3 2",
+   "D": "3 2 4 5 1."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-34",
+  "subject": "biology",
+  "year": 1994,
+  "number": 34,
+  "question": "The organisms with the least number of individuals in a pyramid of numbers are the",
+  "options": {
+   "A": "secondary consumers",
+   "B": "tertiary consumers",
+   "C": "primary producers",
+   "D": "primary consumers. Use the list of blomes below toanswer questions 35 and 36. 1. Desert 2. Rain forest 3. Southern Guinea savannah 4. Northern Guinea savannah. 35.. A biome with a low annual rainfall, few scattered trees within dense layer of grasses and found in Kano and Katsina States is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-36",
+  "subject": "biology",
+  "year": 1994,
+  "number": 36,
+  "question": "A biom where small mammals undergo aestivation for long periods is",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3.",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-37",
+  "subject": "biology",
+  "year": 1994,
+  "number": 37,
+  "question": "Ecological sucession ends with the formation of a stable",
+  "options": {
+   "A": "nich",
+   "B": "population",
+   "C": "pioneer community",
+   "D": "climax community"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-38",
+  "subject": "biology",
+  "year": 1994,
+  "number": 38,
+  "question": "In a drought situation, plants suffer from water stress which could result in",
+  "options": {
+   "A": "reduced biochemical activities",
+   "B": "enhanced chemical activities C. enhanced microbial activities",
+   "D": "reduced phototropic activities."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-39",
+  "subject": "biology",
+  "year": 1994,
+  "number": 39,
+  "question": "The water-retention capacity of a soil indicates its",
+  "options": {
+   "A": "fertility",
+   "B": "capillarity",
+   "C": "aeration level",
+   "D": "pH level."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-40",
+  "subject": "biology",
+  "year": 1994,
+  "number": 40,
+  "question": "People who suck petrol with their mouths run the risk of increasing in their blood the concentration of",
+  "options": {
+   "A": "iron",
+   "B": "lead",
+   "C": "calcium",
+   "D": "magnesium."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-42",
+  "subject": "biology",
+  "year": 1994,
+  "number": 42,
+  "question": "People with sickle-cell anaemia have haemoglobin",
+  "options": {
+   "A": "S and are homozygous recessive",
+   "B": "A and are heterozygous recessive",
+   "C": "S and are heterozygous recessive",
+   "D": "A and are homozygous recessive."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-43",
+  "subject": "biology",
+  "year": 1994,
+  "number": 43,
+  "question": "In the gene locus for eye colour in humans, the allele for brown eyes is dominant over the allele for blue eyes. If a homozygous brown-eyed girl has a brother with blue eyes , what are the likely phenotypes of their parents’ eye colour? (Eye colour is not a sex-linked trait).",
+  "options": {
+   "A": "Both parents have blue eyes.",
+   "B": "Their father has blue eyes and their mother has brown eyes.",
+   "C": "Both parents have brown eyes.",
+   "D": "Their mother has blue eyes and their father has brown eyes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-44",
+  "subject": "biology",
+  "year": 1994,
+  "number": 44,
+  "question": "If a woman’s genotype is Tt Qq Rr, what would be the gene content of her eggs?",
+  "options": {
+   "A": "TQr tqr",
+   "B": "TQR, tqr",
+   "C": "TqR, tQr",
+   "D": "tQr, TQR."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-45",
+  "subject": "biology",
+  "year": 1994,
+  "number": 45,
+  "question": "The sex-linked defect in which very slight cut produces severe bleeding is known as",
+  "options": {
+   "A": "anaemia",
+   "B": "anorexia",
+   "C": "haemophilia",
+   "D": "haemolysis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-46",
+  "subject": "biology",
+  "year": 1994,
+  "number": 46,
+  "question": "A man who has the trait for colour blindness marries a normal woman. What percentage of their children would be sufferers, carriers and normal respectively?",
+  "options": {
+   "A": "25% and 50%",
+   "B": "25%, 50% and 25%",
+   "C": "50%, 25% and 25%",
+   "D": "25%, 37.5% and 37.5%."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-47",
+  "subject": "biology",
+  "year": 1994,
+  "number": 47,
+  "question": "Breathing root is an adaptation for survival in the",
+  "options": {
+   "A": "mangrove swamp",
+   "B": "desert",
+   "C": "arboreal habitat",
+   "D": "savanna."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-48",
+  "subject": "biology",
+  "year": 1994,
+  "number": 48,
+  "question": "Red coloration on the head of a male lizard helps it to",
+  "options": {
+   "A": "mark its territory",
+   "B": "camouflage in the environment",
+   "C": "secure its mate",
+   "D": "defend itself."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-49",
+  "subject": "biology",
+  "year": 1994,
+  "number": 49,
+  "question": "A phenomenon by which an animal goes into a state of dormancy during the dry season is called",
+  "options": {
+   "A": "hibernation",
+   "B": "aestivation",
+   "C": "incubation",
+   "D": "deactivation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-50",
+  "subject": "biology",
+  "year": 1994,
+  "number": 50,
+  "question": "The anatomical evidence usually used in support of all evolutionary relationship among whales, humans, birds and dogs is the possession of",
+  "options": {
+   "A": "thick skin",
+   "B": "pentadactyl limb",
+   "C": "tail",
+   "D": "epidermal structures."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

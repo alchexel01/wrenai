@@ -1,0 +1,810 @@
+[
+ {
+  "id": "biology-1993-1",
+  "subject": "biology",
+  "year": 1993,
+  "number": 1,
+  "question": "On what structures are the units of inheritance situated?",
+  "options": {
+   "A": "Golgi bodies",
+   "B": "Ribosomes",
+   "C": "Chromosomes",
+   "D": "Endoplasmic reticulum."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-2",
+  "subject": "biology",
+  "year": 1993,
+  "number": 2,
+  "question": "Production of naked seeds is a distinctive feature of the group of plant called?",
+  "options": {
+   "A": "grasses",
+   "B": "conifers",
+   "C": "legumes",
+   "D": "palms."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-3",
+  "subject": "biology",
+  "year": 1993,
+  "number": 3,
+  "question": "In which of these features do bryophytes differ from pteridophytes?",
+  "options": {
+   "A": "Absence of flower",
+   "B": "Alternation of generation",
+   "C": "Dependence on water for reproduction",
+   "D": "Presence of a vascular system."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-4",
+  "subject": "biology",
+  "year": 1993,
+  "number": 4,
+  "question": "Which of the following organs or cell components are common to both the sporophyte and the gametophyte of a fern?",
+  "options": {
+   "A": "Rhizoids",
+   "B": "Roots",
+   "C": "Chloroplasts",
+   "D": "Leaves."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-5",
+  "subject": "biology",
+  "year": 1993,
+  "number": 5,
+  "question": "In which of the following organisms does a single cell perform all the function of movement , nutrition, growth, excretion and photosynthesis?",
+  "options": {
+   "A": "Paramecium",
+   "B": "Euglena",
+   "C": "Amoeba.",
+   "D": "Spirogyra."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-6",
+  "subject": "biology",
+  "year": 1993,
+  "number": 6,
+  "question": "In which of the following organisms would glycogen be stored?",
+  "options": {
+   "A": "Spirogyra.",
+   "B": "Chlamydomonas.",
+   "C": "Rattus",
+   "D": "Magnifera."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-7",
+  "subject": "biology",
+  "year": 1993,
+  "number": 7,
+  "question": "The most successful group of animals in terms of diversity of species is",
+  "options": {
+   "A": "mollusca",
+   "B": "arthropoda",
+   "C": "mammalia",
+   "D": "playthehelminthes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-8",
+  "subject": "biology",
+  "year": 1993,
+  "number": 8,
+  "question": "Flame cells are the",
+  "options": {
+   "A": "excretory system of worms",
+   "B": "excretory and respiratory system of flatworms C. excretory system of flatworms D. excretory system of flatworms."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-9",
+  "subject": "biology",
+  "year": 1993,
+  "number": 9,
+  "question": "The spores of mucus are dispersed by",
+  "options": {
+   "A": "water",
+   "B": "wind",
+   "C": "insects",
+   "D": "explosive mechanism. Use the figures below to answer questions 10 and 11"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1993_p27_1.png",
+  "images": [
+   "biology/1993_p27_1.png"
+  ]
+ },
+ {
+  "id": "biology-1993-10",
+  "subject": "biology",
+  "year": 1993,
+  "number": 10,
+  "question": "Which of the following is the correct order of the development stages?",
+  "options": {
+   "A": "1 2345",
+   "B": "51324 C. 21345 D. 53214."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-11",
+  "subject": "biology",
+  "year": 1993,
+  "number": 11,
+  "question": "Stage 3 breathes",
+  "options": {
+   "A": "with the lungs",
+   "B": "with the external gills",
+   "C": "with the internal gills D. through the skin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-12",
+  "subject": "biology",
+  "year": 1993,
+  "number": 12,
+  "question": "The butterfly is of great economic importance because",
+  "options": {
+   "A": "of its use in scientific studies",
+   "B": "it sucks nectar from flowers C. it adds to the beauty of the environment",
+   "D": "it pollinates flower of crops and other plants."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-13",
+  "subject": "biology",
+  "year": 1993,
+  "number": 13,
+  "question": "Manufactured food in the plants is transported through the",
+  "options": {
+   "A": "xylem",
+   "B": "phoem",
+   "C": "cambium",
+   "D": "cortex."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-14",
+  "subject": "biology",
+  "year": 1993,
+  "number": 14,
+  "question": "Interveinal chlorosis is normally associated with the deficiency of",
+  "options": {
+   "A": "magnesium",
+   "B": "potassium",
+   "C": "iron",
+   "D": "calcium."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-15",
+  "subject": "biology",
+  "year": 1993,
+  "number": 15,
+  "question": "Osmic acid boiled with a solution of food substance gave a black precipitate . This indicated the presence of",
+  "options": {
+   "A": "fats and oils",
+   "B": "proteins",
+   "C": "amino acids",
+   "D": "starch."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1993_p27_2.png",
+  "images": [
+   "biology/1993_p27_2.png"
+  ]
+ },
+ {
+  "id": "biology-1993-16",
+  "subject": "biology",
+  "year": 1993,
+  "number": 16,
+  "question": "Which of the labeled parts is the diastema?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "6."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-17",
+  "subject": "biology",
+  "year": 1993,
+  "number": 17,
+  "question": "The lower jaw is typical of a",
+  "options": {
+   "A": "sheep",
+   "B": "rabbit",
+   "C": "dog",
+   "D": "cat."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-18",
+  "subject": "biology",
+  "year": 1993,
+  "number": 18,
+  "question": "The end products of the digestion of fats and oils in mammals are",
+  "options": {
+   "A": "maltose and fatty acids",
+   "B": "amino acids and glucose",
+   "C": "fatty acids and fructose",
+   "D": "fatty acids and glycerin. Use the diagram below to answer questions 19 and 20 The mammalian heart"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1993_p29_1.png",
+  "images": [
+   "biology/1993_p29_1.png"
+  ]
+ },
+ {
+  "id": "biology-1993-19",
+  "subject": "biology",
+  "year": 1993,
+  "number": 19,
+  "question": "Blood is pumped into the right ventricle by the contraction of the auricle wall through",
+  "options": {
+   "A": "1",
+   "B": "3 C 5",
+   "D": "6."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-20",
+  "subject": "biology",
+  "year": 1993,
+  "number": 20,
+  "question": "After circulation in the lungs, the blood returns to the left auricle through",
+  "options": {
+   "A": "1",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-21",
+  "subject": "biology",
+  "year": 1993,
+  "number": 21,
+  "question": "The main function of blood in mammals is to transport",
+  "options": {
+   "A": "excretory materials from tissues",
+   "B": "carbondioxide from lungs to tissues C. digested food from all the body tissues. D. oxygen to the lungs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-22",
+  "subject": "biology",
+  "year": 1993,
+  "number": 22,
+  "question": "Members of the phylum Protozoa use the contractile vacuole",
+  "options": {
+   "A": "to remove excess food",
+   "B": "for movement",
+   "C": "for digestion",
+   "D": "to remove excess water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-23",
+  "subject": "biology",
+  "year": 1993,
+  "number": 23,
+  "question": "The response shown by the tips of the root and shoot of a plant to the stimulus of gravity is",
+  "options": {
+   "A": "haptropism",
+   "B": "phototropism",
+   "C": "hydrotropism",
+   "D": "geotropism."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-24",
+  "subject": "biology",
+  "year": 1993,
+  "number": 24,
+  "question": "Which of the following is the correct order of the vertebrae along the spinal column? 4",
+  "options": {
+   "A": "Axis atlas thoracic lumbar cervical sacral",
+   "B": "Atlas cervical axis thoracic lumbar sacral.",
+   "C": "Atlas axis cervical thoracic lumbar sacral",
+   "D": "Axis cervical thoracic sacral lumbar."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-25",
+  "subject": "biology",
+  "year": 1993,
+  "number": 25,
+  "question": "Which of the following is TRUE of the process of conjugation in Paramecium?",
+  "options": {
+   "A": "Micronucleus disintegrates.",
+   "B": "Each ex-conjugant divides only once. C. Macronucleus undergoes division D. Each micronucleus divides twice."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-26",
+  "subject": "biology",
+  "year": 1993,
+  "number": 26,
+  "question": "The bright colours of the comb and feathers in the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-27",
+  "subject": "biology",
+  "year": 1993,
+  "number": 27,
+  "question": "The main function of the petal of a flower is to",
+  "options": {
+   "A": "attract pollination agents.",
+   "B": "protect the flower while still in bud C. serve as landing stage for insects",
+   "D": "protect the inner parts from desiccation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-28",
+  "subject": "biology",
+  "year": 1993,
+  "number": 28,
+  "question": "In the mammal, the automonic nervous system consists of",
+  "options": {
+   "A": "sympathetic and parasympathetic systems.",
+   "B": "brain and spinal nerves",
+   "C": "brain and cranial nerves",
+   "D": "spinal cord and spinal nerves. Use the diagram below to answer questions 29 and 30"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1993_p29_2.png",
+  "images": [
+   "biology/1993_p29_2.png"
+  ]
+ },
+ {
+  "id": "biology-1993-29",
+  "subject": "biology",
+  "year": 1993,
+  "number": 29,
+  "question": "In H, the cotyledons are carried above the soil because",
+  "options": {
+   "A": "the epicotyl grows faster than the hypocotyl B the hypocotyl grows faster than the epicotyl",
+   "C": "both grow at the same rate",
+   "D": "the epicotyls out grows the radicle."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-30",
+  "subject": "biology",
+  "year": 1993,
+  "number": 30,
+  "question": "The function of the structure labelled G is to",
+  "options": {
+   "A": "carry out initial photosynthesis for the seedling",
+   "B": "protect the young leaves from mechanical damage",
+   "C": "protect the young leaves form sunlight.",
+   "D": "protect the young leaves form insect."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-31",
+  "subject": "biology",
+  "year": 1993,
+  "number": 31,
+  "question": "When it is cold, the blood vessels of the skin",
+  "options": {
+   "A": "dilate to increase the amount of blood flowing to the skin",
+   "B": "constrict to reduce the amount of blood flowing to the skin.",
+   "C": "dilate to reduce the amount of blood flowing to the skin",
+   "D": "constrict to increase th e amount of blood flowing to the s kin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-32",
+  "subject": "biology",
+  "year": 1993,
+  "number": 32,
+  "question": "Which path does sound entering the human ear follow?",
+  "options": {
+   "A": "Oval window ossicles ear drum",
+   "B": "ear drum oval window ossicles. C. Ear drum ossicles oval window. D. Ossicles ear drum oval window."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-33",
+  "subject": "biology",
+  "year": 1993,
+  "number": 33,
+  "question": "What would happen to a man whose pancreas has been surgically removed?",
+  "options": {
+   "A": "The level of blood sugar would increase.",
+   "B": "The glycogen content of the liver would increase.",
+   "C": "His blood pressure would decrease. 4",
+   "D": "His weight would increase appreciably."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-34",
+  "subject": "biology",
+  "year": 1993,
+  "number": 34,
+  "question": "Carnivorous plants are usually found in area",
+  "options": {
+   "A": "which are deficient in nitrate",
+   "B": "which are deficient in oxygen C. with low pH",
+   "D": "where insects are abundant."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-35",
+  "subject": "biology",
+  "year": 1993,
+  "number": 35,
+  "question": "What is the term used to describe the sum total of biotic and abiotic factors in the environment of the organism?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-36",
+  "subject": "biology",
+  "year": 1993,
+  "number": 36,
+  "question": "Important abiotic factors which affect all plants and 45. animals in the habitat are",
+  "options": {
+   "A": "temperature and turbidity B.rainfall and relative humidity C. salinity and wind direction",
+   "D": "temperature and rainfall. 46."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-37",
+  "subject": "biology",
+  "year": 1993,
+  "number": 37,
+  "question": "The most important physical factor which affects an organism living in the intertidal zone of the seashore is",
+  "options": {
+   "A": "pH",
+   "B": "salinity",
+   "C": "wave action",
+   "D": "temperature."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-38",
+  "subject": "biology",
+  "year": 1993,
+  "number": 38,
+  "question": "At which trophic level would the highest accumulation 47. of a non-biodegrable substance occur?",
+  "options": {
+   "A": "Primary producers.",
+   "B": "Tertiary consumers.",
+   "C": "Primary consumers. D. Secondary consumers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-39",
+  "subject": "biology",
+  "year": 1993,
+  "number": 39,
+  "question": "Two organisms of different species, living in close association but not dependent on each other are 48. referred to as",
+  "options": {
+   "A": "parasites",
+   "B": "commensals",
+   "C": "symbiots",
+   "D": "autorophs"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-40",
+  "subject": "biology",
+  "year": 1993,
+  "number": 40,
+  "question": "Which of the following instruments is NOT used in measuring abiotic factors in any habitat?",
+  "options": {
+   "A": "MicroscopeB. Thermometer",
+   "C": "Hygrometer D.Wind vane."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-41",
+  "subject": "biology",
+  "year": 1993,
+  "number": 41,
+  "question": "Plants adapted for life in salty marsh are called",
+  "options": {
+   "A": "hydrophytes",
+   "B": "xerophytes",
+   "D": "epiphytes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-42",
+  "subject": "biology",
+  "year": 1993,
+  "number": 42,
+  "question": "Which group plants would be the first colonizers in an ecological succession changing rocks to soil? A Mosses. B. Ferns C. Lichens D. Grasses.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-43",
+  "subject": "biology",
+  "year": 1993,
+  "number": 43,
+  "question": "Soil fertility can be conserved and renewed by",
+  "options": {
+   "A": "yearly mono cropping",
+   "B": "crop rotation and cover 49. crops C. bush burning to remove unwanted debris",
+   "D": "avoiding artificial manures."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1993-44",
+  "subject": "biology",
+  "year": 1993,
+  "number": 44,
+  "question": "What ecological condition favors the breeding of black flies? 50.",
+  "options": {
+   "A": "Fresh water habitat",
+   "B": "Water in ponds and swamps",
+   "C": "Water in small containers",
+   "D": "Fast flowing stream. Carbon monoxide poison tissues by"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1993_p30_1.png",
+  "images": [
+   "biology/1993_p30_1.png"
+  ]
+ }
+]

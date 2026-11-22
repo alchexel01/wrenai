@@ -1,0 +1,919 @@
+[
+ {
+  "id": "biology-2003-1",
+  "subject": "biology",
+  "year": 2003,
+  "number": 1,
+  "question": "The umbrella-shaped fruiting body of a fully developed mushroom is the",
+  "options": {
+   "A": "mycelium",
+   "B": "basidium",
+   "C": "pileus",
+   "D": "stipe Use the diagram above to answer question 2 and 3."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2003_p50_3.png",
+  "images": [
+   "biology/2003_p50_3.png"
+  ]
+ },
+ {
+  "id": "biology-2003-2",
+  "subject": "biology",
+  "year": 2003,
+  "number": 2,
+  "question": "The processes of water loss and intake indicated by",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-3",
+  "subject": "biology",
+  "year": 2003,
+  "number": 3,
+  "question": "A noticeable adaptation of the animal to its aquatic habitat is the possession of",
+  "options": {
+   "A": "webbed digits",
+   "B": "four limbs",
+   "C": "a wide mouth",
+   "D": "large eyes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-4",
+  "subject": "biology",
+  "year": 2003,
+  "number": 4,
+  "question": "The similarity among organisms belonging to the same group will be least within each",
+  "options": {
+   "A": "order",
+   "B": "family",
+   "C": "species",
+   "D": "kingdom"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-5",
+  "subject": "biology",
+  "year": 2003,
+  "number": 5,
+  "question": "Hermaphroditic reproduction can be found among the",
+  "options": {
+   "A": "annelids and molluscs",
+   "B": "pisces and amphibians",
+   "C": "coelenterates and platyhelminthes",
+   "D": "arthropods and nematodes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-6",
+  "subject": "biology",
+  "year": 2003,
+  "number": 6,
+  "question": "One distinctive feature in the life history of liverworts is that they exhibit Use the diagram above to answer questions 7 and 8",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "biology/2003_p51_2.png",
+  "images": [
+   "biology/2003_p51_2.png"
+  ]
+ },
+ {
+  "id": "biology-2003-7",
+  "subject": "biology",
+  "year": 2003,
+  "number": 7,
+  "question": "Food is stored in the structure labelled",
+  "options": {
+   "A": "IIII",
+   "B": "IV",
+   "C": "I",
+   "D": "II"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-8",
+  "subject": "biology",
+  "year": 2003,
+  "number": 8,
+  "question": "The structures that are common to both plant and animal cell are labelled",
+  "options": {
+   "A": "II and III",
+   "B": "III and IV",
+   "C": "IV and I",
+   "D": "I and II"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-9",
+  "subject": "biology",
+  "year": 2003,
+  "number": 9,
+  "question": "Thecell component that is present in a prokaryotic cell is the",
+  "options": {
+   "A": "ribosome",
+   "B": "mitochondrion",
+   "C": "chloroplast",
+   "D": "nuclear envelope"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-10",
+  "subject": "biology",
+  "year": 2003,
+  "number": 10,
+  "question": "In the egg of a bird, the embryo is located in the",
+  "options": {
+   "A": "yolk",
+   "B": "embryo disc",
+   "C": "chalaza",
+   "D": "albumen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-11",
+  "subject": "biology",
+  "year": 2003,
+  "number": 11,
+  "question": "An insect whose economic importance is both harmful and benefit is the",
+  "options": {
+   "A": "butterfly",
+   "B": "mosquito",
+   "C": "blackfly",
+   "D": "tsetsefly Use the diagram below to answer question 12 and 13."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2003_p51_1.png",
+  "images": [
+   "biology/2003_p51_1.png"
+  ]
+ },
+ {
+  "id": "biology-2003-12",
+  "subject": "biology",
+  "year": 2003,
+  "number": 12,
+  "question": "The experiment is used to demonstrate that",
+  "options": {
+   "A": "transpiration occurs through the leaves",
+   "B": "plants lose water through guttation C. leaves are important to photosynthesis D. water is necessary for photosynthesis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-13",
+  "subject": "biology",
+  "year": 2003,
+  "number": 13,
+  "question": "In the experiment, the layer of oil serves to prevent water loss by",
+  "options": {
+   "A": "Osmosis",
+   "B": "Transpiration",
+   "C": "Evaporation",
+   "D": "Guttation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-14",
+  "subject": "biology",
+  "year": 2003,
+  "number": 14,
+  "question": "If water that has been coloured red is poured at the base of a wilting plant, it will appear as a red stain in the cells of the",
+  "options": {
+   "A": "phloem",
+   "B": "parenchyma",
+   "C": "xylem",
+   "D": "epidermis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-15",
+  "subject": "biology",
+  "year": 2003,
+  "number": 15,
+  "question": "The stunted growth of a leguminous plant suffering from nitrogen deficiency may be corrected by inoculating the soil with",
+  "options": {
+   "A": "saprophytic bacteria",
+   "B": "rhizobium"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-16",
+  "subject": "biology",
+  "year": 2003,
+  "number": 16,
+  "question": "Organisms I, II, III and IV have surface/volume ratios of 1:2. 1:3, 1:4 and 1:5 respectively. The organism that is likely to have the most complex transport system is",
+  "options": {
+   "A": "III",
+   "B": "IV",
+   "C": "II",
+   "D": "I Use the diagram below to answer questions 17 and 18"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2003_p51_3.png",
+  "images": [
+   "biology/2003_p51_3.png"
+  ]
+ },
+ {
+  "id": "biology-2003-17",
+  "subject": "biology",
+  "year": 2003,
+  "number": 17,
+  "question": "The aim of the experiment is to demonstrate",
+  "options": {
+   "A": "the presence of carbon (IV) oxide in exhaled air",
+   "B": "that in mammals gaseous exchange take place in thelungs",
+   "C": "the part played by the pleural cavity and diaphragm in respiration D. that a large amount of oxygen is absorbed by the lungs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-18",
+  "subject": "biology",
+  "year": 2003,
+  "number": 18,
+  "question": "In the experimental set-up, the rubber sheet represents the organ called",
+  "options": {
+   "A": "diaphragm",
+   "B": "lungs",
+   "C": "intercostal",
+   "D": "pleural cavity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-19",
+  "subject": "biology",
+  "year": 2003,
+  "number": 19,
+  "question": "The part of the mammalian digestive system where absorption of nutrients takes place is the",
+  "options": {
+   "A": "duodenum",
+   "B": "colon",
+   "C": "ileum",
+   "D": "oesophagus 20 The dark reaction of photosynthesis involves the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-21",
+  "subject": "biology",
+  "year": 2003,
+  "number": 21,
+  "question": "The most important hormone that induces the ripening of fruit is",
+  "options": {
+   "A": "Cytokinin",
+   "B": "Indole acetic acid",
+   "C": "Ethylene",
+   "D": "Gibberellin"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-22",
+  "subject": "biology",
+  "year": 2003,
+  "number": 22,
+  "question": "Metabolic production of urea is carried out in the",
+  "options": {
+   "A": "urinary bladder and kidney",
+   "B": "pancreas",
+   "C": "kidney and malphigian tubule",
+   "D": "liver"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-23",
+  "subject": "biology",
+  "year": 2003,
+  "number": 23,
+  "question": "In mammalian males, the excretory and reproductive system share the",
+  "options": {
+   "A": "ureter",
+   "B": "testes",
+   "C": "vas deferens",
+   "D": "urethra"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-24",
+  "subject": "biology",
+  "year": 2003,
+  "number": 24,
+  "question": "The best method of propagating sugarcane is by",
+  "options": {
+   "A": "stem cuttings",
+   "B": "seed sowing",
+   "C": "layering",
+   "D": "grafting"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-25",
+  "subject": "biology",
+  "year": 2003,
+  "number": 25,
+  "question": "The response of plants to external stimuli in a non- directional manner is known as",
+  "options": {
+   "A": "nastic movement",
+   "B": "photropism",
+   "C": "tactic Use the diagram below to answerquestions 26 and 27"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2003_p52_1.png",
+  "images": [
+   "biology/2003_p52_1.png"
+  ]
+ },
+ {
+  "id": "biology-2003-26",
+  "subject": "biology",
+  "year": 2003,
+  "number": 26,
+  "question": "The structure can be found in the",
+  "options": {
+   "A": "peripheral and central nervous systems",
+   "B": "peripheral nervous system only",
+   "C": "sympathetic and parasymapathetic nervous systems",
+   "D": "central nervous system only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-27",
+  "subject": "biology",
+  "year": 2003,
+  "number": 27,
+  "question": "The point marked I is referred to as",
+  "options": {
+   "A": "myelin sheath",
+   "B": "dendrites",
+   "C": "node of Ranvier",
+   "D": "axon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-28",
+  "subject": "biology",
+  "year": 2003,
+  "number": 28,
+  "question": "Homologous pairs of chromosomes separate during",
+  "options": {
+   "A": "meiosis",
+   "B": "cytolysis",
+   "C": "mitosis",
+   "D": "cleavage"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-29",
+  "subject": "biology",
+  "year": 2003,
+  "number": 29,
+  "question": "An example of a caryopsis is",
+  "options": {
+   "A": "coconut",
+   "B": "tomato",
+   "C": "guava",
+   "D": "maize grain"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-30",
+  "subject": "biology",
+  "year": 2003,
+  "number": 30,
+  "question": "A limiting factor in a plant population near a chemical factory is likely to be",
+  "options": {
+   "A": "humidity",
+   "B": "pH",
+   "C": "wind",
+   "D": "light"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-31",
+  "subject": "biology",
+  "year": 2003,
+  "number": 31,
+  "question": "The pioneer organisms in ecological succession are usually the",
+  "options": {
+   "A": "lichens",
+   "B": "algae",
+   "C": "ferns",
+   "D": "mosses"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-32",
+  "subject": "biology",
+  "year": 2003,
+  "number": 32,
+  "question": "Mycorrhiza is an association between fungi and",
+  "options": {
+   "A": "roots of higher plants",
+   "B": "ilamentous algae",
+   "C": "bacteria",
+   "D": "protozoans"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-33",
+  "subject": "biology",
+  "year": 2003,
+  "number": 33,
+  "question": "A density-dependent factor that regulates the population size of organisms is",
+  "options": {
+   "A": "sudden flood",
+   "B": "disease",
+   "C": "fire outbreak",
+   "D": "drought"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-34",
+  "subject": "biology",
+  "year": 2003,
+  "number": 34,
+  "question": "The most effective method of dealing with non- biodegradable pollution is by",
+  "options": {
+   "A": "burying",
+   "B": "dumping",
+   "C": "incineration",
+   "D": "recycling"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-35",
+  "subject": "biology",
+  "year": 2003,
+  "number": 35,
+  "question": "Soil fertility can best be conserved and renewed by the activities of",
+  "options": {
+   "A": "microbes",
+   "B": "earthwormsv",
+   "C": "man",
+   "D": "rodents"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-36",
+  "subject": "biology",
+  "year": 2003,
+  "number": 36,
+  "question": "The correct sequence of biomes from northern to southern Nigeria is",
+  "options": {
+   "A": "estuarine  tropical rain forest  guinea savanna sahel savanna B. sahel savanna  sudan savanna guinea savanna  tropical rainforest  estuarine",
+   "C": "sahel savanna tropical rain forest estuarine"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-37",
+  "subject": "biology",
+  "year": 2003,
+  "number": 37,
+  "question": "One example of fossil fuels is",
+  "options": {
+   "A": "coral",
+   "B": "limestone",
+   "C": "firewood",
+   "D": "coal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-38",
+  "subject": "biology",
+  "year": 2003,
+  "number": 38,
+  "question": "If the pair of allelels for baldness is given as Bb, a female carrier will be denoted by",
+  "options": {
+   "A": "XBXb",
+   "B": "XBXB",
+   "C": "XbY",
+   "D": "XBY"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-39",
+  "subject": "biology",
+  "year": 2003,
+  "number": 39,
+  "question": "An organism that has been extensively used to test the chromosome theory of heredity is",
+  "options": {
+   "A": "Homo sapiens",
+   "B": "Drosophila melanogaster",
+   "C": "Zea Mays",
+   "D": "Musea domestica"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-40",
+  "subject": "biology",
+  "year": 2003,
+  "number": 40,
+  "question": "Afeature associated with theY-chromosome in humans is",
+  "options": {
+   "A": "facial hairs",
+   "B": "prominent fingernails",
+   "C": "long eyelashes",
+   "D": "enlarged breast"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-41",
+  "subject": "biology",
+  "year": 2003,
+  "number": 41,
+  "question": "A man and his wife are both heterozygous for the sickle- cell trait. The likely percentage of their offspring that will be either carriers or sicklers is",
+  "options": {
+   "A": "50%",
+   "B": "25%",
+   "C": "75%",
+   "D": "100%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-42",
+  "subject": "biology",
+  "year": 2003,
+  "number": 42,
+  "question": "The type of reproduction that leeds to variation in animal and plant populations is",
+  "options": {
+   "A": "budding",
+   "B": "vegetative",
+   "C": "asexual",
+   "D": "sexual"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-43",
+  "subject": "biology",
+  "year": 2003,
+  "number": 43,
+  "question": "If a DNA strand has a base sequence TCA, its complementary strand must be",
+  "options": {
+   "A": "ATG",
+   "B": "GAT",
+   "C": "AGT",
+   "D": "TAG"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-44",
+  "subject": "biology",
+  "year": 2003,
+  "number": 44,
+  "question": "Which of the following requires the use of carbon dating to prove that evolution has occurred?",
+  "options": {
+   "A": "biochemical similarities",
+   "B": "molecular records",
+   "C": "fossil records",
+   "D": "comparative anatomy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-45",
+  "subject": "biology",
+  "year": 2003,
+  "number": 45,
+  "question": "The presence of sunken stomata and the folding of leaves are adaptations to",
+  "options": {
+   "A": "prevent entry of pathogens",
+   "B": "prevent guttation",
+   "C": "remove excess water",
+   "D": "reduce water loss"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-46",
+  "subject": "biology",
+  "year": 2003,
+  "number": 46,
+  "question": "Spines and shells on animals are adaptations for",
+  "options": {
+   "A": "physical defence",
+   "B": "camouflage",
+   "C": "chemical defence D. mimicry"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-47",
+  "subject": "biology",
+  "year": 2003,
+  "number": 47,
+  "question": "The inactive state exhibited by an animal during hot dry seasons is termed",
+  "options": {
+   "A": "aestivation",
+   "B": "dormancy",
+   "C": "resting",
+   "D": "hibernation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-48",
+  "subject": "biology",
+  "year": 2003,
+  "number": 48,
+  "question": "An insect with a mandibulate mouth part will obtain its food by",
+  "options": {
+   "A": "chewing",
+   "B": "chewing and sucking",
+   "C": "sucking",
+   "D": "biting and chewing"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-49",
+  "subject": "biology",
+  "year": 2003,
+  "number": 49,
+  "question": "An example of cryptic colouration is the",
+  "options": {
+   "A": "bright marks on a poisonous tropical frog on variegated leaves",
+   "B": "bright colour of an insect- pollinated flower",
+   "C": "mottled colours on moths that rest on lichens",
+   "D": "green colour of a plant"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-50",
+  "subject": "biology",
+  "year": 2003,
+  "number": 50,
+  "question": "An argument against Lamarck’s heory of evolution is that A .acquired traits cannot be passed onto the offspring",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

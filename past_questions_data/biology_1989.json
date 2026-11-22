@@ -1,0 +1,912 @@
+[
+ {
+  "id": "biology-1989-1",
+  "subject": "biology",
+  "year": 1989,
+  "number": 1,
+  "question": "The structure labelled 5 is the",
+  "options": {
+   "A": "neucleolus",
+   "B": "Golgi body",
+   "C": "mitochondrion vacuole"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-2",
+  "subject": "biology",
+  "year": 1989,
+  "number": 2,
+  "question": "Which of the labelled parts of the cell contains ribonucleic acid?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-3",
+  "subject": "biology",
+  "year": 1989,
+  "number": 3,
+  "question": "Which structure is known as the power house of the cell?",
+  "options": {
+   "A": "6",
+   "B": "5",
+   "C": "4",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-4",
+  "subject": "biology",
+  "year": 1989,
+  "number": 4,
+  "question": "When a virus is placed in a non-living medium it",
+  "options": {
+   "A": "becomes dehydrated",
+   "B": "forms spores",
+   "C": "forms flagella",
+   "D": "becomes crystallized."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-5",
+  "subject": "biology",
+  "year": 1989,
+  "number": 5,
+  "question": "A characteristic of the phylum coelenterate is that",
+  "options": {
+   "A": "most of them are marine",
+   "B": "they possess a gut with a single opening C. they possess numerous pores on their body D. they are bilaterally symmetrical."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-6",
+  "subject": "biology",
+  "year": 1989,
+  "number": 6,
+  "question": "A multinucleate body without internal cell boundaries is characteristic of",
+  "options": {
+   "A": "bryophytes",
+   "B": "fungi",
+   "C": "algae",
+   "D": "gymnosperms."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-7",
+  "subject": "biology",
+  "year": 1989,
+  "number": 7,
+  "question": "Double fertilization is a unique feature of",
+  "options": {
+   "A": "angiosperms",
+   "B": "bryophytes",
+   "C": "pteridophytes",
+   "D": "algae."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-8",
+  "subject": "biology",
+  "year": 1989,
+  "number": 8,
+  "question": "Which of the following phyla have members with both internal and external segmentation?",
+  "options": {
+   "A": "Platyhelminthes",
+   "B": "Nematoda",
+   "C": "Algae",
+   "D": "Mollusca"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-9",
+  "subject": "biology",
+  "year": 1989,
+  "number": 9,
+  "question": "Mineral salts can be absorbed into the roots by",
+  "options": {
+   "A": "osmosis only",
+   "B": "osmosis and diffusion"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-10",
+  "subject": "biology",
+  "year": 1989,
+  "number": 10,
+  "question": "Which of the following is a common characteristic of crustaceans?",
+  "options": {
+   "A": "Possession of a pair of antennae",
+   "B": "Possession of two pairs of antennae. C Each segment has a pair of walking legs",
+   "D": "Four pairs ofwalking legs on the cephalothorax."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-11",
+  "subject": "biology",
+  "year": 1989,
+  "number": 11,
+  "question": "The pedipalpi in spiders are used for",
+  "options": {
+   "A": "grasping",
+   "B": "Walking",
+   "C": "feeling",
+   "D": "Web spinning."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-12",
+  "subject": "biology",
+  "year": 1989,
+  "number": 12,
+  "question": "The body of a snail is divided into head",
+  "options": {
+   "A": "thorax and abdomen",
+   "B": "visceral mass and abdomen C. thorax and foot D. visceral mass and foot. Use the diagram below to answer questions 13 to 14"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1989_p17_3.png",
+  "images": [
+   "biology/1989_p17_3.png"
+  ]
+ },
+ {
+  "id": "biology-1989-13",
+  "subject": "biology",
+  "year": 1989,
+  "number": 13,
+  "question": "Which of the labelled parts is used for feeling?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-14",
+  "subject": "biology",
+  "year": 1989,
+  "number": 14,
+  "question": "The structure labelled 2 is the",
+  "options": {
+   "A": "compound eye",
+   "B": "ocellus",
+   "C": "antenna",
+   "D": "labial palp."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-15",
+  "subject": "biology",
+  "year": 1989,
+  "number": 15,
+  "question": "In a dicotyledonous stem, each companiosn cells is found beside the",
+  "options": {
+   "A": "endodermal cell",
+   "B": "xylem vessel",
+   "C": "sieve tube",
+   "D": "pericyclic fibre. Use the diagram below to answer questions 16 to 17"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1989_p17_2.png",
+  "images": [
+   "biology/1989_p17_2.png"
+  ]
+ },
+ {
+  "id": "biology-1989-16",
+  "subject": "biology",
+  "year": 1989,
+  "number": 16,
+  "question": "Which of the structure’s is the molar?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-17",
+  "subject": "biology",
+  "year": 1989,
+  "number": 17,
+  "question": "What is the function of 3?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-18",
+  "subject": "biology",
+  "year": 1989,
+  "number": 18,
+  "question": "If a healthy potted plant is continuously kept in dim of light",
+  "options": {
+   "A": "the rate of respiration may equal that of photosynthesis B. more carbon dioxide and water are taken in C. respiration may be halted",
+   "D": "the volume of oxygen released increases."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-19",
+  "subject": "biology",
+  "year": 1989,
+  "number": 19,
+  "question": "The pancreatic juice contains the enzymes amylopsin,",
+  "options": {
+   "A": "pepsin and trypsinogen",
+   "B": "rennin and steapsin C. steapsin and trysinogen",
+   "D": "steapsin and ptyalin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-20",
+  "subject": "biology",
+  "year": 1989,
+  "number": 20,
+  "question": "Aged erythrocytes are destroyed in the",
+  "options": {
+   "A": "pancreas",
+   "B": "liver",
+   "C": "lymph nodes",
+   "D": "kidney."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-21",
+  "subject": "biology",
+  "year": 1989,
+  "number": 21,
+  "question": "The seedlings in a rice field were found to have thin lanky growth with reddish leaves and poor root development. This is because the soil lacks",
+  "options": {
+   "A": "sulphur",
+   "B": "phosphorus",
+   "C": "potassium",
+   "D": "iron."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-22",
+  "subject": "biology",
+  "year": 1989,
+  "number": 22,
+  "question": "There will be agglutination when the",
+  "options": {
+   "A": "GroupA serum mixes with Group Aerythrocytes",
+   "B": "Group A serum mixes with Group B erythrocytes",
+   "C": "Group AB serum mixes with Group Oerythrocytes",
+   "D": "Group B serum mixes with Group B erythrocytes. Use the figure below to answer questions 24 to 26"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1989_p18_1.png",
+  "images": [
+   "biology/1989_p18_1.png"
+  ]
+ },
+ {
+  "id": "biology-1989-23",
+  "subject": "biology",
+  "year": 1989,
+  "number": 23,
+  "question": "Which of the following is the function of lymph?",
+  "options": {
+   "A": "Carries hormones round the body",
+   "B": "Transport nutrient and oxygen from blood, capillaries to the cells. C. Distributes heat uniformly round the body D. Conveys aminoacids and glucose from the small intestine to the liver."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-24",
+  "subject": "biology",
+  "year": 1989,
+  "number": 24,
+  "question": "The type of joint at the point labelled 5 is the",
+  "options": {
+   "A": "pivot joint",
+   "B": "gliding joint",
+   "C": "ball and socket",
+   "D": "hinge joint."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-25",
+  "subject": "biology",
+  "year": 1989,
+  "number": 25,
+  "question": "Which of the labelled bones is the ulna?",
+  "options": {
+   "A": "1",
+   "B": "3 C.4 D.5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-26",
+  "subject": "biology",
+  "year": 1989,
+  "number": 26,
+  "question": "What is the name of the structure labelled 2?",
+  "options": {
+   "A": "Odontoid process",
+   "B": "Olecranon",
+   "C": "Patella",
+   "D": "Condyle."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-27",
+  "subject": "biology",
+  "year": 1989,
+  "number": 27,
+  "question": "The lumbar vertebra when compared with a thoracic vertebra has a",
+  "options": {
+   "A": "longer neural spine",
+   "B": "wider neural canal",
+   "C": "thicker centrum",
+   "D": "shorter transverse process."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-29",
+  "subject": "biology",
+  "year": 1989,
+  "number": 29,
+  "question": "The components of castor oil seed and the maize grain are similar EXCEPT for the",
+  "options": {
+   "A": "number of cotyledons",
+   "B": "location of the embryo",
+   "C": "number of radicles",
+   "D": "number of plumules."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-30",
+  "subject": "biology",
+  "year": 1989,
+  "number": 30,
+  "question": "A corm differs from a bulb in that",
+  "options": {
+   "A": "its stem is the main food storage organ",
+   "B": "it has a flattened disc-shaped stem",
+   "C": "buds are absent in the axils of the leaves",
+   "D": "adventitious roots are present"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-31",
+  "subject": "biology",
+  "year": 1989,
+  "number": 31,
+  "question": "Exponential increase in the population of an organism is a characteristic feature of",
+  "options": {
+   "A": "binary fission",
+   "B": "sexual reproduction",
+   "C": "budding",
+   "D": "vegetative propagation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-32",
+  "subject": "biology",
+  "year": 1989,
+  "number": 32,
+  "question": "The irreversible life process by which new protoplasm is added to increase the size and weight of an organism can be termed",
+  "options": {
+   "A": "anabolism",
+   "B": "catabolism",
+   "C": "growth",
+   "D": "development."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-33",
+  "subject": "biology",
+  "year": 1989,
+  "number": 33,
+  "question": "Fruit enlargement can be induced by spraying young ovary with",
+  "options": {
+   "A": "cytokinin, abscisic acid and ethylene",
+   "B": "gibberellin, ethylene and abscisic acid",
+   "C": "auxin, abscisic acid and ethylene",
+   "D": "auxin, cytokinin and gibberellin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-34",
+  "subject": "biology",
+  "year": 1989,
+  "number": 34,
+  "question": "A fundamental similarity between nervous and hormonal system is that both",
+  "options": {
+   "A": "involve chemical transmission",
+   "B": "have widespread effects C. shed chemicals into the blood stream D. evoke rapid responses."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-35",
+  "subject": "biology",
+  "year": 1989,
+  "number": 35,
+  "question": "The region that controls most of the unconscious processes of a mammalian body is the",
+  "options": {
+   "A": "cerebellum",
+   "B": "cerebrum",
+   "C": "spinal cord",
+   "D": "medulla oblongata."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-36",
+  "subject": "biology",
+  "year": 1989,
+  "number": 36,
+  "question": "During cell division, the two strands of chromosomes are joined at a point called",
+  "options": {
+   "A": "spindle",
+   "B": "chromatid",
+   "C": "centromere",
+   "D": "aster."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-37",
+  "subject": "biology",
+  "year": 1989,
+  "number": 37,
+  "question": "When the two alleles present in an organism are of the same type, the genotype is described as",
+  "options": {
+   "A": "heterozygous",
+   "B": "heterogamous",
+   "C": "homozygous",
+   "D": "homologous."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-38",
+  "subject": "biology",
+  "year": 1989,
+  "number": 38,
+  "question": "If parents with blood groups AB and OO produce six children",
+  "options": {
+   "A": "three of them will have group B",
+   "B": "two of them will have group A",
+   "C": "all the offspring will h ave group O",
+   "D": "none of them will have group A."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-39",
+  "subject": "biology",
+  "year": 1989,
+  "number": 39,
+  "question": "Which of the following is a sex-linked character?",
+  "options": {
+   "A": "Sickle-cell anaemia",
+   "B": "Tongue rolling",
+   "C": "Skin colour",
+   "D": "Colour blindness"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-40",
+  "subject": "biology",
+  "year": 1989,
+  "number": 40,
+  "question": "In an ecosystem, the LEAST efficient energy transfer link is from",
+  "options": {
+   "A": "producers to primary consumers",
+   "B": "sun to producers C. primary consumers to secondary consumers D secondary consumers to decomposers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-41",
+  "subject": "biology",
+  "year": 1989,
+  "number": 41,
+  "question": "Lichen is an example of",
+  "options": {
+   "A": "a saprophytic organism",
+   "B": "a symbiotic association C. an epiphytic plant",
+   "D": "a carnivorous plants ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-42",
+  "subject": "biology",
+  "year": 1989,
+  "number": 42,
+  "question": "A physiological adaptation of plants to the problem of excessive water loss is",
+  "options": {
+   "A": "reduction in the number of stomata",
+   "B": "reversal of the normal stomatal rhythm",
+   "C": "possession of shallow roots",
+   "D": "possession of waxy cuticle."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-43",
+  "subject": "biology",
+  "year": 1989,
+  "number": 43,
+  "question": "Which of the ways of controlling bilharzia can result in pollution? A Clearing water weeds on which the snails feed.",
+  "options": {
+   "B": "Treating infected people with drugs",
+   "C": "Preventing contamination of water by infected urine and faeces D. Applying chemical to kill the snails."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-44",
+  "subject": "biology",
+  "year": 1989,
+  "number": 44,
+  "question": "Which of the following diseases can be caused by a bacterium?",
+  "options": {
+   "A": "ringworm",
+   "B": "poliomyelitis",
+   "C": "malaria",
+   "D": "syphilis."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-45",
+  "subject": "biology",
+  "year": 1989,
+  "number": 45,
+  "question": "Which of the following is a dangerous product of coal buming?",
+  "options": {
+   "A": "sulphur dioxide",
+   "B": "carbondioxide",
+   "C": "carbon",
+   "D": "nitrogen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-46",
+  "subject": "biology",
+  "year": 1989,
+  "number": 46,
+  "question": "5g of oven dried soil was heated in a furnace for 24hours, after cooling, it weighed 4.8g what is the amount of humus in the soil?",
+  "options": {
+   "A": "40.0g per 100g dry soil B.4.4g per 100g dry soil",
+   "C": "4.0g per 100g dry soil",
+   "D": "0.4g per 100g dry soil."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-47",
+  "subject": "biology",
+  "year": 1989,
+  "number": 47,
+  "question": "Most irrigated lands often become unproductive in later years because of",
+  "options": {
+   "A": "loss of fertility",
+   "B": "increase in salinity",
+   "C": "soil erosion D. loss of water"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-48",
+  "subject": "biology",
+  "year": 1989,
+  "number": 48,
+  "question": "Farmers practices crop rotation because it",
+  "options": {
+   "A": "helps to prevent soil erosion",
+   "B": "allows two crops to be planted at the same time",
+   "C": "helps to conserve soil fertility",
+   "D": "is an alternative to shifting cultivation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1989_p19_1.png",
+  "images": [
+   "biology/1989_p19_1.png"
+  ]
+ },
+ {
+  "id": "biology-1989-49",
+  "subject": "biology",
+  "year": 1989,
+  "number": 49,
+  "question": "In which of the habitant will the plants show xeromorphic features most prominently?",
+  "options": {
+   "A": "X",
+   "B": "R",
+   "C": "P",
+   "D": "Q"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1989-50",
+  "subject": "biology",
+  "year": 1989,
+  "number": 50,
+  "question": "Which ecological factor exerts the greatest influence on the structure of the profiles?",
+  "options": {
+   "A": "topographic",
+   "B": "edaphic",
+   "C": "biotic",
+   "D": "climatic."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

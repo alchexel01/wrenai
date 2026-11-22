@@ -1,0 +1,966 @@
+[
+ {
+  "id": "biology-1985-1",
+  "subject": "biology",
+  "year": 1985,
+  "number": 1,
+  "question": "In Spirogyra, the pryrenoid",
+  "options": {
+   "A": "excrete waste products",
+   "B": "is suspended by cytoplasmic strands C. is mainly used for respiration D. usually contains starch",
+   "E": "makes the plant slimly to touch."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-2",
+  "subject": "biology",
+  "year": 1985,
+  "number": 2,
+  "question": "In which of the following groups of animals are flagella and cilia found?",
+  "options": {
+   "A": "Flatworms",
+   "B": "Annelids C, Coelenterates",
+   "D": "Protozoa",
+   "E": "Nematodes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-3",
+  "subject": "biology",
+  "year": 1985,
+  "number": 3,
+  "question": "Which of the following is seed bearing?",
+  "options": {
+   "A": "Mosses",
+   "B": "Whistling pine",
+   "C": "Algal filamentsD. Livewort",
+   "E": "Fern fronds."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-4",
+  "subject": "biology",
+  "year": 1985,
+  "number": 4,
+  "question": "Each of the following is an arthropod EXCEPT the",
+  "options": {
+   "A": "crab",
+   "B": "spider",
+   "C": "snail",
+   "D": "millipede",
+   "E": "cockroach"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-5",
+  "subject": "biology",
+  "year": 1985,
+  "number": 5,
+  "question": "In fish the sense organs which detect movements in the water are located within the",
+  "options": {
+   "A": "gills",
+   "B": "operculum",
+   "C": "nostrils",
+   "D": "median fins",
+   "E": "lateral line."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-6",
+  "subject": "biology",
+  "year": 1985,
+  "number": 6,
+  "question": "Euglena is an autotrophic organism because it",
+  "options": {
+   "A": "has flagella",
+   "B": "has plant and animal features",
+   "C": "is found in water",
+   "D": "can manufacture its food",
+   "E": "moves fast."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-7",
+  "subject": "biology",
+  "year": 1985,
+  "number": 7,
+  "question": "Which of the following is NOT true of Mucor? It",
+  "options": {
+   "A": "contains chlorophyll",
+   "B": "grows saprophytically",
+   "C": "bears spores in sporangium",
+   "D": "consists of hyphae",
+   "E": "reproduces by conjugation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-8",
+  "subject": "biology",
+  "year": 1985,
+  "number": 8,
+  "question": "Byrophytes are different from flower because they",
+  "options": {
+   "A": "live in moist habitats",
+   "B": "are small plants",
+   "C": "reproduce sexually and a sexually",
+   "D": "have small leaves",
+   "E": "have no vascular tissues."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-9",
+  "subject": "biology",
+  "year": 1985,
+  "number": 9,
+  "question": "At what stage in the life history of a toad is its mode of breathing similar to that of a fish?",
+  "options": {
+   "A": "Tadpole stage",
+   "B": "External gill stage",
+   "C": "Adult stage",
+   "D": "Internal gill stage",
+   "E": "Larval stage."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-10",
+  "subject": "biology",
+  "year": 1985,
+  "number": 10,
+  "question": "In lower plants like mosses, the structure which performs the functions of roots of higher plants is called",
+  "options": {
+   "A": "root hairs",
+   "B": "rootlets",
+   "C": "hyphae",
+   "D": "rhizoids",
+   "E": "thalli."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-11",
+  "subject": "biology",
+  "year": 1985,
+  "number": 11,
+  "question": "In an angiosperm leaf, the xylem is",
+  "options": {
+   "A": "beside the phloem",
+   "B": "surrounded by the phloem"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-12",
+  "subject": "biology",
+  "year": 1985,
+  "number": 12,
+  "question": "A group of similar cells performing the same function is",
+  "options": {
+   "A": "an organ",
+   "B": "a system",
+   "C": "a tissue",
+   "D": "an organelle",
+   "E": "an enzyme."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-13",
+  "subject": "biology",
+  "year": 1985,
+  "number": 13,
+  "question": "Which of the following is common to a dicotyledonous stem and a monocotyledonous root?",
+  "options": {
+   "A": "Medullary rays",
+   "B": "Central pith",
+   "C": "Wide cortex",
+   "D": "Narrow cortex",
+   "E": "Pericyclic fibres."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-14",
+  "subject": "biology",
+  "year": 1985,
+  "number": 14,
+  "question": "Which of the following represents the sequence of protein hydrolysis? 1.Polypeptides 2.Amino acids 3. Proteins 4. Peptones",
+  "options": {
+   "A": "3124",
+   "B": "3241",
+   "C": "3421 D. 3412",
+   "E": "3142"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-15",
+  "subject": "biology",
+  "year": 1985,
+  "number": 15,
+  "question": "A food substance which produces red colouration with Sudan III contains",
+  "options": {
+   "A": "protein",
+   "B": "sugar",
+   "C": "starch",
+   "D": "cellulose",
+   "E": "fat."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-16",
+  "subject": "biology",
+  "year": 1985,
+  "number": 16,
+  "question": "If calcium is deficient in food this may cause",
+  "options": {
+   "A": "anaemia",
+   "B": "retarded growth",
+   "C": "sterility",
+   "D": "goitre",
+   "E": "beri-beri"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-17",
+  "subject": "biology",
+  "year": 1985,
+  "number": 17,
+  "question": "Partially digested food ready to leave the stomach is referred to as",
+  "options": {
+   "A": "chyme",
+   "B": "curd",
+   "C": "glycogen",
+   "D": "paste",
+   "E": "roughage"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-18",
+  "subject": "biology",
+  "year": 1985,
+  "number": 18,
+  "question": "The function of lymph nodes is to",
+  "options": {
+   "A": "supply oxygen",
+   "B": "filter out bacteria",
+   "C": "form red blood",
+   "D": "supply amino acids",
+   "E": "supply simple sugars"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-19",
+  "subject": "biology",
+  "year": 1985,
+  "number": 19,
+  "question": "The vein which returns blood from the head and arms to the heart is called",
+  "options": {
+   "A": "aorta",
+   "B": "inferior vena cava",
+   "C": "superior vena cava",
+   "D": "pulmonaryvein",
+   "E": "pulmonary artery."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-20",
+  "subject": "biology",
+  "year": 1985,
+  "number": 20,
+  "question": "Blood platelets are important because they",
+  "options": {
+   "A": "are amoeboid and nucleated",
+   "B": "produce antitoxins C. produce antibodies",
+   "D": "digest harmful bacteria",
+   "E": "release thrombin for blood clotting."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-21",
+  "subject": "biology",
+  "year": 1985,
+  "number": 21,
+  "question": "If a child can receive blood from all donors, he belongs to the blood group",
+  "options": {
+   "A": "O",
+   "B": "A",
+   "C": "B",
+   "D": "AB",
+   "E": "AS."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-22",
+  "subject": "biology",
+  "year": 1985,
+  "number": 22,
+  "question": "Which of the following events does NOT occur during anaerobic respiration of glucose?",
+  "options": {
+   "A": "Muscle cell produce lactic acid",
+   "B": "Carbon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-23",
+  "subject": "biology",
+  "year": 1985,
+  "number": 23,
+  "question": "Identify which of the following are characteristics of the vertebrate respiratory surface 1. Moist 2. Vascularized 3. Semipermeable 4. Freelypermeable 5. Dry",
+  "options": {
+   "A": "1,2,3",
+   "B": "1,2,5",
+   "C": "2,3,5",
+   "D": "2,4,5",
+   "E": "1,3,5."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-24",
+  "subject": "biology",
+  "year": 1985,
+  "number": 24,
+  "question": "In mammals, the function of the sebaceous gland is to",
+  "options": {
+   "A": "produce sweat",
+   "B": "secrete sodium",
+   "C": "secrete water",
+   "D": "produce an oily substance",
+   "E": "manufacture vitamin D for the skin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-25",
+  "subject": "biology",
+  "year": 1985,
+  "number": 25,
+  "question": "Which of the following organs regulates the amount of amino acids and glucose in the body?",
+  "options": {
+   "A": "Kidney",
+   "B": "Liver",
+   "C": "Pancreas",
+   "D": "Spleen",
+   "E": "Stomach. Use thediagrambelow to answer questions 26 and27"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1985_p9_1.png",
+  "images": [
+   "biology/1985_p9_1.png"
+  ]
+ },
+ {
+  "id": "biology-1985-26",
+  "subject": "biology",
+  "year": 1985,
+  "number": 26,
+  "question": "Bowman’s capsules are located in the part labelled",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4",
+   "E": "5 F. 6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-27",
+  "subject": "biology",
+  "year": 1985,
+  "number": 27,
+  "question": "Re-absorption of useful materials takes place in the parts labeled.",
+  "options": {
+   "A": "1 and 3",
+   "B": "3 and 5",
+   "C": "5 and 6",
+   "D": "6 and 7",
+   "E": "2 and 4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-28",
+  "subject": "biology",
+  "year": 1985,
+  "number": 28,
+  "question": "Movements and positions of the head in man are detected by the",
+  "options": {
+   "A": "cochlea",
+   "B": "malleus",
+   "C": "utriculus",
+   "D": "semicircular canals",
+   "E": "outer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-29",
+  "subject": "biology",
+  "year": 1985,
+  "number": 29,
+  "question": "The appendicular skeleton is made up of the",
+  "options": {
+   "A": "limbs",
+   "B": "skull and limbs",
+   "C": "phalanges",
+   "D": "ulna and radius",
+   "E": "girdles and limbs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-30",
+  "subject": "biology",
+  "year": 1985,
+  "number": 30,
+  "question": "The maize grain is a fruit and not a seed because it",
+  "options": {
+   "A": "has a large endosperm",
+   "B": "is formed from an ovary",
+   "C": "is a monocotyledon",
+   "D": "has no plumule and radicle",
+   "E": "has a hypogeal germination."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-31",
+  "subject": "biology",
+  "year": 1985,
+  "number": 31,
+  "question": "If a flower is protandrous then it",
+  "options": {
+   "A": "must be unisexual",
+   "B": "has an undeveloped anroecium C. has no anroecium D. must be insect pollinated E. can prevent self- pollination."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-32",
+  "subject": "biology",
+  "year": 1985,
+  "number": 32,
+  "question": "For pollen to be released in Crotalaria the insect must depress the",
+  "options": {
+   "A": "wing",
+   "B": "keel",
+   "C": "standard",
+   "D": "antepetalous stamen E. antesepalous stamen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-34",
+  "subject": "biology",
+  "year": 1985,
+  "number": 34,
+  "question": "The characters by which an organism is recognized are termed its",
+  "options": {
+   "A": "phenotype",
+   "B": "genotype",
+   "C": "morphology",
+   "D": "anatomy",
+   "E": "physiology."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-35",
+  "subject": "biology",
+  "year": 1985,
+  "number": 35,
+  "question": "The hereditary material in a cell is known as",
+  "options": {
+   "A": "ADP",
+   "B": "CNS",
+   "C": "RNA",
+   "D": "ATP",
+   "E": "DNA."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-36",
+  "subject": "biology",
+  "year": 1985,
+  "number": 36,
+  "question": "A young plant showing yellow leaves is likely to be deficient in",
+  "options": {
+   "A": "calcium",
+   "B": "magnesium",
+   "C": "potassium",
+   "D": "boron",
+   "E": "molybdenum."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-37",
+  "subject": "biology",
+  "year": 1985,
+  "number": 37,
+  "question": "Germination which results in the cotyledons being brought above ground is called",
+  "options": {
+   "A": "hypocotyls",
+   "B": "epicotyl",
+   "C": "epigeal",
+   "D": "hypogeal",
+   "E": "plumule."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-38",
+  "subject": "biology",
+  "year": 1985,
+  "number": 38,
+  "question": "The mammalian endocrine system is responsible for",
+  "options": {
+   "A": "transmitting impulses",
+   "B": "regulating body temperature C. regulating osmotic pressure of blood",
+   "D": "chemical co-ordination",
+   "E": "the manufacture of blood."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-39",
+  "subject": "biology",
+  "year": 1985,
+  "number": 39,
+  "question": "An old man is likely to be long-sighted because age effects the",
+  "options": {
+   "A": "optic nerves",
+   "B": "retina",
+   "C": "ciliary muscles",
+   "D": "cornea",
+   "E": "aqueous humour."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-40",
+  "subject": "biology",
+  "year": 1985,
+  "number": 40,
+  "question": "In a mammal, stimulus is transferred from thereceptor muscle to the central nervous system through the",
+  "options": {
+   "A": "motor neurons",
+   "B": "effector muscles",
+   "C": "dendrites",
+   "D": "sensory neurons",
+   "E": "synapses."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-41",
+  "subject": "biology",
+  "year": 1985,
+  "number": 41,
+  "question": "A relationship between living organisms which is of mutual benefit is",
+  "options": {
+   "A": "parasitism",
+   "B": "saprophytism",
+   "C": "ecosystem",
+   "D": "symbiosis",
+   "E": "commensalisms."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-42",
+  "subject": "biology",
+  "year": 1985,
+  "number": 42,
+  "question": "Which of the following food chains is in the correct sequence?",
+  "options": {
+   "A": "Weeds Tadpoles Beetles Fish Man",
+   "B": "Weeds Tadpoles Fish Beetles Man.",
+   "C": "Tadpoles Beetles Weeds Man Fish",
+   "D": "Man Fish Beetles Tadpoles Weeds",
+   "E": "Fish Beetles Tadpoles Weeds Tadpoles."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-43",
+  "subject": "biology",
+  "year": 1985,
+  "number": 43,
+  "question": "The primary and secondary hosts respectively of bilharzia are",
+  "options": {
+   "A": "fish and man",
+   "B": "man and dog",
+   "C": "snail and man",
+   "D": "man and snail",
+   "E": "fish and snail"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-44",
+  "subject": "biology",
+  "year": 1985,
+  "number": 44,
+  "question": "Which of the following is NOT caused by bacteria?",
+  "options": {
+   "A": "Cholera",
+   "B": "Gonorrhoea",
+   "C": "Tuberculosis",
+   "D": "Onchocerciasis",
+   "E": "Typhoid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-45",
+  "subject": "biology",
+  "year": 1985,
+  "number": 45,
+  "question": "Tsetse fly is harmful to man because it is associated with the spread of",
+  "options": {
+   "A": "river blindness",
+   "B": "malaria",
+   "C": "sleeping sickness",
+   "D": "leprosy",
+   "E": "dysentery."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-46",
+  "subject": "biology",
+  "year": 1985,
+  "number": 46,
+  "question": "Soil erosion CANNOT be controlled by",
+  "options": {
+   "A": "planting cover crops",
+   "B": "contouring of sloping ground C. terracing of slopes",
+   "D": "laying of mulch",
+   "E": "burning of bush"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-47",
+  "subject": "biology",
+  "year": 1985,
+  "number": 47,
+  "question": "Water retention ishighest in soils which are rich in",
+  "options": {
+   "A": "sand, poor in humus and devoid of clay",
+   "B": "clay and sand, but poor in humus",
+   "C": "clay and humus, but poor in sand",
+   "D": "clay, poor in humus and devoid of sand",
+   "E": "Sand and humus, but poor in clay"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-48",
+  "subject": "biology",
+  "year": 1985,
+  "number": 48,
+  "question": "The origin of mineral particles in the soil is",
+  "options": {
+   "A": "humus",
+   "B": "water",
+   "C": "micro-organisms",
+   "D": "weathered rock",
+   "E": "organic matter"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-49",
+  "subject": "biology",
+  "year": 1985,
+  "number": 49,
+  "question": "Atmospheric nitrogen is directly replenished in nature through",
+  "options": {
+   "A": "the activities of denitrifying bacteria",
+   "B": "the breakdown of ammonium salts in the soil",
+   "C": "the activities of nitrifying bacteria",
+   "D": "the activities ofnitrogen-fixing bacteria in root nodules",
+   "E": "egestion, death and decay"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1985-50",
+  "subject": "biology",
+  "year": 1985,
+  "number": 50,
+  "question": "The initial volume of water poured into a bag of dry soil was 50ml and the amount that drained through was 35ml. The percentage water content of the fully soaked soil is therefore",
+  "options": {
+   "A": "46.7",
+   "B": "25.0",
+   "C": "20.0",
+   "D": "30.0",
+   "E": "58.3."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,887 @@
+[
+ {
+  "id": "biology-2004-1",
+  "subject": "biology",
+  "year": 2004,
+  "number": 1,
+  "question": "The gall bladder of a mammal has a duct connected to the",
+  "options": {
+   "A": "duodenum",
+   "B": "liver",
+   "C": "pancreas",
+   "D": "small intestine"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-2",
+  "subject": "biology",
+  "year": 2004,
+  "number": 2,
+  "question": "The opening of the stoma is controlled by the",
+  "options": {
+   "A": "presence of guard cells",
+   "B": "decrease in solute concentration in the guard cells C. increase in solute concentration in the guard cells",
+   "D": "presence of a pore. Use the diagram below to answer questions 3 and 4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2004_p53_1.png",
+  "images": [
+   "biology/2004_p53_1.png"
+  ]
+ },
+ {
+  "id": "biology-2004-3",
+  "subject": "biology",
+  "year": 2004,
+  "number": 3,
+  "question": "Yam is used in this set-up because it",
+  "options": {
+   "A": "act as a semi-permeable membrane",
+   "B": "act as a storage organ C. is permeable to the salt solution",
+   "D": "is a plant material"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-4",
+  "subject": "biology",
+  "year": 2004,
+  "number": 4,
+  "question": "Which of the following results is to be expected If the set-up is left for several hours?",
+  "options": {
+   "A": "Movement of water from the salt solution",
+   "B": "Decrease in the size of the yam",
+   "C": "Movement of the salt solution into the water D. Decrease in the volume of water inside the yam."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-5",
+  "subject": "biology",
+  "year": 2004,
+  "number": 5,
+  "question": "The eggs of birds contain relatively larger quantities of yolk than those of amphibians and reptiles because",
+  "options": {
+   "A": "embryonic development is longer in birds",
+   "B": "birds lay shelled eggs",
+   "C": "birds are generally bigger in size D. those of birds are fertilized internally."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-6",
+  "subject": "biology",
+  "year": 2004,
+  "number": 6,
+  "question": "In the internal structure of plants, a wide pith in the centre is common to",
+  "options": {
+   "A": "dicot root and monocot stems",
+   "B": "dicot stems and monocot stems C. dicot stem and monocot roots",
+   "D": "dicot roots and monocot roots."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-7",
+  "subject": "biology",
+  "year": 2004,
+  "number": 7,
+  "question": "If a nursing mother is not producing enough milk, her hormonal system is probably deficient in",
+  "options": {
+   "A": "testosterone",
+   "B": "thyroxin",
+   "C": "insulin",
+   "D": "prolactin Use the diagram below to answer questions 8 and 9"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2004_p53_2.png",
+  "images": [
+   "biology/2004_p53_2.png"
+  ]
+ },
+ {
+  "id": "biology-2004-8",
+  "subject": "biology",
+  "year": 2004,
+  "number": 8,
+  "question": "The part",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-9",
+  "subject": "biology",
+  "year": 2004,
+  "number": 9,
+  "question": "The bones labelled II are called",
+  "options": {
+   "A": "thoracic vertebrae",
+   "B": "lumbar vertebrae",
+   "C": "cervical vertebrae D. sacral vertebrae."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-10",
+  "subject": "biology",
+  "year": 2004,
+  "number": 10,
+  "question": "The breakdown of fats and oils into simpler absorbable compounds is catalyzed by the group of enzymes called",
+  "options": {
+   "A": "peptidases",
+   "B": "amylases",
+   "C": "lipases",
+   "D": "hydrolases"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-11",
+  "subject": "biology",
+  "year": 2004,
+  "number": 11,
+  "question": "The two key cations involved in the action potential of nervous transmissions are",
+  "options": {
+   "A": "Mg² and K⁺",
+   "B": "Na⁺ and Fe²⁺",
+   "C": "Fe²⁺ and Mg²⁺",
+   "D": "Na⁺ and K ⁺ Use the diagram below to answer questions 12 and 13"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2004_p53_4.png",
+  "images": [
+   "biology/2004_p53_4.png"
+  ]
+ },
+ {
+  "id": "biology-2004-12",
+  "subject": "biology",
+  "year": 2004,
+  "number": 12,
+  "question": "The part labelled II is the",
+  "options": {
+   "A": "anther",
+   "B": "style",
+   "C": "filament",
+   "D": "stigma"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-13",
+  "subject": "biology",
+  "year": 2004,
+  "number": 13,
+  "question": "The process of pollination involves the transfer of pollens from",
+  "options": {
+   "A": "III to IV",
+   "B": "IV to I",
+   "C": "II to III",
+   "D": "I to II"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-14",
+  "subject": "biology",
+  "year": 2004,
+  "number": 14,
+  "question": "The anaerobic fermentation of a glucose molecule yields",
+  "options": {
+   "A": "pyruvic acid and alcohol",
+   "B": "38 ATP molecules",
+   "C": "water and carbon (IV) oxide",
+   "D": "2ATP molecules and alcohol Use the diagram below to answer questions 15 and 16"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2004_p53_3.png",
+  "images": [
+   "biology/2004_p53_3.png"
+  ]
+ },
+ {
+  "id": "biology-2004-15",
+  "subject": "biology",
+  "year": 2004,
+  "number": 15,
+  "question": "The function of the part labelled III is to",
+  "options": {
+   "A": "produce oil for the skin",
+   "B": "carry blood and nitrogenous waste C. contract to pull the hair erect",
+   "D": "conduct nervous impulses"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-17",
+  "subject": "biology",
+  "year": 2004,
+  "number": 17,
+  "question": "The type of reproduction that is common to both Hydra and yeast is",
+  "options": {
+   "A": "grafting",
+   "B": "budding",
+   "C": "conjugation",
+   "D": "binary fission"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-18",
+  "subject": "biology",
+  "year": 2004,
+  "number": 18,
+  "question": "Epigeal germination of a seed is characterized by",
+  "options": {
+   "A": "lack of growth of the hypocotyls",
+   "B": "more rapid elongation of the hypocotyls than the epicotyl",
+   "C": "more rapid elongation of the epicotyl than the hypocotyl D. equal growth rate of both the hypocotyl and epicotyl."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-19",
+  "subject": "biology",
+  "year": 2004,
+  "number": 19,
+  "question": "All living cells require water because it",
+  "options": {
+   "A": "is a medium that neutralizes acids in cells",
+   "B": "is the main source of energy for the cells",
+   "C": "prevents the development of diseases in cell",
+   "D": "is a medium for all metabolic reactions."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-20",
+  "subject": "biology",
+  "year": 2004,
+  "number": 20,
+  "question": "The surface of an alveolus in a mammals is well supplied with tiny blood vessels known as",
+  "options": {
+   "A": "capillaries",
+   "B": "arteries",
+   "C": "arterioles",
+   "D": "venules 21 Nervous control differs from hormonal control in that the former"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-22",
+  "subject": "biology",
+  "year": 2004,
+  "number": 22,
+  "question": "Identical twins inherit their genes from",
+  "options": {
+   "A": "one egg and two sperms",
+   "B": "two eggs and a sperm",
+   "C": "the same egg and sperm",
+   "D": "different eggs and sperms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-23",
+  "subject": "biology",
+  "year": 2004,
+  "number": 23,
+  "question": "Paternity disputes can most accurately be resolved through the use of",
+  "options": {
+   "A": "DNA analysis",
+   "B": "fingerprinting",
+   "C": "tongue-rolling",
+   "D": "blood group typing"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-24",
+  "subject": "biology",
+  "year": 2004,
+  "number": 24,
+  "question": "Sex-linked genes are located on",
+  "options": {
+   "A": "X-and Y-chromosomes",
+   "B": "homologous chromosomes C. X- chromosomes",
+   "D": "Y- chromosome."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-25",
+  "subject": "biology",
+  "year": 2004,
+  "number": 25,
+  "question": "In a Mendelian cross of red and white varieties of the four o’clock plant, the F₁ generation expresses incomplete dominance by having flowers which are",
+  "options": {
+   "A": "multicoloured",
+   "B": "pink",
+   "C": "red",
+   "D": "white"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-26",
+  "subject": "biology",
+  "year": 2004,
+  "number": 26,
+  "question": "Insects are considered the most successful among the invertebrates because they",
+  "options": {
+   "A": "survive in various environmental conditions",
+   "B": "possess the ability to change their forms",
+   "C": "possess exoskeletons D. have wing for flight"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-27",
+  "subject": "biology",
+  "year": 2004,
+  "number": 27,
+  "question": "The absence of special food and water-conducting systems restricts the body size in A the bryophytes and the pteridophyes",
+  "options": {
+   "B": "the thallophytes and the pteridophytes",
+   "C": "liverworts, mosses and ferns D. algae, liverworts and mosses."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-28",
+  "subject": "biology",
+  "year": 2004,
+  "number": 28,
+  "question": "A peculiar characteristic of mammals is that they",
+  "options": {
+   "A": "have sebaceous glands",
+   "B": "have teeth",
+   "C": "are warm-"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-29",
+  "subject": "biology",
+  "year": 2004,
+  "number": 29,
+  "question": "The rods in the retina of the eye are examples of",
+  "options": {
+   "A": "organs",
+   "B": "cells",
+   "C": "systems",
+   "D": "tissues"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-30",
+  "subject": "biology",
+  "year": 2004,
+  "number": 30,
+  "question": "The larval stage of a mosquito is called",
+  "options": {
+   "A": "caterpillar",
+   "B": "maggot C.wriggler",
+   "D": "grub"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-31",
+  "subject": "biology",
+  "year": 2004,
+  "number": 31,
+  "question": "The most common characteristic of the fungal hyphae is the possession of",
+  "options": {
+   "A": "cell-like partitions formed by cross-walls",
+   "B": "cell-like compartments with one nucleus each",
+   "C": "a multicellular mycelium in the substrate",
+   "D": "cell walls that are both rigid and chitinous Use the diagram below to answer question 32 and 33."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2004_p54_1.png",
+  "images": [
+   "biology/2004_p54_1.png"
+  ]
+ },
+ {
+  "id": "biology-2004-32",
+  "subject": "biology",
+  "year": 2004,
+  "number": 32,
+  "question": "The part labelled II is responsible for A respiration B. protein synthesis C. excretion",
+  "options": {
+   "D": "photosynthesis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-33",
+  "subject": "biology",
+  "year": 2004,
+  "number": 33,
+  "question": "The endoplasmic reticulum is represented by the part labelled",
+  "options": {
+   "A": "III",
+   "B": "VI",
+   "C": "I",
+   "D": "II"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-34",
+  "subject": "biology",
+  "year": 2004,
+  "number": 34,
+  "question": "The function of the long-winged reproductives in a termite colony is to",
+  "options": {
+   "A": "protect the young",
+   "B": "participate in swarming",
+   "C": "feed the young",
+   "D": "disperse the population"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-35",
+  "subject": "biology",
+  "year": 2004,
+  "number": 35,
+  "question": "A plant-likefeatureinEuglena is the",
+  "options": {
+   "A": "large vacuole",
+   "B": "gullet",
+   "C": "pellicle",
+   "D": "pigment spot"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-36",
+  "subject": "biology",
+  "year": 2004,
+  "number": 36,
+  "question": "Which of the following is an example of intraspecific competition?",
+  "options": {
+   "A": "Yam and potato shoots growing out through the same window B. A lizard and an ant-eater chasing an i nsect C. Aworker termiteand a soldier in a limited space",
+   "D": "A hawk and an eagle targeting the same chicken"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-37",
+  "subject": "biology",
+  "year": 2004,
+  "number": 37,
+  "question": "The spots and stripes of the leopard and tiger are examples of",
+  "options": {
+   "A": "warning colouration",
+   "B": "countershading",
+   "C": "cryptic colouration D. disruptive colouration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-38",
+  "subject": "biology",
+  "year": 2004,
+  "number": 38,
+  "question": "Rodents gnaw on food with their",
+  "options": {
+   "A": "strong jaws",
+   "B": "flat-ridged teeth",
+   "C": "chisel-like front teeth D. molar teeth."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-39",
+  "subject": "biology",
+  "year": 2004,
+  "number": 39,
+  "question": "An evidence of the relationship between living organisms and their extinct relatives can best be",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-40",
+  "subject": "biology",
+  "year": 2004,
+  "number": 40,
+  "question": "Plants survive hot dry conditions by",
+  "options": {
+   "A": "producing numerous leaves",
+   "B": "having numerous stomata C. having evergreen leave D. storing water in large parenchyma cells."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-41",
+  "subject": "biology",
+  "year": 2004,
+  "number": 41,
+  "question": "A caterpillar and an aphid living in different parts of the same plant can be said to",
+  "options": {
+   "A": "be in similar microhabitats",
+   "B": "occupy different ecological niches C. occupy the same ecological niche D. be in different habitats"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-42",
+  "subject": "biology",
+  "year": 2004,
+  "number": 42,
+  "question": "The progressive loss of energy at each level in a food chain leads to",
+  "options": {
+   "A": "a decrease in biomass at each successive level",
+   "B": "an increase in the number of organisms at each successive level C. an increase in the total weight of living matter at each successive level D. an increase in biomass at each successive level"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-43",
+  "subject": "biology",
+  "year": 2004,
+  "number": 43,
+  "question": "The soil type that will be most difficult to plough in a wet season is one that is",
+  "options": {
+   "A": "sandy",
+   "B": "loamy",
+   "C": "silty",
+   "D": "clayey Use the table below to answer questions 44 and 45"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2004_p55_1.png",
+  "images": [
+   "biology/2004_p55_1.png"
+  ]
+ },
+ {
+  "id": "biology-2004-44",
+  "subject": "biology",
+  "year": 2004,
+  "number": 44,
+  "question": "Which of the zones is likely to be a desert?",
+  "options": {
+   "A": "III",
+   "B": "IV",
+   "C": "I",
+   "D": "II"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-45",
+  "subject": "biology",
+  "year": 2004,
+  "number": 45,
+  "question": "High relative humidity will be expected in zones",
+  "options": {
+   "A": "II and III",
+   "B": "II and IV",
+   "C": "I and IV",
+   "D": "I and III"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-46",
+  "subject": "biology",
+  "year": 2004,
+  "number": 46,
+  "question": "One adaptation of reptiles to water loss is the presence of",
+  "options": {
+   "A": "long tails",
+   "B": "long sticky tongues",
+   "C": "keratinous scales",
+   "D": "claws on limbs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-47",
+  "subject": "biology",
+  "year": 2004,
+  "number": 47,
+  "question": "The scarcity of food causes a sudden decrease in population size by",
+  "options": {
+   "A": "minimizing the rate of competition",
+   "B": "raising the mortality rate C. bringing about immigration",
+   "D": "decreasing the reproductive rate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-48",
+  "subject": "biology",
+  "year": 2004,
+  "number": 48,
+  "question": "The association between termites and the cellulose- digesting protozoan in their guts is an example of",
+  "options": {
+   "A": "mutualism",
+   "B": "saprophytism",
+   "C": "commensalism",
+   "D": "parasitism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-49",
+  "subject": "biology",
+  "year": 2004,
+  "number": 49,
+  "question": "A state in Nigeria that is most susceptible to desert encroachment is",
+  "options": {
+   "A": "Kaduna",
+   "B": "Kastina",
+   "C": "Kwara",
+   "D": "Taraba"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-50",
+  "subject": "biology",
+  "year": 2004,
+  "number": 50,
+  "question": "A farm practice that results in the loss of soil fertility is",
+  "options": {
+   "A": "continuous cropping",
+   "B": "mixed farming",
+   "C": "bush fallowing D shifting cultivation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

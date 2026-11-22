@@ -1,0 +1,894 @@
+[
+ {
+  "id": "biology-1986-1",
+  "subject": "biology",
+  "year": 1986,
+  "number": 1,
+  "question": "Viruses are regarded as non-living because they",
+  "options": {
+   "A": "can neither reproduce asexually nor sexually",
+   "B": "cannot survive in their respective environments",
+   "C": "do not possess characteristics to the next",
+   "D": "can neither respire nor excrete."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-2",
+  "subject": "biology",
+  "year": 1986,
+  "number": 2,
+  "question": "Which of the following pairs are fully adapted to terrestrial life?",
+  "options": {
+   "A": "Ferns and algae",
+   "B": "Ferns and mosses",
+   "C": "Bryophyte and flowering plants.",
+   "D": "Flowering plants and conifers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-3",
+  "subject": "biology",
+  "year": 1986,
+  "number": 3,
+  "question": "Which of these animals is radically symmetrical?",
+  "options": {
+   "A": "Squid",
+   "B": "Hydra",
+   "C": "Snail",
+   "D": "Cockroach."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-4",
+  "subject": "biology",
+  "year": 1986,
+  "number": 4,
+  "question": "Which of the following has cones?",
+  "options": {
+   "A": "Angiosperm",
+   "B": "Gymnosperm",
+   "C": "Pteridophyte",
+   "D": "Bryophyte ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-5",
+  "subject": "biology",
+  "year": 1986,
+  "number": 5,
+  "question": "For effective functioning of a bird’s quill feather, hooks fit on the ridges of the",
+  "options": {
+   "A": "vane",
+   "B": "rachis",
+   "C": "barbules",
+   "D": "barbs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-6",
+  "subject": "biology",
+  "year": 1986,
+  "number": 6,
+  "question": "Which of the following is NOT true of Spirogyra?",
+  "options": {
+   "A": "Reproduces by conjugation",
+   "B": "Reproduces by fragmentation C. Consists ofbranched filaments",
+   "D": "Consists of unbranched filaments"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-7",
+  "subject": "biology",
+  "year": 1986,
+  "number": 7,
+  "question": "Which of the following lacks chaetae, tentacles and antennae?",
+  "options": {
+   "A": "Snail",
+   "B": "Crab",
+   "C": "Millipede",
+   "D": "Earthworm."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-8",
+  "subject": "biology",
+  "year": 1986,
+  "number": 8,
+  "question": "Incomplete metamorphosis in the",
+  "options": {
+   "A": "butterfly",
+   "B": "grasshopper",
+   "C": "mosquito",
+   "D": "housefly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-9",
+  "subject": "biology",
+  "year": 1986,
+  "number": 9,
+  "question": "Fishes are cold-blooded because their body",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-10",
+  "subject": "biology",
+  "year": 1986,
+  "number": 10,
+  "question": "When the original king and queen of termites die, they are replaced by",
+  "options": {
+   "A": "the king and queen of another colony",
+   "B": "some adult reproductives from the same colony",
+   "C": "some adult workers which are specially fed to breed.",
+   "D": "Developing nymphs nurtured as secondary reproductives."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-11",
+  "subject": "biology",
+  "year": 1986,
+  "number": 11,
+  "question": "The male cockroach differs from the female by having",
+  "options": {
+   "A": "mandibles",
+   "B": "a pair of styles",
+   "C": "spiracles",
+   "D": "a pair of cerci."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-12",
+  "subject": "biology",
+  "year": 1986,
+  "number": 12,
+  "question": "The fins making up the limbs of the bony fish are",
+  "options": {
+   "A": "caudal and ventral",
+   "B": "ventral and pelvic",
+   "C": "pelvic and pectoral",
+   "D": "pectoral and dorsal."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-13",
+  "subject": "biology",
+  "year": 1986,
+  "number": 13,
+  "question": "The stem differs from the root in having the xylem and phloem strands",
+  "options": {
+   "A": "on the same radii",
+   "B": "scattered",
+   "C": "on alternate radii",
+   "D": "towards the pith."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-14",
+  "subject": "biology",
+  "year": 1986,
+  "number": 14,
+  "question": "Oxygen liberated during photosynthesis has been demonstrated to come from",
+  "options": {
+   "A": "carbon dioxide",
+   "B": "air",
+   "C": "water",
+   "D": "chlorophyll."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-15",
+  "subject": "biology",
+  "year": 1986,
+  "number": 15,
+  "question": "Which of these is a trace element?",
+  "options": {
+   "A": "Iron",
+   "B": "Copper",
+   "C": "Calcium",
+   "D": "Sulphur."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-16",
+  "subject": "biology",
+  "year": 1986,
+  "number": 16,
+  "question": "The main organic substances found in the human body are",
+  "options": {
+   "A": "carbohydrates, proteins and salts",
+   "B": "salts, fats and proteins C. fats, carbohydrates and proteins D. salts, fats and carbohydrates."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-17",
+  "subject": "biology",
+  "year": 1986,
+  "number": 17,
+  "question": "Which of the following elements is essential for the formation of haemoglobin?",
+  "options": {
+   "A": "Sodium",
+   "B": "Potassium",
+   "C": "Calcium",
+   "D": "Iron."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-19",
+  "subject": "biology",
+  "year": 1986,
+  "number": 19,
+  "question": "In addition to the high calories derived from fats and oils, they are",
+  "options": {
+   "A": "used in producing newcells",
+   "B": "necessary for enzyme formation C. used as insulators from cold",
+   "D": "required for growth"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-20",
+  "subject": "biology",
+  "year": 1986,
+  "number": 20,
+  "question": "The extract from a food substance reacting with sodium hydroxide and copper sulphate solutions will produce violet to purple coloration if",
+  "options": {
+   "A": "fats are present",
+   "B": "carbohydrate is present",
+   "C": "protein is present",
+   "D": "reducing sugar is present."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-21",
+  "subject": "biology",
+  "year": 1986,
+  "number": 21,
+  "question": "The three important organs that are situated close to the stomach are",
+  "options": {
+   "A": "kidney, liver and gall bladder",
+   "B": "pancreas, liver and kidney C. liver, kidneyand spleen D. gall bladder, pancreas and spleen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-22",
+  "subject": "biology",
+  "year": 1986,
+  "number": 22,
+  "question": "Evidence that a tooth is a living part of the mammalian body can be found within the",
+  "options": {
+   "A": "gum",
+   "B": "pulp cavity",
+   "C": "cement",
+   "D": "enamel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-23",
+  "subject": "biology",
+  "year": 1986,
+  "number": 23,
+  "question": "Blood circulation in a mammal is said to be double because",
+  "options": {
+   "A": "it passes twice through the heart in the complete circuit B. it moves in both arteries and veins",
+   "C": "it circulates in both the heart and other organs",
+   "D": "the heart contains auricles and ventricles"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-24",
+  "subject": "biology",
+  "year": 1986,
+  "number": 24,
+  "question": "Which is the correct order of water loss from the leaf? 1 Mesophyll 2 Veins 3 Substomatal cavity4 Stomata",
+  "options": {
+   "A": "3 2 1 4",
+   "B": "2 3 1 4",
+   "C": "2 1 3 4",
+   "D": "1 2 3 4."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-25",
+  "subject": "biology",
+  "year": 1986,
+  "number": 25,
+  "question": "The aperture between the left auricle and the left ventricle is guarded by the",
+  "options": {
+   "A": "auricular valve",
+   "B": "tricuspid valve",
+   "C": "ventricular valve",
+   "D": "bicuspid valve."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-26",
+  "subject": "biology",
+  "year": 1986,
+  "number": 26,
+  "question": "A major limitation in the use of the potometer for measuring the rate of transpiration is that",
+  "options": {
+   "A": "it ismade of breakable glass material",
+   "B": "it measures therate of water intake",
+   "C": "it measures the rate of water loss through the stem only D. the movement of the air bubble in the potometer cannot be timed accurately."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-27",
+  "subject": "biology",
+  "year": 1986,
+  "number": 27,
+  "question": "Which of the following statements is not correct with respect to inhalation in mammals?",
+  "options": {
+   "A": "intercostal muscles contract",
+   "B": "diaphragm is raised",
+   "C": "ribs are raised",
+   "D": "pressure of the thoracic cavity decreases."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-28",
+  "subject": "biology",
+  "year": 1986,
+  "number": 28,
+  "question": "The equation that can be used to summarize the process of anaerobic breakdown of sugar is",
+  "options": {
+   "A": "C₆H₁₂O₆+2C₂H₅OH + 2CO₂",
+   "B": "6CO₂ + 6H₂O ’! C₆H₁₂O₆ + 6O₂",
+   "C": "C₆H₁₂O₆ + 6O₂ ’! 6CO₂ + 6H₂O+ energy",
+   "D": "C₆H₁₂O₆ ’! 2C₂H₅OH + 2CO₂ + energy."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-30",
+  "subject": "biology",
+  "year": 1986,
+  "number": 30,
+  "question": "Deamination occurs in the",
+  "options": {
+   "A": "kidney",
+   "B": "pancreas",
+   "C": "spleen",
+   "D": "liver."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-31",
+  "subject": "biology",
+  "year": 1986,
+  "number": 31,
+  "question": "In the mammalian skin, melanin and keratin are contained in the",
+  "options": {
+   "A": "sebaceous gland",
+   "B": "sweat gland",
+   "C": "subcutaneous layer",
+   "D": "malpighian layer."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-32",
+  "subject": "biology",
+  "year": 1986,
+  "number": 32,
+  "question": "Two main distinguishing features of the cervical vertebra are the presence of",
+  "options": {
+   "A": "short neural spine and vertebraterial canal",
+   "B": "prezygapophysis and cervical ribs",
+   "C": "large centrum and cervical ribs",
+   "D": "vertebraterial canal and large centrum"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-33",
+  "subject": "biology",
+  "year": 1986,
+  "number": 33,
+  "question": "Nastic movement is",
+  "options": {
+   "A": "response to light stimulus",
+   "B": "non-directional",
+   "C": "directional",
+   "D": "response to internal stimulus Use the figure below to answer questions 34 to 36 Vertical section of a maize grain"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1986_p11_1.png",
+  "images": [
+   "biology/1986_p11_1.png"
+  ]
+ },
+ {
+  "id": "biology-1986-34",
+  "subject": "biology",
+  "year": 1986,
+  "number": 34,
+  "question": "Which of the labelled parts will develop into a new maize plant?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-35",
+  "subject": "biology",
+  "year": 1986,
+  "number": 35,
+  "question": "The structure labelled 1 is the",
+  "options": {
+   "A": "plumule",
+   "B": "radicle",
+   "C": "cell membrane",
+   "D": "seed coat"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-36",
+  "subject": "biology",
+  "year": 1986,
+  "number": 36,
+  "question": "The main function of the structure labelled 2 is to",
+  "options": {
+   "A": "protect the inner parts of the seed",
+   "B": "nourish the embryo and the growing parts",
+   "C": "keep the inner parts moist",
+   "D": "maintain the shape of the seed."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-37",
+  "subject": "biology",
+  "year": 1986,
+  "number": 37,
+  "question": "Gestation in mammals is the period",
+  "options": {
+   "A": "required for growth after birth",
+   "B": "between the formation of the foetus and birth",
+   "C": "of development from zygote to birth",
+   "D": "before the formation of the zygote."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-38",
+  "subject": "biology",
+  "year": 1986,
+  "number": 38,
+  "question": "If a woman who is a carrier of sickle cell trait (AS)",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-39",
+  "subject": "biology",
+  "year": 1986,
+  "number": 39,
+  "question": "Which of the following is an example of discontinuous variation?",
+  "options": {
+   "A": "Skin coloration",
+   "B": "Left-handedness",
+   "C": "Body weight",
+   "D": "Height"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-40",
+  "subject": "biology",
+  "year": 1986,
+  "number": 40,
+  "question": "The hormone which regulates the amount of glucose in the blood is called",
+  "options": {
+   "A": "adrenalin",
+   "B": "auxin",
+   "C": "insulin",
+   "D": "thyroxine."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-41",
+  "subject": "biology",
+  "year": 1986,
+  "number": 41,
+  "question": "An instrument that can be used to demonstrate phototropism and geotropism in plants is the",
+  "options": {
+   "A": "auxanometer",
+   "B": "potometer",
+   "C": "klinostat",
+   "D": "photometer."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-42",
+  "subject": "biology",
+  "year": 1986,
+  "number": 42,
+  "question": "In an ecosystem, animals which feed directly on plants are called",
+  "options": {
+   "A": "secondary consumers",
+   "B": "primary consumers",
+   "C": "producers",
+   "D": "predators"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-43",
+  "subject": "biology",
+  "year": 1986,
+  "number": 43,
+  "question": "In an agricultural ecosystem, the biotic component consists of",
+  "options": {
+   "A": "crops, pest and beneficial insects",
+   "B": "crops, temperature and humidity C. pests, beneficial insects and water D. crops, water and soil."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-44",
+  "subject": "biology",
+  "year": 1986,
+  "number": 44,
+  "question": "Which of these diseases CANNOT be prevented by immunization?",
+  "options": {
+   "A": "Poliomyelitis.",
+   "B": "Tuberculosis",
+   "C": "Cholera",
+   "D": "Onchocerciasis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-45",
+  "subject": "biology",
+  "year": 1986,
+  "number": 45,
+  "question": "Which of the following ecological factors are common to both terrestrial and aquatic habitats?",
+  "options": {
+   "A": "Rainfall, temperature, light and wind",
+   "B": "Salinity, rainfall temperature and light",
+   "C": "Tides, wind, rainfall and altitude",
+   "D": "Ph, salinity, rainfall and humidity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-46",
+  "subject": "biology",
+  "year": 1986,
+  "number": 46,
+  "question": "In a community, bacteria and fungi are referred to as",
+  "options": {
+   "A": "producers",
+   "B": "decomposers",
+   "C": "scavengers",
+   "D": "consumers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-47",
+  "subject": "biology",
+  "year": 1986,
+  "number": 47,
+  "question": "The swollen shoot disease of cocoa tree is caused by a",
+  "options": {
+   "A": "virus",
+   "B": "fungus",
+   "C": "bacterium",
+   "D": "protozoan"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-48",
+  "subject": "biology",
+  "year": 1986,
+  "number": 48,
+  "question": "A large percentage of tropical soils tend to be acidic because they",
+  "options": {
+   "A": "contain large quantities of potash",
+   "B": "contain large quantities of lime C. lose a high proportion of their organic matter torunning water D. lose lime and potash from the top soil through rain action"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-49",
+  "subject": "biology",
+  "year": 1986,
+  "number": 49,
+  "question": "The following are methods of soil conservation EXCEPT",
+  "options": {
+   "A": "contour terracing",
+   "B": "strip cropping",
+   "C": "contour ploughing",
+   "D": "mixed grazing"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1986-50",
+  "subject": "biology",
+  "year": 1986,
+  "number": 50,
+  "question": "Samples of different soil types are packed in glass tubes whose lower ends are plugged with cotton wool. If these tubes are suspended in a trough of water, water will rise highest after a few hours in",
+  "options": {
+   "A": "sand",
+   "B": "loam",
+   "C": "clay",
+   "D": "humus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

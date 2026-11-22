@@ -1,0 +1,904 @@
+[
+ {
+  "id": "biology-1984-1",
+  "subject": "biology",
+  "year": 1984,
+  "number": 1,
+  "question": "The mouth part of the housefly are adapted for",
+  "options": {
+   "A": "lapping and sponging.",
+   "B": "sucking and chewing.",
+   "C": "piercing and sucking.",
+   "D": "chewing and lapping.",
+   "E": "biting and chewing."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-2",
+  "subject": "biology",
+  "year": 1984,
+  "number": 2,
+  "question": "The male toad differs from the female by having",
+  "options": {
+   "A": "vocal sacs.",
+   "B": "shorter hind limbs.",
+   "C": "longer fore limbs.",
+   "D": "bulging eyes.",
+   "E": "nictating membrane."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-3",
+  "subject": "biology",
+  "year": 1984,
+  "number": 3,
+  "question": "Mosses, liverworts and ferns can be grouped together because they",
+  "options": {
+   "A": "areall equatic plants.",
+   "B": "all growin deserts.",
+   "C": "are seedless plants.",
+   "D": "have undifferentiated plant bodies. E. all produce colourless flowers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-4",
+  "subject": "biology",
+  "year": 1984,
+  "number": 4,
+  "question": "Spirogyra and Mucor can be grouped together as Thallophyta because.",
+  "options": {
+   "A": "theyare unicellular organism",
+   "B": "their spores could be dispersed by wind C. they are capable of living independent lives D. they reproduce sexually only E. their bodies are made up of thallus and filaments alternatively."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-6",
+  "subject": "biology",
+  "year": 1984,
+  "number": 6,
+  "question": "Which of the following is INCORRECT? The prothallus of a fern",
+  "options": {
+   "A": "is a flattened heart-shaped structure.",
+   "B": "is green because its cells contain chloroplasts",
+   "C": "is the dominant plant",
+   "D": "bears the sexual organs",
+   "E": "is attached to the ground by numerous rhizoids."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-7",
+  "subject": "biology",
+  "year": 1984,
+  "number": 7,
+  "question": "Which of the following cell constituents is NOT common in both plants and animals?",
+  "options": {
+   "A": "Mitochondria",
+   "B": "Chloroplasts",
+   "C": "Ribosomes",
+   "D": "Golgi apparatus",
+   "E": "Vacoules."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-8",
+  "subject": "biology",
+  "year": 1984,
+  "number": 8,
+  "question": "The character-producing factors in living organisms are",
+  "options": {
+   "A": "chromomeres",
+   "B": "alleles",
+   "C": "chromatids",
+   "D": "chromosomes",
+   "E": "genes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-9",
+  "subject": "biology",
+  "year": 1984,
+  "number": 9,
+  "question": "A mixture of mercurous and mercuric nitrates is added to a food substance. A white precipitate is formed which on gentle heating turns red. The food substance is",
+  "options": {
+   "A": "protein",
+   "B": "oil",
+   "C": "Carbohydrate",
+   "D": "Fat E.Fatty acid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-11",
+  "subject": "biology",
+  "year": 1984,
+  "number": 11,
+  "question": "Fig 1 represents a quill feather. The structure labelled “M” is the",
+  "options": {
+   "A": "quill",
+   "B": "rachis",
+   "C": "superior umbilicus",
+   "D": "inferior umbilicus",
+   "E": "aftershaft"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1984_p6_1.png",
+  "images": [
+   "biology/1984_p6_1.png"
+  ]
+ },
+ {
+  "id": "biology-1984-12",
+  "subject": "biology",
+  "year": 1984,
+  "number": 12,
+  "question": "Osmosis can be defined as the movement of",
+  "options": {
+   "A": "molecules from solution of high concentration to low concentration B. molecules from solution of low concentration to ]high concentration",
+   "C": "water from solution of high concentration to low concentration D. Water across a semi-permeable membrane from solution of lowconcentration to high concentration E. water across a semi-permeable membrane from solution of high concentration to low concentration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-13",
+  "subject": "biology",
+  "year": 1984,
+  "number": 13,
+  "question": "Which of the following statements is NOT true of enzymes? They",
+  "options": {
+   "A": "are proteins B.need cofactors to activate them",
+   "C": "are sensitive to hydrogen ion concentration",
+   "D": "are specific in their action",
+   "E": "can withstand high temperatures."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-14",
+  "subject": "biology",
+  "year": 1984,
+  "number": 14,
+  "question": "The dorsal and anal fins of fish are used for",
+  "options": {
+   "A": "upward movements",
+   "B": "controlling rolling movements C. downward movements",
+   "D": "steering",
+   "E": "buoyancy."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-15",
+  "subject": "biology",
+  "year": 1984,
+  "number": 15,
+  "question": "Exoskeleton is NOT found in the",
+  "options": {
+   "A": "maggot",
+   "B": "mosquito larva",
+   "C": "earthworm",
+   "D": "caterpillar F. termite"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-16",
+  "subject": "biology",
+  "year": 1984,
+  "number": 16,
+  "question": "Blood clotting is initiated by",
+  "options": {
+   "A": "leucocytes",
+   "B": "platelets",
+   "C": "haemolymph",
+   "D": "haemoglobin",
+   "E": "erythrocytes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-17",
+  "subject": "biology",
+  "year": 1984,
+  "number": 17,
+  "question": "Pepsin is a digestive enzyme which breaks",
+  "options": {
+   "A": "cellulose into glucose molecules",
+   "B": "carbohydrates into simple sugars",
+   "C": "protein into peptones",
+   "D": "fats into glycerol and fatty acids E. sucrose into glucose and fructose."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-18",
+  "subject": "biology",
+  "year": 1984,
+  "number": 18,
+  "question": "Anaerobic respiration in yeast produces",
+  "options": {
+   "A": "carbondioxide and ethanol",
+   "B": "carbondioxide and water C. carbondioxide and oxygen",
+   "D": "carbondioxide and glucose",
+   "E": "ethanol and water"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-19",
+  "subject": "biology",
+  "year": 1984,
+  "number": 19,
+  "question": "Underground stems which grow horizontally through the soil are",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-20",
+  "subject": "biology",
+  "year": 1984,
+  "number": 20,
+  "question": "A man with a normal haemoglobin (AA) marries a woman who has sickle-cell haemoglobin (SS). They have a child who has sickle-cell trait. Which of the following genotypes could be associated with the child’s haemoglobin ?",
+  "options": {
+   "A": "AA",
+   "B": "OO",
+   "C": "AO",
+   "D": "AS",
+   "E": "SS"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-21",
+  "subject": "biology",
+  "year": 1984,
+  "number": 21,
+  "question": "In a Biuret test, some protein was mixed with sodium hydroxide solution. Which of the following chemicals should be added to the mixture for a positive result?",
+  "options": {
+   "A": "Mercurous nitrate",
+   "B": "Copper sulphate",
+   "C": "Mercuricnitrate",
+   "D": "Sodium carbonate",
+   "E": "Ammoniumhydroxide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-22",
+  "subject": "biology",
+  "year": 1984,
+  "number": 22,
+  "question": "The removal of a man’s pancreas by surgical operation can affect only the digestion of",
+  "options": {
+   "A": "starch",
+   "B": "starch, protein and fats",
+   "C": "oils and fats",
+   "D": "proteins",
+   "E": "carbohydrate and fats."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-23",
+  "subject": "biology",
+  "year": 1984,
+  "number": 23,
+  "question": "The parts used by tapeworm to fasten itself to the host’s intestine are the",
+  "options": {
+   "A": "neck and suckers",
+   "B": "hooks and suckers",
+   "C": "rostellum and suckers",
+   "D": "young proglottis and neck",
+   "E": "rostellum, hooks and suckers. Use Fig 2 to answer questions 24 - 25 Fig 2. transverse section of a fowl’s egg"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1984_p6_2.png",
+  "images": [
+   "biology/1984_p6_2.png"
+  ]
+ },
+ {
+  "id": "biology-1984-24",
+  "subject": "biology",
+  "year": 1984,
+  "number": 24,
+  "question": "The young chick is formed from",
+  "options": {
+   "A": "3",
+   "B": "3 and 4",
+   "C": "1,3 and 5",
+   "D": "2",
+   "E": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-25",
+  "subject": "biology",
+  "year": 1984,
+  "number": 25,
+  "question": "Which parts provide food for the developing chick?",
+  "options": {
+   "A": "2 and 3",
+   "B": "4 and",
+   "C": "3 and 4",
+   "D": "2 and 5",
+   "E": "1 and 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-26",
+  "subject": "biology",
+  "year": 1984,
+  "number": 26,
+  "question": "Which of the following types of vertebrate occur in equal numbers in the rabbit, rat and man?",
+  "options": {
+   "A": "Caudal",
+   "B": "Thoracic",
+   "C": "Lumbar",
+   "D": "Cervical",
+   "E": "Sacral"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-27",
+  "subject": "biology",
+  "year": 1984,
+  "number": 27,
+  "question": "Which of the following statements is NOT true of the piliferous layer of a root? It",
+  "options": {
+   "A": "has a very thin cuticle",
+   "B": "is the outermost layer of the cortex C. may bear root hairs",
+   "D": "breaks down as the root ages",
+   "E": "is replaced by cork in old roots."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-28",
+  "subject": "biology",
+  "year": 1984,
+  "number": 28,
+  "question": "A flowering plant is monoecious if",
+  "options": {
+   "A": "the androecium is found on one plant"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-29",
+  "subject": "biology",
+  "year": 1984,
+  "number": 29,
+  "question": "How many nuclei are found in a pollen tube during fertilization?",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "5",
+   "D": "6",
+   "E": "7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-30",
+  "subject": "biology",
+  "year": 1984,
+  "number": 30,
+  "question": "Which of the following is NOT a waste product of plants?",
+  "options": {
+   "A": "Tannis",
+   "B": "Oxygen",
+   "C": "Carbondioxide",
+   "D": "Sap",
+   "E": "Alkaloids"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-31",
+  "subject": "biology",
+  "year": 1984,
+  "number": 31,
+  "question": "If an animal is very active and has good muscular control, it is likely to have well-developed",
+  "options": {
+   "A": "olfactory lobes",
+   "B": "cerebral hemispheres",
+   "C": "optic lobes",
+   "D": "cerebellum",
+   "E": "spinal cord"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-32",
+  "subject": "biology",
+  "year": 1984,
+  "number": 32,
+  "question": "Which of the following adaptations is NOT concerned with the flight of birds?",
+  "options": {
+   "A": "Streamlined shape",
+   "B": "Presence of powerful muscles",
+   "C": "Reduced body weight",
+   "D": "Broad sternum",
+   "E": "Webbed feet."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-33",
+  "subject": "biology",
+  "year": 1984,
+  "number": 33,
+  "question": "The transect method can be used in ecology to show the",
+  "options": {
+   "A": "number of plants and animals in a habitant",
+   "B": "population of a plant species",
+   "C": "distribution of organisms along a line",
+   "D": "heights of trees in a section of a forest",
+   "E": "number of young plants across a forest."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-34",
+  "subject": "biology",
+  "year": 1984,
+  "number": 34,
+  "question": "Asexual reproduction does NOT occur in",
+  "options": {
+   "A": "Mucor, Spirogyra and Paramecium",
+   "B": "Penicillium, Paramecium and Amoeba",
+   "C": "Mucor, Rhizopus and penicillium",
+   "D": "Amoeba, spirogyra and Mucor",
+   "E": "Rhizopus, Ascaris and Amoeba."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-35",
+  "subject": "biology",
+  "year": 1984,
+  "number": 35,
+  "question": "Fehling’s solution will readily change colour from blue to a reddish colour when it is",
+  "options": {
+   "A": "mixed with sugar solution in the cold",
+   "B": "warmed or heated byitself",
+   "C": "mixed with reducing sugar in the cold",
+   "D": "warmed or heated with a complex solution",
+   "E": "warmed with a solution of reducing sugar."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-37",
+  "subject": "biology",
+  "year": 1984,
+  "number": 37,
+  "question": "Normally the flow of blood is NEVER from",
+  "options": {
+   "A": "arteryto arterioles",
+   "B": "arterioles to capillaries",
+   "C": "capillaries to venules",
+   "D": "arterioles to the artery",
+   "E": "venules to the vein"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-38",
+  "subject": "biology",
+  "year": 1984,
+  "number": 38,
+  "question": "Heat produced in tissue respiration in plants is",
+  "options": {
+   "A": "a chemical from of energy",
+   "B": "the only form of energy",
+   "C": "the main form ofenergy",
+   "D": "a useful form of energy",
+   "E": "a waste from of energy."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-39",
+  "subject": "biology",
+  "year": 1984,
+  "number": 39,
+  "question": "The axial skeleton of a mammal does not include the bones of the",
+  "options": {
+   "A": "skull",
+   "B": "tail",
+   "C": "limbs",
+   "D": "back",
+   "E": "neck."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-40",
+  "subject": "biology",
+  "year": 1984,
+  "number": 40,
+  "question": "Which of the following sequences represents the process of blood clotting? 1. Fibrin forms a network of threads 2 Red blood cells are caught and a clot is formed 3. Fibrinogen in plasma changes into solube fibrin 4. Blood is exposed to air.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-41",
+  "subject": "biology",
+  "year": 1984,
+  "number": 41,
+  "question": "Green plants are important in the ecosystem because they are",
+  "options": {
+   "A": "primary consumers",
+   "B": "producers",
+   "C": "decomposers",
+   "D": "secondary consumers",
+   "E": "scavengers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-42",
+  "subject": "biology",
+  "year": 1984,
+  "number": 42,
+  "question": "An anenometer is an instrument for measuring",
+  "options": {
+   "A": "relative humidity",
+   "B": "altitude",
+   "C": "wind speed",
+   "D": "turbidity",
+   "E": "salinity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-43",
+  "subject": "biology",
+  "year": 1984,
+  "number": 43,
+  "question": "Which of the following is NOT regarded as a pollutant on land or in the air?",
+  "options": {
+   "A": "Noise",
+   "B": "Smoke",
+   "C": "Sulphur dioxide",
+   "D": "Carbon monoxide",
+   "E": "Nitrogen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-44",
+  "subject": "biology",
+  "year": 1984,
+  "number": 44,
+  "question": "Which of the following groups of factors is completely abiotic?",
+  "options": {
+   "A": "salinity, tide, plankton, turbidity",
+   "B": "Temperature, pH, soil insect",
+   "C": "Wind, altitude, humidity, light",
+   "D": "Conifers, winds, pH, rainfall",
+   "E": "Soil, water, bacteria, salinity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-45",
+  "subject": "biology",
+  "year": 1984,
+  "number": 45,
+  "question": "Which of the following lists of diseases, their causes and transmission is CORRECT?",
+  "options": {
+   "A": "Cholera, virus, severediarrhoea, infected water.",
+   "B": "Malaria, protozoan, high fever, contact with infected person C. Syphilis, virus, veneral disease, sexual intercourse D. Smallpox, virus, skin with blister, close contact with infected person. E. Sleeping sickness, bacteria, tiredness, headaches and dozing, tsetse fly bite"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-46",
+  "subject": "biology",
+  "year": 1984,
+  "number": 46,
+  "question": "Erosion can be reduced along a slope by",
+  "options": {
+   "A": "ridging across slope",
+   "B": "ridging up slope",
+   "C": "ridging down slope",
+   "D": "crop rotation",
+   "E": "bush fallowing system."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-47",
+  "subject": "biology",
+  "year": 1984,
+  "number": 47,
+  "question": "If a handful of soil is shaken with water and left to settle, the soil particles will settle from light to heavy particles as follows:",
+  "options": {
+   "A": "humus, clay, silt, sand, stones",
+   "B": "humus, silt, clay, sand, stones C. humus, clay silt, stones, sand D. humus, sand, silt, clay, stones",
+   "E": "clay, humus, silt, sand, stones."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-48",
+  "subject": "biology",
+  "year": 1984,
+  "number": 48,
+  "question": "Denitrifying bacteria in nature liberate gaseous nitrogen directly from",
+  "options": {
+   "A": "ammonium salts",
+   "B": "soil nitrates",
+   "C": "thunderstorms",
+   "D": "soil nitrites",
+   "E": "plant and animal proteins."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-49",
+  "subject": "biology",
+  "year": 1984,
+  "number": 49,
+  "question": "Leaching is",
+  "options": {
+   "A": "washing away of humus from the soil surface",
+   "B": "reduction of soil aeration by pressure",
+   "C": "soil erosion bymeans other than rainfall",
+   "D": "loss of organic matter due to exposure to direct sunlight E. washing out of chalk and limestone from upper layers of soil by heavy rains"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1984-50",
+  "subject": "biology",
+  "year": 1984,
+  "number": 50,
+  "question": "The process of soil erosion is usually from",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

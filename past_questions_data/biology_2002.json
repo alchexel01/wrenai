@@ -1,0 +1,909 @@
+[
+ {
+  "id": "biology-2002-1",
+  "subject": "biology",
+  "year": 2002,
+  "number": 1,
+  "question": "An Amoeba and an unlaid chicken eggs are",
+  "options": {
+   "A": "animal tissues",
+   "B": "organelles",
+   "C": "single cell",
+   "D": "organisms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-2",
+  "subject": "biology",
+  "year": 2002,
+  "number": 2,
+  "question": "In corns food is usually stored in the",
+  "options": {
+   "A": "leaves",
+   "B": "stems",
+   "C": "roots",
+   "D": "buds"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-3",
+  "subject": "biology",
+  "year": 2002,
+  "number": 3,
+  "question": "The animals that move by means of flagella include",
+  "options": {
+   "A": "Chlamydomonas and Euglena",
+   "B": "Planaria and Amoeba C. Amoeba and Hydra D. Paramecium a nd Planaria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-4",
+  "subject": "biology",
+  "year": 2002,
+  "number": 4,
+  "question": "The structures found only in plant cells are",
+  "options": {
+   "A": "cell membrane and cytoplasm",
+   "B": "chromatin and nucleolus C. cell wall and chloroplast",
+   "D": "cell membrane and lysosome 5.. A flower that has both stamens and pistil is said to be",
+   "C": "perfect"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-6",
+  "subject": "biology",
+  "year": 2002,
+  "number": 6,
+  "question": "When oil is poured into the breeding site of mosquitoes, it",
+  "options": {
+   "A": "deprives the larvae of water",
+   "B": "kills the adults",
+   "C": "suffocates the pupae",
+   "D": "slows down egg development. Use the diagram below to answer questions 7 and 8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2002_p48_1.png",
+  "images": [
+   "biology/2002_p48_1.png"
+  ]
+ },
+ {
+  "id": "biology-2002-7",
+  "subject": "biology",
+  "year": 2002,
+  "number": 7,
+  "question": "The correct evolutionary sequence of the organisms represented is",
+  "options": {
+   "A": "IIIIIIIV",
+   "B": "IIIIIIVI C . IIIIIIVIV",
+   "D": "IVIIIIII"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-8",
+  "subject": "biology",
+  "year": 2002,
+  "number": 8,
+  "question": "Ovoviparity is the type of fertilization exhibited by the organism labelled",
+  "options": {
+   "A": "I",
+   "B": "II",
+   "C": "III",
+   "D": "IV Use the diagram below to answer questions 9 and 10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2002_p48_2.png",
+  "images": [
+   "biology/2002_p48_2.png"
+  ]
+ },
+ {
+  "id": "biology-2002-10",
+  "subject": "biology",
+  "year": 2002,
+  "number": 10,
+  "question": "Example of competitors are",
+  "options": {
+   "A": "lizard and mouse",
+   "B": "snake and lizard",
+   "C": "grasshopper and mouse",
+   "D": "rabbit and snake"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-11",
+  "subject": "biology",
+  "year": 2002,
+  "number": 11,
+  "question": "One of the adaptations to life on trees by a monkey is its possession of digits which are",
+  "options": {
+   "A": "extensible",
+   "B": "big",
+   "C": "opposable",
+   "D": "long"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-12",
+  "subject": "biology",
+  "year": 2002,
+  "number": 12,
+  "question": "The community of plants in which the same species occur from year to year is the",
+  "options": {
+   "A": "annual species",
+   "B": "pioneer vegetation",
+   "C": "perennial species",
+   "D": "climax vegetation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-13",
+  "subject": "biology",
+  "year": 2002,
+  "number": 13,
+  "question": "The most common means of transmitting Acquired Immune Deficiency Syndrome (AIDS) is",
+  "options": {
+   "A": "from mother to child",
+   "B": "through blood transfusion",
+   "C": "through sexual intercourse",
+   "D": "through the sharing of needles"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-14",
+  "subject": "biology",
+  "year": 2002,
+  "number": 14,
+  "question": "Plants tend to prevent overcrowding by means of efficient",
+  "options": {
+   "A": "water uptake",
+   "B": "seed germination",
+   "C": "pollination",
+   "D": "seed dispersal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-15",
+  "subject": "biology",
+  "year": 2002,
+  "number": 15,
+  "question": "The physical and climatic factors of a region primarily determine the",
+  "options": {
+   "A": "kinds of animals inhabiting the area",
+   "B": "types of plants found in the area C. nature of the soil in the region D. community of organisms in the region"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-16",
+  "subject": "biology",
+  "year": 2002,
+  "number": 16,
+  "question": "A step in the movement of energy through an ecosystem is a description that best fits the term",
+  "options": {
+   "A": "food chain",
+   "B": "trophic level",
+   "C": "pyramid of numbers",
+   "D": "food web"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-17",
+  "subject": "biology",
+  "year": 2002,
+  "number": 17,
+  "question": "In a field experiment the frequency of waterleaf was observed to be 48 after 20 tosses of a 2m² quadrant. What is the density of the plant in the field?",
+  "options": {
+   "A": "1.2per m²",
+   "B": "2.4per m²",
+   "C": "4.8per m²",
+   "D": "9.6per m²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-18",
+  "subject": "biology",
+  "year": 2002,
+  "number": 18,
+  "question": "The supporting tissue of xylem is most poorly developed in",
+  "options": {
+   "A": "mangrove swamp plants",
+   "B": "grassland plants",
+   "C": "submerged water plants",
+   "D": "desert plants"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-19",
+  "subject": "biology",
+  "year": 2002,
+  "number": 19,
+  "question": "The addition of lime to clay soil serve to",
+  "options": {
+   "A": "aid water retention",
+   "B": "close up the texture",
+   "C": "prevent water-logging",
+   "D": "improve capillary action"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-20",
+  "subject": "biology",
+  "year": 2002,
+  "number": 20,
+  "question": "The excessive use of agro-chemicals could lead to the pollution of",
+  "options": {
+   "A": "the lithosphere",
+   "B": "the atmosphere",
+   "C": "fresh water",
+   "D": "space"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-21",
+  "subject": "biology",
+  "year": 2002,
+  "number": 21,
+  "question": "In a population study using the transect method, a",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-22",
+  "subject": "biology",
+  "year": 2002,
+  "number": 22,
+  "question": "In his theory of evolution, Darwin implied that",
+  "options": {
+   "A": "the struggled for existence among living organisms is sporadic",
+   "B": "the most successful organisms are those that best adapt to their environment",
+   "C": "organs of the body which are not regularly, used by an organism will disappear",
+   "D": "ny traits acquired by an organism during its lifetime can e passed on to its offspring"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-23",
+  "subject": "biology",
+  "year": 2002,
+  "number": 23,
+  "question": "The carnassial teeth of a carnivorous animal consists of the",
+  "options": {
+   "A": "last upper premolar and the first lower molar",
+   "B": "last upper molar and the last lower molar",
+   "C": "first upper premolar and the first lower molar",
+   "D": "first upper molar and the first lower molar"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-24",
+  "subject": "biology",
+  "year": 2002,
+  "number": 24,
+  "question": "A feature of the caste systems of bees and termites is that",
+  "options": {
+   "A": "the workers are sterile",
+   "B": "the kings are bigger than the queens C. only the worker perform duties",
+   "D": "nuptial fight is performed by all members"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-25",
+  "subject": "biology",
+  "year": 2002,
+  "number": 25,
+  "question": "The structure that is common in the embryos of mammals, amphibians, birds, fishes and reptiles and which is an evidence of their common ancestry is the",
+  "options": {
+   "A": "eye",
+   "B": "chorion",
+   "C": "allantois"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-26",
+  "subject": "biology",
+  "year": 2002,
+  "number": 26,
+  "question": "Animals are restive when the environment in which they live becomes",
+  "options": {
+   "A": "hot and dry",
+   "B": "cold and wet",
+   "C": "warm and humid",
+   "D": "windy and snowy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-27",
+  "subject": "biology",
+  "year": 2002,
+  "number": 27,
+  "question": "Birds which are large with long straight pointed beaks, long necks and long legs are likely to be",
+  "options": {
+   "A": "insect eaters",
+   "B": "fish catchers C nectar feeders",
+   "D": "fruit eaters"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-28",
+  "subject": "biology",
+  "year": 2002,
+  "number": 28,
+  "question": "Examples of organisms in which extracellular digestion occurs are",
+  "options": {
+   "A": "Fungus, Loranthus and housefly",
+   "B": "Rhizopus, sponges and earthworm",
+   "C": "Roundworm, tapeworm and Hydra",
+   "D": "Rhizopus, housefly and Hydra"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-29",
+  "subject": "biology",
+  "year": 2002,
+  "number": 29,
+  "question": "The mammalian erythrocytes differ from erythrocytes are",
+  "options": {
+   "A": "discoid and nucleated",
+   "B": "discoid and enucleated",
+   "C": "amoeboid and nucleated",
+   "D": "amoeboid and enucleated"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-30",
+  "subject": "biology",
+  "year": 2002,
+  "number": 30,
+  "question": "The presence of endoskeleton is characteristic of",
+  "options": {
+   "A": "invertebrata",
+   "B": "vertebrata",
+   "C": "insecta",
+   "D": "coelenterata"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-31",
+  "subject": "biology",
+  "year": 2002,
+  "number": 31,
+  "question": "The capture and digestion of insects by a pitcher plant is a special form of nutrition termed",
+  "options": {
+   "A": "autotraphic",
+   "B": "heterotrophic C chemosynthetic",
+   "D": "saprophytic Use the diagram below to answer questions 32 and 33"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2002_p49_1.png",
+  "images": [
+   "biology/2002_p49_1.png"
+  ]
+ },
+ {
+  "id": "biology-2002-32",
+  "subject": "biology",
+  "year": 2002,
+  "number": 32,
+  "question": "Which of the following statements is correct about the experiment?",
+  "options": {
+   "A": "The flask must be of the conical type",
+   "B": "Caustic soda can be replaced with distilled water",
+   "C": "The enclosed leaf will lose its green colour",
+   "D": "The leaves outside the flask serve as control"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-33",
+  "subject": "biology",
+  "year": 2002,
+  "number": 33,
+  "question": "The experimental set-up can be used to demonstrate that",
+  "options": {
+   "A": "light is necessary for photosynthesis",
+   "B": "oxygen is necessary for photosynthesis",
+   "C": "photosynthesis occurs in the leaves of plants",
+   "D": "carbon (IV) oxide is necessary for photosynthesis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-34",
+  "subject": "biology",
+  "year": 2002,
+  "number": 34,
+  "question": "When a marine fish was taken from the ocean and put in a tank of fresh water, it died after a short period because",
+  "options": {
+   "A": "the tank was too small compared to the large ocean",
+   "B": "the body cells of the fish swelled and burst as a result of the hypotonic fresh water",
+   "C": "the body cells of the fish shrank as their sap was hypertonic to be fresh water",
+   "D": "there was no food in the tank, so the fish starved"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-35",
+  "subject": "biology",
+  "year": 2002,
+  "number": 35,
+  "question": "Which of the following pairs of organs is located in the anterior half of the mammalian body cavity?",
+  "options": {
+   "A": "Kidneys and lungs",
+   "B": "Heart and ovary",
+   "C": "Lungs and hearts",
+   "D": "Kidneys and heart"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-36",
+  "subject": "biology",
+  "year": 2002,
+  "number": 36,
+  "question": "The mode of nutrition exhibited by a tapeworm is",
+  "options": {
+   "A": "symbiotic",
+   "B": "saprophytic C parasitic",
+   "D": "holozoic"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-37",
+  "subject": "biology",
+  "year": 2002,
+  "number": 37,
+  "question": "The organ located within the duodental loop in the mammal is the",
+  "options": {
+   "A": "spleen",
+   "B": "pancreas",
+   "C": "liver",
+   "D": "gall bladder"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-38",
+  "subject": "biology",
+  "year": 2002,
+  "number": 38,
+  "question": "In which of the following groups of fruits is the pericarp inseparable from the seed coat?",
+  "options": {
+   "A": "Nut",
+   "B": "Follicle",
+   "C": "Cypsela",
+   "D": "Cryopsis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-39",
+  "subject": "biology",
+  "year": 2002,
+  "number": 39,
+  "question": "A person that is obese must avoid meals containing",
+  "options": {
+   "A": "carrots and oranges",
+   "B": "margarine and butter",
+   "C": "beef and beans",
+   "D": "rice and yam"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-40",
+  "subject": "biology",
+  "year": 2002,
+  "number": 40,
+  "question": "Tissue respiration is important for the",
+  "options": {
+   "A": "absorption of oxygen into the alveoli",
+   "B": "release of carbon (IV) oxide into the lungs",
+   "C": "release of energy for body use",
+   "D": "exhalation of carbon (IV) oxide from lungs. Use the diagram below to answer question 41 and 42"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2002_p50_2.png",
+  "images": [
+   "biology/2002_p50_2.png"
+  ]
+ },
+ {
+  "id": "biology-2002-41",
+  "subject": "biology",
+  "year": 2002,
+  "number": 41,
+  "question": "the",
+  "options": {
+   "A": "I",
+   "B": "II",
+   "C": "III",
+   "D": "IV"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-42",
+  "subject": "biology",
+  "year": 2002,
+  "number": 42,
+  "question": "The structure labelled I represents the",
+  "options": {
+   "A": "phloem",
+   "B": "xylem",
+   "C": "cortex",
+   "D": "pericycle Use the diagram below to answer questions 43 and 44"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2002_p50_1.png",
+  "images": [
+   "biology/2002_p50_1.png"
+  ]
+ },
+ {
+  "id": "biology-2002-43",
+  "subject": "biology",
+  "year": 2002,
+  "number": 43,
+  "question": "The gland usually found in the position labelled is the",
+  "options": {
+   "A": "adrenal",
+   "B": "thyroid",
+   "C": "pancreatic",
+   "D": "pituitary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-44",
+  "subject": "biology",
+  "year": 2002,
+  "number": 44,
+  "question": "A hormone secreted at IV serves to",
+  "options": {
+   "A": "facilitate the development of facial hairs",
+   "B": "raise the level of calcium ions in the blood",
+   "C": "lower blood glucose level",
+   "D": "make the body react to emergencies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-45",
+  "subject": "biology",
+  "year": 2002,
+  "number": 45,
+  "question": "To select and retain the desirable trait of large body size with farmer has observed in his herd, the farmer needs to",
+  "options": {
+   "A": "feed the animals in the herd with more food",
+   "B": "cross-breed his animals with a different herd",
+   "C": "inbreed the animals in his herd",
+   "D": "prevent diseases in his herd"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-46",
+  "subject": "biology",
+  "year": 2002,
+  "number": 46,
+  "question": "In a population of living things, the parameters of size, height, weight and colour are example of",
+  "options": {
+   "A": "discontinuous variations",
+   "B": "continuous variations",
+   "C": "physiological variations",
+   "D": "non-heritable variations"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-47",
+  "subject": "biology",
+  "year": 2002,
+  "number": 47,
+  "question": "If XN is the dominant allele for normal vision and Xⁿ the recessive allele for colour-blindness, a boy with the genotype YXⁿwill",
+  "options": {
+   "A": "have normal vision",
+   "B": "be colour-blind",
+   "C": "be totally blind",
+   "D": "be a carrier of colour-blindness"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-48",
+  "subject": "biology",
+  "year": 2002,
+  "number": 48,
+  "question": "The first four children of a couple were all girls. The probability that the fifth will also be a girl is",
+  "options": {
+   "A": "1/5",
+   "B": "¼",
+   "C": "1/3",
+   "D": "½"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-49",
+  "subject": "biology",
+  "year": 2002,
+  "number": 49,
+  "question": "Genetic counselling is important when a marriage is planned between a",
+  "options": {
+   "A": "Rh woman and Rh man",
+   "B": "Rh woman and Rh man",
+   "C": "Rh woman and Rh man",
+   "D": "Rh woman and Rh man"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-50",
+  "subject": "biology",
+  "year": 2002,
+  "number": 50,
+  "question": "What proportion of the offspring of a cross between two heterozygous parents will exhibit the recessive condition phenotypically?",
+  "options": {
+   "A": "¼",
+   "B": "½",
+   "C": "¾",
+   "D": "4/4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

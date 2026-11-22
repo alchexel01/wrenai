@@ -1,0 +1,885 @@
+[
+ {
+  "id": "biology-1988-1",
+  "subject": "biology",
+  "year": 1988,
+  "number": 1,
+  "question": "The function of ribosomes in cells is",
+  "options": {
+   "A": "protein synthesis",
+   "B": "starch synthesis",
+   "C": "transport of materials",
+   "D": "lipid storage."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-2",
+  "subject": "biology",
+  "year": 1988,
+  "number": 2,
+  "question": "Which of the following structures is common to Euglena, white blood cell and Amoeba?",
+  "options": {
+   "A": "Vacuole",
+   "B": "Cell wall",
+   "C": "Cilia",
+   "D": "Cell membrane."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-3",
+  "subject": "biology",
+  "year": 1988,
+  "number": 3,
+  "question": "The term ‘Thallophyta’ refers to",
+  "options": {
+   "A": "ferns and mosses",
+   "B": "algae and fungi",
+   "C": "mosses and liverworts D. fungi and ferns."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-4",
+  "subject": "biology",
+  "year": 1988,
+  "number": 4,
+  "question": "The following organisms arehermaphrodites EXCEPT",
+  "options": {
+   "A": "snail",
+   "B": "taenia",
+   "C": "schistosoma",
+   "D": "earthworm."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-5",
+  "subject": "biology",
+  "year": 1988,
+  "number": 5,
+  "question": "Parasitic forms are NOT found among",
+  "options": {
+   "A": "platyhelminthes",
+   "B": "nematodes",
+   "C": "moluscs",
+   "D": "annelids."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-6",
+  "subject": "biology",
+  "year": 1988,
+  "number": 6,
+  "question": "Which of the following sets of organism represents the correct trend from simple to complex structural organization? 1 Mollusca 2 Platyhelminthes 3 Nematoda 4 Protozoa",
+  "options": {
+   "A": "4 1 2 3",
+   "B": "4 3 2 1",
+   "C": "4 2 1 3",
+   "D": "4 2 3 1."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-7",
+  "subject": "biology",
+  "year": 1988,
+  "number": 7,
+  "question": "Spirogyra, Euglena and Chlamydomonas share many characteristics EXCEPT",
+  "options": {
+   "A": "nutrition",
+   "B": "reproduction",
+   "C": "mobility",
+   "D": "irritability."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-8",
+  "subject": "biology",
+  "year": 1988,
+  "number": 8,
+  "question": "The prothallus of a fern is equivalent to the gemaetophyte generation of a moss because it",
+  "options": {
+   "A": "is inconspicuous",
+   "B": "has rhizoids",
+   "C": "bears sexual organs D. is multicellular."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-9",
+  "subject": "biology",
+  "year": 1988,
+  "number": 9,
+  "question": "What is the function of trichocyst in Paramecium?",
+  "options": {
+   "A": "Movement",
+   "B": "Defence",
+   "C": "Excretion",
+   "D": "Reproduction. Use the diagram below to answer quetions 10 and 11"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1988_p15_1.png",
+  "images": [
+   "biology/1988_p15_1.png"
+  ]
+ },
+ {
+  "id": "biology-1988-11",
+  "subject": "biology",
+  "year": 1988,
+  "number": 11,
+  "question": "Which stage is found in the muscle of an infected pig?",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-12",
+  "subject": "biology",
+  "year": 1988,
+  "number": 12,
+  "question": "The long and coiled intestine of a young tadpole is an adaptation to its",
+  "options": {
+   "A": "herbivorous diet",
+   "B": "carnivorous diet",
+   "C": "aquatic habitat D. insectivorous habit."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-13",
+  "subject": "biology",
+  "year": 1988,
+  "number": 13,
+  "question": "Lung hooks are used for respiration in",
+  "options": {
+   "A": "spiders",
+   "B": "insects",
+   "C": "millipedes",
+   "D": "snails."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-14",
+  "subject": "biology",
+  "year": 1988,
+  "number": 14,
+  "question": "Insects and millipede have many features in common EXCEPT",
+  "options": {
+   "A": "exoskeleton",
+   "B": "jointed, appendages",
+   "C": "Compound eyes",
+   "D": "segmented body"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-15",
+  "subject": "biology",
+  "year": 1988,
+  "number": 15,
+  "question": "The major function of the swim-bladder in fishes is",
+  "options": {
+   "A": "breathing",
+   "B": "buoyancy",
+   "C": "swimming",
+   "D": "diving"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-16",
+  "subject": "biology",
+  "year": 1988,
+  "number": 16,
+  "question": "Which of the following statement gives the BEST description of bark?",
+  "options": {
+   "A": "Tissues outside the vascular cambium",
+   "B": "Cork-like tissues found only in stems",
+   "C": "Brown tissues never found in primary growth",
+   "D": "Cork-like tissues of old trees."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-17",
+  "subject": "biology",
+  "year": 1988,
+  "number": 17,
+  "question": "In the transverse section of the leaf of maize vascular bundles are arranged in",
+  "options": {
+   "A": "a row",
+   "B": "one circle",
+   "C": "alternate positions",
+   "D": "two circles."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-18",
+  "subject": "biology",
+  "year": 1988,
+  "number": 18,
+  "question": "If an animal has diastema, it would NOT possess",
+  "options": {
+   "A": "incisors",
+   "B": "cannines",
+   "C": "premolars",
+   "D": "molars"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-19",
+  "subject": "biology",
+  "year": 1988,
+  "number": 19,
+  "question": "If the gall bladder of a mammal is damaged, which of the following will be most seriously affected?",
+  "options": {
+   "A": "Glycolysis",
+   "B": "Digestion of starch",
+   "C": "Digestion of fats and oils D. Digestion of proteins."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-20",
+  "subject": "biology",
+  "year": 1988,
+  "number": 20,
+  "question": "Which of the following will be first digested if ingested at the same time?",
+  "options": {
+   "A": "Cooked beans",
+   "B": "Cooked rice",
+   "C": "Cod liver oil",
+   "D": "Roasted beef."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-21",
+  "subject": "biology",
+  "year": 1988,
+  "number": 21,
+  "question": "If the phloem of a healthy plant is killed by heat treatment the",
+  "options": {
+   "A": "upward movement of salts will cease",
+   "B": "food manufacture in the leaves will accumulate C. whole plant will die immediately D. leaves of the plant will become yellow."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-22",
+  "subject": "biology",
+  "year": 1988,
+  "number": 22,
+  "question": "In the mammalian respiratory system, exchange of gases occurs in the",
+  "options": {
+   "A": "lungs",
+   "B": "bronchi",
+   "C": "bronchioles",
+   "D": "alveoli."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-23",
+  "subject": "biology",
+  "year": 1988,
+  "number": 23,
+  "question": "The main waste products formed in plant are",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-24",
+  "subject": "biology",
+  "year": 1988,
+  "number": 24,
+  "question": "In the kidney the malpighian corpuscle is located in the A medulla B. helium C. cortex D. pelvis.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-25",
+  "subject": "biology",
+  "year": 1988,
+  "number": 25,
+  "question": "The skin, through the sweat glads, functions as A an excretory organ B. a respiratory organ C. a sensory organ D. a protective organ.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-26",
+  "subject": "biology",
+  "year": 1988,
+  "number": 26,
+  "question": "Parenchyma cells serve as supporting tissue when they",
+  "options": {
+   "A": "contain chloroplasts",
+   "B": "have crystals",
+   "C": "become flaccid",
+   "D": "become turgid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-27",
+  "subject": "biology",
+  "year": 1988,
+  "number": 27,
+  "question": "Taxism differs from tropism because",
+  "options": {
+   "A": "the whole organism is affected",
+   "B": "it is a directional movement C. it is a response to multi-directional stimuli D. part of the organism is affected."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-28",
+  "subject": "biology",
+  "year": 1988,
+  "number": 28,
+  "question": "A dry dehiscent fruit which breaks up into one seeded parts is a",
+  "options": {
+   "A": "schizocarp",
+   "B": "capsule",
+   "C": "follicle",
+   "D": "legume."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-29",
+  "subject": "biology",
+  "year": 1988,
+  "number": 29,
+  "question": "Airspaces are characteristic of seeds or fruits dispersed",
+  "options": {
+   "A": "birds",
+   "B": "water",
+   "C": "wind",
+   "D": "explosive mechanism."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-30",
+  "subject": "biology",
+  "year": 1988,
+  "number": 30,
+  "question": "In vegetative propagation, which of the following requires part of another plant to develop?",
+  "options": {
+   "A": "Scion",
+   "B": "Bulb",
+   "C": "Rhizome",
+   "D": "Sucker"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-31",
+  "subject": "biology",
+  "year": 1988,
+  "number": 31,
+  "question": "Which of these plant groups are normally propagated by asexual means? A Banana, yam, pineapple and cassava B. Yam, cassava , rubber and banana C. Yam, cassava, orange and banana, D. Banana, cassava, coffee and pineapple.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-32",
+  "subject": "biology",
+  "year": 1988,
+  "number": 32,
+  "question": "In a mammal, the placenta performs functions similar to those of the",
+  "options": {
+   "A": "lungs, kidneys and digestive system",
+   "B": "lungs, heart and nervous system C. liver, intestines and reproductive system D. intestines, heart and digestive system."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-33",
+  "subject": "biology",
+  "year": 1988,
+  "number": 33,
+  "question": "The radicle of a bean seedling grows most rapidly in the region",
+  "options": {
+   "A": "of the root tip",
+   "B": "just above the root tip",
+   "C": "just around the root tip D. just below the root tip."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-34",
+  "subject": "biology",
+  "year": 1988,
+  "number": 34,
+  "question": "The main function of the choroid is",
+  "options": {
+   "A": "protection of the eye ball",
+   "B": "transmission of light",
+   "C": "supply of nutrients to tissues of the eye",
+   "D": "converging light."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-35",
+  "subject": "biology",
+  "year": 1988,
+  "number": 35,
+  "question": "What part of the central nervous system is concerned with answering an examination question?",
+  "options": {
+   "A": "Cerebrum",
+   "B": "Cerebellum",
+   "C": "Medulla oblongata",
+   "D": "Spinal cord."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-36",
+  "subject": "biology",
+  "year": 1988,
+  "number": 36,
+  "question": "If a dark-skinned woman (Bb) marries an albino man (bb) and they have four children, how many of the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-37",
+  "subject": "biology",
+  "year": 1988,
+  "number": 37,
+  "question": "A red - coloured flower when crossed with a white- coloured one produced pink flowers. This is an example of",
+  "options": {
+   "A": "complete dominance",
+   "B": "blending inheritance",
+   "C": "interaction of genes",
+   "D": "back crossing."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-38",
+  "subject": "biology",
+  "year": 1988,
+  "number": 38,
+  "question": "The turbidity of a pond can be measured using the",
+  "options": {
+   "A": "anaemometer",
+   "B": "secchi disc",
+   "C": "theodolite",
+   "D": "hydrometer."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-39",
+  "subject": "biology",
+  "year": 1988,
+  "number": 39,
+  "question": "The most important substances necessary for the maintenance of life are carbon , oxygen",
+  "options": {
+   "A": "hydrogen , soil and enzymes",
+   "B": "hydrogen, salt and water C. nitrogen, salt and soil",
+   "D": "nitrogen, salt and water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-40",
+  "subject": "biology",
+  "year": 1988,
+  "number": 40,
+  "question": "If an organism obtains its food by means of haustoria, it is said to be",
+  "options": {
+   "A": "holophytic",
+   "B": "heterophytic",
+   "C": "Saprophytic",
+   "D": "Parasitic."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-41",
+  "subject": "biology",
+  "year": 1988,
+  "number": 41,
+  "question": "Which of the following relationship involves only one organism?",
+  "options": {
+   "A": "Saprophytism",
+   "B": "Commensalism",
+   "C": "Parasitism",
+   "D": "Symbiosis."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-42",
+  "subject": "biology",
+  "year": 1988,
+  "number": 42,
+  "question": "Which of the following has the greatest influence on the distribution of animals in marine and fresh water habitats?",
+  "options": {
+   "A": "pH.",
+   "B": "Salinity",
+   "C": "Water current",
+   "D": "Turbidity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-43",
+  "subject": "biology",
+  "year": 1988,
+  "number": 43,
+  "question": "Which of these groups of animals is likely to be found in fresh water?",
+  "options": {
+   "A": "Blood worm, pond skater and scorpion",
+   "B": "Blood worm, pond skater and dragonfly larva C. Pond skates scorpion and dragonfly larva. D. Pond skater, blood worm and ant-lion."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-44",
+  "subject": "biology",
+  "year": 1988,
+  "number": 44,
+  "question": "One of the characteristics of plant in the savanna is the",
+  "options": {
+   "A": "possession of thin, smooth barks",
+   "B": "possession of large tap roots C. production of seedlings on mother plant D. possession of thick, flaky barks."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-45",
+  "subject": "biology",
+  "year": 1988,
+  "number": 45,
+  "question": "Which of the following disease can be contracted areas with fast flowing rivers?",
+  "options": {
+   "A": "Schistosomiasis",
+   "B": "Elephantiasis",
+   "C": "Syphilis",
+   "D": "Onchocerciasis."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-46",
+  "subject": "biology",
+  "year": 1988,
+  "number": 46,
+  "question": "Which of the following causes pollution?",
+  "options": {
+   "A": "Consumption of canned drinks.",
+   "B": "The addition of fertilizer to farmland C. Respiration of living organisms D. Burning of refuse."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-47",
+  "subject": "biology",
+  "year": 1988,
+  "number": 47,
+  "question": "The mineral nutrient that is most bound to the soil is",
+  "options": {
+   "A": "phosphorus",
+   "B": "calcium",
+   "C": "iron",
+   "D": "potassium."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-48",
+  "subject": "biology",
+  "year": 1988,
+  "number": 48,
+  "question": "The mineral nutrient that easily gets leached out of",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-49",
+  "subject": "biology",
+  "year": 1988,
+  "number": 49,
+  "question": "Most commercial fertilizers are rich in salts of",
+  "options": {
+   "A": "Sodium, iron and calcium",
+   "B": "nitrogen, phosphorus and potassium C. iron, copper and nitrogen D. calcium, sodium and phosphorus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1988-50",
+  "subject": "biology",
+  "year": 1988,
+  "number": 50,
+  "question": "Dead plants and animals are decomposed by bacteria and fungi into",
+  "options": {
+   "A": "butterfly",
+   "B": "grasshopper",
+   "C": "mosquito",
+   "D": "housefly."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,894 @@
+[
+ {
+  "id": "biology-1998-1",
+  "subject": "biology",
+  "year": 1998,
+  "number": 1,
+  "question": "The nucleus is considered the control organelle of a cell because it",
+  "options": {
+   "A": "contains the genetic material",
+   "B": "contains the nuclear sap C. is bounded by the nuclear membrane",
+   "D": "is located at the centre of the cell."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-2",
+  "subject": "biology",
+  "year": 1998,
+  "number": 2,
+  "question": "The procaryotic cell type is characterized by a",
+  "options": {
+   "A": "complex cytoplasm in which different regions are poorly defined .",
+   "B": "localization of differ regions of the cell into tissues.",
+   "C": "collection of organelles and macromolecular complexes",
+   "D": "simple cytoplasm with well-defined regions."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-3",
+  "subject": "biology",
+  "year": 1998,
+  "number": 3,
+  "question": "The natural tendency of organism as they evolve is to",
+  "options": {
+   "A": "decrease in size",
+   "B": "increase in number",
+   "C": "develop specialized structures D. feed indiscriminately."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-4",
+  "subject": "biology",
+  "year": 1998,
+  "number": 4,
+  "question": "In snails, the hard calcareous shells are secreted by the",
+  "options": {
+   "A": "radula",
+   "B": "ctendium",
+   "C": "pneumostome",
+   "D": "mantle Use the diagram below to answer questions 5 and 6."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1998_p38_1.png",
+  "images": [
+   "biology/1998_p38_1.png"
+  ]
+ },
+ {
+  "id": "biology-1998-5",
+  "subject": "biology",
+  "year": 1998,
+  "number": 5,
+  "question": "The structure labelled I is formed as a result of the fusion of",
+  "options": {
+   "A": "two pairs of nuclei",
+   "B": "several pairs of nucleis",
+   "C": "a pair of nuclei",
+   "D": "two pairs of nucleoli."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-6",
+  "subject": "biology",
+  "year": 1998,
+  "number": 6,
+  "question": "The special name of the part labelled II is",
+  "options": {
+   "A": "gemetangium",
+   "B": "hypha",
+   "C": "suspensor",
+   "D": "zygospore"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-7",
+  "subject": "biology",
+  "year": 1998,
+  "number": 7,
+  "question": "The ability of the cockroach to live in cracks and crevices is enhanced by the possession of",
+  "options": {
+   "A": "wings and segmented body",
+   "B": "compound eyes",
+   "C": "claws on the legs",
+   "D": "dorso-ventrally flattened body."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-9",
+  "subject": "biology",
+  "year": 1998,
+  "number": 9,
+  "question": "The structures that prevent food particles from escaping through the fish gills are called gill",
+  "options": {
+   "A": "arches",
+   "B": "filaments",
+   "C": "rakers",
+   "D": "lamellae."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-10",
+  "subject": "biology",
+  "year": 1998,
+  "number": 10,
+  "question": "A distinguishing feature of mammals is the possession of",
+  "options": {
+   "A": "skin",
+   "B": "scale",
+   "C": "nail",
+   "D": "hair."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-11",
+  "subject": "biology",
+  "year": 1998,
+  "number": 11,
+  "question": "Which of the following structures is capable of producing more tissues in the stem of a herbaceous flowing plant?",
+  "options": {
+   "A": "Epidermis",
+   "B": "Pericycle",
+   "C": "Xylem",
+   "D": "Cambium."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-12",
+  "subject": "biology",
+  "year": 1998,
+  "number": 12,
+  "question": "The manufacture of carbohydrates by plants takes place only in",
+  "options": {
+   "A": "the leaves",
+   "B": "the green stems",
+   "C": "chlorophylous parts D. flowering plants."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-13",
+  "subject": "biology",
+  "year": 1998,
+  "number": 13,
+  "question": "In a water culture experiment, a plant showed poor growth and yellowing of the leaves. These may be due to deficiency of",
+  "options": {
+   "A": "copper",
+   "B": "iron",
+   "C": "magnesium",
+   "D": "calcium."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-14",
+  "subject": "biology",
+  "year": 1998,
+  "number": 14,
+  "question": "In million’s test, when the reagent is added to a protein food item, a white precipitate is produced which turns A blue on heating B. yellow on heating",
+  "options": {
+   "C": "green on heating",
+   "D": "red on heating."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-15",
+  "subject": "biology",
+  "year": 1998,
+  "number": 15,
+  "question": "Regulation of blood sugar level takes place in the",
+  "options": {
+   "A": "pancreas",
+   "B": "ileum",
+   "C": "liver.",
+   "D": "kidney."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-16",
+  "subject": "biology",
+  "year": 1998,
+  "number": 16,
+  "question": "Unicellular organisms transport essential nutrients directly to all parts of their bodies by the process of diffusion because, they have",
+  "options": {
+   "A": "a large volume to surface area ratio",
+   "B": "a large s urface area to volume ratio C. their bodies immersed in the nutrients D. their outer membrane made of cellulose."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-17",
+  "subject": "biology",
+  "year": 1998,
+  "number": 17,
+  "question": "The heat of the adult frog consists of",
+  "options": {
+   "A": "two auricles and two ventricles",
+   "B": "one auricle and one ventiricle B. one auricle and one ventricle",
+   "C": "two ventricles and one auricles",
+   "D": "one ventricle and two auricles."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-18",
+  "subject": "biology",
+  "year": 1998,
+  "number": 18,
+  "question": "In adult mammalian blood, thecells which lack nucleus arethe A The diaphragm and intercostals muscles relax",
+  "options": {
+   "B": "The thoracic cavity increases in volume",
+   "C": "The diaphragm and intercostals muscles contract",
+   "D": "The diaphragm contracts and the intercostals muscles to relax."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-19",
+  "subject": "biology",
+  "year": 1998,
+  "number": 19,
+  "question": "Which of the following movement occur during exhalation?",
+  "options": {
+   "A": "thediaphragm contractsand theintercostals musclesrelax."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-20",
+  "subject": "biology",
+  "year": 1998,
+  "number": 20,
+  "question": "In which of the following groups of animals is the Malpighian tubule found?",
+  "options": {
+   "A": "Lizards, snakes and frogs",
+   "B": "Crickets, houseflies and grasshoppers C. Millipedes, centipedes and scorpions D. Earthworms, roundworms and flatworms."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-21",
+  "subject": "biology",
+  "year": 1998,
+  "number": 21,
+  "question": "Which of the following is not a function of the mammalian skeleton?",
+  "options": {
+   "A": "Protection",
+   "B": "Respiration",
+   "C": "Transportation",
+   "D": "Support. Use the diagram below to answer question 23 and 22."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1998_p39_1.png",
+  "images": [
+   "biology/1998_p39_1.png"
+  ]
+ },
+ {
+  "id": "biology-1998-22",
+  "subject": "biology",
+  "year": 1998,
+  "number": 22,
+  "question": "The ovary represented is",
+  "options": {
+   "A": "half-superior",
+   "B": "inferior",
+   "C": "superior",
+   "D": "half-inferior."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-23",
+  "subject": "biology",
+  "year": 1998,
+  "number": 23,
+  "question": "The corolla is partly represented by",
+  "options": {
+   "A": "I",
+   "B": "II",
+   "C": "III",
+   "D": "IV ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-24",
+  "subject": "biology",
+  "year": 1998,
+  "number": 24,
+  "question": "The most reliable estimate of growth is by measuring changes in",
+  "options": {
+   "A": "length",
+   "B": "volume",
+   "C": "surface area",
+   "D": "dry weight."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-25",
+  "subject": "biology",
+  "year": 1998,
+  "number": 25,
+  "question": "A dry fruit formed from two or more carpels containing several seeds is a",
+  "options": {
+   "A": "follicle",
+   "B": "legume",
+   "C": "capsule",
+   "D": "schizocarp."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-26",
+  "subject": "biology",
+  "year": 1998,
+  "number": 26,
+  "question": "Theoutermost embryonic membranein the mammal is the",
+  "options": {
+   "A": "amnion",
+   "B": "chorion",
+   "C": "allantois.",
+   "D": "yolk sac."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-27",
+  "subject": "biology",
+  "year": 1998,
+  "number": 27,
+  "question": "The small masses of nervous tissues in which many neurons have their nuclei are called",
+  "options": {
+   "A": "dorsal roots",
+   "B": "ventral roots",
+   "C": "ganglia",
+   "D": "synapses."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-28",
+  "subject": "biology",
+  "year": 1998,
+  "number": 28,
+  "question": "A group of organisms of different species living in a particular area is described as a",
+  "options": {
+   "A": "colony",
+   "B": "community",
+   "C": "population",
+   "D": "niche."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-29",
+  "subject": "biology",
+  "year": 1998,
+  "number": 29,
+  "question": "Which of the following is the direct consequence of",
+  "options": {
+   "A": "An increase in biomass",
+   "B": "A decrease in the efficiency of energy conversion C. An increase in the numbers of resulting individuals",
+   "D": "A decrease in the resulting biomass."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-30",
+  "subject": "biology",
+  "year": 1998,
+  "number": 30,
+  "question": "The condition that encourages denitrification is",
+  "options": {
+   "A": "low soil oxygen",
+   "B": "high soil nitrogen",
+   "C": "absence of soil bacteria D. lightning and thunderstorm."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-31",
+  "subject": "biology",
+  "year": 1998,
+  "number": 31,
+  "question": "A freshwater plant such as water lily can solve the problem of buoyancy by the possession of",
+  "options": {
+   "A": "aerenchymarous tissues",
+   "B": "dissected leaves C.. thin cell walls of the epidermis",
+   "D": "water-repelling epidermis."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-32",
+  "subject": "biology",
+  "year": 1998,
+  "number": 32,
+  "question": "The sequence of the biomes in Nigeria from Port Harcourt to Damaturu is",
+  "options": {
+   "A": "estuarine ’! rain forest ’! Guinea savannah ’! Sahel savannah",
+   "B": "rain forest ’! Guinea savannah ’! estuarine ’! desert",
+   "C": "estuarine ’! Guinea savannah ’! rain forest ’! Sahel savannah",
+   "D": "rain forest ’! estuarine ’! Guinea savannah ’! desert."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-33",
+  "subject": "biology",
+  "year": 1998,
+  "number": 33,
+  "question": "Soil micro-organisms are beneficial because of their involvement in",
+  "options": {
+   "A": "photosynthesis",
+   "B": "translocation",
+   "C": "cycling of nutrients D. respiration using soil air."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-34",
+  "subject": "biology",
+  "year": 1998,
+  "number": 34,
+  "question": "Which of the following groups of diseases are associated with water? I Onchocerciasis II Schistosomiasis III. Dracunculiasis IV. Elephantiasis V. Taeniasis.",
+  "options": {
+   "A": "I,II and III",
+   "B": "II, IV and V",
+   "C": "II, III and IV",
+   "D": "I, II and V."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-35",
+  "subject": "biology",
+  "year": 1998,
+  "number": 35,
+  "question": "One of the ways in which body cells differ from gamete cells is in the",
+  "options": {
+   "A": "type of centromeres they contain",
+   "B": "number of chromosome pairs they contain C. type of chromatids they contain D. number of chromosomes they contain."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-36",
+  "subject": "biology",
+  "year": 1998,
+  "number": 36,
+  "question": "In blood transfusion, agglutination occurs when",
+  "options": {
+   "A": "white blood cells from two individuals meet",
+   "B": "two different antibodies meet",
+   "C": "two different antigens meet D. contrasting antigens and antibodies meet. Use the diagram below to answer question 37 and 38. The alternate depletion patterns of mineral resources over time."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1998_p39_2.png",
+  "images": [
+   "biology/1998_p39_2.png"
+  ]
+ },
+ {
+  "id": "biology-1998-37",
+  "subject": "biology",
+  "year": 1998,
+  "number": 37,
+  "question": "The unrestricted pattern is presented by",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-38",
+  "subject": "biology",
+  "year": 1998,
+  "number": 38,
+  "question": "The line that represents efficient recycling combined with stringent conservation is",
+  "options": {
+   "A": "IV",
+   "B": "III",
+   "C": "II",
+   "D": "I."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-39",
+  "subject": "biology",
+  "year": 1998,
+  "number": 39,
+  "question": "After one week of life, the weights of five chicks of the same sex hatched simultaneously from the eggs the same hen and fed on the same diet were 45g, 40g 35g, 33, and 30g. This is an example of",
+  "options": {
+   "A": "growth rate",
+   "B": "natural selection",
+   "C": "variation",
+   "D": "mutation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-40",
+  "subject": "biology",
+  "year": 1998,
+  "number": 40,
+  "question": "The phenotype of an individual can be summed up as the",
+  "options": {
+   "A": "totality of the expressed traits",
+   "B": "individual’s physical appearance C. individual’s entire genetical make-up D. physiological traits of the individual."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-41",
+  "subject": "biology",
+  "year": 1998,
+  "number": 41,
+  "question": "The correct increasing order of size for the cell compoents responsible for heredity is",
+  "options": {
+   "A": "chromosome DNA nucleus gene",
+   "B": "DNA Gene chromosome nucleus",
+   "D": "Chromosome nucleus DNA gene"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-42",
+  "subject": "biology",
+  "year": 1998,
+  "number": 42,
+  "question": "A sex-linked character cannot be passed on directly from",
+  "options": {
+   "A": "father to son",
+   "B": "mother to daughter",
+   "C": "mother to son D. father to daughter."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-43",
+  "subject": "biology",
+  "year": 1998,
+  "number": 43,
+  "question": "The biological association that contributes directly to succession in a community is",
+  "options": {
+   "A": "competition",
+   "B": "predation",
+   "C": "parasitism",
+   "D": "commensalism."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-44",
+  "subject": "biology",
+  "year": 1998,
+  "number": 44,
+  "question": "The group of insects that have mouth parts adapted for both piercing and sucking is",
+  "options": {
+   "A": "cockroaches, aphids and mosquitoes",
+   "B": "aphids, houseflies and moths C. mosquitoes, tsetse flies and aphids D. aphids, beetles and grasshoppers. Use the diagram below to answer questions 45 and 46."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1998_p40_1.png",
+  "images": [
+   "biology/1998_p40_1.png"
+  ]
+ },
+ {
+  "id": "biology-1998-45",
+  "subject": "biology",
+  "year": 1998,
+  "number": 45,
+  "question": "The bird’s bill adapted for fishing is labeled A I B. II C. III D. IV.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-46",
+  "subject": "biology",
+  "year": 1998,
+  "number": 46,
+  "question": "Toes of the feet ending in a sharp, curved hook suitable for holding and tearing are most likely to belong to the bird with the bill in",
+  "options": {
+   "A": "I",
+   "B": "II",
+   "C": "III",
+   "D": "IV."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-47",
+  "subject": "biology",
+  "year": 1998,
+  "number": 47,
+  "question": "In the honey bee colony, the drones are A sterile males with reduced mouth parts B. sterile ales with well-developed mouth parts C. fertile males with reduced mouth parts D. fertile males with well-developed mouth parts.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-48",
+  "subject": "biology",
+  "year": 1998,
+  "number": 48,
+  "question": "In the whistling pine leaves are reduced to brown scale and young stems are green. This is an adaptation for",
+  "options": {
+   "A": "obtaining food",
+   "B": "conserving nutrients",
+   "C": "storing water D. reducing transpiration."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-49",
+  "subject": "biology",
+  "year": 1998,
+  "number": 49,
+  "question": "The best explanation for the theories of natural selection is that A all organisms have equal capacity for survival in their habitats B. organisms have varying capacities for survival in their habitats C. organisms compete or resources and better competitors survive and thrive D. habitats allow only organisms that will not have to complete for survival.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1998-50",
+  "subject": "biology",
+  "year": 1998,
+  "number": 50,
+  "question": "The basic point of impact by changes which produce mutation is the",
+  "options": {
+   "A": "gametes",
+   "B": "chromosomes",
+   "C": "phenotype",
+   "D": "zygote."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

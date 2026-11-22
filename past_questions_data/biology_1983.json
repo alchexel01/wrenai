@@ -1,0 +1,900 @@
+[
+ {
+  "id": "biology-1983-1",
+  "subject": "biology",
+  "year": 1983,
+  "number": 1,
+  "question": "Root hairs are developed from the …",
+  "options": {
+   "A": "root apex",
+   "B": "epidermis of roots",
+   "C": "vascular bundles",
+   "D": "endodermis",
+   "E": "pericycle Use Fig. 1 to answer questions 2-4 Fig 1 represents a cross-section of a part of a dicot plant."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1983_p2_1.png",
+  "images": [
+   "biology/1983_p2_1.png"
+  ]
+ },
+ {
+  "id": "biology-1983-2",
+  "subject": "biology",
+  "year": 1983,
+  "number": 2,
+  "question": "Which of the following features can be used to identify Fig 1?",
+  "options": {
+   "A": "Position of 7",
+   "B": "Its circular nature",
+   "C": "Number of 5",
+   "D": "Presence of 3",
+   "E": "Width of 2."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-3",
+  "subject": "biology",
+  "year": 1983,
+  "number": 3,
+  "question": "The main function of 6 is to",
+  "options": {
+   "A": "separate 5 from 7",
+   "B": "produce more of 5 and 7.",
+   "C": "produce cork",
+   "D": "translocatewater and mineral salt",
+   "E": "conduct carbon dioxide to the other parts."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-4",
+  "subject": "biology",
+  "year": 1983,
+  "number": 4,
+  "question": "The main function of 4 is to",
+  "options": {
+   "A": "surround the inner tissues",
+   "B": "produce cork",
+   "C": "produce root hairs",
+   "D": "produce lateral roots",
+   "E": "produce more of 3."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-5",
+  "subject": "biology",
+  "year": 1983,
+  "number": 5,
+  "question": "In a dicot leaf, guard cells differ from other epidermal cells because they",
+  "options": {
+   "A": "have no definite shape",
+   "B": "lack nuclei",
+   "C": "are smaller",
+   "D": "contain chloroplasts",
+   "E": "lack vacuole."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-6",
+  "subject": "biology",
+  "year": 1983,
+  "number": 6,
+  "question": "Which of the following structures is NOT found in the femaleagama lizard?",
+  "options": {
+   "A": "Pre-anal pads",
+   "B": "Eardrum",
+   "C": "Gular fold",
+   "D": "Nasal scale",
+   "E": "Nuchal crest."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-7",
+  "subject": "biology",
+  "year": 1983,
+  "number": 7,
+  "question": "Herbs differ from shrubs because they",
+  "options": {
+   "A": "do not produce fruits",
+   "B": "are useful to herbalists",
+   "C": "do not become woody",
+   "D": "are onlyannuals",
+   "E": "are only perennials."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-8",
+  "subject": "biology",
+  "year": 1983,
+  "number": 8,
+  "question": "If an isolated living cell is left in distilled water for two hours, it is likely to",
+  "options": {
+   "A": "lose some of its water to the surrounding water",
+   "B": "lose all of its water to the surrounding water",
+   "C": "reproduce by binary fission",
+   "D": "become more turgid.",
+   "E": "die due to excess water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-10",
+  "subject": "biology",
+  "year": 1983,
+  "number": 10,
+  "question": "Which of the following elements are necessary for the formation ofchlorophyll in a plant?",
+  "options": {
+   "A": "Magnesium and iron",
+   "B": "Calcium and potassium",
+   "C": "Calcium and sulphur",
+   "D": "Potassium and sulphur",
+   "E": "Phosphorus and potassium."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-11",
+  "subject": "biology",
+  "year": 1983,
+  "number": 11,
+  "question": "Which of the following statements is NOT true of mammalian erythrocytes?",
+  "options": {
+   "A": "They have haemoglobin",
+   "B": "Theyappear yellow when looked at singly C. They are disc-shaped",
+   "D": "The cells are more numerous than leucocytes",
+   "E": "Theyhave nuclei at maturity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-12",
+  "subject": "biology",
+  "year": 1983,
+  "number": 12,
+  "question": "In woody plants, gases and water vapour are transported across the stems by the",
+  "options": {
+   "A": "xylem fibres",
+   "B": "medullary fibres",
+   "C": "medullaryrays",
+   "D": "phloemfibres",
+   "E": "phloem parenchyma."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-13",
+  "subject": "biology",
+  "year": 1983,
+  "number": 13,
+  "question": "Which of the following substances is NOT found in urine?",
+  "options": {
+   "A": "Water",
+   "B": "Sodium chloride",
+   "C": "Nitrogenous compounds",
+   "D": "Calcium chloride",
+   "E": "Nitrogenous salts."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-14",
+  "subject": "biology",
+  "year": 1983,
+  "number": 14,
+  "question": "The kidneys of all vertebrates act as osmo regulators. This means that they",
+  "options": {
+   "A": "keep the composition of the plasma constant",
+   "B": "regulate osmotic processes",
+   "C": "Control the volume of blood entering the kidneys D. decrease the osmotic pressure of blood E. increase the osmotic pressure of blood."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-15",
+  "subject": "biology",
+  "year": 1983,
+  "number": 15,
+  "question": "The movement of part of a plant in response to external stimulus of no particular direction is",
+  "options": {
+   "A": "taxism",
+   "B": "tropism C haptotropic movement D nastic movement E. phototropism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-16",
+  "subject": "biology",
+  "year": 1983,
+  "number": 16,
+  "question": "The part of the mammalian brain responsible for maintaining balance is the",
+  "options": {
+   "A": "medulla oblongata",
+   "B": "olfactory lobe",
+   "C": "cerebellum,",
+   "D": "cerebrum",
+   "E": "frontal lobe."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-17",
+  "subject": "biology",
+  "year": 1983,
+  "number": 17,
+  "question": "Fig vertical section of onion bulb. Which of the labelled parts in Fig 2 will develop into a new bulb?",
+  "options": {
+   "A": "1",
+   "B": "4",
+   "C": "2",
+   "D": "3",
+   "E": "5."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1983_p2_2.png",
+  "images": [
+   "biology/1983_p2_2.png"
+  ]
+ },
+ {
+  "id": "biology-1983-19",
+  "subject": "biology",
+  "year": 1983,
+  "number": 19,
+  "question": "Groundnut is not really a ‘nut’ in the biological sense because",
+  "options": {
+   "A": "it is harvested from inside the ground",
+   "B": "its pericarp is not hard and tough. C. the fruit is succulent",
+   "E": "it is an achene."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-20",
+  "subject": "biology",
+  "year": 1983,
+  "number": 20,
+  "question": "What type of fruit is formed from a single flower having several free carpels?",
+  "options": {
+   "A": "multiplefruit",
+   "B": "Simplefruit",
+   "C": "Aggregate fruit",
+   "D": "Dehiscent fruit",
+   "E": "Indehiscent fruit."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-21",
+  "subject": "biology",
+  "year": 1983,
+  "number": 21,
+  "question": "A 28g soil sample was heated to a constant weight of 24g. When further heated to red hot and cooled, it weighed 18g. What is the percentage of hurmus in the soil?",
+  "options": {
+   "A": "22.2",
+   "B": "55.6",
+   "C": "75.0",
+   "D": "25.9",
+   "E": "35.7."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-22",
+  "subject": "biology",
+  "year": 1983,
+  "number": 22,
+  "question": "Which of the following diseases is NOT caused by a virus?",
+  "options": {
+   "A": "Rinderpest",
+   "B": "Maize rust",
+   "C": "Newcastle disease",
+   "D": "Swine fever",
+   "E": "Cassava mosaic disease."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-23",
+  "subject": "biology",
+  "year": 1983,
+  "number": 23,
+  "question": "A centipede differs from a millipede by its",
+  "options": {
+   "A": "colour",
+   "B": "numerous abdominal segments",
+   "C": "paired legs on each abdominal segment",
+   "D": "poison claws",
+   "E": "cylindrical body."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-24",
+  "subject": "biology",
+  "year": 1983,
+  "number": 24,
+  "question": "An organism having one pair of identical genes is",
+  "options": {
+   "A": "a heterozygote",
+   "B": "a hybrid",
+   "C": "an allelomorph",
+   "D": "a homozygote",
+   "E": "a diploid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-25",
+  "subject": "biology",
+  "year": 1983,
+  "number": 25,
+  "question": "Plants which can survive in places where the water supply is limited are A .bryophytes B.mesophytes C. xerophytes D.hydrophytes E. pteridophytes.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-26",
+  "subject": "biology",
+  "year": 1983,
+  "number": 26,
+  "question": "Banana, plantain and pineapple can be grouped together because they",
+  "options": {
+   "A": "produce small seeds",
+   "B": "are multiple fruits",
+   "C": "produce suckers",
+   "D": "haverunners",
+   "E": "have bulbils."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-27",
+  "subject": "biology",
+  "year": 1983,
+  "number": 27,
+  "question": "One disease NOT caused directly by bacteria is",
+  "options": {
+   "A": "malaria",
+   "B": "tuberculosis",
+   "C": "pneumonia",
+   "D": "tetanus",
+   "E": "cholera."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-28",
+  "subject": "biology",
+  "year": 1983,
+  "number": 28,
+  "question": "In what order do the following structures develop during the metamorphosis of thetoad? 1. External gills 2. Internal gills 3. Forelimbs 4. Hindlimbs 5. Mouth.",
+  "options": {
+   "A": "1 2 3 4 5 B.1 5 2 4 3",
+   "C": "1 3 4 5",
+   "D": "5 3 4 1 2",
+   "E": "54 32 1."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-29",
+  "subject": "biology",
+  "year": 1983,
+  "number": 29,
+  "question": "The dental formular i 3/3: c 1/1: pm4/4: m2/3 = 42 represents that of a",
+  "options": {
+   "A": "rabbit",
+   "B": "full grown man",
+   "C": "young child",
+   "D": "dog",
+   "E": "sheep."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-30",
+  "subject": "biology",
+  "year": 1983,
+  "number": 30,
+  "question": "Which of the following statements is NOT true of insectivorous plants?",
+  "options": {
+   "A": "They obtain part of their food by trapping and feeding on insects",
+   "B": "Theyattract insects simply because of pollination.",
+   "C": "They can grow in soils poor in nitrogenous salts.",
+   "D": "They can supplement the nitrogen supply by feeding on insects",
+   "E": "Examples include butterworts, sundews and pitcher plants."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-32",
+  "subject": "biology",
+  "year": 1983,
+  "number": 32,
+  "question": "Starting from the skull end, the vertebrae are arranged in the following order:",
+  "options": {
+   "A": "axis, atlas, cervical, thoracic and limbar",
+   "B": "atlas, cervical, axis, thoracic and lumbar",
+   "C": "atlas, axis, thoracic, cervical and lumbar",
+   "D": "atlas, axis, cervical, thoracic and lumbar",
+   "E": "atlas, thoracic, cervical axis and lumbar."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-33",
+  "subject": "biology",
+  "year": 1983,
+  "number": 33,
+  "question": "Which of the following diseases could be exclusively associated with a river basin?",
+  "options": {
+   "A": "Malaria",
+   "B": "Syphilis",
+   "C": "Onchocerciasis",
+   "D": "Cholera",
+   "E": "Poliomyelitis."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-34",
+  "subject": "biology",
+  "year": 1983,
+  "number": 34,
+  "question": "Which of the following represents the evolutionary sequence in these plants? 1. Flowering plants, 2. Ferns, 3. Mosses, 4. Algae, 5. Conifers.",
+  "options": {
+   "A": "21435",
+   "B": "54321",
+   "C": "24513",
+   "D": "32451 E. 43251"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-35",
+  "subject": "biology",
+  "year": 1983,
+  "number": 35,
+  "question": "Which of the following will NOT allow osmosis to take place?",
+  "options": {
+   "A": "pig’s bladder",
+   "B": "Cellophane",
+   "C": "Parchment paper",
+   "D": "Transparent polythene",
+   "E": "Cow’s bladder."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-36",
+  "subject": "biology",
+  "year": 1983,
+  "number": 36,
+  "question": "Which of the following statements on the mammalian circulatory system is Not true?",
+  "options": {
+   "A": "Blood in the pulmonary artery is richer in oxygen content than blood in the pulmonary vein",
+   "B": "The blood in the hepatic portal vein is the richest in food substances. C. Blood flow is controlled by valves in the veins D. Arteries are generally thicker and larger than veins. E. Fibrin helpsin the formation of blood clot."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-37",
+  "subject": "biology",
+  "year": 1983,
+  "number": 37,
+  "question": "In a positive phototropic response of a coleoptile, the region of greatest curvature is brought about by the",
+  "options": {
+   "A": "movement of auxins away from theregion of curvature, B. even distribution ofauxins in all parts of the coleoptile, C. inhibition of growth byauxins in the region of smaller curvature",
+   "D": "concetrationn of auxins in the region of curvature",
+   "E": "absence of auxins in the coleptile."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-38",
+  "subject": "biology",
+  "year": 1983,
+  "number": 38,
+  "question": "The tuber of cassava is NOT a stem tuber because it",
+  "options": {
+   "A": "is distended with food reserve",
+   "B": "has an aerial shoot portion C. has other structures that could be called roots D. lacks axillarybuds",
+   "E": "has a bark over its stored food."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-39",
+  "subject": "biology",
+  "year": 1983,
+  "number": 39,
+  "question": "The function of the ossicles (maleus, incus and stapes) in the mammalian ear is the",
+  "options": {
+   "A": "transmission of vibrations",
+   "B": "regulation of pressures C. support ofthe inner ear",
+   "D": "maintenance of balance during motion",
+   "E": "secretion ofoil."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-40",
+  "subject": "biology",
+  "year": 1983,
+  "number": 40,
+  "question": "Which of the following instruments is used for determining turbidity of water?",
+  "options": {
+   "A": "Thermometer",
+   "B": "Secchi Disc",
+   "C": "Rain gauge monocot plants?",
+   "D": "Floral parts arranged in threes,",
+   "E": "Periath is usually insignifdicant"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-42",
+  "subject": "biology",
+  "year": 1983,
+  "number": 42,
+  "question": "Which sequence represnts the correct order of organism in a food chain? 1. Toad, 2.Mucuna, 3. Grasshopper, 4.Snake, 5.Hawk.",
+  "options": {
+   "A": "5 4 1 3 2",
+   "B": "1 2 3 4 5",
+   "C": "2 1 3 4 5",
+   "D": "2 3 1 5 4",
+   "E": "2 3 1 4 5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-43",
+  "subject": "biology",
+  "year": 1983,
+  "number": 43,
+  "question": "In Rhizopus, carbonhydrate is stored in the form of",
+  "options": {
+   "A": "glucose",
+   "B": "paramylon",
+   "C": "glycogen",
+   "D": "starch",
+   "E": "oil"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-44",
+  "subject": "biology",
+  "year": 1983,
+  "number": 44,
+  "question": "Which of the following statements about the rate of transpiration is INCORRECT? It is",
+  "options": {
+   "A": "dependent on temperature",
+   "B": "affected by changes in light intensity C. unaffected by humidity",
+   "D": "dependent on air movement",
+   "E": "affected by availability of water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-45",
+  "subject": "biology",
+  "year": 1983,
+  "number": 45,
+  "question": "‘Jointed skeleton’ is absent in the",
+  "options": {
+   "A": "cockroach",
+   "B": "spider",
+   "C": "millipede",
+   "D": "snail",
+   "E": "dragon fly."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-46",
+  "subject": "biology",
+  "year": 1983,
+  "number": 46,
+  "question": "Which of the following statements about the definition of man is Incorrect? Man has",
+  "options": {
+   "A": "more molars than incisors",
+   "B": "no diastema",
+   "C": "the same number of teeth on upper and lower jaws",
+   "D": "a total of thirty-two teeth",
+   "E": "a total of six molars."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-47",
+  "subject": "biology",
+  "year": 1983,
+  "number": 47,
+  "question": "When a Spirogyra cell is immersed in a salt solution more concentrated than its cell sap, it",
+  "options": {
+   "A": "remains unchanged",
+   "B": "takes up water and burst",
+   "C": "absorbs a little water",
+   "D": "loses water and shrivel",
+   "E": "becomes turgid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-48",
+  "subject": "biology",
+  "year": 1983,
+  "number": 48,
+  "question": "Urea is produced in the",
+  "options": {
+   "A": "liver,",
+   "B": "Ladder,",
+   "C": "spleen,",
+   "D": "kidneys.",
+   "E": "gall bladder"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-49",
+  "subject": "biology",
+  "year": 1983,
+  "number": 49,
+  "question": "What is the genetic ration of the F₂ generation if members of F generation are allowed to self-pollinate?",
+  "options": {
+   "A": "1tall: 3short",
+   "B": "3 tall:1 short",
+   "C": "1 tall: 1 short",
+   "D": "4 shorts: 0 tall",
+   "E": "4 tall:0 short"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-50",
+  "subject": "biology",
+  "year": 1983,
+  "number": 50,
+  "question": "The path taken by glucose from the ileum to the heart is",
+  "options": {
+   "A": "ileum hepatic portal vein hepatic artery vena cava heart. B. ileum hepatic portal artery hepatic artery venacave heart.",
+   "C": "ileum hepatic portalvein vena cava heart",
+   "D": "ileum hepatic vein vena cava heart.",
+   "E": "ileum hepatic portal vein hepatic vein vena cava heart."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

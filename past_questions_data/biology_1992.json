@@ -1,0 +1,929 @@
+[
+ {
+  "id": "biology-1992-1",
+  "subject": "biology",
+  "year": 1992,
+  "number": 1,
+  "question": "The organelle involved in tissue respiration is the",
+  "options": {
+   "A": "endoplasmic reticulum",
+   "B": "ribosome",
+   "C": "golgi body",
+   "D": "mitochondrion."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-2",
+  "subject": "biology",
+  "year": 1992,
+  "number": 2,
+  "question": "A tissue can best be defined as.",
+  "options": {
+   "A": "an aggregate of similar cells",
+   "B": "an aggregate of cells performing a similar function C. an aggregate of similar cells performing the same function",
+   "D": "a mixtureofdifferentcell typesperforming thesamefunction."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-3",
+  "subject": "biology",
+  "year": 1992,
+  "number": 3,
+  "question": "Which of the following correctly summarizes the life cycle of a fern plant?",
+  "options": {
+   "A": "Spore prothallus thalluss porangium.",
+   "B": "Male and female gamentangia zygospore sporangium spores. C. Spore thallus spermatozoa +"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-4",
+  "subject": "biology",
+  "year": 1992,
+  "number": 4,
+  "question": "A major difference between platyhelminthes and coelenterates is that platyhelminthes",
+  "options": {
+   "A": "are multicellular",
+   "B": "have developed a mesoderm",
+   "C": "reproduce sexually",
+   "D": "reproduce asexually."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-5",
+  "subject": "biology",
+  "year": 1992,
+  "number": 5,
+  "question": "The essential structural difference between Hydra and tapeworm is that while Hydra,",
+  "options": {
+   "A": "has tentacles, tapeworm is parasitic",
+   "B": "is diploblastic, tapeworm is triploblastic",
+   "C": "has a mouth, tapeworm feeds by suckers",
+   "D": "has mesoderm, tapeworm has mesogloea."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-6",
+  "subject": "biology",
+  "year": 1992,
+  "number": 6,
+  "question": "The flowering period of plants in a habitat is determined by the",
+  "options": {
+   "A": "duration of sunlight",
+   "B": "intensity and duration of Use the figure below to answer question 7 and 8."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1992_p25_1.png",
+  "images": [
+   "biology/1992_p25_1.png"
+  ]
+ },
+ {
+  "id": "biology-1992-7",
+  "subject": "biology",
+  "year": 1992,
+  "number": 7,
+  "question": "The structure labeled X is used by the organism in the same way as man uses his",
+  "options": {
+   "A": "oesophagus",
+   "B": "trachea",
+   "C": "stomach",
+   "D": "intestine."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-8",
+  "subject": "biology",
+  "year": 1992,
+  "number": 8,
+  "question": "The structure labelled Y is the",
+  "options": {
+   "A": "food vacuole",
+   "B": "nucleolus",
+   "C": "marcronucleus",
+   "D": "contractile vacuole."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-9",
+  "subject": "biology",
+  "year": 1992,
+  "number": 9,
+  "question": "Which of the following insects undergoes incomplete metamorphosis?",
+  "options": {
+   "A": "mosquito",
+   "B": "Termite",
+   "C": "Housefly",
+   "D": "Moth."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-10",
+  "subject": "biology",
+  "year": 1992,
+  "number": 10,
+  "question": "An onion is a bulb because it",
+  "options": {
+   "A": "has a tuberous stem",
+   "B": "has a reduced stem and thick fleshy leaves C. has adventitious roots D. bears many buds at the nodes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-11",
+  "subject": "biology",
+  "year": 1992,
+  "number": 11,
+  "question": "The flow of air and water in or out of the mesophyll layer of a leaf is controlled by the",
+  "options": {
+   "A": "stomata",
+   "B": "lenticels",
+   "C": "air spaces",
+   "D": "guard cells."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-12",
+  "subject": "biology",
+  "year": 1992,
+  "number": 12,
+  "question": "Fungi are heterotrophic because they",
+  "options": {
+   "A": "have no leaves",
+   "B": "lack roots",
+   "C": "are filamentous",
+   "D": "lack of chlorophyll."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-13",
+  "subject": "biology",
+  "year": 1992,
+  "number": 13,
+  "question": "The major site of photosynthesis in the leaf is the",
+  "options": {
+   "A": "palisade parenchyma",
+   "B": "mesophyll parenchyma",
+   "C": "upper epidermis",
+   "D": "lower epidermis."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-14",
+  "subject": "biology",
+  "year": 1992,
+  "number": 14,
+  "question": "5cm³ dilute sodium hydroxide solution and 5cm³ one percent copper sulphate solution are added to a solution of food specimen. The purple colour which is observed shows the presence of",
+  "options": {
+   "A": "glucose",
+   "B": "starch",
+   "C": "fat",
+   "D": "protein."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-15",
+  "subject": "biology",
+  "year": 1992,
+  "number": 15,
+  "question": "The blood vessel which carries blood from the alimentary canal to the liver is the",
+  "options": {
+   "A": "hepatic artery",
+   "B": "hepatic vein",
+   "C": "hepatic portal vein",
+   "D": "mesenteric artery."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-16",
+  "subject": "biology",
+  "year": 1992,
+  "number": 16,
+  "question": "Gaseous exchange in Aves occurs in the",
+  "options": {
+   "A": "tracheoles",
+   "B": "bronchi",
+   "C": "air sacs",
+   "D": "trachea."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-17",
+  "subject": "biology",
+  "year": 1992,
+  "number": 17,
+  "question": "In the absence of oxygen, the pyruvic acid produced during glycolysis is converted to Co₂ and",
+  "options": {
+   "A": "water B glycerol",
+   "C": "ethanol",
+   "D": "citric acid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-18",
+  "subject": "biology",
+  "year": 1992,
+  "number": 18,
+  "question": "The excretory organ in insect is the",
+  "options": {
+   "A": "kidney",
+   "B": "malpighian tubule",
+   "C": "flame cell",
+   "D": "nephirdium. Use the figure below to answer questions19 and 20."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1992_p25_3.png",
+  "images": [
+   "biology/1992_p25_3.png"
+  ]
+ },
+ {
+  "id": "biology-1992-19",
+  "subject": "biology",
+  "year": 1992,
+  "number": 19,
+  "question": "The structure labelled 5 is the",
+  "options": {
+   "A": "sweat gland",
+   "B": "sebaceous gland",
+   "C": "blood vessel",
+   "D": "nerve fibre."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-20",
+  "subject": "biology",
+  "year": 1992,
+  "number": 20,
+  "question": "Melanin and kerantin are produced in the part labelled",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-21",
+  "subject": "biology",
+  "year": 1992,
+  "number": 21,
+  "question": "Thebone of the neck on which theskull rests is known as the",
+  "options": {
+   "A": "odontoid process",
+   "B": "axis",
+   "C": "atlas",
+   "D": "occipital condyle."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-22",
+  "subject": "biology",
+  "year": 1992,
+  "number": 22,
+  "question": "Which enzymes are contained in the pancreatic juice?",
+  "options": {
+   "A": "Ptyalin, lipase and pepsin",
+   "B": "Maltase, erepsin and trypsin. C. Rennin, surcrase and lipase D. Amylase., lipase and trypsin. Use the figure below to answer questions 23 and 24."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1992_p25_2.png",
+  "images": [
+   "biology/1992_p25_2.png"
+  ]
+ },
+ {
+  "id": "biology-1992-23",
+  "subject": "biology",
+  "year": 1992,
+  "number": 23,
+  "question": "The part labeled 3 is the",
+  "options": {
+   "A": "cartilage",
+   "B": "ligament",
+   "C": "synovial fluid",
+   "D": "bone."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-24",
+  "subject": "biology",
+  "year": 1992,
+  "number": 24,
+  "question": "The function of the part labeled 1 is to",
+  "options": {
+   "A": "secrete a fluid which lubricates the joint",
+   "B": "attach muscles to the bones at the joint C. bend the bones at the joint D. hold the joint in place."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-25",
+  "subject": "biology",
+  "year": 1992,
+  "number": 25,
+  "question": "Double fertilization in higher plant is significant because it ensures the",
+  "options": {
+   "A": "formation of a fertile embryo",
+   "B": "formation of a fertile embryo and the endosperm C. development of the seed",
+   "D": "development of thefruit."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-26",
+  "subject": "biology",
+  "year": 1992,
+  "number": 26,
+  "question": "In mammalian development, thefunction of the yolk is to",
+  "options": {
+   "A": "supply nutrients to the embryo",
+   "B": "acts as the shock- absorber to the foetus C. supply air to the embryo",
+   "D": "facilitate the process of excretion in the foetus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-27",
+  "subject": "biology",
+  "year": 1992,
+  "number": 27,
+  "question": "Hydrogeal germination scharacterized by the",
+  "options": {
+   "A": "emergence of the plumule out of the ground"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-28",
+  "subject": "biology",
+  "year": 1992,
+  "number": 28,
+  "question": "Fruitswhich develop without fertilization of the ovuleare",
+  "options": {
+   "A": "false",
+   "B": "multiple",
+   "C": "aggregate",
+   "D": "parthenocarpic. Use the figure below to answer question 29 and 30"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1992_p26_1.png",
+  "images": [
+   "biology/1992_p26_1.png"
+  ]
+ },
+ {
+  "id": "biology-1992-29",
+  "subject": "biology",
+  "year": 1992,
+  "number": 29,
+  "question": "Which part ofthe curverepresents thefastest rate ofgrowth?",
+  "options": {
+   "A": "K",
+   "B": "L",
+   "C": "M.",
+   "D": "N."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-30",
+  "subject": "biology",
+  "year": 1992,
+  "number": 30,
+  "question": "The grand period of growth is represented by",
+  "options": {
+   "A": "N",
+   "B": "M",
+   "C": "L.",
+   "D": "K."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-31",
+  "subject": "biology",
+  "year": 1992,
+  "number": 31,
+  "question": "Neurons that receive stimuli from the body or internal organs are called",
+  "options": {
+   "A": "sensory neurons",
+   "B": "efferent neurons",
+   "C": "motor neurons",
+   "D": "relay neurons."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-32",
+  "subject": "biology",
+  "year": 1992,
+  "number": 32,
+  "question": "Which of the following is true of a climax community?",
+  "options": {
+   "A": "It persists until the environment or climate changes.",
+   "B": "It changes drastically from one year to the next",
+   "C": "It is the first stage in succession.",
+   "D": "It is made up of the tallest trees and the smallest animals."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-33",
+  "subject": "biology",
+  "year": 1992,
+  "number": 33,
+  "question": "A population is defined as a collection of similar organisms that",
+  "options": {
+   "A": "behave in the same way",
+   "B": "interbreed freely",
+   "C": "are found in the same habitat",
+   "D": "eat the same food."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-34",
+  "subject": "biology",
+  "year": 1992,
+  "number": 34,
+  "question": "In typical predator food chain involving secondary and tertiary consumers, the organisms become progressively",
+  "options": {
+   "A": "smaller and more numerous along the food chain",
+   "B": "equal in number and size along the food chain",
+   "C": "larger and fewer along the food chain",
+   "D": "parasitized along the food chain as consumers get bigger. Use the figure below to answer questions 35 and 36."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1992_p26_2.png",
+  "images": [
+   "biology/1992_p26_2.png"
+  ]
+ },
+ {
+  "id": "biology-1992-35",
+  "subject": "biology",
+  "year": 1992,
+  "number": 35,
+  "question": "Which level of thepyramid has theleast total stored energy?",
+  "options": {
+   "A": "E",
+   "B": "F",
+   "C": "G",
+   "D": "H."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-36",
+  "subject": "biology",
+  "year": 1992,
+  "number": 36,
+  "question": "Which organism in the pyramid functions as a tertiary consumer?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-37",
+  "subject": "biology",
+  "year": 1992,
+  "number": 37,
+  "question": "Mangrove swamp can be found",
+  "options": {
+   "A": "on a sea shore with flat terrain",
+   "B": "where a river meets the sea C. on a mud flat near the sea.",
+   "D": "where two rivers meet."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-38",
+  "subject": "biology",
+  "year": 1992,
+  "number": 38,
+  "question": "Soil with the finest particles is called",
+  "options": {
+   "A": "silt",
+   "B": "clay",
+   "C": "sand",
+   "D": "gravel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-39",
+  "subject": "biology",
+  "year": 1992,
+  "number": 39,
+  "question": "Malaria symptoms are caused by",
+  "options": {
+   "A": "toxins released into the blood as a result of the destruction of red blood cells B. the multiplication ofthe malarial sporozoites in the liver. C. theinvasion of the red blood cells by the trophozoiters",
+   "D": "the development of merozoiters into gametocytes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-40",
+  "subject": "biology",
+  "year": 1992,
+  "number": 40,
+  "question": "Which of the following is true of the children of a haemophilic man who marries a woman that is not haemophilic and does not carry the trait?",
+  "options": {
+   "A": "All their sons will be haemophilic.",
+   "B": "All their daughter will be haemophilic. C. All their daughters will be carriers. D. All theirs sons will be carriers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-41",
+  "subject": "biology",
+  "year": 1992,
+  "number": 41,
+  "question": "A child with blood group genotype different from those of both parents and with a mother of genotype OO, can only have a father of genotype",
+  "options": {
+   "A": "A",
+   "B": "B",
+   "C": "AB",
+   "D": "OO."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-42",
+  "subject": "biology",
+  "year": 1992,
+  "number": 42,
+  "question": "If R and r denote the genes for a character, the offspring of the cross between RR and Rr are",
+  "options": {
+   "A": "RR, 2Rr,rr",
+   "B": "2RR,2rr",
+   "C": "2RR, 2Rr",
+   "D": "4Rr."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-43",
+  "subject": "biology",
+  "year": 1992,
+  "number": 43,
+  "question": "A mammal with red fur and long ears was crossed with another having white fur and short ears. If the offspring had red fur and short ears, then the",
+  "options": {
+   "A": "characters are linked",
+   "B": "characters are not linked",
+   "C": "parents are related",
+   "D": "parents are not related."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-44",
+  "subject": "biology",
+  "year": 1992,
+  "number": 44,
+  "question": "Pawpaw seeds collected from a tree with many desirable agronomic qualities did not give rise to plants of desirable characters as the parent because",
+  "options": {
+   "A": "seeds are not reliable for propagating plants",
+   "B": "uncontrolled out-crossing can introduce unwanted variability C. vegetataive propagation is the best form of reproducion for all crops D. seeds were not physiologically mature at harvest."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-45",
+  "subject": "biology",
+  "year": 1992,
+  "number": 45,
+  "question": "Women do not suffer from colour blindness",
+  "options": {
+   "A": "because the trait is sex-linked",
+   "B": "only men are colour blind C. the genes are recessive and sex-linked",
+   "D": "the genes occur on both the X and Y chromosomes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-46",
+  "subject": "biology",
+  "year": 1992,
+  "number": 46,
+  "question": "The hereditary material of the cell is",
+  "options": {
+   "A": "the R N A",
+   "B": "protein",
+   "C": "the DNA",
+   "D": "carbohydrate ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-47",
+  "subject": "biology",
+  "year": 1992,
+  "number": 47,
+  "question": "An example of plant adaptation to a xerophytic environment is represented by the development of",
+  "options": {
+   "A": "fleshy tissues and reduced leaves",
+   "B": "broad canopy and extensive surface root system C. thick barks and broad leaves",
+   "D": "rough leaves and shallow root system."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-48",
+  "subject": "biology",
+  "year": 1992,
+  "number": 48,
+  "question": "Which of the following factors is LEAST likely to affect the animals living in a fresh water habitat?",
+  "options": {
+   "A": "Turbidity",
+   "B": "Temperature",
+   "C": "pH.",
+   "D": "Salinity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-49",
+  "subject": "biology",
+  "year": 1992,
+  "number": 49,
+  "question": "The theory of natural selection was developed by",
+  "options": {
+   "A": "Lamarck and Darwin",
+   "B": "Darwin and Wallace",
+   "C": "Wallace and Mendel",
+   "D": "Mendel and Lamarck."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1992-50",
+  "subject": "biology",
+  "year": 1992,
+  "number": 50,
+  "question": "Fossil records found in sedimentary rocks offer some explanation for the theory of evolution because",
+  "options": {
+   "A": "the deposits have remains of organisms characteristic of when they were formed",
+   "B": "different strata have remains of organisms of the same kind C. only organisms with strong parts are fossilized D. most animals and plant fossils bear little resemblance to present day living specimens."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

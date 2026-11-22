@@ -1,0 +1,894 @@
+[
+ {
+  "id": "biology-1987-1",
+  "subject": "biology",
+  "year": 1987,
+  "number": 1,
+  "question": "The function of endoplasmic reticulum is",
+  "options": {
+   "A": "protein synthesis",
+   "B": "intracellular transport of materials",
+   "C": "digestion and destruction of foreign bodies",
+   "D": "production of energy from glucose."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-2",
+  "subject": "biology",
+  "year": 1987,
+  "number": 2,
+  "question": "Which of the following features of Euglena is found only in animals?",
+  "options": {
+   "A": "Paramylum granules.",
+   "B": "Flagellum",
+   "C": "Pellicle",
+   "D": "Pyrenoid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-3",
+  "subject": "biology",
+  "year": 1987,
+  "number": 3,
+  "question": "An organism found on a bare rock surface has features of algae and fungi. The organism is",
+  "options": {
+   "A": "an empiphyte",
+   "B": "a lichen",
+   "C": "a bryophyte",
+   "D": "a fern."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-4",
+  "subject": "biology",
+  "year": 1987,
+  "number": 4,
+  "question": "In a plant exhibiting alternation of generations, the diploid multicelluar stage is known as",
+  "options": {
+   "A": "gametophyte",
+   "B": "spermatophyte",
+   "C": "holophyte",
+   "D": "sporophyte."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-5",
+  "subject": "biology",
+  "year": 1987,
+  "number": 5,
+  "question": "A characteristic that distinguishes bryophytes from flowering plants is the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-6",
+  "subject": "biology",
+  "year": 1987,
+  "number": 6,
+  "question": "A good example of a diploblastic organism is",
+  "options": {
+   "A": "Amoeba",
+   "B": "Hydra",
+   "C": "Earthworm",
+   "D": "Roundworm."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-7",
+  "subject": "biology",
+  "year": 1987,
+  "number": 7,
+  "question": "Thefunction of the clitellum in theearthworm is to",
+  "options": {
+   "A": "aid digestion",
+   "B": "prevent desiccation",
+   "C": "assist locomotion D. secrete cocoon."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-8",
+  "subject": "biology",
+  "year": 1987,
+  "number": 8,
+  "question": "The crayfish is an arthropod because",
+  "options": {
+   "A": "its body consists of a cephalothorax and an abdomen",
+   "B": "it has a pair each of antennae and antennules",
+   "C": "every segment of its body carries a pair of appendages",
+   "D": "its body is covered with an exoskeleton made of chitin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-9",
+  "subject": "biology",
+  "year": 1987,
+  "number": 9,
+  "question": "The hypha of Rhizopus is said to be coenocytic because it A does not contain chlorophyll B. has no cross walls",
+  "options": {
+   "C": "is vacuolated",
+   "D": "stores oil globules."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-10",
+  "subject": "biology",
+  "year": 1987,
+  "number": 10,
+  "question": "In most true ferns sporangia are grouped into",
+  "options": {
+   "A": "indusium",
+   "B": "fonds",
+   "C": "prothalli",
+   "D": "sari."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-11",
+  "subject": "biology",
+  "year": 1987,
+  "number": 11,
+  "question": "In the reproduction of mosses, water is essential because",
+  "options": {
+   "A": "they live in moist habitats",
+   "B": "they cannot reproduce without water C. the male gametes must swim to fertilize the ovum D. they produce spores."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-12",
+  "subject": "biology",
+  "year": 1987,
+  "number": 12,
+  "question": "In tapeworm, the two structures that run through the length of the body are the",
+  "options": {
+   "A": "nerve cord and the excretory duct",
+   "B": "sperm duct and the nerve cord C. genital pore and the excretory duct D. sperm duct and the genital pore."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-13",
+  "subject": "biology",
+  "year": 1987,
+  "number": 13,
+  "question": "Which of the following is NOT a characteristic of snails?",
+  "options": {
+   "A": "Bilaleral symmetry",
+   "B": "Chitinousexoskeleton",
+   "C": "Muscular foot",
+   "D": "Soft unsegmented body in a mantle."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-14",
+  "subject": "biology",
+  "year": 1987,
+  "number": 14,
+  "question": "In the life history of a butterfly, destruction of crops is caused by the",
+  "options": {
+   "A": "maggot",
+   "B": "nymph",
+   "C": "caterpillar",
+   "D": "pupa."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-15",
+  "subject": "biology",
+  "year": 1987,
+  "number": 15,
+  "question": "The correct sequence of tissues in the anatomy of a young dicotlydonous stem from the inside to the outside is",
+  "options": {
+   "A": "pith, phloem, cambium, xylem, parenchyma, collencyma and epidermis B. xylem, phloem, cambium, cortex, endodermis, collenchyma and epidermis C. pith, xylem, cambium, phloem, collenchyma, parenchyma and epidermis",
+   "D": "phloem, xylem, cambium, cortex, endodermis, collenchyma and epidermis."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-16",
+  "subject": "biology",
+  "year": 1987,
+  "number": 16,
+  "question": "Secondary thickening is initiated in a dicotyledonous stem by the",
+  "options": {
+   "A": "xylem parenchyma",
+   "B": "secondary phloem",
+   "C": "endodermis",
+   "D": "cambium."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-17",
+  "subject": "biology",
+  "year": 1987,
+  "number": 17,
+  "question": "In demonstrating the importance of mineral elements in the plants, the culture bottle must be darkened to",
+  "options": {
+   "A": "prevent algal growth in culture solution",
+   "B": "allowroot growth",
+   "C": "prevent breakdown of mineral elements D. prevent photosynthesis in the root."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-18",
+  "subject": "biology",
+  "year": 1987,
+  "number": 18,
+  "question": "The vitamin which is important in the formation of the retina pigments is",
+  "options": {
+   "A": "vitamin A",
+   "B": "vitamin B",
+   "C": "vitamin C",
+   "D": "vitamin"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-19",
+  "subject": "biology",
+  "year": 1987,
+  "number": 19,
+  "question": "Which of the following lists of organs is directly involved in nutrition?",
+  "options": {
+   "A": "Oesophagus, bronchus, stomach, pancreas and anus",
+   "B": "Spleen, pharynx, duodenum, jejunum and rectum,",
+   "C": "Teeth, oesophagus, ileum lungs and large intestine,",
+   "D": "Salivarygland, liver, stomach, villi and colon."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-20",
+  "subject": "biology",
+  "year": 1987,
+  "number": 20,
+  "question": "In the standard experiment to show that oxygen is given off during photosynthesis, sodium bicarbonate is used to",
+  "options": {
+   "A": "neutralize the acid in water",
+   "B": "supply mineral salts to water plant, C. supply carbondioxide for"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-21",
+  "subject": "biology",
+  "year": 1987,
+  "number": 21,
+  "question": "One cubic centimeter of lymph is richer than an equal volume of blood",
+  "options": {
+   "A": "erythrocytes",
+   "B": "leucocytes",
+   "C": "amino acid",
+   "D": "glucose."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-22",
+  "subject": "biology",
+  "year": 1987,
+  "number": 22,
+  "question": "The oxidative part of the respiration process takes place in the",
+  "options": {
+   "A": "mitochondria",
+   "B": "ribosomes",
+   "C": "endoplasmic reticulum D. golgilbodies."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-23",
+  "subject": "biology",
+  "year": 1987,
+  "number": 23,
+  "question": "Fatigue of leg muscles may occur after riding many kilometers on a bicycle because of",
+  "options": {
+   "A": "insufficient glucose",
+   "B": "excess carbon dioxide",
+   "C": "excess protein",
+   "D": "insufficient oxygen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-24",
+  "subject": "biology",
+  "year": 1987,
+  "number": 24,
+  "question": "The function of the loop of Henle is to",
+  "options": {
+   "A": "increase theflow of urine",
+   "B": "concentrate amino acids in the kidney tissue C. concentrates sodium chloridein the medulla of thekidney",
+   "D": "increasethe volume of urine. Usethe informationinthegraphbelowto answerquestion25 and26"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1987_p13_2.png",
+  "images": [
+   "biology/1987_p13_2.png"
+  ]
+ },
+ {
+  "id": "biology-1987-25",
+  "subject": "biology",
+  "year": 1987,
+  "number": 25,
+  "question": "Which of the plants is likely to have broad leaves with thin cuticle? A R. B. S C. T D. U",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-26",
+  "subject": "biology",
+  "year": 1987,
+  "number": 26,
+  "question": "Which of the plants is likely to be a desert species?",
+  "options": {
+   "A": "U B.T C.S",
+   "D": "R."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-27",
+  "subject": "biology",
+  "year": 1987,
+  "number": 27,
+  "question": "Sclerenchyma cells are lignified to",
+  "options": {
+   "A": "strengthen and support the plant",
+   "B": "transport synthesized food C. conduct water and salt",
+   "D": "protect the plant from injury."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-28",
+  "subject": "biology",
+  "year": 1987,
+  "number": 28,
+  "question": "The pineapple fruit is best described as",
+  "options": {
+   "A": "aggregate, succulent and indehiscent",
+   "B": "aggregate, succulent and indehiscent",
+   "C": "multiple, succulent and indehiscent",
+   "D": "multiple, succulent and dehiscent."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1987_p13_1.png",
+  "images": [
+   "biology/1987_p13_1.png"
+  ]
+ },
+ {
+  "id": "biology-1987-29",
+  "subject": "biology",
+  "year": 1987,
+  "number": 29,
+  "question": "The flower shown above is",
+  "options": {
+   "A": "complete, regular, hermaphroditic with inferior ovary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-30",
+  "subject": "biology",
+  "year": 1987,
+  "number": 30,
+  "question": "A flower showing radial symmetry is said to be",
+  "options": {
+   "A": "pentamerous",
+   "B": "protandrous",
+   "C": "protogynous",
+   "D": "actinomorphic."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-31",
+  "subject": "biology",
+  "year": 1987,
+  "number": 31,
+  "question": "A samara differs from a cypsela by having",
+  "options": {
+   "A": "an exended pericarp",
+   "B": "a hard pericarp",
+   "C": "a pericarp fused with the seed coat",
+   "D": "some hairy outgrowths on the pericarp."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-32",
+  "subject": "biology",
+  "year": 1987,
+  "number": 32,
+  "question": "The plantain reproduces asexually by",
+  "options": {
+   "A": "suckers",
+   "B": "buds",
+   "C": "fragments",
+   "D": "spores."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-33",
+  "subject": "biology",
+  "year": 1987,
+  "number": 33,
+  "question": "Growth can best be determined in a population of Spirogyra by measuring the",
+  "options": {
+   "A": "total lengths of the filaments",
+   "B": "total widths of the filaments C. rate of photosynthesis in the population D. dry weight of the organism."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-34",
+  "subject": "biology",
+  "year": 1987,
+  "number": 34,
+  "question": "Most cells in higher animals retain their power of division EXCEPT",
+  "options": {
+   "A": "lymphocytes",
+   "B": "nerve cells",
+   "C": "malpighian cells",
+   "D": "germ cells."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-35",
+  "subject": "biology",
+  "year": 1987,
+  "number": 35,
+  "question": "A severe deficiency of thyroxin results in",
+  "options": {
+   "A": "diabetes mellitus",
+   "B": "sexual underdevelopment",
+   "C": "cretinism",
+   "D": "gigantism."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-36",
+  "subject": "biology",
+  "year": 1987,
+  "number": 36,
+  "question": "The growth of a coleoptile towards unilateral light source is due to",
+  "options": {
+   "A": "rapid rate of photosynthesis",
+   "B": "unequal distribution of auxin C. the effect of geotropism",
+   "D": "the effect of photolysis."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-37",
+  "subject": "biology",
+  "year": 1987,
+  "number": 37,
+  "question": "The sequence of ear ossicles from the fenestra ovalis is",
+  "options": {
+   "A": "malleus, incus and stapes",
+   "B": "malleus, stapes and incus C. stapes, incus and mallcus D. stapes, malleus and incus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-38",
+  "subject": "biology",
+  "year": 1987,
+  "number": 38,
+  "question": "The centre for controlling body temperature in the brain is the",
+  "options": {
+   "A": "cerebrum",
+   "B": "cerebellum",
+   "C": "medulla",
+   "D": "hypothalamus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-39",
+  "subject": "biology",
+  "year": 1987,
+  "number": 39,
+  "question": "Unlike auxins, gibberellins",
+  "options": {
+   "A": "induce the formation of adventitious roots",
+   "B": "do not affect leaf and fruit abscission",
+   "C": "cannot stimulate stem elongation",
+   "D": "are quite effective as herbicides."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-40",
+  "subject": "biology",
+  "year": 1987,
+  "number": 40,
+  "question": "A gene which expresses itself only in the homozygous condition is",
+  "options": {
+   "A": "a mutant",
+   "B": "dominant",
+   "C": "recessive",
+   "D": "lethal."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-41",
+  "subject": "biology",
+  "year": 1987,
+  "number": 41,
+  "question": "An example of monohybrid inheritance in man is",
+  "options": {
+   "A": "astigmatism",
+   "B": "cretinism",
+   "C": "hyperthyroidism",
+   "D": "albinism."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-42",
+  "subject": "biology",
+  "year": 1987,
+  "number": 42,
+  "question": "If a plant, homozygous for round and yellow (RR;YY), is crossed with a wrinkled green type (rr;yy) all of the resulting seed will be",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-43",
+  "subject": "biology",
+  "year": 1987,
+  "number": 43,
+  "question": "The ratio of carriers to sicklers in the F₁ generation derived from a parental cross of two carriers of haemoglobin S gene is",
+  "options": {
+   "A": "3:1",
+   "B": "1:3",
+   "C": "2:1",
+   "D": "1:2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-44",
+  "subject": "biology",
+  "year": 1987,
+  "number": 44,
+  "question": "In which of the following crosses will all the female offspring be colour blind?",
+  "options": {
+   "A": "colour blind mother x colour blind father.",
+   "B": "colour blind mother x normal father",
+   "C": "carrier mother x colour blind father. D carrier mother x normal father."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-45",
+  "subject": "biology",
+  "year": 1987,
+  "number": 45,
+  "question": "Which of the following relates to edaphic factors?",
+  "options": {
+   "A": "The structure of the earth’s surface",
+   "B": "The influence of living organisms on each other.",
+   "C": "Temperature, rainfall and humidity",
+   "D": "The influence of soils on plants and animals."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-46",
+  "subject": "biology",
+  "year": 1987,
+  "number": 46,
+  "question": "Epiphytes growing on the branches of trees provide an example of the relationship known as",
+  "options": {
+   "A": "parasitism",
+   "B": "commensalisms",
+   "C": "aprophytism",
+   "D": "holophytism."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-47",
+  "subject": "biology",
+  "year": 1987,
+  "number": 47,
+  "question": "Poliomyelitis is an infectious disease caused by",
+  "options": {
+   "A": "virus",
+   "B": "protozoan",
+   "C": "bacterium",
+   "D": "fungus. 48 One of the functions of UNICEF is to"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-49",
+  "subject": "biology",
+  "year": 1987,
+  "number": 49,
+  "question": "Nitrifying bacteria are important because they",
+  "options": {
+   "A": "release nitrogen to the atmosphere",
+   "B": "convert Atmosphere nitrogen to ammonia C. combine ammonia with nitrogen D. oxidizeammonium salts to nitrates."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-50",
+  "subject": "biology",
+  "year": 1987,
+  "number": 50,
+  "question": "The process by which lime is added to clay soils is known as",
+  "options": {
+   "A": "sedimentation",
+   "B": "flocculation",
+   "C": "leaching",
+   "D": "manuring"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,916 @@
+[
+ {
+  "id": "biology-1990-1",
+  "subject": "biology",
+  "year": 1990,
+  "number": 1,
+  "question": "Viruses are considered to be living organisms because they",
+  "options": {
+   "A": "possess transmittable characters",
+   "B": "movefrom one place to another C. respond to stimulation",
+   "D": "ingest food materials"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-2",
+  "subject": "biology",
+  "year": 1990,
+  "number": 2,
+  "question": "Which of the following characteristics is common to Amoeba and Paramecium?",
+  "options": {
+   "A": "Oral groove",
+   "B": "Trichoyst",
+   "C": "Contractile vacuole",
+   "D": "Cilia"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-3",
+  "subject": "biology",
+  "year": 1990,
+  "number": 3,
+  "question": "Hydra removes undigested food by",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-4",
+  "subject": "biology",
+  "year": 1990,
+  "number": 4,
+  "question": "Which of the following groups of invertebrates reproduces by budding",
+  "options": {
+   "A": "Arthropoda",
+   "B": "Annelida",
+   "C": "Mollusca",
+   "D": "Coelenterata."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-5",
+  "subject": "biology",
+  "year": 1990,
+  "number": 5,
+  "question": "The algae, bryophytes and pteriodophytes are similar in that they",
+  "options": {
+   "A": "are sea weeds",
+   "B": "have no vascular tissues",
+   "C": "require moisture for fertilization",
+   "D": "are microscopic plants."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-7",
+  "subject": "biology",
+  "year": 1990,
+  "number": 7,
+  "question": "In bryophytes, sex organs are produced in the",
+  "options": {
+   "A": "gametophyte",
+   "B": "rhizoid",
+   "C": "protonema",
+   "D": "sporophyte Use the figure below to answer questions 8 and 9"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1990_p20_1.png",
+  "images": [
+   "biology/1990_p20_1.png"
+  ]
+ },
+ {
+  "id": "biology-1990-8",
+  "subject": "biology",
+  "year": 1990,
+  "number": 8,
+  "question": "The part labelled 3 is the",
+  "options": {
+   "A": "leafscar",
+   "B": "lenticel",
+   "C": "auxiliary bud",
+   "D": "girdlescar"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-9",
+  "subject": "biology",
+  "year": 1990,
+  "number": 9,
+  "question": "Which part of the twig produces auxins?",
+  "options": {
+   "A": "4",
+   "B": "3",
+   "C": "2",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-10",
+  "subject": "biology",
+  "year": 1990,
+  "number": 10,
+  "question": "Which of the following animals has homodont dentition?",
+  "options": {
+   "A": "Rat",
+   "B": "Man",
+   "C": "Lizard",
+   "D": "Pigeon."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-11",
+  "subject": "biology",
+  "year": 1990,
+  "number": 11,
+  "question": "In which of the following does external fertilization take place?",
+  "options": {
+   "A": "Toad",
+   "B": "Lizard",
+   "C": "Bird",
+   "D": "Cockroach."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-12",
+  "subject": "biology",
+  "year": 1990,
+  "number": 12,
+  "question": "In the tapeworm, the suckers on the scolex are used for",
+  "options": {
+   "A": "sucking the blood of the host",
+   "B": "holding fast to the host C. reproduction D. locomotion"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-13",
+  "subject": "biology",
+  "year": 1990,
+  "number": 13,
+  "question": "A feature which adapts birds to flight is the possession of",
+  "options": {
+   "A": "scally legs",
+   "B": "light bones",
+   "C": "two walking legs",
+   "D": "a pointed beak."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-14",
+  "subject": "biology",
+  "year": 1990,
+  "number": 14,
+  "question": "The nephridia in the earthworm form part of the",
+  "options": {
+   "A": "reproductive system",
+   "B": "respiratory system. C circulatory system D. excretory system."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-15",
+  "subject": "biology",
+  "year": 1990,
+  "number": 15,
+  "question": "Which of the following diseases is rarely spread by a housefly?",
+  "options": {
+   "A": "Yellow fever",
+   "B": "Dysentery",
+   "C": "Typhoid fever",
+   "D": "Poliomyelitis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-16",
+  "subject": "biology",
+  "year": 1990,
+  "number": 16,
+  "question": "Which of the following cells is thin-walled and living at maturity?",
+  "options": {
+   "A": "Collenchyma",
+   "B": "Sieve tube",
+   "C": "Xylem vessel",
+   "D": "Sclerenchyma."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-17",
+  "subject": "biology",
+  "year": 1990,
+  "number": 17,
+  "question": "The mode of nutrition in which digestion is extracelluar is",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-18",
+  "subject": "biology",
+  "year": 1990,
+  "number": 18,
+  "question": "The first step in the process of photosynthesis is the",
+  "options": {
+   "A": "activation of the chlorophyll",
+   "B": "photolysis of water",
+   "C": "reduction of carbondioxide",
+   "D": "formation ofsugar."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-19",
+  "subject": "biology",
+  "year": 1990,
+  "number": 19,
+  "question": "Which of the following food substances will produce a brick-red colour when warmed with Benedicts’ssolution",
+  "options": {
+   "A": "Glucose",
+   "B": "Starch",
+   "C": "Egg white",
+   "D": "Maltose."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-20",
+  "subject": "biology",
+  "year": 1990,
+  "number": 20,
+  "question": "The organ which secretes digestive enzymes as well as hormone is the",
+  "options": {
+   "A": "liver",
+   "B": "salivary gland",
+   "C": "pancreas",
+   "D": "spleen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-21",
+  "subject": "biology",
+  "year": 1990,
+  "number": 21,
+  "question": "The villus in the small intestine is significant because it",
+  "options": {
+   "A": "increases the surface area for absorption",
+   "B": "increases the surface area for digestion",
+   "C": "assists in mixing digested food D. assists in filtering undigested food."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-22",
+  "subject": "biology",
+  "year": 1990,
+  "number": 22,
+  "question": "If a ring of bark and phloem is removed from a stem, the",
+  "options": {
+   "A": "plant dies immediately",
+   "B": "plant dies after two days",
+   "C": "movement of food is not affected",
+   "D": "movement of mineral salts is hardly affected."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-23",
+  "subject": "biology",
+  "year": 1990,
+  "number": 23,
+  "question": "Transpiration can be measured with a",
+  "options": {
+   "A": "photometer",
+   "B": "hygrometer",
+   "C": "potometer",
+   "D": "barometer."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-24",
+  "subject": "biology",
+  "year": 1990,
+  "number": 24,
+  "question": "Excretory products responsible for the red, purple and blue colours of flowers are called",
+  "options": {
+   "A": "alkaloids",
+   "B": "tannims",
+   "C": "anthocyanins",
+   "D": "resins."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-25",
+  "subject": "biology",
+  "year": 1990,
+  "number": 25,
+  "question": "Etiolation is caused by the influence of",
+  "options": {
+   "A": "mineral salts",
+   "B": "water",
+   "C": "carbondioxide",
+   "D": "light."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-26",
+  "subject": "biology",
+  "year": 1990,
+  "number": 26,
+  "question": "Muscles are indirectly attached to bones by means of",
+  "options": {
+   "A": "ligaments",
+   "B": "membranes",
+   "C": "tendons",
+   "D": "sultures. Use the figure below to answer questions 27 and 28."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1990_p20_2.png",
+  "images": [
+   "biology/1990_p20_2.png"
+  ]
+ },
+ {
+  "id": "biology-1990-27",
+  "subject": "biology",
+  "year": 1990,
+  "number": 27,
+  "question": "Which structure is the glomerulus?",
+  "options": {
+   "A": "5 B.3",
+   "C": "2 D.1."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-28",
+  "subject": "biology",
+  "year": 1990,
+  "number": 28,
+  "question": "If the blood is tooconcentrated, more water is absorbed from",
+  "options": {
+   "A": "5",
+   "B": "4",
+   "C": "3",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-29",
+  "subject": "biology",
+  "year": 1990,
+  "number": 29,
+  "question": "During mammalian embryo development, large amount of oestrogen and progesterone are produced in the",
+  "options": {
+   "A": "umbilical cord",
+   "B": "amnion",
+   "C": "placenta",
+   "D": "amniotic fluid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-30",
+  "subject": "biology",
+  "year": 1990,
+  "number": 30,
+  "question": "The type of placentation shown in the figure above is",
+  "options": {
+   "A": "parietal",
+   "B": "marginal",
+   "C": "axile",
+   "D": "free-central."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1990_p21_1.png",
+  "images": [
+   "biology/1990_p21_1.png"
+  ]
+ },
+ {
+  "id": "biology-1990-31",
+  "subject": "biology",
+  "year": 1990,
+  "number": 31,
+  "question": "Fruitswhich develop without fertilization are described as",
+  "options": {
+   "A": "simple",
+   "B": "pathenocarpic",
+   "C": "aggregate",
+   "D": "compound"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-32",
+  "subject": "biology",
+  "year": 1990,
+  "number": 32,
+  "question": "The elephant grass is propagated vegetatively by means of",
+  "options": {
+   "A": "corms",
+   "B": "bulbs",
+   "C": "suckers",
+   "D": "solons. Use the figure below to answer questions 27 and 28."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1990_p21_2.png",
+  "images": [
+   "biology/1990_p21_2.png"
+  ]
+ },
+ {
+  "id": "biology-1990-33",
+  "subject": "biology",
+  "year": 1990,
+  "number": 33,
+  "question": "All the cell bodies in the spinal cord are found in",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-34",
+  "subject": "biology",
+  "year": 1990,
+  "number": 34,
+  "question": "In a reflex action, impulse flows from",
+  "options": {
+   "A": "1 to 2",
+   "B": "2 to 1",
+   "C": "4 to 1",
+   "D": "4 to 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-35",
+  "subject": "biology",
+  "year": 1990,
+  "number": 35,
+  "question": "The part of the ear that is concerned with balance is the",
+  "options": {
+   "A": "semi-cirular canals",
+   "B": "incus",
+   "C": "malleus",
+   "D": "Bastachian tube."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-36",
+  "subject": "biology",
+  "year": 1990,
+  "number": 36,
+  "question": "In an organism where the 2nd number of chromosomes is 16, the number of chromosomes in each gamete will be",
+  "options": {
+   "A": "32",
+   "B": "16 C.8",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-37",
+  "subject": "biology",
+  "year": 1990,
+  "number": 37,
+  "question": "What would be the result of the first filial generation (F₁) and the second filial generation (F₂) of a mono- hydrid cross between pure line normal-winged Disophila? flies and pure line short- winged flies of the gene for the normal wing is dominant?",
+  "options": {
+   "A": "F₁ flies all short –winged and F₂ flies all normal –winged.",
+   "B": "F₁ flies all normal –winged and F₂ flies all short-winged.",
+   "C": "F₁ flies all short-winged and three-quarters of F₂ flies are short- winged",
+   "D": "F₁ flies all normal –winged and three –quarters of F₂ flies are normal –winged."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1990_p21_3.png",
+  "images": [
+   "biology/1990_p21_3.png"
+  ]
+ },
+ {
+  "id": "biology-1990-38",
+  "subject": "biology",
+  "year": 1990,
+  "number": 38,
+  "question": "What stage during cell division is represented in the figure above",
+  "options": {
+   "A": "prophase",
+   "B": "metaphase",
+   "C": "anaphase",
+   "D": "telophase"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-39",
+  "subject": "biology",
+  "year": 1990,
+  "number": 39,
+  "question": "An individual in the AB blood group is a universal recipient for blood conation because",
+  "options": {
+   "A": "all the red blood cells do not carry antigen",
+   "B": "all the red blood cells carry antigen A",
+   "C": "all the red blood cell carry antigen B",
+   "D": "there are noanti-A and anti-B antibodies in the serum."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-40",
+  "subject": "biology",
+  "year": 1990,
+  "number": 40,
+  "question": "Haemophilia results from the mutation of the genes",
+  "options": {
+   "A": "in the sex chromosomes",
+   "B": "which control skin colour",
+   "C": "which control the mechanism for blood –clotting",
+   "D": "which control the formation of haemoglobin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-41",
+  "subject": "biology",
+  "year": 1990,
+  "number": 41,
+  "question": "In a savanna ecosystem, the abiotic factors include",
+  "options": {
+   "A": "legumes, temperature and sandy soil",
+   "B": "water, temperature and soil",
+   "C": "minerals, oxygen and reptile D. water, soil and grasses. Use the figure below to answer questions 42 and 43."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1990_p21_4.png",
+  "images": [
+   "biology/1990_p21_4.png"
+  ]
+ },
+ {
+  "id": "biology-1990-42",
+  "subject": "biology",
+  "year": 1990,
+  "number": 42,
+  "question": "Which organism is an omnivore?",
+  "options": {
+   "A": "Praying mantis",
+   "B": "Hawk",
+   "C": "Mouse",
+   "D": "Grasshopper."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-43",
+  "subject": "biology",
+  "year": 1990,
+  "number": 43,
+  "question": "Which of the organims will have the lowest population in an ecosystem?",
+  "options": {
+   "A": "Hawk.",
+   "B": "Cowpea",
+   "C": "Praying mantis",
+   "D": "Mouse."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-44",
+  "subject": "biology",
+  "year": 1990,
+  "number": 44,
+  "question": "The salinity of a brackish environment.",
+  "options": {
+   "A": "increases immediately after rain",
+   "B": "increases at the end of the rainy season C. decreases with increase in micro-organisms D. increases during the dryseason."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-45",
+  "subject": "biology",
+  "year": 1990,
+  "number": 45,
+  "question": "Physiological adaptation to very dry condition in",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-46",
+  "subject": "biology",
+  "year": 1990,
+  "number": 46,
+  "question": "Which set of diseases is spread mainly by insect vectors?",
+  "options": {
+   "A": "cholera, tenia and gonorrhoea.",
+   "B": "poliomyelitis, tuberculosis and sypillis. C. cholera, malaria and tuberculosis D. malaria, cholera and river blindness."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-47",
+  "subject": "biology",
+  "year": 1990,
+  "number": 47,
+  "question": "Which of the following constitutes pollution?",
+  "options": {
+   "A": "Droppings from birds",
+   "B": "Loud disco music",
+   "C": "A pack of cigarettes",
+   "D": "Refuse in an incinerator."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-48",
+  "subject": "biology",
+  "year": 1990,
+  "number": 48,
+  "question": "An acidic soil can be improved upon by",
+  "options": {
+   "A": "Sedimentation",
+   "B": "Leaching",
+   "C": "Flocculation",
+   "D": "Watering."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-49",
+  "subject": "biology",
+  "year": 1990,
+  "number": 49,
+  "question": "What do bacteria in root nodules derive from the host plant?",
+  "options": {
+   "A": "Protection and minerals",
+   "B": "Water and minerals.",
+   "C": "Carbohydrates and water",
+   "D": "Protection and carbohydrates."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1990-50",
+  "subject": "biology",
+  "year": 1990,
+  "number": 50,
+  "question": "Free nitrogen is released to the atmosphere by",
+  "options": {
+   "A": "nitrogen fixing bacteria",
+   "B": "nitrifying bacteria",
+   "C": "denitrifying bacteria",
+   "D": "saprophytic bacteria."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
