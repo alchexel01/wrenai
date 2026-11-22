@@ -1,0 +1,175 @@
+{
+  "year": 1990,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "C",
+      "explanation": "Main scale reading before the vernier zero is 1.2 cm, and the 8th vernier division aligns with a main scale mark, giving 1.2 + 0.08 = 1.28 cm."
+    },
+    {
+      "number": 2,
+      "answer": "D",
+      "explanation": "Second is a fundamental SI base unit for time, whereas newton, watt, and joule are derived units."
+    },
+    {
+      "number": 3,
+      "answer": "D",
+      "explanation": "Horizontal equilibrium gives F sin 30 = 10 - 8 = 2 N, so F = 4 N. Vertical equilibrium gives Weight = F cos 30 = 4 * (sqrt(3)/2) = 2 sqrt(3) N."
+    },
+    {
+      "number": 4,
+      "answer": "A",
+      "explanation": "Initial speed u = 90 km/h = 25 m/s, final speed v = 0, and time t = 10 s. Distance s = ((u + v) / 2) * t = (25 / 2) * 10 = 125 m."
+    },
+    {
+      "number": 5,
+      "answer": "D",
+      "explanation": "By conservation of momentum from rest, 0 = mv + (M - m)v_2. Therefore, the speed of the second particle is v_2 = mv / (M - m)."
+    },
+    {
+      "number": 6,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 7,
+      "answer": "A",
+      "explanation": "For an object in equilibrium under parallel forces, the sum of forces in opposite directions is equal and the clockwise moments equal the anticlockwise moments about any point."
+    },
+    {
+      "number": 8,
+      "answer": "A",
+      "explanation": "The line of action of the 5 N force passes directly through point X, so the perpendicular distance is zero and the moment is 0 Nm."
+    },
+    {
+      "number": 9,
+      "answer": "A",
+      "explanation": "Power is the product of force and constant velocity (P = Fv), which rearranges to F = P / v."
+    },
+    {
+      "number": 10,
+      "answer": "D",
+      "explanation": "Since the stone is held stationary at a fixed height, its displacement is zero and no mechanical work (0 J) is done."
+    },
+    {
+      "number": 11,
+      "answer": "C",
+      "explanation": "At the angle of repose of 30 degrees, the coefficient of limiting friction equals tan 30 = 1 / sqrt(3) = 0.58."
+    },
+    {
+      "number": 12,
+      "answer": "A",
+      "explanation": "The velocity ratio of an inclined plane is 1 / sin theta = 1 / sin 30 = 1 / 0.5 = 2."
+    },
+    {
+      "number": 13,
+      "answer": "C",
+      "explanation": "Using P = rho * g * h, the height h = 102000 / (2600 * 10) = 3.92 m."
+    },
+    {
+      "number": 14,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 15,
+      "answer": "B",
+      "explanation": "By linear interpolation, T = ((0.90 - 0.75) / (1.05 - 0.75)) * 100 = (0.15 / 0.30) * 100 = 50.0 degrees C."
+    },
+    {
+      "number": 16,
+      "answer": "B",
+      "explanation": "Linear expansivity alpha is defined as the fractional increase in length per unit temperature rise: (l - l_0) / (l_0 * delta_t)."
+    },
+    {
+      "number": 17,
+      "answer": "A",
+      "explanation": "Cooling a gas at constant volume lowers molecular speeds, causing molecules to strike the container walls less frequently and with less force."
+    },
+    {
+      "number": 18,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 19,
+      "answer": "A",
+      "explanation": "Water boils at 100 degrees C when external pressure equals standard atmospheric pressure of 760 mmHg, so the external pressure of 750 mmHg must be increased."
+    },
+    {
+      "number": 20,
+      "answer": "A",
+      "explanation": "Land and sea breezes are natural convection currents, and convection occurs only in fluids (liquids and gases) rather than solids."
+    },
+    {
+      "number": 21,
+      "answer": "A",
+      "explanation": "Velocity in water v = c / n = (3 x 10^8) / (4/3) = 2.25 x 10^8 m/s. Wavelength lambda = v / f = (2.25 x 10^8) / (5 x 10^14) = 4.5 x 10^-7 m."
+    },
+    {
+      "number": 22,
+      "answer": "C",
+      "explanation": "When a wave enters a medium with lower speed, its frequency remains constant while its wavelength decreases according to v = f * lambda."
+    },
+    {
+      "number": 23,
+      "answer": "B",
+      "explanation": "Shadows and eclipses occur because light travels in straight lines, a property known as rectilinear propagation."
+    },
+    {
+      "number": 24,
+      "answer": "D",
+      "explanation": "Magnification m = v / u = 40 / 10 = 4. Image height = m * object height = 4 * 3 cm = 12.00 cm."
+    },
+    {
+      "number": 25,
+      "answer": "D",
+      "explanation": "A faint primary image comes from reflection at the front glass surface, while the main bright image undergoes refraction into the glass and reflection at the silvered back."
+    },
+    {
+      "number": 26,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 27,
+      "answer": "C",
+      "explanation": "For a virtual erect image with m = 2, v = -2u. Using 1/f = 1/u + 1/v gives 1/20 = 1/u - 1/(2u) = 1/(2u), so u = 10 cm."
+    },
+    {
+      "number": 28,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 29,
+      "answer": "A",
+      "explanation": "In a short-sighted eye, light rays from distant objects converge too strongly and focus in front of the retina."
+    },
+    {
+      "number": 30,
+      "answer": "B",
+      "explanation": "Magenta is a secondary colour formed by reflecting red and blue light while absorbing green light."
+    },
+    {
+      "number": 31,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 33,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 34,
+      "answer": "C",
+      "explanation": "Magnetic dip (inclination) is the angle between the Earth's total magnetic field and the horizontal, so a zero dip means the flux is entirely horizontal."
+    },
+    {
+      "number": 35,
+      "answer": null,
+      "explanation": null
+    }
+  ]
+}

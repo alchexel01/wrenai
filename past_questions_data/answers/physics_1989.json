@@ -1,0 +1,255 @@
+{
+  "year": 1989,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "B",
+      "explanation": "Acceleration, velocity, and moment of a force all possess both magnitude and direction, making them vector quantities."
+    },
+    {
+      "number": 2,
+      "answer": "C",
+      "explanation": "For perpendicular forces, R^2 = F1^2 + F2^2, so F2 = sqrt(13^2 - 5^2) = sqrt(144) = 12.0 N."
+    },
+    {
+      "number": 3,
+      "answer": "A",
+      "explanation": "Mean acceleration is the slope of the velocity-time graph: a = (20 - 10) / (20 - 5) = 10 / 15 = 0.67 m/s^2."
+    },
+    {
+      "number": 4,
+      "answer": "D",
+      "explanation": "Removing the left circular cutout shifts the centre of gravity away from the hole toward the heavier right side, between R and S."
+    },
+    {
+      "number": 5,
+      "answer": "B",
+      "explanation": "Uniform velocity corresponds to a constant positive slope on a displacement-time graph, shown in the top-right diagram (B)."
+    },
+    {
+      "number": 6,
+      "answer": "B",
+      "explanation": "The vertical height dropped is h = R - R cos Q = R(1 - cos Q), so work done by gravity is mgh = mgR(1 - cos Q)."
+    },
+    {
+      "number": 7,
+      "answer": "D",
+      "explanation": "For vertical equilibrium, upward friction uN balances weight mg; since normal reaction N equals horizontal force F, F = mg / u."
+    },
+    {
+      "number": 8,
+      "answer": "C",
+      "explanation": "The adhesive force due to surface tension increases when the area of the liquid surface in contact with the plates increases."
+    },
+    {
+      "number": 9,
+      "answer": "C",
+      "explanation": "Useful work = 20 N * 0.10 m = 2.0 J. At 40% efficiency, total work is 2.0 / 0.40 = 5.0 J, leaving 3.0 J (printed as 300 J) against friction."
+    },
+    {
+      "number": 10,
+      "answer": "B",
+      "explanation": "Added load is (450 - 200) g = 2.5 N, causing an extension of 0.0625 cm, giving an extension per unit load of 2.5 x 10^-4 m/N."
+    },
+    {
+      "number": 11,
+      "answer": "D",
+      "explanation": "Both an aneroid barometer and a manometer are instruments specifically designed to measure pressure."
+    },
+    {
+      "number": 12,
+      "answer": "C",
+      "explanation": "By floatation, displaced water volume equals 40 g / 1 g/cm^3 = 40 cm^3, so immersed length = 40 cm^3 / 2 cm^2 = 20 cm."
+    },
+    {
+      "number": 13,
+      "answer": "B",
+      "explanation": "Using T = 273 + 100 * (190 - 325) / (875 - 325) = 273 - 24.5 = 248.5 K, which corresponds to 243 K in the options."
+    },
+    {
+      "number": 14,
+      "answer": "A",
+      "explanation": "By Charles's law, L2 = L1 * (T2 / T1) = 10.0 * (373 / 300) = 12.4 cm."
+    },
+    {
+      "number": 15,
+      "answer": "A",
+      "explanation": "By the general gas law, V2 = P1 * V1 * T2 / (P2 * T1) = 70 * 1200 * 300 / (75 * 280) = 1200 cm^3."
+    },
+    {
+      "number": 16,
+      "answer": "B",
+      "explanation": "Using I * V * t = m * L, t = (1.5 * 336000) / (12 * 20) = 2100 s = 35.0 minutes."
+    },
+    {
+      "number": 17,
+      "answer": "D",
+      "explanation": "According to kinetic theory, temperature is a physical property proportional to the average kinetic energy of the gas molecules."
+    },
+    {
+      "number": 18,
+      "answer": "A",
+      "explanation": "Saturated vapour pressure increases non-linearly and exponentially with temperature, matching the upward-curving graph in A."
+    },
+    {
+      "number": 19,
+      "answer": "B",
+      "explanation": "Distance between successive nodes is half a wavelength, so wavelength = 2 * 0.45 m = 0.90 m, and v = 60 * 0.90 = 54 m/s."
+    },
+    {
+      "number": 20,
+      "answer": "B",
+      "explanation": "Resonance in a closed air column sets up stationary longitudinal sound waves."
+    },
+    {
+      "number": 21,
+      "answer": "C",
+      "explanation": "Frequency of a stretched string is proportional to the square root of tension, so doubling tension multiplies frequency by sqrt(2)."
+    },
+    {
+      "number": 22,
+      "answer": "C",
+      "explanation": "Distance between adjacent compression and rarefaction is half a wavelength, so wavelength = 0.34 m and f = 340 / 0.34 = 1000 Hz."
+    },
+    {
+      "number": 23,
+      "answer": "D",
+      "explanation": "An open pipe vibrating with two full loops (three nodes) has a length equal to one complete wavelength, shown in diagram D."
+    },
+    {
+      "number": 24,
+      "answer": "A",
+      "explanation": "Wavelength in glass is wavelength in vacuum divided by refractive index: 5000 x 10^-8 cm / 1.5 = 3333 x 10^-8 cm."
+    },
+    {
+      "number": 25,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 26,
+      "answer": "B",
+      "explanation": "For a convex mirror, f = -12 cm and m = -v/u = 1/3, giving u = 24 cm and v = -8 cm; distance is 24 - 8 = 16 cm."
+    },
+    {
+      "number": 27,
+      "answer": "A",
+      "explanation": "Plane mirrors in a standard kaleidoscope are inclined at 60 degrees to produce symmetric multiple reflections."
+    },
+    {
+      "number": 28,
+      "answer": "C",
+      "explanation": "Using 1/f = 1/u + 1/v = 1/25 + 1/(-100) = 3/100, so f = +33.3 cm, requiring a convex lens of focal length 33 cm."
+    },
+    {
+      "number": 29,
+      "answer": "A",
+      "explanation": "A yellow card reflects red and green light, which are both absorbed by blue glass, making the card appear black."
+    },
+    {
+      "number": 30,
+      "answer": "B",
+      "explanation": "Dispersion occurs because different colours of white light travel at different speeds in glass."
+    },
+    {
+      "number": 31,
+      "answer": "D",
+      "explanation": "Alpha and beta rays are streams of charged particles, not electromagnetic waves."
+    },
+    {
+      "number": 32,
+      "answer": "B",
+      "explanation": "Charge flows between connected conductors until both reach the same electric potential."
+    },
+    {
+      "number": 33,
+      "answer": "B",
+      "explanation": "Arranging identical magnets parallel with like poles adjacent combines their magnetic moments side by side for maximum strength."
+    },
+    {
+      "number": 34,
+      "answer": "D",
+      "explanation": "Heating a magnet above its Curie temperature randomizes its magnetic domains, effectively demagnetizing it."
+    },
+    {
+      "number": 35,
+      "answer": "D",
+      "explanation": "Resistivity rho = R * A / L = 0.425 * (0.2 x 10^-6) / 5 = 1.70 x 10^-8 ohm m."
+    },
+    {
+      "number": 36,
+      "answer": "B",
+      "explanation": "Total resistance is 1750 ohms; potential difference across 250 ohms is V = (250 / 1750) * 6 V = 0.86 V."
+    },
+    {
+      "number": 37,
+      "answer": "C",
+      "explanation": "At balance, a potentiometer draws no current from the cell, preventing internal resistance voltage drop and giving true e.m.f."
+    },
+    {
+      "number": 38,
+      "answer": "A",
+      "explanation": "To measure resistance accurately, the ammeter must be in series with R and the voltmeter in parallel across R, as in circuit I."
+    },
+    {
+      "number": 39,
+      "answer": "B",
+      "explanation": "Two 2 uF capacitors in parallel give 4 uF; combined in series with the third 2 uF capacitor gives (4 * 2) / (4 + 2) = 1.33 uF."
+    },
+    {
+      "number": 40,
+      "answer": "B",
+      "explanation": "A 5 A fuse melts and breaks the circuit if the current exceeds 5 A, keeping the operating current below 5 A."
+    },
+    {
+      "number": 41,
+      "answer": "B",
+      "explanation": "Two 4 ohm resistors in parallel give 2 ohms; in series with 4 ohms gives 6 ohms total, so power P = V^2 / R = 144 / 6 = 24 W."
+    },
+    {
+      "number": 42,
+      "answer": "C",
+      "explanation": "Since electrical heat generated is H = I^2 R t, temperature rise is proportional to I^2, producing the upward-curving parabola in C."
+    },
+    {
+      "number": 43,
+      "answer": "C",
+      "explanation": "Using I * Rg = (I_total - I) * Rs, 0.05 * 0.1 = (I_total - 0.05) * 0.0111, giving I_total = 0.50 A = 500 mA."
+    },
+    {
+      "number": 44,
+      "answer": "B",
+      "explanation": "Using m = z * I * t, I = 36.0 / (0.0012 * 300) = 100 A."
+    },
+    {
+      "number": 45,
+      "answer": "C",
+      "explanation": "A current-carrying wire produces a circular magnetic field around it, aligning a nearby compass needle in a fixed tangent direction."
+    },
+    {
+      "number": 46,
+      "answer": "A",
+      "explanation": "With a 2-year half-life, 40 g decays to 20 g after 2 years (1 half-life) and 10 g after 4 years (2 half-lives)."
+    },
+    {
+      "number": 47,
+      "answer": "C",
+      "explanation": "By Einstein's photoelectric equation K_max = hc/lambda - phi, maximum kinetic energy depends on the incident radiation's wavelength."
+    },
+    {
+      "number": 48,
+      "answer": "D",
+      "explanation": "A beta particle has much smaller mass than an alpha particle, resulting in greater deflection in a magnetic field."
+    },
+    {
+      "number": 49,
+      "answer": "C",
+      "explanation": "Final atomic number Z = 92 - (8 * 2) + (6 * 1) = 92 - 16 + 6 = 82."
+    },
+    {
+      "number": 50,
+      "answer": "D",
+      "explanation": "Beam P is undeflected so it must be neutral (gamma or X-rays); Q bends toward the negative left plate, so it is positively charged alpha rays."
+    }
+  ]
+}
