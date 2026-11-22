@@ -1,0 +1,255 @@
+{
+ "year": 1991,
+ "answers": [
+  {
+   "number": 1,
+   "answer": "D",
+   "explanation": "An aneroid barometer is portable and responds to pressure change with height, so it is used as an altimeter."
+  },
+  {
+   "number": 2,
+   "answer": "A",
+   "explanation": "The component of weight along a smooth incline is W sin(theta)."
+  },
+  {
+   "number": 3,
+   "answer": "A",
+   "explanation": "Taking up as positive: -h = 20(6) - 5(36) = -60, so h = 60 m."
+  },
+  {
+   "number": 4,
+   "answer": "B",
+   "explanation": "Uniform circular motion has centripetal acceleration of constant magnitude v^2/r but direction that keeps changing."
+  },
+  {
+   "number": 5,
+   "answer": "B",
+   "explanation": "Change in momentum = 0.1 x (10 - (-2)) = 1.2 Ns."
+  },
+  {
+   "number": 6,
+   "answer": "B",
+   "explanation": "Vertical: T2 cos30 = 100 gives T2 = 200/sqrt3 N. Horizontal: T1 = T2 sin30 = 100/sqrt3 N."
+  },
+  {
+   "number": 7,
+   "answer": "A",
+   "explanation": "Extension = 75/1500 = 0.05 m. PE = 1/2 x 75 x 0.05 = 1.875 J, about 1.9 J."
+  },
+  {
+   "number": 8,
+   "answer": "C",
+   "explanation": "Velocity ratio = 80/10 = 8. Load = efficiency x VR x effort = 0.85 x 8 x 1200 = 8160 N."
+  },
+  {
+   "number": 9,
+   "answer": "B",
+   "explanation": "Work equals the area under the graph: half of a circle of radius 12 = 1/2 x pi x 12^2 = 72 pi J."
+  },
+  {
+   "number": 10,
+   "answer": "C",
+   "explanation": "Useful force along slope = 200 sin30 = 100 N. Efficiency 0.75 gives F = 100/0.75 = 133.3 N."
+  },
+  {
+   "number": 11,
+   "answer": "D",
+   "explanation": "Extension is 1 cm per N, so natural length is 20 cm. At 3 N the length is 23 cm."
+  },
+  {
+   "number": 12,
+   "answer": "C",
+   "explanation": "W - U = 15 and W - 2U = 10 give U = 5 g, so W = 20 g."
+  },
+  {
+   "number": 13,
+   "answer": "D",
+   "explanation": "Pressure drop 12 cm Hg gives h = 12 x 13 / 0.00013 cm = 12,000 m. D (12,800 m) is the nearest option."
+  },
+  {
+   "number": 14,
+   "answer": "B",
+   "explanation": "A dry needle floats because of surface tension; the other cases rely on buoyancy or osmosis."
+  },
+  {
+   "number": 15,
+   "answer": "D",
+   "explanation": "Scale spans 120 S for 100 C. (60 + 30)/120 x 100 = 75 C."
+  },
+  {
+   "number": 16,
+   "answer": "A",
+   "explanation": "Change in length = 2 x 18e-6 x 100 = 0.0036 m, so the new length is 2.0036 m."
+  },
+  {
+   "number": 17,
+   "answer": "C",
+   "explanation": "Both lose the same heat in cooling from 100 C to 80 C, so the difference is the latent heat of steam: 4 x 2,260,000 = 9,040,000 J."
+  },
+  {
+   "number": 18,
+   "answer": "A",
+   "explanation": "For an ideal gas at constant pressure V is proportional to T, a straight line through the origin (first graph, top left)."
+  },
+  {
+   "number": 19,
+   "answer": "C",
+   "explanation": "Time = mc(change in T)/P = 1 x 4200 x 30 / 750 = 168 s."
+  },
+  {
+   "number": 20,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 21,
+   "answer": "C",
+   "explanation": "Absolute temperature of an ideal gas is proportional to the average kinetic energy of its molecules."
+  },
+  {
+   "number": 22,
+   "answer": "B",
+   "explanation": "A person away from the fire is warmed mainly by radiation."
+  },
+  {
+   "number": 23,
+   "answer": "C",
+   "explanation": "Mean time for 30 oscillations = (70 + 72 + 67)/3 = 69.67 s, so period = 69.67/30 = 2.32 s."
+  },
+  {
+   "number": 24,
+   "answer": "A",
+   "explanation": "Both light and sound waves transmit energy."
+  },
+  {
+   "number": 25,
+   "answer": "D",
+   "explanation": "A pin-hole camera forms an inverted image from light travelling in straight lines through the hole."
+  },
+  {
+   "number": 26,
+   "answer": "C",
+   "explanation": "Rotating a mirror by an angle rotates the reflected ray by twice that angle, 2Q."
+  },
+  {
+   "number": 27,
+   "answer": "A",
+   "explanation": "Apparent depth = 12/(4/3) = 9 cm, so the coin is displaced by 12 - 9 = 3 cm."
+  },
+  {
+   "number": 28,
+   "answer": "A",
+   "explanation": "A ray through the optical centre of a thin lens passes undeviated."
+  },
+  {
+   "number": 29,
+   "answer": "A",
+   "explanation": "1/v = 1/f - 1/u with sign convention gives v = -3 cm, so the image is virtual and 3 cm in front of the lens."
+  },
+  {
+   "number": 30,
+   "answer": "B",
+   "explanation": "Beat frequency = 260 - 256 = 4 Hz."
+  },
+  {
+   "number": 31,
+   "answer": "B",
+   "explanation": "v = f x wavelength = 260 x 1.29 = 335.4 m/s. Distance = v x t/2 = 335.4 m."
+  },
+  {
+   "number": 32,
+   "answer": "C",
+   "explanation": "The wooden box is forced to vibrate at the fork's frequency, which is resonance."
+  },
+  {
+   "number": 33,
+   "answer": "B",
+   "explanation": "Declination is the angle between the magnetic meridian and the geographic meridian."
+  },
+  {
+   "number": 34,
+   "answer": "C",
+   "explanation": "A copper rod is a conductor, so charge leaks away and it acquires no charge when rubbed."
+  },
+  {
+   "number": 35,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 36,
+   "answer": "C",
+   "explanation": "The carbon and manganese (IV) oxide mixture oxidises hydrogen and so prevents polarization."
+  },
+  {
+   "number": 37,
+   "answer": "C",
+   "explanation": "Shunt R = Ig x Rg/(I - Ig) = 0.001 x 300/2.999 = 0.10 Ohm."
+  },
+  {
+   "number": 38,
+   "answer": "D",
+   "explanation": "Metals obey Ohm's law at constant temperature."
+  },
+  {
+   "number": 39,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 40,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 41,
+   "answer": "B",
+   "explanation": "P = I^2 R gives I^2 = 1500/375 = 4, so I = 2.00 A."
+  },
+  {
+   "number": 42,
+   "answer": "C",
+   "explanation": "A split-ring commutator replaces the slip rings to give direct current."
+  },
+  {
+   "number": 43,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 44,
+   "answer": "A",
+   "explanation": "m = zIt gives t = 1.0/(5.0e-7 x 100) = 2.0e4 s, which is about 5.6 hours."
+  },
+  {
+   "number": 45,
+   "answer": "D",
+   "explanation": "Isotopes have the same number of protons and electrons, so the same chemical properties, and are separated by physical properties such as mass."
+  },
+  {
+   "number": 46,
+   "answer": "B",
+   "explanation": "An atom that gains or loses charge becomes an ion."
+  },
+  {
+   "number": 47,
+   "answer": "C",
+   "explanation": "3.5 g disintegrated leaves 0.5 g, which is 4 g halved 3 times, so 3 x 10 = 30 days."
+  },
+  {
+   "number": 48,
+   "answer": "A",
+   "explanation": "Fusion releases energy, so mass is lost and the product has less mass than four protons: 4Mp > Mx."
+  },
+  {
+   "number": 49,
+   "answer": "A",
+   "explanation": "Alpha decay reduces mass number by 4 and atomic number by 2."
+  },
+  {
+   "number": 50,
+   "answer": "C",
+   "explanation": "The photoelectric effect is a metal absorbing quanta of light and then emitting electrons."
+  }
+ ]
+}
