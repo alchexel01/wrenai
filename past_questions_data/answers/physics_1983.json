@@ -1,0 +1,255 @@
+{
+  "year": 1983,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "B",
+      "explanation": "For a tube closed at one end, the fundamental frequency is f1 = v/4L and the next overtone is f2 = 3v/4L, so f2/f1 = 3."
+    },
+    {
+      "number": 2,
+      "answer": "B",
+      "explanation": "Altitude has only magnitude (height above sea level) and no direction, making it a scalar quantity rather than a vector."
+    },
+    {
+      "number": 3,
+      "answer": "D",
+      "explanation": "Resolving forces at equilibrium gives horizontal balance P3 = P1 cos theta1 + P2 cos theta2 and vertical balance P1 sin theta1 = P2 sin theta2."
+    },
+    {
+      "number": 4,
+      "answer": "D",
+      "explanation": "The angle of friction is actually the angle between the normal reaction and the resultant of the normal reaction and limiting friction, not the friction force itself."
+    },
+    {
+      "number": 5,
+      "answer": "A",
+      "explanation": "Static friction is self-adjusting and equals the applied pull up to its limiting value, so it increases as the pull increases while the brick remains at rest."
+    },
+    {
+      "number": 6,
+      "answer": "E",
+      "explanation": "Weight is defined as the gravitational force exerted by the Earth on an object (W = mg)."
+    },
+    {
+      "number": 7,
+      "answer": "B",
+      "explanation": "Using n = c/v, the speed in the liquid is v = (3.0 x 10^8 m/s) / 1.5 = 2.0 x 10^8 m/s (printed with a typo as 10^3 in the options)."
+    },
+    {
+      "number": 8,
+      "answer": "C",
+      "explanation": "Mass in air is 20 cm^3 x 19 g/cm^3 = 380 g; upthrust in water equals the mass of 20 cm^3 of water (20 g), leaving an apparent mass of 360 g."
+    },
+    {
+      "number": 9,
+      "answer": "E",
+      "explanation": "Liquid pressure at a given depth depends only on liquid density, depth, and gravity (P = rho g h), not on the shape of the container."
+    },
+    {
+      "number": 10,
+      "answer": "B",
+      "explanation": "Initial distance is (250 x 3.5)/2 = 437.5 m and final distance is (250 x 2.5)/2 = 312.5 m, so the ship moved 437.5 - 312.5 = 125 m closer."
+    },
+    {
+      "number": 11,
+      "answer": "D",
+      "explanation": "Statement III is wrong because beats result from slightly different frequencies, and IV is wrong because 500 Hz and 502 Hz produce a beat frequency of 2 Hz (the question has a typo 'neat' and standard JAMB key marks III and IV)."
+    },
+    {
+      "number": 12,
+      "answer": "C",
+      "explanation": "Long-sightedness blurs near objects while short-sightedness blurs distant objects; short sight is corrected with diverging lenses, not converging lenses."
+    },
+    {
+      "number": 13,
+      "answer": "D",
+      "explanation": "Gamma rays have the highest frequency and shortest wavelength in the electromagnetic spectrum, much shorter than the 400 nm violet end of visible light."
+    },
+    {
+      "number": 14,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 15,
+      "answer": "B",
+      "explanation": "Using v = u + at, v = 44 + (-4)(10) = 44 - 40 = 4 m/s."
+    },
+    {
+      "number": 16,
+      "answer": "D",
+      "explanation": "Total internal reflection requires light to travel from an optically denser to a less dense medium with the angle of incidence greater than the critical angle."
+    },
+    {
+      "number": 17,
+      "answer": "E",
+      "explanation": "Power = mgh / t = (50 kg x 10 m/s^2 x 5 m) / 5 s = 500 W."
+    },
+    {
+      "number": 18,
+      "answer": "A",
+      "explanation": "A pure spectrum requires a narrow slit, a collimator converging lens to produce parallel rays, a prism to disperse them, and a second converging lens to focus onto a screen."
+    },
+    {
+      "number": 19,
+      "answer": "E",
+      "explanation": "In Fig. 3, I5 passes through a single 1 ohm resistor connected directly across a 20 V battery, giving I5 = 20 V / 1 ohm = 20 A, which is the largest current."
+    },
+    {
+      "number": 20,
+      "answer": "B",
+      "explanation": "Shunt resistance S = (Ig Rg) / (I - Ig) = (0.1 A x 5 ohms) / (1.0 A - 0.1 A) = 0.5 / 0.9 = 5/9 ohm in parallel (printed as 5/99 in the PDF)."
+    },
+    {
+      "number": 21,
+      "answer": "B",
+      "explanation": "Low current reduces I^2R heat losses and allows thinner, cheaper transmission cables; electrical signals travel at nearly the speed of light regardless of voltage."
+    },
+    {
+      "number": 22,
+      "answer": "E",
+      "explanation": "Volume expansivity gamma = 3 x alpha = 6 x 10^-5 /C; new volume V = 100(1 + 6 x 10^-5 x 100) = 100.6 cm^3 (closest printed value is E, though options contain decimal typos)."
+    },
+    {
+      "number": 23,
+      "answer": "B",
+      "explanation": "In a parallel combination, each 6-ohm resistor receives the full 24 V potential difference, so the current in each is I = 24 V / 6 ohms = 4 A."
+    },
+    {
+      "number": 24,
+      "answer": "D",
+      "explanation": "As temperature rises, T's resistance drops so more current flows through the branch containing L1 making L1 brighter, while L2 across the negligible-resistance cell stays unchanged."
+    },
+    {
+      "number": 25,
+      "answer": "A",
+      "explanation": "By the parallelogram law of vectors, when P and Q are drawn tail-to-tail, the resultant R is the diagonal starting from their common tail."
+    },
+    {
+      "number": 26,
+      "answer": "E",
+      "explanation": "Mass m = Z I t = (0.126 x 10^-6 kg/C) x 5 A x 3600 s = 2.268 x 10^-3 kg."
+    },
+    {
+      "number": 27,
+      "answer": "E",
+      "explanation": "Both water ripples and light waves exhibit standard wave properties such as reflection, refraction, diffraction, and interference."
+    },
+    {
+      "number": 28,
+      "answer": "C",
+      "explanation": "A floating body in equilibrium on water is acted upon by two vertical forces: its downward weight and the upward buoyant force (upthrust)."
+    },
+    {
+      "number": 29,
+      "answer": "B",
+      "explanation": "Power is IV = I^2R = V^2/R = J/s; ampere/volt (I/V) represents electrical conductance (siemens), not power."
+    },
+    {
+      "number": 30,
+      "answer": "C",
+      "explanation": "Acceleration a = F/m = 16 N / 4.0 kg = 4 m/s^2, so velocity at t = 5 s is v = u + at = 0 + 4 x 5 = 20 m/s."
+    },
+    {
+      "number": 31,
+      "answer": "A",
+      "explanation": "Mass of one drop is 5 x 10^-7 kg, giving volume V = m/rho = (5 x 10^-7) / 5000 = 10^-10 m^3; thickness t = V/A = 10^-10 / 0.5 = 2 x 10^-10 m (closest printed power is 2 x 10^-8 m)."
+    },
+    {
+      "number": 32,
+      "answer": "B",
+      "explanation": "An extra 100 g (0.30 kg - 0.20 kg) stretches the spring by 2 cm (16 cm - 14 cm), so 200 g causes a 4 cm extension, giving an unstretched length of 14 cm - 4 cm = 10.00 cm."
+    },
+    {
+      "number": 33,
+      "answer": "B",
+      "explanation": "Parallel conductors carrying currents in the same direction attract each other, which occurs in diagrams I and III."
+    },
+    {
+      "number": 34,
+      "answer": "B",
+      "explanation": "Atomic number equals the number of protons in an atom's nucleus, whereas mass number equals protons plus neutrons."
+    },
+    {
+      "number": 35,
+      "answer": "E",
+      "explanation": "A thin-walled bulb allows heat to pass quickly to the thermometric liquid, and a liquid with high thermal conductivity reaches thermal equilibrium rapidly."
+    },
+    {
+      "number": 36,
+      "answer": "E",
+      "explanation": "Mechanical advantage MA = 200/50 = 4, and efficiency = (MA / VR) x 100% = (4 / 5) x 100% = 80%."
+    },
+    {
+      "number": 37,
+      "answer": "B",
+      "explanation": "Using h1 rho1 = h2 rho2, h2 = 0.76 m x 13.8 = 10.49 m, which rounds to 10 m among the given options."
+    },
+    {
+      "number": 38,
+      "answer": "C",
+      "explanation": "Heat supplied Q = I^2 R t = 3^2 x 20 x 10 = 1800 J; specific heat capacity c = Q / (m delta_T) = 1800 / (1000 x 10) = 0.18 J/g C."
+    },
+    {
+      "number": 39,
+      "answer": "C",
+      "explanation": "Internal resistance r = R(E - V)/V = 4 ohms x (2.2 V - 2.0 V) / 2.0 V = 0.40 ohms."
+    },
+    {
+      "number": 40,
+      "answer": "E",
+      "explanation": "By the right-hand grip rule with upward current from R to Q, the circular magnetic field lines point East at point P located South of the wire."
+    },
+    {
+      "number": 41,
+      "answer": "C",
+      "explanation": "Heat energy in the steam engine converts to kinetic energy of the turbine/generator, which produces electricity that converts to heat and light in the lamp."
+    },
+    {
+      "number": 42,
+      "answer": "B",
+      "explanation": "Copper expands more than steel when heated, causing the bimetallic strip to bend downward and make contact with the terminal to close the bell circuit."
+    },
+    {
+      "number": 43,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 44,
+      "answer": "B",
+      "explanation": "Both a wet-and-dry bulb hygrometer and a hair hygrometer are used to determine relative humidity."
+    },
+    {
+      "number": 45,
+      "answer": "D",
+      "explanation": "A plane mirror inclined at 45 degrees rotates the image of a horizontal rod by 2 x 45 = 90 degrees, making the image appear vertical."
+    },
+    {
+      "number": 46,
+      "answer": "B",
+      "explanation": "Using n = c/v, speed in the liquid is v = (3.0 x 10^8 m/s) / (4/3) = 2.25 x 10^8 m/s."
+    },
+    {
+      "number": 47,
+      "answer": "C",
+      "explanation": "Electric field intensity E = F / q = 4 N / 0.2 C = 20.0 N/C."
+    },
+    {
+      "number": 48,
+      "answer": "B",
+      "explanation": "Vaporization requires completely separating molecules against intermolecular forces and doing work against external pressure, so its latent heat always exceeds that of fusion."
+    },
+    {
+      "number": 49,
+      "answer": "D",
+      "explanation": "Polarization only occurs in transverse waves where vibrations are perpendicular to wave propagation, so longitudinal waves cannot be polarized."
+    },
+    {
+      "number": 50,
+      "answer": "D",
+      "explanation": "For a siphon to work, the U-tube must be completely filled with water to establish continuous pressure and the outlet P must be lower than the water surface W."
+    }
+  ]
+}
