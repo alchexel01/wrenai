@@ -1,0 +1,949 @@
+[
+ {
+  "id": "literature-in-english-2014-1",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 1,
+  "question": "Which Question Paper Type of Literature-in- English is given to you?",
+  "options": {
+   "A": "Type F",
+   "B": "Type S",
+   "C": "Type L",
+   "D": "Type S Questions 2 to 5 are based on Femi Osofisan's Women of Owu"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-2",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 2,
+  "question": "In the play, the gods are portrayed as",
+  "options": {
+   "A": "helpless",
+   "B": "architects of man's destiny",
+   "C": "amorous",
+   "D": "saviours of mankind"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-3",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 3,
+  "question": "Orisaye describes Balogun Kusa as",
+  "options": {
+   "A": "a great warrior",
+   "B": "an enemy and a butcher",
+   "C": "a friend in need",
+   "D": "a good leader"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-4",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 4,
+  "question": "Erelu is",
+  "options": {
+   "A": "the oldest wife of the Oba Akinjobi",
+   "B": "a courtier to the Alaafin of Oyo",
+   "C": "the most brilliant woman in Owu",
+   "D": "the first wife of the Oba"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-5",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 5,
+  "question": "Balogun Kusa is killed by a",
+  "options": {
+   "A": "god",
+   "B": "herbalist",
+   "C": "lunatic",
+   "D": "soldier Questions 6 to 10 are based on William Shakespeare's The Tempest."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-6",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 6,
+  "question": "In the play, Ariel is identified as",
+  "options": {
+   "A": "leader of the spirits",
+   "B": "Prospero's daughter",
+   "C": "Alonso's wife D assistant to Sycorax"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-7",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 7,
+  "question": "Before the shipwreck that occurs at the beginning of the play, Prospero and his daughter have lived in the Island for",
+  "options": {
+   "A": "two decades",
+   "B": "twelve years",
+   "C": "forty days",
+   "D": "eighteen months."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-8",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 8,
+  "question": "Caliban's intention to rape Miranda is born out of the desire to",
+  "options": {
+   "A": "destroy the Island",
+   "B": "compete with Ferdinand",
+   "C": "populate the Island with Calibans",
+   "D": "marry her."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-9",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 9,
+  "question": "The character associated with savagery in the play is",
+  "options": {
+   "A": "Ariel",
+   "B": "Stephano",
+   "C": "Caliban",
+   "D": "Ferdinand"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-10",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 10,
+  "question": "Prospero is portrayed as a man who is",
+  "options": {
+   "A": "full of mistrust for everybody",
+   "B": "more interested in studying than in governance",
+   "C": "dependent on the spirits for his survival",
+   "D": "eager to conquer the world Questions 11 to 13 are based on Asare Konadu's A Woman in Her Prime."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-11",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 11,
+  "question": "The novel explores the theme of",
+  "options": {
+   "A": "exploitation of the African woman",
+   "B": "sex discrimination in Ghana",
+   "C": "women liberation in Nigeria",
+   "D": "child quest of an African woman"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-12",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 12,
+  "question": "According to the novel, the worst calamity that can befall a woman is",
+  "options": {
+   "A": "inability to bear male",
+   "B": "inability to marry",
+   "C": "divorce children",
+   "D": "barrenness."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-13",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 13,
+  "question": "In the novel, Asogo is a game in which",
+  "options": {
+   "A": "fathers narrate animal stories",
+   "B": "boys abuse girls with music",
+   "C": "girls sing songs of praise admonition",
+   "D": "mothers lure their babies to sleep Questions 14 to 16 are based on Chimamanda Adiechie’s Purple Hibiscus"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-14",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 14,
+  "question": "In the novel, one of the changes introduced into St. Agnes’ church by Father is that",
+  "options": {
+   "A": "there must be fasting every month",
+   "B": "the Credo must be recited in lgbo",
+   "C": "the Kyrie must be rendered only in Latin",
+   "D": "everyone must take holy communion"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-15",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 15,
+  "question": "Eugene Achike in the novel is portrayed as",
+  "options": {
+   "A": "a soft and gentle husband",
+   "B": "an uncompromising traditionalist",
+   "C": "a fanatical Catholic adherent",
+   "D": "a tough retired soldier."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-16",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 16,
+  "question": "In the Achike family, the character who is central to the theme is",
+  "options": {
+   "A": "Kambili",
+   "B": "Mama",
+   "C": "Sisi",
+   "D": "Jaja Questions 17 to 20 are based on Ernest Hemingway's The Old Man and the Sea."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-17",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 17,
+  "question": "In the novel, the type of fish caught by Santiago after days of effort is",
+  "options": {
+   "A": "shark",
+   "B": "iris",
+   "C": "marlin",
+   "D": "geisha"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-18",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 18,
+  "question": "The novel demonstrates the",
+  "options": {
+   "A": "attempt to catch fish",
+   "B": "desire to understand life",
+   "C": "influence of the sea on man",
+   "D": "struggle of man against-defeat"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-19",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 19,
+  "question": "In the novel, the attitude of the old man toward nature is quite",
+  "options": {
+   "A": "cautious and sceptical",
+   "B": "hostile and callous",
+   "C": "careless and indifferent",
+   "D": "warm and friendly."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-20",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 20,
+  "question": "Santiago's second dream occurs",
+  "options": {
+   "A": "the night before his fishing expedition",
+   "B": "in his house",
+   "D": "when he sleeps on the boat for a few hours. Questions 21 to 30 are based on Selected Poems from Ker,D. et al (eds.) New Poetry from Africa; Soyinka, (ed.): Poems of Black Africa; Senanu K.E. and Vincent, T. (eds.): A Selection of African Poetry; Umukoro, M et a! (eds.): Exam Focus: Literature in English; Ernubetine, A.E. et al (eds.): Longman Examination Guides and Nwoga, D.1. (ed): West African Verse."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-21",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 21,
+  "question": "The dominant image in Adeoti's Hard Lines is",
+  "options": {
+   "A": "auditory",
+   "B": "gustatory",
+   "C": "visual",
+   "D": "tactile."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-22",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 22,
+  "question": "The tone of Umeh's Ambassadors of Poverty can be described as",
+  "options": {
+   "A": "metaphorical",
+   "B": "sarcastic",
+   "C": "admonitory",
+   "D": "panegyrical"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-23",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 23,
+  "question": "Owonibi's Homeless, not Hopeless, the persona explains that street beggars",
+  "options": {
+   "A": "always worry about heaven",
+   "B": "rarely sleep and dream",
+   "C": "attend conferences in towns",
+   "D": "are concerned with their daily needs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-24",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 24,
+  "question": "Cheney-Coker's Myopia is a",
+  "options": {
+   "A": "dirge",
+   "B": "lament",
+   "C": "sonnet",
+   "D": "ballad"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-25",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 25,
+  "question": "Jared Angira is an African poet from",
+  "options": {
+   "A": "Sierra-Leone",
+   "B": "Kenya",
+   "C": "South Africa",
+   "D": "Ghana."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-26",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 26,
+  "question": "The dominant technique used in Serenade is",
+  "options": {
+   "A": "metaphor",
+   "B": "simile",
+   "C": "oxymoron",
+   "D": "apostrophe"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-27",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 27,
+  "question": "The sun in Donne's The Sun Rising is depicted through the",
+  "options": {
+   "A": "invocation",
+   "B": "ellipsis",
+   "C": "enjambment",
+   "D": "apostrophe"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-28",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 28,
+  "question": "In Raleigh's The Soul's Errand, the soul is portrayed as a",
+  "options": {
+   "A": "friend of suffering masses",
+   "B": "fearless message-bearer",
+   "C": "restorer of lost glory",
+   "D": "messenger of hope and peace."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-29",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 29,
+  "question": "The allusion in Hughes's The Negro Speaks of Rivers is mainly",
+  "options": {
+   "A": "biblical",
+   "B": "historical",
+   "C": "classical",
+   "D": "literary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-30",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 30,
+  "question": "Fletcher's Upon An Honest Man's Fortune encourages people to",
+  "options": {
+   "A": "condemn soothsaying",
+   "B": "move in the direction of God",
+   "C": "accept soothsaying",
+   "D": "accept life as it is. Questions 31 to 40 are based on General Literary Principles"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-31",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 31,
+  "question": "An action in a play that stimulates the audience to pity a character is",
+  "options": {
+   "A": "pathos",
+   "B": "parody",
+   "C": "pyrrhic",
+   "D": "props"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-32",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 32,
+  "question": "Purgation of emotion, pity and fear is",
+  "options": {
+   "A": "epilogue",
+   "B": "exposition",
+   "C": "catharsis",
+   "D": "catastrophe"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-33",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 33,
+  "question": "A device in drama where a character speaks alone is",
+  "options": {
+   "A": "apostrophe",
+   "B": "dialogue",
+   "C": "soliloquy",
+   "D": "aside"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-34",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 34,
+  "question": "A plot in a literary work is about",
+  "options": {
+   "A": "resolution of conflicts",
+   "B": "law of poetic justice",
+   "C": "character delineation",
+   "D": "causal arrangement of events"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-35",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 35,
+  "question": "Tone and mood of a poem refer to",
+  "options": {
+   "A": "setting",
+   "B": "space",
+   "C": "locale",
+   "D": "atmosphere"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-36",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 36,
+  "question": "A funny incident within a serious situation is",
+  "options": {
+   "A": "tragicomedy",
+   "B": "tragic hero",
+   "C": "comedy",
+   "D": "comic relief"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-37",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 37,
+  "question": "In literature, a flat character can be described as one who",
+  "options": {
+   "A": "dies abruptly",
+   "B": "achieves greatness",
+   "C": "is undeveloped",
+   "D": "undergoes changes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-38",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 38,
+  "question": "Dramatis personae in a play refers to",
+  "options": {
+   "A": "cast list",
+   "B": "protagonist and antagonist",
+   "C": "list of characters",
+   "D": "order of appearance"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-39",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 39,
+  "question": "The speech made at the end of a dramatic performance is generally called",
+  "options": {
+   "A": "a dirge",
+   "B": "a monologue",
+   "C": "a prologue.",
+   "D": "an epilogue"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-40",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 40,
+  "question": "Which of the following is central to narrative fiction?",
+  "options": {
+   "A": "Objectivity",
+   "B": "Subjectivity",
+   "C": "Verisimilitude",
+   "D": "Dialogue Questions 41 to 50 are based on Literary Appreciation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-41",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 41,
+  "question": "He put himself in uniform, made one for his five- year-old son, and marched with the infant from dawn till noon every market day, on the main road singing `Kayiwawa beturi… The persona in the excerpt above is portrayed as",
+  "options": {
+   "A": "energetic",
+   "B": "a policeman",
+   "C": "a soldier",
+   "D": "abnormal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-42",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 42,
+  "question": "He is a faithful liar The above is an example of",
+  "options": {
+   "A": "epigram",
+   "B": "oxymoron",
+   "C": "euphemism",
+   "D": "antithesis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-43",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 43,
+  "question": "Fights by the book of arithmetic The figure of speech in the line above is",
+  "options": {
+   "A": "hyperbole",
+   "B": "Euphemism",
+   "C": "Litotes",
+   "D": "Innuendo"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-44",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 44,
+  "question": "And when you trudge on one horny pads Gullied like the soles of modern shoes Pads that even jiggers cannot conquer Horny pads in the lines above is a reference to",
+  "options": {
+   "A": "policeman",
+   "B": "madman",
+   "C": "sole of a pauper",
+   "D": "sole of a soldier."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-45",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 45,
+  "question": "'Lift not the painted veil which those who live call life: though unreal shapes be picture there, And it but mimic all we would believe With colours idly spread-behind, lurk fear.' P.B Shelley: Sonnet The stanza above is an example of a",
+  "options": {
+   "A": "quatrain",
+   "B": "sonnet",
+   "C": "couplet",
+   "D": "sestet Use the following excerpt to answer questions 46 to 48. `I wonder how long, you awful parasites, shall share with me this little bed, And awake me, from my sweet dreams be lost, sucking blood from my poor head...' By Mbure: To a Bed-Bug"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-46",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 46,
+  "question": "The lines are an example of a",
+  "options": {
+   "A": "limerick",
+   "B": "lampoon",
+   "C": "light verse",
+   "D": "light opera"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-47",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 47,
+  "question": "The poet persona expresses dismay about",
+  "options": {
+   "A": "bat",
+   "C": "grasshoppers",
+   "D": "light opera"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-48",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 48,
+  "question": "The most dominant figure of speech in the excerpt is",
+  "options": {
+   "A": "metaphor",
+   "B": "simile",
+   "C": "personification",
+   "D": "hyperbole"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-49",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 49,
+  "question": "You Your head is like a drum that is beaten for spirits. You Your ears are like the fans used for blowing fire. The lines above are a good example of",
+  "options": {
+   "A": "caricature",
+   "B": "ridicule",
+   "C": "satire",
+   "D": "lampoon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2014-50",
+  "subject": "literature_in_english",
+  "year": 2014,
+  "number": 50,
+  "question": "'This thing you are doing is too heavy for you, he said. I went to school only a little but I have killed many many more years in this world than you have'. G. Okara: The voice It can be inferred from the passage above that the",
+  "options": {
+   "A": "listener is wise",
+   "B": "speaker is a porter",
+   "C": "listener is more experienced",
+   "E": "speaker is more experienced. ANSWER 25. KEYS 26. 1. D 27. 2. B 28. 3. B 29. 4. A 30. 5. C 31. 6. A 32. 7. D 33. 8. D 34. 9. C 35. 10. A 36. 11. A 37. 12. D 38. 13. D 39. 14. B 40. 15. C 41. 16. A 42. 17. C 43. 18. D 44. 19. A 45. 20. D 46. 21. C 47. 22. C 48. 23. D 49. 24. B 50."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

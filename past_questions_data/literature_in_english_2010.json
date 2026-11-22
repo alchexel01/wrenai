@@ -1,0 +1,872 @@
+[
+ {
+  "id": "literature-in-english-2010-1",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 1,
+  "question": "Which literature in English Question Paper Type is given to you?",
+  "options": {
+   "A": "Type A",
+   "B": "Type B",
+   "C": "Type C",
+   "D": "Type D Questions 2 to 5 are based on J.C. De Graft's Sons and Daughters"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-2",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 2,
+  "question": "„I simply don't understand what's the matter with everybody today. Everybody let me down, and the speaker above is referring to .",
+  "options": {
+   "A": "Fosuwa and Maidservant",
+   "B": "Hannah and George",
+   "C": "Aaron and Maanan",
+   "D": "Lawyer B and Mrs. B"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-3",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 3,
+  "question": "Maanan expresses dislike for Lawyer B because of .",
+  "options": {
+   "A": "his condemnation of her choice of career",
+   "B": "his recent advances towards her",
+   "C": "the betrayal of her father's trust",
+   "D": "the betrayal of his wife's trust."
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-4",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 4,
+  "question": "The traditional order in the play is represented by .",
+  "options": {
+   "A": "Mrs. B",
+   "B": "Hannah",
+   "C": "Maanan",
+   "D": "Aunt"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-5",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 5,
+  "question": "Where does the play take place?",
+  "options": {
+   "A": "On the street",
+   "B": "In George's place",
+   "C": "In Aunt's house",
+   "D": "In Ofosu's place. Questions 6 to 10 based on William Shakes ear's Romeo and Juliet"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-6",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 6,
+  "question": "'0' deadly sin!O rude unthankfulness! Thy fault our law calls death, but the kind Prince, Taking thy part, hath rushed aside the law And turned that black word...' Deadly sin refers to the .",
+  "options": {
+   "A": "suicide of Juliet",
+   "B": "suicide of Romeo",
+   "C": "murder of Paris",
+   "D": "murder of TybaIt"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-7",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 7,
+  "question": "The play is mostly written in .",
+  "options": {
+   "A": "blank verse",
+   "B": "free verse",
+   "C": "metres",
+   "D": "foot."
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-8",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 8,
+  "question": "'0' serpent heart, hid with a flowering face!' The statement above refers to",
+  "options": {
+   "A": "Juliet",
+   "B": "Romeo",
+   "C": "Tybalt",
+   "D": "Benvolio."
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-9",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 9,
+  "question": "The spatial setting of the play is .",
+  "options": {
+   "A": "Athens",
+   "B": "Verona",
+   "C": "Padua",
+   "D": "Venice"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-10",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 10,
+  "question": "Romeo is banished to Mantua because he .",
+  "options": {
+   "A": "kills Tybalt in a street duel",
+   "B": "marries Juliet without parental consent",
+   "C": "attends Capulet's party uninvited",
+   "D": "attempts to kill paris his rival. Questions 11 to 13 are based on Buchi Emecheta's The Joys of Motherhood."
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-11",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 11,
+  "question": "In the novel, the society puts high value on .",
+  "options": {
+   "A": "egalitarianism",
+   "B": "male ascendancy",
+   "C": "procreation",
+   "D": "gender equity."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-12",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 12,
+  "question": "The medicine man links the lump discovered on the head of Nnu Ego at birth, to the .",
+  "options": {
+   "A": "possession of physical admirable qualities that makes her an epitome of perfection.",
+   "B": "wound inflicted on the slave woman",
+   "C": "coming back of the Agunwa to the society to live again",
+   "D": "ill-luck and tragic events attributed to a predestined fate"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-13",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 13,
+  "question": "The constant companions of Nnaife's family are .",
+  "options": {
+   "A": "togetherness and happiness",
+   "B": "poverty and hunger",
+   "C": "sickness and joblessness",
+   "D": "disagreement and humiliation Questions 14 to 16 are based on Ferdinand Oyano's The Old Man and the Medal."
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-14",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 14,
+  "question": "The disagreement between Mvondo and Nti centres on the latter‟s claim to have",
+  "options": {
+   "A": "assisted Meka in getting the medal",
+   "B": "eaten the entire entrails of a sheep",
+   "C": "eaten more than his share of the food",
+   "D": "been in a white man‟s office"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-15",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 15,
+  "question": "Meka can be best be described as .",
+  "options": {
+   "A": "an egocentric old man",
+   "B": "a simple-hearted old man",
+   "C": "an impulsive old man",
+   "D": "an old religious bigot"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-16",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 16,
+  "question": "In the novel, the colonialists treat the Africans with .",
+  "options": {
+   "A": "Kids‟ gloves",
+   "B": "disdain",
+   "C": "indifference",
+   "D": "honour Questions 17 to 20 are based on George Orwell's Nineteen Eighty-four"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-17",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 17,
+  "question": "The Ministry of peace is concerned with making _.",
+  "options": {
+   "A": "instruments",
+   "B": "weapons",
+   "C": "wars",
+   "D": "reconciliation"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-19",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 19,
+  "question": "How did Winston start his rebellion against the state .",
+  "options": {
+   "A": "By engaging in anti-party activities",
+   "B": "By keeping a private diary",
+   "C": "When he started a secret affair",
+   "D": "When he spied on the party. 20.The party seeks power for ."
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-21",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 21,
+  "question": "As the dancers move through paths strewn with glass chips, the images in Adeoti's Naked Soles change from .",
+  "options": {
+   "A": "joy to excitement",
+   "B": "inaction to action",
+   "C": "pain to grief",
+   "D": "sorrow to joy."
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-22",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 22,
+  "question": "Rubadiris's An African Thunderstorm, says that during thunderstorm in the village",
+  "options": {
+   "A": "women cook their food",
+   "B": "children play in the rain",
+   "C": "children are delighted while women move in and out",
+   "D": "both women and children are delighted."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-23",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 23,
+  "question": "'Yet in their finger upon Our navel The midwives of the spirit say They feel a foetal throb. The dominant literary device used in the extract above from Acquahs' In the Navel of the Soul is A. epigram",
+  "options": {
+   "B": "allegory",
+   "C": "enjambment",
+   "D": "rhythm."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-24",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 24,
+  "question": "In Kunene's A heritage of Liberation, the poet persona requests that the weapons of warfare be handed to their .",
+  "options": {
+   "A": "friends",
+   "B": "relations",
+   "C": "grand children",
+   "D": "families"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-25",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 25,
+  "question": "The predominant device in Launko's End of the War is .",
+  "options": {
+   "A": "onomatopoeia",
+   "B": "antithesis",
+   "C": "oxymoron",
+   "D": "paradox"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-26",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 26,
+  "question": "The theme of the poem Give Me The Minstrel's Seat centres on",
+  "options": {
+   "A": "divorce",
+   "B": "fortune",
+   "C": "marriage",
+   "D": "companionship."
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-27",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 27,
+  "question": "The poet persona in Marvell's To His Coy Mistress is willing to praise the lady's eyes for",
+  "options": {
+   "A": "thirty thousand years",
+   "B": "six decades",
+   "C": "two centuries",
+   "D": "a century."
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-28",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 28,
+  "question": "In Lawrence's Bat, the poet persona mistakes the bats for",
+  "options": {
+   "A": "owls",
+   "B": "swallows",
+   "C": "pipistrello",
+   "D": "sparrows"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-29",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 29,
+  "question": "In Eliot's Journey of the Magi, the magi are aided on their journey by",
+  "options": {
+   "A": "donkeys",
+   "B": "horses",
+   "C": "camels D chariots."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-30",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 30,
+  "question": "According to Cope‟s Sonnet VII, poetry is basically .",
+  "options": {
+   "A": "boring",
+   "B": "therapeutic",
+   "D": "inspiring Questions 31 to 40 are based on General Literary Principles."
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-31",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 31,
+  "question": "A play which mainly aims at provoking excessive laughter is called",
+  "options": {
+   "A": "tragi-comedy",
+   "B": "comedy",
+   "C": "a farce",
+   "D": ""
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-32",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 32,
+  "question": "Both comedy and tragedy have .",
+  "options": {
+   "A": "happy ending",
+   "B": "climax",
+   "C": "tragic hero",
+   "D": "stanza"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-33",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 33,
+  "question": "A formal dignified speech or writing praising a person or a thing for past or present deeds is",
+  "options": {
+   "A": "premiere",
+   "B": "eulogy",
+   "C": "anthology",
+   "D": "lampoon"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-34",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 34,
+  "question": "The narrative style in which the hero tells his own story directly is the .",
+  "options": {
+   "A": "objective",
+   "B": "subjective",
+   "C": "first- person",
+   "D": "third-person."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-35",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 35,
+  "question": "The physical, historical or cultural background of a literary work is referred to as",
+  "options": {
+   "A": "episode",
+   "B": "plot",
+   "C": "time",
+   "D": "setting"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-36",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 36,
+  "question": "A plot structure that defies chronology can be described as",
+  "options": {
+   "A": "open-ended",
+   "B": "circular",
+   "C": "episodic",
+   "D": "organic"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-37",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 37,
+  "question": "Pun as a literary device deals with",
+  "options": {
+   "A": "placing two opposite phrases",
+   "C": "playing on words",
+   "D": "arrangement of words"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-38",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 38,
+  "question": "In a narrative poem, the poet attempts",
+  "options": {
+   "A": "summarize a story",
+   "B": "describe a place",
+   "C": "preach a sermon",
+   "D": "tell a story"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-39",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 39,
+  "question": "The account of experiences of an individual during the course of a journey is known as",
+  "options": {
+   "A": "a travelogue",
+   "B": "an autobiography",
+   "C": "a catalogue",
+   "D": "a memoir"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-40",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 40,
+  "question": "Satirical writing employs _.",
+  "options": {
+   "A": "epigram",
+   "B": "synecdoche",
+   "C": "irony",
+   "D": "onomatopoeia. Questions 41 to 50 are based on Literary Appreciation. Use the quotation below to answer questions 41 and 42."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-41",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 41,
+  "question": "„Basha: You dumb skull of a bone head . . . you will face court martial for this. You look everywhere? You search inside toilet bowl? Wole Soyinka: King Baabu The person being addressed above is a",
+  "options": {
+   "A": "soldier",
+   "B": "student",
+   "C": "domestic servant",
+   "D": "lawyer"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-42",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 42,
+  "question": "From the tone of the speech above, the speaker is obviously",
+  "options": {
+   "A": "enraged",
+   "B": "lackadaisical",
+   "C": "elated",
+   "D": "happy."
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-43",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 43,
+  "question": "'That year the harvest was sad, like a funeral, and many farmers wept as they dug up the miserable yams. One man tied his cloth to a tree branch and hanged himself'. Chinua Achebe: The mood conveyed in the excerpt above is one of",
+  "options": {
+   "A": "sadness",
+   "B": "frustration",
+   "C": "sympathy",
+   "D": "dilemma."
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-44",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 44,
+  "question": "'That age is best which is the first, when youth and blood are warmer, But being spent, the worse, and worst Time still succeed the former. The rhyme scheme in the excerpt above",
+  "options": {
+   "A": "bbaa",
+   "B": "aabb",
+   "C": "abab",
+   "D": "abba."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-45",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 45,
+  "question": "But the towering earth was tired sitting in one position. She moved, suddenly, and the houses crumbled, the mountains heaved horribly, and the work of a million years was lost. The subject matter of the extract above",
+  "options": {
+   "A": "storm",
+   "B": "sea waves",
+   "C": "house movement",
+   "D": "earthquake."
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-46",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 46,
+  "question": "And your laughter like a flame piercing the shadows Has revealed Africa to me beyond the snow of yesterday. From the poem above, shadow means",
+  "options": {
+   "A": "famine",
+   "B": "bleak future",
+   "C": "period of sufferings",
+   "D": "abstract ideas."
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-47",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 47,
+  "question": "Don't panic. Be calm, If you are some how upset ...try to regain your exposure. The speaker in the excerpt above is",
+  "options": {
+   "A": "hopeless",
+   "B": "uncertain",
+   "C": "afraid",
+   "D": "confident. Use the lines below to answer 48.Move him into the sun Gently its touch awoke him once, At home, whispering of fields unsown Always it woke him even in France Until this morning and this snow If anything might rouse him now This kind old sun will know Think how it wakes the seeds Woke, once, the clays of a cold star Are limbs, so dear achieved, are sides Full nerved still swarm too hard to stir Was it, for this the clay grew tall? 0 what made fatuous sunbeams toil To break earth's sleep at all. The poem can be described as"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-50",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 50,
+  "question": "A cursing rogue with a merry farce, A bundle of rags upon a crutch, Stumbled upon that windy place Called cruachan, and it was as much. The rhyme scheme of the stanza above",
+  "options": {
+   "A": "aabb",
+   "B": "abab",
+   "C": "bbaa",
+   "D": "abba."
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

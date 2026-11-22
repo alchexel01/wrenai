@@ -1,0 +1,717 @@
+[
+ {
+  "id": "literature-in-english-2018-1",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 1,
+  "question": "A literary work in which the characters and events are used as symbols is known as",
+  "options": {
+   "A": "characteristics",
+   "B": "allegory",
+   "C": "metaphor",
+   "D": "parallelism"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-2",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 2,
+  "question": "Characterisation in a novel refers to the",
+  "options": {
+   "A": "writer‟s opinion of the characters",
+   "B": "way the characters are revealed to the reader",
+   "C": "characters and the way they behave",
+   "D": "readers of the characters."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-3",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 3,
+  "question": "In literacy work, verbal Irony refers to a",
+  "options": {
+   "A": "device in which the speaker means the opposite of what he says",
+   "B": "situation in which a Character speaks or acts against the tread of events",
+   "C": "difficult situation which defies a local or rational resolution",
+   "D": "device in which the actor on stag: means exactly what he says."
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-4",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 4,
+  "question": "In the theatre, words spoken by a character that are meant to be heard by the audience but not by the other; characters on stage is called",
+  "options": {
+   "A": "aside",
+   "B": "soliloquy",
+   "C": "acoustic",
+   "D": "tone"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-5",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 5,
+  "question": "Drama is the representation of a complete series of actions by means of",
+  "options": {
+   "A": "movement and gesture for the screen and audience",
+   "B": "speech, movement and gesture for the stage only",
+   "C": "speech, movement and gesture for the stage, screen and radio"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-6",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 6,
+  "question": "A poet's use of regular rhythm is known",
+  "options": {
+   "A": "allegory",
+   "B": "assonance",
+   "C": "metre",
+   "D": "onomatopoeia."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-7",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 7,
+  "question": "A literacy genre which directly imitates human actions is",
+  "options": {
+   "A": "drama",
+   "B": "comedy",
+   "C": "prose",
+   "D": "poetry"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-8",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 8,
+  "question": "A fable is a story in which",
+  "options": {
+   "A": "allegations are made about characters",
+   "B": "animals or things are used as characters",
+   "C": "there is an important setting",
+   "D": "the story is told in poetic farm"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-9",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 9,
+  "question": "The juxtaposition of two contrasting ideas in a line of poetry is",
+  "options": {
+   "A": "euphemism",
+   "B": "synecdoche",
+   "C": "catharsis",
+   "D": "oxymoron"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-10",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 10,
+  "question": "The main aim of caricature is to",
+  "options": {
+   "A": "describe",
+   "B": "expose",
+   "C": "emphasize",
+   "D": "ridicule. Questions 11 to 13 are based on Richard Writer's Native Son."
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-11",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 11,
+  "question": "Bigger kills Mary due to",
+  "options": {
+   "A": "fear",
+   "B": "envy",
+   "C": "hatred",
+   "D": "distrust"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-12",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 12,
+  "question": "Weekly, Bigger is to be paid",
+  "options": {
+   "A": "twenty dollars",
+   "B": "twenty-five dollars",
+   "C": "thirty dollars"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-13",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 13,
+  "question": "Mr Datton is of the opinion that Negroes are happier when they are",
+  "options": {
+   "A": "together",
+   "B": "servants in the white family",
+   "C": "educated",
+   "D": "given some respect. Questions 14 to 16 are based on Bayo Adebowale's Lonely Days."
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-14",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 14,
+  "question": "Windows in mourning in Kofi wear garments that are",
+  "options": {
+   "A": "red",
+   "B": "black",
+   "C": "white",
+   "D": "dull"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-15",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 15,
+  "question": "In the novel, bage cape signifies everlasting",
+  "options": {
+   "A": "happiness",
+   "B": "sorrow",
+   "C": "freedom",
+   "D": "despair."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-16",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 16,
+  "question": "Yaremi's only son is",
+  "options": {
+   "A": "Alani",
+   "B": "Wande",
+   "C": "Olode",
+   "D": "Deyo. Questions 17 to 20 are based on George Orwell's Nineteen Eighty- four."
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-17",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 17,
+  "question": "The novel draws a picture of",
+  "options": {
+   "A": "a useless past",
+   "B": "a totalitarian future",
+   "C": "an unstable moment",
+   "D": "a peaceful atmosphere"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-18",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 18,
+  "question": "The power and oppression of an irresistible evil debased Winston's dreams of",
+  "options": {
+   "A": "freedom and democracy",
+   "B": "internal security",
+   "C": "wealth and capitalism",
+   "D": "sovereignty"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-19",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 19,
+  "question": "Room 101 symbolises a place of",
+  "options": {
+   "A": "rest",
+   "C": "humiliation",
+   "D": "torture"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-20",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 20,
+  "question": "The novel can be described as",
+  "options": {
+   "A": "optimistic",
+   "B": "antagonistic",
+   "C": "persuasive",
+   "D": "pessimistic. Questions 21 to 25 are based on J.P Clark's Wives Revolt."
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-21",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 21,
+  "question": "In the play, the central idea is that gender equality is",
+  "options": {
+   "A": "both undesirable and unattainable",
+   "B": "desirable but unattainable",
+   "C": "attainable and desirable",
+   "D": "obnoxious but desirable"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-22",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 22,
+  "question": "In their flight, the women settle at Iyara in order to",
+  "options": {
+   "A": "cure cross-piece",
+   "B": "hurt their husbands",
+   "C": "forestall reconciliation",
+   "D": "seek peace"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-23",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 23,
+  "question": "`...Great Orators in the assembly, and poor nannies at home:\" Those being ridiculed here are the",
+  "options": {
+   "A": "husbands",
+   "B": "old-women",
+   "C": "wives",
+   "D": "spinsters"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-24",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 24,
+  "question": "…Those with full breasts have walked out, and that leaves you, me, and, the old-girls returned home on retirement, it's the dry season child.\" The character to whom the words are spoken in the play is in",
+  "options": {
+   "A": "front of the veranda of Okoro's house",
+   "B": "the-kitchen, upstage",
+   "C": "Okoro's front yard, down stage",
+   "D": "the direction of the kitchen, off stage"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-25",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 25,
+  "question": "The mutual exchange of abuse in the play is reminiscent of",
+  "options": {
+   "A": "Ikaki",
+   "C": "Etiyeri",
+   "D": "Ekpe Questions 26 to 30 are based on Williams's Shakespeare's Othello."
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-26",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 26,
+  "question": "\"ill-starred wench, Pale as thy smoke; When we shall meet at compt\" The device used in the line above is",
+  "options": {
+   "A": "simile",
+   "B": "pun",
+   "C": "metaphor",
+   "D": "paradox"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-27",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 27,
+  "question": "Othello kills Desdemona because the",
+  "options": {
+   "A": "former is jealous",
+   "B": "former's race is insulted",
+   "C": "latter is a witch",
+   "D": "latter is an idol"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-28",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 28,
+  "question": "Brabantio is opposed to the relationship between Othello and Desdemona because",
+  "options": {
+   "A": "he prefers Lago",
+   "B": "Othello is a moor",
+   "C": "Rodgerigo woos her first",
+   "D": "Desdemona is too young"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-29",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 29,
+  "question": "\"Soft you; a word or two before you go. I have done the state some service an,' they know' No more of that, I pray you, in your letters, When you shall these unlucky deeds relate\" The speech above is made when the speaker is",
+  "options": {
+   "A": "travelling",
+   "B": "sick",
+   "C": "dying",
+   "D": "eloping"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-30",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 30,
+  "question": "\"0 heaven; How got she out? O treason of the blood! Father; from hence trust not your daughters' minds By what you see them act. Is there not charms By which the property of youth and maidhood May be abused? The speaker of the excerpt above is",
+  "options": {
+   "A": "Brabantio",
+   "B": "Othello",
+   "C": "Gratiano",
+   "D": "Roderigo Use the following excerpt to answer questions 31 to 33. \"I wonder how long, you awful parasites, Shall share with me this little bed, And awake me, from my sweet dreams be lost, Sucking blood from my poor head... Mbure: \"To Bed-Bug\""
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-31",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 31,
+  "question": "The lines are an example of a",
+  "options": {
+   "A": "limerick",
+   "B": "lampoon",
+   "C": "light verse",
+   "D": "light opera."
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-32",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 32,
+  "question": "The poet persona expresses dismay about",
+  "options": {
+   "A": "bat",
+   "B": "cockroaches",
+   "C": "grass coppers",
+   "D": "light opera"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-33",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 33,
+  "question": "The most dominant figure of speech in the excerpt is",
+  "options": {
+   "A": "metaphor",
+   "B": "simile",
+   "C": "personification",
+   "D": "hyperbole"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-34",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 34,
+  "question": "You Your head is like a drum that is beaten for spirits Your Yours ears are like the fans used for blowing fire. The lines above are a good example of",
+  "options": {
+   "A": "caricature",
+   "B": "ridicule",
+   "C": "satire",
+   "D": "lampoon."
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-35",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 35,
+  "question": "How can I look at Oyo and say I hate long shiny cars? How can I come to the children and despise international schools? And Koomson comes; and the family semi Jesus Christ in him... The feeling conveyed by the speaker above is one of",
+  "options": {
+   "A": "anger",
+   "B": "alienation",
+   "C": "hope",
+   "D": "despair"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-36",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 36,
+  "question": "\"Hide me now, when night children haunt the earth\" Wole Soyinka: \"Night\" Night children in the stanza above reflects the consciousness of",
+  "options": {
+   "A": "birds",
+   "B": "armed robbers",
+   "C": "animals",
+   "D": "spirit beings"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-37",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 37,
+  "question": "Serrated shadows, through dark leaves Till, bathed in warm suffusion of your dapped cells Sensation pained me, faceless, silent as night thieves Wole Soyinka: “Night” The dominant mood in the lines above is one of",
+  "options": {
+   "A": "apprehension",
+   "B": "defiance",
+   "C": "joy",
+   "D": "indifference 38.“The drum overwhelmed the guns…” J.P Clark: “Causalities” The poet in the excerpt above uses"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-40",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 40,
+  "question": "The lines above inform the reader that poet",
+  "options": {
+   "E": "is determined to suffer F. has his poetic imagination kindled G. will cure his soar mood H. will not drink much"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
