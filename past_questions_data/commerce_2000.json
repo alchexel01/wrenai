@@ -1,0 +1,871 @@
+[
+ {
+  "id": "commerce-2000-1",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 1,
+  "question": "Government policies relating to the establishment and operations of businessess are targeted at",
+  "options": {
+   "A": "even spread of facilities and employment",
+   "B": "the general improvement of the economy",
+   "C": "increasing the profits of business owners",
+   "D": "Diversification and expansion of businesses."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-2",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 2,
+  "question": "The share capital value that forms part of the balance sheet total is the",
+  "options": {
+   "A": "issued share capital",
+   "B": "called-up capital share capital",
+   "C": "authorised share capital",
+   "D": "paid-up share capital"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-3",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 3,
+  "question": "Bank overdraft as a short term source of fund is",
+  "options": {
+   "A": "a current liability",
+   "B": "granted to a newly opened account",
+   "C": "repayable after more than a year",
+   "D": "an overdrawn account"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-4",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 4,
+  "question": "The measure of independence available to the individual buisness units that come together is the main difference between",
+  "options": {
+   "A": "vertical and horizontal integration",
+   "B": "merges and acquisitions",
+   "C": "trust and cartel",
+   "D": "consortium and amalgamation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-5",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 5,
+  "question": "The major factors that facilitate merchadising are",
+  "options": {
+   "A": "communication, advertising and banking",
+   "B": "Trading. Warehousing and production",
+   "C": "Banking, insurance and transportation",
+   "D": "Management, insurance and advertising Use the information below to answer questions 6 and 7 Amina Enterprises Balance Sheet as at 30/3/99"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "commerce/2000_p15_1.png",
+  "images": [
+   "commerce/2000_p15_1.png"
+  ]
+ },
+ {
+  "id": "commerce-2000-6",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 6,
+  "question": "What is the total fixed capital?",
+  "options": {
+   "A": "N675,000",
+   "B": "N575,000",
+   "C": "N570,000",
+   "D": "N550,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-7",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 7,
+  "question": "Determine the circulating capital",
+  "options": {
+   "A": "N250,000",
+   "B": "N245,000",
+   "C": "N235,000",
+   "D": "N225,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-8",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 8,
+  "question": "The term PLC implies that the shares are availble",
+  "options": {
+   "A": "publicly on the stock exhange",
+   "B": "privately on the stock exchnage",
+   "C": "to the public at the comapny",
+   "D": "publicly in commercial banks"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-9",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 9,
+  "question": "The application of division of labour should generally bring about",
+  "options": {
+   "A": "increase in the variety of goods and services",
+   "B": "increase in the quantity of goods and services",
+   "C": "cheapness of goods and services",
+   "D": "cost effiiciency in the production of goods and services"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-10",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 10,
+  "question": "On liquidation of a public limited liability company, the residual owners are the",
+  "options": {
+   "A": "Creditors",
+   "B": "debenture holders",
+   "C": "preference shareholders"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-11",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 11,
+  "question": "Prodcution involves",
+  "options": {
+   "A": "changing the form of goods, moving and making them available as needed",
+   "B": "making goods available where and when needed",
+   "C": "the manufacturing of goods and provisions of services",
+   "D": "the assembling of all necessary parts to produce a finished product"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-12",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 12,
+  "question": "Which of these is both merit and demerit in partnership?",
+  "options": {
+   "A": "The bearing of risk",
+   "B": "Its unlimited nature",
+   "C": "The number of partners",
+   "D": "The withdrawal of a major partner"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-13",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 13,
+  "question": "A printer that burns the print images onto the photosensitive drum is called",
+  "options": {
+   "A": "dot matrix printer",
+   "B": "laser printer",
+   "C": "daisy wheel printer",
+   "D": "thermal printer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-14",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 14,
+  "question": "The insurance principle that requires full disclosure of information on the insured is known as",
+  "options": {
+   "A": "indemnify",
+   "B": "Caveat emptor",
+   "C": "Subrogation",
+   "D": "uberimae fidei"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-15",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 15,
+  "question": "A bank form used to transfer money from personal to creditor’s account is called",
+  "options": {
+   "A": "credit transfer form",
+   "B": "debit transfer form",
+   "C": "customer transfer form",
+   "D": "bank transfer form"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-16",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 16,
+  "question": "A console is a device used in",
+  "options": {
+   "A": "moving an indicator on the screen",
+   "B": "forming charcters by hearing sensitive ribbon",
+   "C": "holding magnetic tape reel",
+   "D": "communicating between operator and program"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-17",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 17,
+  "question": "The fucntion of a merchant wholesaler is to",
+  "options": {
+   "A": "buy in bulk, store and sell to retailers as desired",
+   "B": "bring buyers and sellers together",
+   "C": "Possess title to the good store and sell to retailers",
+   "D": "find markets for producers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-18",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 18,
+  "question": "The computer using linear integrated circuit technology coupled with quantification of data in terms of length and distance is known as",
+  "options": {
+   "A": "digital computer",
+   "B": "hybrid computer",
+   "C": "mainframe computer",
+   "D": "Analogue computer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-19",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 19,
+  "question": "Ocean liners are subdivided into",
+  "options": {
+   "A": "cargo liners and tramp liners",
+   "B": "coastal liners and cargo liners",
+   "C": "passenger liners and cargo liners",
+   "D": "passenger liners and tramp liners"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-20",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 20,
+  "question": "The current trends in retailing competion in Nigeria are",
+  "options": {
+   "A": "self service, after sales service and branding strategies",
+   "B": "branding, enterprising and differentiation of goods and services",
+   "C": "advertising and sales promotion strategies",
+   "D": "after sales services and sales promotion strategies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-21",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 21,
+  "question": "The main factors militating against the rapid growth of trade in Nigeria are",
+  "options": {
+   "A": "Inadequate transportation network and huge capital outlay",
+   "B": "Lack of good transportation network and insecurity of investments",
+   "C": "Lack of motivation and government attitude towards trade",
+   "D": "Huge capital outlay and government attitude to trade"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-22",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 22,
+  "question": "Mr. Olatunde took up a fire insurance on a property valued at N1000 and the amount insured is N800. The property caught fire causing a loss of N400. If the insurance was taken with the clause “with average’ what is the amount to be paid by the insurance company",
+  "options": {
+   "A": "N560",
+   "B": "N460",
+   "C": "N420",
+   "D": "N320"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-23",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 23,
+  "question": "The Central Bank differs from commercial banks becasue it",
+  "options": {
+   "A": "renders services to customers",
+   "B": "carries out foreign exchange transactions",
+   "C": "issues currencies",
+   "D": "discounts bills"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-24",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 24,
+  "question": "Tourists with no fixed address in a town may receive their letters from the post office through a",
+  "options": {
+   "A": "post restante",
+   "B": "recorded delivery",
+   "C": "parcel post",
+   "D": "postmaster"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-25",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 25,
+  "question": "An invoice can be described as a",
+  "options": {
+   "A": "contractual agreemnt for the sale of goods",
+   "B": "receipts containing necessary information about the goods",
+   "C": "document specifying quantity, description, prices and total value of purchases",
+   "D": "letter specifying the contractul sales of goods between two parties."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-26",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 26,
+  "question": "Product Price Promotion Place The chart above represents the",
+  "options": {
+   "A": "marketing mix relationship",
+   "B": "product mix",
+   "C": "promotion mix relationship",
+   "D": "advertising mix relationship"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "commerce/2000_p16_1.png",
+  "images": [
+   "commerce/2000_p16_1.png"
+  ]
+ },
+ {
+  "id": "commerce-2000-28",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 28,
+  "question": "The pratice whereby soft drink manufacturers give away caps, bags and other items when consumers buy their product is a form of",
+  "options": {
+   "A": "Marketing Strategy",
+   "B": "publicity",
+   "C": "Sales promotion",
+   "D": "Advertising"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-29",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 29,
+  "question": "A group of specialized functions of marketing is",
+  "options": {
+   "A": "buying, selling, advertising and packaging",
+   "B": "buying, selling, storing and information",
+   "C": "buying, selling labelling and promotion",
+   "D": "buying, selling, skimming and pricing"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-30",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 30,
+  "question": "The major condition for obtaining loan in thrift credit and loans cooperative societies is",
+  "options": {
+   "A": "provision of collateral security",
+   "B": "a high level of eductaion",
+   "C": "an approved project plan",
+   "D": "possession of a large business."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-31",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 31,
+  "question": "The type of advertising that seeks to persuade consumers to buy a particular product is",
+  "options": {
+   "A": "informative advertising",
+   "B": "mass and sopecific advertising",
+   "C": "Persuasive advertising",
+   "D": "competitive advertising"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-32",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 32,
+  "question": "The most important advantage of personal selling is that it",
+  "options": {
+   "A": "allows sellers to perceive buyer’s needs",
+   "B": "takes place easily on the highways",
+   "C": "allows sellers to sell their goods quickly",
+   "D": "takes place without the permission of governemnt"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-33",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 33,
+  "question": "The stock exchange helps to provide capital for industrial projects becasue it",
+  "options": {
+   "A": "determnines value of shares, stocks and other securities",
+   "B": "assists companies to change their securi ties into cash",
+   "C": "assists goverment in implementing its monetary policies",
+   "D": "renders agency servcives to organisations and governments"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-34",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 34,
+  "question": "A form of money that has gone out of use is",
+  "options": {
+   "A": "commodity money",
+   "B": "bank money",
+   "C": "paper money",
+   "D": "foreign money"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-35",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 35,
+  "question": "A shortcoming of the second-tier foreign exchange market in Nigeria is that it",
+  "options": {
+   "A": "serves as a mechanism for evaluation an unrealistic exchange rate of the naira",
+   "B": "contribute to flooding the market with foreign essential commondities",
+   "C": "contributes to destablizing national re source",
+   "D": "creates unhealthy competition amongst users of foreign exchnage"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-37",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 37,
+  "question": "The composite functions of management are a. planning, supervising, communication and directing b. coordinating, supervising, staffing and communicating c. planning, controlling, organising and directing d. directing, supervising, motivating and controlling.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-38",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 38,
+  "question": "The three components of staffing are a. recruitment, interview and appointment b. recruitment, selection and placement c. recruitment, test and placement d. recruitment, procurement and appointment",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-39",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 39,
+  "question": "The primary objective of a trade association is to",
+  "options": {
+   "A": "exchange information and negotiate as a pres sure group",
+   "B": "establish easy link with government",
+   "C": "undertake research work on behalf of members",
+   "D": "Operates as a group against other groups"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-40",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 40,
+  "question": "One of the functions of the Niger Basin Commission is to",
+  "options": {
+   "A": "ensure eqaul treatment of African Nations",
+   "B": "map out regulations that will guide all forms of navigation",
+   "C": "foster close co-operation among West African nations",
+   "D": "guaranteed freedom of navigation for all West African nations"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-41",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 41,
+  "question": "The legal aspect of business is designed to",
+  "options": {
+   "A": "protect infact industries from collapse",
+   "B": "safeguard consumers from undue business practices",
+   "C": "protect business organisation and consumers",
+   "D": "encourage free exchange among businesses The organisational structure above represents a. line and functional structure b. functional structure c. line and staff structured d. line structure"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "commerce/2000_p17_1.png",
+  "images": [
+   "commerce/2000_p17_1.png"
+  ]
+ },
+ {
+  "id": "commerce-2000-43",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 43,
+  "question": "An aspect of the law which allows an exclusive right for a limited number of years is a",
+  "options": {
+   "A": "patent",
+   "B": "trade mark",
+   "C": "ratification",
+   "D": "copyright"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-45",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 45,
+  "question": "In an organisation, civic consideration arises from",
+  "options": {
+   "A": "its social negative impacts on the community",
+   "B": "its operations within the environment",
+   "C": "the profit derived from the environemnt",
+   "D": "the fact that it is registered in that locality"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-46",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 46,
+  "question": "The main difference between nationalization and indigenization in terms of",
+  "options": {
+   "A": "efficiency",
+   "B": "profit",
+   "C": "Technology",
+   "D": "shareholding"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-47",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 47,
+  "question": "After registration, a certificate of trading is usually issued to",
+  "options": {
+   "A": "Partnership",
+   "B": "Private",
+   "C": "Public company",
+   "D": "Sole proprietorship"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-48",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 48,
+  "question": "A bus driver operating between Lagos and Jos pledged the owner’s credit in Benin in order to have the engine repaired and the bill sent to the owner. This is a case of",
+  "options": {
+   "A": "agency by necessity",
+   "B": "del credere agency",
+   "C": "agency by ratifictaion",
+   "D": "agency by estsoppel"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-49",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 49,
+  "question": "A chamber of commerce is any association made up of",
+  "options": {
+   "A": "merchants",
+   "B": "manufacturers",
+   "C": "entrepreneurs",
+   "D": "importers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-50",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 50,
+  "question": "The first known legislation to protect consumer right in Nigeria is the",
+  "options": {
+   "A": "Usualy laws",
+   "B": "Sale of goods act.",
+   "C": "Hire purchase act",
+   "D": "Food and drugs act."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

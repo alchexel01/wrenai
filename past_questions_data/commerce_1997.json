@@ -1,0 +1,929 @@
+[
+ {
+  "id": "commerce-1997-1",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 1,
+  "question": "Which of the following are the components of commerce? I Trading and advertising II Warehousing and transportation III Packaging and branding IV Insurance and banking.",
+  "options": {
+   "A": "I and II",
+   "B": "I and III",
+   "C": "I, II and IV",
+   "D": "II, III and IV"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-2",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 2,
+  "question": "A royal charter was granted to the Royal Niger Company to do business in Nigeria in",
+  "options": {
+   "A": "December, 1888",
+   "B": "May, 1887",
+   "C": "July, 1886",
+   "D": "August, 1885."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-3",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 3,
+  "question": "Transportation, retailing and wholesaling industries rely heavily on",
+  "options": {
+   "A": "banking",
+   "B": "insurance",
+   "C": "manufacturing",
+   "D": "railway."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-4",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 4,
+  "question": "An example of indirect service is rendered by",
+  "options": {
+   "A": "civil servants",
+   "B": "family doctors",
+   "C": "household servants",
+   "D": "entertainers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-5",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 5,
+  "question": "The objectives of a business are determined by the",
+  "options": {
+   "A": "workers",
+   "B": "government",
+   "C": "society",
+   "D": "promoters."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-6",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 6,
+  "question": "Partnerships are most suitable where",
+  "options": {
+   "A": "the partners are family friends",
+   "B": "professional are involved",
+   "C": "members can easily raise enough capital",
+   "D": "government regulations are favourable. Use the conversation below to answer questions 7 and 8. MUSA: Taiwo, why you are in business? and discharge my social responsibilities.What of you? MUSA: I am in business to minimize cost, provide products at low prices and as you said, discharge my social responsibilities. What of you, Okon and Kalu? OKON:I am in business to cater for the need of the consumers at all costs. KALU:I am in business to make profit, provide quality products at reasonable prices and establish a good reputation for myself."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-7",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 7,
+  "question": "The businessman that may end up not discharging his social responsibility is",
+  "options": {
+   "A": "Musa",
+   "B": "Okon",
+   "C": "Taiwo",
+   "D": "Kalu"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-8",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 8,
+  "question": "The business with the best objectives is",
+  "options": {
+   "A": "Okon",
+   "B": "Taiwo",
+   "C": "Kalu",
+   "D": "Musa"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-9",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 9,
+  "question": "The business organization in which shareholders have equal votes is",
+  "options": {
+   "A": "sole proprietorship",
+   "B": "partnership",
+   "C": "co-operative",
+   "D": "limited liability company."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-10",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 10,
+  "question": "The major objective of corporate mergers is to",
+  "options": {
+   "A": "minimize the effects of taxation",
+   "B": "increase financial advantage",
+   "C": "facilitate profit maximization",
+   "D": "enhance economies of scale."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-11",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 11,
+  "question": "When it becomes necessary to liquidate a company, the first step to be taken is the appointment of",
+  "options": {
+   "A": "a receiver",
+   "B": "an auditor",
+   "C": "an accountant",
+   "D": "a liquidator."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-12",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 12,
+  "question": "In which of the following circumstances is a court order NOT necessary for the winding up of a company?",
+  "options": {
+   "A": "Suspension of business for one year.",
+   "B": "Special resolution of members.",
+   "C": "Reduction in the number of members below the legal minimum.",
+   "D": "Inability to pay its debts."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-13",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 13,
+  "question": "One type of investment that has a variable income is",
+  "options": {
+   "A": "debentures",
+   "B": "preferred shares",
+   "C": "government bonds",
+   "D": "ordinary shares."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-14",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 14,
+  "question": "A term which indicate that a share is temporarily suspended is",
+  "options": {
+   "A": "ex-dividend",
+   "B": "cum-dividend",
+   "C": "bond",
+   "D": "stock."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-15",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 15,
+  "question": "Leasing is the right to use assets for an agreed period in return for",
+  "options": {
+   "A": "profit",
+   "B": "interest",
+   "C": "wages",
+   "D": "rents."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-16",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 16,
+  "question": "The form of business financing which involves pledging of a specific asset is",
+  "options": {
+   "A": "debenture",
+   "B": "mortgage",
+   "C": "loan",
+   "D": "bond."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-17",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 17,
+  "question": "The total amount that a company is allowed to raise according to its memoradum of association is known as",
+  "options": {
+   "A": "issued capital",
+   "B": "authorized capital",
+   "C": "called-up capital",
+   "D": "paid-up capital"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-18",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 18,
+  "question": "A public limited liability company having a nominal capital made up of 200 000 ordinary shares of 50k each decided to issue 50% of it to the public What is the authorized capital?",
+  "options": {
+   "A": "N40 000",
+   "B": "N50 000",
+   "C": "N100 000",
+   "D": "N200 000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-19",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 19,
+  "question": "The turnover of a firm may be affected by",
+  "options": {
+   "A": "the demand for its product",
+   "B": "the cost of its goods sold",
+   "C": "its closing stock",
+   "D": "its net assets."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-20",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 20,
+  "question": "The cost of transporting goods to customers is called",
+  "options": {
+   "A": "carriage inward",
+   "B": "carriage forward",
+   "C": "carriage paid",
+   "D": "carriage outward."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-21",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 21,
+  "question": "The main aim of selling directly to consumers by manufacturers is to",
+  "options": {
+   "A": "discourage the activities of middlemen",
+   "B": "make contact with consumers",
+   "C": "eliminate transportation cost",
+   "D": "maximize the profit margin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-22",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 22,
+  "question": "In foreign trade, document of title is known as",
+  "options": {
+   "A": "bill of lading,",
+   "B": "bill at sight",
+   "C": "certificate of origin",
+   "D": "declaration form."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-23",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 23,
+  "question": "Excise duties are paid on goods that are",
+  "options": {
+   "A": "imported into the country",
+   "B": "manufactured within the country",
+   "C": "exported to other countries",
+   "D": "kept in bonded warehouses."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-24",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 24,
+  "question": "Stevedores as a term in foreign trade means men who",
+  "options": {
+   "C": "collect duties in ships",
+   "D": "load and unload ships"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-25",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 25,
+  "question": "A close indent is an instruction to an agent to",
+  "options": {
+   "A": "order goods from a particular manufacturer",
+   "B": "order goods from any manufacturer",
+   "C": "sell goods to any firm",
+   "D": "sell goods to a certain firm."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-26",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 26,
+  "question": "The basic distinction between cash discount and trade discount is that while trade discount is",
+  "options": {
+   "A": "for a period of 30 days, cash discount is for a period of 3 months",
+   "B": "given by a wholesaler, cash discount is given by a bank",
+   "C": "a reduction in the cataloque price of an article, cash discount is a reduction in the invoice value",
+   "D": "a reduction in value of sales, cash discount is a reduction in price of goods."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-27",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 27,
+  "question": "The cost that arises from failure to load or unload a ship at the port within a stipulated period is known as",
+  "options": {
+   "A": "excess charges",
+   "B": "demurrage charges",
+   "C": "premium charges",
+   "D": "trade charges."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-28",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 28,
+  "question": "The mode of transportation that is noted for ontime dependability and low cost per unit on goods carried is",
+  "options": {
+   "A": "pipeline",
+   "B": "air",
+   "C": "rail",
+   "D": "road."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-29",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 29,
+  "question": "A person who undertakes any risk in insurance business is known as",
+  "options": {
+   "A": "a broker",
+   "B": "an underwriter",
+   "C": "an insurer",
+   "D": "an actuary."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-30",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 30,
+  "question": "The main purpose of insurance is to",
+  "options": {
+   "A": "encourage business to survive and grow",
+   "B": "ensure that facilities are available for operations",
+   "C": "accept risks and extend credits to policy holders",
+   "D": "spread individual losses over all covered participants."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-31",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 31,
+  "question": "Bank giro is a system where",
+  "options": {
+   "A": "Commercial banks can give loans to all customers",
+   "B": "a central bank opens accounts for commercial banks",
+   "C": "a customer uses a cheque to pay several bills",
+   "D": "a customer closes his account by writing a cheque."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-32",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 32,
+  "question": "Commercial banks are referred to as departmental stores of banking because they",
+  "options": {
+   "A": "have many branches",
+   "B": "have many customers",
+   "C": "are found in the cities",
+   "D": "offer many types of services."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-33",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 33,
+  "question": "A market where new shares are traded is known as",
+  "options": {
+   "A": "primary market",
+   "B": "stock exchange",
+   "C": "secondary market",
+   "D": "money market."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-34",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 34,
+  "question": "When a firm speaks of stock appreciation, it refers to",
+  "options": {
+   "A": "changes in the value of its stock resulting from price movements",
+   "B": "increase in the price of its shares quoted on the stock exchange",
+   "C": "an unexpected increase in the demand for its stocks",
+   "D": "the value of its stocks in the stock exchange."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-35",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 35,
+  "question": "The process of creating more market for a product is called",
+  "options": {
+   "A": "advertising",
+   "B": "marketing"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-36",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 36,
+  "question": "When a vendor supplies newspapers from house to house and across the streets, the element of marketing mix involved is",
+  "options": {
+   "A": "product",
+   "B": "price",
+   "C": "promotion",
+   "D": "place"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-37",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 37,
+  "question": "The main advantage of using cinema as an advertising medium is that it is",
+  "options": {
+   "A": "cheap",
+   "B": "accurate",
+   "C": "accessible",
+   "D": "informative."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-38",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 38,
+  "question": "When old customers stick to the old place to buy goods and services, it is known as",
+  "options": {
+   "A": "goodwill",
+   "B": "personal factor",
+   "C": "window shopping",
+   "D": "patronage."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-39",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 39,
+  "question": "The most important piece of legislation governing business and commercial activities in Nigeria currently is the",
+  "options": {
+   "A": "Companies Decree, 1968",
+   "B": "Trade Dispute Decree, 1976",
+   "C": "Companies and Allied Matters Decree, 1990",
+   "D": "Banks and Other Financial Institutions Decree, 1991."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-40",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 40,
+  "question": "One of the criteria for differentiating consumer markets from industrial ones is the",
+  "options": {
+   "A": "type of demand",
+   "B": "type of supply",
+   "C": "nature of the services rendered",
+   "D": "price of the goods."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-41",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 41,
+  "question": "The over-riding objective of the food and drug act in Nigeria is to prevent the",
+  "options": {
+   "A": "importation of food and drugs that can be locally manufactured",
+   "B": "consumption of food and drugs not tested by the ministries of health",
+   "C": "adulteration of food and drugs sold in the country",
+   "D": "manufacturers of food and drugs from charging excessive prices."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-42",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 42,
+  "question": "The activities of consumers association in Nigeria have not been effective because",
+  "options": {
+   "A": "the consumers are too many",
+   "B": "the government is not favourably disposed towards consumerism",
+   "C": "there is poor enlightenment about consumer rights",
+   "D": "the consumers have no medium for expressing their feelings."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-43",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 43,
+  "question": "The least of the advantages of indigenization is that",
+  "options": {
+   "A": "the standard of living of the indigenes is improved",
+   "B": "the economy is controlled by the nationals",
+   "C": "entrepreneural skill is developed",
+   "D": "foreigners’ domination is avoided."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-44",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 44,
+  "question": "The main objective of a trade association can best be described as promoting and protecting",
+  "options": {
+   "A": "the products",
+   "B": "common interest",
+   "C": "the market",
+   "D": "customer’s interest."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-45",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 45,
+  "question": "The management function of evaluating whether objectives are being achieved is",
+  "options": {
+   "A": "planning",
+   "B": "directing",
+   "C": "organizing",
+   "D": "controlling."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-46",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 46,
+  "question": "In a business organization, the annual operation plan or budget is a form of",
+  "options": {
+   "A": "casual plan",
+   "B": "medium-term plan",
+   "C": "long-term plan",
+   "D": "short-term plan."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-47",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 47,
+  "question": "A key advantage of delegation is that",
+  "options": {
+   "A": "workers are prepared for higher responsibilities",
+   "B": "the manager has less work to do",
+   "C": "the manager spends less time on planning",
+   "D": "the organizing grows larger in size."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-48",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 48,
+  "question": "Social responsibility of business requires enterprises to",
+  "options": {
+   "A": "hold annual social parties for the public",
+   "B": "draw their workers only from the immediate environment",
+   "C": "address themselves to issues relating to the society.",
+   "D": "set up social welfare centres in their areas of operation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-49",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 49,
+  "question": "The existing system of governance and the administrative sub-divisions of a country which affect the operations of business in the country is described as",
+  "options": {
+   "A": "economic environment",
+   "B": "legal environment",
+   "C": "political environment",
+   "D": "social environment. 50 Sudden technological changes can have the effect of making"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,944 @@
+[
+ {
+  "id": "commerce-2003-1",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 1,
+  "question": "An example of service rendering trade association is",
+  "options": {
+   "A": "Nigerian Bar Association",
+   "B": "Association of Nigerian Miners",
+   "C": "Cocoa Farmers Association",
+   "D": "Manufacturers Association of Nigerian"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-2",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 2,
+  "question": "An obstacle to international trade is",
+  "options": {
+   "A": "Trade imbalance between countries",
+   "B": "Availability of local market",
+   "C": "Quantity and quality of labour",
+   "D": "Cost of finance"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-3",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 3,
+  "question": "The right of ownership with respect to goods or property",
+  "options": {
+   "A": "right of occupancy",
+   "B": "proxy",
+   "C": "title",
+   "D": "certificate of occupancy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-4",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 4,
+  "question": "The main motive of chambers of commerce and trade association is to",
+  "options": {
+   "A": "assist the government in achieving its objectives",
+   "B": "protect the interest of consumers",
+   "C": "maximize profit",
+   "D": "protect and promote the interests of members"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-5",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 5,
+  "question": "A pattern that shows the kinds of participants involved in the production distribution and ultimate use of a product is referred to as",
+  "options": {
+   "A": "selection",
+   "B": "strategy",
+   "C": "structure",
+   "D": "synergy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-6",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 6,
+  "question": "Goods that are manufactured or acquired by the seller after the contract of sale are",
+  "options": {
+   "A": "Specialty goods",
+   "B": "Future goods",
+   "C": "Specific goods",
+   "D": "General goods Use the information below to answer question 7 and 8 Ojo purchased the following items from Sani at the specified prices on credit; 200 cartons of mild at N1000 per carton, 150 bags of sugar at N500 per bag, 50 bags of rice at N3000 per bag. Sani allowed 10% trade discount and 50% cash discount if payment is made within the agreed period. Ojo paid within the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-7",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 7,
+  "question": "What was the amount paid by Ojo?",
+  "options": {
+   "A": "N382,500",
+   "B": "N425,000",
+   "C": "N363,375",
+   "D": "N61,625"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-8",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 8,
+  "question": "How much was the trade discount?",
+  "options": {
+   "A": "N42,500",
+   "B": "N27,500",
+   "C": "N22,500",
+   "D": "N20,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-9",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 9,
+  "question": "The basic function of the Nigerian Ports Authority is to",
+  "options": {
+   "A": "Ensure that the right calibre of personnel is employed at the ports",
+   "B": "Coordinate and regulate the activities of shipping lines",
+   "C": "Facilitate and control the movement of goods and services into and out of the country",
+   "D": "Coordinate the activities of all the seaports in the country"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-10",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 10,
+  "question": "The concept that refers to the sale, transfer or exchange of goods and services is",
+  "options": {
+   "A": "Industry",
+   "B": "Trade",
+   "C": "Tariff",
+   "D": "Marketing"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-11",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 11,
+  "question": "A guarantee given by one person or party to another in which the integrity of the person is assured is",
+  "options": {
+   "A": "Fidelity",
+   "B": "Term assurance",
+   "C": "Subrogation",
+   "D": "Indemnity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-12",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 12,
+  "question": "A firm that adapts itself to delivering the desired satisfaction more and effectively and efficiently than its competitors is said to be practicing.",
+  "options": {
+   "A": "Price concept",
+   "B": "D i s t r i b u t i on concept",
+   "C": "Product concept",
+   "D": "M a r k e t i n g concept"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-13",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 13,
+  "question": "The payment made periodically in respect of an insurance policy entered into is known as",
+  "options": {
+   "A": "Bond",
+   "B": "Commission",
+   "C": "Premium",
+   "D": "Surrender value"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-14",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 14,
+  "question": "An example of service rendered by NIPOST is",
+  "options": {
+   "A": "Electronic mail",
+   "B": "Telephone",
+   "C": "Mail",
+   "D": "Delivery"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-15",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 15,
+  "question": "The focal point of marketing is",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-16",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 16,
+  "question": "The type of marine insurance which covers either damage or loss to the vessel and such as caused by it to other vessels is",
+  "options": {
+   "A": "Bull insurance",
+   "B": "Time insurance",
+   "C": "Freight insurance",
+   "D": "Cargo insurance"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-17",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 17,
+  "question": "The management function that makes the difference in intensity of behaviour is",
+  "options": {
+   "A": "Coordinating",
+   "B": "Controlling",
+   "C": "Motivation",
+   "D": "Planning"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-18",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 18,
+  "question": "One of the function of seaports is the provision of",
+  "options": {
+   "A": "Berthing and landing facilities",
+   "B": "Loading and offloading facilities",
+   "C": "Control room for relaying radio messages",
+   "D": "Ware houses for storage of cargo."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-19",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 19,
+  "question": "The process of dividing task into jobs and departments and of delegating authority is know as",
+  "options": {
+   "A": "Staffing",
+   "B": "Leading",
+   "C": "Directing",
+   "D": "Organizing"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-20",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 20,
+  "question": "Communication process involves the transmission of a message over a selected channel to the",
+  "options": {
+   "A": "Receiver",
+   "B": "Audience",
+   "C": "Sender",
+   "D": "Encoder"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-21",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 21,
+  "question": "Stimulation of demand is a kind of communication in marketing which connotes",
+  "options": {
+   "A": "Personal selling",
+   "B": "Sales promotion",
+   "C": "Advertising",
+   "D": "Merchandising"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-22",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 22,
+  "question": "A functional structure is an organizational structure in which",
+  "options": {
+   "A": "Abstract rules are applied",
+   "B": "Equity prevails",
+   "C": "A Specialist enforces his directives",
+   "D": "There is no hierarchy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-23",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 23,
+  "question": "Entrepreneurship mainly involves",
+  "options": {
+   "A": "Risk-taking",
+   "B": "Initiating",
+   "C": "Skilled manpower",
+   "D": "Knowledge"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-24",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 24,
+  "question": "In the event of the liquidation of a company, the first to be settled are:",
+  "options": {
+   "A": "Debenture holders",
+   "B": "Members of the board",
+   "C": "Preference shareholders",
+   "D": "Ordinary shareholders"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-25",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 25,
+  "question": "The business organization established mainly for the purpose of carrying out specific assignments for a specific duration is a",
+  "options": {
+   "A": "Joint venture",
+   "B": "Cooperative society",
+   "C": "Partnership",
+   "D": "Company"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-26",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 26,
+  "question": "Which of these factors of production is relatively fixed in supply?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-27",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 27,
+  "question": "The location of a business is mostly influenced by",
+  "options": {
+   "A": "Market outlet",
+   "B": "Management decision",
+   "C": "Capital",
+   "D": "Environment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-28",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 28,
+  "question": "The evolution of commerce in Nigeria is traceable to the",
+  "options": {
+   "A": "Period of barter economy as human needs became limitless",
+   "B": "Desire by human beings to satisfy their needs through the services of other people in the society",
+   "C": "Development of human civilization and the desire to meet their needs",
+   "D": "Primitive stage of existence of human beings."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-29",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 29,
+  "question": "One of the requirements necessary for setting up a business is",
+  "options": {
+   "A": "Registration",
+   "B": "Advertisement",
+   "C": "Knowledge of the business",
+   "D": "Documentation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-30",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 30,
+  "question": "The assembling of products into usable form is known",
+  "options": {
+   "A": "Construction",
+   "B": "Manufacturing",
+   "C": "Formation",
+   "D": "Creation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-31",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 31,
+  "question": "The government’s policy thrust on the business environment is to",
+  "options": {
+   "A": "Promote exports",
+   "B": "Attract investors",
+   "C": "Be self-sufficient",
+   "D": "Increase production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-32",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 32,
+  "question": "Social responsibility is the ability of an organization to",
+  "options": {
+   "A": "Tackle the socio-economic problem of its community",
+   "B": "Meet the needs of its community",
+   "C": "Contribute to sustaining and developing its community",
+   "D": "Operate without disrupting the very essence of the environment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-33",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 33,
+  "question": "The act of a person employing another to enter into a contract on his behalf is known as",
+  "options": {
+   "A": "Business",
+   "B": "Sale of goods",
+   "C": "Bilateral agreement",
+   "D": "Agency"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-34",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 34,
+  "question": "The ECOBANK is the initiative of",
+  "options": {
+   "A": "Some well-meeting Nigerian shareholders",
+   "B": "The federal government of Nigeria",
+   "C": "West African states to foster trade",
+   "D": "The lagos state government to enhance capital mobilization."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-35",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 35,
+  "question": "Privatization is concerned with",
+  "options": {
+   "A": "Capital ownership between the public and the government",
+   "B": "The dilution of ownership among the public",
+   "C": "The individual ownership of companies",
+   "D": "Government ownership of companies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-36",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 36,
+  "question": "Electronic computers differ from human beings in that",
+  "options": {
+   "A": "Faster and more accurate manner",
+   "B": "More organized manner",
+   "C": "Faster but less accurate manner",
+   "D": "Slower but more accurate manner"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-37",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 37,
+  "question": "A major benefit derivable from the privatization and commercialization of public enterprises in Nigeria is",
+  "options": {
+   "A": "Increase in wages",
+   "B": "Employment generation",
+   "C": "Information technology",
+   "D": "Revenue generation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-38",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 38,
+  "question": "The device which interprets and carries out the instructions presented to it by the computer program is known as",
+  "options": {
+   "A": "Software",
+   "B": "Micro-processor",
+   "C": "Mouse",
+   "D": "Hard-disk"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-39",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 39,
+  "question": "The market structure, business conditions and financial systems in Nigeria constitute the",
+  "options": {
+   "A": "Economic environment",
+   "B": "Political environment",
+   "C": "Cultural environment",
+   "D": "Technological environment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-40",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 40,
+  "question": "The protection of consumers against exploitation by manufacturers is to ensure",
+  "options": {
+   "A": "That there are varieties of products",
+   "B": "That the right quality of goods and services is sold",
+   "C": "Increase in production capacity",
+   "D": "Increase in the level of consumer awareness"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-41",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 41,
+  "question": "The most widely used computer language that focuses on solving science-oriented problems is",
+  "options": {
+   "A": "FORTRAN",
+   "B": "BASIC",
+   "C": "ADA",
+   "D": "COBOL"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-42",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 42,
+  "question": "Banks are engaged in the business of buying and selling of",
+  "options": {
+   "A": "Bills of exchange",
+   "B": "Investment of credit",
+   "C": "Intangible products",
+   "D": "Land"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-43",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 43,
+  "question": "A source of short-term finance to companies is",
+  "options": {
+   "A": "Share capital",
+   "B": "Debentures",
+   "C": "Retained earnings",
+   "D": "Corporate tax"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-44",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 44,
+  "question": "The body charged with the responsibility to register shares for subscription on the stock market in Nigeria is the",
+  "options": {
+   "A": "Securities and exchange commission",
+   "B": "Nigerian stock-exchange",
+   "C": "Nigerian deposit insurance corporation",
+   "D": "Central bank of Nigeria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-45",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 45,
+  "question": "An essential factor for evaluating the different sources of funds for a business is the.",
+  "options": {
+   "A": "Decree establishing the business",
+   "B": "Ownership structure of the business",
+   "C": "Size and the type of the bank",
+   "D": "Burden of cost and repayment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "commerce/2003_p26_1.png",
+  "images": [
+   "commerce/2003_p26_1.png"
+  ]
+ },
+ {
+  "id": "commerce-2003-46",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 46,
+  "question": "What is the owner’s equity?",
+  "options": {
+   "A": "N250,000",
+   "B": "N300.000",
+   "C": "N420,000",
+   "D": "N200,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-47",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 47,
+  "question": "Find the current ratio",
+  "options": {
+   "A": "1.53:1",
+   "B": "1.85:1",
+   "C": "0.87:1",
+   "D": "0.50:1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-48",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 48,
+  "question": "Money can simply be referred to as a",
+  "options": {
+   "A": "Medium of exchange",
+   "B": "Means for the settlement of debts",
+   "C": "Durable asset for doing business",
+   "D": "Standard of value"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-49",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 49,
+  "question": "A type of long-term loan granted to companies with fixed interest as well as with redeemable and irredeemable features is referred to as",
+  "options": {
+   "A": "A debenture",
+   "B": "A bond",
+   "C": "A term loan",
+   "D": "An overdraft"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2003-50",
+  "subject": "commerce",
+  "year": 2003,
+  "number": 50,
+  "question": "Public debt management is one of the function of a",
+  "options": {
+   "A": "Merchant bank",
+   "B": "Central bank",
+   "C": "Commercial bank",
+   "D": "Development bank."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

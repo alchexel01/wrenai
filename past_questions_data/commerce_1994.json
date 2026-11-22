@@ -1,0 +1,891 @@
+[
+ {
+  "id": "commerce-1994-1",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 1,
+  "question": "Commerce is defined as the study of how",
+  "options": {
+   "A": "man utilizes the resources in his physical environment",
+   "B": "man produces, distributes and consumes his goods and services",
+   "C": "man buys, sells and distributes goods and services",
+   "D": "raw materials are changed into finished goods."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-2",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 2,
+  "question": "The type of activity which turns processed raw materials into consumer and industrial goods is described as",
+  "options": {
+   "A": "extractive",
+   "B": "manufacturing",
+   "C": "constructive",
+   "D": "processing"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-3",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 3,
+  "question": "The production process that combines two or more raw materials into one end product is",
+  "options": {
+   "A": "conditioning",
+   "B": "blending",
+   "C": "merging",
+   "D": "synthesis."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-4",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 4,
+  "question": "A demonstration of social responsibility by a business is the payment of",
+  "options": {
+   "A": "taxes to government",
+   "B": "dividends to shareholders",
+   "C": "interest on loans",
+   "D": "premium for insurance."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-5",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 5,
+  "question": "A distinguishing characteristic of a limited liability company is that it",
+  "options": {
+   "A": "is a collection of many sole proprietors",
+   "B": "is a multiple partnership",
+   "C": "can sue and be sued",
+   "D": "has limited resources."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-6",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 6,
+  "question": "Which of the following takes place when firms producing at different stages in the same industry combine?",
+  "options": {
+   "A": "Conglomeration",
+   "B": "Vertical integration",
+   "C": "Horizontal integration",
+   "D": "Cartel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-7",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 7,
+  "question": "Which of the following groups is paid first when a firm liquidates?",
+  "options": {
+   "A": "Perference shareholders.",
+   "B": "Debenture holders",
+   "C": "Ordinary shareholders.",
+   "D": "Cummulative preference shareholders."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-8",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 8,
+  "question": "Compulsory dissolution of a business can arise from",
+  "options": {
+   "A": "an agreement by the owners",
+   "B": "a declaration by a court of law",
+   "C": "the termination of its life",
+   "D": "an unfavourable economic climate."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-9",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 9,
+  "question": "Use the data below to answer questions 9 and 10. MBV Enterprises Balance Sheet as at 31st December, 1992 9. What is the circulating capital of the sole proprietor?",
+  "options": {
+   "A": "N27, 380",
+   "B": "N34, 980",
+   "C": "N36, 180",
+   "D": "N51, 680 10 What is the working capital as at December 31, 1992?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "commerce/1994_p2_1.png",
+  "images": [
+   "commerce/1994_p2_1.png"
+  ]
+ },
+ {
+  "id": "commerce-1994-11",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 11,
+  "question": "A company earned a total revenue of N108 million with a total cost of N91 million in 1991. If it paid 45% tax on its gross profit for that year, determine its net profit.",
+  "options": {
+   "A": "N24.65 million.",
+   "B": "N17.00 million.",
+   "C": "N9.35 million.",
+   "D": "N7.65 million."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-12",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 12,
+  "question": "What are fixtures and fittings in a balance sheet?",
+  "options": {
+   "A": "Liquid capital",
+   "B": "Current assets",
+   "C": "Fixed assets",
+   "D": "Working capital"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-13",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 13,
+  "question": "Government impose import duties for the following reasons EXCEPT",
+  "options": {
+   "A": "to raise revenue for other services",
+   "B": "to act as as a retaliatory measure against other governments",
+   "C": "to discourage the redistribution of income at home",
+   "D": "to protect home industries from external competition."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-14",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 14,
+  "question": "Sole enterprise may flourish best in",
+  "options": {
+   "A": "a mining business",
+   "B": "a retailing business",
+   "C": "an oil exploration business",
+   "D": "a car assembly business"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-15",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 15,
+  "question": "The use of coin-operated machines to sell goods is a form of",
+  "options": {
+   "A": "personal selling",
+   "B": "retailing",
+   "C": "wholesaling",
+   "D": "mail-order selling."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-16",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 16,
+  "question": "What is the major function of the wholesaler?",
+  "options": {
+   "A": "Buying from small-scale producers and selling",
+   "B": "Buying in bulk and selling in small quantities",
+   "C": "Granting of credit facilities to retailers",
+   "D": "Providing information to manufacturers on market situation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-17",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 17,
+  "question": "The rate at which a country’s exports exchange for its imports is called",
+  "options": {
+   "A": "balance of payments",
+   "B": "balance of trade",
+   "C": "terms of payment",
+   "D": "terms of trade."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-18",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 18,
+  "question": "The different between the total payments for imports and the receipts from exports within a given period is referred to as",
+  "options": {
+   "A": "balance of payments",
+   "B": "balance of trade",
+   "C": "comparative cost advantage",
+   "D": "comparative advantage"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-19",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 19,
+  "question": "A pro forma invoice is NOT required when",
+  "options": {
+   "A": "quoting for the supply of goods",
+   "B": "goods are sent on approval",
+   "C": "dealing regularly with a customer",
+   "D": "final prices are uncertain."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-20",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 20,
+  "question": "Which of the following statements is TRUE about sea transport?",
+  "options": {
+   "A": "All ships have specific routes to ply.",
+   "B": "All ships must be insured at every journey",
+   "C": "All ships are insured separately from the crew",
+   "D": "All ships normally arrive at their destination with goods."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-21",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 21,
+  "question": "The postal organization which preceded in Nigerian Postal Service is",
+  "options": {
+   "A": "Post and Telecommunications",
+   "B": "Post and Telephone",
+   "C": "Post and Teleprinter",
+   "D": "Post and Telegraph."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-22",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 22,
+  "question": "Goods discharged from ships on which import duties have not been paid are kept in the",
+  "options": {
+   "A": "ordinary warehouse",
+   "B": "public warehouse",
+   "C": "private warehouse",
+   "D": "bonded warehouse."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-23",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 23,
+  "question": "A sole proprietor insured his goods worth N200,000 for half the value.There was a fire incident in which goods valued at N80, 000 were destroyed. The value of compensation expected from the insurer is",
+  "options": {
+   "A": "N40,000",
+   "B": "N80,000",
+   "C": "N100,000",
+   "D": "N200,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-24",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 24,
+  "question": "One of the effects of the devaluation of the Naira is that the",
+  "options": {
+   "A": "goods that can be imported with the Naira have become cheaper",
+   "B": "value of other currencies relative to the Naira have become cheaper",
+   "C": "goods that can be exported from Nigeria have become costlier",
+   "D": "imports that can be bought with the Naira have become costlier."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-25",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 25,
+  "question": "Drawing two parallel lines across a cheque means that is has to be paid into the account of the",
+  "options": {
+   "A": "payee",
+   "B": "drawer",
+   "C": "drawee",
+   "D": "payer."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-27",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 27,
+  "question": "Which of the following is both direct and indirect credit enterprises?",
+  "options": {
+   "A": "Co-operative and thrifts society.",
+   "B": "Retail co-operative society.",
+   "C": "Consumer co-operative society.",
+   "D": "Wholesaler co-operative society."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-28",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 28,
+  "question": "The business in the stock exchange is characterized essentially by",
+  "options": {
+   "A": "dealing.",
+   "B": "brokerage",
+   "C": "speculations",
+   "D": "transactions."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-29",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 29,
+  "question": "The Second-Tier Securities Market is",
+  "options": {
+   "A": "an apendage to the Nigerian Stock Exchange",
+   "B": "a member of the Nigeria Stock Exchange",
+   "C": "meant for the shares of the quoted private companies",
+   "D": "a regulating arm of the Nigeria Stock Exchange"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-30",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 30,
+  "question": "The elements of the marketing mix are",
+  "options": {
+   "A": "product, promotion, place and price.",
+   "B": "personal selling, advertising and research.",
+   "C": "promotion, production, place and price.",
+   "D": "procurement, price, product and place."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-31",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 31,
+  "question": "Which of the following items has the shortest effect on the consumer?",
+  "options": {
+   "A": "Fashion.",
+   "B": "Innovation.C. Fad",
+   "D": "Attribute."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-32",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 32,
+  "question": "Which of the following is a form of sales promotion?",
+  "options": {
+   "A": "Advertising on radio.",
+   "B": "Offering free samples.",
+   "C": "Distributing printed materials.",
+   "D": "Advertising on Television."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-33",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 33,
+  "question": "One advantage of personal selling over all other elements of promotion is that",
+  "options": {
+   "A": "it can provide instant feedback",
+   "B": "it is very cheap in terms of cost per contract",
+   "C": "it does not need to use mass media",
+   "D": "sales people are well trained."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-34",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 34,
+  "question": "Which of the following must be present in an agency by agreement?",
+  "options": {
+   "A": "Intentions.",
+   "B": "Will.",
+   "C": "Consent.",
+   "D": "Authority."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-35",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 35,
+  "question": "An agreement to sell is distinguishable from a sale because in the former, the transfer of goods is",
+  "options": {
+   "A": "not anticipated.",
+   "B": "not discussed.",
+   "C": "deferred.",
+   "D": "immediate."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-36",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 36,
+  "question": "Mr. Amusa says to Mr Bello ‘I will sell you this hat for N30’. And Mr Bello replied ‘I will pay N29’. The contract",
+  "options": {
+   "A": "an offer and acceptance",
+   "B": "an implied contract.",
+   "C": "a complete simple contract.",
+   "D": "an offer but no acceptance."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-37",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 37,
+  "question": "Nationalization of an industry means that its ownership becomes that of",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-38",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 38,
+  "question": "The Comprehensive Import Supervision Scheme was set up by the federal government in order to",
+  "options": {
+   "A": "reverse Nigeria’s unfavourable balance.",
+   "B": "promote fair trade between Nigeria and other countries.",
+   "C": "counteract all fraudulent business deals of Nigerians with other nationals.",
+   "D": "ensure that imports into Nigeria are of the correct quality, value and quantity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-39",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 39,
+  "question": "Which of the following has powers to order withdrawal of a particular food item from circulation?",
+  "options": {
+   "A": "Standards Organisation of Nigeria.",
+   "B": "Federal High Courts in Nigeria.",
+   "C": "Food and Drugs Department of the Federal Ministry of Health.",
+   "D": "Local government health inspectors."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-40",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 40,
+  "question": "Which of the following maxims negates the principle of collective bargaining?",
+  "options": {
+   "A": "Individual employees have weak bargaining base.",
+   "B": "Individual employees attain strength when they come together in a union.",
+   "C": "Only members of the union can benefit from agreements negotiated by the union.",
+   "D": "Collective bargaining covers the vast majority of employees, whether union members or not."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-41",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 41,
+  "question": "NACCIMA stands for",
+  "options": {
+   "A": "Nigerian-American Centre for Culture Industries, Mines and Arts",
+   "B": "Nigerian Association for Culture, Civics, Industries, Minerals and Arts",
+   "C": "National Agency for Culture, Civilization, Investments, Manufacturing and Agriculture",
+   "D": "Nigerian Association of Chambers of Commerce, Industries, Mines and Agriculture."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-42",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 42,
+  "question": "For the establisment of a powerful consumers’ association in Nigeria to exist, there must be",
+  "options": {
+   "A": "financial and moral support from the public.",
+   "B": "honest and committed leadership.",
+   "C": "allocation of goods from the producers.",
+   "D": "freedom from external influence."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-43",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 43,
+  "question": "Which of the following is the most important business resources?",
+  "options": {
+   "A": "Money.",
+   "B": "Management",
+   "C": "Materials",
+   "D": "Manpower."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-44",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 44,
+  "question": "The harmonious relationship among the various units in an organization is ensured through",
+  "options": {
+   "A": "co-ordination",
+   "B": "motivation",
+   "C": "planning.",
+   "D": "leadership."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-45",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 45,
+  "question": "The principle of span of control stipulats that",
+  "options": {
+   "A": "an employee should report to only one superior",
+   "B": "managers must demand accountability from their subordinates",
+   "C": "resources have to be economized within the various divisions",
+   "D": "the number of employees reporting to one superior should be kept to a workable maximum."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-46",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 46,
+  "question": "Which of the following makes other functions of business its appendages?",
+  "options": {
+   "A": "Production.",
+   "B": "Marketing.",
+   "C": "Finance.",
+   "D": "Personnel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-47",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 47,
+  "question": "The use of computers in modern banking industry is a reflection of",
+  "options": {
+   "A": "competitive development",
+   "B": "scientific development",
+   "C": "economic development",
+   "D": "technological development"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-48",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 48,
+  "question": "When an oil exploring and mining company builds a health centre in one of the communities where it operates, such a company is",
+  "options": {
+   "A": "currying favour from local people",
+   "B": "finding a way to spend excess profits",
+   "C": "fulfilling part of its social responsibility",
+   "D": "investing its idle funds. 49 The West African Clearing House became legally operational on"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-50",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 50,
+  "question": "The Lake Chad Basin Commission was founded to enable member states.",
+  "options": {
+   "A": "expand the volume of water in the Lake for fishing activity",
+   "B": "increase navigational activities on the lake",
+   "C": "dam the lake for electricity and agricultural purposes.",
+   "D": "co-ordinate their efforts in managing the use of the lake’s resources."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,889 @@
+[
+ {
+  "id": "commerce-1995-1",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 1,
+  "question": "What are the factors with which commercial undertak ings can be distinguished? I Size of the undertakings.II Profits generated. III Forms of ownership.IV Location of the undertak ings.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-2",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 2,
+  "question": "The development of commercial activities in Nigeria was facilitated largely by",
+  "options": {
+   "A": "a good transport system",
+   "B": "the indigenization decree",
+   "C": "a convenient medium of exchange.",
+   "D": "a high level of production."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-3",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 3,
+  "question": "In which of the following sets of occupations can an industrial worker be found?",
+  "options": {
+   "A": "Extraction, commerce and construction",
+   "B": "Manufacturing, extraction and banking.",
+   "C": "Construction, quarrying and insurance.",
+   "D": "Manufacturing, extraction and construction."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-4",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 4,
+  "question": "Construction activities include the building of houses and roads as well as",
+  "options": {
+   "A": "bricklaying",
+   "B": "shoemaking",
+   "C": "blacksmithing",
+   "D": "car assembling."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-5",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 5,
+  "question": "If a partnership deed is silent on how profits are to be shared, partners share profits",
+  "options": {
+   "A": "in the ratio of the value of business secured by each partner for the partnership",
+   "B": "in the ratio of partners’ capital contributions",
+   "C": "in an equal proportion, irrespective of partners’ capital contributions",
+   "D": "according to duties performed by each partner."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-6",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 6,
+  "question": "Which of the following information is contained in the Articles of Association of a limited liability company?",
+  "options": {
+   "A": "Rights and obligations of directors",
+   "B": "Objectives of the company.",
+   "C": "Amount of share capital.",
+   "D": "Limitation of liability of shareholders."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-7",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 7,
+  "question": "The merger of two companies producing the same type of products is an example of",
+  "options": {
+   "A": "vertical integration",
+   "B": "horizontal integration",
+   "C": "lateral merger",
+   "D": "an acquisition."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-8",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 8,
+  "question": "One of the implications of the incorporation of a company is that",
+  "options": {
+   "A": "it is more difficult for the company to raise loans",
+   "B": "the company can sue but cannot be sued",
+   "C": "the company’s property becomes distinguished from that of its member",
+   "D": "its members become liable for all the debts of the company."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-9",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 9,
+  "question": "The main advantage of a sole trader is the freedom to",
+  "options": {
+   "A": "employ anyone he likes",
+   "B": "seek advice from any source",
+   "C": "take quick decisions",
+   "D": "plough all the profits back into the business."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-10",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 10,
+  "question": "In the case of voluntary liquidation of a business, the receiver is appointed by the",
+  "options": {
+   "A": "creditors",
+   "B": "debtors",
+   "C": "directors",
+   "D": "shareholders."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-11",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 11,
+  "question": "When a company uses more of loans than equity to finance its business, the company is said to be",
+  "options": {
+   "A": "bankrupt",
+   "B": "solvent",
+   "C": "highly geared",
+   "D": "in a strong liquid position."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-12",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 12,
+  "question": "The nominal value of a share as specified in the Memoradium of Association and the share certificate is the",
+  "options": {
+   "A": "disconted value",
+   "B": "stock value",
+   "C": "face value",
+   "D": "par value"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-14",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 14,
+  "question": "Factoring is a trade debt term used when the agent buys all the trade debts of the",
+  "options": {
+   "A": "importers",
+   "B": "exporters",
+   "C": "nations",
+   "D": "customers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-15",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 15,
+  "question": "The financial index which compares current assets directly with current liabilities is known as current",
+  "options": {
+   "A": "turnover",
+   "B": "capital",
+   "C": "ratio",
+   "D": "balance"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-16",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 16,
+  "question": "Rights issue means the",
+  "options": {
+   "A": "issue of shares to the directors of a company on favourable terms",
+   "B": "issue of shares by a company only to the founders of the company",
+   "C": "right of shareholders to vote on any issue",
+   "D": "issue of shares to shareholders on favourable terms."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-17",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 17,
+  "question": "Profit that is expressed as a percentage of the cost of goods sold is referred to as",
+  "options": {
+   "A": "margin",
+   "B": "mark-up",
+   "C": "gain percent",
+   "D": "gross profit."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-18",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 18,
+  "question": "Given: N Opening stock 40,000 Purchases 115,000 Closing stock 60,000 Sales 250,000 What is the cost of goods sold?",
+  "options": {
+   "A": "N155,000",
+   "B": "N95,000",
+   "C": "N50,000",
+   "D": "N30,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-19",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 19,
+  "question": "In the channel of distribution, which of the following sets is entirely made up of middlemen?",
+  "options": {
+   "A": "Wholesalers, retailers and agents.",
+   "B": "Manufacturers, consumers and retailers.",
+   "C": "Wholesalers, agent and consumers.",
+   "D": "Retailers, manufacturers and wholesalers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-20",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 20,
+  "question": "Goods imported into a country for the purpose of re- exporting attracts a rebate known as",
+  "options": {
+   "A": "customs draw back",
+   "B": "export royalty",
+   "C": "incentive",
+   "D": "export rebate."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-21",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 21,
+  "question": "Most foreign trade transactions are paid for through the use of",
+  "options": {
+   "A": "Central Bank cheques",
+   "B": "bank drafts drawn by commercial banks on their foreign branches",
+   "C": "irrevocable and confirmed letters of credit",
+   "D": "letters of credit authenticated by the embassies of the respective countries."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-22",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 22,
+  "question": "RRF as a scheme introduced by the Central Bank of Nigeria means",
+  "options": {
+   "A": "Recording and Rediscounting Facility",
+   "B": "Refinancing and Recording Facility",
+   "C": "Refinancing and Rediscounting Facility",
+   "D": "Refinancing and Reinvesting Facility."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-23",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 23,
+  "question": "Which of the following gives the correct order in which the listed documents are used?",
+  "options": {
+   "A": "Debit note, order, delivery note, invoice and state",
+   "C": "Statement, order, invoice, delivery note and state ment",
+   "D": "Invoice, order, statement, debit note and delivery note."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-24",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 24,
+  "question": "Freight note is a document",
+  "options": {
+   "A": "used by government to transport goods from one country to another",
+   "B": "issued by a shipping company giving details of charges",
+   "C": "used for payment for imported goods.",
+   "D": "given by an importer to pay for goods at a future period."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-25",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 25,
+  "question": "An invoice of N600 is marked 5% 1 month, 212% 3 months’ and ‘1% 5 months’. If a customer pays in the second month of purchase, how much will he remit to the seller?",
+  "options": {
+   "A": "N570. 00",
+   "B": "N585. 00",
+   "C": "N594. 00",
+   "D": "N600.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-26",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 26,
+  "question": "Spot market goods are those which are available for",
+  "options": {
+   "A": "immediate delivery",
+   "B": "short-term delivery",
+   "C": "long-term delivery",
+   "D": "end of year delivery"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-27",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 27,
+  "question": "The main advantage of road transport is that it is",
+  "options": {
+   "A": "convenient and flexible",
+   "B": "cheap and direct",
+   "C": "common and fast",
+   "D": "safe and available."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-28",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 28,
+  "question": "The practice by which an insurance company accepts a very large riskand later shares it with other insurance companies are called",
+  "options": {
+   "A": "subrogation",
+   "B": "contribution",
+   "C": "re-insurance",
+   "D": "indemnity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-29",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 29,
+  "question": "The insurance policy which provides full cover against all risks at sea is known as",
+  "options": {
+   "A": "Policy with Particular Average",
+   "B": "Policy Free of Particular Average",
+   "C": "Marine Freight Insurance",
+   "D": "Marine Voyage Policy Insurance."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-30",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 30,
+  "question": "Berne Union is also known as",
+  "options": {
+   "A": "International Credit Union",
+   "B": "International Documentary Credit Union",
+   "C": "International Union of Credit and Investment Insurers",
+   "D": "Export Credit Guarantee Scheme."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-31",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 31,
+  "question": "Which of the following sets of items was used for exchange in Nigeria before money was introduced?",
+  "options": {
+   "A": "Cowries, iron rods, brass rods and copper wires.",
+   "B": "Iron rods, copper rods, manilla and cowries.",
+   "C": "Cowries, manilla, brass rods and copper wires.",
+   "D": "Copper wires, brass wires, cowries, and iron rods."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-32",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 32,
+  "question": "A major liability of a commercial bank arises from",
+  "options": {
+   "A": "customers’ deposits",
+   "B": "loans and advances",
+   "C": "overdrafts",
+   "D": "staff allowances."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-33",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 33,
+  "question": "A bank statement is a document",
+  "options": {
+   "A": "ordering a bank to pay on demand a stated sum of money",
+   "B": "containing records of receipts, payments and balance on an account",
+   "C": "used for paying money into a bank account",
+   "D": "used for regular withdrawal of moeny from a savings exchange market?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-35",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 35,
+  "question": "The marketing approach by which a firm caries out a detailed analysis of itself, the consumers and its competitors is known as",
+  "options": {
+   "A": "market analysis",
+   "B": "marketing mix analysis",
+   "C": "marketing opportunities analysis",
+   "D": "market survey."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-36",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 36,
+  "question": "The breaking down of a market into separate and identifiable elements each with its own special product requirements is known as market",
+  "options": {
+   "A": "differentiation",
+   "B": "Segmentation",
+   "C": "penetration",
+   "D": "identification."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-37",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 37,
+  "question": "Taking a new product to a particular part of a country to test the reaction of consumers to the product is referred to as",
+  "options": {
+   "A": "sales promotion",
+   "B": "sampling",
+   "C": "merchandizing",
+   "D": "advertising."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-38",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 38,
+  "question": "A manufacturer can make his product distinguishable from those of other competitors by",
+  "options": {
+   "A": "providing catalogues for his wholesalers",
+   "B": "aggressive sales promotion",
+   "C": "branding and packaging the product",
+   "D": "selling the product at a much lower price."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-39",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 39,
+  "question": "Which of the following are forms of sales promotion?",
+  "options": {
+   "A": "Advertising, personal selling and publicity.",
+   "B": "Advertising, market skimming and publicity.",
+   "C": "Personal selling, packaging and publicity.",
+   "D": "Advertising, packaging and publicity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-40",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 40,
+  "question": "A disadvantage of personal selling is that it",
+  "options": {
+   "A": "increases a company’s operating costs.",
+   "B": "decreases a company’s operating costs.",
+   "C": "increases a company’s number of customers",
+   "D": "reduces a company’s area of patronage."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-41",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 41,
+  "question": "Chinyere agreed to make a dress for Halima with September 20, 1995 as the delivery date. If the dress was not ready on that date, Halima could",
+  "options": {
+   "A": "sue Chinyere for damages",
+   "B": "sue Chinyere for specific performance",
+   "C": "seize another gown from Chinyere’s shop",
+   "D": "regard the contract between them as terminated."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-42",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 42,
+  "question": "Consumer sovereignty means that the consumer is",
+  "options": {
+   "A": "a citizen",
+   "B": "always independent",
+   "C": "always wrong",
+   "D": "always right."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-43",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 43,
+  "question": "When an industry or company is nationalized, the state becomes",
+  "options": {
+   "A": "the majority shareholder",
+   "B": "the minority shareholder",
+   "C": "the only shareholder",
+   "D": "an equal shareholder with other individuals. through the process of"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-45",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 45,
+  "question": "Which of the following organizations represents those who engage labour in Nigeria?",
+  "options": {
+   "A": "Nigerian Labour Congress",
+   "B": "Nigerian Employers Consultative Association.",
+   "C": "Manufacturers Association of Nigeria.",
+   "D": "Nigerian Union of Local Government Employees."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-46",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 46,
+  "question": "The practice of assessing employees for payment or advancement according to their observed achievement is called",
+  "options": {
+   "A": "employee ranking",
+   "B": "merit rating",
+   "C": "job grading",
+   "D": "employee evaluation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-47",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 47,
+  "question": "Motivation is an essential element in management because it",
+  "options": {
+   "A": "leads to the improvement of staff welfare",
+   "B": "encourages individuals to work towards achieving the organisation’s objectives",
+   "C": "reduces friction among employees in the process of achieving the organization’s objectives",
+   "D": "helps to eliminate industrial disharmony."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-48",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 48,
+  "question": "The direct authority of a superior over his surbordinate is known as",
+  "options": {
+   "A": "staff authority",
+   "B": "line authority",
+   "C": "line and staff authority",
+   "D": "lateral authority"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-49",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 49,
+  "question": "A firm’s organisational structure would change if",
+  "options": {
+   "A": "one of the major partners dies",
+   "B": "there is excessive competition",
+   "C": "there is seasonal variation in demand",
+   "D": "the scope of business operation changes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-50",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 50,
+  "question": "The secretariat of the Niger Basin Commission is located",
+  "options": {
+   "A": "Ouagadougou, Burkina Faso",
+   "B": "Abuja, Nigeria",
+   "C": "Niamey, Niger",
+   "D": "Bamako, Mali"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

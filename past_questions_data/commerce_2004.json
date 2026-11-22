@@ -1,0 +1,942 @@
+[
+ {
+  "id": "commerce-2004-1",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 1,
+  "question": "Ships that sail across the ocean and operate on scheduled timetables are",
+  "options": {
+   "A": "ferries",
+   "B": "ocean liners",
+   "C": "tramp steamers",
+   "D": "coastal liners."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-2",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 2,
+  "question": "Non-insurable risks include",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-3",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 3,
+  "question": "The program that makes up the operating system in a computer is",
+  "options": {
+   "A": "microprogram",
+   "B": "system flowchart",
+   "C": "system software",
+   "D": "syntax."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-4",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 4,
+  "question": "When an organization studies a market that is underserved by others and creates a product or service",
+  "options": {
+   "A": "market integration",
+   "B": "market positioning",
+   "C": "market orchestration",
+   "D": "product differentiation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-5",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 5,
+  "question": "Coverage against unexpected events is called",
+  "options": {
+   "A": "insurance",
+   "B": "assurance",
+   "C": "warranty ,\"",
+   "D": "reinsurance."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-6",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 6,
+  "question": "An insured risk which occurs accidentally as a result of defects in a ship is",
+  "options": {
+   "A": "a voyage policy",
+   "B": "a total loss",
+   "C": "an emergency",
+   "D": "a particular average."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-7",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 7,
+  "question": "Communication enhances business activities by",
+  "options": {
+   "A": "facilitating interaction between producers and consumers",
+   "B": "facilitating interaction among media houses",
+   "C": "ensuring the movement of goods from the producer to the consumer",
+   "D": "keeping the goods safe until they are needed."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-8",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 8,
+  "question": "In business, the computer is very important especially",
+  "options": {
+   "A": "fmancial management",
+   "B": "marketing management",
+   "C": "educational management",
+   "D": "information management."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-9",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 9,
+  "question": "What is the most important use of promotion in marketing?",
+  "options": {
+   "A": "Persuasion.",
+   "B": "Conviction.",
+   "C": "Information.",
+   "D": "Education."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-10",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 10,
+  "question": "The current highest decision-making body on privatization and commercialization of public enterprises in Nigeria is the",
+  "options": {
+   "A": "National Council on Privatization",
+   "B": "Securities and Exchange Commission",
+   "C": "Nigeria Investment Promotion Commission",
+   "D": "Bureau of Public Enterprises."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-11",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 11,
+  "question": "The members of the Niger Basin Commission include",
+  "options": {
+   "A": "Guinea, Ghana and Niger Republic",
+   "B": "Burkina Faso, Guinea and Nigeria",
+   "C": "The Gambia, Benin Republic and Chad Republic",
+   "D": "Nigeria, the Gambia and Cameroun."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-12",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 12,
+  "question": "Business environment refers to all elements that are",
+  "options": {
+   "A": "outside an organization but relevant to its operations",
+   "B": "inside an organization but irrelevant to its operations",
+   "C": "internal to an organization and relevant to its operations",
+   "D": "external to an organization but indirectly related to its operations."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-13",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 13,
+  "question": "Consumer rights include the right to",
+  "options": {
+   "A": "credit",
+   "B": "free samples of a product",
+   "C": "redress",
+   "D": "a share of profits."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-14",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 14,
+  "question": "One important requirement for the membership of the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-15",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 15,
+  "question": "In Nigeria, the body that ensures that its members operate according to their professional ethics is the",
+  "options": {
+   "A": "SON",
+   "B": "NPF",
+   "C": "MAN",
+   "D": "NAFDAC."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-16",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 16,
+  "question": "A transporter who had to sell some perishable goods without the prior authority of the owner becomes an agent by",
+  "options": {
+   "A": "conduct",
+   "B": "necessity",
+   "C": "ratification",
+   "D": "estoppel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-17",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 17,
+  "question": "Poor sewage disposal, oil spill and indiscriminate refuse dumping all lead to",
+  "options": {
+   "A": "land pollution",
+   "B": "water pollution",
+   "C": "land and water pollution",
+   "D": "air and water pollution."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-18",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 18,
+  "question": "One of the advantages of commercialization is that it",
+  "options": {
+   "A": "encourages entrepreneurship",
+   "B": "increases the salaries of workers",
+   "C": "motivates government to establish more businesses",
+   "D": "gives workers on-the-job training."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-19",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 19,
+  "question": "A common element in all contracts is",
+  "options": {
+   "A": "offer",
+   "B": "consideration",
+   "C": "acceptance",
+   "D": "agreement."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-20",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 20,
+  "question": "Sources of finance to a business include personal savings, shares, debentures and",
+  "options": {
+   "A": "loans from IMF",
+   "B": "bank overdrafts",
+   "C": "central bank loans",
+   "D": "money from political parties."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-21",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 21,
+  "question": "Charges for loans paid by commercial banks to the Central Bank of Nigeria are called",
+  "options": {
+   "A": "bank rates",
+   "B": "credit charges",
+   "C": "interest rates",
+   "D": "bank charges."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-22",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 22,
+  "question": "In the primary market, new shares are issued through",
+  "options": {
+   "A": "personal selling, publicity and advertising",
+   "B": "a prospectus, an offer for sale and a bill of exchange",
+   "C": "advertising, a prospectus and a bill of exchange",
+   "D": "a prospectus, an offer for sale and placing."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-23",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 23,
+  "question": "The instruments of credit include",
+  "options": {
+   "A": "billboards and postal stamps",
+   "B": "payment vouchers and statement of account",
+   "C": "bills of exchange and promissory notes",
+   "D": "bills of exchange and salary vouchers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-24",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 24,
+  "question": "The shares of a company listed on the stock exchange for sale are referred to as",
+  "options": {
+   "A": "registered shares",
+   "B": "deferred shares",
+   "C": "issued shares",
+   "D": "quoted shares."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-25",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 25,
+  "question": "What is the role of the capital market in the privatization exercise in Nigeria?",
+  "options": {
+   "A": "Selling the shares and stocks of the companies to be privatized.",
+   "B": "Encouraging private companies to participate in the exercise.",
+   "C": "Negotiating with individuals who want to buy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-26",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 26,
+  "question": "In international trade, documentary credit is also known as",
+  "options": {
+   "A": "credit note",
+   "B": "letters of credit",
+   "C": "bankers' drafts",
+   "D": "letter of hypothecation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-27",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 27,
+  "question": "A specialized institution in Nigeria that deals\"in capital investments in the form of stocks, shares, bonds and debentures is the",
+  "options": {
+   "A": "Securities and Exchange Commission",
+   "B": "commodity market",
+   "C": "Nigerian Stock Exchange",
+   "D": "Central Bank of Nigeria."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-28",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 28,
+  "question": "A group of assets which a business acquires with the intention of reselling them are referred to as",
+  "options": {
+   "A": "current assets",
+   "B": "investment assets",
+   "C": "fixed assets",
+   "D": "intangible assets."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-29",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 29,
+  "question": "Authorized share capital is also known as",
+  "options": {
+   "A": "called-up share capital",
+   "B": "paid-up share capital",
+   "C": "registered share capital",
+   "D": "issued share capital."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-30",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 30,
+  "question": "An action taken by a company outside its object clause is regarded as",
+  "options": {
+   "A": "ultra vires",
+   "B": "a trespass",
+   "C": "uberrima fides",
+   "D": "caveat emptor."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-31",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 31,
+  "question": "The strategy adopted by a flrIn that ceases to operate at one or more locations because of inactivity is",
+  "options": {
+   "A": "rejuvenation",
+   "B": "focus",
+   "C": "diversification",
+   "D": "consolidation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-32",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 32,
+  "question": "A written partnership contract is known as",
+  "options": {
+   "A": "an invoice",
+   "B": "a deed",
+   "C": "a prospectus",
+   "D": "a proposal."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-33",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 33,
+  "question": "The merger of a textile mill, a cement company and a tannery is referred to as",
+  "options": {
+   "A": "conglomerate merger",
+   "B": "horizontal merger",
+   "C": "lateral merger",
+   "D": "vertical merger. Use the diagram below to answer questions 34 and 35."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "commerce/2004_p28_1.png",
+  "images": [
+   "commerce/2004_p28_1.png"
+  ]
+ },
+ {
+  "id": "commerce-2004-34",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 34,
+  "question": "As the branches indicate, iv is",
+  "options": {
+   "A": "commerce",
+   "B": "exchange",
+   "C": "finance",
+   "D": "construction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-35",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 35,
+  "question": "What does v represent?",
+  "options": {
+   "A": "Aids to trade",
+   "B": "Advertising",
+   "C": "Manufacturing",
+   "D": "Industry"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-36",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 36,
+  "question": "The most important of computer is",
+  "options": {
+   "B": "facilitating exhnages among individuals and firms",
+   "C": "assistaing trade through banking and insurance",
+   "D": "enhancing business relationships"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-37",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 37,
+  "question": "The acronym PLC is used to identify a",
+  "options": {
+   "A": "comapny limited by shares",
+   "B": "private company limited by shares",
+   "C": "public company limited by shares",
+   "D": "company limited by guarantee"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-38",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 38,
+  "question": "Commerce includes all the occupations concerned with",
+  "options": {
+   "A": "sales",
+   "B": "production",
+   "C": "marketing",
+   "D": "distribution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-39",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 39,
+  "question": "Factors of production can be described as the",
+  "options": {
+   "A": "resources required for the provision of goods and services",
+   "B": "skills involved in deciding and directing the flow of goods",
+   "C": "monetary tools employed by government to ensure stable production",
+   "D": "elements involved in the process of formulating policies on production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-40",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 40,
+  "question": "Flucntuations in the supply of goods may be eliminated if the distribution system maintains",
+  "options": {
+   "A": "modern technology",
+   "B": "a team of retailers",
+   "C": "warehouse services",
+   "D": "sufficient midlemen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-41",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 41,
+  "question": "Loan schemes by thrift ocieties are",
+  "options": {
+   "A": "mortage schemes",
+   "B": "conventional schemes",
+   "C": "mutual schemes",
+   "D": "unconventional schemes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-42",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 42,
+  "question": "An internal demand for goods to be purchased or drawn from stock is",
+  "options": {
+   "A": "a quotation",
+   "B": "a requisition",
+   "C": "a tender",
+   "D": "an order"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-43",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 43,
+  "question": "The term 4 net 7 on an invoice means that",
+  "options": {
+   "A": "4% surcharge will be made unless payment is made within seven days",
+   "B": "4% discount will be allowed on the price charged only if the goods are bought within seven days",
+   "C": "4% discount will be allowed on the price charged if payment is made after seven days",
+   "D": "4% discount will be allowed on the price charge if payment is made within seven days."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-44",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 44,
+  "question": "An order sent by an importer to an overseas supplier stating the details of goods reqired is known as",
+  "options": {
+   "A": "export invoice",
+   "B": "ship’s manifest",
+   "C": "an indent",
+   "D": "bill of lading"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-45",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 45,
+  "question": "Organising trade fairs in Nigeria is the responsibility of",
+  "options": {
+   "A": "National Directorate of Employment",
+   "B": "Federal Ministry of Commerce",
+   "C": "Trade Association",
+   "D": "Chamnbers of Commerce"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-46",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 46,
+  "question": "International trade takes place as a result of",
+  "options": {
+   "A": "niformity in costs of production",
+   "B": "inequitable distcribution of natural resources",
+   "C": "parity in the level of industrialization",
+   "D": "similarities in climatic conditions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-47",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 47,
+  "question": "The use of vending machines in retailing is hindered in a developing economy owing to",
+  "options": {
+   "A": "industrial policy and harmony",
+   "B": "low level of education",
+   "C": "ineffective communication system",
+   "D": "lack of steady power supply"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-48",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 48,
+  "question": "Manufcturers’ Association of Nigeria contributes to development by advising the government on",
+  "options": {
+   "A": "industrial policy and harmony",
+   "B": "budget and budgetary control",
+   "C": "budget and industrial policy",
+   "D": "environmental protection policy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-49",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 49,
+  "question": "Discounts offered by firms to midlemen for bulk purchases are",
+  "options": {
+   "A": "trade discounts",
+   "B": "sales bonanza",
+   "C": "cash discounts",
+   "D": "seasonal discounts"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2004-50",
+  "subject": "commerce",
+  "year": 2004,
+  "number": 50,
+  "question": "Goods are of merchantable quality if they",
+  "options": {
+   "A": "conform to description",
+   "B": "are of equal weight",
+   "C": "are of the same quality",
+   "D": "conform to buyers’ purpose"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

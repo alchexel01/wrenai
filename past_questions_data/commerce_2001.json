@@ -1,0 +1,923 @@
+[
+ {
+  "id": "commerce-2001-1",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 1,
+  "question": "The pivot on which the wheel of commerce rotates is",
+  "options": {
+   "A": "tarriff",
+   "B": "trade",
+   "C": "taxation",
+   "D": "price"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-2",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 2,
+  "question": "A distinguishing characteristics of labour is that it is",
+  "options": {
+   "A": "constant",
+   "B": "expensive",
+   "C": "mobile",
+   "D": "cheap"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-3",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 3,
+  "question": "Land as a factor of production does not vary in",
+  "options": {
+   "A": "quantity",
+   "B": "nature",
+   "C": "quality",
+   "D": "cost."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-4",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 4,
+  "question": "Whhich of the following services does a lawyer render?",
+  "options": {
+   "A": "industrial services",
+   "B": "direct services, C. indirect services",
+   "D": "commercial services"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-5",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 5,
+  "question": "The partner that only contributes part of the capital used in the formation and running of a business is known",
+  "options": {
+   "A": "a passive partner",
+   "B": "an active partner",
+   "C": "a dormant partner",
+   "D": "a nominal partner"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-6",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 6,
+  "question": "One major advantage of a credit and thrift cooperatives is that",
+  "options": {
+   "A": "it can approach governemnt for a loan",
+   "B": "it encourages saving habits C . there are no legal restrictions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-7",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 7,
+  "question": "A form of ownership which exploits the strengths of one partners to remedy the weaknesses of the other is a",
+  "options": {
+   "A": "joint partnership",
+   "B": "cooperative",
+   "C": "corporation",
+   "D": "joint venture."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-8",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 8,
+  "question": "At the collapse of a business enterprises, the person appointed to dispose of the assets is called",
+  "options": {
+   "A": "a broker",
+   "B": "an auctioneer",
+   "C": "a liquidator",
+   "D": "an auditor"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-9",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 9,
+  "question": "Entrusting the management of a comapny to the courts to enable the settlement of the company’s oblilgations is an indication of",
+  "options": {
+   "A": "distress",
+   "B": "closure",
+   "C": "bankrupcy",
+   "D": "liquidation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-10",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 10,
+  "question": "The financial instrument for borrowing in which collateral is usually more than the amount borrowed is",
+  "options": {
+   "A": "trust certificate",
+   "B": "detachable warrant",
+   "C": "mortgage bond",
+   "D": "convertible securities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-11",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 11,
+  "question": "I. Personal saving II. Retained Earnings III Acrued Taxes Which of the items above constitute internal sources of financing for companies",
+  "options": {
+   "A": "I & II",
+   "B": "I & III",
+   "C": "II & III",
+   "D": "I, II & III"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-12",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 12,
+  "question": "The difference between total current assets and total current liabilities of a business is known as",
+  "options": {
+   "A": "quick ratio",
+   "B": "liquidity ratiio",
+   "C": "working capital",
+   "D": "circulating capital Use the balance sheet below to answer questions 13 and 14. Mama Trading Company"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "commerce/2001_p19_1.png",
+  "images": [
+   "commerce/2001_p19_1.png"
+  ]
+ },
+ {
+  "id": "commerce-2001-13",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 13,
+  "question": "The capital employed is",
+  "options": {
+   "A": "N1,000",
+   "B": "N1,370",
+   "C": "N140",
+   "D": "N50"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-14",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 14,
+  "question": "The capital owned is",
+  "options": {
+   "A": "N2,740",
+   "B": "N1,350",
+   "C": "N1,150",
+   "D": "N570"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-15",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 15,
+  "question": "One of the reasons why wholesaling must continue is that",
+  "options": {
+   "A": "the tax paid by wholesalers on their profit enhances national revenue",
+   "B": "by creating artificial scarcity, the wholesaler is enhancing competion in the economy,",
+   "C": "the wholesaler provides technical advice to the retailer",
+   "D": "the gap between manufacturers and retailer is reduced by wholesalers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-16",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 16,
+  "question": "A merchant wholesaler is referred to as:",
+  "options": {
+   "A": "del-credere agent",
+   "B": "a broker,",
+   "C": "rack jobber",
+   "D": "a factor"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-17",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 17,
+  "question": "A proforma invoice is sent to inform a buyer about the :",
+  "options": {
+   "A": "quantity of goods",
+   "B": "prices of goods,",
+   "C": "designation of goods",
+   "D": "quality of goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-18",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 18,
+  "question": "The balance of payments of countries is",
+  "options": {
+   "A": "a record of imports and exports",
+   "B": "a systematic record of transactions among countries at a given time nations"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-19",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 19,
+  "question": "The major procedures in the purchase and sale of goods are enquiry",
+  "options": {
+   "A": "quotation, order and invoice",
+   "B": "placement order and invoice",
+   "C": "bargain, order and invoice",
+   "D": "order, sale and invoice. Use the information below to answer questions 20 and 12 Mr. Awala is a retailer of a single product. He sells at the standard price. He gives a trade discount of 5%, quantity discount of 3% for a volume above 1000 units and a cash discount of 2/10 net 30. The existing selling price of the product is N100 per unit. Mr. Bacus purchased 1,500 units of the product on credit and promised to pay Mr. Awala in cash in the first 10 days after purchase."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-20",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 20,
+  "question": "The trade discount receivebale by Mr. Bacus is:",
+  "options": {
+   "A": "N4,500",
+   "B": "N7,500",
+   "C": "N10,500",
+   "D": "N12,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-21",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 21,
+  "question": "If Mr. Bacus fulfil his promise, he will be entitled to a cash discount of",
+  "options": {
+   "A": "N2,760",
+   "B": "N3,000",
+   "C": "N6,500",
+   "D": "N9,500"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-22",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 22,
+  "question": "Bank Giro is a method of settling debt from a:",
+  "options": {
+   "A": "customer to a bank",
+   "B": "bank to a customer",
+   "C": "customer to another",
+   "D": "bank to another"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-23",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 23,
+  "question": "Warehousing is a productive function because it increases the",
+  "options": {
+   "A": "quantity of goods",
+   "B": "utility of goods",
+   "C": "quality of goods",
+   "D": "price of goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-24",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 24,
+  "question": "A factor neccessary for siting a warehouse is nearness nearness to:",
+  "options": {
+   "A": "raw materials",
+   "B": "labour",
+   "C": "Capital.",
+   "D": "consumers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-25",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 25,
+  "question": "Pooling of risk in insurance means that",
+  "options": {
+   "A": "compenstaions are paid out of a common fund",
+   "B": "two people can pool their risks to be insured",
+   "C": "two insurance companies can buy two policies",
+   "D": "insurance companies should encourage taking risks"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-26",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 26,
+  "question": "The indemnification of Ama by his insurance cecompany after a fire disaster means that he:",
+  "options": {
+   "A": "has been guaranteed by the insurance company",
+   "B": "will be cleared of any fault by the insurance company",
+   "C": "has been by the insurance company",
+   "D": "will be covered to the limit of the amount in the policy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-27",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 27,
+  "question": "The major difference between insurance and assurance is that while insurance",
+  "options": {
+   "A": "takes care of the uncertainty, assurance takes care of risks",
+   "C": "hinges on possibilities, assurance is based on possibilities",
+   "D": "is about indemnity, assurance is about life in the future"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-28",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 28,
+  "question": "A documenatry bill will normally be acompanied by",
+  "options": {
+   "A": "sales invoice, bill of lading and insurance certificate",
+   "B": "clean bill, bill of lading and insurance cerificate",
+   "C": "bill of lading, consular invoice and insurance certificate",
+   "D": "consular invoice, FOB certificate and bill of lading."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-29",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 29,
+  "question": "Which of the following best describes the classifi cation of computers",
+  "options": {
+   "A": "mini -computer,speed and size",
+   "B": "micro-computer cost and liabilities",
+   "C": "mini-computer, microcomputer and work station,",
+   "D": "A mini-computer, hybrid and digital"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-30",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 30,
+  "question": "The temporary working area of the central procession unit is called the",
+  "options": {
+   "A": "C-D ROM",
+   "B": "C-D RAM",
+   "C": "ROM",
+   "D": "RAM."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-31",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 31,
+  "question": "The significance of money to modern economic systems is that it",
+  "options": {
+   "A": "is used as a means of payment",
+   "B": "promotes specialization and exchange",
+   "C": "measures value and promotes exchange.",
+   "D": "causes inflation and deflation in the economy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-32",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 32,
+  "question": "One major charcteristic of credit unions and thrift societies is that",
+  "options": {
+   "A": "the legal processes involved in their formation are rigid.",
+   "B": "membership is compulsory to peoplein the same line of business",
+   "C": "the contribution of every member depends on the member’s ability.",
+   "D": "a minimum of ten people in the same line of business can form the union."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-33",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 33,
+  "question": "The Nigerian Stock Exchange publishes a daily official list that gives full information on the A method of transactions agreed to by members,",
+  "options": {
+   "B": "number of participating members in a day",
+   "C": "changes in the prices and earning of securities",
+   "D": "changes in the official rules set by the market."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-34",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 34,
+  "question": "The main factors that determines the value of a stock on the Stock exchangea re dividend and",
+  "options": {
+   "A": "the psychology of the market",
+   "B": "capital gain",
+   "C": "capital appreciation",
+   "D": "warrantpayment."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-35",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 35,
+  "question": "One of the main objectives of the second-tier securities market in Nigeria is to",
+  "options": {
+   "A": "achieve a realistic exchnage rate for the Naira"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-36",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 36,
+  "question": "The activities aimed at finding out customers’ need and satisfaction can be described as",
+  "options": {
+   "A": "socio-marketing",
+   "B": "macro-marketing,",
+   "C": "micro-marketing",
+   "D": "conceptual marketing."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-37",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 37,
+  "question": "The most effective type of advertising for branded product is",
+  "options": {
+   "A": "direct advertising",
+   "B": "indirect advertising",
+   "C": "informative advertising",
+   "D": "competitive advetising. Use the information below to answer questions 38 and 39 Comapnies I, II, III and IV produce and sell electronic videos. C company I sells its video for N14,000 each and offers advice on how to fix and operate them. Company II sells at N14,000 and its representatives go to install at no additional cost. Company III sells at N15,000 and offers credit sales at N15,500 per video while Company IV sells at N15,000 each."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-38",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 38,
+  "question": "Which of these companies are more engaged in public relations activities?",
+  "options": {
+   "A": "I & II",
+   "B": "I & III",
+   "C": "II & IV",
+   "D": "III & IV"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-39",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 39,
+  "question": "Which of these companies offer after sales services?",
+  "options": {
+   "A": "IV",
+   "B": "III",
+   "C": "II",
+   "D": "I Use the information below to answer questions 40 and 41 Musa rented a room to Adamu for N1,500 and N1,000 part- payment was made. Adamu brought Audu and Jacob his friends to stay in the room. The two friends later pay the balance of N500 to Musa"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-40",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 40,
+  "question": "Who are parties to the contract of renting the room.",
+  "options": {
+   "A": "Musa and Jacob",
+   "B": "Musa and Audu",
+   "C": "Adamu and Musa",
+   "D": "Audu and Jacob."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-41",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 41,
+  "question": "Who is the offeree in this contract?",
+  "options": {
+   "A": "Musa",
+   "B": "Audu",
+   "C": "Adamu",
+   "D": "Jacob"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-42",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 42,
+  "question": "The maximum number of shareholders in a public liability comapny is",
+  "options": {
+   "A": "20",
+   "B": "50",
+   "C": "100",
+   "D": "Unlimited"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-43",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 43,
+  "question": "One way by which government reduces the repatriation of capital is through",
+  "options": {
+   "A": "nationalization",
+   "B": "divestiture",
+   "C": "indigenization",
+   "D": "naturalization."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-44",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 44,
+  "question": "One of the major functions of a chamber of commerce is to: a. promote and protect trade, industry and agriculture b. advise members on regulations of other countries",
+  "options": {
+   "C": "settle disputes that arise out of trade",
+   "D": "publish books and periodicals desired by members"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-45",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 45,
+  "question": "Departmentalization is an aspect of",
+  "options": {
+   "A": "staff performing the same fucntions are grouped together",
+   "B": "departments performing similar functions are gouped together.",
+   "C": "activities of similar nature are grouped together",
+   "D": "the staff performing similar functions are grouped together"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-47",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 47,
+  "question": "In the line type of organizational structure",
+  "options": {
+   "A": "the lines of authority are vertical",
+   "B": "there is the application of division of labour",
+   "C": "specialization is carried to a maximum degree",
+   "D": "The llines of authority are horizontally."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-48",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 48,
+  "question": "Proper disposal of waste by business firms is one way of discharging their",
+  "options": {
+   "A": "responsibility to government",
+   "B": "environmental responsibility.",
+   "C": "community responsibility",
+   "D": "responsibility to customers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-49",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 49,
+  "question": "One of the obstacles to achieving the objectives of ECOWAS is",
+  "options": {
+   "A": "lack of common currency",
+   "B": "colonial linkages,",
+   "C": "sovereignty of states",
+   "D": "language differences."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2001-50",
+  "subject": "commerce",
+  "year": 2001,
+  "number": 50,
+  "question": "One of the main objectives of establishing theNiger River Basin Commission was to :",
+  "options": {
+   "A": "embark on a comprehensive survey of the available water resources",
+   "B": "carry out research for the development of fresh water fisheries,",
+   "C": "develop infrastructure to facilitate economic activties",
+   "D": "promote trade among member-states to improve standard of living. 11. Awarding scholarships and sponsoring sports by"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
