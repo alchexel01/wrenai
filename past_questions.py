@@ -266,3 +266,131 @@ def get_questions(subject: str, year: int, limit: int, offset: int,
     offset = max(0, offset)
     return QuestionsResponse(subject=_slug(subject), year=year, total=len(qs),
                              questions=qs[offset:offset + limit])
+
+
+# ══════════════════════════════════════════════════════════════════════════
+#  FLAGGED QUESTIONS
+#  The app sends a question here when a student flags it, so you can see
+#  which ones look wrong and fix them with a fixes/<subject>_<year>.json file.
+#
+#    POST   /past-questions/flag              (app; same X-App-Secret as the rest)
+#    GET    /past-questions/flags             (you; header X-Admin-Key = WREN_ADMIN_KEY)
+#    DELETE /past-questions/flags/{id}        (you; header X-Admin-Key; clears it after fixing)
+#
+#  STORAGE: reports are appended to flags.jsonl inside PQ_FLAGS_DIR. Render's
+#  normal disk is wiped on every deploy (including every time you push a new
+#  paper), so for the reports to survive either attach a Render Disk and set
+#  PQ_FLAGS_DIR to a folder on it (e.g. /var/data/pq_flags), or read them
+#  before you deploy. Every report is ALSO written to the Render logs as a
+#  single "PQ_FLAG {...}" line, as a backup.
+# ══════════════════════════════════════════════════════════════════════════
+import os
+import tempfile
+import threading
+import time
+from collections import Counter
+
+_FLAG_LOCK = threading.Lock()
+
+
+class FlagIn(BaseModel):
+    id: str = ""
+    subject: str
+    year: int
+    number: int
+    question: str = ""
+    options: dict[str, str] = {}
+    answer: Optional[str] = None
+    explanation: Optional[str] = None
+    images: list[str] = []
+    chosen: Optional[str] = None
+    reason: str = "flagged"
+
+
+def _flags_file() -> pathlib.Path:
+    d = os.environ.get("PQ_FLAGS_DIR") or (
+        "/var/data/pq_flags" if os.path.isdir("/var/data")
+        else os.path.join(tempfile.gettempdir(), "pq_flags"))
+    path = pathlib.Path(d)
+    path.mkdir(parents=True, exist_ok=True)
+    return path / "flags.jsonl"
+
+
+def _flag_rows() -> list:
+    f = _flags_file()
+    if not f.is_file():
+        return []
+    rows = []
+    for line in f.read_text(encoding="utf-8", errors="replace").splitlines():
+        try:
+            rows.append(json.loads(line))
+        except Exception:
+            continue
+    return rows
+
+
+def save_flag(body: FlagIn, device: str = "", rid: str = "-") -> dict:
+    slug = _slug(body.subject)
+    if not slug or not _load(slug, body.year):
+        raise HTTPException(status_code=400, detail={"error": "unknown paper"})
+    qid = (body.id or f"{slug.replace('_', '-')}-{body.year}-{body.number}")[:120]
+    row = {
+        "ts": int(time.time()), "id": qid, "subject": slug, "year": body.year,
+        "number": body.number, "question": body.question[:3000],
+        "options": {str(k)[:3]: str(v)[:500] for k, v in list(body.options.items())[:6]},
+        "answer": (body.answer or None), "explanation": (body.explanation or None),
+        "images": body.images[:10], "chosen": (body.chosen or None),
+        "reason": body.reason[:40], "device": str(device or "")[:64],
+    }
+    line = json.dumps(row, ensure_ascii=False)
+    log.warning(f"[{rid}] PQ_FLAG {line}")
+    try:
+        with _FLAG_LOCK:
+            with _flags_file().open("a", encoding="utf-8") as fh:
+                fh.write(line + "\n")
+    except Exception as e:
+        log.error(f"past_questions: could not store flag: {e!r}")   # still in the logs above
+    return {"ok": True}
+
+
+def list_flags(limit: int = 200) -> dict:
+    """Flagged questions grouped by question, most-reported first. Each entry
+    shows what the app showed, what the server has now, and a ready-to-edit
+    fix entry for fixes/<subject>_<year>.json."""
+    groups: dict = {}
+    for r in _flag_rows():
+        g = groups.setdefault(r.get("id"), {"rows": []})
+        g["rows"].append(r)
+    out = []
+    for qid, g in groups.items():
+        rows = g["rows"]
+        last = max(rows, key=lambda r: r.get("ts", 0))
+        slug, year, num = last.get("subject"), last.get("year"), last.get("number")
+        current = next((q for q in _load(slug, year) if q.get("number") == num), None)
+        shown = current or last
+        out.append({
+            "id": qid, "subject": slug, "year": year, "number": num,
+            "reports": len(rows),
+            "devices": len({r.get("device") for r in rows if r.get("device")}),
+            "last_reported": last.get("ts"),
+            "chosen_by_students": dict(Counter(r.get("chosen") or "none" for r in rows)),
+            "question_now": (current or {}).get("question"),
+            "options_now": (current or {}).get("options"),
+            "answer_now": (current or {}).get("answer"),
+            "images": (current or last).get("images"),
+            "fix_file": f"past_questions_data/fixes/{slug}_{year}.json",
+            "fix_template": {"number": num, "question": shown.get("question"),
+                             "options": shown.get("options")},
+        })
+    out.sort(key=lambda e: (-e["reports"], -(e["last_reported"] or 0)))
+    return {"total": len(out), "flags": out[:max(1, min(limit, 500))]}
+
+
+def clear_flags(qid: str) -> dict:
+    """Remove every report for one question (call after you have fixed it)."""
+    with _FLAG_LOCK:
+        keep = [r for r in _flag_rows() if r.get("id") != qid]
+        f = _flags_file()
+        f.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in keep),
+                     encoding="utf-8")
+    return {"ok": True}
