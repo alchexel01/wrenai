@@ -1,0 +1,255 @@
+{
+ "year": 1992,
+ "answers": [
+  {
+   "number": 1,
+   "answer": "B",
+   "explanation": "The least possible error of a ruler is half its smallest division; for 1 cm divisions that is 0.5 cm."
+  },
+  {
+   "number": 2,
+   "answer": "B",
+   "explanation": "The period T = 2 pi sqrt(L/g) depends on length and gravity, not on the mass of the bob."
+  },
+  {
+   "number": 3,
+   "answer": "D",
+   "explanation": "The coin shares the train's horizontal velocity, so it moves forward with the palm and lands back in it."
+  },
+  {
+   "number": 4,
+   "answer": "A",
+   "explanation": "Distance in the third second = 1/2 x 6 x (3^2 - 2^2) = 15 m."
+  },
+  {
+   "number": 5,
+   "answer": "C",
+   "explanation": "Range is proportional to sin(2 theta); 150 and 30 degrees give the same value, so Q and R have equal ranges."
+  },
+  {
+   "number": 6,
+   "answer": "C",
+   "explanation": "Power = work/time = 800 x 15/12.5 = 960 W."
+  },
+  {
+   "number": 7,
+   "answer": "D",
+   "explanation": "Taking moments about the pivot, anticlockwise moments equal clockwise moments: F1a + F2b = F3c + F4d."
+  },
+  {
+   "number": 8,
+   "answer": "C",
+   "explanation": "At the point of sliding, friction mu x m1 x g equals the tension m2 x g, so mu = m2/m1."
+  },
+  {
+   "number": 9,
+   "answer": "B",
+   "explanation": "Useful work = 500 x 1.5 = 750 J. Efficiency = 750/1000 = 75 percent."
+  },
+  {
+   "number": 10,
+   "answer": "B",
+   "explanation": "Tensile stress = load/area, and the area depends on the radius of the wire."
+  },
+  {
+   "number": 11,
+   "answer": "C",
+   "explanation": "Pressure balance gives density x height equal for both liquids: X/Y = 22.5/7.5 = 3."
+  },
+  {
+   "number": 12,
+   "answer": "C",
+   "explanation": "Density of sphere = 0.5 x 1000 = 500. For oil, 0.4 x d = 500, so d = 1250 kg/m^3."
+  },
+  {
+   "number": 13,
+   "answer": "C",
+   "explanation": "Resistance rises 0.5 ohm over 100 C, so 0.2 ohm rise corresponds to 0.2/0.5 x 100 = 40 C."
+  },
+  {
+   "number": 14,
+   "answer": "C",
+   "explanation": "Change in length = 600 x 0.000012 x 25 = 0.18 m = 18 cm."
+  },
+  {
+   "number": 15,
+   "answer": "A",
+   "explanation": "A bimetallic strip is the control element of a thermostat."
+  },
+  {
+   "number": 16,
+   "answer": "C",
+   "explanation": "At constant pressure volume is proportional to T, so density is inversely proportional to temperature."
+  },
+  {
+   "number": 17,
+   "answer": "B",
+   "explanation": "Q = mc(change in T) = 0.05 x 390 x 50 = 975 J = 9.75 x 10^2 J."
+  },
+  {
+   "number": 18,
+   "answer": "B",
+   "explanation": "Ice displaces its own weight of water, so the melted ice exactly fills the displaced volume and the level stays the same."
+  },
+  {
+   "number": 19,
+   "answer": "C",
+   "explanation": "With the vacuum and silvered walls, the remaining heat loss is conduction through the stopper and the glass."
+  },
+  {
+   "number": 20,
+   "answer": "B",
+   "explanation": "Comparing with y = A sin[k(x - vt)], 0.5x - 200t gives v = 200/0.5 = 400 m/s."
+  },
+  {
+   "number": 21,
+   "answer": "D",
+   "explanation": "Depth is found from the time for a sound pulse to reflect from the sea bed."
+  },
+  {
+   "number": 22,
+   "answer": "A",
+   "explanation": "An octave has twice the frequency of the first note."
+  },
+  {
+   "number": 23,
+   "answer": "C",
+   "explanation": "Frequency = number of holes x revolutions per second = 32 x 25 = 800 Hz."
+  },
+  {
+   "number": 24,
+   "answer": "C",
+   "explanation": "A convex mirror gives an erect image and a wide field of view, which suits a driving mirror."
+  },
+  {
+   "number": 25,
+   "answer": "D",
+   "explanation": "A concave mirror with the object inside the focal length gives an enlarged, upright, virtual image."
+  },
+  {
+   "number": 26,
+   "answer": "B",
+   "explanation": "f = 18 cm and real image with m = 3 gives v = 3u. 1/u + 1/(3u) = 1/18, so u = 24 cm."
+  },
+  {
+   "number": 27,
+   "answer": "D",
+   "explanation": "In long sight, parallel rays are focused behind the retina."
+  },
+  {
+   "number": 28,
+   "answer": "C",
+   "explanation": "Speed in glass = 3 x 10^8/1.5 = 2.0 x 10^8 m/s."
+  },
+  {
+   "number": 29,
+   "answer": "A",
+   "explanation": "sin C = 1/n = 1/2.0 = 0.5, so C = 30 degrees."
+  },
+  {
+   "number": 30,
+   "answer": "B",
+   "explanation": "Wavelength increases from gamma rays to x-rays to ultraviolet to infra-red."
+  },
+  {
+   "number": 31,
+   "answer": "B",
+   "explanation": "Field lines enter both magnet ends from the sides and meet a neutral point, the pattern of two like poles; lines going in means S - S."
+  },
+  {
+   "number": 32,
+   "answer": "D",
+   "explanation": "The angle between the earth's magnetic field and the horizontal is the angle of dip."
+  },
+  {
+   "number": 33,
+   "answer": "A",
+   "explanation": "F = qE = 1.6 x 10^-19 x 10^8 = 1.6 x 10^-11 N."
+  },
+  {
+   "number": 34,
+   "answer": "B",
+   "explanation": "Ebonite rubbed with fur gains electrons and becomes negatively charged."
+  },
+  {
+   "number": 35,
+   "answer": "B",
+   "explanation": "The e.m.f. of a primary cell does not depend on the size of the cell."
+  },
+  {
+   "number": 36,
+   "answer": "B",
+   "explanation": "Area = resistivity x length/resistance = 1.8 x 10^-6 x 15/0.27 = 1.0 x 10^-4 m^2."
+  },
+  {
+   "number": 37,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 38,
+   "answer": "C",
+   "explanation": "W, Z and Y are in series with the source so carry the same current, while X is in one branch of a parallel pair and carries less."
+  },
+  {
+   "number": 39,
+   "answer": "B",
+   "explanation": "Q = CV = 2.0 x 10^-6 x 5 = 10 x 10^-6 C = 10 uC."
+  },
+  {
+   "number": 40,
+   "answer": "A",
+   "explanation": "Fuse current I = P/V; 60/240 = 0.25 A is the smallest."
+  },
+  {
+   "number": 41,
+   "answer": "A",
+   "explanation": "Energy = 1/2 C V^2 = 0.5 x 10 x 10^-6 x 144 = 7.2 x 10^-4 J."
+  },
+  {
+   "number": 42,
+   "answer": "D",
+   "explanation": "Heat H = I^2 R t, directly proportional to the square of current, the resistance and the time."
+  },
+  {
+   "number": 43,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 44,
+   "answer": "C",
+   "explanation": "Total resistance = 100/0.05 = 2000 ohms, so series R = 2000 - 10 = 1990 ohms."
+  },
+  {
+   "number": 45,
+   "answer": "B",
+   "explanation": "Impedance is in ohms, r.m.s. voltage in volts and resonance frequency in hertz."
+  },
+  {
+   "number": 46,
+   "answer": "B",
+   "explanation": "The r.m.s. current is the peak current divided by the square root of 2."
+  },
+  {
+   "number": 47,
+   "answer": "B",
+   "explanation": "The number of remaining atoms falls exponentially from the initial number N0 at t = 0."
+  },
+  {
+   "number": 48,
+   "answer": "C",
+   "explanation": "Threshold frequency is a property of the photocathode material (its work function)."
+  },
+  {
+   "number": 49,
+   "answer": "D",
+   "explanation": "After 3 half-lives, 1/8 remains, so 7/8 has decayed."
+  },
+  {
+   "number": 50,
+   "answer": "D",
+   "explanation": "Mass number 27 + 1 - 24 = 4 and atomic number 13 + 0 - 11 = 2, so X is an alpha particle."
+  }
+ ]
+}

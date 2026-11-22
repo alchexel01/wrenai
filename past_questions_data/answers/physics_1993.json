@@ -1,0 +1,250 @@
+{
+ "year": 1993,
+ "answers": [
+  {
+   "number": 1,
+   "answer": "D",
+   "explanation": "Power in watts equals force x velocity."
+  },
+  {
+   "number": 2,
+   "answer": "A",
+   "explanation": "Thickness = (32 - 21)/2 = 5.5 mm with error (2 + 1)/2 = 1.5 mm, so percentage error = 1.5/5.5 x 100 = 27 percent."
+  },
+  {
+   "number": 3,
+   "answer": "D",
+   "explanation": "Distance is the area of the trapezium on the graph, ending at t = 45 s: 1/2 x (45 + 30) x 10 = 375 m."
+  },
+  {
+   "number": 4,
+   "answer": "C",
+   "explanation": "The angle between the resultant and the 7 N force has opposite side 3 and adjacent side 7, so tan = 3/7."
+  },
+  {
+   "number": 5,
+   "answer": "C",
+   "explanation": "180 km/h = 50 m/s. Distance = average speed x time = 25 x 30 = 750 m."
+  },
+  {
+   "number": 6,
+   "answer": "B",
+   "explanation": "Thrust = rate of fuel ejection x exhaust velocity = 10 x 5 x 10^3 = 5.0 x 10^4 N."
+  },
+  {
+   "number": 7,
+   "answer": "B",
+   "explanation": "Field intensity = force/mass; 100.2/60 = 1.67 N/kg (the printed force looks like a typo for 1.002 x 10^2 N, the moon's g)."
+  },
+  {
+   "number": 8,
+   "answer": "B",
+   "explanation": "Water's potential energy becomes mechanical energy in the turbine, then electrical energy, then light."
+  },
+  {
+   "number": 9,
+   "answer": "D",
+   "explanation": "Velocity ratio of an inclined plane = 1/sin(theta) = 10, so sin(theta) = 1/10."
+  },
+  {
+   "number": 10,
+   "answer": "B",
+   "explanation": "Mass = 24 x 1000 = 24,000 kg and weight = 240,000 N. Maximum pressure is on the smallest face: 240,000/(3 x 2) = 4 x 10^4 N/m^2."
+  },
+  {
+   "number": 11,
+   "answer": "B",
+   "explanation": "The three forces at L (weight down, pull to the right, tension up-left) are in equilibrium, so they form a closed triangle head to tail, as in B."
+  },
+  {
+   "number": 12,
+   "answer": "D",
+   "explanation": "Taking the load arm as 20 m and the effort arm as 180 m: F x 180 = 1800 x 20, so F = 200 N."
+  },
+  {
+   "number": 13,
+   "answer": "A",
+   "explanation": "Weight = 4 N. Volume = 0.4/600; half immersed gives upthrust = 900 x 10 x 0.4/1200 = 3 N. Tension = 4 - 3 = 1.0 N."
+  },
+  {
+   "number": 14,
+   "answer": "A",
+   "explanation": "A thermocouple's thermometric property is the e.m.f. that changes with temperature."
+  },
+  {
+   "number": 15,
+   "answer": "D",
+   "explanation": "Expansion is probably 1.36 mm (printed .36mm). Expansivity = 1.36/(800 x 85) = 2.0 x 10^-5 per K."
+  },
+  {
+   "number": 16,
+   "answer": "B",
+   "explanation": "P2 = P1 x (V1/V2) x (T2/T1) = 2 x 2 = 4 times the original."
+  },
+  {
+   "number": 17,
+   "answer": "C",
+   "explanation": "Heat lost = heat gained: 200(90 - T) = 100(T - 30), so T = 70 C."
+  },
+  {
+   "number": 18,
+   "answer": "D",
+   "explanation": "Ice at 0 C stays at 0 C while melting, then warms to the boiling point and stays constant while boiling."
+  },
+  {
+   "number": 19,
+   "answer": "C",
+   "explanation": "Specific latent heat = 10^5 J / 0.010 kg = 1.0 x 10^7 J/kg."
+  },
+  {
+   "number": 20,
+   "answer": "D",
+   "explanation": "From the open end the tube holds a quarter wavelength plus one half wavelength, so L = 3 lambda/4 and 4L = 3 lambda."
+  },
+  {
+   "number": 21,
+   "answer": "B",
+   "explanation": "Consecutive antinodes are lambda/2 apart = 33 cm; 30 cm is the nearest option."
+  },
+  {
+   "number": 22,
+   "answer": "D",
+   "explanation": "Infra-red waves are electromagnetic and can travel through a vacuum."
+  },
+  {
+   "number": 23,
+   "answer": "A",
+   "explanation": "Taking the time as 4 x 10^-3 s, distance = ct/2 = 3 x 10^8 x 4 x 10^-3/2 = 6 x 10^5 m = 6.0 x 10^2 km."
+  },
+  {
+   "number": 24,
+   "answer": "C",
+   "explanation": "f is proportional to the square root of T, so f^2 against T is a straight line through the origin."
+  },
+  {
+   "number": 25,
+   "answer": "C",
+   "explanation": "The ray reflects at M1 at 30 degrees, then meets M2 at 30 degrees to the surface, so the angle of reflection from the normal is 60 degrees."
+  },
+  {
+   "number": 26,
+   "answer": "B",
+   "explanation": "Magnification m = v/u = v/f - 1 = 2v/r - 1 for a concave mirror."
+  },
+  {
+   "number": 27,
+   "answer": "C",
+   "explanation": "1/v = 1/f - 1/u = 1/20 - 1/100 = 4/100, so v = 25 cm."
+  },
+  {
+   "number": 28,
+   "answer": "C",
+   "explanation": "A mirage is due to air layers of varying refractive index near the hot road, with sky light bent or totally reflected upwards."
+  },
+  {
+   "number": 29,
+   "answer": "C",
+   "explanation": "sin r = sin30/(4/3) = 0.375, so r = 22 degrees."
+  },
+  {
+   "number": 30,
+   "answer": "D",
+   "explanation": "The ciliary muscles change the lens shape to control accommodation."
+  },
+  {
+   "number": 31,
+   "answer": "D",
+   "explanation": "A green leaf absorbs all colours except green and reflects the green component."
+  },
+  {
+   "number": 32,
+   "answer": "D",
+   "explanation": "Charge given to the inner wall of a hollow conductor moves to its outer surface, so the field exists only outside the sphere."
+  },
+  {
+   "number": 33,
+   "answer": "A",
+   "explanation": "The wire's circular field adds to the uniform horizontal field, giving circular lines near the wire, a neutral point and nearly straight lines far away."
+  },
+  {
+   "number": 34,
+   "answer": "C",
+   "explanation": "Soft iron is easily magnetized and easily demagnetized, which suits an electromagnet."
+  },
+  {
+   "number": 35,
+   "answer": "B",
+   "explanation": "The force arises from interaction between the current's magnetic field and the external magnetic field."
+  },
+  {
+   "number": 36,
+   "answer": "A",
+   "explanation": "Amalgamating zinc with mercury prevents local action caused by impurities."
+  },
+  {
+   "number": 37,
+   "answer": "C",
+   "explanation": "E = V + Ir gives 4 + 2r = 2 + 3r, so r = 2.0 ohms."
+  },
+  {
+   "number": 38,
+   "answer": "A",
+   "explanation": "Two parallel paths of 2 + 2 = 4 ohms give 2 ohms; plus the 1 ohm resistor gives 3 ohms. I = 12/3 = 4.00 A."
+  },
+  {
+   "number": 39,
+   "answer": "C",
+   "explanation": "Q = It = 0.1 x 120 = 12 C."
+  },
+  {
+   "number": 40,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 41,
+   "answer": "D",
+   "explanation": "5 and 15 uF in series give 3.75 uF, charge = 3.75 x 24 = 90 uC. Voltage across 5 uF = 90/5 = 18 V."
+  },
+  {
+   "number": 42,
+   "answer": "A",
+   "explanation": "P = V^2/R gives V = sqrt(40 x 90) = 60 V."
+  },
+  {
+   "number": 43,
+   "answer": "D",
+   "explanation": "An induction coil steps up a d.c. voltage; a transformer needs a.c."
+  },
+  {
+   "number": 44,
+   "answer": "A",
+   "explanation": "High-tension transmission uses low current, which minimizes I^2 R heat loss."
+  },
+  {
+   "number": 45,
+   "answer": "C",
+   "explanation": "Reactance = 2 pi f L = 2 x 3.142 x 1300 x 0.030 = 245 ohms."
+  },
+  {
+   "number": 46,
+   "answer": "A",
+   "explanation": "Cathode rays are streams of negatively charged electrons, deflected by both electric and magnetic fields."
+  },
+  {
+   "number": 48,
+   "answer": "B",
+   "explanation": "Fusion produces a heavier nucleus and releases energy."
+  },
+  {
+   "number": 49,
+   "answer": "B",
+   "explanation": "Two beta decays raise Z to 90, then alpha decay gives Z = 88 and mass number 222."
+  },
+  {
+   "number": 50,
+   "answer": "D",
+   "explanation": "Photoelectron kinetic energy depends on the frequency of the incident radiation (hf - work function)."
+  }
+ ]
+}

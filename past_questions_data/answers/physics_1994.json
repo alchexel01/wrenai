@@ -1,0 +1,255 @@
+{
+ "year": 1994,
+ "answers": [
+  {
+   "number": 1,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 2,
+   "answer": "D",
+   "explanation": "Mass = 0.54 kg over 5.0 x 3600 s = 3.0 x 10^-5 kg/s, which is 30.0 in units of 10^-6 kg/s (printed density 100 is a typo for 1000)."
+  },
+  {
+   "number": 3,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 4,
+   "answer": "B",
+   "explanation": "Maximum height = u^2 sin^2(theta)/(2g) = 6400 x 0.25/20 = 80 m."
+  },
+  {
+   "number": 5,
+   "answer": "A",
+   "explanation": "Retardation = 15/20 = 0.75 m/s^2."
+  },
+  {
+   "number": 6,
+   "answer": "A",
+   "explanation": "With constant angular velocity the speed and kinetic energy are constant, but the velocity direction changes, so linear momentum varies."
+  },
+  {
+   "number": 7,
+   "answer": "D",
+   "explanation": "Velocity starts positive, falls uniformly through zero at the top and becomes negative on the way down: one straight sloping line."
+  },
+  {
+   "number": 8,
+   "answer": "D",
+   "explanation": "Moments about the pivot: T sin30 x L = 200 x L/2, so T = 200 N."
+  },
+  {
+   "number": 9,
+   "answer": "B",
+   "explanation": "Kinetic energy = mgh = 50 x 10 x 2 = 1000 J."
+  },
+  {
+   "number": 10,
+   "answer": "A",
+   "explanation": "In unstable equilibrium any displacement lowers the centre of gravity, so potential energy decreases."
+  },
+  {
+   "number": 11,
+   "answer": "B",
+   "explanation": "F = mu x m x g = 0.2 x 20 x 10 = 40 N."
+  },
+  {
+   "number": 12,
+   "answer": "D",
+   "explanation": "Velocity ratio = 2 pi x bar length/pitch = 2 pi x 21/0.3 = 140 pi."
+  },
+  {
+   "number": 13,
+   "answer": "B",
+   "explanation": "Velocity ratio is a constant fixed by the machine's geometry and does not change with load."
+  },
+  {
+   "number": 14,
+   "answer": "C",
+   "explanation": "Energy = 1/2 x F x e = 0.5 x 150 x 0.05 = 3.75 J."
+  },
+  {
+   "number": 15,
+   "answer": "C",
+   "explanation": "The mercury level on the open side is 7 cm (10 - 3) above that on the gas side, so pressure in G = 760 + 70 = 830 mm."
+  },
+  {
+   "number": 16,
+   "answer": "B",
+   "explanation": "15 N and a further 10 N give 5 cm, so k = 2 N/cm. Extension at 15 N = 7.5 cm, so natural length = 30 - 7.5 = 22.5 cm."
+  },
+  {
+   "number": 17,
+   "answer": "A",
+   "explanation": "Pressure in a liquid acts equally in all directions and is the same at the same level."
+  },
+  {
+   "number": 18,
+   "answer": "D",
+   "explanation": "Kerosene mass = 24.8 - 15.2 = 9.6 g and water mass = 12.0 g, so relative density = 0.80."
+  },
+  {
+   "number": 19,
+   "answer": "D",
+   "explanation": "The floating solid displaces equal weights in both liquids, so the denser liquid P displaces the smaller volume."
+  },
+  {
+   "number": 20,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 21,
+   "answer": "B",
+   "explanation": "Constant volume: P2 = 2.0 x 10^5 x 360/300 = 2.4 x 10^5 N/m^2."
+  },
+  {
+   "number": 22,
+   "answer": "C",
+   "explanation": "100 x c x 12 = X x (c/2) x 16, so X = 150 g."
+  },
+  {
+   "number": 23,
+   "answer": "C",
+   "explanation": "Water contracts from 0 C to 4 C, where its volume is a minimum, then expands."
+  },
+  {
+   "number": 24,
+   "answer": "C",
+   "explanation": "Power = mL/t = 100 x 336/60 = 560 W."
+  },
+  {
+   "number": 25,
+   "answer": "D",
+   "explanation": "Air saturated with vapour is at or below its dew point."
+  },
+  {
+   "number": 26,
+   "answer": "B",
+   "explanation": "At constant temperature P is inversely proportional to V, giving a hyperbola."
+  },
+  {
+   "number": 27,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 28,
+   "answer": "D",
+   "explanation": "The amplitude of y = 0.3 sin(0.5x - 50t) is 0.3 cm."
+  },
+  {
+   "number": 29,
+   "answer": "B",
+   "explanation": "Depth = speed x time/2 = 1500 x 4/2 = 3000 m."
+  },
+  {
+   "number": 30,
+   "answer": "A",
+   "explanation": "Fundamental frequency is inversely proportional to length, so doubling the length halves it."
+  },
+  {
+   "number": 31,
+   "answer": "C",
+   "explanation": "For a closed pipe f = v/4L = 360/(4 x 0.45) = 200 Hz."
+  },
+  {
+   "number": 32,
+   "answer": "B",
+   "explanation": "f is proportional to sqrt(T)/L, so sqrt(4)/2 = 1 and the frequency stays 400 Hz."
+  },
+  {
+   "number": 33,
+   "answer": "A",
+   "explanation": "A lamp at the focus of a concave mirror gives a parallel beam."
+  },
+  {
+   "number": 34,
+   "answer": "B",
+   "explanation": "Frequency does not change when light enters another medium, so it stays 6.0 x 10^14 Hz."
+  },
+  {
+   "number": 35,
+   "answer": "B",
+   "explanation": "Taking f as 20 cm (printed 200 gives 100 cm, not an option): virtual image with m = 2 gives u = f/2 = 10 cm."
+  },
+  {
+   "number": 36,
+   "answer": "A",
+   "explanation": "Displacement of the object's image = t(1 - 1/n) = 3 x (1 - 1/1.5) = 1.0 cm."
+  },
+  {
+   "number": 37,
+   "answer": "D",
+   "explanation": "A projection lantern forms a magnified real image with the object between f and 2f."
+  },
+  {
+   "number": 38,
+   "answer": "C",
+   "explanation": "Green and white surfaces: green absorbs yellow light and appears black while white reflects yellow, giving black, yellow, black."
+  },
+  {
+   "number": 39,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 40,
+   "answer": "C",
+   "explanation": "An accumulator has a very low internal resistance when new."
+  },
+  {
+   "number": 41,
+   "answer": "D",
+   "explanation": "Rubbing charges both the pen and the cloth with opposite charges, and the charged pen attracts the paper."
+  },
+  {
+   "number": 42,
+   "answer": "D",
+   "explanation": "Balance condition R/20 = 60/40, so R = 30 ohms."
+  },
+  {
+   "number": 43,
+   "answer": "D",
+   "explanation": "Energy = 1/2 C V^2 = 0.5 x 8 x 10^-6 x 10^4 = 4.0 x 10^-2 J."
+  },
+  {
+   "number": 44,
+   "answer": "B",
+   "explanation": "In parallel P = V^2/R, so P1:P2 = R2:R1 = 5:4."
+  },
+  {
+   "number": 45,
+   "answer": "A",
+   "explanation": "Parallel resistance = 4 ohms, total = 5 ohms, I = 2.4 A. Terminal voltage = 12 - 2.4 = 9.6 V, so current in 12 ohm = 0.8 A."
+  },
+  {
+   "number": 46,
+   "answer": "C",
+   "explanation": "The receiver has soft iron pole pieces and a permanent magnet; the microphone has carbon granules instead."
+  },
+  {
+   "number": 47,
+   "answer": "A",
+   "explanation": "Parallel conductors carrying currents in the same direction attract each other."
+  },
+  {
+   "number": 48,
+   "answer": "A",
+   "explanation": "Mass number = 235 - 4 x 4 = 219. Atomic number = 92 - 8 + 3 = 87."
+  },
+  {
+   "number": 49,
+   "answer": "C",
+   "explanation": "Period = 1/50 s, and P to R is half a cycle, so 1/100 s."
+  },
+  {
+   "number": 50,
+   "answer": "A",
+   "explanation": "Photon energy 2 eV is less than the 3 eV work function, so no electron is emitted."
+  }
+ ]
+}

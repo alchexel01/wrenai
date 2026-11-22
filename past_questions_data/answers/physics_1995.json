@@ -1,0 +1,255 @@
+{
+ "year": 1995,
+ "answers": [
+  {
+   "number": 1,
+   "answer": "A",
+   "explanation": "Pressure = force/area = (M L T^-2)/L^2 = M L^-1 T^-2."
+  },
+  {
+   "number": 2,
+   "answer": "A",
+   "explanation": "Passing the lowest point twice per second means the period is 1 s. L = g T^2/(4 pi^2) = 10/39.5 = 0.25 m."
+  },
+  {
+   "number": 3,
+   "answer": "A",
+   "explanation": "Q followed by R takes you from the start of P to its end, so P = Q + R."
+  },
+  {
+   "number": 4,
+   "answer": "C",
+   "explanation": "Vertical balance: 2 T sin30 = 20, so T = 20 N."
+  },
+  {
+   "number": 5,
+   "answer": "A",
+   "explanation": "The centre of a ball rolling on level ground moves in a straight line, which is translational motion."
+  },
+  {
+   "number": 6,
+   "answer": "C",
+   "explanation": "Uniform deceleration to rest is a straight line sloping down to zero velocity."
+  },
+  {
+   "number": 7,
+   "answer": "B",
+   "explanation": "a = (30 x 10 - 20 x 10 x sin30)/(20 + 30) = (300 - 100)/50 = 4 m/s^2."
+  },
+  {
+   "number": 8,
+   "answer": "C",
+   "explanation": "The moon's gravity is about one sixth of the earth's: 10/6 = 1.67 m/s^2."
+  },
+  {
+   "number": 9,
+   "answer": "D",
+   "explanation": "The escape velocity from the earth is about 11 km/s."
+  },
+  {
+   "number": 10,
+   "answer": "C",
+   "explanation": "Total downward force at the centre = 20 + 14 = 34 N. Moments about P give F x 1 = 34 x 0.5, so F = 17 N."
+  },
+  {
+   "number": 11,
+   "answer": "B",
+   "explanation": "Work done P x t = kinetic energy 1/2 m v^2, so t = m v^2/(2P)."
+  },
+  {
+   "number": 12,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 13,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 14,
+   "answer": "A",
+   "explanation": "Energy = 1/2 x F x e = 0.5 x 500 x 0.02 = 5 J."
+  },
+  {
+   "number": 15,
+   "answer": "C",
+   "explanation": "Mechanical advantage = effort arm/load arm; the third lever has the load 1 cm and the effort 3 cm from the pivot, giving 3."
+  },
+  {
+   "number": 16,
+   "answer": "A",
+   "explanation": "Force ratio = area ratio = (0.8/0.2)^2 = 16, so force = 16 x 500 = 8000 N."
+  },
+  {
+   "number": 17,
+   "answer": "B",
+   "explanation": "Pressure increases with depth, so the bubble expands as the pressure falls while it rises."
+  },
+  {
+   "number": 18,
+   "answer": "B",
+   "explanation": "Temperature measures the mean kinetic energy of the molecules of a body."
+  },
+  {
+   "number": 19,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 20,
+   "answer": "A",
+   "explanation": "Water density falls as it warms, so the wood sinks deeper and the part above the surface decreases."
+  },
+  {
+   "number": 21,
+   "answer": "B",
+   "explanation": "Charles' law is V/T = constant, so P^0 V^1 T^-1: x = 0, y = 1, z = -1."
+  },
+  {
+   "number": 22,
+   "answer": "B",
+   "explanation": "Time = m c (change in T)/P = 2 x 4200 x 80/2000 = 336 s."
+  },
+  {
+   "number": 23,
+   "answer": "D",
+   "explanation": "Reading = 40 + (60/100) x (200 - 40) = 136 mm."
+  },
+  {
+   "number": 24,
+   "answer": "D",
+   "explanation": "The vessel only reaches 90 C, so water does not vaporize and the latent heat of vaporization is not needed."
+  },
+  {
+   "number": 25,
+   "answer": "D",
+   "explanation": "All three statements correctly distinguish evaporation from boiling."
+  },
+  {
+   "number": 26,
+   "answer": "C",
+   "explanation": "Temperature falls 60/100 x 60 = 36 C from the hot end, so 100 - 36 = 64 C."
+  },
+  {
+   "number": 27,
+   "answer": "D",
+   "explanation": "Polarization occurs only for transverse waves."
+  },
+  {
+   "number": 28,
+   "answer": "B",
+   "explanation": "Velocity = 1500 x 200 kHz; at 1000 kHz wavelength = 1500 x 200/1000 = 300 m."
+  },
+  {
+   "number": 29,
+   "answer": "B",
+   "explanation": "Sound requires a material medium to travel; light does not."
+  },
+  {
+   "number": 30,
+   "answer": "C",
+   "explanation": "The second overtone is the third harmonic, which has three loops."
+  },
+  {
+   "number": 31,
+   "answer": "A",
+   "explanation": "Pitch increases when the frequency increases."
+  },
+  {
+   "number": 32,
+   "answer": "C",
+   "explanation": "A total solar eclipse occurs when the moon lies between the sun and the earth."
+  },
+  {
+   "number": 33,
+   "answer": "D",
+   "explanation": "sin C = 1/2.42 = 0.413, so C = 24 degrees."
+  },
+  {
+   "number": 34,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 35,
+   "answer": "D",
+   "explanation": "A concave mirror gives an upright, magnified image only when the object is within the focal length, so u = f/2."
+  },
+  {
+   "number": 36,
+   "answer": "A",
+   "explanation": "Red and violet are at opposite ends of the spectrum."
+  },
+  {
+   "number": 37,
+   "answer": "D",
+   "explanation": "E = V/d = 600/(8.0 x 10^-3) = 75,000 V/m (the option is printed with a stray comma)."
+  },
+  {
+   "number": 38,
+   "answer": "C",
+   "explanation": "The earth's field differs in both magnitude and direction from place to place."
+  },
+  {
+   "number": 39,
+   "answer": "D",
+   "explanation": "New current = 3V/(R/2) = 6 V/R, so the ratio new to old is 6:1."
+  },
+  {
+   "number": 40,
+   "answer": "B",
+   "explanation": "Current = e.m.f./(R + r) = 12/(1.0 + 0.5) = 8.0 A."
+  },
+  {
+   "number": 41,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 42,
+   "answer": "A",
+   "explanation": "A dielectric between the plates increases the capacitance."
+  },
+  {
+   "number": 43,
+   "answer": "D",
+   "explanation": "Parallel 2 + 4 = 6 uF in series with 2, 3 and 4 uF: 1/C = 1/2 + 1/3 + 1/6 + 1/4 = 15/12, so C = 0.8 uF."
+  },
+  {
+   "number": 44,
+   "answer": "D",
+   "explanation": "Heat = I^2 R t = 4 x 50 x 200 = 40,000 J = 40 kJ."
+  },
+  {
+   "number": 45,
+   "answer": "B",
+   "explanation": "Maximum power = V^2/R = 400/100 = 4.00 W."
+  },
+  {
+   "number": 46,
+   "answer": "C",
+   "explanation": "A low resistance (shunt) in parallel converts a milliammeter into an ammeter."
+  },
+  {
+   "number": 47,
+   "answer": "A",
+   "explanation": "Secondary e.m.f. = 12 x 100/400 = 3 V."
+  },
+  {
+   "number": 48,
+   "answer": "B",
+   "explanation": "Taking reactance 10^3 x sqrt3 and resistance 10^3: Z = sqrt(R^2 + X^2) = 2 x 10^3 = 2000 ohms."
+  },
+  {
+   "number": 49,
+   "answer": "D",
+   "explanation": "36 days is 4 half-lives, so 1/16 remains and 15/16 has decayed."
+  },
+  {
+   "number": 50,
+   "answer": "C",
+   "explanation": "Work function = photon energy - maximum kinetic energy = 5 - 2 = 3 eV."
+  }
+ ]
+}
