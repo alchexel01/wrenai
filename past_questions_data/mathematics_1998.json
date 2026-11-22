@@ -1,0 +1,921 @@
+[
+ {
+  "id": "mathematics-1998-1",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 1,
+  "question": "If 1011₂ + X₇, = 25₁₀, solve for X",
+  "options": {
+   "A": "14",
+   "B": "20",
+   "C": "24",
+   "D": "25"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-2",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 2,
+  "question": "Evaluate [1/0.03  1/0.024] ⁻¹, correct to 2 decimal places",
+  "options": {
+   "A": "3.76",
+   "B": "1.25",
+   "C": "0.94",
+   "D": "0.75"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-3",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 3,
+  "question": "If b³ = a⁻³ and c ¹/³ = a¹/²b, express in terms of a A. a⁻¹/² B. a¹/²",
+  "options": {
+   "C": "a³/²",
+   "D": "a-²/³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-4",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 4,
+  "question": "Given that Log ₄( y - 1) + Log ₄( ¹/2x) = 1 and Log ₂ (y + 1) + log₂x = 2, solve for x and y respectively",
+  "options": {
+   "A": "2, 3",
+   "B": "3, 2",
+   "C": "-2, -3",
+   "D": "-3, -2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-5",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 5,
+  "question": "Find the value of K if K/”3 + “2 = “3 - 2",
+  "options": {
+   "A": "3",
+   "B": "2",
+   "C": "“3",
+   "D": "“2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-6",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 6,
+  "question": "A market woman sells oils in cylindrical tins 10cm deep and 6cm diameter at #15.00 each. If she bought a full cylindrical jug 18cm deep and 10cm in diameter for #50.00, how much did she make by selling all the oil?",
+  "options": {
+   "A": "#62.50",
+   "B": "#35.00",
+   "C": "#31.00",
+   "D": "#25.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-7",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 7,
+  "question": "A man is paid r naira per hour for normal work and double rate for overtime. If he does a 35-hour week which includes q hours of overtime, what is his weekly earning in naira?",
+  "options": {
+   "A": "r(35 + q)",
+   "B": "q(35r - q)",
+   "C": "q(35r + r)",
+   "D": "r(35r - q)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-8",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 8,
+  "question": "Given the universal set U = {1,2,3,4,5,6,} and the sets P = {1,2,3,4,} Q = {3,4,5} and R = {2,4,6}. Find PÈ(QÈR).",
+  "options": {
+   "A": "{4}",
+   "B": "{1,2,3,4}",
+   "C": "{1,2,3,5,6}",
+   "D": "{1,2,3,4,5,6}"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1998_p46_1.png",
+  "images": [
+   "mathematics/1998_p46_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1998-9",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 9,
+  "question": "P In the venn diagram above, the shaded region is",
+  "options": {
+   "A": "(PÇQ)ÈR",
+   "B": "(PÇQ)ÇR",
+   "C": "(PÇQ’)ÇR",
+   "D": "(PÇQ’)ÇR"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-10",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 10,
+  "question": "When the expression pm² + qm + 1 is divided by (m - 1), it has a remainder 2 and when divided by (m + 1) the remainder is 4. find p and q respectively",
+  "options": {
+   "A": "2, -1",
+   "B": "-1, 2",
+   "C": "3, -2",
+   "D": "-2, 3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-11",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 11,
+  "question": "Factorize r² – r (2p + q) + 2pq",
+  "options": {
+   "A": "(r – 2q)(2r - p)",
+   "B": "(r - q)(r + p)",
+   "C": "(r - q)(r – 2p)",
+   "D": "(2r - q)(r + p)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-12",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 12,
+  "question": "Solve the equation x - (x - 2) – 1 = 0",
+  "options": {
+   "A": "3/2",
+   "B": "2/3",
+   "C": "4/9",
+   "D": "9/4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-13",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 13,
+  "question": "Find the range of values of m for which the roots of the equation 3x² – 3mx + (m² – m - 3) = 0",
+  "options": {
+   "A": "-1<m<7",
+   "B": "-2<m<6",
+   "C": "-3<m<9",
+   "D": "-4<m<8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-14",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 14,
+  "question": "Make a/x the subject of the formula x + a/x – a = m",
+  "options": {
+   "A": "m – 1/m + 1",
+   "B": "1 + m/1 – m",
+   "C": "1-m/1 + m",
+   "D": "m + 1/m – 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-15",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 15,
+  "question": "Divide 2x³ + 11x² + 17x + 6 by 2x + 1",
+  "options": {
+   "A": "x² + 5x + 6",
+   "B": "2x² + 5x + 6",
+   "C": "2x² ⁻ 5x + 6",
+   "D": "x² – 5x + 6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-16",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 16,
+  "question": "Express in partial fractions 11x + 2 6x² – x – 1",
+  "options": {
+   "A": "1/3x – 1 + 3/2x + 1",
+   "B": "3/3x + 1 – 1/2x – 1",
+   "C": "3/3x – 1 – 1/2x + 1",
+   "D": "1/3x + 1 + 3/2x- 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-17",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 17,
+  "question": "If x is a positive real number, find the range of values for which 1/3x + ½ > 1/4x",
+  "options": {
+   "A": "x> - 1/6",
+   "B": "x>0",
+   "C": "0<x<4",
+   "D": "0<x<1/6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-18",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 18,
+  "question": "y",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/1998_p46_2.png",
+  "images": [
+   "mathematics/1998_p46_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1998-19",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 19,
+  "question": "If p + 1, 2p – 10 ,1 – 4p² are the consecutive terms of an arithmetic progression, find the possible values of p.",
+  "options": {
+   "A": "-4, 2",
+   "B": "–2, 4/11",
+   "C": "–11/4, 2",
+   "D": "5, -3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-20",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 20,
+  "question": "The sum of the first three terms of a geometric progression is half its sum to infinity. Find the positive common ration of the progression.",
+  "options": {
+   "A": "¼",
+   "B": "½",
+   "C": "1/3\"3",
+   "D": "1/3\"2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1998_p47_1.png",
+  "images": [
+   "mathematics/1998_p47_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1998-21",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 21,
+  "question": "The identity element with respect to the multiplication shown in the table above is",
+  "options": {
+   "A": "p",
+   "B": "q",
+   "C": "r",
+   "D": "s"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-22",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 22,
+  "question": "The binary operation * is defined by x*y = xy – y – x for all real values x and y x*3 = 2 * x, find x.",
+  "options": {
+   "A": "-1",
+   "B": "0",
+   "C": "1",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-23",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 23,
+  "question": "The determinant of matrix x, 1, 0 1-x, 2, 3 1, 1⁺ x, 4 in terms of x is",
+  "options": {
+   "A": "-3x² - 17",
+   "B": "-3x² + 9x – 1",
+   "C": "3x² + 17",
+   "D": "3x² – 9x + 5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-24",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 24,
+  "question": "Let I= 1 0. P= 2 3 Q= u, 4 + u 0 1 4 5 -2v, v be 2 x 2 matrices such that PQ=1. find (u,v)",
+  "options": {
+   "A": "(-5/2, -1)",
+   "B": "(-5/2, 3/2)",
+   "C": "(–5/6,1)",
+   "D": "(5/2, 2/3)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-25",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 25,
+  "question": "T In the diagram above, PR is a diameter of the circle PQRS. PST and QRT are straight lined. Find Ð QSR.",
+  "options": {
+   "A": "20⁰",
+   "B": "25⁰",
+   "C": "30⁰",
+   "D": "35⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1998_p47_2.png",
+  "images": [
+   "mathematics/1998_p47_2.png",
+   "mathematics/1998_p47_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1998-26",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 26,
+  "question": "In the diagram above, PQ//ST and ÐPQR = 120⁰, ÐRST = 130⁰. find the angle marked x.",
+  "options": {
+   "A": "50⁰",
+   "B": "65⁰",
+   "C": "70⁰",
+   "D": "80⁰ P Q"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1998_p47_5.png",
+  "images": [
+   "mathematics/1998_p47_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1998-27",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 27,
+  "question": "T ₁₀cₘ S ₈cₘ R In the figure above, PQST is a parallelogram and TSR is a straight line. If the area of QRS is 20cm², find the area of the trapezium PQRT.",
+  "options": {
+   "A": "35cm²",
+   "B": "65cm²",
+   "C": "70cm²",
+   "D": "140cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-28",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 28,
+  "question": "TQ is tangent to circle XYTR. YXT = 32⁰, RTQ = 40⁰. find YTR.",
+  "options": {
+   "A": "108⁰",
+   "B": "121⁰",
+   "C": "140⁰",
+   "D": "148⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1998_p47_4.png",
+  "images": [
+   "mathematics/1998_p47_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1998-29",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 29,
+  "question": "A chord of a circle radius Ö3cm subtends an angle of 60⁰ on the circumference of the circle. Find the length of the chord.",
+  "options": {
+   "A": "3/2 cm",
+   "B": "3/2 cm",
+   "C": "3 cm",
+   "D": "3 cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-30",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 30,
+  "question": "A cylindrical drum of diameter 56 cm contains 123.2 litres of oil when full. Find the height of the drum in centimeters.",
+  "options": {
+   "A": "12.5",
+   "B": "25.0",
+   "C": "45.0",
+   "D": "50.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-31",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 31,
+  "question": "The locus of all points at a distance 8 cm from a point N passes through point T and S. if S is equidistant from T and N , find the area of triangle STN.",
+  "options": {
+   "A": "43 cm²",
+   "B": "163 cm²",
+   "C": "32cm²",
+   "D": "64 cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-32",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 32,
+  "question": "If the distance between the points (x, 3) and (-x, 2) is 5. find x",
+  "options": {
+   "A": "6.0",
+   "B": "2.5",
+   "C": "6",
+   "D": "3 33 The midpoint of the segment of the line y = 4x + 3 which lies between the x-axis and the y-axis is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-34",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 34,
+  "question": "Solve the equation cos x + sin x = 1/cos x – sinx for values of x such that 0  x < 2",
+  "options": {
+   "A": "/2, 3/2",
+   "B": "/3, 2/3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-35",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 35,
+  "question": "P In the diagram above, QTR is a straight line and PQT = 30⁰. find the sine of PTR.",
+  "options": {
+   "A": "8/15",
+   "B": "2/3",
+   "C": "¾",
+   "D": "15/16"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1998_p48_1.png",
+  "images": [
+   "mathematics/1998_p48_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1998-36",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 36,
+  "question": "For what value of x does 6 sin (2x - 25)⁰ attain its maximum value in the range 0⁰ x  180⁰? AC.. 1527¹¹//₂ BD.. 32¹/₂ ₂ 147¹/₂ 47.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-37",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 37,
+  "question": "From the top of a vertical mast 150m high, two huts on the same ground level are observed. One due east and the other due west of the mast. Their angles of depression are 60⁰ and 45⁰ respectively. Find the distance between the huts.",
+  "options": {
+   "A": "150 (1 + 3)m",
+   "B": "50 (3 + 3)m",
+   "C": "1503m",
+   "D": "50/3m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-38",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 38,
+  "question": "If y = 243 (4x + 5)⁻², find dy/dx when x = 1",
+  "options": {
+   "A": "-8/3",
+   "B": "3/8",
+   "C": "9/8",
+   "D": "–8/9"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-39",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 39,
+  "question": "Differentiate x/cos x with respect to x.",
+  "options": {
+   "A": "1 + x sec x tan x",
+   "B": "1 + sec²x",
+   "C": "cos x + x tan x",
+   "D": "sec x + x sec x tan x"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-40",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 40,
+  "question": "Evaluate ₂ ( sec²x – tan²x)dx",
+  "options": {
+   "A": "/2",
+   "B": " - 2",
+   "C": "/3",
+   "D": " + 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-41",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 41,
+  "question": "Find the equation of the curve which passes through the point (2, 5) and whose gradient at any point is given by 6x - 5",
+  "options": {
+   "A": "6x² – 5x + 5",
+   "B": "6x² + 5x + 5",
+   "C": "3x² – 5x – 5",
+   "D": "3x² – 5x + 3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-42",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 42,
+  "question": "If m and n are the mean and median respectively of the set of numbers 2,3,9,7,6,7,8,5 and m + 2n to the nearest whole number.",
+  "options": {
+   "A": "19",
+   "B": "18",
+   "C": "13",
+   "D": "12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1998_p48_2.png",
+  "images": [
+   "mathematics/1998_p48_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1998-43",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 43,
+  "question": "E stimate the mode of the above frequency distribution.",
+  "options": {
+   "A": "12.2",
+   "B": "12.7",
+   "C": "12.9",
+   "D": "13.4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-44",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 44,
+  "question": "Find the variance of the numbers K, K + 1, K + 2.",
+  "options": {
+   "A": "2/3",
+   "B": "1",
+   "C": "K + 1",
+   "D": "(K + 1)²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-45",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 45,
+  "question": "Find the positive value of x if the standard deviation of the numbers 1, x +1, 2x + 1 is 6",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-46",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 46,
+  "question": "A bag contains 16red balls and 20blue balls only. How many white balls must be added to the bag so that the probability of randomly picking a red ball is equal to 2/5?",
+  "options": {
+   "A": "4",
+   "B": "20",
+   "C": "24",
+   "D": "40 The pie chart above shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is #7.200? A #1000 B. #2000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1998_p48_3.png",
+  "images": [
+   "mathematics/1998_p48_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1998-48",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 48,
+  "question": "The bar chart above shows the distribution of marks scored by 60 pupils in a test in which the maximum score was 10. if the pass mark was 5, what percentage of the pupils failed the test?",
+  "options": {
+   "A": "59.4%",
+   "B": "50.0%",
+   "C": "41.7%",
+   "D": "25.0%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1998_p48_4.png",
+  "images": [
+   "mathematics/1998_p48_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1998-49",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 49,
+  "question": "In a recent zonal championship games involving 10teams, teams X and Y were given Probabilities 2/ 5 and 1/3 respectively of wining the gold in the football event. What is the probability that either team will win the gold?",
+  "options": {
+   "A": "2/15",
+   "B": "7/15",
+   "C": "11/15",
+   "D": "13/15"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-50",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 50,
+  "question": "If x, y can take values from the set {1,2,3,4,}, find the probability that the product of x and y is not greater than 6.",
+  "options": {
+   "A": "5/8",
+   "B": "5/16",
+   "C": "½",
+   "D": "3/8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

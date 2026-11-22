@@ -1,0 +1,914 @@
+[
+ {
+  "id": "mathematics-1993-1",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 1,
+  "question": "Change 71₁₀ to base 8",
+  "options": {
+   "A": "107₈ B. 106₈",
+   "C": "71₈",
+   "D": "17₈"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-2",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 2,
+  "question": "Evaluate 3524/0.05 correct to 3 significant figures.",
+  "options": {
+   "A": "705",
+   "B": "70000",
+   "C": "70480",
+   "D": "70500"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-3",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 3,
+  "question": "If 9⁽x⁻¹/²⁾= 3x², find the value of x.",
+  "options": {
+   "A": "½",
+   "B": "1",
+   "C": "2",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-4",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 4,
+  "question": "Solve for y in the equation 10y, X5⁽²y⁻²⁾ x 4⁽y⁻¹⁾=1",
+  "options": {
+   "A": "¾",
+   "B": "²/ ₃",
+   "C": "1",
+   "D": "⁵/ ₄"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-5",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 5,
+  "question": "Simplify 1/3-2 – 1/3+2 AC.. 40 BD.. ²/ ₃",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-6",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 6,
+  "question": "If 2 log₃ y+ log ₓ₂ = 4, then y is",
+  "options": {
+   "A": "(4-log₃ ³ x ²⁾/2",
+   "B": "4/log₃ x²",
+   "C": "²/ X",
+   "D": "± ⁹/ X"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-7",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 7,
+  "question": "Solve without using tables log₅ (62.5)-log₅ (1/2)",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-8",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 8,
+  "question": "If #225.00 yields #27.00 in x years simple interest at the rate of 4%per annum, find x",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "12",
+   "D": "27"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-9",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 9,
+  "question": "The shaded portion in the venn diagram above is",
+  "options": {
+   "A": "XÇZ",
+   "B": "XcÇYÇZ",
+   "C": "XÇYcÇ Z",
+   "D": "XÇYÇZc"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p34_1.png",
+  "images": [
+   "mathematics/1993_p34_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-10",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 10,
+  "question": "If x² + 9 = x+ 1, solve for x",
+  "options": {
+   "A": "5",
+   "B": "4",
+   "C": "3",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-11",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 11,
+  "question": "Make x the subject of the relation 1+ax/1-ax = p/q",
+  "options": {
+   "A": "p+q/a(p-q)",
+   "B": "p-q /a(p+q)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-12",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 12,
+  "question": "Which of the following is a factor of 15 + 7x – 2x²?",
+  "options": {
+   "A": "x-3",
+   "B": "x+3",
+   "C": "x-5",
+   "D": "x+5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-13",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 13,
+  "question": "Evaluate (x+1/x+1)² – (x-1/x-1) ²",
+  "options": {
+   "A": "4x²",
+   "B": "(2/x+2) ²",
+   "C": "4",
+   "D": "4(1+x)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-14",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 14,
+  "question": "Solve the following simultaneous equations for x. x² + y – 5= 0 y – 7x + 3=0",
+  "options": {
+   "A": "-2, 4",
+   "B": "2, 4",
+   "C": "-1, 8",
+   "D": "1, -8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-15",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 15,
+  "question": "Solve the following equation (₃3x-2)(5x-4)=(3x-2) ²",
+  "options": {
+   "A": "- / , 1",
+   "B": "1 ₂ ₂ ₂",
+   "C": "/ ₃ , 1",
+   "D": "/ ₃, 4/5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-16",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 16,
+  "question": "Q ₃₀O The figure above represents the graphs of y= x (2-x) and y = (x-1) (x-3). What are the x-coordinates of p, q and r respectively?",
+  "options": {
+   "A": "1,3,2",
+   "B": "0,0,0",
+   "C": "0,2,3",
+   "D": "1,2,3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p34_2.png",
+  "images": [
+   "mathematics/1993_p34_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-17",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 17,
+  "question": "If the function f is defined by f(x+2)=2x² + 7x – 5, find f(-1)",
+  "options": {
+   "A": "-10",
+   "B": "-8",
+   "C": "4",
+   "D": "10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-18",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 18,
+  "question": "Divide the expression x³ + 7x² –x –7 by -1 +x²",
+  "options": {
+   "A": "–x³+7x²-x-7",
+   "B": "–x³-7x+7",
+   "C": "X-7",
+   "D": "X+7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-19",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 19,
+  "question": "Simplify 1/p-1/q –p/q-q/p",
+  "options": {
+   "A": "1/p-q",
+   "B": "-1/p+q",
+   "C": "1/pq",
+   "D": "1/pq(p-q)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-20",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 20,
+  "question": "Solve the inequality y2-3y>18",
+  "options": {
+   "A": "-2<y<6",
+   "B": "y<-3 or y>6",
+   "C": "y>-3 or y>6",
+   "D": "y<-3 or y<6 21 If x is negative, what is the range of values of x within which 22 A man’s initial salary is #540.00 a month and increases after each period of six months by #36.00 a month. Find his salary in the eighth month of the third year."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-23",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 23,
+  "question": "If k+ 1, 2k-1,3k+1 are three co nsecutive terms of a etric progressi geom on, find the possible values of the common ratio.",
+  "options": {
+   "A": "0,8 B -1, 5/3",
+   "C": "2, 3",
+   "D": "1, -1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-24",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 24,
+  "question": "A binary operation * is defined on a set of real numbers by x*y = xy for all real values of x and y, if x*2 = x, find the possible values of x",
+  "options": {
+   "A": "0, 1",
+   "B": "1, 2",
+   "C": "2, 2",
+   "D": "0,2 P Q"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-25",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 25,
+  "question": "T R PQRST is a regular pentagon and PQVU is a rectangle with U and V lying on TS and SR respectively as shown in the diagram above. Calculate TUV",
+  "options": {
+   "A": "18⁰",
+   "B": "54⁰",
+   "C": "90⁰",
+   "D": "108⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p35_2.png",
+  "images": [
+   "mathematics/1993_p35_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-26",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 26,
+  "question": "A regular polygon has 150⁰ as the size of each interior angle. How many sides has the polygon?",
+  "options": {
+   "A": "12",
+   "B": "10",
+   "C": "9",
+   "D": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-27",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 27,
+  "question": "Calculate the length, in cm, of the arc of the circle of diameter 8cm which subtends an angle of 22¹/ ₂⁰",
+  "options": {
+   "A": "2 ",
+   "B": " ₂ ",
+   "C": "/ ₃",
+   "D": "/₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-28",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 28,
+  "question": "In the diagram above, PQRS is a circle with O as centre and PQ//RT if RTS = 32⁰ , find PSQ",
+  "options": {
+   "A": "32⁰",
+   "B": "45⁰",
+   "C": "58⁰",
+   "D": "90⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p35_1.png",
+  "images": [
+   "mathematics/1993_p35_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-29",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 29,
+  "question": "dia am In the gr above. O is the centre of the circ le OQ a d ₀ and P iameter. If POR = 96 , find the val ue of ORQ.",
+  "options": {
+   "A": "84⁰",
+   "B": "48⁰",
+   "C": "45⁰",
+   "D": "42⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p35_5.png",
+  "images": [
+   "mathematics/1993_p35_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-30",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 30,
+  "question": "Q P T ₀ In t he diagram above, QP// ST; PQR. = 34 , QRS= 73⁰ and RS = RT. Find SRT",
+  "options": {
+   "A": "68⁰",
+   "B": "102⁰",
+   "C": "107⁰",
+   "D": "141⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p35_3.png",
+  "images": [
+   "mathematics/1993_p35_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-31",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 31,
+  "question": "P U T In the figure above, PT is a tangent to the circle at u and QU//RS. If TUR=35⁰ and SRU = 50.⁰ find x.",
+  "options": {
+   "A": "95⁰",
+   "B": "85⁰",
+   "C": "50⁰",
+   "D": "35⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p35_4.png",
+  "images": [
+   "mathematics/1993_p35_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-32",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 32,
+  "question": "Q R ₃ cₘ S In the diagram above, QPS = SPR, PR= 9cm, PQ= 4cm and QS=3cm. Find SR.",
+  "options": {
+   "A": "6³/₄",
+   "B": "3³/₈",
+   "C": "4³/₈",
+   "D": "2²/₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p35_6.png",
+  "images": [
+   "mathematics/1993_p35_6.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-33",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 33,
+  "question": "The three sides of an isosceles triangle are of lengths x+3, 2x+3, 2x-3 respectively. Calculate x.",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "3",
+   "D": "6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-34",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 34,
+  "question": "In the figure above, the line segment ST is tangent to the two circles at S and T. O and Q are the centres of the circles with OS = 5cm, QT = 2cm and OQ = 14cm. Find ST.",
+  "options": {
+   "A": "7\"3",
+   "B": "12cm",
+   "C": "“87cm",
+   "D": "7cm P X Q"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p35_7.png",
+  "images": [
+   "mathematics/1993_p35_7.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-35",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 35,
+  "question": "T V S R In the figure above, the area of the square PQRS is 100cm². If the ratio of the area of the square TUYS to the area of the square XQVU is 1:16, find YR",
+  "options": {
+   "A": "6cm",
+   "B": "7cm",
+   "C": "8cm",
+   "D": "9cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p36_2.png",
+  "images": [
+   "mathematics/1993_p36_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-36",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 36,
+  "question": "Find the radius of a sphere whose surface area is 154cm² (  =22/7)",
+  "options": {
+   "A": "7.00cm",
+   "B": "3.50cm",
+   "C": "3.00cm",
+   "D": "1.75cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-37",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 37,
+  "question": "Find the area of the sector of a circle with radius 3m, if the angle of the sector is 60⁰",
+  "options": {
+   "A": "4.0m²",
+   "B": "4.1m²",
+   "C": "4.7m²",
+   "D": "5.0m²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-38",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 38,
+  "question": "The angle between latitudes 30⁰S and 13⁰N is",
+  "options": {
+   "A": "17⁰",
+   "B": "33⁰",
+   "C": "43⁰",
+   "D": "53⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-39",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 39,
+  "question": "If sin = cos 0, find 0 between 0⁰ and 360⁰.",
+  "options": {
+   "A": "45⁰ ,225⁰",
+   "B": "135⁰ ,315⁰",
+   "C": "45⁰ ,315⁰",
+   "D": "135⁰ ,225⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p36_1.png",
+  "images": [
+   "mathematics/1993_p36_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-40",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 40,
+  "question": "P H From the figure above, calculate TH in centimeters.",
+  "options": {
+   "A": "5/(3+1)",
+   "B": "5/3-1",
+   "C": "5/3",
+   "D": "3/5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-41",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 41,
+  "question": "If two angles of a triangle are 30⁰ each and the longest side is 10cm, calculate the length of each of the other sides.",
+  "options": {
+   "A": "5cm",
+   "B": "4cm 42 Quantities in the proportions 1,4,6,7 are to be represented in a pie chart. Calculate the angle of the sector with proportion 7",
+   "C": "120⁰",
+   "D": "140⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p36_5.png",
+  "images": [
+   "mathematics/1993_p36_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-43",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 43,
+  "question": "The bar chart above shows the distribution of marks in a class test. How many students took the test?",
+  "options": {
+   "A": "15",
+   "B": "20",
+   "C": "25",
+   "D": "50"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-44",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 44,
+  "question": "The following marks were obtained by twenty students in an examination 53 30 70 84 59 43 90 20 78 48 44 60 81 73 50 37 67 68 64 52 Find the number of students who scored at least 50marks",
+  "options": {
+   "A": "6",
+   "B": "10",
+   "C": "13",
+   "D": "14"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p36_4.png",
+  "images": [
+   "mathematics/1993_p36_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-45",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 45,
+  "question": "Estimate the mode of the frequency distribution above.",
+  "options": {
+   "A": "13.2g",
+   "B": "15.0g",
+   "C": "16.8g",
+   "D": "17.5g"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-46",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 46,
+  "question": "The mean of the ages of ten secondary school pupils is 16 but when the age of their teacher is added to it, the mean becomes 19. Find the age of the teacher.",
+  "options": {
+   "A": "27",
+   "B": "35",
+   "C": "38",
+   "D": "49"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-47",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 47,
+  "question": "above.",
+  "options": {
+   "A": "11.5",
+   "B": "12.5",
+   "C": "14.0",
+   "D": "14.5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1993_p36_3.png",
+  "images": [
+   "mathematics/1993_p36_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1993-48",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 48,
+  "question": "A number is selected at random between 20 and 30 both numbers inclusive. Find the probability that the number is a prime",
+  "options": {
+   "A": "²/ ₁₁",
+   "B": "⁵/ ₁₁",
+   "C": "⁶/ ₁₁",
+   "D": "⁸/ ₁₁"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-49",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 49,
+  "question": "Calculate the standard deviation of the following data. 7, 8, 9, 10, 11, 12, 13.",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "10",
+   "D": "11"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-50",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 50,
+  "question": "The chances of three independent event X, Y, Z occurring are ¹/ , ₂² / , ¼₃ respectively. What are the chances of y and z only occurring?",
+  "options": {
+   "A": "¹/₈",
+   "B": "¹/₂ ₄",
+   "C": "¹/ ₁₂",
+   "D": "¼"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

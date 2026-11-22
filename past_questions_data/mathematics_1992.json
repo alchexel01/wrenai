@@ -1,0 +1,961 @@
+[
+ {
+  "id": "mathematics-1992-1",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 1,
+  "question": "Find n if 34ₙ = 10011₂",
+  "options": {
+   "A": "5",
+   "B": "6",
+   "C": "7",
+   "D": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-2",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 2,
+  "question": "The radius of a circle is given as 5cm subject to an error of 0.1cm. what is the percentage error in the area of the circle.",
+  "options": {
+   "A": "1/25",
+   "B": "¼",
+   "C": "4",
+   "D": "25"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-3",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 3,
+  "question": "Evaluate Log ba ⁿ if b = 1/aⁿ",
+  "options": {
+   "A": "n²",
+   "B": "n",
+   "C": "1/n",
+   "D": "1/n"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-4",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 4,
+  "question": "What is the value of x satisfying the equation 4²y / 4³x =",
+  "options": {
+   "A": "-2",
+   "B": "–1/2",
+   "C": "½",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-5",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 5,
+  "question": "Simplify {(1.25 x 10⁴) x (2.0 x 10⁻ ¹) (6.25 x 10⁵",
+  "options": {
+   "A": "4.0 x 10⁻³",
+   "B": ".................. 5.0 x 10⁻²",
+   "C": "2.0 x 10⁻¹",
+   "D": "............. 5.0 x 10³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-6",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 6,
+  "question": "Simplify 518 - 372 + 450",
+  "options": {
+   "A": "174",
+   "B": "417",
+   "C": "172",
+   "D": "124"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-7",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 7,
+  "question": "If x = 3 - 3, find x² + 36 / x²",
+  "options": {
+   "A": "9",
+   "B": "18",
+   "C": "24",
+   "D": "27"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-8",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 8,
+  "question": "If x = {all prime factors of 44} and y = {all prime factors of 60}, the elements of xy and xÇy respectively are.",
+  "options": {
+   "A": "{2,4,3,5,11} and {4}",
+   "B": "{4,3,5,11} and {3,4}",
+   "C": "{2,5,11} and {2}",
+   "D": "{2,3,5,11} and {2}"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-9",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 9,
+  "question": "If U = {0,2,3,6,7,8,9,10} is the universal set, E = {0,4,6,8,} and F = {x: x² = 2⁶ ,}, x is odd}. Find (ECF)’ where means the complement of a set",
+  "options": {
+   "A": "{0}",
+   "B": "U",
+   "C": "C",
+   "D": "f"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-10",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 10,
+  "question": "Make l the subject of the formula s = ut + ½ at²",
+  "options": {
+   "A": "1/a [u (u−as)]",
+   "B": "1/a [-u (u² - 2as]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-11",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 11,
+  "question": "Factorize 9p² – q² + 6pr – 9r²",
+  "options": {
+   "A": "(3p – 3q + r)(3p – q – 9r)",
+   "B": "(6p – 3q + 3r)(3p – q – 4r)",
+   "C": "(3p – q + 3r)(3p + q – 3r)",
+   "D": "(3p – q + 3r)(3p – q – 3r)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-12",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 12,
+  "question": "Solve the equation y - 11 y + 24 = 0",
+  "options": {
+   "A": "8,3",
+   "B": "64,9",
+   "C": "6,4",
+   "D": "9,-8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-13",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 13,
+  "question": "A man invested a sum of #280.00 partly at 59% and partly at 4%. If the total interest is #12.80 per annum, find the amount invested at 5%.",
+  "options": {
+   "A": "#14.00",
+   "B": "#120.00",
+   "C": "#140.00",
+   "D": "#160.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-14",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 14,
+  "question": "If x + 1 is a factor of x³ + 3x² + kx +4, find the value of k",
+  "options": {
+   "A": "6",
+   "B": "6",
+   "C": "8",
+   "D": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-15",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 15,
+  "question": "Resolve (3/x² + x – 2) into partial fractions",
+  "options": {
+   "A": "1 - 1",
+   "B": "1 1 x-1 x+2 x + 2 x - 1",
+   "C": "1 - 1",
+   "D": "1 1 x + 1 x - 2 x - 2 + x + 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-16",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 16,
+  "question": "Find all values of x satisfying the inequality –11 43x  28",
+  "options": {
+   "A": "-5  x  18",
+   "B": "5  x  8",
+   "C": "–8  x  5",
+   "D": "–5 < x  8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1992_p31_1.png",
+  "images": [
+   "mathematics/1992_p31_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1992-17",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 17,
+  "question": "The sketch above is the curve of y = ax² + bx + c. find a, b, and c respectively",
+  "options": {
+   "A": "1,0,-4",
+   "B": "–2,2,-4",
+   "C": "0,1,-4",
+   "D": "2,-2,-4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-18",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 18,
+  "question": "Find the sum of the infinity of the following series. 3 + 2 + 4/3 + 8/9 + 16/27 + ..",
+  "options": {
+   "A": "1270",
+   "B": "190",
+   "C": "18",
+   "D": "9"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-19",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 19,
+  "question": "What is the nth term of the sequence 2,6,12,20,…?",
+  "options": {
+   "A": "4n – 2",
+   "B": "2(3n - 1)",
+   "C": "n² + n",
+   "D": "n² + 3n +2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-20",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 20,
+  "question": "For an arithmetic sequence, the first term is 2 and the",
+  "options": {
+   "A": "157",
+   "B": "187",
+   "C": "197",
+   "D": "200"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-21",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 21,
+  "question": "If the binary operation * is defined by m*n = mn + m + n for any real number m and n, find the identity element under this operation.",
+  "options": {
+   "A": "e = 1",
+   "B": "e = -1",
+   "C": "e = -2",
+   "D": "e = 0 Use the matrices below to answer questions 22 and 23."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-22",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 22,
+  "question": "When PT is the transpose of P, calculate [PT] when x = 0, y = 1 and z = 2",
+  "options": {
+   "A": "48",
+   "B": "24",
+   "C": "–24",
+   "D": "48"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-23",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 23,
+  "question": "PQ is equivalent to A PPT B. PP⁻T",
+  "options": {
+   "C": "QP",
+   "D": "PP"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-24",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 24,
+  "question": "U P Q T S R In the figure above, TSP = 105⁰ and PRQ = 20⁰, find PQR",
+  "options": {
+   "A": "130⁰",
+   "B": "120⁰",
+   "C": "75⁰",
+   "D": "30⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1992_p32_2.png",
+  "images": [
+   "mathematics/1992_p32_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1992-25",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 25,
+  "question": "If the angles of a quadrilateral are ₀ ₀ ₀ (p + 10) , (p + 20) and 4p , find p",
+  "options": {
+   "A": "63",
+   "B": "40",
+   "C": "36",
+   "D": "28"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1992_p32_1.png",
+  "images": [
+   "mathematics/1992_p32_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1992-26",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 26,
+  "question": "P S R In the figure above, PQR is a semicircle while PQ and QR are chords. QS is the perpendicular from Q to the diameter PR. What is the expression for QS?",
+  "options": {
+   "A": "QS = PS.SR",
+   "B": "QS = (PS.SR)",
+   "C": "QS = 2 (PS.SR)",
+   "D": "QS = 1/2(PS.SR)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-27",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 27,
+  "question": "Determine the distance on the earth’s surface between two towns P(Lat. 60⁰N, Long. 20⁰E) and Q(Lat. 60⁰N, Long 25⁰W)",
+  "options": {
+   "A": "800p/9km",
+   "B": "800Ö3p/9km",
+   "C": "800pkm",
+   "D": "800Ö3pkm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-28",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 28,
+  "question": "F If in the diagram above, FG is parallel to KM, find the value of x",
+  "options": {
+   "A": "75⁰",
+   "B": "95⁰",
+   "C": "105⁰",
+   "D": "125⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1992_p32_3.png",
+  "images": [
+   "mathematics/1992_p32_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1992-29",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 29,
+  "question": "X is a point due east of point Y on a coast Z is another point on the coast but 6.3km due south of Y. if the distance ZX is 12km, calculate the bearing of Z from X",
+  "options": {
+   "A": "240⁰",
+   "B": "210⁰",
+   "C": "150⁰8",
+   "D": "60⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-30",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 30,
+  "question": "The above diagram is a circle with centre O. find the area of the shaded portion.",
+  "options": {
+   "A": "9cm²",
+   "B": "9( -2)cm²",
+   "C": "18cm² 3D. 36cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1992_p32_4.png",
+  "images": [
+   "mathematics/1992_p32_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1992-31",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 31,
+  "question": "The locus of a point which is equidistant from two given fixed points is the",
+  "options": {
+   "A": "perpendicular bisector of the straight line joining them",
+   "B": "parallel line to the straight line joining them",
+   "C": "transverse to the straight line joining them",
+   "D": "angle bisector of 90⁰ which the straight line joining them makes with the horizontal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-32",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 32,
+  "question": "What is the perpendicular distance of a point (2, 3 )from the line 2x – 4y + 3 = 0",
+  "options": {
+   "A": "5/2",
+   "B": "-5/20",
+   "C": "–5/13",
+   "D": "0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-33",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 33,
+  "question": "Find the equation of the line through (5, 7) parallel to the line7x + 5y = 12",
+  "options": {
+   "A": "5x + 7y = 120",
+   "B": "7x + 5y = 70",
+   "C": "x + y = 7",
+   "D": "15x + 17y = 90"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-34",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 34,
+  "question": "Given that q is an acute angle and sin q = m/n, find cot q.",
+  "options": {
+   "A": "n² - m²",
+   "B": "(n + m) (n - m) m m",
+   "C": "",
+   "D": "n"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-35",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 35,
+  "question": "Y X Z 10 cm In the figure above, if XZ is 10cm, calculate RY in cm",
+  "options": {
+   "A": "10",
+   "B": "10(1 – 1/Ö3)",
+   "C": "10(1 - Ö3)",
+   "D": "10(1 - 1Ö2)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1992_p33_1.png",
+  "images": [
+   "mathematics/1992_p33_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1992-36",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 36,
+  "question": "Evaluate lim (x-2) (x²+3x-2) x-->2 (x²-4)",
+  "options": {
+   "A": "0",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-37",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 37,
+  "question": "If y = x, find d²y/dx²",
+  "options": {
+   "A": "2 cos x – x sin x",
+   "B": "sin x + x cos x",
+   "C": "sin x – x cos x",
+   "D": "x sin x – 2 cos x"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-38",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 38,
+  "question": "Ice forms on a refrigerator ice-box at the rate of (4 – 0.6t)g per minute after t minute. If initially there are 2g of ice in the box, find the mass of ice formed in 5 minutes.",
+  "options": {
+   "A": "19.5",
+   "B": "17.0",
+   "C": "14.5",
+   "D": "12.5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-39",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 39,
+  "question": "Obtain a maximum value of the function f(x) = x³ – 12x + 11",
+  "options": {
+   "A": "-5",
+   "B": "–2",
+   "C": "5",
+   "D": "27"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-40",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 40,
+  "question": "A student blows a ballon and its volume increases at a rate of p (20 – t²)ccm³s⁻¹ after t seconds. If the initial volume of 0cm³, find the volume of the balloon after 2 seconds.",
+  "options": {
+   "A": "37.00",
+   "B": "37.33",
+   "C": "40.00",
+   "D": "42.67"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-41",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 41,
+  "question": "Evaluate the integral  cos 2x dx",
+  "options": {
+   "A": "-1/2",
+   "B": "–1",
+   "C": "½",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-42",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 42,
+  "question": "A storekeeper checked his stock of five commodities and arrived at the following statistics. What angle will commodity H represent on a pie chart?",
+  "options": {
+   "A": "216⁰",
+   "B": "108⁰",
+   "C": "68⁰",
+   "D": "54⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1992_p33_2.png",
+  "images": [
+   "mathematics/1992_p33_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1992-43",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 43,
+  "question": "x 2 4 6 8 f 4 y 6 5 If the mean of the above frequency distribution is 5.2, find y",
+  "options": {
+   "A": "6.0",
+   "B": "5.2",
+   "C": "5.0",
+   "D": "4.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-44",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 44,
+  "question": "No . of children 0 1 2 3 4 5 6 No . of families 7 11 6 7 7 5 3 Find the mode and median respectively of the distribution above",
+  "options": {
+   "A": "2,1",
+   "B": "1,2",
+   "C": "1,5",
+   "D": "5,2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-45",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 45,
+  "question": "If the scores of 3students in a test are 5,6 and 7 find the standard deviation of their scores",
+  "options": {
+   "A": "2/3",
+   "B": "3/23",
+   "C": " 2/3",
+   "D": "3/2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-46",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 46,
+  "question": "Sample variance can be defined as S₂ = 1/ₙn ₙ₌₁ (x1-x)² and S₂ = 1  ₙ₌ (x − x) (n-1) Where n is the number of sample observations. There is no difference practically between the above definitions when",
+  "options": {
+   "A": "n =35",
+   "B": "n > 35",
+   "C": "n < 35",
+   "D": "n = 5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-47",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 47,
+  "question": "Two perfect dice are throw together. Determine the probability of obtaining a total score of 8",
+  "options": {
+   "A": "1/12",
+   "B": "5/36",
+   "C": "1/8",
+   "D": "7/36"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-48",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 48,
+  "question": "The probability of an event P is ¾ while that of another Q is 1/6. if the probability of both P and Q is 1/12, what is the probability of either P or Q?",
+  "options": {
+   "A": "1/96",
+   "B": "1/8",
+   "C": "5/6",
+   "D": "11/12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-49",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 49,
+  "question": "Five people are to be arranged in a row for a group photograph. How many arrangements are there if a married couple in the group insist on sitting next to each other?",
+  "options": {
+   "A": "48",
+   "B": "24",
+   "C": "20",
+   "D": "10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1992-50",
+  "subject": "mathematics",
+  "year": 1992,
+  "number": 50,
+  "question": "A student has 5 courses to take from Mathematics and Physics. There are 4 courses in Mathematics and 3 in Physics which he can choose from at will. In how many ways can he choose his courses so that he takes exactly two courses in Physics?",
+  "options": {
+   "A": "11",
+   "B": "12",
+   "C": "10",
+   "D": "7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

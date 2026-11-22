@@ -1,0 +1,913 @@
+[
+ {
+  "id": "mathematics-1994-1",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 1,
+  "question": "Evaluate ¹/ ₃ [⁵/ ₇( ⁹/ ₁₀ – 1 + ³/ ₄) ]",
+  "options": {
+   "A": "²⁸/₃ ₉",
+   "B": "¹³/₈ ₄",
+   "C": "³⁹/₂ ₈",
+   "D": "⁸⁴/₁ ₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-2",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 2,
+  "question": "Evaluate (0.36x 5.4 x 0.63) (4.2 x 9.0 x 2.4) correct to 2 significant figures",
+  "options": {
+   "A": "0.013",
+   "B": "0.014",
+   "C": "0.13",
+   "D": "0.14"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-3",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 3,
+  "question": "Evaluate Log₅(0.04) (Log₃18 – Log₃2)",
+  "options": {
+   "A": "1",
+   "B": "-1",
+   "C": "²/ ₃",
+   "D": "-²/₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-4",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 4,
+  "question": "Without using tables, solve the equation 8x⁻² = ²/₂ ₅",
+  "options": {
+   "A": "4",
+   "B": "6",
+   "C": "8",
+   "D": "10 5 Simply 48 – ⁹/ ₃+ 75"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-6",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 6,
+  "question": "Given that “2 = 1.414, find without using tables, the value of ¹/ ”₂",
+  "options": {
+   "A": "0.141",
+   "B": "0.301",
+   "C": "0.667",
+   "D": "0.707"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-7",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 7,
+  "question": "In a science class of 42 students, each offers at least one of Mathematics and Physics. If 22 students offer Physics and 28 students offer Mathematics, find how many students offer Physics only?",
+  "options": {
+   "A": "6",
+   "B": "8",
+   "C": "12",
+   "D": "14"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-8",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 8,
+  "question": "Given that for sets A and B, in a universal set E, A B then A(AB)’ is",
+  "options": {
+   "A": "A",
+   "B": "O/",
+   "C": "B",
+   "D": ""
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-9",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 9,
+  "question": "Solve for x if 25x + 3(5x) = 4",
+  "options": {
+   "A": "1 or -4",
+   "B": "0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-10",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 10,
+  "question": "Simplify ₂ ₂ [(2m - u) – (m – 2u) ] (5m² – 5u²)",
+  "options": {
+   "A": "¾",
+   "B": "2/5",
+   "C": "2m – u/5m + u",
+   "D": "m – 2u/m + 5u"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-11",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 11,
+  "question": "Factorize a²x – b²y – b²x + a²y",
+  "options": {
+   "A": "(a - b)(x + y)",
+   "B": "(y - x)(a - b)(a + b)",
+   "C": "(x - y)(a - b)(a + b)",
+   "D": "(x + y)(a - b)(a + b)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-12",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 12,
+  "question": "Find the values of p and q such that (x - 1) and (x - 3) are factors of px³ + qx² + 11x - 6",
+  "options": {
+   "A": "-1,-6",
+   "B": "1,-6",
+   "C": "1,6",
+   "D": "6,-1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1994_p37_1.png",
+  "images": [
+   "mathematics/1994_p37_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-13",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 13,
+  "question": "The equation of the graph above is",
+  "options": {
+   "A": "y = (x - 3)³",
+   "B": "y = (x + 3)³",
+   "C": "y = x³ – 27",
+   "D": "y = -x³ + 27"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-14",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 14,
+  "question": "If a = 1, b = 3, solve for x in the equation a/a – x = b/x – b",
+  "options": {
+   "A": "⁴/ ₃",
+   "B": "²/ ₃",
+   "C": "³/ ₂",
+   "D": "¾"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-15",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 15,
+  "question": "Solve for r in the following equation 1/(r – 1) + 2/(r + 1) = 3/r",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-16",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 16,
+  "question": "Find P if x – 3/(1 - x)(x + 2) = P/(1 – x) + Q/(x + 2)",
+  "options": {
+   "A": "-²/₃",
+   "B": "-⁵/₃",
+   "C": "⁵/ ₃",
+   "D": "²/ ₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-17",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 17,
+  "question": "Find the range of values of x for which 1/x > 2 is",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-18",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 18,
+  "question": "Find the inequality which represents the shaded portion in the diagram",
+  "options": {
+   "A": "2x – y – 2 £ 0",
+   "B": "2x – y – 2 ³ 0",
+   "C": "2x – y – 2 < 0",
+   "D": "2x – y – 2 > 0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1994_p38_2.png",
+  "images": [
+   "mathematics/1994_p38_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-19",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 19,
+  "question": "If the 6th term of an arithmetic progression is 11 and the first term is 1, find the common difference.",
+  "options": {
+   "A": "¹²/ ₅",
+   "B": "⁵/ ₃",
+   "C": "-2",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-20",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 20,
+  "question": "Find the value of r if log ₁₀ r + log ₁₀ r² + log ₁₀r ⁴ + log₁ ₀r ⁸ + log ₁₀ r¹⁶ + log ₁₀ r³² = 63",
+  "options": {
+   "A": "10⁻⁸",
+   "B": "10⁰",
+   "C": "10",
+   "D": "10²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-21",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 21,
+  "question": "Find the nth term of the sequence 3,6,10,15,21,…..",
+  "options": {
+   "A": "n(n - 1/2)",
+   "B": "n(n + 1/2)",
+   "C": "(n + 1)(n + 2)/2",
+   "D": "n(2n + 1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-22",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 22,
+  "question": "A binary operation * is defined on the set of all positive integers by a*b = ab for all positive integers a,b. which of the following properties does NOT hold?",
+  "options": {
+   "A": "Closure",
+   "B": "Associativity.",
+   "C": "Identity.",
+   "D": "Inverse."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-23",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 23,
+  "question": "The multiplication table above has modulo 10 on the set S = {2,4,6,8}. Find the inverse of 2",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "6",
+   "D": "8 Solve for x and y 1 1 x = 4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1994_p38_1.png",
+  "images": [
+   "mathematics/1994_p38_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-24",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 24,
+  "question": "3 y 1 1",
+  "options": {
+   "A": "x = -3, y = 3",
+   "B": "x = 8, y = 3",
+   "C": "x = 3, y = -8",
+   "D": "x = 8, y = -3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-25",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 25,
+  "question": "The determinant of the matrix (1 2 3) (4 5 6) is",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/1994_p38_3.png",
+  "images": [
+   "mathematics/1994_p38_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-26",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 26,
+  "question": "The equation of the line in the graph above is",
+  "options": {
+   "A": "3y = 4x + 12",
+   "B": "3y = 3x + 12",
+   "C": "3y = -4x + 12",
+   "D": "3y = -4x + 9"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-27",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 27,
+  "question": "In the diagram above, O is the centre of the circle. If SOQ is a diameter and <PRS is 38⁰, what is the value of <PSQ?",
+  "options": {
+   "A": "148⁰",
+   "B": "104⁰",
+   "C": "80⁰",
+   "D": "52⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1994_p38_4.png",
+  "images": [
+   "mathematics/1994_p38_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-28",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 28,
+  "question": "If three angles of a quadrilateral are (3y – x - z)⁰, 3x⁰, (2z – 2y - x) ⁰, find the fourth angle in terms of x, y, and",
+  "options": {
+   "A": "(360 – x – y - z)⁰",
+   "B": "(360 + x + y - z)⁰",
+   "C": "(180 – x + y + z)⁰",
+   "D": "(180 + x + y + z)⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-29",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 29,
+  "question": "An open rectangular box is made of wood 2cm thick. If the internal dimensions of the box are 50cm long, 36cm wide and 20cm deep, the volume of wood in the box is",
+  "options": {
+   "A": "11520cm³",
+   "B": "36000cm³",
+   "C": "38200cm³",
+   "D": "47520cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-30",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 30,
+  "question": "Calculate the perimeter in cm, of a sector of a circle of radius 8cm and angle 45⁰",
+  "options": {
+   "A": "2 ",
+   "B": "8 + 2",
+   "C": "16 + 2 ",
+   "D": "16 + 16 "
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1994_p38_5.png",
+  "images": [
+   "mathematics/1994_p38_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-31",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 31,
+  "question": "3 In the diagram above, PTS is a tangent to the circle TQR at T. calculate < RTS.",
+  "options": {
+   "A": "120⁰",
+   "B": "70⁰",
+   "C": "60⁰",
+   "D": "40⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-32",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 32,
+  "question": "",
+  "options": {
+   "C": "-3",
+   "D": "3 7 cm In the dia₁g₂ram above, find h.",
+   "A": "/ ₇c m",
+   "B": "¹²/₇ V6cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1994_p40_1.png",
+  "images": [
+   "mathematics/1994_p40_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-33",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 33,
+  "question": "In the frustum of a cone shown above, the top diameter is twice the bottom diameter. If the height of the frustum is h centimeters, find the height of the cone.",
+  "options": {
+   "A": "2h",
+   "B": "2h",
+   "C": "h",
+   "D": "h/2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-34",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 34,
+  "question": "What is the locus of a point P which moves on one side of a straight line XY, so that the angle XPY is always equal to 90⁰",
+  "options": {
+   "A": "The perpendicular",
+   "B": "Aright-angled triangle. bisector of XYX",
+   "C": "A circle",
+   "D": "A semi-circle."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-35",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 35,
+  "question": "If M(4,q) is the mid-point of the line joining L(p, -2) and N(q, p), find the values of p and q.",
+  "options": {
+   "A": "p = 2, q = 4",
+   "B": "p = 3, q = 1",
+   "C": "p = 5, q = 3",
+   "D": "p = 6, q = 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-36",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 36,
+  "question": "y 47. (0",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/1994_p40_2.png",
+  "images": [
+   "mathematics/1994_p40_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-37",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 37,
+  "question": "The angle of depression of a boat from the top of a cliff 10m high is 30⁰. how far is the boat from the foot of the cliff?",
+  "options": {
+   "A": "⁵³/ ₃ m",
+   "B": "53m",
+   "C": "103m",
+   "D": "¹⁰³/₃ m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-38",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 38,
+  "question": "What is the value of sin (-690⁰)?",
+  "options": {
+   "A": "3/2",
+   "B": "-3/2",
+   "C": "-1/2",
+   "D": "½"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-39",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 39,
+  "question": "If y = 3t³ + 2t² – 7t + 3, find dy/ daₜ t t = -1",
+  "options": {
+   "A": "-1",
+   "B": "1",
+   "C": "-2",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-40",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 40,
+  "question": "Find the point (x, y) on the Euclidean plane where the curve y = 2x² – 2x + 3 has 2 as gradient.",
+  "options": {
+   "A": "(1,3)",
+   "B": "(2,7)",
+   "C": "(0,3)",
+   "D": "(3,15)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-41",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 41,
+  "question": "Integrate (1 – x)/x³ with respect to x.",
+  "options": {
+   "A": "(x – x²⁾/(x⁴ + k)",
+   "B": "4/x⁴ – 3/x³ + k",
+   "C": "1/x – 1/2x² + k",
+   "D": "1/3x³ – 1/2x + k"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-42",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 42,
+  "question": "Evaluate ¹ (2x + 1)² dx",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/1994_p40_3.png",
+  "images": [
+   "mathematics/1994_p40_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-43",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 43,
+  "question": "The grades A1, A2, A3, C4 and F earned by students in a particular course are shown in the pie chart above. What percentage of the students obtained a C4 grade?",
+  "options": {
+   "A": "52.0",
+   "B": "43.2",
+   "C": "40.0",
+   "D": "12.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-44",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 44,
+  "question": "The table above shows the frequency distribution of a data. If the mean is 43/14, find y.",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1994_p40_7.png",
+  "images": [
+   "mathematics/1994_p40_7.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-45",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 45,
+  "question": "The mean of twelve positive numbers is 3. when another number is added, the mean becomes 5. find the thirteenth number.",
+  "options": {
+   "A": "29",
+   "B": "26",
+   "C": "25",
+   "D": "24"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-46",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 46,
+  "question": "Find the mean deviation of the set of numbers 4, 5, 9 A 0 B. 2",
+  "options": {
+   "C": "5",
+   "D": "6 Estimate the median of the frequency distribution above.",
+   "A": "10¹/₂",
+   "B": "11¹/₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1994_p40_4.png",
+  "images": [
+   "mathematics/1994_p40_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-48",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 48,
+  "question": "Find the variance of the frequency distribution above",
+  "options": {
+   "A": "³/ ₂",
+   "B": "⁹/ ₄",
+   "C": "⁵/ ₂",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1994_p40_6.png",
+  "images": [
+   "mathematics/1994_p40_6.png",
+   "mathematics/1994_p40_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1994-49",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 49,
+  "question": "The table above shows the number of pupils in each age group in a class. What is the probability that a pupil chosen at random is at least 11 years old?",
+  "options": {
+   "A": "²⁷/₄ ₀",
+   "B": "¹⁷/₂ ₀"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-50",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 50,
+  "question": "In a survey, it was observed that 20 students read newspapers and 35 read novels. If 40 of the students read either newspaper or novels, what is the probability of the students who read both newspapers and novel?",
+  "options": {
+   "A": "¹/ ₂",
+   "B": "²/ ₃ C ³/₈ D. ³/ ₁₁"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

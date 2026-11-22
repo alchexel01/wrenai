@@ -1,0 +1,956 @@
+[
+ {
+  "id": "mathematics-1999-1",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 1,
+  "question": "If (a²b³c)/a⁻¹b⁴c⁵ What is the value of P + 2q?",
+  "options": {
+   "A": "5/2",
+   "B": "–5/4",
+   "C": "–25/4",
+   "D": "–10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-2",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 2,
+  "question": "Find the value of x if 2/(x + 2) = 1/(x - 2)",
+  "options": {
+   "A": "32 + 4",
+   "B": "32 – 4",
+   "C": "3 - 22",
+   "D": "4 + 22"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-3",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 3,
+  "question": "A trader bought 100 oranges at 5 for #1.20,20 oranges got spoilt and the remaining were sold at 4 for #1.50. find the percentage gain or loss",
+  "options": {
+   "A": "30% gain",
+   "B": "25% gain",
+   "C": "30% loss",
+   "D": "25% loss"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-4",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 4,
+  "question": "If U = {1, 2, 3, 4, 5, 6}, P = {3, 4, 5}, Q = {2, 4, 6} and R = {1, 2, 3 4}, list elements of (PÈQ’ÇR).",
+  "options": {
+   "A": "{1, 2, 3, 4, 5, 6}",
+   "B": "{1, 2, 3, 4}",
+   "C": "{1}",
+   "D": "Æ"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-5",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 5,
+  "question": "Divide 2434₆ by 42₆",
+  "options": {
+   "A": "23₆",
+   "B": "35₆",
+   "C": "52₆",
+   "D": "55₆"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-6",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 6,
+  "question": "If 2 ₉x (Y3) =₉ 3 (Y₅3 ) , fin₉d the value of Y",
+  "options": {
+   "A": "4",
+   "B": "3",
+   "C": "2",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-7",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 7,
+  "question": "Simplify (0.0023 x 750)/(0.00345) x 1.25",
+  "options": {
+   "A": "15",
+   "B": "20",
+   "C": "40",
+   "D": "75"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-8",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 8,
+  "question": "If log ₈1 0 = x, evaluate log 5₈ in terms of x.",
+  "options": {
+   "A": "¹/₂ x",
+   "B": "x – ¹/⁴",
+   "C": "x – ¹/₃",
+   "D": "x – ¹/₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-9",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 9,
+  "question": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+  "options": {
+   "A": "25",
+   "B": "19",
+   "C": "18",
+   "D": "17"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-10",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 10,
+  "question": "Given that Q = (6, 0) and Q + P = (7, 2) (4, 5) (6, 8) evaluate /Q + 2P/",
+  "options": {
+   "A": "90",
+   "B": "96",
+   "C": "102",
+   "D": "120"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-11",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 11,
+  "question": "A binary operation * is defined by a*b = ab + b for any real number a and b. if the identity element is zero, find the inverse of 2 under this operation",
+  "options": {
+   "A": "2/3",
+   "B": "½",
+   "C": "–1/2",
+   "D": "56/9"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-12",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 12,
+  "question": "The first term of a geometrical progression is twice its common ratio. Find the sum of the first two terms of the progression if its sum to infinity is 8",
+  "options": {
+   "A": "8/5",
+   "B": "8/3",
+   "C": "72/25",
+   "D": "56/9"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-13",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 13,
+  "question": "Tope bought x oranges at #5.00 each and some mangoes at #4.00 each. If she bought twice as many mangoes as oranges and spent at least #and at most #, find the range of the value of x",
+  "options": {
+   "A": "4  x  5",
+   "B": "5  x  8",
+   "C": "5  x  10",
+   "D": "8  x  10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-14",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 14,
+  "question": "If m*n = m/n – n/m, for m,n E R, evaluate –3 *4",
+  "options": {
+   "A": "-25/12",
+   "B": "–7/12",
+   "C": "7/12",
+   "D": "25/12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-15",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 15,
+  "question": "Find the matrix T if ST = I where S = (-1, 1) (1, -2) and I is the identity matrix.",
+  "options": {
+   "A": "(-2, 1)",
+   "B": "(-2, -1) (-1, 1) (-1, -1)",
+   "C": "(-1, -1)",
+   "D": "(-1, -1) (01, -1) (0, 1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-16",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 16,
+  "question": "Divide 4x³ – 3x + 1 by 2x - 1",
+  "options": {
+   "A": "2x² – x + 1",
+   "B": "2x² – x – 1",
+   "C": "2x² + x + 1",
+   "D": "2x² + x - 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-17",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 17,
+  "question": "Three consecutive positive integers k, l and m are such that l² = 3(k + m). find the value of m.",
+  "options": {
+   "A": "4",
+   "B": "5",
+   "C": "6",
+   "D": "7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1999_p49_1.png",
+  "images": [
+   "mathematics/1999_p49_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1999-18",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 18,
+  "question": "The shaded portion in the graph above is represented",
+  "options": {
+   "A": "y + x – x³ 0, y – x £ 0",
+   "B": "y - + x ³ ³ 0, y – x £ 0",
+   "C": "y + x – x³ £ 0, y + x ³ 0",
+   "D": "y – x + x³ £ 0, y + x £ 0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-19",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 19,
+  "question": "Factorize completely x² + 2xy + y² + 3x + 3y – 18",
+  "options": {
+   "A": "(x + y + 6)(x + y - 3)",
+   "B": "(x - y - 6)(x - y + 3)",
+   "C": "(x - y + 6)(x - y - 3)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-20",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 20,
+  "question": "The sum of two members is twice their difference. If the difference of the numbers is P, find the larger of the two numbers.",
+  "options": {
+   "A": "p/2",
+   "B": "3p/2",
+   "C": "5p/2",
+   "D": "3p"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-21",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 21,
+  "question": "Express 1/x³ - 1",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-22",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 22,
+  "question": "In MNO, MN = 6 units, MO = 4 units and NO – 12 units. If the bisector of angle M meets NO at P, calculate NP.",
+  "options": {
+   "A": "4.8 units",
+   "B": "7.2 units",
+   "C": "8.0 units",
+   "D": "18.0 units"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-23",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 23,
+  "question": "Find the equation of the locus of a point P(x, y ) such that PV = PW, where V = (1, 1) and W = (3, 5)",
+  "options": {
+   "A": "2x + 2y = 9",
+   "B": "2x + 3y = 8",
+   "C": "2x + y = 9",
+   "D": "x + 2y = 8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-24",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 24,
+  "question": "Find the value of l in the frustum above.",
+  "options": {
+   "A": "5cm",
+   "B": "6cm",
+   "C": "7cm",
+   "D": "8cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1999_p50_1.png",
+  "images": [
+   "mathematics/1999_p50_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1999-25",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 25,
+  "question": "Y 1cm Z Find the length XZ in the triangle above",
+  "options": {
+   "A": "7m",
+   "B": "6m",
+   "C": "5m",
+   "D": "3m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1999_p50_2.png",
+  "images": [
+   "mathematics/1999_p50_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1999-26",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 26,
+  "question": "Find a positive value of a if the coordinate of the centre of a circle x2 + y2 – 2ax + 4y - a = 0 is (a, -2) and the radius is 4 units",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-27",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 27,
+  "question": "A man 1.7m tall observes a bird on top of a tree at an angle of 30⁰. if the distance between the man’s head and the bird is 25m, what is the height of the tree?",
+  "options": {
+   "A": "26.7m",
+   "B": "14.2m",
+   "C": "(1.7 + 253m)/3",
+   "D": "(1.7 + 252m)/2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-28",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 28,
+  "question": "In the figure above, TZ is tangent to the circle QPZ. Find x if TZ = 6 units and PQ = 9 units.",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1999_p50_3.png",
+  "images": [
+   "mathematics/1999_p50_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1999-29",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 29,
+  "question": "Find the tangent of the acute angle between the lines 2x + y =3 and 3x – 2y = 5",
+  "options": {
+   "A": "-7/4",
+   "B": "7/8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-30",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 30,
+  "question": "From the Point P, the bearings of two points Q and R are N67⁰W and N23⁰E respectively. If the bearing of R from Q is N68⁰E and PQ = 150m, calculate PR.",
+  "options": {
+   "A": "120m",
+   "B": "140m",
+   "C": "150m",
+   "D": "160m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1999_p50_5.png",
+  "images": [
+   "mathematics/1999_p50_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1999-31",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 31,
+  "question": "P Q In the figure above, PQRS is a circle with ST//RQ. Find the value of x if PT = PS",
+  "options": {
+   "A": "70⁰",
+   "B": "55⁰",
+   "C": "40⁰",
+   "D": "35⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-32",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 32,
+  "question": "E In the diagrams above, EFGH is a cyclic quadrilateral in which EH//FG and FH are chords. If FHG = 42⁰ and FH = 34⁰, calculate HEG",
+  "options": {
+   "A": "34⁰",
+   "B": "42⁰",
+   "C": "52⁰",
+   "D": "76⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1999_p50_4.png",
+  "images": [
+   "mathematics/1999_p50_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1999-33",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 33,
+  "question": "If the maximum value of y = 1+ hx – 3x²is 13, find h.",
+  "options": {
+   "A": "13",
+   "B": "12",
+   "C": "11",
+   "D": "10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-34",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 34,
+  "question": "Evaluate ¹ ₋₂ (x - 1) ²",
+  "options": {
+   "A": "-3¹/₃",
+   "B": "7",
+   "C": "9",
+   "D": "11"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-35",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 35,
+  "question": "Evaluate /⁴ (x -1)²dx",
+  "options": {
+   "A": "2 + 1",
+   "B": "2 - 1",
+   "C": "-2 - 1",
+   "D": "1 - 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-36",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 36,
+  "question": "Find the area bounded by the curve y = x(2 - x), the x-axis, x = 0 and x = 2",
+  "options": {
+   "A": "4 sq units",
+   "B": "2sq units",
+   "C": "1¹/₂ sq units",
+   "D": "1/3 sq units"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-37",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 37,
+  "question": "If y = 3x² (x³ + 1)¹/²find dy/dx",
+  "options": {
+   "A": "6x(x³+1) + 3x²/2(x³+1)¹/²",
+   "B": "12x(x³+1) + 3x²/2(x³+1)¹/² C.(15x⁴+ 6x)/6x²(x³+1)¹/² D. 12x(x³+1) + 9x⁴/2(x³+1)¹/²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-38",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 38,
+  "question": "Find the volume of solid generated when the area enclosed by y = 0, y = 2x and 3 is rotated about the x – axis.",
+  "options": {
+   "A": "81 cubic units",
+   "B": "36 cubic units"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-39",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 39,
+  "question": "What is the derivative of t²sin (3t - 5) with respects to the variable?",
+  "options": {
+   "A": "6t cos (3t - 5)",
+   "B": "2dt sin (3t - 5) – 3t² cos (3t - 5)",
+   "C": "2t sin (3t - 5) + 3t² cos (3t - 5)",
+   "D": "2t sin (3t - 5) + t² cos 3t"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-40",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 40,
+  "question": "Find the value of x for which the function y = x³ – x has a minimum value.",
+  "options": {
+   "A": "-3",
+   "B": "-3/2",
+   "C": "3/3",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-41",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 41,
+  "question": "Three boys play a game a luck in which their respective chances of wining are ½, 1/3 and ¼. What is the probability that one and only of the boys wins the game?",
+  "options": {
+   "A": "1/24",
+   "B": "1/12",
+   "C": "11/24",
+   "D": "23/24"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-42",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 42,
+  "question": "A number is selected at random from 0 to 20. what is the probability that the number is an odd prime?",
+  "options": {
+   "A": "8/21",
+   "B": "1/3",
+   "C": "2/7",
+   "D": "5/21"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-43",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 43,
+  "question": "If ⁶Cᵣ /⁶P/ᵣ = 1/6, find the value of r.",
+  "options": {
+   "A": "1",
+   "B": "3",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-44",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 44,
+  "question": "If the standard deviation of the set of numbers 3, 6, x, 7, 5, is 2, find the least possible value of x.",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-45",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 45,
+  "question": "How many two digit numbers can be formed from the digits 0, 1, 2, if a digit can be repeated and no number may begin with 0",
+  "options": {
+   "A": "4",
+   "B": "12",
+   "C": "16",
+   "D": "20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1999_p51_1.png",
+  "images": [
+   "mathematics/1999_p51_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1999-46",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 46,
+  "question": "The grades of 36 students in a class test are as shown in the pie chart above. How many students had excellent?",
+  "options": {
+   "A": "7",
+   "B": "8",
+   "C": "9",
+   "D": "12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1999_p51_2.png",
+  "images": [
+   "mathematics/1999_p51_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1999-47",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 47,
+  "question": "The marks scored by students in a test are given in the above. Find the median.",
+  "options": {
+   "A": "7",
+   "B": "6",
+   "C": "5",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-48",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 48,
+  "question": "A student calculated the mean of 5 numbers as 45, 3. while rechecking his working, he discovered that his total was short by 20.5. what is the correct mean of the 5 numbers?",
+  "options": {
+   "A": "24.8",
+   "B": "41.2",
+   "C": "49.4",
+   "D": "65.8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-49",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 49,
+  "question": "The sectorial allocations to various ministries in a state budget are as follows: Agriculture - #25 000 000.00 Education - #20 000 000 .00 Women affairs - #35 000 000.00 Commerce and Industries - #20 000 000.00 In a pie chart to represent this information the corresponding angle to agriculture is",
+  "options": {
+   "A": "25⁰",
+   "B": "45⁰",
+   "C": "50⁰",
+   "D": "90⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1999-50",
+  "subject": "mathematics",
+  "year": 1999,
+  "number": 50,
+  "question": "The mean of four numbers is 5 and the mean deviation is 3. find the fourth number if the mean deviation of the first three numbers is 2.",
+  "options": {
+   "A": "6",
+   "B": "10",
+   "C": "11",
+   "D": "17"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

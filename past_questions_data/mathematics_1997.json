@@ -1,0 +1,870 @@
+[
+ {
+  "id": "mathematics-1997-1",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 1,
+  "question": "If (1PO3) ₄ = 115 ₁₀, find P",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "2",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-2",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 2,
+  "question": "Evaluate 64.764² – 35.236² correct to 3 significant figures",
+  "options": {
+   "A": "2960 B 2950",
+   "C": "2860",
+   "D": "2850"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-3",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 3,
+  "question": "Find the value of (0.006) ³ + (0.004) ³ in standard form.",
+  "options": {
+   "A": "2.8 X 10⁻⁹ B 2.8 X 10⁻⁸ ₋₇ ₋₆",
+   "C": "2.8 X 10",
+   "D": "2.8 X 10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-4",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 4,
+  "question": "Given that logₐ2 = 0.693 and logₐ3 = 1.097, find logₐ13.5",
+  "options": {
+   "A": "1.404",
+   "B": "1.790",
+   "C": "2.598",
+   "D": "2.790"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-5",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 5,
+  "question": "Simplify log ₂9 6 – 2log 6₂",
+  "options": {
+   "A": "2 - log₂3 B. 3 – log₂3",
+   "C": "log₂3 – 3",
+   "D": "log₂3 – 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-6",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 6,
+  "question": "If 8x/² = [2³/⁸][4³/⁴], find x",
+  "options": {
+   "A": "3/8",
+   "B": "¾",
+   "C": "19 + 2\"15/11",
+   "D": "19 + 2\"15/19"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-8",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 8,
+  "question": "Find the simple interest rate per cent per annum at which #1000 accumulates to #1240 in 3 years.",
+  "options": {
+   "A": "6%",
+   "B": "8%",
+   "C": "10%",
+   "D": "12% 9 If U = {S,P,L,E,N,D,O,U,R} X = {S,P,E,N,D} Y = {P,N,O,U,R} Find X(Y’UZ)."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-10",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 10,
+  "question": "A survey of 100 students in an institution shows that 80 students speak Hausa and 20 students Igbo, while only 9 students speaks both languages. How many students neither Hausa nor Igbo?",
+  "options": {
+   "A": "0",
+   "B": "9",
+   "C": "11",
+   "D": "20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-11",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 11,
+  "question": "If the function (x) = x³ + 2x² + qx – 6 is divisible by x +",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-12",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 12,
+  "question": "Solve the simultaneous equations / ₓ² – ³/ y = 2, ⁴/ ₓ + ³/y = 10",
+  "options": {
+   "A": "x = ³/₂ , y = ½",
+   "B": "x = ½, y = ³/₂",
+   "C": "x = -¹/₂ , y = -³/₂",
+   "D": "x = ½, y = - ³/ ₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-13",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 13,
+  "question": "Find the minimum value of x² – 3x + 2 for all real values of x.",
+  "options": {
+   "A": "-¹/ ₄",
+   "B": "-¹/₂",
+   "C": "¼",
+   "D": "½"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-14",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 14,
+  "question": "Make f the subject of the formula t = 1 1 f g gv – t²/gt² B. gt²/gv – t²",
+  "options": {
+   "A": "₁/₂ ₋₁/g ₂",
+   "C": "v/t",
+   "D": "gv/t – g"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-15",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 15,
+  "question": "What value of g will make the expression 4x² – 18xy – g a perfect square?",
+  "options": {
+   "A": "9",
+   "B": "9y²/4",
+   "C": "81y²",
+   "D": "81y²/4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-16",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 16,
+  "question": "Find the value of K if ⁵⁺²r/₍ᵣ ₊₁₎₍ᵣ₋₂₎ expressed in partial fraction is K /ᵣ₋₂ + L /ᵣ₊₁, where K and L are constants.",
+  "options": {
+   "A": "3",
+   "B": "2",
+   "C": "1",
+   "D": "-1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-17",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 17,
+  "question": "Let f(x) = 2x + 4 and g(x) = 6x + 7 where g(x) > 0. solve the inequality f⁽x⁾/ g₍ₓ₎ < 1",
+  "options": {
+   "A": "x < - ¾",
+   "B": "x > - 4/3",
+   "C": "x > - 3/4",
+   "D": "x > - 12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-18",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 18,
+  "question": "Find the range of values of x which satisfies the inequality 12x²< x + 1",
+  "options": {
+   "A": "-1/4 < x < 1/3",
+   "B": "¼ < x <1/3",
+   "C": "-1/3 < x<1/4",
+   "D": "-1/4 < x <-1/3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-19",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 19,
+  "question": "Sₙ is the sum of the first n terms of a series given by S ₙ= n² – 1. find the nth term.",
+  "options": {
+   "A": "4n + 1",
+   "B": "4n – 1",
+   "C": "2n + 1",
+   "D": "2n – 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-20",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 20,
+  "question": "The nth term of a sequence is given by 3¹⁻ⁿ. find the sum of the first three terms of the sequence.",
+  "options": {
+   "A": "¹₁³/₉ B 1₁",
+   "C": "/ ₃",
+   "D": "/ ₉"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-21",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 21,
+  "question": "Two binary operations * and Ä are defined as m*n = mn – n – 1 and m Ä n = mn + n – 2 for all real numbers m, n. find the values of 3Ä (4*5).",
+  "options": {
+   "A": "60",
+   "B": "57",
+   "C": "54",
+   "D": "42"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-22",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 22,
+  "question": "If xy = x + y – xy, find x, when (x*2)+(x*3) = 68",
+  "options": {
+   "A": "24",
+   "B": "22",
+   "C": "-12",
+   "D": "-21"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-23",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 23,
+  "question": "Determines x + y if 2 -3 (x) = (-1)",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-24",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 24,
+  "question": "Find the non-zero positive value of x which satisfies the equation x 1 0 1 x 1 = 0 0 1 x",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "2",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-25",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 25,
+  "question": "Each of the base angles of an isosceles triangle is 58⁰ and all the vertices of the triangle lie on a circle. Determine the angle which the base of the triangle subtends at the centre of the circle.",
+  "options": {
+   "A": "128⁰",
+   "B": "116⁰",
+   "C": "64⁰",
+   "D": "58⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-26",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 26,
+  "question": "F H R From the figure above, FK//GR and FH = GH,< RFK = 34⁰ and < FGH = 47⁰. calculate the angle marked x.",
+  "options": {
+   "A": "42⁰",
+   "B": "52⁰",
+   "C": "64⁰",
+   "D": "72⁰ 25 cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1997_p44_3.png",
+  "images": [
+   "mathematics/1997_p44_3.png",
+   "mathematics/1997_p44_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1997-27",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 27,
+  "question": "2 cm The figure above shows circles of radii 3cm and 2cm with centres at X and Y respectively. The circles have a transverse common tangent of length 25cm. Calculate XY.",
+  "options": {
+   "A": "630 cm",
+   "B": "626 cm",
+   "C": "615 cm",
+   "D": "600 cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-28",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 28,
+  "question": "A cho₀r d of a circle diameter 42cm subtends an angle of 60 at the centre of the circle. Find the length of the minor arc.",
+  "options": {
+   "A": "22 cm",
+   "B": "44 cm",
+   "C": "110 cm",
+   "D": "220 cm [  = 22/7]"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-29",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 29,
+  "question": "An arc of a circle subtends an angle of 70⁰ at the centre. If the radius of the circle is 6cm, calculate the area of the sector subtended by the given angle.",
+  "options": {
+   "A": "22 cm²",
+   "B": "44 cm²",
+   "C": "66 cm²",
+   "D": "88 cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1997_p44_2.png",
+  "images": [
+   "mathematics/1997_p44_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1997-30",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 30,
+  "question": "5 cm 10 cm",
+  "options": {
+   "A": "990 cm³",
+   "B": "880 cm³",
+   "C": "550 cm³",
+   "D": "495 cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-31",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 31,
+  "question": "A cone with the sector angle of 45⁰ is cut out of a circle of radius r cm. find the base radius of the cone.",
+  "options": {
+   "A": "r/16cm",
+   "B": "r/8cm",
+   "C": "r/4cm",
+   "D": "r/2cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-32",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 32,
+  "question": "A point P moves so that it is equidistant from points L and M. if LM is 16cm, find the distance of P from LM when P is 10cm from L.",
+  "options": {
+   "A": "12cm",
+   "B": "10cm",
+   "C": "8cm",
+   "D": "6cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-33",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 33,
+  "question": "The angle between the positive horizontal axis and a given line is 135⁰. find the equation of the line if it passes through the point (2, 3).",
+  "options": {
+   "A": "x – y = 1",
+   "B": "x + y = 1",
+   "C": "x + y = 5 D x – y = 5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-34",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 34,
+  "question": "Find the distance between the point Q(4, 3) and the point common to the lines 2x – y = 4 and x + y = 2",
+  "options": {
+   "A": "3 10",
+   "B": "3 5",
+   "C": "26",
+   "D": "13"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-35",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 35,
+  "question": "The angle of elevation of a building from a measuring instrument placed on the ground is 30⁰. if the building is 40m high, how far is the instrument from the foot of the building?",
+  "options": {
+   "A": "203m",
+   "B": "403m",
+   "C": "203m",
+   "D": "403m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-36",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 36,
+  "question": "In a triangle XYZ, if <XYZ is 60⁰, XY = 3cm and YZ = 4cm, calculate the length of the side XZ.",
+  "options": {
+   "A": "“23cm",
+   "B": "“13cm",
+   "C": "2\"5cm",
+   "D": "2\"3cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-37",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 37,
+  "question": "X Y E In the figure above, XYZ is a triangle with XY = 5cm, XZ = 2cm and XZ is produced to E making the angle YZE = 150⁰. if the angle XYZ = è, calculate the value of the sin è.",
+  "options": {
+   "A": "3/5",
+   "B": "½",
+   "C": "2/5",
+   "D": "1/5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1997_p45_1.png",
+  "images": [
+   "mathematics/1997_p45_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1997-38",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 38,
+  "question": "Differentiate 6x³-5x²+1 3x²",
+  "options": {
+   "A": "2 + 2/3x³",
+   "B": "2 + 1/6x",
+   "C": "2-2/3x³",
+   "D": "2-1/6x"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-39",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 39,
+  "question": "d/dx cos(3x² – 2x) is equal to",
+  "options": {
+   "A": "-sin(6x - 2)",
+   "B": "-sin(3x² – 2x)",
+   "C": "(6x - 2) sin(3x² – 2x)",
+   "D": "(6x - 2) sin (3x² – 2x)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-41",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 41,
+  "question": "Integrate 1/x + cos x with respect to x.",
+  "options": {
+   "A": "-1/x² + sin x + k",
+   "B": "1nx + sin x + k",
+   "C": "1nx – sin x + k",
+   "D": "-1/x² – sin x + k"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-42",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 42,
+  "question": "If y = x(x⁴ + x² + 1), evaluate ¹ ₋₁d yx",
+  "options": {
+   "A": "11/12",
+   "B": "11/16",
+   "C": "5/6",
+   "E": "0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1997_p45_3.png",
+  "images": [
+   "mathematics/1997_p45_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1997-43",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 43,
+  "question": "The pie chart above shows the income of a civil servant in a month. If his monthly income is #6000, find his monthly basic salary.",
+  "options": {
+   "A": "#2000",
+   "B": "#2600",
+   "C": "#3100",
+   "D": "#3450"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-44",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 44,
+  "question": "In an examination, the result of a certain school is as shown in the histogram above. How many candidates did the school present?",
+  "options": {
+   "A": "12",
+   "B": "16",
+   "C": "18",
+   "D": "19"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1997_p45_4.png",
+  "images": [
+   "mathematics/1997_p45_4.png",
+   "mathematics/1997_p45_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1997-45",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 45,
+  "question": "Find the median age of the frequency distribution in the table above",
+  "options": {
+   "A": "20",
+   "B": "25",
+   "C": "30",
+   "D": "35 46 The following are the scores of ten students in a test of 20 marks; 15,16,17,13,16,8,5,16,19,17. what is the modal score?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-47",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 47,
+  "question": "Find the standard deviation of the following data - 5,-4,-3,-2,-1,0,1,2,3,4,5",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "10",
+   "D": "11"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-48",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 48,
+  "question": "Find the difference between the range and the variance of the following set of numbers 4,9,6,3,2,8,10,5,6,7 where d² = 60.",
+  "options": {
+   "A": "2",
+   "B": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-49",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 49,
+  "question": "In a basket of fruits, there are 6 grapes, 11 bananas and 13 oranges. If one fruit is chosen at random, what is the probability that the fruit is either a grape or a banana?",
+  "options": {
+   "A": "17/30",
+   "B": "11/30",
+   "C": "6/30",
+   "D": "5/30"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-50",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 50,
+  "question": "A number is selected at random between 10 and 20, both numbers inclusive. Find the probability that the numbers is an even number.",
+  "options": {
+   "A": "5/11",
+   "B": "½",
+   "C": "6/11",
+   "D": "7/10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

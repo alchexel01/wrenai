@@ -1,0 +1,944 @@
+[
+ {
+  "id": "mathematics-1986-1",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 1,
+  "question": "Evaluate (212)₃ – (121)₃ + (222)₃",
+  "options": {
+   "A": "(313)₃",
+   "B": "(1000)₃",
+   "C": "(1020)₃",
+   "D": "(1222)₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-2",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 2,
+  "question": "If Musa scored 75 in Biology instead of 57, his average mark in four subjects would have been 60. what was his total mark?",
+  "options": {
+   "A": "282",
+   "B": "240",
+   "C": "222",
+   "D": "210"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-3",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 3,
+  "question": "Divide the L.C.M. of 48, 64 and 80 by their H.C.F",
+  "options": {
+   "A": "20",
+   "B": "30",
+   "C": "48",
+   "D": "60"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-4",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 4,
+  "question": "Find the smallest number by which 252 can be",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-5",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 5,
+  "question": "Find the reciprocal of 2/3 1/2 + 1/3",
+  "options": {
+   "A": "4/5",
+   "B": "5/4",
+   "C": "2/5",
+   "D": "6/7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-6",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 6,
+  "question": "Three boys shared some oranges. The first receive 1/3 of the oranges, the second received 2/3 of the remainder, if the third boy received the remaining 12 oranges. How many oranges did they share?",
+  "options": {
+   "A": "60",
+   "B": "54",
+   "C": "48",
+   "D": "42"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-7",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 7,
+  "question": "If P = 18, Q = 21, R = -6 and S = -4 calculate (P - Q) + S²",
+  "options": {
+   "A": "-11/216",
+   "B": "11/216",
+   "C": "–43/115",
+   "D": "41/116"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-8",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 8,
+  "question": "Simplify 0.03 x 4 x 0.00064 0.48 x 0.012",
+  "options": {
+   "A": "3.6 x 10²",
+   "B": "36 x 10²",
+   "C": "3.6 x 10³",
+   "D": "3.6 x 10⁴"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-9",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 9,
+  "question": "Udoh deposited #150 00 in the bank. At the end of 5 years the simple interest on the principal was #55 00. At what rate per annum was the interest paid?",
+  "options": {
+   "A": "11%",
+   "B": "7¹/₃ %",
+   "C": "5%",
+   "D": "3¹/₂ %"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-10",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 10,
+  "question": "A number of pencils were shared out among Bisi, Sola and Tunde in the ratio 2:3:5 respectively. If Bisi got 5, how many were shared out?",
+  "options": {
+   "A": "15",
+   "B": "25",
+   "C": "30",
+   "D": "50"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-11",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 11,
+  "question": "The ages of Tosan and Isa differ by 6 and the product of their ages is 187. write their ages in the form (x, y), where x > y",
+  "options": {
+   "A": "(12, 9)",
+   "B": "(23, 17)",
+   "C": "(17, 11)",
+   "D": "(18, 12)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-12",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 12,
+  "question": "In 1984, Ike was 24 years old and is father was 45 years old in what year was Ike exactly half his father’s age?",
+  "options": {
+   "A": "1982",
+   "B": "1981",
+   "C": "1979",
+   "D": "1978"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-13",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 13,
+  "question": "Simplify ( 1 1 ) x -1/ ( +  −  − )",
+  "options": {
+   "A": "3/5",
+   "B": "–2/3",
+   "C": "–2",
+   "D": "–1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-14",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 14,
+  "question": "Find n if Log 4 + Log Z – Log n = -1",
+  "options": {
+   "A": "10 ² ²",
+   "B": "² 14",
+   "C": "27",
+   "D": "28"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-15",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 15,
+  "question": "(91/3 x 27-1/2) / (3⁻¹/⁶ x 3⁻²/³)",
+  "options": {
+   "A": "1/3",
+   "B": "1",
+   "C": "3",
+   "D": "9"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-16",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 16,
+  "question": "If x varies directly as y³ and x = 2 when y = 1, find x when y = 5",
+  "options": {
+   "A": "2",
+   "B": "10",
+   "C": "125",
+   "D": "250"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-17",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 17,
+  "question": "Factorize completely. 3a + 125ax³",
+  "options": {
+   "A": "(2a + 5x²)(4 + 25ax)",
+   "B": "a(2 + 5x)(4 – 10x + 25ax²)",
+   "C": "(2a + 5x)(4 - 10ax + 25ax²)",
+   "D": "a(2 + 5x)(4 + 10ax + 25ax²)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-18",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 18,
+  "question": "If y = x/(x – 3) + x/(x + 4) find y when x = -2",
+  "options": {
+   "A": "-3/5",
+   "B": "3/5",
+   "C": "–7/5",
+   "D": "7/5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-19",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 19,
+  "question": "Find all the numbers x which satisfy the inequality 1/",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-20",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 20,
+  "question": "Factorize x² + 2a + ax + 2x",
+  "options": {
+   "A": "(x + 2a)(x + 1)",
+   "B": "(x + 2a)(x - 1)",
+   "C": "(x² - 1)(x + a)",
+   "D": "(x + 2)(x + a)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-21",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 21,
+  "question": "Solve the equation 3x² + 6x – 2 = 0",
+  "options": {
+   "A": "x = -1,3/3",
+   "B": "x = -1,15/3",
+   "C": "x = -2, 23/3",
+   "D": "x = -2, 215/3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-22",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 22,
+  "question": "Simplify. 1/ 5x +5 + 1/7x + 7",
+  "options": {
+   "A": "12/35+7",
+   "B": "1/35(x+1)",
+   "C": "12x/35(x+1)",
+   "D": "12/35x + 35"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-23",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 23,
+  "question": "The curve y = -x² + 3x + 4 intersects the coordinate axes",
+  "options": {
+   "A": "(4,0)(0,0)(-1,0)",
+   "B": "(-4,0)(0,4)(1,1)",
+   "C": "(0,0)(0,1)(1,0)",
+   "D": "(0,4)(4,0)(-1,0)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-24",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 24,
+  "question": "Factorize (4a + 3)² – (3a - 2)²",
+  "options": {
+   "A": "(a + 1)(a + 5)",
+   "B": "(a - 5)(7a - 1)",
+   "C": "(a + 5)(7a + 1)",
+   "D": "a(7a + 1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-25",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 25,
+  "question": "If 5⁽x ⁺ ²y⁾ = 5 and 4⁽x ⁺ ³y⁾ = 16, find 3⁽x ⁺y⁾",
+  "options": {
+   "A": "0",
+   "B": "1",
+   "C": "3",
+   "D": "27"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-26",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 26,
+  "question": "Simplify 1/ x - 2 + 1/ x + 2 + 2x / x² - 4",
+  "options": {
+   "A": "2x/ (x-2) (x+2) (x² - 4) B.2x/x² - 4",
+   "C": "x/x² - 4",
+   "D": "4x/ x² - 4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-27",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 27,
+  "question": "Make r the subject of the formula S = 6/v - w/2",
+  "options": {
+   "A": "V = 6 = 12",
+   "B": "v = 12 S² w 25² - w",
+   "C": "v = 12 - 2s²",
+   "D": "v = 12 w 2s² + w"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-28",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 28,
+  "question": "Find the values of x which satisfy the equation 16x – 5x 4x + 4 = 0",
+  "options": {
+   "A": "1 and 4",
+   "B": "–2 and 2",
+   "C": "0 and 1",
+   "D": "1 and 0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-29",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 29,
+  "question": "a/b –c/d = k, find the value of (3a² – ac + c²⁾/(3b² – bd + d²⁾ in term of k",
+  "options": {
+   "A": "3k²",
+   "B": "3k – k²",
+   "C": "17k²/4",
+   "D": "k²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-30",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 30,
+  "question": "At what point does the straight line y = 2x + 1 intersect the curve y = 2x² + 5x – 1?",
+  "options": {
+   "A": "(-2,-3) and (1/2, 2)",
+   "B": "(-1/2 0) and (2, 5)",
+   "C": "(1/2, 2) and (1, 3)",
+   "D": "(1, 3) and (2, 5)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-31",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 31,
+  "question": "A regular polygon on n sides has 160⁰ as the size each interior. Find n.",
+  "options": {
+   "A": "18",
+   "B": "16",
+   "C": "14",
+   "D": "12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-32",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 32,
+  "question": "If cos q = a₂/b,₂ find 1 + tan²q ₂ ₂",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-33",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 33,
+  "question": "In the diagram below, PQ and RS are chords of a circle centre O which meet at T outside the circle. If TP = 24cm, TQ = 8cm and TS = 12cm, find TR. P T",
+  "options": {
+   "A": "16cm",
+   "B": "14cm",
+   "C": "12cm",
+   "D": "8cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1986_p14_2.png",
+  "images": [
+   "mathematics/1986_p14_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1986-34",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 34,
+  "question": "The angle of elevation of the top of a vertical tower 50 metres high from a point X on the ground is 30 . From a point Y on the opposite side of the tower, the angle of elevation of the top of the tower is 60⁰. find the distance between the points X and Y.",
+  "options": {
+   "A": "14.43m",
+   "B": "57.73m",
+   "C": "101.03m",
+   "D": "115.47m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-35",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 35,
+  "question": "A girl walk 45 metres in the direction 050⁰ from a point Q to a point X. She then walks 24metres in the direction 140⁰ from X to a point Y. How far is she then from Q?",
+  "options": {
+   "A": "69m",
+   "B": "57m",
+   "C": "51m",
+   "D": "21m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-36",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 36,
+  "question": "11 m 8 m Q The figure is a solid with the trapezium PQRS as its uniform cross-section. Find its volume",
+  "options": {
+   "A": "102m³",
+   "B": "576m³",
+   "C": "816m³",
+   "D": "1056m³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1986_p14_1.png",
+  "images": [
+   "mathematics/1986_p14_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1986-37",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 37,
+  "question": "PQ and PR are tangents from P to a circle centre O as shown in the figure above. If QRP = 34⁰. Find the angle marked x.",
+  "options": {
+   "A": "34⁰",
+   "B": "56⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1986_p14_3.png",
+  "images": [
+   "mathematics/1986_p14_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1986-38",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 38,
+  "question": "An arc of circle of radius 6cm is 8cm long. Find the area of the sector.",
+  "options": {
+   "A": "5¹/₃ cm²",
+   "B": "24cm²",
+   "C": "36cm²",
+   "D": "48cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-39",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 39,
+  "question": "X Y Z In XYZ above, determine the cosine of angle Z",
+  "options": {
+   "A": "¾",
+   "B": "29/36",
+   "C": "2/3",
+   "D": "½"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1986_p14_5.png",
+  "images": [
+   "mathematics/1986_p14_5.png",
+   "mathematics/1986_p14_6.png"
+  ]
+ },
+ {
+  "id": "mathematics-1986-40",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 40,
+  "question": "In the figure above PQT is isosceles. PQ = QT. SRQ = 35⁰, TQ = 20⁰ and PQR is a straight line. Calculate TSR.",
+  "options": {
+   "A": "20⁰",
+   "B": "55⁰",
+   "C": "75",
+   "D": "140⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-41",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 41,
+  "question": "Find the total surface are of a solid cone of radius 2 3cm and slanting side 4 3cm",
+  "options": {
+   "A": "83cm²",
+   "B": "24cm²",
+   "C": "153cm²",
+   "D": "36cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-42",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 42,
+  "question": "If U and V are two distinct fixed points and W is a variable point such that UWV is a straight angle. What is the locus of W?",
+  "options": {
+   "A": "The perpendicular bisector of UV",
+   "B": "A circle with UV as radius",
+   "C": "A line parallel to the line UV",
+   "D": "A circle with the line UV as the diameter"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1986_p14_4.png",
+  "images": [
+   "mathematics/1986_p14_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1986-43",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 43,
+  "question": "In the figure above, PQ//ST, RS//UV. If PQR = 35⁰ and",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-44",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 44,
+  "question": "An open rectangular box externally measures 4m x 3m x 4m. find the total cost of painting the box externally if it costs #2.00 to paint one square metre.",
+  "options": {
+   "A": "#96.00",
+   "B": "#112.00",
+   "C": "#136.00",
+   "D": "#160.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-45",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 45,
+  "question": "Of the nine hundred students admitted in a university in 1979, the following was the distribution by state Anambra 185 Imo 135 Kaduna 90 Kwara 110 Ondo 155 Oyo 225 In a pie chart drawn to represent this distribution, the angle subtended at the centre by Anambra is",
+  "options": {
+   "A": "50⁰",
+   "B": "65⁰",
+   "C": "74⁰",
+   "D": "88⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-46",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 46,
+  "question": "Find the median of the numbers 89, 141, 130, 161, 120, 131, 131, 100, 108 and 119",
+  "options": {
+   "A": "131",
+   "B": "125",
+   "C": "123",
+   "D": "120"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-47",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 47,
+  "question": "Find the probability that a number selected at random from 40 to 50 is a prime",
+  "options": {
+   "A": "3/11",
+   "B": "5/11",
+   "C": "3/10",
+   "D": "4/11"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-48",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 48,
+  "question": "The people in a city with a population of 109 million were grouped according to their ages. Use the diagram below to determine the number of people in the 15-29 years group.",
+  "options": {
+   "A": "29 x 10⁴",
+   "B": "26 x 10⁴",
+   "C": "16 x 10⁴",
+   "D": "13 x 10⁴"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1986_p15_2.png",
+  "images": [
+   "mathematics/1986_p15_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1986-49",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 49,
+  "question": "A man kept 6black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes closed?",
+  "options": {
+   "A": "1/7",
+   "B": "11/18",
+   "C": "7/18",
+   "D": "7/11"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1986-50",
+  "subject": "mathematics",
+  "year": 1986,
+  "number": 50,
+  "question": "The table below gives the scores of a group of students in a Mathematics test If the mode is m and the number of students who scored 4 or less is S. What is (s, m)?",
+  "options": {
+   "A": "(27,4 )",
+   "B": "(14, 4)",
+   "C": "(13, 4)",
+   "D": "(4, 4)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1986_p15_1.png",
+  "images": [
+   "mathematics/1986_p15_1.png"
+  ]
+ }
+]

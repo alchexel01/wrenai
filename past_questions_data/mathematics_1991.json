@@ -1,0 +1,931 @@
+[
+ {
+  "id": "mathematics-1991-1",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 1,
+  "question": "Simplify 3¹/₃ – 1¹/₄ x ²₃/ + 1²₅/",
+  "options": {
+   "A": "2¹⁷/³⁰",
+   "B": "3⁹/¹⁰",
+   "C": "4¹/¹⁰",
+   "D": "4 ¹¹/³⁶"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-2",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 2,
+  "question": "If 2257 is the result of subtracting 4577 from 7056 in base n, find n.",
+  "options": {
+   "A": "8",
+   "B": "9",
+   "C": "10",
+   "D": "11"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-3",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 3,
+  "question": "Find correct to 3 decimal places ( 1  1 0.05 5.005 - (0.05X2.05)",
+  "options": {
+   "A": "99.998",
+   "B": "98.999",
+   "C": "89.899",
+   "D": "9.998"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-4",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 4,
+  "question": "Express 62/3 as a decimal correct to 3 significant figures.",
+  "options": {
+   "A": "20.6",
+   "B": "20.667",
+   "C": "20.67",
+   "D": "20.7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-5",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 5,
+  "question": "Factory P produces 20,000 bags of cement per day while factory Q produces 15,000 bags per day. If P reduces production by 5% and Q increases production by 5% determine the effective loss in the number of bags produced per day by the two factories.",
+  "options": {
+   "A": "250",
+   "B": "750",
+   "C": "1000",
+   "D": "1250"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-6",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 6,
+  "question": "Musa borrows #10.00 at 2% per month interest and repays #8.00 after 4 months. However much does he still owe?",
+  "options": {
+   "A": "#10.80",
+   "B": "#10.67",
+   "C": "#2.80"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-7",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 7,
+  "question": "If 3 gallons of spirit containing 20% water are added to 5gallons of another spirit containing 15% water, what percentage of the mixture is water?",
+  "options": {
+   "A": "2⁴/₅ %",
+   "B": "16⁷/₈ %",
+   "C": "18¹/₈ %",
+   "D": "18⁷/₈ %"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-8",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 8,
+  "question": "What is the product of 27/5 – (3)³ and (1/5)?",
+  "options": {
+   "A": "5",
+   "B": "3",
+   "C": "1",
+   "D": "1/25"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-9",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 9,
+  "question": "Simplify 2log2/5 – log72/125 + log9",
+  "options": {
+   "A": "1 – 4log 3",
+   "B": "–1 + 2log3",
+   "C": "–1 +5log2",
+   "D": "1-2log2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-10",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 10,
+  "question": "Rationalize (23 + 32)/(32 - 23)",
+  "options": {
+   "A": "5 - 2 6",
+   "B": "5 + 2 6",
+   "C": "5 3",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-11",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 11,
+  "question": "Simplify (1/3 + 5) – 1/3 - 5",
+  "options": {
+   "A": "-1/2 5",
+   "B": "1/2 5",
+   "C": "–1/4 5",
+   "D": "0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-12",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 12,
+  "question": "Multiply (x² –3x - + 1)² by (x - a)",
+  "options": {
+   "A": "x³ – (3 - a)x² + (1 + 3a)x –1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-13",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 13,
+  "question": "Evaluate (Xy² - X²y) (x² - xy) when x = -2 and y = 3",
+  "options": {
+   "A": "-3",
+   "B": "–3/5",
+   "C": "3/5",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-14",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 14,
+  "question": "A car travels from Calabar to Enugu, a distant of pkm with an average speed of ukm per hour and continues to Benin, a distance of qkm, with an average speed of wkm per hour. Find its average speed from Calabar to Benin.",
+  "options": {
+   "A": "(p+q)/(up+wq)",
+   "B": "u+w",
+   "C": "uw(p+q)/(wp+uq)",
+   "D": "(wp+uq)/(u+wq)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-15",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 15,
+  "question": "If w varies inversely as uv/u + v and is equal to 8 when u = 2 and v = 6, find a relationship between u, v, w.",
+  "options": {
+   "A": "upw = 16(u + t)",
+   "B": "16ur = 3w(u + t)",
+   "C": "upw = 12(u + t)",
+   "D": "12upw = u + r"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-16",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 16,
+  "question": "If g(x = x² + 3x ) find g(x + 1) – g(x)",
+  "options": {
+   "A": "(x + 2)",
+   "B": "2(x + 2)",
+   "C": "(2x + 1)",
+   "D": "(x + 4)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-17",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 17,
+  "question": "Factorize m³ – m² – m + 2",
+  "options": {
+   "A": "(m² + 1)(m - 2)",
+   "B": "(m + 1)(m + 1)(m + 2)",
+   "C": "(m + 1)(m + 1)(m - 2)",
+   "D": "(m² + 2)(m - 1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-18",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 18,
+  "question": "Factorize 1 – (a - b)²",
+  "options": {
+   "A": "(1 – a - b)(1 – a - b)",
+   "B": "(1 – a + b)(1 + a - b)",
+   "C": "(1 – a + b)(1 – a + b)",
+   "D": "(1 – a - b)(1 + a - b)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-19",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 19,
+  "question": "Which of the following is a factor of rs + tr – pt –ps?",
+  "options": {
+   "A": "(p - s)",
+   "B": "(s - p)",
+   "C": "(r - p)",
+   "D": "(r + p)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-20",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 20,
+  "question": "Find the two values of y which satisfy the simultaneous equation 3x + y = 8 x² + xy = 6",
+  "options": {
+   "A": "-1 and 5",
+   "B": "–5 and 1",
+   "C": "1 and 5",
+   "D": "1 and 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-21",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 21,
+  "question": "Find the range of values of x which satisfy the inequality (x/2 + x/3 + x/4) < 1",
+  "options": {
+   "A": "x < 12/13B. x < 13",
+   "C": "x < 9",
+   "D": "x < 13/12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-22",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 22,
+  "question": "Find the positive number n, such that thrice it s square is equal to twelve times the number.",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-23",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 23,
+  "question": "Solve the equation (x - 2)(x - 3) = 12",
+  "options": {
+   "A": "2,3",
+   "B": "3,6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-24",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 24,
+  "question": "Simplify (1 + x +  x) ( 1 + X -  x)",
+  "options": {
+   "A": "1- 2x - 2x( + x)",
+   "B": "1 +2x +2x(+x)",
+   "C": "x(+x)",
+   "D": "1 + 2x - 2x (1+x)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-25",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 25,
+  "question": "Evaluate x²(x² - 1)¹/² – (x² – 1)¹/²",
+  "options": {
+   "A": "(x² – 1)¹/²",
+   "B": "(x² – 1)",
+   "C": "(x² – 1)-¹",
+   "D": "(x² – 1)-¹/²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-26",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 26,
+  "question": "Find the gradient of the line passing through the points (-2,0) and (0, -4)",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "–2",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-27",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 27,
+  "question": "At what value of x is the function y = x² – 2x – 3 minimum?",
+  "options": {
+   "A": "1",
+   "B": "1",
+   "C": "4",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-28",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 28,
+  "question": "What is the nth term of the progression 27, 9,3, ............. ?",
+  "options": {
+   "A": "27(1/3)ⁿ⁻ ¹",
+   "B": "3ⁿ ⁺ ²",
+   "C": "27 + 18(n - 1)",
+   "D": "27 + 6(n - 1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-29",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 29,
+  "question": "Find the sum of the 20 term in an arithmetic progression whose first term is 7 and last term is 117",
+  "options": {
+   "A": "2480",
+   "B": "1240",
+   "C": "620",
+   "D": "124"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-30",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 30,
+  "question": "P Q T S In the figure above, find the value of x",
+  "options": {
+   "A": "130⁰",
+   "B": "110⁰",
+   "C": "100⁰",
+   "D": "90⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1991_p29_1.png",
+  "images": [
+   "mathematics/1991_p29_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1991-31",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 31,
+  "question": "The angles of a quadrilateral are 5x – 30, 4x + 60, 60 – x and 3x + 61. find the smallest of t hese angles.",
+  "options": {
+   "A": "5x – 30",
+   "B": "4x + 60",
+   "C": "60 – x",
+   "D": "3x + 61."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-32",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 32,
+  "question": "The area of a square is 144sqcm. Find the length of its diagonal",
+  "options": {
+   "A": "113cm",
+   "B": "12cm",
+   "C": "122cm",
+   "D": "13cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-33",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 33,
+  "question": "One angle of a rhombus is 60⁰. the shorter of the two diagonals is 8cm long. Find the length of the longer one",
+  "options": {
+   "A": "83",
+   "B": "16/3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-34",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 34,
+  "question": "If the exterior angles of a pentagon are x⁰, (x + 5)⁰, (x + 10)⁰, (x + 15)⁰ and (x + 20)⁰, find x",
+  "options": {
+   "A": "118⁰",
+   "B": "72⁰",
+   "C": "62⁰",
+   "D": "36⁰ use the figure below to answer questions 35 and 36 PMN and PQR are two secants of the circle MQTRN and PT is a tangent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1991_p29_2.png",
+  "images": [
+   "mathematics/1991_p29_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1991-35",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 35,
+  "question": "If PM = 5cm, PN = 12cm and PQ = 4.8cm, calculate the respective lengths of PR and PT in centimeters.",
+  "options": {
+   "A": "7.3,5.9",
+   "B": "7.7,12.5",
+   "C": "12.5,7.7",
+   "D": "5.9,7.3 36. If PNR = 110⁰ and PMQ = 55⁰, find MPQ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-37",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 37,
+  "question": "In the figure above, find the value of y",
+  "options": {
+   "A": "28⁰",
+   "B": "122⁰",
+   "C": "150⁰",
+   "D": "152⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1991_p29_3.png",
+  "images": [
+   "mathematics/1991_p29_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1991-38",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 38,
+  "question": "P Q R T In the figure above, PQ = PR = PS and SRTY = 68⁰. find QPS.",
+  "options": {
+   "A": "136⁰",
+   "B": "124⁰",
+   "C": "112⁰",
+   "D": "68⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1991_p29_4.png",
+  "images": [
+   "mathematics/1991_p29_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1991-39",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 39,
+  "question": "A flagstaff stands on the top of a vertical tower. A man standing 60m away from the tower observes that the angles of elevation of the top and bottom of the flagstaff are 64⁰ and 62⁰ respectively. Find the length of a flagstaff.",
+  "options": {
+   "A": "60(tan 62⁰ – tan 64⁰)",
+   "B": "60(cot 64⁰ – cot 62⁰)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-40",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 40,
+  "question": "Simplify cos²x (sec²x + sec²x tan²x)",
+  "options": {
+   "A": "Tan x",
+   "B": "Tan x sec x",
+   "C": "Sec² x",
+   "D": "Cosec² x"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-41",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 41,
+  "question": "If cos x = a/b, find cosec x.",
+  "options": {
+   "A": "b",
+   "B": "b  b - a  a",
+   "C": "b",
+   "D": " b - a  b - a a"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-42",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 42,
+  "question": "From a point Z, 60m, north of X, a man walks 60Ö3m eastwards to another point Y. find the bearing of y from",
+  "options": {
+   "A": "030⁰",
+   "B": "045⁰",
+   "C": "060⁰",
+   "D": "090⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-43",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 43,
+  "question": "A surveyor walks 500m up a hill which slopes at an angle of 30⁰. calculate the vertical height through which he rises",
+  "options": {
+   "A": "250m",
+   "B": "500Ö3/3m",
+   "C": "250Ö2m",
+   "D": "250Ö3m P ₄ cₘ Q"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1991_p30_2.png",
+  "images": [
+   "mathematics/1991_p30_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1991-44",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 44,
+  "question": "₆ cₘ ⁸ cm S W ² cm R In the figure above, PQRS is a square of side 8cm. What is the area of UVW?",
+  "options": {
+   "A": "64sq.cm",
+   "B": "54sq.cm",
+   "C": "50sq.cm",
+   "D": "10sq.cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-45",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 45,
+  "question": "Find the total area of the surface of a solid cylinder whose base radius is 4cm and height is 5cm.",
+  "options": {
+   "A": "56pcm²",
+   "B": "72pcm²",
+   "C": "96pcm²",
+   "D": "192pcm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-46",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 46,
+  "question": "Find the volume of the figure above.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/1991_p30_1.png",
+  "images": [
+   "mathematics/1991_p30_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1991-47",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 47,
+  "question": "3% of a family’s income is spent on electricity. 9% on food. 20% on transport, 11% on education and 7% on extended family. The angles subtended at the centre of the pie chart under education and food are respectively",
+  "options": {
+   "A": "76.8⁰ and 25.2⁰",
+   "B": "10.8⁰ and 224.6⁰",
+   "C": "112.4⁰ and 72.0⁰",
+   "D": "39.6⁰ and 212.4⁰ Use the following information to answer question 48 and 49. Fifty boxes each of 50balls were inspected for the number which were defective. The following was the result"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1991_p30_3.png",
+  "images": [
+   "mathematics/1991_p30_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1991-48",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 48,
+  "question": "The mean and the median of the distribution are respectively",
+  "options": {
+   "A": "6.7,6",
+   "B": "6.7,6.5",
+   "C": "6,6.7",
+   "D": "6.5,6.7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-49",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 49,
+  "question": "Find the percentage of boxes containing at least 5 defective bolts each.",
+  "options": {
+   "A": "96",
+   "B": "94",
+   "C": "92",
+   "D": "90"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1991-50",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 50,
+  "question": "A crate of soft drinks contains 10bottles of Coca-cola, 8 of Fanta and 6 of Sprite. If one bottle s selected at random, what is the probability that it is NOT a Coca cola bottle?",
+  "options": {
+   "A": "5/12",
+   "B": "1/3",
+   "C": "¾",
+   "D": "7/1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

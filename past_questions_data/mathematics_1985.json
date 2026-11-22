@@ -1,0 +1,720 @@
+[
+ {
+  "id": "mathematics-1985-1",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 1,
+  "question": "Arrange the following numbers in ascending order of magnitude 6/7,13/15,0.865",
+  "options": {
+   "A": "6/7 < 0.865 < 13/15",
+   "B": "6/7 < 13/15 < 0.865",
+   "C": "13/15 < 6/7 < 0.865",
+   "D": "13/15 < 0.865 < 6/7",
+   "E": "0.865 < 6/7 < 13/15"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-2",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 2,
+  "question": "A sum of money was invested at 8% per annum simple interest. If after 4years the money amounts to #330.00, find the amount originally invested.",
+  "options": {
+   "A": "#180.00",
+   "B": "#165.00",
+   "C": "#150.00",
+   "D": "#200.00",
+   "E": "#250.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-3",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 3,
+  "question": "In the equation below, solve for x if all the numbers are in base 2? 11/x = 1000/(x + 101)",
+  "options": {
+   "A": "101",
+   "B": "11",
+   "C": "110",
+   "D": "111",
+   "E": "10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-4",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 4,
+  "question": "List all integers satisfying the inequality -2 < 2x – 6 < 4",
+  "options": {
+   "A": "2,3,4,5",
+   "B": "2,3,4",
+   "C": "2,5",
+   "D": "3,4,5",
+   "E": "4,5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-5",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 5,
+  "question": "Find correct to tow decimal places 100 + 1/100 + 3/1000 + 27/10000",
+  "options": {
+   "A": "100.02",
+   "B": "1000.02",
+   "C": "100.22",
+   "D": "100.01",
+   "E": "100.51"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-6",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 6,
+  "question": "Simplify 1/2 + 1 2 + ------------- 2 - -------------- 4 +1/5",
+  "options": {
+   "A": "¾",
+   "B": "–1/3",
+   "C": "169/190",
+   "D": "13/15",
+   "E": "1²¹/"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-8",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 8,
+  "question": "Without using tables, evaluate Log₂4 + Log₄2 – Log₂₅5",
+  "options": {
+   "A": "½",
+   "B": "1/5",
+   "C": "0",
+   "D": "5",
+   "E": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-9",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 9,
+  "question": "John gives one third of his money to Janet who has #105.00. He then finds that his money is reduced to one-fourth of what Janet now has. Find how much money John had at first.",
+  "options": {
+   "A": "#45.00",
+   "B": "#48.00",
+   "C": "#52.00",
+   "D": "#58.00",
+   "E": "#60.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-10",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 10,
+  "question": "Find x if Log₉x = 1.5",
+  "options": {
+   "A": "72.0",
+   "B": "27.0",
+   "C": "36.0",
+   "D": "3.5",
+   "E": "24.5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-11",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 11,
+  "question": "Write h in terms of a =b(1 - ch) (1-dh) A h = (a - b) B. h = (a + b ) (ad- bc) (ad - bc)",
+  "options": {
+   "C": "h = (ad - bc)",
+   "D": "h = (1 - b) ( a - b ) (d - bc)",
+   "E": "h = (b - a) (ad - bc)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-12",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 12,
+  "question": "22¹/₂ % of the Nigerian Naira is equal to 17¹/₁ ₀% of a foreign currency M. what is the conversion rate of the M to the Naira?",
+  "options": {
+   "A": "1M = ¹⁵/₅ ₇ N",
+   "B": "1M = 2¹¹₅/₇ N",
+   "C": "1M = 1¹⁸/₅ ₇ N",
+   "D": "1M = 38¹/₄ N",
+   "E": "1M = 384³/₄ N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-13",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 13,
+  "question": "Find the values of p for which the equation x² – (p - 2)x",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-14",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 14,
+  "question": "If ex = 1 + x + x²/12 + x³/1.2.3 + ….. find 1/e¹/²",
+  "options": {
+   "A": "1 - x + x² - x² +...",
+   "B": "1 + x + x² + x² 2 12³ 2⁴ 3 2 1.2² 2³.3",
+   "C": "1 + x + x² - x² +...",
+   "D": "1 - x + x² - x² + 2 1.2³ 2⁴. 3 2 1.2² 2³.3",
+   "E": "1+ x ³ + x³ - x⁴ + 1.2 12.4 12.63 5. (43 + 42) (43 - 42) (3 + 2) is equal to"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-16",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 16,
+  "question": "In a restaurant, the cost of providing a particular type of food is partly constant and partly inversely proportional to the number of people. If the cost per head for 100people is 30k and the cost for 40 people is 60k, find the cost for 50 people",
+  "options": {
+   "A": "15k",
+   "B": "45k",
+   "C": "20k",
+   "D": "50k",
+   "E": "40k"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-17",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 17,
+  "question": "The factors of 9 – (x² – 3x - 1)² are",
+  "options": {
+   "A": "-(x - 4)(x + 1)(x - 1)(x - 2)",
+   "B": "(x - 4)(x - 1)(x - 1)(x + 2)",
+   "C": "-(x - 2)(x + 1)(x + 2)(x + 4)",
+   "D": "(x - 4)(x -3)(x - 2)(x + 1)",
+   "E": "(x - 2)(x + 2)(x - 1)(x + 1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-18",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 18,
+  "question": "If 3²y – 6(3y) = 27 find y",
+  "options": {
+   "A": "3",
+   "B": "–1",
+   "C": "2",
+   "D": "–3",
+   "E": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-19",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 19,
+  "question": "Factorize abx² + 8y – 4bx –2axy",
+  "options": {
+   "A": "(ax - 4) (bx – 2y)",
+   "B": "(ax + b) (x – 8y)",
+   "C": "(ax – 2y) (by – 4)",
+   "D": "(abx - 4) (x – 2y)",
+   "E": "(bx - 4) (ax – 2y)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-20",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 20,
+  "question": "At what real value of x do the curves whose equations are y = x³ + x and y = x² + 1 intersect?",
+  "options": {
+   "A": "-2",
+   "B": "2",
+   "C": "–1",
+   "D": "0",
+   "E": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-21",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 21,
+  "question": "If the quadrilateral function 3x² – 7x + R is a perfect square find R",
+  "options": {
+   "A": "49/24",
+   "B": "49/3",
+   "C": "49/6",
+   "D": "49/12",
+   "E": "49/36"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-22",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 22,
+  "question": "Solve the following equation 2/(2r – 1) – 5/3 = 1/ (r + 2)",
+  "options": {
+   "A": "(-1, 5/2)",
+   "B": "(-1, -5/2)",
+   "C": "(5/2, 1)",
+   "D": "(2, 1)",
+   "E": "(1, 2)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-23",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 23,
+  "question": "Solve for (x,y) in the equations 2x + y = 4: x² + xy = -12",
+  "options": {
+   "A": "(6, -8); (-2,8)",
+   "B": "(3, -4); (-1, 4)",
+   "C": "(8, -4); (-1, 4)",
+   "D": "(-8, 6);(8, -2)",
+   "E": "(-4, 3);(4, -1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-24",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 24,
+  "question": "Solve the simultaneous equations 2x – 3y + 10 = 10x – 6y = 5",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-25",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 25,
+  "question": "If f(x - 2) = 4x² + x + 7 find f(1)",
+  "options": {
+   "A": "12",
+   "B": "27",
+   "C": "7",
+   "D": "46",
+   "E": "17"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-26",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 26,
+  "question": "In DXYZ, XY = 13cm, YZ = 9cm, XZ = 11cm and XYZ = q⁰. find cos q⁰",
+  "options": {
+   "A": "4/39",
+   "B": "43/39",
+   "C": "209/286",
+   "D": "1/6",
+   "E": "43/78"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-27",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 27,
+  "question": "Find the missing value in the table below",
+  "options": {
+   "A": "-32",
+   "B": "–14",
+   "C": "40",
+   "D": "22",
+   "E": "37"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1985_p10_1.png",
+  "images": [
+   "mathematics/1985_p10_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1985-28",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 28,
+  "question": "Find the number of goals scored by a football team in 20matches is shown below No . of goals 0 1 2 3 4 5 No . of matches 3 5 7 4 1 0 What are the values of the mean and the mode respectively?",
+  "options": {
+   "A": "(1.75, 5)",
+   "B": "(1.75, 2)",
+   "C": "(1.75, 1)",
+   "D": "(2,2)",
+   "E": "(2,1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-29",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 29,
+  "question": "If the hypotenuse of a right angle isosceles triangle is 2, what is the length of each of the other sides?",
+  "options": {
+   "A": "2",
+   "B": "1/2",
+   "C": "22",
+   "D": "1",
+   "E": "2 -1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-30",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 30,
+  "question": "If two fair coins are tossed, what is the probability of getting at least one head?",
+  "options": {
+   "A": "¼",
+   "B": "½",
+   "C": "1",
+   "D": "2/3",
+   "E": "¾"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-31",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 31,
+  "question": "The ratio of the length of two similar rectangular blocks is 2:3, if the volume of the larger block is 351cm³, then the volume of the other block is",
+  "options": {
+   "A": "234.00cm³",
+   "B": "526.50cm³",
+   "C": "166.00cm³",
+   "D": "729.75cm³",
+   "E": "104.00cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-32",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 32,
+  "question": "The bearing of bird on a tree from a hunter on the ground is N72⁰E. what is the bearing of the hunter from the bird?",
+  "options": {
+   "A": "S18⁰W",
+   "B": "S72⁰W",
+   "C": "S72⁰Eq",
+   "D": "S27⁰E",
+   "E": "S27⁰W"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-33",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 33,
+  "question": "X 39. Y Z K 40. In D XYZ above, XKZ = 90⁰, XK = 15cm, XZ cm and YK = 8cm. Find the area of the D XYZ.",
+  "options": {
+   "A": "180sq.cm",
+   "B": "210sq.cm",
+   "C": "160sq.cm",
+   "D": "320sq.cm",
+   "E": "390sq.cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1985_p11_2.png",
+  "images": [
+   "mathematics/1985_p11_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1985-34",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 34,
+  "question": "Without using tables. Calculate the value of 1 + sec²30?",
+  "options": {
+   "A": "2¹/₃",
+   "B": "2",
+   "C": "1¹/₃",
+   "D": "¾",
+   "E": "3/7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-35",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 35,
+  "question": "What is the probability that a number chosen at random from the integers between 1 and 10 inclusive is either a prime or a multiple of 3?",
+  "options": {
+   "A": "7/10",
+   "B": "3/5",
+   "C": "4/5",
+   "D": "½",
+   "E": "3/10 41."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-36",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 36,
+  "question": "Find the area of a regular hexagon inscribed in a circle of radius 8cm.",
+  "options": {
+   "A": "163cm²",
+   "B": "963cm²",
+   "C": "192.3cm²",
+   "D": "16cm²",
+   "E": "32cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-37",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 37,
+  "question": "42. 43. In the figure above, MNOP is a cyclic quadrilateral, MN and PQ are produced to meet at X and NQ and MP are produced to meet at Y. if MNQ = 86⁰ and NQP = 122⁰, ₀, ₀ find (x y )",
+  "options": {
+   "A": "(28⁰,,36⁰)",
+   "B": "(36⁰ ,28⁰) ₀, ₀ ₀ ₀",
+   "C": "(43 ,61 )",
+   "D": "(61 ,43 ) ₀ ₀",
+   "E": "(36 ,43 )"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1985_p11_1.png",
+  "images": [
+   "mathematics/1985_p11_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1985-38",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 38,
+  "question": "If cosq = 3/2 and 0 is less than 90 , calculate cot (90 - q) / sin²q",
+  "options": {
+   "A": "43/3",
+   "B": "43",
+   "C": "3/2",
+   "D": "1/3",
+   "E": "2/3 A solid sphere of radius 4cm has mass of 64kg. What will be the mass of a shell of the same metal whose internal and external radii are 2cm and 3cm respectively?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1985_p11_4.png",
+  "images": [
+   "mathematics/1985_p11_4.png",
+   "mathematics/1985_p11_5.png",
+   "mathematics/1985_p11_3.png",
+   "mathematics/1985_p12_1.png",
+   "mathematics/1985_p12_2.png"
+  ]
+ }
+]

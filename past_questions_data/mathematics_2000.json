@@ -1,0 +1,925 @@
+[
+ {
+  "id": "mathematics-2000-1",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 1,
+  "question": "Let P = {1,2,u,v,w,x} R = {2,3,u,v,w,5,6,y} and R = (2,3,4,v,x,y) Determine (P - Q)  R.",
+  "options": {
+   "A": "{1, x}",
+   "B": "{x, y}",
+   "C": "{x}",
+   "D": ""
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-2",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 2,
+  "question": "If the population of a town was 240000 in January 1998 and it increased by 2% each year, what would be the population of the town in January 2000?",
+  "options": {
+   "A": "480 000",
+   "B": "249 696",
+   "C": "249 600",
+   "D": "244 800"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-4",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 4,
+  "question": "In a youth club with 94 members, 60 like modern music and 50 like like traditional music. The number of members who like both traditional and modern music is three times who do not like any type of music. How many members like only one type of music?",
+  "options": {
+   "A": "8",
+   "B": "24",
+   "C": "62",
+   "D": "86"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-5",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 5,
+  "question": "Evaluate (2.813 x 10⁻³) x 1.063 5.637 x 10⁻² reducing each number to two significant figures and",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-6",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 6,
+  "question": "A man wishes to keep some money in a savings deposit at 25% compound interest so that after 3 years he can buy a car for #150,000. how much does he need to deposit now?",
+  "options": {
+   "A": "#112,000.50.",
+   "B": "#96,000.00",
+   "C": "#85,714.28",
+   "D": "#76,800.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-7",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 7,
+  "question": "If 314₁₀ – 256₇ = 340ₓ, find x",
+  "options": {
+   "A": "2ⁿ ⁺ ¹",
+   "B": "2ⁿ ⁻ ¹",
+   "C": "4",
+   "D": "¼"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-8",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 8,
+  "question": "Audu bought an article for #50 000 and sold it to Femi at a loss of x%. Femi later sold the article to Oche at a profit of 40%. If Femi made a profit of #10,000, find the value of x.",
+  "options": {
+   "A": "60",
+   "B": "50",
+   "C": "40",
+   "D": "20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-9",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 9,
+  "question": "Simplify 3(²ⁿ ⁺ ¹) – 4(²ⁿ ⁻¹ )/2(ⁿ ⁺ ¹⁾ – 2ⁿ",
+  "options": {
+   "A": "2ⁿ ⁺ ¹",
+   "B": "2ⁿ ⁻ ¹",
+   "C": "4",
+   "D": "¼"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-10",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 10,
+  "question": "If P344₆ – 23P2₆ = 2PP2₆, find the value of digit P.",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "4",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-11",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 11,
+  "question": "Evaluate 5⁻³log⁵² x 2²log²³",
+  "options": {
+   "A": "8",
+   "B": "1¹/₈",
+   "C": "2/5",
+   "D": "1/8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-12",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 12,
+  "question": "A binary operation * is defined by a * b = ab. if a * 2 = 2 –a, find the possible values of a.",
+  "options": {
+   "A": "1, -1",
+   "B": "1, 2",
+   "C": "2, -2",
+   "D": "1, -2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-13",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 13,
+  "question": "The 3rd term of an A. P. is 4x – 2y and the 9th term is 10x - 8y . find the common difference.",
+  "options": {
+   "A": "19x - 17y",
+   "B": "8x - 4y",
+   "C": "x – y",
+   "D": "2x"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-14",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 14,
+  "question": "Find the inverse of p under the binary operation * by p * q= p + q – pq, where p and q are real numbers and zero is the identity.",
+  "options": {
+   "A": "p",
+   "B": "p – 1",
+   "C": "p/p – 1",
+   "D": "p/p+1 (a, b)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-15",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 15,
+  "question": "A matrix P(a, b) is such that PT= p, where (c, d) PT is the transpose of P, if b = 1, then P is",
+  "options": {
+   "A": "(0, 1)",
+   "B": "(0, 1) (1, 0) (-1, 0)",
+   "C": "(0, 1)",
+   "D": "(1, 1) (1, 1) (-1,0)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-16",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 16,
+  "question": "Evaluate (1/2 – ¼ + 1/8 – 1/16 + …….) -1",
+  "options": {
+   "A": "2/3",
+   "B": "0",
+   "C": "–2/3",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-17",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 17,
+  "question": "The solution of the simultaneous inequalities 2x – 2 A B.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/2000_p52_1.png",
+  "images": [
+   "mathematics/2000_p52_1.png",
+   "mathematics/2000_p52_2.png",
+   "mathematics/2000_p52_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-2000-18",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 18,
+  "question": "Find the values of t for which the determinant of the matrix (t -4 0 0 ) (-1 t+t 1 ) is zero ( 3 4 t-2)",
+  "options": {
+   "A": "0, 2, 3",
+   "B": "–4, 2, 3",
+   "C": "–4, -2, -3",
+   "D": "4, -2, 3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-19",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 19,
+  "question": "If (x - 1), (x + 1) and (x - 2) are factors of the polynomial ax³ + bx² + cx – 1, find a, b, c, respectively",
+  "options": {
+   "A": "-1/2, 1, ½",
+   "B": "½, 1, ½",
+   "C": "½, 1, -1/2",
+   "D": "½, -1, ½"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-20",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 20,
+  "question": "A trader realizes 10x –x²naira profit from the sale of x bags of corn. How many bags will give him the maximum profit?",
+  "options": {
+   "A": "4",
+   "B": "5",
+   "C": "6",
+   "D": "7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-21",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 21,
+  "question": "Solve the inequality 2 – x > x²",
+  "options": {
+   "A": "x < -2 or x > 1",
+   "B": "x > 2 or x < -1",
+   "C": "–1 < x> 2",
+   "D": "–2 < x < 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-22",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 22,
+  "question": "If a and b are the roots of the equation 3x² + 5x – 2 = 0, find the value of 1/ + 1/",
+  "options": {
+   "A": "-5/2",
+   "B": "–2/3",
+   "C": "½",
+   "D": "5/2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-23",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 23,
+  "question": "Find the minimum value of the function f( ) = 2/3 – cos for     2.",
+  "options": {
+   "A": "½",
+   "B": "2/3",
+   "C": "1",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-24",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 24,
+  "question": "A frustum of a pyramid with square base has its upper and lower sections as squares of sizes 2m and 5m respectively and the distance between them 6m. find the height of the pyramid from which the frustum was obtained.",
+  "options": {
+   "A": "8.0m",
+   "B": "8.4m",
+   "C": "9.0m",
+   "D": "10.0m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-25",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 25,
+  "question": "P is a point on one side of the straight line UV and P moves in the same direction as UV. If the straight line ST is on the locus of P and  VUS = 50⁰, find  UST.",
+  "options": {
+   "A": "310⁰",
+   "B": "130⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-26",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 26,
+  "question": "A ship sails a distance of 50km in the direction S50E and then sails a distance of 50km in the direction N40⁰E. find the bearing of the ship from its original position.",
+  "options": {
+   "A": "S90⁰E",
+   "B": "N40⁰E",
+   "C": "S95⁰E",
+   "D": "N85⁰E"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-27",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 27,
+  "question": "An equilateral triangle of side 3 cm is inscribed in a circle. Find the radius of the circle.",
+  "options": {
+   "A": "2/3cm",
+   "B": "2cm",
+   "C": "1cm",
+   "D": "3cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-28",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 28,
+  "question": "3y = 4x – 1 and Ky = x + 3 are equations of two straight lines. If the two lines are perpendicular to each other, find K",
+  "options": {
+   "A": "-4/3",
+   "B": "–3/4",
+   "C": "¾ 4/3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2000_p53_1.png",
+  "images": [
+   "mathematics/2000_p53_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-2000-29",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 29,
+  "question": "P R In the diagram above, if  RPS = 50⁰,  RPQ = 30⁰ and PQ = QR, find the value of  PRS",
+  "options": {
+   "A": "80⁰",
+   "B": "70⁰ ₀ F ₀",
+   "C": "60 . 50"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2000_p53_2.png",
+  "images": [
+   "mathematics/2000_p53_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-2000-30",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 30,
+  "question": "E G In the diagram above, EFGH is a circle center O. FH is a diameter and GE is a chord which meets FH at right angle at the point N. if NH = 8 cm and EG = 24 cm, calculate FH.",
+  "options": {
+   "A": "16cm",
+   "B": "20cm",
+   "C": "26cm",
+   "D": "32cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-31",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 31,
+  "question": "If P and Q are fixed points and X is a point which moves so that XP = XQ, the locus of X is",
+  "options": {
+   "A": "a straight line",
+   "B": "a circle",
+   "C": "the bisector  PXQ",
+   "D": "theperpendicular bisector of PQ"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-32",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 32,
+  "question": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon.",
+  "options": {
+   "A": "87",
+   "B": "6",
+   "C": "4",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-33",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 33,
+  "question": "A predator moves in a circle of radius 2 centre (0, 0), while a prey moves along the line y = x. if 0 x 2, at which point(s) will they meet?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-34",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 34,
+  "question": "y If the diagram above is the graph of y=x², the shaded area is",
+  "options": {
+   "A": "64 square units",
+   "B": "128/3 square units",
+   "C": "64/3 square units",
+   "D": "32 square units"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2000_p53_3.png",
+  "images": [
+   "mathematics/2000_p53_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-2000-35",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 35,
+  "question": "Find the value of (cos² – 1/sin²) d",
+  "options": {
+   "A": "",
+   "B": "/ ₀",
+   "C": "-/ ₀",
+   "D": ""
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-36",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 36,
+  "question": "If y = 2y cos 2x – sin 2x, find dy/dx when x = ë/4",
+  "options": {
+   "A": "",
+   "B": "– ",
+   "C": "/2",
+   "D": "– /2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-37",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 37,
+  "question": "A bowl is designed by revolving completely the area enclosed by y = x² – 1, y= 0, y = 3 and x ³ 0 around the y-axis. What is the volume of this bowl?",
+  "options": {
+   "A": "7  cubic units.",
+   "B": "15 /2 cubic units",
+   "C": "8  cubic units",
+   "D": "17 /2 cubic units."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-38",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 38,
+  "question": "If the volume of a hemisphere is increasing at a steady rate of 8 m³s⁻¹, at what rate is its radius changing when it is 6m?",
+  "options": {
+   "A": "2.50ms-1",
+   "B": "2.00ms-1",
+   "C": "0.25ms-1",
+   "D": "0.20ms-1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-39",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 39,
+  "question": "A function f(x) passes through the origin and its first derivative is 3x + 2. what is f(x)",
+  "options": {
+   "A": "y = 3/2x² + 2x",
+   "B": "y = 3/2 x² + x",
+   "C": "y = 3 x² + x/2",
+   "D": "y = 3 x² ⁺ ²x"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-40",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 40,
+  "question": "The expression ax² + bx + c equals 5 at x = 1. if its derivative is 2x + 1, what are the values of a, b, c, respectively?",
+  "options": {
+   "A": "1, 3, 1",
+   "B": "1, 2, 1",
+   "C": "2, 1, 1",
+   "D": "1, 1, 3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-41",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 41,
+  "question": "X and Y are two events. The probability of X and Y is 0.7 and the probability of X is 0.4. If X and Y are independent, find the probability of Y.",
+  "options": {
+   "A": "0.30",
+   "B": "0.50",
+   "C": "0.57",
+   "D": "1.80"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-42",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 42,
+  "question": "If the mean of the numbers 0, x + 2, 3x + 6 and 4x + 8 is 4, find their mean deviation.",
+  "options": {
+   "A": "0",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-43",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 43,
+  "question": "In how many ways can the word MATHEMATICS be arranged?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/2000_p54_1.png",
+  "images": [
+   "mathematics/2000_p54_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-2000-44",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 44,
+  "question": "A dice is rolled 240 times and the result depicted in the table above. If a pie chart is constructed to represent the data, the angle corresponding to 4 is",
+  "options": {
+   "A": "10⁰",
+   "B": "16⁰",
+   "C": "40⁰",
+   "D": "60⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-45",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 45,
+  "question": "If U = {x : x is an integer and {1  x  20} E₁ = {x : x is a multiple of 3} E₂ = {x : x is a multiple of 4} And an integer is picked at random from U, find the probability that it is not in E₂",
+  "options": {
+   "A": "¾",
+   "B": "3/10",
+   "C": "¼",
+   "D": "1/20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-46",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 46,
+  "question": "The cumulative frequency curve above represents the ages of students in a school. Which are group do 70% of the students belong?",
+  "options": {
+   "A": "15.5 – 18.5",
+   "B": "15.5 – 19.5",
+   "C": "16.5 – 19.5",
+   "D": "17.5 – 20.5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2000_p54_2.png",
+  "images": [
+   "mathematics/2000_p54_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-2000-47",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 47,
+  "question": "The variance of x, 2x, 3x 4x and 5x is",
+  "options": {
+   "A": "x2",
+   "B": "2x²",
+   "C": "x²",
+   "D": "3x"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-48",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 48,
+  "question": "Find the sum of the range and the mode of the set of numbers 10, 5, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5",
+  "options": {
+   "A": "16",
+   "B": "14",
+   "C": "12",
+   "D": "10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-49",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 49,
+  "question": "In how many ways can a delegation of 3 be chosen from among 5 men and 3 women, if at least one man at least one woman must be included?",
+  "options": {
+   "A": "15",
+   "B": "28",
+   "C": "30",
+   "D": "45"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2000-50",
+  "subject": "mathematics",
+  "year": 2000,
+  "number": 50,
+  "question": "The table above shows the frequency distribution of the ages (in years) of pupils in a certain secondary school. What percentage of the total number of pupils is over 15 years but less than 21 years?",
+  "options": {
+   "A": "35%",
+   "B": "45%",
+   "C": "50%",
+   "D": "60%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2000_p54_3.png",
+  "images": [
+   "mathematics/2000_p54_3.png"
+  ]
+ }
+]

@@ -1,0 +1,915 @@
+[
+ {
+  "id": "mathematics-1990-1",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 1,
+  "question": "Simplify (4 - 6 ) ₁/₅ ₁/₄ (4 of 1 )",
+  "options": {
+   "A": "-7⁷/₈",
+   "B": "–2/7",
+   "C": "–10/21",
+   "D": "10/21"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-2",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 2,
+  "question": "The H.C.F. of a²bx + abx² and a²b – b³ is",
+  "options": {
+   "A": "b",
+   "B": "a + b",
+   "C": "a(a + b)",
+   "D": "abx (a² – b²)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-3",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 3,
+  "question": "Correct 241.34 (3 x 10⁻³)² to 4 significant figures",
+  "options": {
+   "A": "0.0014",
+   "B": "0.001448",
+   "C": "0.0022",
+   "D": "0.002172"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-4",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 4,
+  "question": "At what rate would a sum of #100.00 deposited for 5 years raise an interest of #7.50?",
+  "options": {
+   "A": "1¹/₂ %",
+   "B": "2¹/₂ %",
+   "C": "15%",
+   "D": "25%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-5",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 5,
+  "question": "Three children shared a basket of mangoes in such a way that the first child took ¼ of the mangoes and the second ¾ of the remainder. What fraction of the mangoes did the third child take?",
+  "options": {
+   "A": "3/16",
+   "B": "7/16",
+   "C": "9/16",
+   "D": "13/16"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-6",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 6,
+  "question": "Simplify and express in standard form (0.00275 x 0.00640/( 0.025 x 0.08)",
+  "options": {
+   "A": "8.8 x 10⁻¹",
+   "B": "8.8 x 10²",
+   "C": "8.8 x 10⁻³",
+   "D": "8.8 x 10³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-7",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 7,
+  "question": "Three brothers in a business deal share the profit at the end of contract. The first received 1/3 of the profit and the second 2/3 of the remainder. If the third received the remaining #12.000.00, how much profit did they share?",
+  "options": {
+   "A": "#60,000.00",
+   "B": "#54,000.00",
+   "C": "#48,000.00",
+   "D": "#42,000.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-8",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 8,
+  "question": "Simplify  160r²+  (71r⁴ + 100r³",
+  "options": {
+   "A": "9r²",
+   "B": "12 3r",
+   "C": "13r",
+   "D": "13r"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-9",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 9,
+  "question": "Simplify 27 + 3/3",
+  "options": {
+   "A": "43",
+   "B": "4/3",
+   "C": "33",
+   "D": "3/4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-10",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 10,
+  "question": "Simplify 3Log₆9 + Log₆12 + Log₆64 – Log₆72",
+  "options": {
+   "A": "5",
+   "B": "7776",
+   "C": "Log ₆3 1",
+   "D": "(7776)⁶"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-11",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 11,
+  "question": "Simplify (1 + 1 ) ⁻¹ x-1 y⁻¹",
+  "options": {
+   "A": "x/y",
+   "B": "xy ₋₁"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-12",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 12,
+  "question": "If a = 2, b = -2 and c = -1/2, evaluate (ab² – bc²) (a²c - abc)",
+  "options": {
+   "A": "0",
+   "B": "28",
+   "C": "–30",
+   "D": "34"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-13",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 13,
+  "question": "Y varies inversely as x² and X varies directly as Z². find the relationship between Y and Z, if C is a constant.",
+  "options": {
+   "A": "Z²y = C",
+   "B": "Y = CZ²",
+   "C": "Y = CZ²",
+   "D": "Y= C"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-14",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 14,
+  "question": "Find the value of r in terms of p and q in the following equation P/2 = (r/(r+q)",
+  "options": {
+   "A": "r = q",
+   "B": "pq² 2 - p² 2 - q²",
+   "C": "r = p²q²",
+   "D": "p 2 - pq q(2-p)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-15",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 15,
+  "question": "If f(x - 4) = x² + 2x + 3, find f(2)",
+  "options": {
+   "A": "6",
+   "B": "11",
+   "C": "27",
+   "D": "51"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-16",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 16,
+  "question": "Factorize 9(x + y)² – 4(x - y)²",
+  "options": {
+   "A": "(x+ y) (5x+ y)",
+   "B": "(x+ y)²",
+   "C": "(x+ 5y) (5x+ y)",
+   "D": "5(x+ y)²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-17",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 17,
+  "question": "If a² + b² = 16 and 2ab = 7 find all the possible values of (a – b )",
+  "options": {
+   "A": "3, -3",
+   "B": "2, -2",
+   "C": "1, -1",
+   "D": "3, -1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-18",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 18,
+  "question": "Divide x³ – 2x² – 5x + 6 by (x - 1)",
+  "options": {
+   "A": "x² – x –6",
+   "B": "x² – 5x + 6",
+   "C": "x² – 7x + 6",
+   "D": "x² – 5x - 6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-19",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 19,
+  "question": "If x + = 4, find the x² + 1/x",
+  "options": {
+   "A": "16",
+   "B": "14",
+   "C": "12",
+   "D": "9"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-20",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 20,
+  "question": "What must be added to 4x² – 4 to make it a perfect square?",
+  "options": {
+   "A": "-1/x²",
+   "B": "1/x²",
+   "C": "1",
+   "D": "-1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-21",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 21,
+  "question": "Find the solution of the equation x – 8 x + 15 = 0",
+  "options": {
+   "A": "3, 5",
+   "B": "–3, -5",
+   "C": "9, 25",
+   "D": "–9, 25"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-22",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 22,
+  "question": "The lengths of the sides of a right-angled triangle are xcm. (3x-1)cm and (3x + 1)cm. Find x",
+  "options": {
+   "A": "5",
+   "B": "7",
+   "C": "8",
+   "D": "12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-23",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 23,
+  "question": "The perimeter of a rectangular lawn is 24m, if the area of the lawn is 35m², how wide is the lawn?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-25",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 25,
+  "question": "Simplify x + y - x2 (x+y) (x-y) (x² - y²)",
+  "options": {
+   "A": "x²",
+   "B": "y² x² - y² x² - y²",
+   "C": "x",
+   "D": "y x² - y² x² - y²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-26",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 26,
+  "question": "Given that x² + y² + z² = 194, calculate z if x = 7 and y = 3",
+  "options": {
+   "A": "10",
+   "B": "8",
+   "C": "12.2",
+   "D": "13.4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-27",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 27,
+  "question": "Find the sum of the first twenty terms of the arithmetic progression Log a, Log a², Log a³ ₂₀ ₂₁",
+  "options": {
+   "A": "log a",
+   "B": "log a",
+   "C": "log a²⁰⁰",
+   "D": "log a²¹⁰ 24. A carpainter charges #40.00 per day for himself and #10.00 per day for his assistant. If a fleet of a cars were painted for #2,000.00 and the painter worked 10 days more than his assistant, how much did the assistant receive?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-28",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 28,
+  "question": "Find the sum of the first 18 terms of the progression 3, 6, 12 ………..",
+  "options": {
+   "A": "3(2¹⁷ - 1)",
+   "B": "3(2¹⁸ ) - 1 )",
+   "C": "3(2¹⁸ + 1)",
+   "D": "3(2¹⁸ - 1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-29",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 29,
+  "question": "What is the equation of the quadratic function represented by the graph above?",
+  "options": {
+   "A": "y = x² + x - 2",
+   "B": "y = x² – x –2",
+   "C": "y = -x² – x + 2",
+   "D": "y = -x + x + 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1990_p26_2.png",
+  "images": [
+   "mathematics/1990_p26_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1990-30",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 30,
+  "question": "At what value of x is the function x² + x + 1 minimum?",
+  "options": {
+   "A": "-1",
+   "B": "–1/2",
+   "C": "½",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-31",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 31,
+  "question": "P S In the diagram above, the area of PQRS is 73.5cm² and its height is 10.5cm. find the length of PS if QR is one-",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/1990_p26_1.png",
+  "images": [
+   "mathematics/1990_p26_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1990-32",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 32,
+  "question": "The angle of a sector of a circle, radius 10.5cm, is 48⁰. calculate the perimeter of the sector",
+  "options": {
+   "A": "8.8cm",
+   "B": "25.4cm",
+   "C": "25.6cm",
+   "D": "29.8cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1990_p26_3.png",
+  "images": [
+   "mathematics/1990_p26_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1990-33",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 33,
+  "question": "In the figure above PS = QS and QSR = 100⁰, find QPR",
+  "options": {
+   "A": "40⁰",
+   "B": "50⁰",
+   "C": "80⁰",
+   "D": "100⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-34",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 34,
+  "question": "In triangle XYZ and XQP, XP= 4cm, XQ= 5cm and PQ = QY = 3ccm. Find ZY",
+  "options": {
+   "A": "8cm",
+   "B": "6ccm",
+   "C": "4cm",
+   "D": "3cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1990_p26_5.png",
+  "images": [
+   "mathematics/1990_p26_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1990-35",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 35,
+  "question": "Find the length of a side of a rhombus whose diagonals are 6cm and 8cm.",
+  "options": {
+   "A": "8cm",
+   "B": "5cm",
+   "C": "4cm",
+   "D": "3cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-36",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 36,
+  "question": "Each of the interior angles of a regular polygon is 140⁰. how many sides has the polygon?",
+  "options": {
+   "A": "9",
+   "B": "8",
+   "C": "7",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-37",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 37,
+  "question": "S P T In the figure above, PQRS is a circle. If PQT and SRT",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/1990_p26_4.png",
+  "images": [
+   "mathematics/1990_p26_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1990-38",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 38,
+  "question": "In a regular pentagon, PQRST, PR intersects QS at O. calculate RQS.",
+  "options": {
+   "A": "36⁰",
+   "B": "72⁰",
+   "C": "108⁰",
+   "D": "144⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-39",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 39,
+  "question": "If cos q = 12/13, find 1 + cot² q",
+  "options": {
+   "A": "169/25",
+   "B": "25/169",
+   "C": "169/144",
+   "D": "144/169"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-40",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 40,
+  "question": "8 c Y Z In the figure above, YXZ = 300, XYZ = 105⁰ and XY = 8cm. Calculate YZ.",
+  "options": {
+   "A": "162cm",
+   "B": "82cm",
+   "C": "42cm",
+   "D": "22cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1990_p27_1.png",
+  "images": [
+   "mathematics/1990_p27_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1990-41",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 41,
+  "question": "In the figure above PQR is a semicircle. Calculate the area of the sh₂aded region.",
+  "options": {
+   "A": "125/ ₇c m²",
+   "B": "149²/₇ cm²",
+   "C": "243¹/₇ cm²",
+   "D": "267¹/₂ cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1990_p27_2.png",
+  "images": [
+   "mathematics/1990_p27_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1990-42",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 42,
+  "question": "A cylindrical pipe, made of metal is 3cm, thick if the internal radius of the pipe is 10cm. Find the volume of metal used in making 3m of the pipe",
+  "options": {
+   "A": "153cm³",
+   "B": "207cm³",
+   "C": "15,300cm³",
+   "D": "20,700cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-43",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 43,
+  "question": "If the height of two circular cylinders are in the ratio 2:3 and their base radii are in the ratio 9. what is the ratio of their volume",
+  "options": {
+   "A": "27:32",
+   "B": "27:23",
+   "C": "23:32",
+   "D": "21:27"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-44",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 44,
+  "question": "Find the curved surface area of the frustrum in the figure.",
+  "options": {
+   "A": "16 10cm",
+   "B": "20 10",
+   "C": "24",
+   "D": ""
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1990_p27_4.png",
+  "images": [
+   "mathematics/1990_p27_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1990-45",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 45,
+  "question": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the",
+  "options": {
+   "A": "perpendicular bisector of the two lines",
+   "B": "angle bisector of the two lines",
+   "C": "bisector of the two lines",
+   "D": "line parallel to the two lines 46 4, 16, 30, 20, 10, 14 and 26 are represented on a pie chart. Find the sum of the angles of the sectors representing all numbers equal to or greater than 16."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-47",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 47,
+  "question": "The mean of ten positive numbers is 16. when another number is added, the mean becomes 18. find the eleventh number.",
+  "options": {
+   "A": "3",
+   "B": "16",
+   "C": "18",
+   "D": "30"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-48",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 48,
+  "question": "Below are the scores of a group of students in a test. If the average score is 3.5, find the value of x.",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1990_p27_3.png",
+  "images": [
+   "mathematics/1990_p27_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1990-49",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 49,
+  "question": "Two numbers are removed at random from the numbers 1,2,3 and 4. what is the probability that the sum of the numbers removed is even?",
+  "options": {
+   "A": "2/3",
+   "B": "½",
+   "C": "1/3",
+   "D": "¼"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-50",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 50,
+  "question": "Find the probability that a number selected at random from 41 to 56 is a multiple of 9",
+  "options": {
+   "A": "1/9",
+   "B": "2/15",
+   "C": "3/16",
+   "D": "7/8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

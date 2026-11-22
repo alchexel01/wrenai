@@ -1,0 +1,1003 @@
+[
+ {
+  "id": "mathematics-1984-1",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 1,
+  "question": "Simplify (2/3 – 1/5) – 1/3 of 2/5 3 – ¹/ ₁/₂",
+  "options": {
+   "A": "1/7",
+   "B": "7",
+   "C": "1/3",
+   "D": "3",
+   "E": "1/5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-2",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 2,
+  "question": "If 263 + 441 = 714, what number base has been used?",
+  "options": {
+   "A": "12",
+   "B": "11",
+   "C": "10",
+   "D": "9",
+   "E": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-3",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 3,
+  "question": "0.00014323/1.940000 = k x 10ⁿ where 1 £ k < 10 and n is a whole number. The values of K and are",
+  "options": {
+   "A": "7.381 and –11",
+   "B": "..................... 2.34 and 10",
+   "C": "3.87 and 2",
+   "D": "................ 7.831 and –11",
+   "E": "........................... 5.41 and –2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-4",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 4,
+  "question": "P sold his bicycle to Q at a profit of 10%. Q sold it to R for #209 at a loss of 5%. How much did the bicycle cost",
+  "options": {
+   "A": "#200",
+   "B": "#196",
+   "C": "#180",
+   "D": "#205",
+   "E": "#150"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-5",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 5,
+  "question": "If the price of oranges was raised by 1/2k per orange, the number of oranges customer can buy for #2.40 will be less by 16. What is the present price of an orange?",
+  "options": {
+   "A": "2¹/₂ k",
+   "B": "3¹/₁₂ k",
+   "C": "5¹/₂ k"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-6",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 6,
+  "question": "A man invested a total of #50,000 in two companies. If these companies pay dividend of 6% and 8% respectively, how much did he invest at 8% if the total yield is #3.700?",
+  "options": {
+   "A": "#15,000",
+   "B": "#29,600",
+   "C": "#21,400",
+   "D": "#27,800",
+   "E": "#35,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-7",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 7,
+  "question": "Thirty boys and x girls sat for a test. The mean of the boys’ scores and that of the girls were respectively 6 and 8. find x if the total score was 468.",
+  "options": {
+   "A": "38",
+   "B": "24",
+   "C": "36",
+   "D": "22",
+   "E": "41"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-8",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 8,
+  "question": "The cost of production of an article is made up as follows Labour #70 Power #15 Materials #30 Miscellaneous #5 Find the angle of the sector representing labour in a pie chart.",
+  "options": {
+   "A": "210⁰",
+   "B": "105⁰",
+   "C": "175⁰",
+   "D": "150⁰",
+   "E": "90⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-9",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 9,
+  "question": "Bola chooses at random a number between 1 and 300. What is the probability that the number is divisible by",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-10",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 10,
+  "question": "Find without using logarithm tables, the value of Log₃27 – Log₁/₄64 Log₃1/81",
+  "options": {
+   "A": "7/4",
+   "B": "–7/4",
+   "C": "–3/2",
+   "D": "7/3",
+   "E": "–1/4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-11",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 11,
+  "question": "A variable point P(x, y) traces a graph in a two dimensional plane. (0, -3) is one position of P. If x increases by 1 unit, y increases by 4 units. The equation of the graph is",
+  "options": {
+   "A": "-3 = y + 4/ x + 1",
+   "B": "4y = -3 + x",
+   "C": "y/x = -3/4",
+   "D": "y + 3 = 4x",
+   "E": "4y = x + 3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-12",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 12,
+  "question": "A trader in a country where their currency ‘MONT’ (M) is in base five bought 103₍₅₎ oranges at M14₍₅₎ each. If he sold the oranges at M24₍₅₎ each, what will be his gain?",
+  "options": {
+   "A": "M103 ₍₅₎",
+   "B": "M1030₍₅₎",
+   "C": "M102 ₍₅₎",
+   "D": "M2002₍₅₎",
+   "E": "M3032₍₅₎"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-13",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 13,
+  "question": "Rationalize (55 - 75)(/7 - 5",
+  "options": {
+   "A": "-235",
+   "B": "47 - 65",
+   "C": "-35",
+   "D": "47 - 85",
+   "E": "35"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-14",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 14,
+  "question": "Simplify ₙ ₙ ₋ ₁ 3 – 3 3³ x 3ⁿ – 27 x 3ⁿ⁻ ¹",
+  "options": {
+   "A": "1",
+   "B": "0",
+   "C": "1/27 ₙ ₙ₋₁",
+   "D": "3 – 3",
+   "E": "2/27"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-15",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 15,
+  "question": "p varies directly as the square of q an inversely as r. if p = 36, when q = 3 and r = p, find p when q = 5 and r = 2",
+  "options": {
+   "A": "72",
+   "B": "100",
+   "C": "90",
+   "D": "200",
+   "E": "125"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-16",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 16,
+  "question": "Factorise 6x – 14x - 12",
+  "options": {
+   "A": "2(x + 3) (3x - 2)",
+   "B": "6(x - 2) (x + 1)",
+   "C": "2(x - 3) (3x + 2)",
+   "D": "6(x + 2) (x - 1)",
+   "E": "(3x + 4) (2x + 3)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-17",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 17,
+  "question": "A straight line y = mx meets the curve y = x² – 12x + 40 in two distinct points. If one of them is (5,5), find the other",
+  "options": {
+   "A": "(5,6)",
+   "B": "(8,8)",
+   "C": "(8,5)",
+   "D": "(7,7)",
+   "E": "(7,5)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-18",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 18,
+  "question": "The table below is drawn for a graph y = x² – 3x + 1 x -3 -2 -1 0 1 2 3 y=x - 3x + 1 1 -1 3 1 -1 3 1 From x = -2 to x = 1, the graph crosses the x-axis in the range(s)",
+  "options": {
+   "A": "-1 < x < 0 and 0 < x < 1",
+   "B": "-2 < x < -1 and 0 < x < 1",
+   "C": "-2 < x < -1 and 0 < x < 1",
+   "D": "0 < x < 1",
+   "E": "1 < x < 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-19",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 19,
+  "question": "In a racing competition. Musa covered a distance of 5xkm in the first hour and (x + 10)km in the next hour. He was second to Ngozi who covered a total distance of 118km in the two hours. Which of the following inequalities is correct?",
+  "options": {
+   "A": "0 < -x < 15",
+   "B": "–3 < x < 3",
+   "C": "15 < x < 18",
+   "D": "0 < x < 15",
+   "E": "0 < x < 18"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-20",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 20,
+  "question": "2x + 3y = 1 and y = x – 2y = 11, find (x + y)",
+  "options": {
+   "A": "5",
+   "B": "–3",
+   "C": "8",
+   "D": "2",
+   "E": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-21",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 21,
+  "question": "Tunde and Shola can do a piece of work in 18days. Tunde can do it alone in x days, whilst Shola takes 15 days longer to do it alone. Which of the following equations is satisfied by x?",
+  "options": {
+   "A": "x²– 5x– 18 = 0",
+   "B": "x² – 20x+360 =0",
+   "C": "x² - 21x– 270 =0",
+   "D": "2x²+ 42x– 190 =0",
+   "E": "3x²– 31x+ 150 =0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-22",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 22,
+  "question": "If fx) = 2(x - 3)2 + 3(x - 3) – 4 and g(y) = 5 + y, find g(f(3)) and g{f(4)}",
+  "options": {
+   "A": "3 and 4",
+   "B": "–3 and 4",
+   "C": "–3 and –4",
+   "D": "3 and –4",
+   "E": "0 and 5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-23",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 23,
+  "question": "The quadratic equation whose roots are 1 - 13 and 1 + 13 is",
+  "options": {
+   "A": "x² +(1 - 13)x+1 +13=0",
+   "B": "x² +(1 - 13)x+1 -13=0",
+   "C": "x²+ 2x+12 =0",
+   "D": "x² – 2x + 12 = 0",
+   "E": "x²– 2x– 12 = 0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-24",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 24,
+  "question": "Find a factor which is common to all three binomial expressions 4a2 – 9b², a³ + 27b³, (4a + 6b)²",
+  "options": {
+   "A": "4a + 6b",
+   "B": "4a – 6b",
+   "C": "2a + 3b",
+   "D": "2a – 3b",
+   "E": "none"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-25",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 25,
+  "question": "R 4 cm What is the volume of the regular three dimensional figure drawn above?",
+  "options": {
+   "A": "160cm³",
+   "B": "48cm³",
+   "C": "96cm³",
+   "D": "120cm³",
+   "E": "40cm³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1984_p6_1.png",
+  "images": [
+   "mathematics/1984_p6_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-26",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 26,
+  "question": "If (x - 2) and (x + 1) are factors of the expression x³ + px² + qx + 1, what is the sum of p and q?",
+  "options": {
+   "A": "0",
+   "B": "–3",
+   "C": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-27",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 27,
+  "question": "A cone is formed by bending a sector of a circle having an angle of 210⁰. Find the radius of the base of the cone if the diameter of the circle is base of the cone if the diameter of the circle is 12cm",
+  "options": {
+   "A": "7.00cm",
+   "B": "1.75cm",
+   "C": "Ö21cm",
+   "D": "3.50cm",
+   "E": "2Ö21cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-28",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 28,
+  "question": "X Y Z 5 cm Using XYZ in the figure above find XYZ",
+  "options": {
+   "A": "29⁰",
+   "B": "31⁰20’",
+   "C": "31⁰",
+   "D": "31⁰18’",
+   "E": "59⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1984_p7_1.png",
+  "images": [
+   "mathematics/1984_p7_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-29",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 29,
+  "question": "The sides of a triangle are (x + 4)cm, x cm and (x- 4) cm respectively. If the cosine of the largest angle is 1/5, find the value of x",
+  "options": {
+   "A": "24cm",
+   "B": "20cm",
+   "C": "28cm",
+   "D": "88/7ccm",
+   "E": "0cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-30",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 30,
+  "question": "If a = 2x/1 – x and b = 1 + x / 1 – x then a² – b² in the simplest form is A.3x+1/(x-1) B. 3x²-1/(x-1)²",
+  "options": {
+   "C": "3x²+1/(1-x)²",
+   "D": "5x²-1/(1-x)²",
+   "E": "5x² -2x -1/(1-x)² ( x-1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-31",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 31,
+  "question": "Simplifty (1 + 1 ) (x+2) ( x+1)",
+  "options": {
+   "A": "(x² - 1)(x + 2)",
+   "B": "x² (x + 2)/x + 1",
+   "C": "x² - (x + 2)",
+   "D": "2x(x + 2)",
+   "E": "2x(x + 2)/x + 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-32",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 32,
+  "question": "Q P R W S In the figure above PQRSTW is a regular hexagon. QS intersects RT at V. calculate TVS.",
+  "options": {
+   "A": "60⁰",
+   "B": "90⁰",
+   "C": "120⁰",
+   "D": "30⁰",
+   "E": "80⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1984_p7_2.png",
+  "images": [
+   "mathematics/1984_p7_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-33",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 33,
+  "question": "Find the integral values of x which satisfy the inequalities –3 < 2 –5x < 12",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/1984_p7_5.png",
+  "images": [
+   "mathematics/1984_p7_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-34",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 34,
+  "question": "Find the area of the shaded portion of the semi – circular figure above.",
+  "options": {
+   "A": "r²/4(4p - 3 3)",
+   "B": "r²/4(2p + 3 3)",
+   "C": "1/2r p",
+   "D": "1/8r 3",
+   "E": "r²/8(4p + 3 3)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-35",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 35,
+  "question": "P In the figure above QRS is a line, PSQ = 35⁰ SPR = 30⁰ and O is the centre of the circle find OQP",
+  "options": {
+   "A": "35⁰",
+   "B": "30⁰",
+   "C": "130⁰",
+   "D": "25⁰",
+   "E": "65⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1984_p7_3.png",
+  "images": [
+   "mathematics/1984_p7_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-36",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 36,
+  "question": "If pq + 1 = q² and t = 1/p – 1/pq express t in terms of q",
+  "options": {
+   "A": "1/p – q",
+   "B": "1/ q – 1",
+   "C": "1/q + 1",
+   "D": "1 + q",
+   "E": "1/ 1- q"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-37",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 37,
+  "question": "The cumulative frequency function of the data below is given by the frequency y = cf(x). what is cf(5)?",
+  "options": {
+   "A": "30",
+   "B": "35",
+   "C": "55",
+   "D": "62",
+   "E": "92"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1984_p7_6.png",
+  "images": [
+   "mathematics/1984_p7_6.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-38",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 38,
+  "question": "In the figure determine the angle marked y",
+  "options": {
+   "A": "66⁰",
+   "B": "110⁰",
+   "C": "26⁰",
+   "D": "70⁰",
+   "E": "44⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1984_p7_4.png",
+  "images": [
+   "mathematics/1984_p7_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-39",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 39,
+  "question": "A right circular cone has a base radius r cm and a vertical 2y⁰. the height of the cone is",
+  "options": {
+   "A": "r tan y⁰cm",
+   "B": "r sin y⁰cm",
+   "C": "r cot y⁰cm",
+   "D": "r cos y⁰cm",
+   "E": "r cosec y⁰cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-40",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 40,
+  "question": "Two fair dice are rolled. What is the probability that both show up the same number of point?",
+  "options": {
+   "A": "1/36",
+   "B": "7/36",
+   "C": "½",
+   "D": "1/3",
+   "E": "1/6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-41",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 41,
+  "question": "The larger value of y for which (y - 1)² = 4y – 7 is",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "6",
+   "D": "7",
+   "E": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-42",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 42,
+  "question": "y Find the x coordinates of the points of intersection of the two equations in the graph above.",
+  "options": {
+   "A": "1,1",
+   "B": "0,-4",
+   "C": "4,9",
+   "D": "0,0",
+   "E": "0,4 ₀ ₀"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1984_p8_1.png",
+  "images": [
+   "mathematics/1984_p8_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-43",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 43,
+  "question": "If sin q = x/y and 0 < q < 90 then find 1/ tan q",
+  "options": {
+   "A": "x/(y² – x²⁾",
+   "B": "x/y",
+   "C": "y² –n²   ₂ ₂₎ ₂ ₂₎ y −x D. (y – x /(y – x",
+   "E": "y² – x²/y"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-44",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 44,
+  "question": "S T In the figure above TSP =PRQ, QR = 8cm. PR = 6cm and ST = 12cm. Find the length SP",
+  "options": {
+   "A": "4cm",
+   "B": "16cm",
+   "C": "9cm",
+   "D": "14cm",
+   "E": "Impossible insufficient data"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1984_p8_2.png",
+  "images": [
+   "mathematics/1984_p8_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-45",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 45,
+  "question": "Bar Chart ycₙ 8 eᵤq 6 eᵣF 4 0-9 10-19 20-29 30-39 40-49 50-59 Marks The bar chart above shows the mark distribution in a class test. Find the number of students in the class.",
+  "options": {
+   "A": "9",
+   "B": "2",
+   "C": "60",
+   "D": "30",
+   "E": "34"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1984_p8_4.png",
+  "images": [
+   "mathematics/1984_p8_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-46",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 46,
+  "question": "In the figure above, O is the centre of circle PQRS and PS//RT. If PRT = 135⁰, then PSQ is",
+  "options": {
+   "A": "67¹/₂ ⁰",
+   "B": "45⁰",
+   "C": "90⁰",
+   "D": "33³/₄ ⁰",
+   "E": "22¹/₂ ⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1984_p8_3.png",
+  "images": [
+   "mathematics/1984_p8_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-47",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 47,
+  "question": "XYZ is a triangle and XW is perpendicular to YZ at W. if XZ = 5cm and WZ = 4cm, calculate XY.",
+  "options": {
+   "A": "53cm",
+   "B": "35cm",
+   "C": "3Ö3cm",
+   "D": "5cm",
+   "E": "6cm Y Z"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1984_p8_5.png",
+  "images": [
+   "mathematics/1984_p8_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-48",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 48,
+  "question": "Measurements of the diameters in centimeters of 20 copper spheres are distributed as shown below Class boundary in cm frequency 3.35-3.45 3 3.45-3.55 6 3.55-3.65 7 3.65-3.75 4 What is the mean diameter of the copper sphere? Use the instruction below to answer question49 and 50",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/1984_p9_1.png",
+  "images": [
+   "mathematics/1984_p9_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1984-49",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 49,
+  "question": "What is the obtuse angle formed when the point U is joined to Q?",
+  "options": {
+   "A": "75⁰",
+   "B": "154⁰",
+   "C": "120⁰",
+   "D": "105⁰",
+   "E": "125⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1984-50",
+  "subject": "mathematics",
+  "year": 1984,
+  "number": 50,
+  "question": "What is the acute angle formed when the point V joined to Q?",
+  "options": {
+   "A": "60⁰",
+   "B": "30⁰",
+   "C": "45⁰",
+   "D": "90⁰",
+   "E": "15⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

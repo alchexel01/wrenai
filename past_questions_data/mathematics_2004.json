@@ -1,0 +1,844 @@
+[
+ {
+  "id": "mathematics-2004-2",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 2,
+  "question": "Find p, if 451₆ – p₇ = 305₆",
+  "options": {
+   "A": "611₇",
+   "B": "142₇",
+   "C": "116₇",
+   "D": "62₇ A ² / ₂₅ B. ¹⁹/₆ ₀"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-4",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 4,
+  "question": "A farmer planted 5000 grains of maize and harvested 5000 cobs, each bearing 500 grains. What is the ratio of the number of grains sowed to the number harvested?",
+  "options": {
+   "A": "1:500",
+   "B": "1:5000",
+   "C": "1:25000",
+   "D": "1:250000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-5",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 5,
+  "question": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction did the third teacher receive?",
+  "options": {
+   "A": "¹¹/₂ ₅",
+   "B": "¹²/₂ ₅",
+   "C": "¹³/₂ ₅",
+   "D": "⁸/ ₁₅"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-7",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 7,
+  "question": "Simplify 1/3 + 2 in the form a + b3",
+  "options": {
+   "A": "-2 - 3",
+   "B": "–2+ 3",
+   "C": "2- 3",
+   "D": "2+ 3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-8",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 8,
+  "question": "If 6log ₓ2 – 3log ₓ3 = 3log 0₅ .2, find x.",
+  "options": {
+   "A": "3/8",
+   "B": "¾",
+   "C": "P Q"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2004_p63_1.png",
+  "images": [
+   "mathematics/2004_p63_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-2004-9",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 9,
+  "question": "The shaded region in the venn diagram above",
+  "options": {
+   "A": "Pc (QR)B. PQ",
+   "C": "Pc U(QR)",
+   "D": "Pc (QUR)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-10",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 10,
+  "question": "In a class of 40 students, each student offers at least one of Physics and Chemistry. If the number of students that offer Physics is three times the number that offer both subjects and the number that offers Chemistry is twice the number that offer Physics, find the number of students that offer Physics only.",
+  "options": {
+   "A": "25",
+   "B": "15",
+   "C": "10",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-11",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 11,
+  "question": "Find the values of x where the curve y = x³ + 2x² – 5x – 6 crosses the x-axis.",
+  "options": {
+   "A": "-2, -1 and 3",
+   "B": "-2, 1 and –3",
+   "C": "2, -1 and –3",
+   "D": "2, 1 and 3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-12",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 12,
+  "question": "Find the remainder when ₃ ₂ 3x + 5x – 11x + is divided by x + 3",
+  "options": {
+   "A": "4",
+   "B": "1",
+   "C": "–1",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-13",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 13,
+  "question": "Factorize completely ac – 2bc – a² + 4b²",
+  "options": {
+   "A": "(a – 2b)(c + a – 2b)",
+   "B": "(a – 2b)(c - a – 2b)",
+   "C": "(a – 2b)(c + a + 2b)",
+   "D": "(a – 2b)(c - a + 2b)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-14",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 14,
+  "question": "y is inversely proportional to x and y = 4 when x = 1/ 2 . find x when y = 10",
+  "options": {
+   "A": "1/10",
+   "B": "1/5",
+   "C": "2",
+   "D": "10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-15",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 15,
+  "question": "The length L of a simple pendulum varies directly as the square of its period T. if a pendulum with period 4 secs is 64cm long, find the length of a pendulum whose period is 9 sec.",
+  "options": {
+   "A": "36cm",
+   "B": "96ccm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2004_p63_2.png",
+  "images": [
+   "mathematics/2004_p63_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-2004-16",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 16,
+  "question": "The shaded area in the diagram above is represented",
+  "options": {
+   "A": "{(x, y) : y + 3x < 6}",
+   "B": "{(x, y) : y + 3x < - 6}",
+   "C": "{(x, y) : y - 3x < 6}",
+   "D": "{(x, y) : y - 3x < - 6}"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-17",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 17,
+  "question": "What are the integral values of x which satisfy the inequality –1 < 3 – 2x  5?",
+  "options": {
+   "A": "-2, 1, 0, -1",
+   "B": "-1, 0, 1, 2",
+   "C": "-1, 0, 1,",
+   "D": "0, 1, 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-18",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 18,
+  "question": "The nth terms of two sequences are Q –ₙ 3.2ⁿ⁻² and Uₘ = 3.2²m ⁻ . find the product of Q₂ and U₂",
+  "options": {
+   "A": "3",
+   "B": "6",
+   "C": "12",
+   "D": "18"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-19",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 19,
+  "question": "Given that the first and fourth terms of a G.P are 6 and 162 respectively, find the sum of the first three terms of the progression.",
+  "options": {
+   "A": "8",
+   "B": "27",
+   "C": "48",
+   "D": "78"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-20",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 20,
+  "question": "Find the sum to infinity of the series ½, 1/6, 1/ 18,……………",
+  "options": {
+   "A": "1",
+   "B": "¾",
+   "C": "2/3",
+   "D": "1/3+"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-21",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 21,
+  "question": "If the operation * on the set of integers is defined by p*q = “pq, find the value of 4*(8*32).",
+  "options": {
+   "A": "16",
+   "B": "8",
+   "C": "4",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-22",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 22,
+  "question": "The inverse of the matrix (2 1) (1 1)",
+  "options": {
+   "A": "(1 1)",
+   "B": "(1 -1) (-1 2) (1 2)",
+   "C": "(1 1)",
+   "D": "(1 -1) (1 2) (-1 2)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-23",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 23,
+  "question": "If P = 1 0 -1 3 4 5 -1 0 1 then /P/ is",
+  "options": {
+   "A": "-8",
+   "B": "0",
+   "C": "4",
+   "D": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-25",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 25,
+  "question": "PQRSTV is a regular polygon of side 7cm inscribed in a circle. Find the circumference of the circle PQRSTV.",
+  "options": {
+   "A": "22cm",
+   "B": "42cm",
+   "C": "",
+   "D": "56cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2004_p64_2.png",
+  "images": [
+   "mathematics/2004_p64_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-2004-26",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 26,
+  "question": "P, R and S lie on a circle centre O as shown above while Q lies outside the circle. Find ÐPSO.",
+  "options": {
+   "A": "35⁰",
+   "B": "40⁰",
+   "C": "45⁰ 4 cm",
+   "D": "55⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2004_p64_1.png",
+  "images": [
+   "mathematics/2004_p64_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-2004-27",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 27,
+  "question": "In the diagram above, PQ =4cm and TS = 6cm, if the area of parallelogram PQTU is 32cm², find the area of the trapezium PQRU",
+  "options": {
+   "A": "24cm²",
+   "B": "48cm²",
+   "C": "60cm²",
+   "D": "72cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-28",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 28,
+  "question": "An arc of a circle of length 22cm subtends an angle of 3x⁰ at the centre of the circle. Find the value of x if the diameter of the circle is 14cm. which is equidistant from PQ and QR",
+  "options": {
+   "A": "The diagonal PR.",
+   "B": "Thediagonal QS",
+   "C": "Side SR"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-29",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 29,
+  "question": "",
+  "options": {
+   "D": "The perpendicular bisector of PQ.",
+   "A": "30⁰",
+   "B": "60⁰",
+   "C": "120⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-30",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 30,
+  "question": "The locus of a point which is 5cm from the line LM is a",
+  "options": {
+   "A": "pair of lines on opposite sides of LM and parallel to it, each distances 5cm form LM",
+   "B": "line parallel to LM and 5cm from LM",
+   "C": "pair of parallel lines on one side of LM and parallel to LM",
+   "D": "line distance 10cm from LM and parallel to LM."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-31",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 31,
+  "question": "Find the value of ² + ² if a + b = and the distance between the points (1, ) ands (, 1) is 3 units.",
+  "options": {
+   "A": "3",
+   "B": "5",
+   "C": "11",
+   "D": "14"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2004_p64_4.png",
+  "images": [
+   "mathematics/2004_p64_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-2004-33",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 33,
+  "question": "Find the value of x in the figure above.",
+  "options": {
+   "A": "206",
+   "B": "156",
+   "C": "56",
+   "D": "36"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-34",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 34,
+  "question": "The shadow of a pole 53 m high is 5m. find the angle of elevation of the sun.",
+  "options": {
+   "A": "30⁰",
+   "B": "45⁰",
+   "C": "60⁰",
+   "D": "75⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-35",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 35,
+  "question": "Find the derivative of (2 + 3x)(1 - x) with respect to",
+  "options": {
+   "A": "6x – 1",
+   "B": "1 – 6x",
+   "C": "6",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-36",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 36,
+  "question": "Find the derivative of the function y = 2x²(2x - 1) at the point x= -1",
+  "options": {
+   "A": "-6",
+   "B": "4",
+   "C": "16",
+   "D": "18"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-37",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 37,
+  "question": "If y – 3 cos (x/ ₃) , find dy/ dₓ when x = ³/ ₂",
+  "options": {
+   "A": "2",
+   "B": "1",
+   "C": "–1",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-38",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 38,
+  "question": "What is the rate of change of the volume v of hemisphere with respect to its radius r when r = 2?",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "8",
+   "D": "16 ₂ ₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2004_p64_3.png",
+  "images": [
+   "mathematics/2004_p64_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-2004-40",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 40,
+  "question": "The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested?",
+  "options": {
+   "A": "9000 tonnes",
+   "B": "6000 tonnes",
+   "C": "1500 tonnes",
+   "D": "1200 tonnes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-41",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 41,
+  "question": "I. Rectangular bars of equal width II. The height of each rectangular bar sides with no gaps in between. A histogram is described by",
+  "options": {
+   "A": "I and II",
+   "B": "I and III",
+   "C": "I,II and III",
+   "D": "II and III®"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2004_p65_1.png",
+  "images": [
+   "mathematics/2004_p65_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-2004-42",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 42,
+  "question": "The graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?",
+  "options": {
+   "A": "68%",
+   "B": "28%",
+   "C": "17%",
+   "D": "8%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-43",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 43,
+  "question": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the ages of the students, the mean of their ages becomes 18 years. Find the number of students in the group.",
+  "options": {
+   "A": "7",
+   "B": "9",
+   "C": "15",
+   "D": "42"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-44",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 44,
+  "question": "The weights of 10 pupils in a class are 15kg, 16kg, 17kg, 18kg, 16kg, 17kg, 17kg, 17kg, 18kg and 16kg. What is the range of this distribution?",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-45",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 45,
+  "question": "Find the mean deviation of 1, 2, 3 and 4",
+  "options": {
+   "A": "1.0",
+   "B": "1.5",
+   "C": "2.0",
+   "D": "2.5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-46",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 46,
+  "question": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
+  "options": {
+   "A": "10 ways.",
+   "B": "15 ways.",
+   "C": "20 ways",
+   "D": "25 ways."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-47",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 47,
+  "question": "A committee of six is to be formed by a state governor from nine state commissioners and three members of the state house of assembly. In how many ways can the members of the committee be chosen so as to include one member of the house of assembly?",
+  "options": {
+   "A": "924 ways",
+   "B": "840 ways",
+   "C": "462 ways",
+   "D": "378 ways"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-48",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 48,
+  "question": "Some white balls were put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white ball from the basket is 3/7, how many white balls were introduced?",
+  "options": {
+   "A": "32",
+   "B": "28",
+   "C": "21",
+   "D": "12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-49",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 49,
+  "question": "An unbiased die is rolled 100 times and the outcome is tabulated as follows: What is the probability of obtaining 5? AC.. ¹/ ₆ B. ¹/ ₅ ¼ D. ½",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/2004_p65_2.png",
+  "images": [
+   "mathematics/2004_p65_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-2004-50",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 50,
+  "question": "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medal is selected at random from the container, what is the probability that it is not a gold medal?",
+  "options": {
+   "A": "⁴/₇",
+   "B": "³/₇",
+   "C": "¹¹/₃ ₅",
+   "D": "⁹/₃ ₅"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

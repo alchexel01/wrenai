@@ -1,0 +1,932 @@
+[
+ {
+  "id": "mathematics-1987-1",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 1,
+  "question": "Convert 241 in base 5 to base 8",
+  "options": {
+   "A": "71₈",
+   "B": "107₈",
+   "C": "176₈",
+   "D": "241₈"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-2",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 2,
+  "question": "Find the least length of a rod which can be cut into exactly equal strips, each of either 40cm or 48cm in length.",
+  "options": {
+   "A": "120cm",
+   "B": "240ccm",
+   "C": "360cm",
+   "D": "480cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-3",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 3,
+  "question": "A rectangular has lawn has an area of 1815square yards. If its length is 50meters, find its width in metres. Given that 1meters equals 1.1yards",
+  "options": {
+   "A": "39.93",
+   "B": "35.00",
+   "C": "33.00",
+   "D": "30.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-4",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 4,
+  "question": "Reduce each number to two significant figures and then evaluate (0.02174 x 1.2047) 0.023789",
+  "options": {
+   "A": "0.8",
+   "B": "0.9",
+   "C": "1.1",
+   "D": "1.2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-5",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 5,
+  "question": "A train moves from P to Q at an average speed of 90km/ hr and immediately returns from O to P through the same route and at an average speed of 45km/h. find the average speed for the centre journey.",
+  "options": {
+   "A": "55 00km/hr",
+   "B": "60 00km/hr",
+   "C": "67.50km/hr",
+   "D": "75 00km/hr"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-6",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 6,
+  "question": "If the length of a square is increased by 20% while its width is decreased by 20% to form a rectangle, what is the ratio of the area of the rectangle to the area of the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-7",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 7,
+  "question": "Two brothers invested a total of #5,000.00 on a farm project. The farm yield was sold for # 15, 000.00 at the end of the season. If the profit was shared in the ratio 2:3, what is the difference in the amount of profit received by the brothers?",
+  "options": {
+   "A": "#2,000.00",
+   "B": "#4,000.00",
+   "C": "#6,000.00",
+   "D": "#10,000.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-8",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 8,
+  "question": "Peter’s weekly wages are #20.00 for the first 20 weeks and #36.00 for the next 24 weeks. Find his average weekly wage for the remaining 8 weeks of the year. If his average weekly wage for the whole year is #30.00",
+  "options": {
+   "A": "#37.00",
+   "B": "#35.00",
+   "C": "#30.00",
+   "D": "#5.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-9",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 9,
+  "question": "A man invests a sum of money at 4% per annum simple interest. After 3 years, the principal amounts to #7,000.00. find the sum invested",
+  "options": {
+   "A": "#7,840.00",
+   "B": "#6,250.00",
+   "C": "#6,160.00",
+   "D": "#5,833.33"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-10",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 10,
+  "question": "By selling 20 oranges for #1.35 a trader makes a profit 8%. What is his percentage gain or loss if he sells the same 20 oranges for #1.10?",
+  "options": {
+   "A": "8%",
+   "B": "10%",
+   "C": "12%",
+   "D": "15%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-11",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 11,
+  "question": "Four boys and ten girls can cut a field in 5 hours. If the boys work at 1/4 the rate of which the girls work, how many boys will be needed to cut the field in 3 hours?",
+  "options": {
+   "A": "180",
+   "B": "60",
+   "C": "25",
+   "D": "20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-12",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 12,
+  "question": "Evaluate without using tables.",
+  "options": {
+   "A": "625/8",
+   "B": "8/625",
+   "C": "1/8",
+   "D": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-13",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 13,
+  "question": "Instead of writing 35/6 as a decimal correct to 3 significant figures, a student wrote it correct to 3 places of decimals. Find his error in standard form",
+  "options": {
+   "A": "0.003",
+   "B": "3.0 x 10⁻³",
+   "C": "0.3 x 10²",
+   "D": "0.3 x 10⁻³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-14",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 14,
+  "question": "Simplify without using tables (Log₂6 – Log₂3)/(Log₂8- 2Log₂1/2)",
+  "options": {
+   "A": "1/5",
+   "B": "½",
+   "C": "–1/2",
+   "D": "Log₂3/Log₂7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-15",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 15,
+  "question": "Simplify without using tables 2 14 x 321) / 724x 298)",
+  "options": {
+   "A": "3",
+   "B": "3 4 4",
+   "C": "3 14",
+   "D": "3 2 28 28"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-16",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 16,
+  "question": "If p – 2/3 (1 – r²)/n², find n when r = Ö1/3 and p = 1",
+  "options": {
+   "A": "3/2",
+   "B": "3",
+   "C": "1/3",
+   "D": "2/3 ₂ ₂ ₂ ₃"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-17",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 17,
+  "question": "If a =U–3V and b = 2UV + V evaluate (2a - b) (a – b ), when u = 1 and v = -1",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-18",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 18,
+  "question": "The formula Q = 15 + 0 5n gives the cost Q (in Naira) of feeding n people for a week. Find in kobo the extra cost of feeding one additional person.",
+  "options": {
+   "A": "350k",
+   "B": "200k",
+   "C": "150k",
+   "D": "50k"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-19",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 19,
+  "question": "If P varies inversely as V and V varies directly as R², find the relationship between P and R given that R = 7 when P = 2",
+  "options": {
+   "A": "P = 98R²",
+   "B": "PR² = 98",
+   "C": "P = 1/98R",
+   "D": "P = R²/98"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-20",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 20,
+  "question": "Make y the subject of the formula Z = x² + 1/y³",
+  "options": {
+   "A": "y = 1",
+   "B": "y = 1 (z - x²) ³ (Z + x³) ¹/₃",
+   "C": "y = 1",
+   "D": "y = 1 (Z - x²) ¹/ ₃ ³ − ³ x²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-21",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 21,
+  "question": "Find the values of m which make the following quadratic function a perfect square x² + 2 (m + 1) x + m + 3",
+  "options": {
+   "A": "-1, 1",
+   "B": "–1, 2",
+   "C": "1, -2",
+   "D": "2, -2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-22",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 22,
+  "question": "Factorize 6²x⁺ ¹ + 7(6x) - 5",
+  "options": {
+   "A": "{3(6x) – 5} {2(6x)} + 1}",
+   "B": "{3(6x) – 5} {2(6x)} - 1}",
+   "C": "{2(6x) – 5} {3(6x)} + 1}",
+   "D": "{2(6x) – 5} {3(6x)} - 1}"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-23",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 23,
+  "question": "Find two values of y which satisfy the simultaneous equations x + y = 5, x² – 2y² = 1",
+  "options": {
+   "A": "12, -2",
+   "B": "–12, 12",
+   "C": "–12, 2",
+   "D": "2, -2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-24",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 24,
+  "question": "An (n - 2)² sided figure has n diagonals find the number n of diagonals for a 25 sided figure",
+  "options": {
+   "A": "7",
+   "B": "8",
+   "C": "9",
+   "D": "10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-25",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 25,
+  "question": "f(x) A cubic function f(x) is specified by the graph show above. The values of the independent variable for which the function vanishes are",
+  "options": {
+   "A": "-1, 0, 1",
+   "B": "–1 < x < 1",
+   "C": "x, - 1",
+   "D": "x > 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1987_p16_1.png",
+  "images": [
+   "mathematics/1987_p16_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1987-26",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 26,
+  "question": "Solve the inequality x – 1 > 4(x + 2)",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-27",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 27,
+  "question": "Simplify (x² - y²) / (2x² + xy-y²)",
+  "options": {
+   "A": "x + - y",
+   "B": "x + y 2x + y 2x - y",
+   "C": "x - y",
+   "D": "x - y 2x - y 2x + y"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-28",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 28,
+  "question": "The minimum value of y in the equation y = x² – 6x + 8 is",
+  "options": {
+   "A": "8",
+   "B": "3",
+   "C": "0",
+   "D": "–1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-29",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 29,
+  "question": "Find the sum of the first 21 terms of the progression – 10, -8, -6,….",
+  "options": {
+   "A": "180",
+   "B": "190",
+   "C": "200",
+   "D": "210"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-30",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 30,
+  "question": "Find the eleventh term of the progression 4, 8, 16,..",
+  "options": {
+   "A": "2¹³",
+   "B": "2¹²",
+   "C": "2¹¹",
+   "D": "2¹⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-31",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 31,
+  "question": "Q In the diagram above, POQ is a diameter, O is the centre of the circle and TP is a tangent. Find the value of x.",
+  "options": {
+   "A": "",
+   "B": "40⁰",
+   "C": "45⁰",
+   "D": "50⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1987_p17_2.png",
+  "images": [
+   "mathematics/1987_p17_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1987-32",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 32,
+  "question": "P T S In the diagram above, QR//TS, QR:TS = 2:3. find the ratio of the area of triangle PQR to the area of the trapezium QRST",
+  "options": {
+   "A": "4:9",
+   "B": "4:5",
+   "C": "1:3",
+   "D": "2:3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1987_p17_1.png",
+  "images": [
+   "mathematics/1987_p17_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1987-33",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 33,
+  "question": "Three angle s of a nonagon are equal and the sum of six other angles is 1110⁰. Calculate the size of one of the equal triangles",
+  "options": {
+   "A": "210⁰",
+   "B": "150⁰",
+   "C": "105⁰",
+   "D": "50⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-34",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 34,
+  "question": "X Z In the figure above, XYZ = YTZ = 90⁰, XT = 9cm and TZ = 16cm. Find YZ",
+  "options": {
+   "A": "25cm",
+   "B": "20cm",
+   "C": "16cm",
+   "D": "9cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1987_p17_4.png",
+  "images": [
+   "mathematics/1987_p17_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1987-35",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 35,
+  "question": "Two chords QR and NP of a circle intersect inside the circle at X. if RQP = 37⁰, RQN = 49⁰ and QPN = 35⁰, find PRQ",
+  "options": {
+   "A": "35⁰",
+   "B": "37⁰",
+   "C": "49⁰",
+   "D": "59⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1987_p17_3.png",
+  "images": [
+   "mathematics/1987_p17_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1987-36",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 36,
+  "question": "In the figure above, find the value of x.",
+  "options": {
+   "A": "110⁰",
+   "B": "100⁰",
+   "C": "90⁰",
+   "D": "80⁰ Q R"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-37",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 37,
+  "question": "P S 2 cm 2 cm In the figure above, PQRS is a rectangle. If the shaded area is 72sq.cm find h",
+  "options": {
+   "A": "12cm",
+   "B": "10cm",
+   "C": "8cm",
+   "D": "5cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1987_p17_5.png",
+  "images": [
+   "mathematics/1987_p17_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1987-38",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 38,
+  "question": "The sine, cosine and tangent of 210⁰ are respectively",
+  "options": {
+   "A": "-1/2, 3/2, 3/3",
+   "B": "1/2, 3/2 3/3",
+   "C": "3/2, 3/3, 1",
+   "D": "3/2, 1/2 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-40",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 40,
+  "question": "From two points X and Y, 8m apart, and in line with a pole, the angle of elevation of the top of the pole are 30⁰ and 60⁰ respectively. Find the height of the pole, assuming that X, Y and the foot of the pole are on the same horizontal plane.",
+  "options": {
+   "A": "4m",
+   "B": "83/2m",
+   "C": "43m",
+   "D": "83m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-41",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 41,
+  "question": "A room is 12m long. 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room",
+  "options": {
+   "A": "15/17",
+   "B": "8/17",
+   "C": "8/15",
+   "D": "12/17"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-42",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 42,
+  "question": "What is the circumference of radius of the earth?",
+  "options": {
+   "A": "R cos q",
+   "B": "2p R cos q",
+   "C": "R sin q",
+   "D": "2p R sin q"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-43",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 43,
+  "question": "The base of a pyramid is a square of side 8cm. If its vertex is directly above the centre, find the height, given that the edge is 4.3cm",
+  "options": {
+   "A": "6cm",
+   "B": "5cm",
+   "C": "4cm",
+   "D": "3cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-44",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 44,
+  "question": "The figure above is an example of the construction of a",
+  "options": {
+   "A": "perpendicular bisector to a given straight line",
+   "B": "perpendicular from a given point toa given line",
+   "C": "perpendicular to a line from a given point on that line",
+   "D": "given angle."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1987_p18_1.png",
+  "images": [
+   "mathematics/1987_p18_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1987-45",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 45,
+  "question": "What is the locus of the mid-points of all chords of length 6cm within a circle of radius 5cm and with centre O.",
+  "options": {
+   "A": "A circle of radius 4cm and with centre O",
+   "B": "The perpendicular bisector of the chords",
+   "C": "A straight line passing through center O",
+   "D": "A circle of radius 6cm and with centre O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-46",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 46,
+  "question": "Taking the period of daylight on a certain day to be from 5.30a.m to 7.00p.m, calculate the period of daylight and of darkness on that day",
+  "options": {
+   "A": "187⁰30’ 172⁰30’",
+   "B": "135⁰225’",
+   "C": "202⁰30’157⁰30’",
+   "D": "195⁰165’"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-47",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 47,
+  "question": "The goals scored by 40 football teams from three league divisions are recorded below What is the total number of goals scored by all the teams?",
+  "options": {
+   "A": "21",
+   "B": "40",
+   "C": "91",
+   "D": "96"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-48",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 48,
+  "question": "The numbers 3,2,8,5,7,12,9 and 14 are the marks scored by a group by a group of students in a class test if P is the mean and Q the median the P + Q is",
+  "options": {
+   "A": "18",
+   "B": "17¹/₂",
+   "C": "16",
+   "D": "15"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-49",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 49,
+  "question": "Below are the scores of a group of students in a music test If CF(x) is the number of students with scores less than or equal to x, find CF(6)",
+  "options": {
+   "A": "40",
+   "B": "38",
+   "C": "33",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1987-50",
+  "subject": "mathematics",
+  "year": 1987,
+  "number": 50,
+  "question": "Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium",
+  "options": {
+   "A": "3/5",
+   "B": "2/5",
+   "C": "4/5",
+   "D": "1/5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

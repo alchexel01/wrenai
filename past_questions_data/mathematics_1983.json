@@ -1,0 +1,964 @@
+[
+ {
+  "id": "mathematics-1983-1",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 1,
+  "question": "If M represents the median and D the mode of the measurements 5, 9, 3, 5, 8 then (M,D) is",
+  "options": {
+   "A": "(6,5)",
+   "B": "(5,8)",
+   "C": "(5,7)",
+   "D": "(5,5)",
+   "E": "(7,5)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-2",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 2,
+  "question": "A construction company is owned by two partners X and Y and it is agreed that their profit will be divided in the ratio 4:5. at the end of the year. Y received #5,000 more than x. what is the total profit of the company for the year?",
+  "options": {
+   "A": "#20,000.00",
+   "B": "P’0#25,000.00",
+   "C": "#30,000.00",
+   "D": "#15,000.003 E.#45,000.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-3",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 3,
+  "question": "Given a regular hexagon, calculate each interior angle of the hexagon.",
+  "options": {
+   "A": "60⁰",
+   "B": "30⁰",
+   "C": "120⁰",
+   "D": "45⁰",
+   "E": "135⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-4",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 4,
+  "question": "Solve the following equations 4x – 3 = 3x + y = 2y + 5x – 12",
+  "options": {
+   "A": "4x = 5, y= 2",
+   "B": "x = 2, y= 5",
+   "C": "x = -2, y= -5",
+   "D": "x = 5, y= -2",
+   "E": "x = -5, y= -2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-5",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 5,
+  "question": "If x = 1 is root of the equation x³ – 2x² – 5x + 6, find the other roots",
+  "options": {
+   "A": "-3 and 2",
+   "B": "–2 and 2",
+   "C": "3 and –2",
+   "D": "1 and 3",
+   "E": "–3 and 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-6",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 6,
+  "question": "If x is jointly proportional to the cube of y and the fourth power of z. In what ratio is x increased or decreased when y is halved and z is doubled?",
+  "options": {
+   "A": "4:1 increase",
+   "B": "2:1 increase",
+   "C": "1:4 decrease",
+   "D": "1: 1 no change",
+   "E": "3: 4 decrease"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-7",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 7,
+  "question": "P Q S R In the above figure PQR = 60⁰, QPR = 90⁰, PRS = 90⁰, RPS = 45⁰, QR= 8cm. Determine PS",
+  "options": {
+   "A": "23cm",
+   "B": "46cm",
+   "C": "2cm",
+   "D": "86cm",
+   "E": "8cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p2_2.png",
+  "images": [
+   "mathematics/1983_p2_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-8",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 8,
+  "question": "Given that cos z = L, where z is an acute angle find an expression for Co +Z - cosecz",
+  "options": {
+   "A": "l - L",
+   "B": "",
+   "C": "-L-−L 1+L L2+L-1 (C1+L) +−L",
+   "D": "L−.",
+   "E": "L-(L²-1) (L1+L²) +−L² 1+ 1 - L²+ 1 - L²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p2_1.png",
+  "images": [
+   "mathematics/1983_p2_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-9",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 9,
+  "question": "If 0.0000152 x 0.00042 = A x 10⁸, where",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-10",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 10,
+  "question": "If x + 2 and x – 1 are factors of the expressions lx + 2kx² + 24, find the values of l and k",
+  "options": {
+   "A": "l = -6, k = -9",
+   "B": "l= -2, k = 1",
+   "C": "l =-2, k = -1",
+   "D": "l = 0, k = 1",
+   "E": "l = 6, k = 0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-11",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 11,
+  "question": "Make T the subject of the equation av = ₃ 2V + T 1- V a 2T",
+  "options": {
+   "A": "3av/(1-v)",
+   "B": "2v(1-v)² - a²v²/2a²v² - (1-V)²",
+   "C": "2v(1 - v)² + a³v²/ 2a²v² + (1 - v)²",
+   "D": "2v(1 - v)² - a⁴v³/2a³v³ - (1 - v)³",
+   "E": "2v(1-v)³ - a⁴v³/2a³v³ + (1-v)³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-12",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 12,
+  "question": "In a class of 60 pupils, the statistical distribution of the number of pupils offering Biology, History, French, Geography and Additional Mathematics is as shown in the pie chart above. How many pupils offer Additional Mathematics?",
+  "options": {
+   "A": "15",
+   "B": "10",
+   "C": "18",
+   "D": "12",
+   "E": "28 13 The value of (0.303)³ – (0.02)³ is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p2_3.png",
+  "images": [
+   "mathematics/1983_p2_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-14",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 14,
+  "question": "y varies partly as the square of x and y partly as the inverse of the square root of x. write down the expression for y if y = 2 when x = 1 and y = 6 when x =",
+  "options": {
+   "A": "y = 10x² + 52",
+   "B": "y = x² + 1 31 31x x",
+   "C": "y = x² + 1",
+   "D": "y = x² + 1",
+   "E": "y = 10 (x² + 1 ) x 31 31 x 31( x)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-15",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 15,
+  "question": "Simplify (x – 7) / (x² – 9) ( x² – 3x)/( x² - 49)",
+  "options": {
+   "A": "x/(x- 3)(x + 7)",
+   "B": "(x+3)(x + 7)/x",
+   "C": "x/(x- 3) (x-",
+   "D": "x/(x+ 3)(x +7)",
+   "E": "x/(x+4)(x +7)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-16",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 16,
+  "question": "The lengths of the sides of a right-angled triangle at (3x + 1)cm, (3x - 1)cm and x cm.",
+  "options": {
+   "A": "2",
+   "B": "6",
+   "C": "18",
+   "D": "12",
+   "E": "0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-17",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 17,
+  "question": "The scores of a set of a final year students in the first semester examination in a paper are 41,29,55,21,47,70,70,40,43,56,73,23,50,50. find themedian of the scores.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-18",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 18,
+  "question": "y Which of the following equations represents the above graph? ₂ ₂ ₂",
+  "options": {
+   "A": "y= 1 + 2x + 3x",
+   "B": "y= 1 – 2x + 3x",
+   "C": "y= 1 + 2x 3x",
+   "D": "y= 1 – 2x – 3x²",
+   "E": "y= 3x² + 2x - 1 H G"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p3_2.png",
+  "images": [
+   "mathematics/1983_p3_2.png",
+   "mathematics/1983_p3_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-19",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 19,
+  "question": "K F The above figure FGHK is a rhombus. What is the value of the angle x?",
+  "options": {
+   "A": "90⁰",
+   "B": "30⁰",
+   "C": "150⁰",
+   "D": "120S ⁰",
+   "E": "60⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p3_3.png",
+  "images": [
+   "mathematics/1983_p3_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-20",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 20,
+  "question": "P 3₀O PQRS is a desk of dimensions 2m x 0.8m which is inclined at 300 to the horizontal. Find the inclination of the diagonal PR to the horizontal.",
+  "options": {
+   "A": "23⁰35’",
+   "B": "30⁰",
+   "C": "15⁰36’",
+   "D": "10⁰",
+   "E": "10⁰42’"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-21",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 21,
+  "question": "Find x if (x b ₐₛₑ ₄ )² = 100 1000 b ₐₛₑ ₂",
+  "options": {
+   "A": "6",
+   "B": "12",
+   "C": "100",
+   "D": "210",
+   "E": "110"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-22",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 22,
+  "question": "Simplify log ₁₀a ¹/² + 1/4log ₁₀a – 1/12log₁₀a ⁷",
+  "options": {
+   "A": "1",
+   "B": "7/6log₁₀a",
+   "C": "0",
+   "D": "10",
+   "E": "a"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-23",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 23,
+  "question": "If w varies inversely as V and u varies directly as w³, find the relationship between u and V given that u = 1, when V = 2",
+  "options": {
+   "A": "u= 8V³",
+   "B": "u = 2 V",
+   "C": "V = 8/u²",
+   "D": "V= 8u²",
+   "E": "U= 8/v³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-24",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 24,
+  "question": "Solve the simultaneous equations for x x² + y – 8 = 0",
+  "options": {
+   "A": "–28,7",
+   "B": "6,-28",
+   "C": "6,-1",
+   "D": "–1, 7",
+   "E": "3,2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-25",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 25,
+  "question": "Find the missing value in the following table.",
+  "options": {
+   "A": "-3",
+   "B": "3",
+   "C": "–9",
+   "D": "13",
+   "E": "9"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p3_5.png",
+  "images": [
+   "mathematics/1983_p3_5.png",
+   "mathematics/1983_p3_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-26",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 26,
+  "question": "If O is the centre of the circle in the figure above. Find the value of x",
+  "options": {
+   "A": "50",
+   "B": "260",
+   "C": "100",
+   "D": "65",
+   "E": "130"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-27",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 27,
+  "question": "Find the angle of the sectors representing each item in a pie chart of the following data. 6,10,14,16,26",
+  "options": {
+   "A": "15⁰, 25⁰,35⁰,40⁰,65⁰, B.60⁰,100⁰,140⁰,160⁰,260⁰",
+   "C": "6⁰, 10⁰,14⁰,16⁰,26⁰, D.30⁰,50⁰,70⁰,80⁰,130⁰",
+   "E": "None of the above"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-28",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 28,
+  "question": "The scores of 16 students in a Mathematics test are 65,65,55,60,60,65,60,70,75,70,65,70,60,65,65,70 What is the sum of the median and modal scores?",
+  "options": {
+   "A": "125",
+   "B": "130",
+   "C": "140",
+   "D": "150",
+   "E": "137.5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-29",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 29,
+  "question": "The letters of the word MATRICULATION are cut and put into a box. One of the letter is drawn at random from the box. Find the probability of drawing a vowel.",
+  "options": {
+   "A": "2/13",
+   "B": "5/13",
+   "C": "6/13",
+   "D": "8/13",
+   "E": "4/13"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-30",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 30,
+  "question": "Correct each of the number 59.81789 and 0.0746829 to three significant figures and multiply them, giving your answer to three significant figures.",
+  "options": {
+   "A": "4.46",
+   "B": "4.48",
+   "C": "4.47",
+   "D": "4.49",
+   "E": "4.50"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-31",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 31,
+  "question": "If a rod of length 250cm is measured as 255cm longer in error, what is the percentage error in measurement?",
+  "options": {
+   "A": "55",
+   "B": "10",
+   "C": "5",
+   "D": "4",
+   "E": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-32",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 32,
+  "question": "If (2/3)m (3/4)n = 256/729, find thevalues of m and n",
+  "options": {
+   "A": "m = 4, n = 2",
+   "B": "m=-4, n = -2",
+   "C": "m= -4, n = 2",
+   "D": "m = 4, n = -2",
+   "E": "m=-2, n = 4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-33",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 33,
+  "question": "Without using tables find the numerical value of log49",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-34",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 34,
+  "question": "Factorize completely 81a⁴ – 16b⁴",
+  "options": {
+   "A": "(3a + 2b) (2a – 3b) (9a² + 4b²)",
+   "B": "(3a - 2b) (2a – 3b) (4a² - 9b²)",
+   "C": "(3a - 2b) (3a – 2b) (9a² + 4b²)",
+   "D": "(3a - 2b) (2a – 3b) (9a² + 4b²)",
+   "E": "(3a - 2b) (2a – 3b) (9a² - 4b²)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-35",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 35,
+  "question": "One interior angle of a convex hexagon is 170⁰ and each of the remaining interior angles is equal to x⁰. find",
+  "options": {
+   "A": "120⁰",
+   "B": "110⁰",
+   "C": "105⁰",
+   "D": "102⁰",
+   "E": "100⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-36",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 36,
+  "question": "PQRS is a cyclic quadrilateral in which PQ = PS. PT is a tangent to the circle and PQ makes and angle 50⁰ with the tangent as shown in the figure below. What is the size of QRS? P T",
+  "options": {
+   "A": "50⁰",
+   "B": "40⁰",
+   "C": "110⁰",
+   "D": "80⁰",
+   "E": "100⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p4_2.png",
+  "images": [
+   "mathematics/1983_p4_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-37",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 37,
+  "question": "A ship H leaves a port P and sails 30km due South. Then it sails 60km due west. What is the bearing of H from P?",
+  "options": {
+   "A": "26⁰34’",
+   "B": "243⁰26’",
+   "C": "116⁰34’",
+   "D": "63⁰26’",
+   "E": "240⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-38",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 38,
+  "question": "In a sample survey of a university community the following table shows the percentage distribution of the number of members per household.",
+  "options": {
+   "A": "4",
+   "B": "3",
+   "C": "5",
+   "D": "4.5",
+   "E": "None"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p4_1.png",
+  "images": [
+   "mathematics/1983_p4_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-39",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 39,
+  "question": "On a square paper of length 2.524375cm is inscribed a square diagram of length 0.524375. find the area of the paper no covered by the diagram correct to 3 significant figures.",
+  "options": {
+   "A": "6.00cm²",
+   "B": "6.10cm²",
+   "C": "6.cm²",
+   "D": "6.09cm²",
+   "E": "4.00cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-40",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 40,
+  "question": "If f(X) = 1 + x - 1 find f(1-x) x-1 x²-1",
+  "options": {
+   "A": "1/x + 1/(x+2)",
+   "B": "x +1/(2x -1)",
+   "C": "-1/x - 1/(x-2)",
+   "D": "-1/x + 1/(x²-1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-41",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 41,
+  "question": "In the figure below find PRQ",
+  "options": {
+   "A": "66¹/₂ ⁰",
+   "B": "62¹/₂ ⁰",
+   "C": "125⁰",
+   "D": "105⁰",
+   "E": "65⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p4_4.png",
+  "images": [
+   "mathematics/1983_p4_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-42",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 42,
+  "question": "Simplify 27a /8",
+  "options": {
+   "A": "9a²/2",
+   "B": "9a³/2",
+   "C": "2/3a²",
+   "D": "2/3a²",
+   "E": "3a³/2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p4_5.png",
+  "images": [
+   "mathematics/1983_p4_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-43",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 43,
+  "question": "The farm yields of four crops on a piece of land in Ondo are represented on the pie chart above. What is the angle of the sector occupied by Okro in the chart?",
+  "options": {
+   "A": "91¹/₂ ⁰",
+   "B": "19¹/₃ ⁰",
+   "C": "33¹/₃ ⁰",
+   "D": "11⁰",
+   "E": "91⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p4_6.png",
+  "images": [
+   "mathematics/1983_p4_6.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-44",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 44,
+  "question": "In the figure above, PQR is a straight line. Find the values of x and y",
+  "options": {
+   "A": "x = 22.5⁰ and y = 33.75⁰",
+   "B": "x = 15⁰ and y = 52.5⁰",
+   "C": "x = 22.5⁰ and y = 45.0⁰",
+   "D": "x = 56.25⁰ and y = 11.5⁰",
+   "E": "x = 18.⁰ and y = 56.5⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-45",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 45,
+  "question": "PQR is the diameter of a semicircle RSP with centre at Q and radius of length 3.5cmc. if QPT = QRT = 60⁰. Find the perimeter of the figure (PTRS p = 22/7) P R",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/1983_p4_3.png",
+  "images": [
+   "mathematics/1983_p4_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-46",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 46,
+  "question": "In a triangle PQR, QR = 3cm, PR = 3cm, PQ = 3cm and PQR = 30⁰. find angles P and R",
+  "options": {
+   "A": "P = 60⁰ and R = 90⁰",
+   "B": "P = 30⁰ and R = 120⁰",
+   "C": "P = 90⁰ and R = 60⁰",
+   "D": "P = 60⁰ and R = 60⁰",
+   "E": "P = 45⁰ and R = 105⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-47",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 47,
+  "question": "S R P Q In the above diagram if PS = SR and PQ//SR. what is the size of PQR?",
+  "options": {
+   "A": "25⁰",
+   "B": "50⁰",
+   "C": "55⁰",
+   "D": "65⁰",
+   "E": "75⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p5_1.png",
+  "images": [
+   "mathematics/1983_p5_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1983-48",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 48,
+  "question": "Find the mean of the following 24.57,25.63,25.32,26.01,25.77",
+  "options": {
+   "A": "25.12",
+   "B": "25.30",
+   "C": "25.26",
+   "D": "25.50q",
+   "E": "25.73"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1983-49",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 49,
+  "question": "Q 30O In the figure above PT is a tangent to the circle with centre O. if PQT = 30⁰. find the value of PTO",
+  "options": {
+   "A": "30₀",
+   "B": "15₀",
+   "C": "24 ₀",
+   "D": "12⁰",
+   "E": "60⁰ 50 A man drove for 4hours at a certain speed, he then doubled his speed and drove for another 3 hours. Altogether he covered 600km. At what speed did he drive for the last 3 hours?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1983_p5_2.png",
+  "images": [
+   "mathematics/1983_p5_2.png"
+  ]
+ }
+]

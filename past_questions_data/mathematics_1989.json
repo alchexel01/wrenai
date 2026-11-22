@@ -1,0 +1,946 @@
+[
+ {
+  "id": "mathematics-1989-1",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 1,
+  "question": "Which of the following is in descending order?",
+  "options": {
+   "A": "9/10,4/5,3/4,17/10",
+   "B": "4/5,9/10,3/4,17/20",
+   "C": "6/10,17/20,4/5,3/4",
+   "D": "4/5,9/10,17/10,3/4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-2",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 2,
+  "question": "Evaluate 2,700, 000 x 0.03 ¸ 18,000",
+  "options": {
+   "A": "4.5 x 10⁰",
+   "B": "4.5 x 10¹",
+   "C": "4.5 x 10²",
+   "D": "4.5 x 10³"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-3",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 3,
+  "question": "The prime factors of 2,520 are",
+  "options": {
+   "A": "2,9,5,",
+   "B": "2,9,7,",
+   "C": "2,3,5,7,",
+   "D": "2,3,7,9,"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-4",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 4,
+  "question": "If 12ₑ = X ₇f ind x where e = 12",
+  "options": {
+   "A": "20",
+   "B": "15",
+   "C": "14",
+   "D": "12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-5",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 5,
+  "question": "Simplify 364r ⁻⁶)¹/²",
+  "options": {
+   "A": "r",
+   "B": "2r",
+   "C": "1/2r",
+   "D": "2/r"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-6",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 6,
+  "question": "What is the difference between 0.007685 correct to three significant figures and 0.007685 correct to four places of decimal?",
+  "options": {
+   "A": "10⁻⁵",
+   "B": "7 x 10⁻⁴",
+   "C": "8 x 10⁻⁵",
+   "D": "10 ⁻⁶"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-7",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 7,
+  "question": "If a : b = 5: 8, x : y = 25 : 16, evaluate a/x : b/y",
+  "options": {
+   "A": "125:128",
+   "B": "3:5",
+   "C": "3:4",
+   "D": "2:5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-8",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 8,
+  "question": "Oke deposited #800.00 in the bank aat the rat of 12₁/₂% simple interest. After some time the total amount was one and half times the principal. For how many years was the money left in the bank",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "5¹/ ₂",
+   "D": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-9",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 9,
+  "question": "If the surface area of a sphere is increased by 44%. Find the percentage increase in its diameter.",
+  "options": {
+   "A": "44",
+   "B": "30",
+   "C": "22",
+   "D": "20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-10",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 10,
+  "question": "Simplify 4 - 1 (2-3)",
+  "options": {
+   "A": "23",
+   "B": "........................ 2., 3",
+   "C": "–2 + 3",
+   "D": "2, -3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-11",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 11,
+  "question": "Find p in terms of q if Log ₃p + 3log ₃q = 3",
+  "options": {
+   "A": "(3)³",
+   "B": "(q)¹/³ (q) (3)",
+   "C": "(q⁾³",
+   "D": "(3)¹/³ (3) (q)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-12",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 12,
+  "question": "What are the values of y which satisfy the equation 9y – 4 ( 3y) + 3 = 0",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-13",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 13,
+  "question": "Make R the subject of the formula S = (R + ) (3RT)",
+  "options": {
+   "A": "R = T",
+   "B": "T (TS² - 1) 2(TS² - 1) C R = T D. T (TS² + 1) 2(TS² + 1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-14",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 14,
+  "question": "Find the value of the expression 32 - 64 81 when x = -3/4 81x³ xx² 16",
+  "options": {
+   "A": "10¹/₂",
+   "B": "10¹/₆",
+   "C": "3³/₈",
+   "D": "–13¹/₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-15",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 15,
+  "question": "The cost of dinner for a group of students is partly cconstant and partly varies directly as the number of students. If the cost is #74.00 when the number of students is 20, and #96.00 when the number is 30, find the cost when there are 15 students.",
+  "options": {
+   "A": "#68.50",
+   "B": "#63.00",
+   "C": "#60.00",
+   "D": "#52.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-16",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 16,
+  "question": "If f(x) = 2x² + 5x + 3, find f(x + 1)",
+  "options": {
+   "A": "2x² – x",
+   "B": "2x² – x + 10",
+   "C": "4x² + 3x + 2",
+   "D": "4x² + 3x + 12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-17",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 17,
+  "question": "Solve the positive number x such that 2⁽x³ ⁻ x² ⁻ ²x⁾ = 1",
+  "options": {
+   "A": "4",
+   "B": "3",
+   "C": "2",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-18",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 18,
+  "question": "Simplify (32x - 4x²) (2x + 18)",
+  "options": {
+   "A": "2(x - 9)",
+   "B": "2(9 + x )",
+   "C": "81 – x²",
+   "D": "–2(x - 9)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-19",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 19,
+  "question": "Factorize completely y³ – 4xy + xy³ – 4y",
+  "options": {
+   "A": "(x + xy)(y + 2)(y - 2)",
+   "B": "(y + xy)(y + 2)(y - 2)",
+   "C": "y(1 + x)(y + 2)(y - 2)",
+   "D": "y(1 - x)(y + 2)(y - 2)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-20",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 20,
+  "question": "If one of x³ – 8⁻¹ is x – 2⁻¹ , the other factors is",
+  "options": {
+   "A": "x² + 2⁻¹ x – 4⁻¹",
+   "B": "x² - 2⁻¹ x – 4⁻¹",
+   "C": "x² + 2⁻¹ x + 4⁻¹",
+   "D": "x² + 2⁻¹ x –4⁻¹"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-21",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 21,
+  "question": "Factorize 4a² + 12ab – c²+ 9b²",
+  "options": {
+   "A": "4a(a – 3b) + (3b - c)²",
+   "B": "(2a + 3b – c )(2a + 3b + c)",
+   "C": "(2a – 3b -c)(2a –3b + c)",
+   "D": "4a(a – 3b) + (3b +c)²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-22",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 22,
+  "question": "What are K and L respectively if ½ (3y – 4x)² = (8x² + kxy + Ly²)",
+  "options": {
+   "A": "-12, 9/2",
+   "B": "–6, 9"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-23",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 23,
+  "question": "Solve the pair of equation for x and y respectively 2x⁻¹ – 3y⁻¹ = 4 4x⁻¹ + y⁻¹ = 1",
+  "options": {
+   "A": "-1,2",
+   "B": "1,2",
+   "C": "2,1",
+   "D": "2,-1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-24",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 24,
+  "question": "What value of Q will make the expression 4x² + 5x + Q a complete square?",
+  "options": {
+   "A": "25/16",
+   "B": "25/64",
+   "C": "5/8",
+   "D": "5/4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-25",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 25,
+  "question": "Find the range of values of r which satisfies the following inequality, where a, b and c are positive. r/a+r/b+r/c >1",
+  "options": {
+   "A": "r> abc",
+   "B": "r>abc bc + ac + ab",
+   "C": "r > 1/a + 1/b + 1/c",
+   "D": "r>1/abc"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-26",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 26,
+  "question": "Express 1 - 1 (x + 1) (x - 2)",
+  "options": {
+   "A": "-3",
+   "B": "3 (x +1)(2-x) (x+1)2-X)",
+   "C": "-1",
+   "D": "1 (x+1)(x-2) (x+1)(x-2)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-27",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 27,
+  "question": "Simplify x - (x+ 1 ) ¹/² (x + 1) (x + 1) ¹/²",
+  "options": {
+   "A": "1",
+   "B": "- 1 x + 1 x + 1",
+   "C": "1",
+   "D": "1 x x + 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-28",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 28,
+  "question": "On the curve above, the points at which the gradient of the curve is equal to zero are",
+  "options": {
+   "A": "c.d.f.i.l",
+   "B": "b.e.g.j.m",
+   "C": "a.b.c.d.f.i.j.l.",
+   "D": "c.d.f.h.i.l"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1989_p23_1.png",
+  "images": [
+   "mathematics/1989_p23_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1989-29",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 29,
+  "question": "The sum of the first two terms of a geometric progression is x and the sum of the last two terms is y. if there are n terms in all, then the common ratio is",
+  "options": {
+   "A": "x/y",
+   "B": "y/x",
+   "C": "(x/y)¹/²",
+   "D": "(y/x)¹/²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-30",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 30,
+  "question": "If –8, m,n, 19 in arithmetic progression, find (m, n)",
+  "options": {
+   "A": "1,10",
+   "B": "2,10",
+   "C": "3,13",
+   "D": "4,16"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-31",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 31,
+  "question": "MN is a tagent to the given circle at M, MR and MQ are ₀ ₀ two chords. If QMN is 60 and MNQ is 40 , find RMQ ₀ ₀",
+  "options": {
+   "A": "120",
+   "B": "11 ₀ ₀",
+   "C": "60",
+   "D": "20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1989_p23_4.png",
+  "images": [
+   "mathematics/1989_p23_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1989-32",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 32,
+  "question": "P Q R In the diagram above, HK is prallel to QR, PH = 4cm and HQ = 3cm. What is the ratio of KR;PR?",
+  "options": {
+   "A": "7:3",
+   "B": "3:7",
+   "C": "3:4",
+   "D": "4:3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1989_p23_5.png",
+  "images": [
+   "mathematics/1989_p23_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1989-33",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 33,
+  "question": "A regular polygon of (2k + 1) sides has 140⁰ as the size of each interior angel. Find K.",
+  "options": {
+   "A": "4",
+   "B": "4¹/₂",
+   "C": "8",
+   "D": "8¹/₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1989_p23_2.png",
+  "images": [
+   "mathematics/1989_p23_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1989-34",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 34,
+  "question": "P R If PST is a straight line and PQ = QS = SR in the above diagram, find y",
+  "options": {
+   "A": "24⁰",
+   "B": "48⁰",
+   "C": "72⁰",
+   "D": "84⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-35",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 35,
+  "question": "S In the above diagram PQ is parallel to RS and QS bisects PQR. If PQR is 60⁰, find x",
+  "options": {
+   "A": "30⁰",
+   "B": "40⁰",
+   "C": "60⁰",
+   "D": "120⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1989_p23_3.png",
+  "images": [
+   "mathematics/1989_p23_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1989-36",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 36,
+  "question": "PQRS is a rhombus. If PR² + QS² = kPQ². Determine k.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-37",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 37,
+  "question": "In DXYZ, Y = Z = 30⁰ and XZ = 3cm find YZ",
+  "options": {
+   "A": "3/2cm",
+   "B": "33/2cm",
+   "C": "33cm",
+   "D": "23cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-38",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 38,
+  "question": "In DPQR, the bisector of QPR meets QR at S. the line PQ is produced to V and the bisector of VQS meets PS produced at T. if QPR = 46⁰ and QST = 75⁰, calculate QTS",
+  "options": {
+   "A": "41⁰",
+   "B": "52⁰",
+   "C": "64⁰",
+   "D": "82⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-39",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 39,
+  "question": "P R",
+  "options": {
+   "A": "If PQR is a straight line with OS = = QR, calculate TPQ, if QT//SR and TQS = 3y⁰.",
+   "B": "56⁰",
+   "C": "20²/₃ ⁰",
+   "D": "18²/₃ ⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1989_p24_1.png",
+  "images": [
+   "mathematics/1989_p24_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1989-40",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 40,
+  "question": "R S T If x : y = 5:12 and z = 52cm, find the perimeter of the triangle.",
+  "options": {
+   "A": "68cm",
+   "B": "84cm",
+   "C": "100cm",
+   "D": "120cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1989_p24_2.png",
+  "images": [
+   "mathematics/1989_p24_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1989-41",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 41,
+  "question": "The pilot of an aeroplane, flying 10km above the ground in the direction of a landmark, views the landmark to have angle of depression of 35⁰ and 55⁰. find the distance between the two points of observation",
+  "options": {
+   "A": "10(sin 35⁰ – sin 55⁰)",
+   "B": "10(cos 35⁰ – cos 55⁰)",
+   "C": "10(tan 35⁰ – tan 55⁰)",
+   "D": "10(cot 35⁰ – cot 55⁰)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-42",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 42,
+  "question": "A sin²x – 3 = 0, find x if 0 < x < 90⁰",
+  "options": {
+   "A": "30⁰",
+   "B": "45⁰",
+   "C": "60⁰",
+   "D": "90⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-43",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 43,
+  "question": "A square tile has side 30cm. How many of these tiles cover a rectangular floor of length 7.2cm and width 4.2m?",
+  "options": {
+   "A": "336",
+   "B": "420",
+   "C": "576",
+   "D": "720"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-44",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 44,
+  "question": "A cylindrical metal pipe 1m long has an outer diameter of 7.2cm and an inner diameter of 2.8cm. find the volume",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-45",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 45,
+  "question": "O OXYZW is a pyramid with a square base such that OX = OY = OZ = OW = 5cm and XY = XW = YZ = WZ = 6cm. Find the height OT.",
+  "options": {
+   "A": "25",
+   "B": "3",
+   "C": "4",
+   "D": "7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1989_p24_4.png",
+  "images": [
+   "mathematics/1989_p24_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1989-46",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 46,
+  "question": "In preparing rice cutlets, a cook used 75g of rice, 40g of margarine, 105g of meat and 20g of bread crumbs. Find the angle of the sector which represents meat in a pie chart.",
+  "options": {
+   "A": "30⁰",
+   "B": "60⁰",
+   "C": "112.5⁰",
+   "D": "157.5⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-47",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 47,
+  "question": "In a class of 30 students, the marks scored in an examination are displayed in the following histogram. ⁿedᵤₜ 10 s f ₒ. 8 oN 6 20 40 60 80 100 Marks scored What percentage of the students scored more than 40%",
+  "options": {
+   "A": "14%",
+   "B": "40%",
+   "C": "45²/₃ %",
+   "D": "53¹/₃ %"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1989_p24_3.png",
+  "images": [
+   "mathematics/1989_p24_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1989-48",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 48,
+  "question": "In a family of 21 people, the average age is 14years. If the age of the grandfather is not counted, the average age drops to 12years. What is the age of the grandfather?",
+  "options": {
+   "A": "35years",
+   "B": "40years",
+   "C": "42years",
+   "D": "54years"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-49",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 49,
+  "question": "If n is the median and m is the mode of the following set of numbers,2.4,2.1,1.6,2.6,2.6,3.7,2.,1,2.6, then (n, m) is",
+  "options": {
+   "A": "(2.6,2.6)",
+   "B": "(2.5,2.6)",
+   "C": "(2.6,2.5)",
+   "D": "(2.5,2.1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1989-50",
+  "subject": "mathematics",
+  "year": 1989,
+  "number": 50,
+  "question": "The numbers are chosen at random from three numbers 1,3,6. find the probability that the sum of the two is not",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

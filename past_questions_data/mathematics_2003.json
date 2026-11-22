@@ -1,0 +1,926 @@
+[
+ {
+  "id": "mathematics-2003-1",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 1,
+  "question": "Simplify 1 – (2 / x₃ 1 / ) ₄ + /₅",
+  "options": {
+   "A": "-2³¹/₆ ₀",
+   "B": "–2⁷/₁ ₅",
+   "C": "–1¹⁹/₆ ₀",
+   "D": "–1¹/₁ ₅"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-2",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 2,
+  "question": "A cinema hall contains a certain number of people.",
+  "options": {
+   "A": "133",
+   "B": "113",
+   "C": "63",
+   "D": "84"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-3",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 3,
+  "question": "Simplify 213₄ x 23₄",
+  "options": {
+   "A": "13211",
+   "B": "10311"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-4",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 4,
+  "question": "A woman buys 270 oranges for # 1800.00 and sells at 5 for #40.00. what is her profit?",
+  "options": {
+   "A": "#630.00",
+   "B": "#360.00",
+   "C": "#1620.00",
+   "D": "#2160.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-5",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 5,
+  "question": "Simplify (98 - 50) 32",
+  "options": {
+   "A": "½",
+   "B": "¼",
+   "C": "1",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-6",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 6,
+  "question": "The sum of four numbers is 1214₅. what is the average expressed in base five?",
+  "options": {
+   "A": "411",
+   "B": "401",
+   "C": "141",
+   "D": "114"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-7",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 7,
+  "question": "Evaluate log₂4 + log₁/₂16 – log₄32",
+  "options": {
+   "A": "-2.5",
+   "B": "5.5",
+   "C": "–5.5",
+   "D": "2.5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-8",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 8,
+  "question": "Given: U = {Even numbers between 0 and 30} P = {Multiples of 6 between 0 and 30} Q = {Multiples of 4 between 0 and 30} Find (PUQ)c.",
+  "options": {
+   "A": "{0, 2, 6, 22, 26}",
+   "B": "{2, 4, 14, 18, 26}",
+   "C": "{2, 10, 14, 22, 26}",
+   "D": "{0, 10, 14, 22, 26}"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-9",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 9,
+  "question": "In a class of 40 students, 32 offer Mathematics, 24 offer Physics and 4 offer neither Mathematics nor Physics. How many offer both Mathematics and Physics?",
+  "options": {
+   "A": "16",
+   "B": "4",
+   "C": "20",
+   "D": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-10",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 10,
+  "question": "Find (1/0.06  1/0.042)⁻¹, correct to two decimal places",
+  "options": {
+   "A": "4.42",
+   "B": "3.14",
+   "C": "1.53",
+   "D": "1.43"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-11",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 11,
+  "question": "If 9²x ⁻ ¹/27x ⁺ ¹ = 1, find the value of x.",
+  "options": {
+   "A": "2",
+   "B": "8",
+   "C": "5",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-12",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 12,
+  "question": "Factorize completely 4abx – 2axy – 12b²x +6bxy",
+  "options": {
+   "A": "2x(3b - a)(2b - y)",
+   "B": "2x(a – 3b)(b - 2y)",
+   "C": "2x(2b - a)(3b - y)",
+   "D": "2x(a – 3b)(2b - y)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-13",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 13,
+  "question": "The sum of the first n terms of an arithmetic progression is 252. if the first term is –16 and the last term is 72, find the number of terms in the series.",
+  "options": {
+   "A": "7",
+   "B": "9",
+   "C": "6",
+   "D": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-14",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 14,
+  "question": "The graphs of the function y = x² + 4 and a straight line PQ are drawn to solve the equation x² – 3x + 2 = 0. what is the equation of PQ?",
+  "options": {
+   "A": "y = 3x + 2",
+   "B": "y = 3x – 4",
+   "C": "y = 3x + 4",
+   "D": "y = 3x – 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-16",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 16,
+  "question": "Find the values of x and y respectively if 3x – 5y + 5 = 0 and 4x – 7y + 8 = 0",
+  "options": {
+   "A": "-4, -5",
+   "B": "–5, -4",
+   "C": "5, 4",
+   "D": "4, 5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-17",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 17,
+  "question": "If –(x, 2) = (3, 3x) (4x, 1) (4, –5) find the value of x",
+  "options": {
+   "A": "-2",
+   "B": "–5",
+   "C": "2",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-18",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 18,
+  "question": "Find the range of values of x satisfying the inequalities 5 + x  8 and 13 + ³ 7.",
+  "options": {
+   "A": "-6  x  3",
+   "B": "-6  x  -3",
+   "C": "3  x  6",
+   "D": "–3  x  3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-19",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 19,
+  "question": "x varies directly as the product of U and V and inversely as their sum. If x = 3 when U = 3 and V = 1, what is the value of x if U = 3 and V = 3?",
+  "options": {
+   "A": "4",
+   "B": "9",
+   "C": "6",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-20",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 20,
+  "question": "Triangle OPQ above is the solution of the inequalities.",
+  "options": {
+   "A": "x – 1  0, y + x  0, y, - x  0",
+   "B": "x + 1  0, y + x  0, y, - x  0",
+   "C": "y + x  0, y – x  0, x – 1  0",
+   "D": "x –1  0, y – x  0, y + x  0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2003_p60_1.png",
+  "images": [
+   "mathematics/2003_p60_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-2003-21",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 21,
+  "question": "Three consecutive terms of a geometric progression are given as n – 2, n and n + 3. find the common ratio.",
+  "options": {
+   "A": "2/3",
+   "B": "3/2",
+   "C": "½",
+   "D": "¼"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-22",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 22,
+  "question": "The length a person can jump is inversely proportional to his weigth. If a 20kg person can jump 1.5 m, find the constant of proportionality.",
+  "options": {
+   "A": "30",
+   "B": "60",
+   "C": "15",
+   "D": "20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2003_p60_2.png",
+  "images": [
+   "mathematics/2003_p60_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-2003-23",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 23,
+  "question": "In the diagram above, O is the centre of the circle, POM is a diameter and  MNQ = 42⁰. calculate QMP.",
+  "options": {
+   "A": "138⁰",
+   "B": "132⁰",
+   "C": "42⁰",
+   "D": "48⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-24",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 24,
+  "question": "The locus of a point P which moves on one side only of a straight line XY so that  XPY = 90⁰ is.",
+  "options": {
+   "A": "the perpendicular bisector of XY",
+   "B": "a circle",
+   "C": "a semicircle",
+   "D": "an arc of a circle through X,Y P R"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-25",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 25,
+  "question": "Q S In the diagram above, PQ is parallel to RS. What is the value of  +  + y?",
+  "options": {
+   "A": "180⁰",
+   "B": "90⁰",
+   "C": "200⁰",
+   "D": "360⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2003_p61_5.png",
+  "images": [
+   "mathematics/2003_p61_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-2003-26",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 26,
+  "question": "Whicch of the following is the graph of sin for -     2 ",
+  "options": {
+   "A": "",
+   "B": "",
+   "C": "",
+   "D": ""
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2003_p61_1.png",
+  "images": [
+   "mathematics/2003_p61_1.png",
+   "mathematics/2003_p61_3.png",
+   "mathematics/2003_p61_4.png",
+   "mathematics/2003_p61_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-2003-27",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 27,
+  "question": "P S In the diagram above, PQR is a straight line and PS is a tangent to the circle QRS with /PS/ = /SR/ and SPR = 40⁰. find PSQ.",
+  "options": {
+   "A": "20⁰",
+   "B": "10⁰",
+   "C": "40⁰",
+   "D": "30⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2003_p61_6.png",
+  "images": [
+   "mathematics/2003_p61_6.png"
+  ]
+ },
+ {
+  "id": "mathematics-2003-28",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 28,
+  "question": "If / ₂ 2, find the maximum value of f() = 4/6 + 2 cos ",
+  "options": {
+   "A": "1",
+   "B": "½",
+   "C": "4",
+   "D": "2/3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-29",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 29,
+  "question": "An aeroplane flies due north from airports P to Q and then flies due east to R. if Q is equidistant from P and R, find the bearing of P and R.",
+  "options": {
+   "A": "270⁰",
+   "B": "090⁰",
+   "C": "135⁰",
+   "D": "225⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-30",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 30,
+  "question": "Find the value of p, if the line of which passes through (-1, -p) and (-2, 2) is parallel to the line 2y + 8x – 17 = 0.",
+  "options": {
+   "A": "–2/7",
+   "B": "7/6",
+   "C": "–6/7",
+   "D": "6/7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-31",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 31,
+  "question": "Find the equation of the locus of a point P(x, y) which is equidistant form Q(0,0) and R(2, 1).",
+  "options": {
+   "A": "2x + y = 5",
+   "B": "2x + 2y = 5",
+   "C": "4x + 2y = 5",
+   "D": "4x – 2y = 5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-32",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 32,
+  "question": "An arc of a circle subtends an angle of 30⁰ on the circumference of a circle of a radius 21cm. Find the length of the arc",
+  "options": {
+   "A": "66cm",
+   "B": "44cm",
+   "C": "22cm",
+   "D": "11cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-33",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 33,
+  "question": "A trapezium has two parallel sides of length 5cm and 9cm. If the area is 121cm², find the distance between the parallel sides.",
+  "options": {
+   "A": "7cm",
+   "B": "3cm",
+   "C": "4cm",
+   "D": "6cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2003_p61_7.png",
+  "images": [
+   "mathematics/2003_p61_7.png"
+  ]
+ },
+ {
+  "id": "mathematics-2003-34",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 34,
+  "question": "XYZ is a circle centre O and radius 7cm. Find the area of the shaded region.",
+  "options": {
+   "A": "14cm²",
+   "B": "38cm²",
+   "C": "77cm²",
+   "D": "84cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-35",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 35,
+  "question": "A triangle has vertices P(-1, 6), Q(-3, -4) and R(1, - 4). Find the midpoints of PQ and QR respectively.",
+  "options": {
+   "A": "(-1, 0) and (-1, -1)",
+   "B": "(-2, 1) and (-1, -4)",
+   "C": "(0, -1) and (-1, -4)",
+   "D": "(-2, 1) and (0, 1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-36",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 36,
+  "question": "Evaluate ³₂ ( x² – 2x)dx",
+  "options": {
+   "A": "4/3",
+   "B": "1/3",
+   "C": "2",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-37",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 37,
+  "question": "If y = 3 sin (-4x), dy/ dx is",
+  "options": {
+   "A": "-12 cos (-4x)",
+   "B": "12 sin (-4x)",
+   "C": "12x cos (4x)",
+   "D": "–12x cos (-4x)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-38",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 38,
+  "question": "Determine the maximum value of y = 3x² + 5x – 3 at",
+  "options": {
+   "A": "6",
+   "B": "0",
+   "C": "2.",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2003_p62_2.png",
+  "images": [
+   "mathematics/2003_p62_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-2003-40",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 40,
+  "question": "The histogram above shows the ages of the victims of a pollution. How many people were involved in the pollution?",
+  "options": {
+   "A": "18",
+   "B": "21",
+   "C": "15",
+   "D": "20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-41",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 41,
+  "question": "ve.",
+  "options": {
+   "C": "1",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2003_p62_1.png",
+  "images": [
+   "mathematics/2003_p62_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-2003-42",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 42,
+  "question": "The mean of the numbers 3, 6, 4, x and 7 is 5. find the standard deviation",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "3",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-43",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 43,
+  "question": "A bag contains 5 blsck ball and 3 red balls. Two balls are picked at random without replacement. What is the probability that a black and a red balls are picked?",
+  "options": {
+   "A": "5/14",
+   "B": "13/28",
+   "C": "3/14",
+   "D": "15/28"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-44",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 44,
+  "question": "On a pie chart, there are four sectors of which three angles are 45⁰, 90⁰ and 135⁰. if the smallest sector represents #28.00, how much is the largest sector?",
+  "options": {
+   "A": "#48.00",
+   "B": "#96.00",
+   "C": "#42.00",
+   "D": "#84.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-45",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 45,
+  "question": "The range of 4, 3, 11, 9, 6, 15, 19, 23, 27, 24, 21 and 16 is",
+  "options": {
+   "A": "23",
+   "B": "24",
+   "C": "21",
+   "D": "16"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-46",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 46,
+  "question": "The result of tossing a fair die 120 times is summarized above. Find the value of x.",
+  "options": {
+   "A": "21",
+   "B": "19",
+   "C": "22",
+   "D": "20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2003_p62_3.png",
+  "images": [
+   "mathematics/2003_p62_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-2003-47",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 47,
+  "question": "If ⁿP ₃– 6 (ⁿC )₄ = 0, find the value of n",
+  "options": {
+   "A": "6",
+   "B": "5",
+   "C": "8",
+   "D": "7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-48",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 48,
+  "question": "TCw. o dice ¼ar e thrown. WhatD is. the pro2b/3a bility that the sum of the numbers is divisible by 3.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-49",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 49,
+  "question": "Find the number of committees of three that can be formed consisting of two men and one woman from four men and three women.",
+  "options": {
+   "A": "24",
+   "B": "18",
+   "C": "3",
+   "D": "6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2003-50",
+  "subject": "mathematics",
+  "year": 2003,
+  "number": 50,
+  "question": "By how much is the mean of 30, 56, 31, 55, 43 and 44 less than the median.",
+  "options": {
+   "A": "0.50",
+   "B": "0.75",
+   "C": "0.17",
+   "D": "0.33"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

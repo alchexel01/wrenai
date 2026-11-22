@@ -1,0 +1,930 @@
+[
+ {
+  "id": "mathematics-1995-1",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 1,
+  "question": "Calculate 3310 ₅- 1442 ₅",
+  "options": {
+   "A": "1313₅",
+   "B": "2113₅",
+   "C": "4302₅",
+   "D": "1103₅"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-2",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 2,
+  "question": "Convert 3.1415926 to 5 decimal places",
+  "options": {
+   "A": "3.14160",
+   "B": "3.14159",
+   "C": "0.31415",
+   "D": "3.14200"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-3",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 3,
+  "question": "The length of a notebook 15cm, was measured as 16.8cm. calculate the percentage error to 2 significant figures.",
+  "options": {
+   "A": "12.00%",
+   "B": "11.00%",
+   "C": "10.71%",
+   "D": "0.12%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-4",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 4,
+  "question": "A worker’s present salary is #24,000 per annum. His annual increment is 10% of his basic salary. What would be his annual salary at the beginning of the third year?",
+  "options": {
+   "A": "#28,800",
+   "B": "#29,040",
+   "C": "#31,200 D.#31,944"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-5",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 5,
+  "question": "Express the product of 0.0014 and 0.011 in standard form.",
+  "options": {
+   "A": "1.54 x 10²",
+   "B": "1.54 x 10⁻³",
+   "C": "1.54 x 10⁴",
+   "D": "1.54 x 10⁻⁵"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-6",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 6,
+  "question": "Evaluate (81³/⁴ - 27 ¹/³) 3 x 2³",
+  "options": {
+   "A": "27",
+   "B": "1",
+   "C": "1/3",
+   "D": "1/8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-7",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 7,
+  "question": "Find the value of (16)³/² + log ₁₀ 0.0001 + log ₂3 2",
+  "options": {
+   "A": "0.065",
+   "B": "0.650",
+   "C": "6.500",
+   "D": "65.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-8",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 8,
+  "question": "Simplify 12 - 3 12 + 3",
+  "options": {
+   "A": "1/3",
+   "B": "0",
+   "C": "9/15",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-9",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 9,
+  "question": "Four members of a school first eleven cricket team are also members of the first fourteen rugby team. How many boys play for at least one of the two teams?",
+  "options": {
+   "A": "25",
+   "B": "21",
+   "C": "16",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-10",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 10,
+  "question": "If S = (x : x² = 9, x > 4), then S is equal to",
+  "options": {
+   "A": "0",
+   "B": "{0}",
+   "C": "f",
+   "D": "{f}"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-11",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 11,
+  "question": "If x – 1 and x + 1 are both factors of the equation x³ + px³ + qx + 6 = 0, evaluate p and q",
+  "options": {
+   "A": "–6, -1",
+   "B": "6, 1",
+   "C": "-1",
+   "D": "6, -6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-12",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 12,
+  "question": "12. Find a positive value of p if the equation 2x² – px + p leaves a remainder 6 when added",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-13",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 13,
+  "question": "Find r in terms of K, Q and S if s = 2r (Q+)",
+  "options": {
+   "A": "r² - k",
+   "B": "r² - k 2r²Q Q 4r²Q",
+   "C": "r² - k",
+   "D": "r² - k 2r2Q 4r2Q"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-15",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 15,
+  "question": "Factorize completely the expression abx² + 6y – 3ax –2byx",
+  "options": {
+   "A": "(ax – 2y)(bx - 3)",
+   "B": "(bx + 3)(2y - ax)",
+   "C": "(bx + 3)(ax – 2y)",
+   "D": "(ax – 2y) (ax - b)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-16",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 16,
+  "question": "Solve the following inequality (x - 3)(x - 4) 0",
+  "options": {
+   "A": "3 x  4",
+   "B": "3 < x < 4",
+   "C": "3  x < 4",
+   "D": "3 < x 4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-17",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 17,
+  "question": "The 4th term of an A. P is 13cm while the 10th term is 31. find the 31st term.",
+  "options": {
+   "A": "175",
+   "B": "85",
+   "C": "64",
+   "D": "45"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-18",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 18,
+  "question": "Simplify x2 - 1 x³ + 2x² – x - 2",
+  "options": {
+   "A": "1/x + 2",
+   "B": "x – 1/x + 1",
+   "C": "x – 1/x + 2",
+   "D": "1/x – 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-19",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 19,
+  "question": "Express 5x – ½ (x - 2)(x - 3) in partial fraction",
+  "options": {
+   "A": "2/x – 2 – 3/x – 3",
+   "B": "2/x – 2 + 3/x – 3",
+   "C": "2/x – 3 – 3x –2",
+   "D": "5/x – 3 + 4/x – 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1995_p41_1.png",
+  "images": [
+   "mathematics/1995_p41_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1995-20",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 20,
+  "question": "Use the graph of the curve y = f(x) above to solve the inequality f(x) > 0.",
+  "options": {
+   "A": "-1 x  1, x > 2",
+   "B": "x -1, 1, < x > 2",
+   "C": "x -1, 1  x  2",
+   "D": "x  2, -1  x  1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-21",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 21,
+  "question": "Which of the following binary operation is commutative in a set of integers?",
+  "options": {
+   "A": "a*b = a + 2b",
+   "B": "a*b = a + b –ab",
+   "C": "a*b = a² + b",
+   "D": "a*b = a(b + 1)/2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-22",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 22,
+  "question": "If a*b = +ab, Evaluate 2*(12*27)",
+  "options": {
+   "A": "12",
+   "B": "9",
+   "C": "6",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-23",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 23,
+  "question": "Find the sum to infinity of the following sequence 1, 9/10, (9/10)², (9/10)³",
+  "options": {
+   "A": "1/10",
+   "B": "9/10",
+   "C": "10/9",
+   "D": "10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-24",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 24,
+  "question": "Find the value of K if 2, 1, 1",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-25",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 25,
+  "question": "If X = 1, 2 and Y = 2, 1 0, 3 4, 3",
+  "options": {
+   "A": "(10, 7)",
+   "B": "(2, 7) (12, 9) (1, 17)",
+   "C": "(10, 4)",
+   "D": "(4, 3) ( 4, 6) (10, 9)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1995_p42_2.png",
+  "images": [
+   "mathematics/1995_p42_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1995-26",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 26,
+  "question": "Determine the value of x in the figure above ₀ ₀",
+  "options": {
+   "A": "134",
+   "B": "81 ₀ ₀",
+   "C": "53",
+   "D": "46"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1995_p42_1.png",
+  "images": [
+   "mathematics/1995_p42_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1995-27",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 27,
+  "question": "P T PT is a tangent to the circle TYZX, YT = YX and < PTX = 50⁰. calculate <TZY",
+  "options": {
+   "A": "50⁰",
+   "B": "65⁰",
+   "C": "85⁰",
+   "D": "130⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-28",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 28,
+  "question": "In a triangle XYZ, <YXZ = 440? and <XYZ = 112⁰. calculate the acute angle between the internal triangle of <XYZ and <XZY.",
+  "options": {
+   "A": "42⁰",
+   "B": "56⁰",
+   "C": "68⁰",
+   "D": "78⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-29",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 29,
+  "question": "Find the distance between two towns P(45⁰N, 30⁰N) and Q(15⁰S, 30⁰W) if the radius of the earth is 7 000km.",
+  "options": {
+   "A": "1 100",
+   "B": "2 200 3 3",
+   "C": "11 000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-30",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 30,
+  "question": "Two perpendicular lines PQ and QR intersect at (1, -1). If the equation of PQ is x – 2y + 4 = 0, find the equation of QR.",
+  "options": {
+   "A": "x – 2y + 1 = 0",
+   "B": "2x + y – 3 – 0",
+   "C": "x – 2y – 3 = 0",
+   "D": "2x + y – 1 = 0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-31",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 31,
+  "question": "P is on the locus of a point equidistant form two given points X and Y. UV is a straight line through Y parallel to the locus. If < PYU is 40⁰ find <XPY ₀ ₀",
+  "options": {
+   "A": "100",
+   "B": "80 ₀ ₀",
+   "C": "50 O",
+   "D": "40"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1995_p42_3.png",
+  "images": [
+   "mathematics/1995_p42_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1995-32",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 32,
+  "question": "In the diagram above, k, m, and n are parallel lines.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "mathematics/1995_p42_6.png",
+  "images": [
+   "mathematics/1995_p42_6.png"
+  ]
+ },
+ {
+  "id": "mathematics-1995-33",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 33,
+  "question": "In the diagram above, the base diameters is 14cm while the height is 12cm. Calculate the total surface area if the cylinder has both a base and a top (p = 22/7)",
+  "options": {
+   "A": "836cm²",
+   "B": "528cm²",
+   "C": "308cm²",
+   "D": "154cm²"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-34",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 34,
+  "question": "P R 10 cm In the diagram above, find PQ if the area of triangle PQR is 35ccm²",
+  "options": {
+   "A": "97cm",
+   "B": "10cm",
+   "C": "14cm",
+   "D": "17cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1995_p42_5.png",
+  "images": [
+   "mathematics/1995_p42_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1995-35",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 35,
+  "question": "A schoolboy lying on the ground 30m away from the foot of a water tank lower observes that the angle of elevation of the top of the tank is 60⁰. Calculate the height of the water tank.",
+  "options": {
+   "A": "60m",
+   "B": "30.3m",
+   "C": "20.3m",
+   "D": "10.3m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-36",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 36,
+  "question": "QRS is a triangle with QS = 12m, <RQS = 30⁰ and <QRS = 45⁰, calculate the length of RS.",
+  "options": {
+   "A": "182m",
+   "B": "122m",
+   "C": "62m",
+   "D": "32m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-37",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 37,
+  "question": "Which of the following is a sketch of y = 3 sin x?",
+  "options": {
+   "A": "B",
+   "C": "D"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1995_p42_7.png",
+  "images": [
+   "mathematics/1995_p42_7.png",
+   "mathematics/1995_p42_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1995-38",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 38,
+  "question": "The derivative of cosec x is",
+  "options": {
+   "A": "tan x cosec x",
+   "B": "– cot x cosec x",
+   "C": "tan x sec x",
+   "D": "–cot x sec x"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-39",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 39,
+  "question": "For what value of x is the tangent o the curve y = x² – 4x + 3 parallel to the x – axis?",
+  "options": {
+   "A": "3",
+   "B": "2",
+   "C": "1",
+   "D": "0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-40",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 40,
+  "question": "Two variables x and y are such that dy/dx = 4x – 3 and y = 5 when x = 2. find y in terms of x",
+  "options": {
+   "A": "2x² – 3x + 5",
+   "B": "2x² – 3x + 3",
+   "C": "2x² – 3x",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-41",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 41,
+  "question": "Find the area bounded by the curve y = 3x² – 2x + 1, the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-42",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 42,
+  "question": "The frequency distribution above shows the ages of students in a secondary school. In a pie chart constructed to represent the data, the angle corresponding to the 15 years-old is",
+  "options": {
+   "A": "27⁰",
+   "B": "30⁰",
+   "C": "54⁰",
+   "D": "108⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1995_p43_1.png",
+  "images": [
+   "mathematics/1995_p43_1.png",
+   "mathematics/1995_p43_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1995-43",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 43,
+  "question": "The pie chart above shows the distribution of students in a secondary school class. If 30 students offered French, how many offered C.R.K?",
+  "options": {
+   "A": "25",
+   "B": "15",
+   "C": "10",
+   "D": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-44",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 44,
+  "question": "The mean and the range of the set of numbers 0.20,1.00,0.90,1.40,0.80,0.80,1.20,and 1.10 are m and r respectively. Find m + r",
+  "options": {
+   "A": "1.11",
+   "B": "1.65",
+   "C": "1.85",
+   "D": "2.45"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1995_p43_2.png",
+  "images": [
+   "mathematics/1995_p43_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1995-45",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 45,
+  "question": "Find the standard deviation of the data using the table above A .5 B. 6 C. 5/3 D. 5",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-46",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 46,
+  "question": "The variance of the scores 1,2,3,4,5 is",
+  "options": {
+   "A": "1.2",
+   "B": "1.4",
+   "C": "2.0",
+   "D": "3.0 Use the table below to answer questions 47 and 48"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1995_p43_4.png",
+  "images": [
+   "mathematics/1995_p43_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1995-47",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 47,
+  "question": "find the mode of the distribution",
+  "options": {
+   "A": "3.2",
+   "B": "3.4",
+   "C": "3.7",
+   "D": "4.2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-48",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 48,
+  "question": "The median of the distribution is",
+  "options": {
+   "A": "4.0",
+   "B": "3.5",
+   "C": "3.2",
+   "D": "3.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-49",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 49,
+  "question": "Let P be a probability function on set S, where S = (a₁,a₂,a₃,a₄) find P(a₁) if P(a₂) = P(a₃) = 1/6 and P(a₄)1/5",
+  "options": {
+   "A": "7/10 B 2/3",
+   "C": "1/3",
+   "D": "3/10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-50",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 50,
+  "question": "A die has four of its faces coloured while and the remaining two coloured black . What is the probability that when the die is thrown two consecutive times, the top face will be white in both cases?",
+  "options": {
+   "A": "2/3",
+   "B": "1/9",
+   "C": "4/9",
+   "D": "1/36"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

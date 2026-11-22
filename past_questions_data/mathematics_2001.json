@@ -1,0 +1,899 @@
+[
+ {
+  "id": "mathematics-2001-1",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 1,
+  "question": "Find the principal which amounts to #5,000 at simple interest in 5 years at 2% per annum",
+  "options": {
+   "A": "#5000",
+   "B": "#4900",
+   "C": "#4800",
+   "D": "#4700"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-2",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 2,
+  "question": "A car dealer bought a second-hand car for #250,000.00 and spent #70 000.00 refurbishing it. He then sold the car for #400 000.00. what is the percentage gain?",
+  "options": {
+   "A": "20%",
+   "B": "25%",
+   "C": "32%",
+   "D": "60%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-3",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 3,
+  "question": "Evaluate 21.05347 – 1.6324 x 0.43, to 3 decimal places.",
+  "options": {
+   "A": "20.351",
+   "B": "20.352",
+   "C": "20.980",
+   "D": "20.981"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-4",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 4,
+  "question": "Evaluate (0.14)² x 0.275)/7(0.02) correct to 3 decimal places",
+  "options": {
+   "A": "0.033",
+   "B": "0.039",
+   "C": "0.308",
+   "D": "0.358"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-5",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 5,
+  "question": "Given that p = 1 + 2 and q = 1 - 2, evaluate (p² –",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-6",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 6,
+  "question": "If y/2 = x, evaluate (x³/y³ + 1/2) + (1/2 – x²/y²)",
+  "options": {
+   "A": "5/16",
+   "B": "5/8",
+   "C": "5/4",
+   "D": "5/2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-7",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 7,
+  "question": "Simplify (364a³)⁻³",
+  "options": {
+   "A": "8a",
+   "B": "4a",
+   "C": "1/4a",
+   "D": "1/4a"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-8",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 8,
+  "question": "Factorize 4x² – 9y² + 20x + 25",
+  "options": {
+   "A": "(2x – 3y)(2x + 3y)",
+   "B": "(2x + 5)(2x – 9y+ 5)",
+   "C": "(2x – 3y + 5)(2x – 3y - 5)",
+   "D": "(2x – 3y)(2x + 3y + 5)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-9",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 9,
+  "question": "If tow graphs y = px² and y = 2x² – 1 intersect at x = 2, find the value of p in terms of q",
+  "options": {
+   "A": "(7 + q)/8",
+   "B": "(8 – q)/2",
+   "C": "(q – 8)/7",
+   "D": "7 / (q –1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-10",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 10,
+  "question": "Solve the equations: m² + n² = 29;m + n = 7",
+  "options": {
+   "A": "(5, 2) and (5, 3)",
+   "B": "(5, 3) and (3, 5)",
+   "C": "(2, 3) and (3, 5)",
+   "D": "(2, 5) and (5, 2)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-12",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 12,
+  "question": "Find the integral values of x and y satisfying the inequality 3y + 5x £ 15, given that y > 0, y< 3 and x > 0.",
+  "options": {
+   "A": "(1, 1), (2, 1),(1, 3)",
+   "B": "(1, 1), (1, 2),(1, 3)",
+   "C": "(1, 1), (1, 2), (2, 1)",
+   "D": "(1, 1), (3, 1), (2, 2)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-13",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 13,
+  "question": "Triangle SPT is the solution of the linear inequalities",
+  "options": {
+   "A": "2y – x – 2  0, y + 2x + 2  0, x  0",
+   "B": "2y – x – 2  0, y + 2x + 2  0,  0",
+   "C": "2y – x – 2  0, y + 2x + 2  0,  0, x  -1",
+   "D": "-2y < x  2  0, y + 2x + 2  0,  0 14.. The sixth term of an arithmetic progression is half of its twelfth term. The first term is equal to"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2001_p55_1.png",
+  "images": [
+   "mathematics/2001_p55_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-2001-15",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 15,
+  "question": "A man saves #100.00 in his first year of work and each year saves #20.00 more than in the preceding year. In how many years will he save #580.00",
+  "options": {
+   "A": "20 years",
+   "B": "29 years",
+   "C": "58 years",
+   "D": "100 years"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-16",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 16,
+  "question": "An operation * is defined on the set of real numbers by a*b = a + b + 1. if the identity elements is -1, find the inverse of the element 2 under.",
+  "options": {
+   "A": "-4",
+   "B": "2",
+   "C": "0",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-17",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 17,
+  "question": "The identity element with respect to the multiplication shown in the table above is",
+  "options": {
+   "A": "k",
+   "B": "l",
+   "C": "m",
+   "D": "o"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2001_p55_2.png",
+  "images": [
+   "mathematics/2001_p55_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-2001-18",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 18,
+  "question": "Given that matrix k = (2, 1) the matrix (3, 4) k² + k + 1, where I is the 2 x 2 identity matrix, is",
+  "options": {
+   "A": "(9, 8 )",
+   "B": "(10, 7) (22, 23) (21, 24)",
+   "C": "(7, 2)",
+   "D": "(6, 3) (12, 21) (13, 20)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-19",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 19,
+  "question": "Evaluate -1 -1 -1",
+  "options": {
+   "A": "4",
+   "B": "–2",
+   "C": "–4",
+   "D": "–12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-20",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 20,
+  "question": "If P = 3 -3 4 then -2p is 5 0 6 1 2 1",
+  "options": {
+   "A": "-6, 4, -8 B -6, 4, -8 5, 0, 6 -10, 0, 6 7, 5, -1 -14, 5, -1",
+   "C": "-6, -4, 2 D -6, 4, -8 -10, -2, -12 -10, 0, -12 -14, 10, 2 -14, 40, 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-21",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 21,
+  "question": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle",
+  "options": {
+   "A": "2",
+   "B": "3",
+   "C": "6",
+   "D": "8"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2001_p55_3.png",
+  "images": [
+   "mathematics/2001_p55_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-2001-22",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 22,
+  "question": "P R In the figure above, PQR is a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, < SRQ is 75⁰ and < QPT = 25⁰. calculate the value of < RST.",
+  "options": {
+   "A": "25⁰",
+   "B": "45⁰",
+   "C": "50⁰",
+   "D": "55⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-23",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 23,
+  "question": "A cylindrical tank has a capacity of 3080m³. what is the depth of the tank if the diameter of its base is 14m?",
+  "options": {
+   "A": "20m",
+   "B": "22m",
+   "C": "23m",
+   "D": "25m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-24",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 24,
+  "question": "A sector of a circle of radius 7.2 cm which subtends an angle 300⁰ at the centre is used to form a cone. What is the radius of the base of the cone?",
+  "options": {
+   "A": "6cm",
+   "B": "7cm",
+   "C": "8cm",
+   "D": "9cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-25",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 25,
+  "question": "The chord ST of a circle is equal to the radius, r of the circle. Find the length of arc ST.",
+  "options": {
+   "A": "r/2",
+   "B": "r/3",
+   "C": "r/6",
+   "D": "r/12"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-26",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 26,
+  "question": "A point P moves such that it is equidistant from the points Q and R. find QR when PR = 8cm and < PRQ = 30⁰",
+  "options": {
+   "A": "4cm",
+   "B": "43cm",
+   "C": "8cm",
+   "D": "83cm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-27",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 27,
+  "question": "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k.",
+  "options": {
+   "A": "y = 4 + k",
+   "B": "y = k – 4",
+   "C": "y = k ± 4",
+   "D": "y = 4 ± k"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-29",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 29,
+  "question": "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius",
+  "options": {
+   "A": "3.5 units",
+   "B": "6.5 units",
+   "C": "7.0 units",
+   "D": "13.0 units"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-30",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 30,
+  "question": "Find the value of p if the line joining (p, 4) and (6, - 2) is perpendicular to the line joining (2, p) and (-1,",
+  "options": {
+   "A": "0",
+   "B": "3",
+   "C": "4",
+   "D": "6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-31",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 31,
+  "question": "The bearing of P and Q from a common point N are 020⁰ and 300⁰ respectively. If P and Q are also equidistant from N, find the bearing of P from Q.",
+  "options": {
+   "A": "320⁰",
+   "B": "280⁰",
+   "C": "070⁰",
+   "D": "040⁰"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2001_p56_1.png",
+  "images": [
+   "mathematics/2001_p56_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-2001-32",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 32,
+  "question": "Find the val₀ue of q in the diagram abov₀e.",
+  "options": {
+   "A": "30",
+   "B": "60 ₀ ₀",
+   "C": "100",
+   "D": "120 Differentiate (2x + 5) (x - 4) with respect to x"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-33",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 33,
+  "question": "",
+  "options": {
+   "A": "(2x + 5)(6x - 11)",
+   "B": "(2x + 5)(2x – 13)",
+   "C": "4(2x + 5)(x - 4)",
+   "D": "4(2x + 5)(4x - 3)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-34",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 34,
+  "question": "If y = x sin x, find dy/dx when x = /2",
+  "options": {
+   "A": "/2",
+   "B": "1",
+   "C": "–1",
+   "D": "/-2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-35",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 35,
+  "question": "If the gradient of the curve y = 2kx² + x + 1 at x = 1 find k",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-36",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 36,
+  "question": "Find the rate of change of the volume V of a sphere with respect to its radius r when r = 1",
+  "options": {
+   "A": "4",
+   "B": "8",
+   "C": "12",
+   "D": "24"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-37",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 37,
+  "question": "Find the dimensions of the rectangle of greatest area which has a fixed perimeter p.",
+  "options": {
+   "A": "Square of sides p/4",
+   "B": "Square of sides p/2",
+   "C": "Square of sides p",
+   "D": "Square of sides 2p"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-38",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 38,
+  "question": "Evaluate 2(2x - 3)²/³ dx",
+  "options": {
+   "A": "2x – 3 + k",
+   "B": "2(2x - 3) + k",
+   "C": "6/5(2x - 3)⁵/³ + k",
+   "D": "3/5(2x - 3)⁵/³ + k"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-39",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 39,
+  "question": "Find the area bounded by the curves y = 4 – x²",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-40",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 40,
+  "question": "Nₒ . ₒf cₐᵣₛ ₈ olₗₑ tiₕ deR eₑᵣ uₗB kcₐₗ Y W G Cₒₗₒᵣ Bₒf cₐᵣₛ The bar chart above shows different colours of cars passing a particular point of a certain street in two minutes. What fraction of the total number of cars is yellow?",
+  "options": {
+   "A": "4/15",
+   "B": "1/5",
+   "C": "3/25",
+   "D": "2/25"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2001_p56_4.png",
+  "images": [
+   "mathematics/2001_p56_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-2001-41",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 41,
+  "question": "41 Nₒ . ₒf ₜₐₓᵢₛ ₈ ⁵.⁰ ⁵.² ⁵.⁴Nₒ⁵.⁶ . ₒ⁵.⁸f ₚ⁵.⁰₁ₐₛₛ⁵.²₁ₑₙgₑᵣₛ The histogram above shows the distribution of passengers in taxis of a certain motor park. How many taxis have more than 4 passenger?",
+  "options": {
+   "A": "14",
+   "B": "15",
+   "C": "16",
+   "D": "17 Using the table below to answer questions 42 and 43 Scₒᵣₑ ₄ ₇ ₈ ₁₁ ₁₃ ₈ Fᵣₑqᵤₑₙcy ₃ ₅ ₂ ₇ ₂ ₁"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2001_p56_3.png",
+  "images": [
+   "mathematics/2001_p56_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-2001-42",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 42,
+  "question": "Find the square of the mode",
+  "options": {
+   "A": "25",
+   "B": "49",
+   "C": "64",
+   "D": "121"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-43",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 43,
+  "question": "The mean score is",
+  "options": {
+   "A": "11.0",
+   "B": "9.5",
+   "C": "8.7",
+   "D": "7.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-44",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 44,
+  "question": "Find the range of 1/6, 1/3, 3/2, 2/3, 8/9 and 4/3",
+  "options": {
+   "A": "4/3",
+   "B": "7/6",
+   "C": "5/6",
+   "D": "¾"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-45",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 45,
+  "question": "Find the variance of 2, 6, 8, 6, 2 and 6",
+  "options": {
+   "A": "5",
+   "B": "6",
+   "C": "5",
+   "D": "6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-46",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 46,
+  "question": "Cᵤₘᵤₗₐₜᵢᵥₑ fᵣₑqᵤₑₙcy ₅₀ 3₀P 0 ₅. ₀. ₅. ₀. ₅. ₀. The graph above shows the cumulative frequency of the distribution of masses of fertilizer for 48 workers in one institution. Which of the following gives the interquartile range?",
+  "options": {
+   "A": "Q₃ – Q₁",
+   "B": "Q₃ – Q₂",
+   "C": "Q₂ – Q₁",
+   "D": "½ (Q₃ – Q₁)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2001_p56_2.png",
+  "images": [
+   "mathematics/2001_p56_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-2001-47",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 47,
+  "question": "Find the number of ways of selecting 8 subjects from 12 subjects for an examination.",
+  "options": {
+   "A": "498",
+   "B": "496",
+   "C": "495",
+   "D": "490"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-48",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 48,
+  "question": "If ⁶P ᵣ = 6, find the value of ⁶P ᵣ₊₁",
+  "options": {
+   "A": "15",
+   "B": "30",
+   "C": "33",
+   "D": "35"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2001-49",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 49,
+  "question": "The distribution of colors of beads in a bowl is given above. What is the probability that a bead selected at random will be blue or white?",
+  "options": {
+   "A": "1/15",
+   "B": "1/3",
+   "C": "2/5",
+   "D": "7/15"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2001_p57_1.png",
+  "images": [
+   "mathematics/2001_p57_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-2001-50",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 50,
+  "question": "Teams P and Q are involved in a game of football. What is the probability that the game ends in a draw?",
+  "options": {
+   "A": "¼",
+   "B": "1/3",
+   "C": "½",
+   "D": "2/3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
