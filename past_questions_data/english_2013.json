@@ -1,0 +1,191 @@
+[
+ {
+  "id": "english-2013-1",
+  "subject": "english",
+  "year": 2013,
+  "number": 1,
+  "question": "Which question Paper Type of Uses of English is given to you?",
+  "options": {
+   "A": "Type D",
+   "B": "Type I",
+   "C": "Type B",
+   "D": "Type U"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2013-2",
+  "subject": "english",
+  "year": 2013,
+  "number": 2,
+  "question": "Which of the following is true according to the passage?",
+  "options": {
+   "A": "Anyone, with almost no training, can run pots on a wheel.",
+   "B": "Pots can be made quickly and correctly.",
+   "C": "A pot thrown on a wheel is less likely to break.",
+   "D": "The potter does not have to work hard if he uses the wheel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2013-3",
+  "subject": "english",
+  "year": 2013,
+  "number": 3,
+  "question": "From the passage, how does a potter make several pots of almost identical size?",
+  "options": {
+   "A": "By having the knowledge of different pots.",
+   "B": "By weighing the lumps of clay.",
+   "C": "By having the right tools",
+   "D": "By knowing what to do from experience."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2013-4",
+  "subject": "english",
+  "year": 2013,
+  "number": 4,
+  "question": "The phrase trims off any waste clay, as used in the passage, means to---",
+  "options": {
+   "A": "cut away unnecessary parts",
+   "B": "force the clay to the centre",
+   "C": "divide the clay into two",
+   "D": "wash away different colours."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2013-5",
+  "subject": "english",
+  "year": 2013,
+  "number": 5,
+  "question": "The word congenial, as used in the passage, means---",
+  "options": {
+   "A": "congested",
+   "B": "precise",
+   "C": "similar",
+   "D": "nice PASSAGE II Music plays a vital role in human society. Good music provides entertainment and emotional release, and it accompanies activities ranging from dances to religious ceremonies. Music is heard everywhere; in auditoriums, homes, elevators, schools, sports arenas and on the streets. Recorded performance is a sensational innovation elevation of the twentieth century. Thanks to modern technology like compact disc (CD) digital video disc (DVD) and the MP 3 player, music can now be heard in diverse places. Such places include function as new kinds of concert halls where we can hear what we want as often as we want. Live performances provide a special excitement. In a live performance artistes put themselves on the line. To avoid embarrassment, the artiste must train before hand and ensure that technical difficulties are avoided and that the listeners are actively involved. What is performed, how it sounds to the excitement of such a moment and feelings are exchanged between stage and hall. Our response to a musical performance or an artiste is subjective and rooted in deep feelings. Even professional critics can differ strongly in their evaluations of a performance. There is no one ''Truth'' about what we hear and feel. Does the performed project a concept, an overall idea, or an emotion? Do some sections of a piece, but not others, communicate something to you? Can you figure out why? It is up to us as listeners to evaluate performances of music so that we can fully enjoy it. People listen to music in many different ways. For instance, music can be a barely perceived background as in a film or a totally absorbing experience as in a concert. Adapted from Roger, K. (1990) An Appreciation Music: Fourth Brief Edition, McGrow-Hill Higher Education."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2013-6",
+  "subject": "english",
+  "year": 2013,
+  "number": 6,
+  "question": "Which of the following is true according to the passage?",
+  "options": {
+   "A": "Music can enhance evaluation performance",
+   "B": "All listeners are music makers",
+   "C": "All artistes are objective in their feelings.",
+   "D": "Music influences feelings at different levels"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2013-7",
+  "subject": "english",
+  "year": 2013,
+  "number": 7,
+  "question": "The expression…..stage and hall, as used in the passage, means the",
+  "options": {
+   "A": "artiste and his music",
+   "B": "artiste and the audience",
+   "C": "producer and the director",
+   "D": "director and the audience"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2013-8",
+  "subject": "english",
+  "year": 2013,
+  "number": 8,
+  "question": "From the passage, it can be deduced that music Is –",
+  "options": {
+   "A": "appreciated as the environment dictates .",
+   "B": "better appreciated in a crowd",
+   "C": "better appreciated when we are happy",
+   "D": "better appreciated by professional critics"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2013-9",
+  "subject": "english",
+  "year": 2013,
+  "number": 9,
+  "question": "According to the writer, live performances provide a special excitement because they are A stage-managed",
+  "options": {
+   "B": "interactive",
+   "C": "error-free and original",
+   "D": "educative"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2013-10",
+  "subject": "english",
+  "year": 2013,
+  "number": 10,
+  "question": "According to the passage, music plays a vital role in human society because--",
+  "options": {
+   "A": "music provides enjoyment and relief",
+   "B": "it is easy to appreciate music",
+   "C": "stage performance is the most popular music opportunity.",
+   "D": "everybody can listen to music through the CD, MP3 and DVD. PASSAGE III Whatever may be its wider imputations, the explosion of hydrogen bomb is, for the meteorologist, simply another atmospheric disturbance. It should therefore be classified with certain rare natural…..11…… (A. programmes B. occurrences C. resources D. laws), such as volcanic…12….[A. insurrection B. exhaustion C. eruption D. expulsion]. But there are certain features of a man-made disturbance that requires special examination. As with all events on this…13… [A. scanner B. skate C. snow D. scale), it is impossible to describe what happens in details. However we can be reasonably sure of the main effects, and the most impressive of these arises from…14….. (A. pressure waves B. pressure volume C. pressure air D. pressure gauge ). The immediate result of the…15… (A. reduction"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
