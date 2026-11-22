@@ -1,0 +1,932 @@
+[
+ {
+  "id": "economics-2003-1",
+  "subject": "economics",
+  "year": 2003,
+  "number": 1,
+  "question": "The price of a good rises from N5 to N8 and the quantity demanded falls from 200 to 190 units. Over this price range, the demand curve is",
+  "options": {
+   "A": "fairly inelastic",
+   "B": "fairly elastic",
+   "C": "perfectly inelastic",
+   "D": "perfectly elastic"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-2",
+  "subject": "economics",
+  "year": 2003,
+  "number": 2,
+  "question": "In economis analysis, a statement is said to be normalize if,it",
+  "options": {
+   "A": "can be tested scientifically",
+   "B": "relates to value judgment",
+   "C": "is contradictory",
+   "D": "is incorrect"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-3",
+  "subject": "economics",
+  "year": 2003,
+  "number": 3,
+  "question": "Utility is the satisfaction derived from",
+  "options": {
+   "A": "production",
+   "B": "distribution",
+   "C": "consumption",
+   "D": "demand"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-4",
+  "subject": "economics",
+  "year": 2003,
+  "number": 4,
+  "question": "If there is and increase in demand without a corresponding increase in supply, there will be",
+  "options": {
+   "A": "fall in price",
+   "B": "rise in price",
+   "C": "shift in supply curve to the right",
+   "D": "shift in demand curve to the left Use the production possibility curve of a country"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-5",
+  "subject": "economics",
+  "year": 2003,
+  "number": 5,
+  "question": "An improvement in technology will enable the country to produce at",
+  "options": {
+   "A": "V",
+   "B": "W",
+   "C": "X",
+   "D": "Z"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-6",
+  "subject": "economics",
+  "year": 2003,
+  "number": 6,
+  "question": "If the country is currently producing at point Y, it can increase production of producer goods by moving to the point",
+  "options": {
+   "A": "v",
+   "B": "W",
+   "C": "X",
+   "D": "Z"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-7",
+  "subject": "economics",
+  "year": 2003,
+  "number": 7,
+  "question": "In the table above, the price of commodity y is N2 and that of x is N1 while the individual has an income of N12. Determine the combination of the two commodities the individual should consume to maximize his utility A 3y and 3x B.6y and 4x",
+  "options": {
+   "C": "3y and 6x D.5y and 5x"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-8",
+  "subject": "economics",
+  "year": 2003,
+  "number": 8,
+  "question": "When two variables are positively related, the graph of the relationship",
+  "options": {
+   "A": "is a straight line",
+   "B": "is a downward-sloping curve",
+   "C": "is an upward sloping curve"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-9",
+  "subject": "economics",
+  "year": 2003,
+  "number": 9,
+  "question": "For an inferior good, a decrease in real income lead to",
+  "options": {
+   "A": "an outward shift of the demand curve",
+   "B": "an inward shift of the demand curve C a lowed equilibrium price",
+   "D": "a change in quantity demanded"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-10",
+  "subject": "economics",
+  "year": 2003,
+  "number": 10,
+  "question": "In a planned economy the emphasis is on",
+  "options": {
+   "A": "individual choice and decisions",
+   "B": "public ownership and control",
+   "C": "private ownership and control",
+   "D": "prices and competition"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-11",
+  "subject": "economics",
+  "year": 2003,
+  "number": 11,
+  "question": "Price elasticity of supply is a ratio of the change in",
+  "options": {
+   "A": "quantity supplied to the c change in demand",
+   "B": "original quantity to a change in new quantity",
+   "C": "quantity supplied to the change in price",
+   "D": "price to the change in quantity supplied."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-12",
+  "subject": "economics",
+  "year": 2003,
+  "number": 12,
+  "question": "the long-run average cost curve is called a planning curve because it shows what happens to costs when",
+  "options": {
+   "A": "variable inputs are increased",
+   "B": "fixed factors are increased",
+   "C": "different sizes of plants are built",
+   "D": "a bigger size of plants is built"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-13",
+  "subject": "economics",
+  "year": 2003,
+  "number": 13,
+  "question": "Imperfect market is characterized by",
+  "options": {
+   "A": "many buyers and few sellers",
+   "B": "a large number of buyers and sellers",
+   "C": "non-preferential treatment",
+   "D": "perfect mobility of factors of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-14",
+  "subject": "economics",
+  "year": 2003,
+  "number": 14,
+  "question": "Short-run period in production is a period for a firm to be able to change its",
+  "options": {
+   "A": "variable inputs",
+   "B": "total outputs",
+   "C": "total revenue",
+   "D": "scale of operation Use the table below to answer questions 15 and 16 Output produced Fixed cost Total cost per day (unit) per day (N) per day (N) 20 60 100 30 60 120 40 60 130 50 60 135 60 60 150 70 60 170 80 60 190"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-15",
+  "subject": "economics",
+  "year": 2003,
+  "number": 15,
+  "question": "The ATC at 30 units of output is",
+  "options": {
+   "A": "120.000",
+   "B": "N60.00",
+   "C": "N40.00",
+   "D": "N3.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-16",
+  "subject": "economics",
+  "year": 2003,
+  "number": 16,
+  "question": "At 60 units of output, the AVC is",
+  "options": {
+   "A": "N150.00",
+   "B": "N90.00 C.N2.50 D.N1.50"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-17",
+  "subject": "economics",
+  "year": 2003,
+  "number": 17,
+  "question": "If thedemand curvefacing a frim is sharplydownward sloping, the firm is likely to be",
+  "options": {
+   "A": "a perfect competitor",
+   "B": "a monopolistic competitor as it can have a limited influence as it can have a limited influence on price"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-18",
+  "subject": "economics",
+  "year": 2003,
+  "number": 18,
+  "question": "A normal supply curve is usually positively sloped",
+  "options": {
+   "A": "because the relationship between",
+   "B": "supply and price is negative",
+   "C": "price and demand is negative",
+   "D": "price and supply is positive"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-19",
+  "subject": "economics",
+  "year": 2003,
+  "number": 19,
+  "question": "The best method of production in an under-populated country is",
+  "options": {
+   "A": "labour-extensive",
+   "B": "land-intensive",
+   "C": "capital-intensive",
+   "D": "labour-intensive"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-20",
+  "subject": "economics",
+  "year": 2003,
+  "number": 20,
+  "question": "Insurance companies, pension and provident funds and unit thrusts are all examples of A government financial agencies",
+  "options": {
+   "B": "non-govenmental organizations",
+   "C": "non-bank financial institutions",
+   "D": "rural-based revenue mobilisers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-21",
+  "subject": "economics",
+  "year": 2003,
+  "number": 21,
+  "question": "For a firm, value added can be defined as the difference between the",
+  "options": {
+   "A": "value of its output and the cost of production",
+   "B": "total revenue and toatla cost",
+   "C": "input prices and product prices",
+   "D": "value of its output and inputs purchased from other firms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-22",
+  "subject": "economics",
+  "year": 2003,
+  "number": 22,
+  "question": "Securities are described as listed when they are:",
+  "options": {
+   "A": "bought and sold purely for development purposes",
+   "B": "mobilized as short-term debt instruments",
+   "C": "Mobilized as long-term debt instrument",
+   "D": "Traded on a recognized stock market"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-23",
+  "subject": "economics",
+  "year": 2003,
+  "number": 23,
+  "question": "The commercial banks differ from non-bank financial institutions because they",
+  "options": {
+   "A": "accept deposits withdrawable by cheque",
+   "B": "mobilize savings",
+   "C": "invest surplus plus",
+   "D": "contribute to economic development"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-24",
+  "subject": "economics",
+  "year": 2003,
+  "number": 24,
+  "question": "Inflation that is usually associated with periods of trade boom is A cost-push inflation B.demand-pull inflation",
+  "options": {
+   "C": "creeping inflation",
+   "D": "stagnation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-25",
+  "subject": "economics",
+  "year": 2003,
+  "number": 25,
+  "question": "The term “Near Money” is best described as",
+  "options": {
+   "A": "a financial assets that is convertible to cash",
+   "B": "a financial instrument that is readily convertible to cash",
+   "C": "government financial instrument that is convertible to cash",
+   "D": "time deposits with low interest rates"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-26",
+  "subject": "economics",
+  "year": 2003,
+  "number": 26,
+  "question": "The distinguishing characteristic between the money market and the capital market lies in whether the",
+  "options": {
+   "A": "finds mobilized are private or public",
+   "B": "securities are primary or secondary",
+   "C": "debt instruments provided are long-term or short-term",
+   "D": "securities are in debentures of ordinary shares."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-27",
+  "subject": "economics",
+  "year": 2003,
+  "number": 27,
+  "question": "If Nigeria’s composite price index in 1999 was 140.03% and 144.05% in 2000, the rate of inflation in 2000 was",
+  "options": {
+   "A": "4.02%",
+   "B": "2.10%",
+   "C": "2.06%",
+   "D": "1.03%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-28",
+  "subject": "economics",
+  "year": 2003,
+  "number": 28,
+  "question": "The monetary control instrument most effectively used by the Central Bank of Nigeria is the",
+  "options": {
+   "A": "discount rate",
+   "B": "reserve ration",
+   "C": "margin requirements",
+   "D": "open market operations"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-29",
+  "subject": "economics",
+  "year": 2003,
+  "number": 29,
+  "question": "The major objectives of a revenue allocation formula in a country is to",
+  "options": {
+   "A": "share revenue between the public and private sectors",
+   "B": "ensure the financial viability of the country",
+   "C": "share revenue between the different tiers of government",
+   "D": "divert revenue from areas of surplus to areas of need"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-30",
+  "subject": "economics",
+  "year": 2003,
+  "number": 30,
+  "question": "The effectiveness of devaluation as a solution to a balance of payments problems depends on the",
+  "options": {
+   "A": "relative elasticities of demand",
+   "B": "foreign investments of business",
+   "C": "value of visible and invisible goods",
+   "D": "value of invisible items of both domestic and foreign trades"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-31",
+  "subject": "economics",
+  "year": 2003,
+  "number": 31,
+  "question": "IBRD as an international monetary institution is concerned with the",
+  "options": {
+   "A": "balance of payments problems of member nations",
+   "B": "financing of private business in member nations",
+   "C": "development of infrastucture in member nations",
+   "D": "improvement of trade among member nation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-32",
+  "subject": "economics",
+  "year": 2003,
+  "number": 32,
+  "question": "An advantage of the soleproprietorship over the partnership form of business organization is that",
+  "options": {
+   "A": "it enjoys limited liability for debt in theevent of failure",
+   "B": "Its existence is limited btyan individual’s life span",
+   "C": "It relies on the decision of friends to succeed",
+   "D": "The possibility of conflict is management in virtually non-existent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-33",
+  "subject": "economics",
+  "year": 2003,
+  "number": 33,
+  "question": "The distinction between capital and recurrent expenditure lies in the",
+  "options": {
+   "A": "amount of expenditure involved",
+   "B": "source of the revenue generated",
+   "C": "nature of the goods and services to be provided",
+   "D": "time frame o the expenditure"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-34",
+  "subject": "economics",
+  "year": 2003,
+  "number": 34,
+  "question": "Under a floating exchangerateregime, the determinant of the exchange rate is",
+  "options": {
+   "A": "the system of government",
+   "B": "demand for and supply of foreign goods",
+   "C": "the highest denomination of the currency an act of the national assembly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-35",
+  "subject": "economics",
+  "year": 2003,
+  "number": 35,
+  "question": "To compare the standard of livingamong nations, the most widely used economic indicator is the",
+  "options": {
+   "A": "per capital nominal income"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-36",
+  "subject": "economics",
+  "year": 2003,
+  "number": 36,
+  "question": "Statutory organisations usually established by Acts of parliament are called",
+  "options": {
+   "A": "public enterprises",
+   "B": "public corporations",
+   "C": "cooperative societies",
+   "D": "joint-stock companies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-37",
+  "subject": "economics",
+  "year": 2003,
+  "number": 37,
+  "question": "A greater burden of the taxes on essential goods is borne by the",
+  "options": {
+   "A": "higher income group",
+   "B": "newly recruitment workers",
+   "C": "lower income group",
+   "D": "contract workers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-38",
+  "subject": "economics",
+  "year": 2003,
+  "number": 38,
+  "question": "Privatization and commercialization of public enterprises in Nigeria is necessitated by",
+  "options": {
+   "A": "the IMF conditions B.the IBRD conditions",
+   "C": "the government’s loss of interest in them",
+   "D": "their operational inefficiency"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-39",
+  "subject": "economics",
+  "year": 2003,
+  "number": 39,
+  "question": "The theory of comparative advantage states that a commodity should be produced in that nation where the",
+  "options": {
+   "A": "absolute cost is least B.absolute money cost is least",
+   "C": "opportunity cost is least",
+   "D": "production possibility curve increases"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-40",
+  "subject": "economics",
+  "year": 2003,
+  "number": 40,
+  "question": "The effect of an increase in the personal income tax is to",
+  "options": {
+   "A": "raise the absolute price level B.distort the economy",
+   "C": "reduce unemployment",
+   "D": "reduce the disposable income"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-41",
+  "subject": "economics",
+  "year": 2003,
+  "number": 41,
+  "question": "An important factor hindering the rapid development of the industrial sector in Nigeria.",
+  "options": {
+   "A": "excessive demand for finished products",
+   "B": "the dominance of the oil sector",
+   "C": "rural-urban migration",
+   "D": "inadequate infrastructure facilities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-42",
+  "subject": "economics",
+  "year": 2003,
+  "number": 42,
+  "question": "The demand for labour is an example of",
+  "options": {
+   "A": "competitive demand",
+   "B": "derived demand",
+   "C": "composite demand",
+   "D": "joint demand"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-43",
+  "subject": "economics",
+  "year": 2003,
+  "number": 43,
+  "question": "The major role of multi-national companies in the petroleum industry in Nigeria is",
+  "options": {
+   "A": "oil prospecting only",
+   "B": "oil marketing only",
+   "C": "the establishment of refineries",
+   "D": "oil marketing prospecting"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-44",
+  "subject": "economics",
+  "year": 2003,
+  "number": 44,
+  "question": "Fixing the prices of agricultural products can be a problem because of the",
+  "options": {
+   "A": "unpredictable output of farmers",
+   "B": "instability of government policies",
+   "C": "activities of marketing boards",
+   "D": "size of agricultural exports"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-45",
+  "subject": "economics",
+  "year": 2003,
+  "number": 45,
+  "question": "Occupational mobility as applied to factors of production means the case by which",
+  "options": {
+   "A": "factors can be transferred from one place to another",
+   "B": "factors can be transferred from one form mof use to another",
+   "C": "resources can be transferred from one place to another",
+   "D": "resources can be transformed from one form to another"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-46",
+  "subject": "economics",
+  "year": 2003,
+  "number": 46,
+  "question": "The labour force of a country can be determine byxamining the",
+  "options": {
+   "A": "Sex distribution of the population",
+   "B": "Occupations distribution of the population",
+   "C": "age structure of the population",
+   "D": "geographical distribution of the population"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-47",
+  "subject": "economics",
+  "year": 2003,
+  "number": 47,
+  "question": "Two basis features common to an industry are",
+  "options": {
+   "A": "similarity of products and production processes",
+   "B": "similarity of products and source of raw materials",
+   "C": "production processes and source of capital",
+   "D": "source of capital ands labour supply"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-48",
+  "subject": "economics",
+  "year": 2003,
+  "number": 48,
+  "question": "A country is said to be over populated when",
+  "options": {
+   "A": "there are too many able-bodied men and women in the country",
+   "B": "the resources are more than enough to cater for the population",
+   "C": "the size of the population is greater than the annual budget",
+   "D": "the resources are inadequate to cater for the population"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-49",
+  "subject": "economics",
+  "year": 2003,
+  "number": 49,
+  "question": "When a union is composed of workers with same skill, it is called",
+  "options": {
+   "A": "an industrial union",
+   "B": "a workers’ union",
+   "C": "a craft iunion",
+   "D": "a technical union"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2003-50",
+  "subject": "economics",
+  "year": 2003,
+  "number": 50,
+  "question": "An adverse environmental impact of the petroleum industry on the economy is",
+  "options": {
+   "A": "the vandalisation of oil equipment",
+   "B": "oil spillage",
+   "C": "communal riots"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

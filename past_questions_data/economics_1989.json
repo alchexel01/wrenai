@@ -1,0 +1,949 @@
+[
+ {
+  "id": "economics-1989-1",
+  "subject": "economics",
+  "year": 1989,
+  "number": 1,
+  "question": "In its simplified form, the circular flow of income concept refers to the",
+  "options": {
+   "A": "Real flows in goods and services between the product and factor markets",
+   "B": "Monetary payments for goods and services produced by individual firms",
+   "C": "Transactions in goods and services and payments for such transactions between"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-2",
+  "subject": "economics",
+  "year": 1989,
+  "number": 2,
+  "question": "The need to construct a scale of preference is necessitated by",
+  "options": {
+   "A": "The need to satisfy wants",
+   "B": "Scarcity and the need for choice",
+   "C": "Scarcity of resources",
+   "D": "Non-availability of factors of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-3",
+  "subject": "economics",
+  "year": 1989,
+  "number": 3,
+  "question": "A shift in the production possibility frontier could",
+  "options": {
+   "C": "Scarcity of resource",
+   "D": "Non-availability of factors of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-4",
+  "subject": "economics",
+  "year": 1989,
+  "number": 4,
+  "question": "The primary problem of economics is",
+  "options": {
+   "A": "To obtain a more equitable distribution of money income",
+   "B": "Production a given output with the lowest cost combination of factors of production",
+   "C": "Adoption of capital-intensive technology",
+   "D": "Increasing the quantity of the fixed factor of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-5",
+  "subject": "economics",
+  "year": 1989,
+  "number": 5,
+  "question": "Efficiency in production involves",
+  "options": {
+   "A": "Reducing the size of the work force",
+   "B": "Producing a given output with the lowest cost combination of factors of production",
+   "C": "Adoption the quantity of the fixed factors of production",
+   "D": "Increasing the quantity of the fixed factor of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-6",
+  "subject": "economics",
+  "year": 1989,
+  "number": 6,
+  "question": "If X represents the factors of production and Y represents the factor price, which of the following sets of association is correct?",
+  "options": {
+   "A": "(Land, rent), (capital, wage), (labour, profit),",
+   "B": "(Land, interest), (capital, profits), (labour, wage),",
+   "C": "(Land, wage), (capital, interest), (labour, rent),",
+   "D": "(Land, rent), (capital, interest), (labour, wage)."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-7",
+  "subject": "economics",
+  "year": 1989,
+  "number": 7,
+  "question": "If the cost of production for a firm continues to increase as its output rises, the firm is said to be experiencing",
+  "options": {
+   "A": "Large-scale production",
+   "B": "Profit maximization",
+   "C": "Economies of scale",
+   "D": "Diseconomies of scale"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-8",
+  "subject": "economics",
+  "year": 1989,
+  "number": 8,
+  "question": "Given perfect competition in the capital market, the opportunity cost of capital is adequately reflected by the",
+  "options": {
+   "A": "Interest rate",
+   "B": "Returns on capital",
+   "C": "Alternative capital foregone",
+   "D": "Shadow rice of foreign exchange"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-9",
+  "subject": "economics",
+  "year": 1989,
+  "number": 9,
+  "question": "If at 10k per kg, 1000kg of yam were purchased and a t 5k per kg, 1,500 kg were purchased, the resultant point elasticity of demand is",
+  "options": {
+   "A": "0.33",
+   "B": "0.0001",
+   "C": "1",
+   "D": "10 000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-10",
+  "subject": "economics",
+  "year": 1989,
+  "number": 10,
+  "question": "If, as the price of a commodity rises, the quantity demanded of the commodity remains the same, then the demand for the commodity is",
+  "options": {
+   "A": "Static",
+   "B": "Infinitely elastic",
+   "C": "Externally determined",
+   "D": "Perfectly inelastic"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-11",
+  "subject": "economics",
+  "year": 1989,
+  "number": 11,
+  "question": "Wages D Labour In the diagram above what happens when the minimum wage is fixed at OW?",
+  "options": {
+   "A": "Unemployment is reduced",
+   "B": "Unemployment results",
+   "C": "The demand schedule will shift",
+   "D": "The supply schedule will become steeper"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1989_p23_1.png",
+  "images": [
+   "economics/1989_p23_1.png"
+  ]
+ },
+ {
+  "id": "economics-1989-12",
+  "subject": "economics",
+  "year": 1989,
+  "number": 12,
+  "question": "Price of X 0 Quantity demanded of Y If the curve above shows the relationship between the price of commodity X and the quantity demanded fo commodity Y, then X and are",
+  "options": {
+   "A": "Complementary goods",
+   "B": "Substitutes",
+   "C": "Inferior goods",
+   "D": "Luxury goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1989_p23_2.png",
+  "images": [
+   "economics/1989_p23_2.png"
+  ]
+ },
+ {
+  "id": "economics-1989-13",
+  "subject": "economics",
+  "year": 1989,
+  "number": 13,
+  "question": "Which of the following factors is an important determinant of the magnitude of price elasticity of demand?",
+  "options": {
+   "A": "The production period",
+   "B": "Cost of storage",
+   "C": "Durability of the product",
+   "D": "Availability of factors of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-14",
+  "subject": "economics",
+  "year": 1989,
+  "number": 14,
+  "question": "The marginal theory of distribution makes an asser tion that the price of any factor depends upon its marginal",
+  "options": {
+   "A": "Utility",
+   "B": "Productivity",
+   "C": "Rate of substitution",
+   "D": "Revenue"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-15",
+  "subject": "economics",
+  "year": 1989,
+  "number": 15,
+  "question": "In order to increase its profit margin, the monopolist can manipulate",
+  "options": {
+   "A": "Both price and output",
+   "B": "Either price or output",
+   "C": "Only it price",
+   "D": "Only its output"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-16",
+  "subject": "economics",
+  "year": 1989,
+  "number": 16,
+  "question": "For a purely competitive industry, a fundamental requirement of the demand curve faced by individual firms is that it should be",
+  "options": {
+   "A": "Downward sloping and price inelastic",
+   "B": "Perfectly price elastic",
+   "C": "Downward sloping but price inelastic"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-17",
+  "subject": "economics",
+  "year": 1989,
+  "number": 17,
+  "question": "The merging of firms engaged in different stages of production and marketing is called",
+  "options": {
+   "A": "External economies of scale",
+   "B": "Vertical integration",
+   "C": "Horizontal integration",
+   "D": "Economic union"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-18",
+  "subject": "economics",
+  "year": 1989,
+  "number": 18,
+  "question": "Which of thefollowing is an important function of the retailer?",
+  "options": {
+   "A": "Grants credit to the wholesaler",
+   "B": "Breaks bulk and sells products in small units",
+   "C": "Reduces cost of distribution",
+   "D": "Generates demand for products through advertisement"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1989_p24_1.png",
+  "images": [
+   "economics/1989_p24_1.png"
+  ]
+ },
+ {
+  "id": "economics-1989-19",
+  "subject": "economics",
+  "year": 1989,
+  "number": 19,
+  "question": "The table above gives the various levels of output (Q) and its corresponding total cost of production (TC) and total revenue (TR) for a firm. Which output level Q results in maximum profit?",
+  "options": {
+   "A": "400",
+   "B": "500",
+   "C": "600",
+   "D": "700"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-20",
+  "subject": "economics",
+  "year": 1989,
+  "number": 20,
+  "question": "One of the purposes of advertisement in marketing is to",
+  "options": {
+   "A": "Change the quality of the product",
+   "B": "Raise the quantity of the product demanded as its price falls",
+   "C": "Shift the demand curve for the product to the right",
+   "D": "Raise production costs"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-21",
+  "subject": "economics",
+  "year": 1989,
+  "number": 21,
+  "question": "The size of a business unit tends to be small if the activity",
+  "options": {
+   "A": "Involves mass production of goods",
+   "B": "Requires a large capital",
+   "C": "Requires division of labour",
+   "D": "Involves the provision of direct services"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-22",
+  "subject": "economics",
+  "year": 1989,
+  "number": 22,
+  "question": "Which type of business organization has the attribute of effectively combining management with control?",
+  "options": {
+   "A": "Sole proprietorship",
+   "B": "Partnership",
+   "C": "Limited liability company",
+   "D": "Co-operatives"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-23",
+  "subject": "economics",
+  "year": 1989,
+  "number": 23,
+  "question": "The co-operatives as a form of business organization differs from partnership by having",
+  "options": {
+   "A": "Several sources of capital for business financing",
+   "B": "Ability to issue preferred stocks to members",
+   "C": "Entrenched democratic control in the conduct of business",
+   "D": "Established rules and regulations governing the activities of its members."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-24",
+  "subject": "economics",
+  "year": 1989,
+  "number": 24,
+  "question": "The type of business finance that entitles the holder to a fixed rate of dividend is",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-25",
+  "subject": "economics",
+  "year": 1989,
+  "number": 25,
+  "question": "Which of the business organizations listed below is characterized by limited authority and liability of the individual owners?",
+  "options": {
+   "A": "Sole proprietorship",
+   "B": "Partnership",
+   "C": "Joint Stock companyD. Co-operative society"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-26",
+  "subject": "economics",
+  "year": 1989,
+  "number": 26,
+  "question": "A company is said to be highly geared if the",
+  "options": {
+   "A": "Value of fixed interest loans is high compared with share capital",
+   "B": "Value of share capital is high compared with fixed interest loans",
+   "C": "Dividend rate is high",
+   "D": "Interest rate is high"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1989_p24_2.png",
+  "images": [
+   "economics/1989_p24_2.png"
+  ]
+ },
+ {
+  "id": "economics-1989-27",
+  "subject": "economics",
+  "year": 1989,
+  "number": 27,
+  "question": "Industries that can be randomly located are characterized by",
+  "options": {
+   "A": "Relatively low transport cost for both raw materials and output and factor mobility",
+   "B": "Relatively heavy transport cost for raw material or output",
+   "C": "Constant returns to scaled",
+   "D": "Significant economy of scale"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-28",
+  "subject": "economics",
+  "year": 1989,
+  "number": 28,
+  "question": "The term ‘double coincidence’ of wants is usually associated with a",
+  "options": {
+   "A": "Bilateral exchange mechanism",
+   "B": "Monetary exchange mechanism",
+   "C": "Stock exchange system",
+   "D": "Barter exchange mechanism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-29",
+  "subject": "economics",
+  "year": 1989,
+  "number": 29,
+  "question": "A major factor affecting the value of money is the",
+  "options": {
+   "A": "Price level",
+   "B": "Banking habit",
+   "C": "Transaction motive",
+   "D": "Divisible nature of money"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-30",
+  "subject": "economics",
+  "year": 1989,
+  "number": 30,
+  "question": "Cost-puch inflation is caused by",
+  "options": {
+   "A": "Growth of government expenditure",
+   "B": "Increase in factor prices",
+   "C": "Increase in money supply",
+   "D": "Hoarding"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-31",
+  "subject": "economics",
+  "year": 1989,
+  "number": 31,
+  "question": "The stock exchange market is where",
+  "options": {
+   "A": "Businessmen borrow some capital",
+   "B": "The federal government trades on treasury bills",
+   "C": "Existing bonds and stocks are traded",
+   "D": "New stocks and shares are bought or sold"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-32",
+  "subject": "economics",
+  "year": 1989,
+  "number": 32,
+  "question": "Commercial bank reserves at the Central Bank have the effect of",
+  "options": {
+   "A": "Controlling credit and money supply",
+   "B": "Discouraging banking operations",
+   "C": "Advancing trade prospects",
+   "D": "Reducing bank frauds"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-33",
+  "subject": "economics",
+  "year": 1989,
+  "number": 33,
+  "question": "A tax is defined as regressive if",
+  "options": {
+   "A": "The proportion of income paid as tax increase as the income level increases",
+   "B": "All income groups pay the same percentage",
+   "D": "The proportion of income taken by the tax is a fixed nominal amount of income fr all income groups"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-34",
+  "subject": "economics",
+  "year": 1989,
+  "number": 34,
+  "question": "Government intervention in an economy is often justified on the on the ground that",
+  "options": {
+   "A": "Wants are unlimited while resources are scarce",
+   "B": "Productivity is higher in the public than in the private sector",
+   "C": "Free market may not work or produce desire results",
+   "D": "Opportunity cost of government expenditure is zero"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-35",
+  "subject": "economics",
+  "year": 1989,
+  "number": 35,
+  "question": "The three major groups of government revenue are",
+  "options": {
+   "A": "Investments income, direct tax and indirect tax",
+   "B": "Import duties, excise tax and export duties",
+   "C": "Company tax, personal income tax and import duties",
+   "D": "Company tax, import duties and excise tax"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-36",
+  "subject": "economics",
+  "year": 1989,
+  "number": 36,
+  "question": "The main objectives of public expenditures does NOT include",
+  "options": {
+   "A": "Stabilization of national economy",
+   "B": "Achievement of a more equitable income distribution",
+   "C": "Meeting the social heeds of the people",
+   "D": "Revenue sharing and profit maximization."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-37",
+  "subject": "economics",
+  "year": 1989,
+  "number": 37,
+  "question": "A perfect example of a public good is",
+  "options": {
+   "A": "Air",
+   "B": "Education",
+   "C": "Defence",
+   "D": "transport"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-38",
+  "subject": "economics",
+  "year": 1989,
+  "number": 38,
+  "question": "A balanced budge is defined as a condition of",
+  "options": {
+   "A": "Balance of payments equilibrium",
+   "B": "Equality of aggregate demand and aggregate supply",
+   "C": "Equality of planned receipts and planned expenditure",
+   "D": "Equality of planned exports and planned imports"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-39",
+  "subject": "economics",
+  "year": 1989,
+  "number": 39,
+  "question": "The amount, N4.08 million, shown as balance in the table above represents",
+  "options": {
+   "A": "Terms of payments",
+   "B": "Balance on current account"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1989_p25_1.png",
+  "images": [
+   "economics/1989_p25_1.png"
+  ]
+ },
+ {
+  "id": "economics-1989-40",
+  "subject": "economics",
+  "year": 1989,
+  "number": 40,
+  "question": "By using exchange controls, a country tries to eliminate a balance of payments deficit by",
+  "options": {
+   "A": "Limited her imports to its currency value of exports",
+   "B": "Reducing the nations domestic price level",
+   "C": "Limiting her exports to its currency value of imports",
+   "D": "Overvaluing the country’s currency"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-41",
+  "subject": "economics",
+  "year": 1989,
+  "number": 41,
+  "question": "The law of comparative advantage states that a country should spcialize in the production of a commodity",
+  "options": {
+   "A": "For which local demand is greatest",
+   "B": "In which its opportunity cost is lower than that of the trade partner",
+   "C": "For which foreign demand is greatest",
+   "D": "For which there is abundant supply of raw materials"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-42",
+  "subject": "economics",
+  "year": 1989,
+  "number": 42,
+  "question": "International and inter - regional trade differ primarily because.",
+  "options": {
+   "A": "comparative advantage is relevant to the former but not the latter.",
+   "B": "products flow across national boundaries",
+   "C": "there are different resources supplies among countries of the world",
+   "D": "of regulation from GATT."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-43",
+  "subject": "economics",
+  "year": 1989,
+  "number": 43,
+  "question": "Optimum population is the population level at which",
+  "options": {
+   "A": "Death rate is at a minimum",
+   "B": "Per capita income is at maximum",
+   "C": "Population is at a miximum",
+   "D": "Death rate is equal to birth rate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-44",
+  "subject": "economics",
+  "year": 1989,
+  "number": 44,
+  "question": "The group of people engaged in banking or insurance services by occupational distributions are claasified as",
+  "options": {
+   "A": "Primary producers",
+   "B": "Secondary producers",
+   "C": "Tertiary producers",
+   "D": "Technical producers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-45",
+  "subject": "economics",
+  "year": 1989,
+  "number": 45,
+  "question": "The difference between gross national product and net national product is equal to",
+  "options": {
+   "A": "Gross investment",
+   "B": "Net investment",
+   "C": "Net foreign income",
+   "D": "Capital depreciation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-46",
+  "subject": "economics",
+  "year": 1989,
+  "number": 46,
+  "question": "The value of the total output produced within Nigeria by all residents (citizens and non-citizens) is referred to as the",
+  "options": {
+   "A": "Gross national product",
+   "B": "Disposable income",
+   "C": "National income",
+   "D": "Gross domestic product"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-47",
+  "subject": "economics",
+  "year": 1989,
+  "number": 47,
+  "question": "The multiplier is defined as",
+  "options": {
+   "A": "The ratio of the change in income to the change in investment",
+   "B": "The change in investment dividend by the change in income",
+   "C": "1",
+   "D": "1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-48",
+  "subject": "economics",
+  "year": 1989,
+  "number": 48,
+  "question": "If C stands for consumption expenditure, I for investment, X for exports, and M for imports, then national income is",
+  "options": {
+   "A": "C + I+ X + M",
+   "B": "C + I+X - M",
+   "C": "C + I - X + M",
+   "D": "C + I + X"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-49",
+  "subject": "economics",
+  "year": 1989,
+  "number": 49,
+  "question": "A sustained increase in the per capita income of a country over a period of time is called",
+  "options": {
+   "A": "Economic growth",
+   "B": "Economic development",
+   "C": "Structural change",
+   "D": "Stagflation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1989-50",
+  "subject": "economics",
+  "year": 1989,
+  "number": 50,
+  "question": "The primary goal of development planning in Nigeria is to",
+  "options": {
+   "A": "Increase profitability of enterprises",
+   "B": "Achieve a rapid increase in the welfare and standard of living of Nigerians",
+   "C": "Increase the level of gross domestic product",
+   "D": "Make Nigeria a super-power"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

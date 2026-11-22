@@ -1,0 +1,918 @@
+[
+ {
+  "id": "economics-1995-1",
+  "subject": "economics",
+  "year": 1995,
+  "number": 1,
+  "question": "The ultimate objective of economics is to",
+  "options": {
+   "A": "make effort to understand how the economy works",
+   "B": "make the best use of scarce resources",
+   "C": "organize production at the lowest cost",
+   "D": "decide under what circumstances in the economy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-2",
+  "subject": "economics",
+  "year": 1995,
+  "number": 2,
+  "question": "K In the circular flow of income above, the direction of flow of payments for consumption purchases is shown by the arrow",
+  "options": {
+   "A": "K",
+   "B": "L",
+   "C": "M",
+   "D": "N"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1995_p43_1.png",
+  "images": [
+   "economics/1995_p43_1.png"
+  ]
+ },
+ {
+  "id": "economics-1995-3",
+  "subject": "economics",
+  "year": 1995,
+  "number": 3,
+  "question": "A student in Obu’pu Secondary School discover that he simultaneously needs a biro, an exercise book, an eraser and a ruler, but that he can purchase only one of these items. What is the first thing he is expected to do?",
+  "options": {
+   "A": "Check how much money he has",
+   "B": "Find out which is the cheapest of the items",
+   "C": "Draw up a scale of preference",
+   "D": "Weigh the opportunity cost of each item against the others."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-4",
+  "subject": "economics",
+  "year": 1995,
+  "number": 4,
+  "question": "What to produce in any society is determined by the",
+  "options": {
+   "A": "expenditure of the people on different commodities",
+   "B": "competition among the different producers",
+   "C": "competition among the difference consum ers’",
+   "D": "supply and demand in the factor markets"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-5",
+  "subject": "economics",
+  "year": 1995,
+  "number": 5,
+  "question": "The active intervention of the central authorities in the management of a country’s economy rests upon the",
+  "options": {
+   "A": "failure of the market forces to produce satisfactory",
+   "B": "superiority of the centrally planned economy over/the private enterprise economy",
+   "C": "result-oriented nature of the private enterprise economy",
+   "D": "cost-minimization strategy of a mixed economy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-6",
+  "subject": "economics",
+  "year": 1995,
+  "number": 6,
+  "question": "The problems of conducting census include",
+  "options": {
+   "A": "high rate of rural-urban migration",
+   "B": "poor geographical distribution of population",
+   "C": "high birth rate in the country"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-7",
+  "subject": "economics",
+  "year": 1995,
+  "number": 7,
+  "question": "An ageing population is a population",
+  "options": {
+   "A": "with a high dependency ratio",
+   "B": "with many young people",
+   "C": "in which the number of old person is increasing",
+   "D": "that is dominated by very old people 8,. The population of Ohaha L.G.A. Was 480 000 in December 1980 out of which 60% were females . If within one years no births were recorded ,but 5% of the males died, what will be the population of the L.G.A. In December 1981?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-9",
+  "subject": "economics",
+  "year": 1995,
+  "number": 9,
+  "question": "What is meant by labour supply?",
+  "options": {
+   "A": "Number of people in working population",
+   "B": "Number of men and hour they work",
+   "C": "Number of hours during which the middle aged persons works",
+   "D": "Number of work force multiplied by the hours they work"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-10",
+  "subject": "economics",
+  "year": 1995,
+  "number": 10,
+  "question": "The advantage which firms obtain directly from expanding their operations are referred to as",
+  "options": {
+   "A": "Internal economies of scale",
+   "B": "External economics of scale",
+   "C": "Economies of localization",
+   "D": "Economies of resource allocation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-11",
+  "subject": "economics",
+  "year": 1995,
+  "number": 11,
+  "question": "The factor of production that has the highest degree of mobility is",
+  "options": {
+   "A": "land",
+   "B": "labour",
+   "C": "capital D.entrepreneurship"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-12",
+  "subject": "economics",
+  "year": 1995,
+  "number": 12,
+  "question": "Any payment to a factor of production in excess of what is necessary to keep that factor in its present employment is known as",
+  "options": {
+   "A": "real income",
+   "B": "profit",
+   "C": "economic rent",
+   "D": "real wage"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1995_p43_2.png",
+  "images": [
+   "economics/1995_p43_2.png"
+  ]
+ },
+ {
+  "id": "economics-1995-13",
+  "subject": "economics",
+  "year": 1995,
+  "number": 13,
+  "question": "In the table above, the marginal product of the 2nd worker and the average product of the 5th worker respectively are",
+  "options": {
+   "A": "23 and 20",
+   "B": "22 and 19",
+   "C": "14 and 19 D.11 and 20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-14",
+  "subject": "economics",
+  "year": 1995,
+  "number": 14,
+  "question": "Given that TC = TFC + TVC and TR = AR X Q profit is equal to",
+  "options": {
+   "A": "(AR + Q) - TFC",
+   "C": "(AR X Q) - TC",
+   "D": "(TC X Q)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-15",
+  "subject": "economics",
+  "year": 1995,
+  "number": 15,
+  "question": "The opportunity cost of the use of productive resources which a producer owns and so does not pay for, constitutes",
+  "options": {
+   "A": "a fixed cost",
+   "B": "an implicit cost",
+   "C": "a variable cost",
+   "D": "a prime cost"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-16",
+  "subject": "economics",
+  "year": 1995,
+  "number": 16,
+  "question": "The effect of changes in the condition of demand on a demand schedule with the price constant is a",
+  "options": {
+   "A": "movement along the demand curve",
+   "B": "deflation of the demand curve",
+   "C": "hyperbola formation by the demand curve",
+   "D": "shift of the demand curve"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-17",
+  "subject": "economics",
+  "year": 1995,
+  "number": 17,
+  "question": "Which of the following statements is TRUE of the effect of changes in demand and supply on price?",
+  "options": {
+   "A": "Adecrease in supply will lead to a fall in price and a fall in the quantity bought an sold",
+   "B": "An increase in demand will lead to a fall in price and in the quantity bought an soled",
+   "C": "A decrease in demand will lead to a rise in price and in the quantity bought an sold",
+   "D": "An increase in supply will lead to a fall in price and a rise in the quantity bought and sold"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-18",
+  "subject": "economics",
+  "year": 1995,
+  "number": 18,
+  "question": "In a free market economy, available resources are more efficiently allocated by complete reliance on",
+  "options": {
+   "A": "development planning",
+   "B": "strategic planning",
+   "C": "capital budgeting",
+   "D": "price system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-19",
+  "subject": "economics",
+  "year": 1995,
+  "number": 19,
+  "question": "In order to maximize his profit, a businessman who faces a very clastic demand for his products is advised to",
+  "options": {
+   "A": "slightly increase the price of his products",
+   "B": "slightly reduce the price of his products",
+   "C": "leave his prices unchanged",
+   "D": "discriminate his prices"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-20",
+  "subject": "economics",
+  "year": 1995,
+  "number": 20,
+  "question": "What is the elasticity of demand for commodity X, if at a price of N25 the quantity demanded is 80 and when the price is reduced to N20 the quantity demanded is 100?",
+  "options": {
+   "A": "1.25",
+   "B": "1.45",
+   "C": "0.25",
+   "D": "0.15"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-21",
+  "subject": "economics",
+  "year": 1995,
+  "number": 21,
+  "question": "If y represents the income earned by workers in a factory, find the range of their income which satisfies the following inequality 4y-300>500",
+  "options": {
+   "A": "y > 300",
+   "B": "Y > 250",
+   "C": "y > 200",
+   "D": "Y > 150"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-22",
+  "subject": "economics",
+  "year": 1995,
+  "number": 22,
+  "question": "Both in the short run and in the long run, a firm maximizes its profits when",
+  "options": {
+   "A": "MC = MR",
+   "B": "AC = MC",
+   "C": "AVC = AC",
+   "D": "MC = AVC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-23",
+  "subject": "economics",
+  "year": 1995,
+  "number": 23,
+  "question": "Price Q₁ Q₂ Q₃ Qty",
+  "options": {
+   "A": "OQ₁MP₄",
+   "B": "P₄MTP₁",
+   "C": "OQ₁TP₁",
+   "D": "OQ₂SP₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1995_p44_1.png",
+  "images": [
+   "economics/1995_p44_1.png"
+  ]
+ },
+ {
+  "id": "economics-1995-24",
+  "subject": "economics",
+  "year": 1995,
+  "number": 24,
+  "question": "Stocking small quantities of a variety of goods is a function of the",
+  "options": {
+   "A": "manufacturer",
+   "B": "wholesaler",
+   "C": "retailer",
+   "D": "consumer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-25",
+  "subject": "economics",
+  "year": 1995,
+  "number": 25,
+  "question": "In a joint stock company, preference shareholder are those who receive",
+  "options": {
+   "A": "high dividends when profits are high and little or nothing when profits are low",
+   "B": "a fixed rate of dividend and ha ve the first claim on the net profits of the company",
+   "C": "the remaining profits after all other share holders have been paid",
+   "D": "dividends quarterly when others receive annually"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-26",
+  "subject": "economics",
+  "year": 1995,
+  "number": 26,
+  "question": "The major reason for the survival of small shops despite competition from large business enterprises is because of",
+  "options": {
+   "A": "the small capital outlay involved",
+   "B": "regularity and constant supply of commodi ties",
+   "C": "their local services and longer hours of operation",
+   "D": "they take prompt decisions and actions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-27",
+  "subject": "economics",
+  "year": 1995,
+  "number": 27,
+  "question": "One of the major advantages of public enterprises it that",
+  "options": {
+   "A": "they are highly subsidized",
+   "B": "they are the largest employers of labour",
+   "C": "their operations are highly standardized",
+   "D": "they take prompt decisions and actions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-28",
+  "subject": "economics",
+  "year": 1995,
+  "number": 28,
+  "question": "When public enterprises become commercialized it means that",
+  "options": {
+   "A": "the product of the enterprises are further subsidized",
+   "B": "they are expected to operate with the primary aim of making profits",
+   "C": "the government has decided to divest itself of such enterprises",
+   "D": "th e staff of the enterprises will be laid off"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-29",
+  "subject": "economics",
+  "year": 1995,
+  "number": 29,
+  "question": "Which of th e following statements are TRUE of agriculture in Nigeria? I it provides food for the growing population raw materials by the local industries IV it serves as a sources of heavy equipment to local industries",
+  "options": {
+   "A": "I and II only",
+   "B": "I, II and III only",
+   "C": "I, III and IV only",
+   "D": "II and III only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-30",
+  "subject": "economics",
+  "year": 1995,
+  "number": 30,
+  "question": "In recent times, agriculture in Nigeria tends to lose its vital labour force as a result of",
+  "options": {
+   "A": "lack of an effective agricultural policy",
+   "B": "employment opportunities in the oil sector",
+   "C": "rural-urban drift",
+   "D": "low prices of agricultural product"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-31",
+  "subject": "economics",
+  "year": 1995,
+  "number": 31,
+  "question": "The government can influence the price of agriculture products by",
+  "options": {
+   "A": "fixing minimum prices when agricultural output is low",
+   "B": "fixing maximum prices in years of bumper harvests",
+   "C": "the use of buffer stocks an stabilization funds",
+   "D": "paying all farmers producing identical crops a uniform amount of money"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-32",
+  "subject": "economics",
+  "year": 1995,
+  "number": 32,
+  "question": "The crucial factors which determine the location of petroleum refineries in Nigeria are availability of raw materials and",
+  "options": {
+   "A": "capital",
+   "B": "political consideration",
+   "C": "nearness to source of power",
+   "D": "labour"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-33",
+  "subject": "economics",
+  "year": 1995,
+  "number": 33,
+  "question": "Infant industries denote industries which",
+  "options": {
+   "A": "are introducing new products",
+   "B": "are too young to compete in the world market",
+   "C": "produce baby food and mothercare products",
+   "D": "are allowed time enough to mature for recognition"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-34",
+  "subject": "economics",
+  "year": 1995,
+  "number": 34,
+  "question": "When compare with a labour-intensive industry, a capital-intensive industry employers more",
+  "options": {
+   "A": "workers than capital",
+   "B": "workers than machinery",
+   "C": "raw material than capital",
+   "D": "machinery than workers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-35",
+  "subject": "economics",
+  "year": 1995,
+  "number": 35,
+  "question": "The major source of Nigeria’s foreign exchange is the export of",
+  "options": {
+   "A": "skilled manpower",
+   "B": "palm-kernel and cocoa",
+   "C": "crude oil",
+   "D": "groundnuts and cotton"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-36",
+  "subject": "economics",
+  "year": 1995,
+  "number": 36,
+  "question": "The most important goal of OPEC is to",
+  "options": {
+   "A": "present a united front for the purpose of raising prices of crude oil",
+   "B": "bring unity among the petroleum exporting states",
+   "C": "ensure political stability among member states",
+   "D": "ensure that rules on quota production are strictly followed"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-38",
+  "subject": "economics",
+  "year": 1995,
+  "number": 38,
+  "question": "The sharp increases in the prices of most goods and services during the last quarter of 1994in Nigeria were mainly due to",
+  "options": {
+   "A": "ban on importation of foreign good",
+   "B": "population upsurge",
+   "C": "the introduction value-added tax",
+   "D": "increase in transport costs"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-39",
+  "subject": "economics",
+  "year": 1995,
+  "number": 39,
+  "question": "The best method to curb inflation in Nigeria is to",
+  "options": {
+   "A": "reduce important of commodities",
+   "B": "increase the general level of production",
+   "C": "reduce the volume of money supply",
+   "D": "set up price control boards"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-40",
+  "subject": "economics",
+  "year": 1995,
+  "number": 40,
+  "question": "A bank is said to be distressed when it",
+  "options": {
+   "A": "is unable to deal with the Central Bank",
+   "B": "has a low capital base",
+   "C": "has low level of deposits",
+   "D": "experiences serious liquidity crisis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-41",
+  "subject": "economics",
+  "year": 1995,
+  "number": 41,
+  "question": "One method through which the Central Bank can restrict the commercial banks’ power of credit expansion is to",
+  "options": {
+   "A": "demand for increase special deposits",
+   "B": "decrease the cash ratio",
+   "C": "buy securities in the open market",
+   "D": "reduce the rate of interests at which banks borrow from it"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-42",
+  "subject": "economics",
+  "year": 1995,
+  "number": 42,
+  "question": "Which of the following is cheapest for the govern ment in improving the welfare of its citizens?",
+  "options": {
+   "A": "subsidy",
+   "B": "income supplement",
+   "C": "donation to specific projects",
+   "D": "wage increase"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-43",
+  "subject": "economics",
+  "year": 1995,
+  "number": 43,
+  "question": "Which of the following is mostly used to determine the cost of living?",
+  "options": {
+   "A": "marginal changes in prices",
+   "B": "consumer price index",
+   "C": "prices of imported and exported commodities",
+   "D": "producer price index Use the diagram below to answer questions 44 and 45. The diagram explains the effect of government’s imposition of an indirect tax on a good characterized by zero price elasticity of demand Price (p) P₁ S₀"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1995_p45_1.png",
+  "images": [
+   "economics/1995_p45_1.png"
+  ]
+ },
+ {
+  "id": "economics-1995-44",
+  "subject": "economics",
+  "year": 1995,
+  "number": 44,
+  "question": "The total tax revenue is represented by",
+  "options": {
+   "A": "P₁EHP₀",
+   "B": "P₀HQPO",
+   "C": "P₁EQ₀O",
+   "D": "P₁ED₁P₀"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-45",
+  "subject": "economics",
+  "year": 1995,
+  "number": 45,
+  "question": "The tax imposed is borne",
+  "options": {
+   "A": "totally by the consumer",
+   "B": "totally by the producer",
+   "C": "equally by both the consumer and the producer",
+   "D": "by the government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-46",
+  "subject": "economics",
+  "year": 1995,
+  "number": 46,
+  "question": "Ajanka, a medical student entitled to an annual allowance of N6 000, decides to leave the university to take up a job where he earns N7 000 per annum. By this singular act, the national income level will.",
+  "options": {
+   "A": "increase by N1 000",
+   "B": "decrease by N7 000",
+   "C": "increase by N7 000",
+   "D": "increase by N13 000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-47",
+  "subject": "economics",
+  "year": 1995,
+  "number": 47,
+  "question": "An increasing population might be of economic benefit to a country if",
+  "options": {
+   "A": "the female population is greater than the male population",
+   "B": "the dependency ratio is increasing as the a continuously total population",
+   "C": "a continuously higher proportion falls into the working class category",
+   "D": "the rural and urban proportions are bal anced"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-48",
+  "subject": "economics",
+  "year": 1995,
+  "number": 48,
+  "question": "The demands made on each other by the agricultural and industrial sectors as the economy grows are reflected in",
+  "options": {
+   "A": "backward and forward linkages",
+   "B": "horizontal and vertical linkages",
+   "C": "vertical linkages",
+   "D": "functional linkages"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-49",
+  "subject": "economics",
+  "year": 1995,
+  "number": 49,
+  "question": "Foreign exchange rate in a free market economy is determined by",
+  "options": {
+   "A": "The government",
+   "B": "The Central Bank",
+   "C": "Demand and supply",
+   "D": "Commercial banks"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-50",
+  "subject": "economics",
+  "year": 1995,
+  "number": 50,
+  "question": "The primary objective of all international economic organizations is to",
+  "options": {
+   "A": "ensure that third world countries get a better share of the worlds’ resources",
+   "B": "promote international economic co-operation for the mutual benefit of all members",
+   "C": "enforce structural adjustment programmes on less developed countries",
+   "D": "encourage exports from the developed to the less developed countries"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

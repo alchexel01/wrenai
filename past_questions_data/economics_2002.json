@@ -1,0 +1,925 @@
+[
+ {
+  "id": "economics-2002-1",
+  "subject": "economics",
+  "year": 2002,
+  "number": 1,
+  "question": "If goods P and Q are purchased by a consumer, a fall in the price of P with the price of Q unchanged will cause the budget line to",
+  "options": {
+   "A": "rotate outwards away from the origin",
+   "B": "Shift parallel inwards",
+   "C": "rotate inwards towards the origin",
+   "D": "shift parallel outwards"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-2",
+  "subject": "economics",
+  "year": 2002,
+  "number": 2,
+  "question": "One of the reasons for an exceptional demand curve is the",
+  "options": {
+   "A": "availability of credit facilities",
+   "B": "availability of substitutes",
+   "C": "change in the price of thecommodity",
+   "D": "expectation of a futur change in price."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-3",
+  "subject": "economics",
+  "year": 2002,
+  "number": 3,
+  "question": "The elasticity of supply of perishable goods is",
+  "options": {
+   "A": "elastic",
+   "B": "zero",
+   "C": "inelastic",
+   "D": "unitary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-4",
+  "subject": "economics",
+  "year": 2002,
+  "number": 4,
+  "question": "In the pie chart above, the percentage for children is equivalent to",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "economics/2002_p62_1.png",
+  "images": [
+   "economics/2002_p62_1.png"
+  ]
+ },
+ {
+  "id": "economics-2002-5",
+  "subject": "economics",
+  "year": 2002,
+  "number": 5,
+  "question": "Good Y 18- 15- 13- 1 2 3 4 Good X In the diagram above, the marginal rate of substitution of X for Y for a movemer from S toTis",
+  "options": {
+   "A": "5:1",
+   "B": "1:5",
+   "C": "18:4",
+   "D": "13:3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2002_p62_2.png",
+  "images": [
+   "economics/2002_p62_2.png"
+  ]
+ },
+ {
+  "id": "economics-2002-6",
+  "subject": "economics",
+  "year": 2002,
+  "number": 6,
+  "question": "A scientific approach in economic entails",
+  "options": {
+   "A": "a normative method only",
+   "B": "both inductive and deductiv methods",
+   "C": "a deductive method only",
+   "D": "both inductive and normative methods."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-7",
+  "subject": "economics",
+  "year": 2002,
+  "number": 7,
+  "question": "In a centrally planned economy. the economic problem of deciding what to produce is dependent on",
+  "options": {
+   "A": "state command",
+   "B": "relative prices",
+   "C": "average cost",
+   "D": "average profit."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-8",
+  "subject": "economics",
+  "year": 2002,
+  "number": 8,
+  "question": "A shift in supply curve indicates that a different quantity will be supplied at each possible price because",
+  "options": {
+   "A": "supply is facing competition",
+   "B": "consumers are willing to pay higher prices",
+   "C": "price has changed"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-9",
+  "subject": "economics",
+  "year": 2002,
+  "number": 9,
+  "question": "The demand for factors of production is an example of",
+  "options": {
+   "A": "competitive demand",
+   "B": "derived demand",
+   "C": "composite demand",
+   "D": "joint demand"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-10",
+  "subject": "economics",
+  "year": 2002,
+  "number": 10,
+  "question": "A student as N30.00 willl which to buy a ruler costing N18.00 and an exercise book costing N25.00. If he buys the exercise book.His opportunity cost is",
+  "options": {
+   "A": "the exercise book",
+   "B": "N25.00",
+   "C": "N18.00",
+   "D": "the ruler."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-11",
+  "subject": "economics",
+  "year": 2002,
+  "number": 11,
+  "question": "Import substitution aims at",
+  "options": {
+   "A": "substituting agricultural products with , industrial ones",
+   "B": "substituting imports with agricultural exports",
+   "C": "improving the balance of payments",
+   "D": "the diversification of industries."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-12",
+  "subject": "economics",
+  "year": 2002,
+  "number": 12,
+  "question": "Some of the key indicators of 'I underdevelopment in a country are",
+  "options": {
+   "A": "poverty low level of literacy and low income",
+   "B": "poverty low income and low unemployment level C poverty high level of literacy and low Income",
+   "D": "low level of illiteracy, low income and' poverty"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-13",
+  "subject": "economics",
+  "year": 2002,
+  "number": 13,
+  "question": "ECOWAS has taken a giant step towards economic integration by",
+  "options": {
+   "A": "Iintroducing a common currency for' traveilers",
+   "B": "presenting a united front against foreign economicexploiters.",
+   "C": "holding frequent meetings at various state capitals",
+   "D": "increasing economic', stability among member states."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-14",
+  "subject": "economics",
+  "year": 2002,
+  "number": 14,
+  "question": "One of the major factors militating against industrialization in Nigeria is the",
+  "options": {
+   "A": "frequent breakdown of equipment",
+   "B": "failure to get foreign partners and supporters",
+   "C": "inadequacy of infrastructural facilities",
+   "D": "absence of government participation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-15",
+  "subject": "economics",
+  "year": 2002,
+  "number": 15,
+  "question": "The types sources and uses of government income are mainly concerned with",
+  "options": {
+   "A": "public budget",
+   "B": "public finance",
+   "C": "public expenditure",
+   "D": "public revenue"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-16",
+  "subject": "economics",
+  "year": 2002,
+  "number": 16,
+  "question": "The present privatization policy in Nigeria is aimed at",
+  "options": {
+   "A": "reducing the prices of goods and services",
+   "B": "increasing efficiency in production",
+   "C": "poverty alleviation",
+   "D": "reducing incom~ inequality"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-17",
+  "subject": "economics",
+  "year": 2002,
+  "number": 17,
+  "question": "One of the roles of the NNPC in the production and refining of crude oil is to",
+  "options": {
+   "A": "secure maximum government revenueand regulate price",
+   "B": "protect the local operators in the petroleum industry.",
+   "C": "prevent the smuggling of petroleum"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-18",
+  "subject": "economics",
+  "year": 2002,
+  "number": 18,
+  "question": "One way of correcting the balance payments problem of a country is to",
+  "options": {
+   "A": "devalue the currency",
+   "B": "introduce import-promotion measures",
+   "C": "deemphasize import",
+   "D": "buy investments abroad"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-19",
+  "subject": "economics",
+  "year": 2002,
+  "number": 19,
+  "question": "One of the problems arising from the localization of industries is",
+  "options": {
+   "A": "high prices of output",
+   "B": "structural unemployment",
+   "C": "the exportation of output",
+   "D": "thescarcity of foreign exchange."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-20",
+  "subject": "economics",
+  "year": 2002,
+  "number": 20,
+  "question": "The major purpose of the African Development Bank is to",
+  "options": {
+   "A": "educatepeasant farmers in new techniques B provide loans for development banks in distress",
+   "C": "provide loans fo infrastructural development",
+   "D": "provide loans for trade development."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-21",
+  "subject": "economics",
+  "year": 2002,
+  "number": 21,
+  "question": "As a country gets more developed, th percentage of labour engaged in agriculture tends to",
+  "options": {
+   "A": "switch over to trading",
+   "B": "remain constant",
+   "C": "increas steadily",
+   "D": "decrease steadily"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-22",
+  "subject": "economics",
+  "year": 2002,
+  "number": 22,
+  "question": "A deficit budget can be used to",
+  "options": {
+   "A": "starve the economy of funds economic development",
+   "B": "protect t economy from inflation",
+   "C": "stimulate recovery from trade depression provide measures to remedy",
+   "D": "balance of payments."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-23",
+  "subject": "economics",
+  "year": 2002,
+  "number": 23,
+  "question": "Cocoa Cocoa Tonnes Tonnes 20 20 5 5 Cotton (Tonnes) Cotton (Tonnes) In the diagrams above, the Opportunity cost of a unity of cotton in terms cocoa is",
+  "options": {
+   "A": "20 for Ghana 60 for Nigeria",
+   "B": "1/4 for Ghana 1/2 for Nigeria",
+   "C": "5 Ghana 30 for Nigeria",
+   "D": "4 for Ghan for Nigeria."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2002_p63_1.png",
+  "images": [
+   "economics/2002_p63_1.png",
+   "economics/2002_p63_2.png"
+  ]
+ },
+ {
+  "id": "economics-2002-24",
+  "subject": "economics",
+  "year": 2002,
+  "number": 24,
+  "question": "External finance for a limited lial company is mainly sourced throug",
+  "options": {
+   "A": "the issuing of shares ` B. the least equipment",
+   "C": "trade credits",
+   "D": "loans"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-25",
+  "subject": "economics",
+  "year": 2002,
+  "number": 25,
+  "question": "One of the major criticisms of the 1962 National Devel opment Plan that incorporate lessons gained from earlier plans to enhance efficiency",
+  "options": {
+   "C": "planned expenditure based too heavily on expected ear from crude oil.",
+   "D": "it came too quick after the country's independence"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-26",
+  "subject": "economics",
+  "year": 2002,
+  "number": 26,
+  "question": "Which of the following yields more revenue to Nigeria?",
+  "options": {
+   "A": "Value added tax",
+   "B": "Royalties",
+   "C": "D irect tax",
+   "D": "Indirect tax"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-27",
+  "subject": "economics",
+  "year": 2002,
+  "number": 27,
+  "question": "In the short run a firm's marginal cost curve above the point of shut-down in it's",
+  "options": {
+   "A": "supply curve",
+   "B": "revenue curve",
+   "C": "demand curve",
+   "D": "cost curve"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-28",
+  "subject": "economics",
+  "year": 2002,
+  "number": 28,
+  "question": "The benefits that accrue to a firm as a result of an improvement in the industry it belongs to are called",
+  "options": {
+   "A": "internal economies of scale",
+   "B": "market economies",
+   "C": "external economies of scale",
+   "D": "economies of scale"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-29",
+  "subject": "economics",
+  "year": 2002,
+  "number": 29,
+  "question": "As a firm increases its output the average fixed cost",
+  "options": {
+   "A": "tends to decrease continuously",
+   "B": "rises and then falls",
+   "C": "remains constant D . tends to rise continuously"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-30",
+  "subject": "economics",
+  "year": 2002,
+  "number": 30,
+  "question": "The economic policy of deregulation is aimed at encouraging",
+  "options": {
+   "A": "a competitive market structure",
+   "B": "an oligopolistic market structure",
+   "C": "a duopolistic market structure",
+   "D": "a monopolistic market structure ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-31",
+  "subject": "economics",
+  "year": 2002,
+  "number": 31,
+  "question": "The effect of an increase in demand for a commodity accompanied by a decrease in supply will be to",
+  "options": {
+   "A": "decrease the equilibrium quantity and affect the price in an indeterminate way",
+   "B": "raise the price of the commodity and affect the quantity in an indeterminate way",
+   "C": "lower its price while affecting the equilibrium quantity in an- indeterminate way",
+   "D": "raise its price as well as the equilibrium quantity. ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-32",
+  "subject": "economics",
+  "year": 2002,
+  "number": 32,
+  "question": "Under conditions of perfect competition a firm's supply curve is determined by it's",
+  "options": {
+   "A": "fixed cost curve",
+   "B": "variable curve cost",
+   "C": "total cost curve",
+   "D": "marginal cost curve"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-33",
+  "subject": "economics",
+  "year": 2002,
+  "number": 33,
+  "question": "The short-run equilibrium output for a monopolist is determined by the",
+  "options": {
+   "A": "intersection of the marginal cost and marginal revenue curves",
+   "B": "highest point on the total revenue curve",
+   "C": "intersection of the average revenue and average cost curves",
+   "D": "minimum point on the average cost curve"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-34",
+  "subject": "economics",
+  "year": 2002,
+  "number": 34,
+  "question": "P(#) 100 200 300 Q In the diagram above what is the excess demand at the price of N60?",
+  "options": {
+   "A": "3000",
+   "B": "100",
+   "C": "600 D 200"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2002_p64_1.png",
+  "images": [
+   "economics/2002_p64_1.png"
+  ]
+ },
+ {
+  "id": "economics-2002-35",
+  "subject": "economics",
+  "year": 2002,
+  "number": 35,
+  "question": "The equilibrium wage in an economy is determined by the",
+  "options": {
+   "A": "supply and demand for labour",
+   "B": "rate of inflation",
+   "C": "workers' union",
+   "D": "public service .36. If the growth rate of available resources continuously outpaces that of the population, a country will eventually experience"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-37",
+  "subject": "economics",
+  "year": 2002,
+  "number": 37,
+  "question": "The middlemen in the chain of distribution are",
+  "options": {
+   "A": "wholesalers and retailers",
+   "B": "manufacturers and consumers",
+   "C": "consumers and wholesalers",
+   "D": "retailers and consumers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-38",
+  "subject": "economics",
+  "year": 2002,
+  "number": 38,
+  "question": "The Malthusian theory of population growth is often said to be",
+  "options": {
+   "A": "oversimplified",
+   "B": "ambiguous C.optimistic D.pessimistic"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-39",
+  "subject": "economics",
+  "year": 2002,
+  "number": 39,
+  "question": "Improved labour efficiency can be measured by",
+  "options": {
+   "A": "the constancy of input-output ratio",
+   "B": "an increase in input- output ratio",
+   "C": "an increase in output-input ratio",
+   "D": "a decrease in output-input ratio"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-40",
+  "subject": "economics",
+  "year": 2002,
+  "number": 40,
+  "question": "National income estimates can be used to",
+  "options": {
+   "A": "compare a country's growth rate with that of another over a period of time.",
+   "B": "differentiate between the rich ana the poor in a country",
+   "C": "prepare a country's annual budget",
+   "D": "project the level of a country's economic development"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-41",
+  "subject": "economics",
+  "year": 2002,
+  "number": 41,
+  "question": "In Nigeria, the bank that can correctly be described as a unit bank is",
+  "options": {
+   "A": "the Central Bank",
+   "B": "Ccommunity Bank",
+   "C": "People's Bank"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-42",
+  "subject": "economics",
+  "year": 2002,
+  "number": 42,
+  "question": "Creeping inflation implies that there is a",
+  "options": {
+   "A": "rapid but not permanent Increase In the general price level",
+   "B": "gentle but not permanent increase in the general price level",
+   "C": "rapid and persistent increase in the general price level",
+   "D": "gentle and persistent increase in the general price level."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-43",
+  "subject": "economics",
+  "year": 2002,
+  "number": 43,
+  "question": "In a closed economy, the marginal propensity to consume is 0.6 and the average propensity to consume 0.8. The value of the multiplier is",
+  "options": {
+   "A": "2.7",
+   "B": "2.6",
+   "C": "2.4",
+   "D": "2.5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-44",
+  "subject": "economics",
+  "year": 2002,
+  "number": 44,
+  "question": "Excess demand inflation can be controlled through",
+  "options": {
+   "A": "contractionary trade policy",
+   "B": "expansionary monetary policy",
+   "C": "contractionary fiscal policy",
+   "D": "expansionary fiscal policy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-45",
+  "subject": "economics",
+  "year": 2002,
+  "number": 45,
+  "question": "The primary objective of the NDIC is to",
+  "options": {
+   "A": "provide regulations guiding the finance houses",
+   "B": "give protectiqll to banks against fraud",
+   "C": "give protection to bank depositors",
+   "D": "give protection to the CBN against fraud."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-46",
+  "subject": "economics",
+  "year": 2002,
+  "number": 46,
+  "question": "Liquidity preference refers to the",
+  "options": {
+   "A": "wish to hold more funds for precautionary purposes",
+   "B": "need to increase the money supply in order to lower the interest rate",
+   "C": "demand to hold money as assets rather than as stocks",
+   "D": "need to borrow money for short periods to meet some temporary crises."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-47",
+  "subject": "economics",
+  "year": 2002,
+  "number": 47,
+  "question": "If the country's GNP in the current year is N65 billion and the GNP deflator is",
+  "options": {
+   "A": "30.0",
+   "B": "130.0.",
+   "C": "15.0",
+   "D": "1.3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-48",
+  "subject": "economics",
+  "year": 2002,
+  "number": 48,
+  "question": "Insurance companies invest mainly in instruments traded on the",
+  "options": {
+   "A": "commodity market",
+   "B": "open market",
+   "C": "capital market",
+   "D": "money market"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-49",
+  "subject": "economics",
+  "year": 2002,
+  "number": 49,
+  "question": "The solution to the problem of double coincidence of wants requires a buyer and a seller whose demands are precisely",
+  "options": {
+   "A": "complementary",
+   "B": "supplementary",
+   "C": "composite",
+   "D": "competitive"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-50",
+  "subject": "economics",
+  "year": 2002,
+  "number": 50,
+  "question": "The stock exchange is a market for the buying and selling of",
+  "options": {
+   "A": "existing shares",
+   "B": "monetary instruments",
+   "C": "new shares",
+   "D": "treasury bills."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

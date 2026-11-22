@@ -1,0 +1,916 @@
+[
+ {
+  "id": "economics-1999-1",
+  "subject": "economics",
+  "year": 1999,
+  "number": 1,
+  "question": "In a firm three employees earn N5,500 each, four earn N3,300 each, two earn N5,000 each and one earns N7,000. The mean income of the employees is",
+  "options": {
+   "A": "N5,200",
+   "B": "N4,760",
+   "C": "N4,670",
+   "D": "N2,080"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-2",
+  "subject": "economics",
+  "year": 1999,
+  "number": 2,
+  "question": "Abubakar has the choice of buying either a house or a Mercedes Benz car for N1.5m plus NO.5m running cost. If he decides to buy the Mercedes Benz car, his opportunity cost is",
+  "options": {
+   "A": "N1.5m",
+   "B": "N2.0m",
+   "C": "the house",
+   "D": "the car"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-3",
+  "subject": "economics",
+  "year": 1999,
+  "number": 3,
+  "question": "The shape of a production possibility frontier is determined by the",
+  "options": {
+   "A": "increasing relative costs",
+   "B": "returns to scale",
+   "C": "diminishing returns to a fixed factor",
+   "D": "increasing returns to a variable factor."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-4",
+  "subject": "economics",
+  "year": 1999,
+  "number": 4,
+  "question": "Normative economics deals with",
+  "options": {
+   "A": "what is and not what should be",
+   "B": "facts and not figures",
+   "C": "facts and figures",
+   "D": "value judgements"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-5",
+  "subject": "economics",
+  "year": 1999,
+  "number": 5,
+  "question": "The determinants of elasticity include",
+  "options": {
+   "A": "price time and availability of alternatives.",
+   "B": "technology and cost of production",
+   "C": "time and availability of alternatives",
+   "D": "price, time and technological changes.."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1999_p53_1.png",
+  "images": [
+   "economics/1999_p53_1.png"
+  ]
+ },
+ {
+  "id": "economics-1999-6",
+  "subject": "economics",
+  "year": 1999,
+  "number": 6,
+  "question": "In the table above, the income elasticity of clothing is",
+  "options": {
+   "A": "0.5",
+   "B": "2.0",
+   "C": "2.5",
+   "D": "5.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-7",
+  "subject": "economics",
+  "year": 1999,
+  "number": 7,
+  "question": "A capitalist economy is one characterized by the",
+  "options": {
+   "A": "private ownership of factors of production",
+   "B": "ownership of factors of production by rich Members of the society",
+   "C": "use of capital and labour in fixed proportions during production",
+   "D": "use of capital intensive methods of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-8",
+  "subject": "economics",
+  "year": 1999,
+  "number": 8,
+  "question": "In a planned economy, what shall be produced is determined primarily by",
+  "options": {
+   "A": "what the consumer wants",
+   "B": "government decisions",
+   "C": "price mechanism",
+   "D": "the pattern of consumer spending. Use the diagram below to answer questions 9 and 10 Dₒ and SO are initial demand and supply curves with equilibrium at E₁. Other supply and demand curves with equilibrium points are indicated. D₂ S₁ Price (P) Quantity (Q)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1999_p54_3.png",
+  "images": [
+   "economics/1999_p54_3.png"
+  ]
+ },
+ {
+  "id": "economics-1999-9",
+  "subject": "economics",
+  "year": 1999,
+  "number": 9,
+  "question": "Points E₆ and Es are respectively equilibra points for",
+  "options": {
+   "A": "DO and S₀; Do and S₂ B.D₁ and S₂; D₂ and S₀",
+   "C": "D₂ and S₁;D₂ and S₂",
+   "D": "D₂ and S₀; D₀ and S₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-10",
+  "subject": "economics",
+  "year": 1999,
+  "number": 10,
+  "question": "Identify the three important factors that can make 80 to become either S₁ or S₂.",
+  "options": {
+   "A": "Technology, weather and population",
+   "B": "Technology, price and tastes",
+   "C": "Weather, price and technology",
+   "D": "Population, weather and tastes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-11",
+  "subject": "economics",
+  "year": 1999,
+  "number": 11,
+  "question": "P₀ P₀ P¹ P¹ O q₀ q₁ O q₀ q₁ The graphs above illustrate",
+  "options": {
+   "A": "joint demand",
+   "B": "derived demand",
+   "C": "compositedemand",
+   "D": "competitive demand. In the diagram above, the consum.er equilibrium at point"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1999_p54_1.png",
+  "images": [
+   "economics/1999_p54_1.png",
+   "economics/1999_p54_2.png"
+  ]
+ },
+ {
+  "id": "economics-1999-13",
+  "subject": "economics",
+  "year": 1999,
+  "number": 13,
+  "question": "A utilitymaximizing householdwill allocateits expenditure so that",
+  "options": {
+   "A": "morenaira is spent on commodities with the highest utility",
+   "B": "less naira is spent on commodities with the loweSt utility",
+   "C": "the utility of the last naira spent on each commodityis equal",
+   "D": "the amount spent on each commodity is equal."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-14",
+  "subject": "economics",
+  "year": 1999,
+  "number": 14,
+  "question": "The downward sloping part of the long-run average cost curve of a firm may be attributable to",
+  "options": {
+   "A": "diminishing returns",
+   "B": "the law of variable proportions",
+   "C": "diseconomies of scale",
+   "D": "increasing returns to scale."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-15",
+  "subject": "economics",
+  "year": 1999,
+  "number": 15,
+  "question": "The main function of price in the economic system if is to",
+  "options": {
+   "A": "allocate scarce resources among competing",
+   "B": "ensure equitable distribution of income and wealth",
+   "C": "determine the demand for and the supply of goods and services",
+   "D": "remove all the constraints on production of goods and services."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-16",
+  "subject": "economics",
+  "year": 1999,
+  "number": 16,
+  "question": "Calculate the total number of people engaged in, tertiary production from the data above.",
+  "options": {
+   "A": "5 000 000",
+   "B": "6250000",
+   "C": "11 750 000",
+   "D": "12250000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1999_p54_4.png",
+  "images": [
+   "economics/1999_p54_4.png"
+  ]
+ },
+ {
+  "id": "economics-1999-17",
+  "subject": "economics",
+  "year": 1999,
+  "number": 17,
+  "question": "One of the characteristics of an imperfect market is the",
+  "options": {
+   "A": "large number of buyers and sellers in the market",
+   "B": "awareness of market conditions by buyers",
+   "C": "availability of substitutes",
+   "D": "heterogeneity of products."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-18",
+  "subject": "economics",
+  "year": 1999,
+  "number": 18,
+  "question": "A characlerislic of the average fixed cost is that, it",
+  "options": {
+   "A": "rises and falls faster than the marginal cost",
+   "B": "is V-shaped and intersects the price axis",
+   "C": "is always higher than the average variable cost",
+   "D": "falls continuously but is never equal to zero"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-19",
+  "subject": "economics",
+  "year": 1999,
+  "number": 19,
+  "question": "In perfect competition, every firm is a price",
+  "options": {
+   "A": "maker",
+   "B": "taker",
+   "C": "giver",
+   "D": "bidder."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-20",
+  "subject": "economics",
+  "year": 1999,
+  "number": 20,
+  "question": "Given that the total fixed cost is HI 000, lotal variable cost N2 500 and the output, 100 unit Find the average lotal cost of producing one unit.",
+  "options": {
+   "A": "N60",
+   "B": "N45",
+   "C": "N35",
+   "D": "N30"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-21",
+  "subject": "economics",
+  "year": 1999,
+  "number": 21,
+  "question": "Which of the following falis continuously as output expands? A.. A verage fixed cost. it B. Marginal cost.",
+  "options": {
+   "C": "Average variable cost",
+   "D": "Averagc cost"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-22",
+  "subject": "economics",
+  "year": 1999,
+  "number": 22,
+  "question": "A major obstacle to rapid agricultural development in Nigeria is the",
+  "options": {
+   "A": "ineffective use of crude implements",
+   "B": "inabilily or farmers to adopt modem technology",
+   "C": "introduction of the Green Revolulion prograrnme",
+   "D": "declining population growth rate."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-23",
+  "subject": "economics",
+  "year": 1999,
+  "number": 23,
+  "question": "The land tenure system in Nigeria impedes agricultural Production because .",
+  "options": {
+   "A": "land fragmentation makes possible easy access to land ownership",
+   "C": "it limits opportunity for mass production of agricultural goods",
+   "D": "small landholders generally do not get enough fertilizers to use."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-24",
+  "subject": "economics",
+  "year": 1999,
+  "number": 24,
+  "question": "The major problems of cooperative Societies in Nigeria is that. A .they oftenlack cohension and continuity",
+  "options": {
+   "B": "their liability is unlimited to members",
+   "C": "voting is by proxy",
+   "D": "their management style is poor."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-25",
+  "subject": "economics",
+  "year": 1999,
+  "number": 25,
+  "question": "The primary objective of establishing the Export Processing Zone is to",
+  "options": {
+   "A": "facilitate agricultural production",
+   "B": "encourage the production and processing of export commodities",
+   "C": "erect structures that will facilitate the processing of imported raw materials",
+   "D": "erect economic structures near the port"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-26",
+  "subject": "economics",
+  "year": 1999,
+  "number": 26,
+  "question": "The first petroleum exploring company to discover crude petroleum in Nigeria was",
+  "options": {
+   "A": "Mobil",
+   "B": "Texaco",
+   "C": "Agip",
+   "D": "Shell-BP."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-27",
+  "subject": "economics",
+  "year": 1999,
+  "number": 27,
+  "question": "Concentrating industries in one place is advantageous because there are gains in terms of",
+  "options": {
+   "A": "external economies",
+   "B": "internal economies",
+   "C": "economies of scale",
+   "D": "cost economies."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-28",
+  "subject": "economics",
+  "year": 1999,
+  "number": 28,
+  "question": "Import substitution industrialization refers to",
+  "options": {
+   "A": "the concentration of industries for even development",
+   "B": "selling up of industries for regional development",
+   "C": "a situation in which local industries are set up to produce goods formerly imported",
+   "D": "the bann ing of imports which are substitutes for domestically produced goods."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-29",
+  "subject": "economics",
+  "year": 1999,
+  "number": 29,
+  "question": "An entrepreneur will continue to employ labour up to a point where",
+  "options": {
+   "A": "costs are minimized",
+   "B": "maximum efficiency is attained",
+   "C": "wages are equal to marginal product of labour",
+   "D": "marginal product of labour is equal to zero."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-30",
+  "subject": "economics",
+  "year": 1999,
+  "number": 30,
+  "question": "Optimum population is defined as the level of population at which",
+  "options": {
+   "A": "per capita output is maximized",
+   "B": "population is neither increasing nor decreasing",
+   "C": "total national income is maximized",
+   "D": "marginal efficiency of population is maximized”"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-31",
+  "subject": "economics",
+  "year": 1999,
+  "number": 31,
+  "question": "When a worker earns more than the wage just",
+  "options": {
+   "A": "an opportunity cost",
+   "B": "an economic rent",
+   "C": "transfer eamings",
+   "D": "surplus value"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-32",
+  "subject": "economics",
+  "year": 1999,
+  "number": 32,
+  "question": "No Items Amount (Nm) 1. Wages 9000 2. Salaries 7000 3 Government pensions 1500 4 Unemployment pay and other social bene fits 1000 5. Rent and interest 1500 6. Profits 1500 From the table above calculate the national income.",
+  "options": {
+   "A": "N18,500 m",
+   "B": "N19,OOO m",
+   "C": "N19,500 m",
+   "D": "N20,500m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-33",
+  "subject": "economics",
+  "year": 1999,
+  "number": 33,
+  "question": "National income at factor cost means national income",
+  "options": {
+   "A": "current prices",
+   "B": "nomi nal prices",
+   "C": "last year price",
+   "D": "pricesbase year"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-34",
+  "subject": "economics",
+  "year": 1999,
+  "number": 34,
+  "question": "The value of the multiplier depends on",
+  "options": {
+   "A": "MPC and level of income",
+   "B": "level of pesonal income",
+   "C": "level of personal savings",
+   "D": "government policy and MPC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-35",
+  "subject": "economics",
+  "year": 1999,
+  "number": 35,
+  "question": "One of the major problems of product distribution in most developing countries is",
+  "options": {
+   "A": "lack of storage facilities",
+   "B": "large number of middlemen",
+   "C": "inadequate manpower",
+   "D": "inadequate means of transportation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-36",
+  "subject": "economics",
+  "year": 1999,
+  "number": 36,
+  "question": "Non-bank financial intermediaries do not",
+  "options": {
+   "A": "provide credit facilities",
+   "B": "accept deposits",
+   "C": "accept demand deposits",
+   "D": "sell shares."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-37",
+  "subject": "economics",
+  "year": 1999,
+  "number": 37,
+  "question": "Inflation which is caused mainly by increases in the prices of factors of production is described as",
+  "options": {
+   "A": "cost-push inflation",
+   "B": "demand-pull inflation",
+   "C": "crawling infla tion",
+   "D": "spiral inflation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-38",
+  "subject": "economics",
+  "year": 1999,
+  "number": 38,
+  "question": "The relationship between the value of money and the price level is",
+  "options": {
+   "A": "direct",
+   "B": "unpredictable",
+   "C": "diverse",
+   "D": "inverse."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-39",
+  "subject": "economics",
+  "year": 1999,
+  "number": 39,
+  "question": "People hold money for",
+  "options": {
+   "A": "charity",
+   "B": "safe keeping",
+   "C": "profit making",
+   "D": "speculative purposes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-40",
+  "subject": "economics",
+  "year": 1999,
+  "number": 40,
+  "question": "Bills of exchange originate from a",
+  "options": {
+   "A": "central bank",
+   "B": "commercial bank",
+   "C": "commu nity bank",
+   "D": "development ba.nk"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-41",
+  "subject": "economics",
+  "year": 1999,
+  "number": 41,
+  "question": "If high unemployment goes hand in hand with rising prices the situation created is A . hyper inflation B. stagflation",
+  "options": {
+   "C": "moderate Inflation",
+   "D": "galloping Inflation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-42",
+  "subject": "economics",
+  "year": 1999,
+  "number": 42,
+  "question": "One of the functions of money is that it helps.",
+  "options": {
+   "A": "detect frauds in matters of exchange",
+   "B": "postpone payments without loss of count",
+   "C": "store information about the intrinsic benefits of an item",
+   "D": "record information about the valuation of an item."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-43",
+  "subject": "economics",
+  "year": 1999,
+  "number": 43,
+  "question": "Fiscal policy involves changes in",
+  "options": {
+   "A": "open market operations",
+   "B": "revenue and expenditure of government",
+   "C": "money supply to the economy",
+   "D": "imports and exports."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-44",
+  "subject": "economics",
+  "year": 1999,
+  "number": 44,
+  "question": "Economic development may be defined as economic growth",
+  "options": {
+   "A": "in a given country",
+   "B": "over a long period",
+   "C": "and improved health facilities",
+   "D": "and improved distribution of wealth."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-45",
+  "subject": "economics",
+  "year": 1999,
+  "number": 45,
+  "question": "The price of a good will not be affected by the imposition of a sales tax on it if the",
+  "options": {
+   "A": "supply is inelastic",
+   "B": "demand is inelastic",
+   "C": "supply is perfectly elastic",
+   "D": "demand isperfectlyelastic."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-46",
+  "subject": "economics",
+  "year": 1999,
+  "number": 46,
+  "question": "A free trade area emerges when",
+  "options": {
+   "A": "traders from one part of the country can move freely to other-parts",
+   "B": "customs regulations are harmonized among countries",
+   "C": "a group of countries decide to remove restrictions on im ports from one another D. the UNCTAD is in force. 47: Devaluation helps in checking adverse balance of payments if the",
+   "D": "demand for exports is inelastic. ,"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-48",
+  "subject": "economics",
+  "year": 1999,
+  "number": 48,
+  "question": "Gains from trade depends on",
+  "options": {
+   "A": "comparative advantage",
+   "B": "absolute advantage",
+   "C": "distributive cost advantage",
+   "D": "absolute cost advantage."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-49",
+  "subject": "economics",
+  "year": 1999,
+  "number": 49,
+  "question": "Favourable terms of trade is importaflt to a country because it facilitates",
+  "options": {
+   "A": "economic prosperity for importers and exporters",
+   "B": "export of hard currency by the government",
+   "C": "economic prosperity for the country",
+   "D": "import of hard currency by the government."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-50",
+  "subject": "economics",
+  "year": 1999,
+  "number": 50,
+  "question": "The most acceptable economic measure for trade protection is to",
+  "options": {
+   "A": "improve standards of living",
+   "B": "protect Infant industries",
+   "C": "safeguard strategic industries",
+   "D": "promote foreign trade."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

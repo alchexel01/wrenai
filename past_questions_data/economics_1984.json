@@ -1,0 +1,993 @@
+[
+ {
+  "id": "economics-1984-1",
+  "subject": "economics",
+  "year": 1984,
+  "number": 1,
+  "question": "The main economic objective behind the production of goods and services in any economy is to",
+  "options": {
+   "A": "Maximize profits",
+   "B": "Satisfy human wants",
+   "C": "Become self-reliant D.Create job opportunities E.Make people wealthy."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-2",
+  "subject": "economics",
+  "year": 1984,
+  "number": 2,
+  "question": "Demand for a commodity by a consumer is the quantity of that commodity that the consumer",
+  "options": {
+   "A": "Demands at a given price at a point in time",
+   "B": "Demands at a given price",
+   "C": "Actually digests",
+   "D": "Produces, given its price",
+   "E": "Can store away during bad weather"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-3",
+  "subject": "economics",
+  "year": 1984,
+  "number": 3,
+  "question": "Division of labour is limited by",
+  "options": {
+   "A": "The size of the market",
+   "B": "The productivity of capital",
+   "C": "Cost of production",
+   "D": "The factors of production",
+   "E": "Government policy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-4",
+  "subject": "economics",
+  "year": 1984,
+  "number": 4,
+  "question": "The production within the domestic territory of a country is called the",
+  "options": {
+   "A": "Net national product",
+   "B": "Gross domestic product",
+   "C": "Net income",
+   "D": "Disposable income",
+   "E": "Gross national product"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-5",
+  "subject": "economics",
+  "year": 1984,
+  "number": 5,
+  "question": "In discussing the reasons why wages differ between occupations, which of the following should be regarded as a cardinal point that needs to be emphasized?",
+  "options": {
+   "A": "Length and cost of training",
+   "B": "Demand and supply",
+   "C": "Attractiveness of the job",
+   "D": "Influence fo trade unions.",
+   "E": "Government intervention."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-6",
+  "subject": "economics",
+  "year": 1984,
+  "number": 6,
+  "question": "A rightward shift in the production possibility frontier may be due to",
+  "options": {
+   "A": "Use of inferior inputs",
+   "B": "Inefficiency",
+   "C": "Improvement in production techniques and practices",
+   "D": "Changes in the product mix",
+   "E": "Changes in consumers’ tastes and preferences."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1984_p6_1.png",
+  "images": [
+   "economics/1984_p6_1.png"
+  ]
+ },
+ {
+  "id": "economics-1984-7",
+  "subject": "economics",
+  "year": 1984,
+  "number": 7,
+  "question": "The above table shows the short-run costs of a firm. What is the firm’s marginal cost for the third item produced?",
+  "options": {
+   "A": "N350.00",
+   "B": "N349.00",
+   "C": "N360.00",
+   "D": "N370.50",
+   "E": "N505.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-8",
+  "subject": "economics",
+  "year": 1984,
+  "number": 8,
+  "question": "The advantages that accrue to a firm as the size of the firm increases are known as",
+  "options": {
+   "A": "External diseconomies B.Internal returnes to scale",
+   "C": "Internal economies D.Internal diseconomies",
+   "E": "Constant returns to scale."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-9",
+  "subject": "economics",
+  "year": 1984,
+  "number": 9,
+  "question": "One of the advantages of large-scale production is that",
+  "options": {
+   "A": "There is a rise in the cost of administration",
+   "B": "Consumers sacrifice their individual tastes",
+   "C": "The firm can use labour-saving machinery",
+   "D": "The demand for a firm’s products become localized",
+   "E": "Decision making takes a long time because different levels of management are involved."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-10",
+  "subject": "economics",
+  "year": 1984,
+  "number": 10,
+  "question": "Which of the following is NOT an obstacle to economic development?",
+  "options": {
+   "A": "Low level of investmentB. Lack of modern technology",
+   "C": "High rate of population growth",
+   "D": "Low productivity",
+   "E": "Dedicated leadership"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-11",
+  "subject": "economics",
+  "year": 1984,
+  "number": 11,
+  "question": "An ageing population refers to the preponderance on",
+  "options": {
+   "A": "Middle-aged people in the population",
+   "B": "Young people in the population",
+   "C": "Women in ht population",
+   "D": "Old men in the population",
+   "E": "Old people in the population"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-12",
+  "subject": "economics",
+  "year": 1984,
+  "number": 12,
+  "question": "Let TC = total cost TVC = total variable costs TFC = total fixed costs ATC = average total costs AVC = average variable costs AFC = average fixed costs Q = output Which of the following is NOT true?",
+  "options": {
+   "A": "TC = TFC + TVC",
+   "B": "ATC = AVC + AFC",
+   "C": "AFC = TFC",
+   "D": "TVC = AVC",
+   "E": "AVC = TVC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-13",
+  "subject": "economics",
+  "year": 1984,
+  "number": 13,
+  "question": "Which of the following is NOT a determinant of the size of the economically active population?",
+  "options": {
+   "A": "Age structure",
+   "B": "Occupation of workers",
+   "C": "Proportion of men to women",
+   "D": "Average length of the working day",
+   "E": "Efficiency of the labour force"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-14",
+  "subject": "economics",
+  "year": 1984,
+  "number": 14,
+  "question": "The population level that yields the maximum output when combined with available resources is known as",
+  "options": {
+   "A": "Dependent population",
+   "B": "Maximum population",
+   "C": "Active population",
+   "D": "Production population",
+   "E": "Optimum population."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-15",
+  "subject": "economics",
+  "year": 1984,
+  "number": 15,
+  "question": "P O Q In the above diagram the supply curve S0S0 shifts to a new position S1S1 to indicate",
+  "options": {
+   "A": "A drop in supply",
+   "B": "A rise in supply",
+   "C": "A supply-push inflation",
+   "D": "A stable supply curve",
+   "E": "An increase in quantity supplied."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1984_p7_1.png",
+  "images": [
+   "economics/1984_p7_1.png"
+  ]
+ },
+ {
+  "id": "economics-1984-16",
+  "subject": "economics",
+  "year": 1984,
+  "number": 16,
+  "question": "If X and Y are two goods, then the cross elasticity of demand for X with respect to Y is defined as the",
+  "options": {
+   "A": "Percentage change in the quantity of X divided by the percentage change in the price of Y",
+   "B": "Percentage change in the quantity of X divided by change in the price of Y",
+   "C": "Change in the quantity of X divided by change in the price of Y",
+   "D": "Percentage change in the quantity of X divided by the price of Y",
+   "E": "Percentage change in the quantity of Y."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-17",
+  "subject": "economics",
+  "year": 1984,
+  "number": 17,
+  "question": "For two substitute goods, the cross elasticity of demand is",
+  "options": {
+   "A": "Greater than one but less than two",
+   "B": "Zero",
+   "C": "Negative",
+   "D": "Positive",
+   "E": "Infinity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-18",
+  "subject": "economics",
+  "year": 1984,
+  "number": 18,
+  "question": "The control of prices by legislation usually produces a number of consequences. Which of the following is NOT an associated problem of maximum price control?",
+  "options": {
+   "A": "Excess supply",
+   "B": "Favouritism",
+   "C": "Bribery and corruption",
+   "D": "Black marketing",
+   "E": "Hoarding"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-19",
+  "subject": "economics",
+  "year": 1984,
+  "number": 19,
+  "question": "For a non-discriminating monopolist in Nigeria, price at the profit maximizing output is",
+  "options": {
+   "A": "Equal to marginal cost",
+   "B": "Greater than marginal cost",
+   "C": "Greater than average total cost",
+   "D": "Equal to marginal revenue",
+   "E": "Equal to total revenue"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-20",
+  "subject": "economics",
+  "year": 1984,
+  "number": 20,
+  "question": "A demand curve slopes downwards because of",
+  "options": {
+   "C": "The substitution effect and the rise in real income of the consumer",
+   "D": "The rise in demand for the complementary goods",
+   "E": "The increase in the demand for factors of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-21",
+  "subject": "economics",
+  "year": 1984,
+  "number": 21,
+  "question": "An imperfectly competitive market is one where",
+  "options": {
+   "A": "A large number of firms sell homogenous products",
+   "B": "Input and output prices are unaffected",
+   "C": "Each firm faces a horizontal demand curve",
+   "D": "Each firm maximizes profit by selecting an out put level at which marginal cost equals market price",
+   "E": "Commodities are differentiated"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-22",
+  "subject": "economics",
+  "year": 1984,
+  "number": 22,
+  "question": "In taxation, the benefit principle requires that",
+  "options": {
+   "A": "Everybody must draw benefits from taxation",
+   "B": "All those who earn more income must pay more taxes",
+   "C": "Only those who derive benefits from services provided from public revenue should be taxed",
+   "D": "Taxes paid by businesses should be shifted to those consumers benefiting from such consumer commodities",
+   "E": "Everybody pays an equal amount"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-23",
+  "subject": "economics",
+  "year": 1984,
+  "number": 23,
+  "question": "A perfectly competitive firm does not influence the demand for its commodities by lowering its price below the market price because",
+  "options": {
+   "A": "It is illegal price cutting",
+   "B": "Other competitors will be angry",
+   "C": "Total revenue will decline due to its inelastic demand curve",
+   "D": "It is able to sell all it wants at the market price",
+   "E": "It does not maximize profit."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-24",
+  "subject": "economics",
+  "year": 1984,
+  "number": 24,
+  "question": "Pricing and output decisions of sellers are highly interdependent in markets known as",
+  "options": {
+   "A": "Oligopoly",
+   "B": "Perfect competition",
+   "C": "Monopoly",
+   "D": "Monopolistic competition",
+   "E": "Imperfect competition."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-25",
+  "subject": "economics",
+  "year": 1984,
+  "number": 25,
+  "question": "One disadvantage of sole proprietorship is its",
+  "options": {
+   "A": "Limited liability",
+   "B": "High profits",
+   "C": "High sense of ownership",
+   "D": "Low credit rating",
+   "E": "Low failure rate."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-26",
+  "subject": "economics",
+  "year": 1984,
+  "number": 26,
+  "question": "The Channel for food distribution in Nigeria consists of",
+  "options": {
+   "A": "Farmers and their families",
+   "B": "Producers, wholesalers and retailers",
+   "C": "Producers and consumers",
+   "D": "Producers and processor",
+   "E": "Farmers. Processors and consumers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-27",
+  "subject": "economics",
+  "year": 1984,
+  "number": 27,
+  "question": "Which of the following is NOT true of debentures and debenture holders?",
+  "options": {
+   "A": "Debentures are instruments for raising long-term capital by limited liability companies",
+   "B": "Debentures are fixed interest-bearing securi ties with specifies maturity date.",
+   "C": "Debenture holders are creditors to the payments whether or not profits are made.",
+   "E": "Preference shareholders receive their share of profits before debenture holders receive their entitlements."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-28",
+  "subject": "economics",
+  "year": 1984,
+  "number": 28,
+  "question": "The economic goal of public utilities is to",
+  "options": {
+   "A": "Maximize profits",
+   "B": "Expand assets C Minimize cost D.Provide essential services",
+   "E": "Pay higher dividends to shareholders"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-29",
+  "subject": "economics",
+  "year": 1984,
+  "number": 29,
+  "question": "The basic principles of co-operative societies are those of",
+  "options": {
+   "A": "Active participation of capitalists in the affairs of co-operative societies",
+   "B": "Workers ownership and worker control",
+   "C": "Sole proprietorship",
+   "D": "Partnership",
+   "E": "Denying of credit facilities to members"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-30",
+  "subject": "economics",
+  "year": 1984,
+  "number": 30,
+  "question": "The most important factor determining the location of the cement industry in Nigeria today is",
+  "options": {
+   "A": "Capital and government policy",
+   "B": "The nature of the product, infrastructure and government policy",
+   "C": "Nearness to the market and source of power",
+   "D": "Price of the product and source of labour",
+   "E": "Raw materials"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-31",
+  "subject": "economics",
+  "year": 1984,
+  "number": 31,
+  "question": "The most important characteristic of money is",
+  "options": {
+   "A": "Portability",
+   "B": "Intrinsic value",
+   "C": "Acceptability",
+   "D": "Usefulness",
+   "E": "Beauty"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-32",
+  "subject": "economics",
+  "year": 1984,
+  "number": 32,
+  "question": "The Central Bank instrument of control does NOT include",
+  "options": {
+   "A": "Open market operations",
+   "B": "Moral suasion",
+   "C": "A rise in cost of production.",
+   "D": "Selective credit control",
+   "E": "Printing banknotes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-33",
+  "subject": "economics",
+  "year": 1984,
+  "number": 33,
+  "question": "Cost push inflation takes place due to",
+  "options": {
+   "A": "The rapid increase in the demand for goods",
+   "B": "An increase in productivity of the factors of production",
+   "C": "A rise in the cost of production",
+   "D": "A rise in the standard of living",
+   "E": "The low wage rate of the workers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-34",
+  "subject": "economics",
+  "year": 1984,
+  "number": 34,
+  "question": "Lord Keynes identified three motives for holding money, that is, keeping one’s resources in liquid from instead of in some form of investment. The motive which relates to making provision for the ‘rainy day’ is known as",
+  "options": {
+   "A": "Transaction purposes",
+   "B": "Precautionary motive",
+   "C": "Transactions motive",
+   "D": "Investment motive",
+   "E": "Rainy day motive."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-35",
+  "subject": "economics",
+  "year": 1984,
+  "number": 35,
+  "question": "If a person demands money for buying and selling sec urities it is referred to as demanding money for",
+  "options": {
+   "A": "Transaction purposes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-36",
+  "subject": "economics",
+  "year": 1984,
+  "number": 36,
+  "question": "Generally property taxes",
+  "options": {
+   "A": "Are borne entirely by landlords",
+   "B": "Cannot be shifted in the long run",
+   "C": "Are borne by all (renters, owner-occupiers and landlords)",
+   "D": "Are borne only by renters",
+   "E": "Are borne by a few industrialists."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-37",
+  "subject": "economics",
+  "year": 1984,
+  "number": 37,
+  "question": "One of the major effects of an increase in government expenditure on a nation’s economy is that it",
+  "options": {
+   "A": "Creates investment opportunities for foreign investors",
+   "B": "Leads to indigenization of the private sector",
+   "C": "Raises the level of total tax revenue",
+   "D": "Raises the level of aggregate demand",
+   "E": "Controls the spread of monopoly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-38",
+  "subject": "economics",
+  "year": 1984,
+  "number": 38,
+  "question": "Public expenditure on services, such as education and health, is known as expenditure on",
+  "options": {
+   "A": "General services",
+   "B": "Community services",
+   "C": "Social services",
+   "D": "Economic services",
+   "E": "Administrative services Questions 39 and 40 are based o the table below: The international production set for Nigeria and Austria is:"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1984_p8_1.png",
+  "images": [
+   "economics/1984_p8_1.png"
+  ]
+ },
+ {
+  "id": "economics-1984-39",
+  "subject": "economics",
+  "year": 1984,
+  "number": 39,
+  "question": "The opportunity cost ratio for cocoa and lace for Austria and Nigeria is",
+  "options": {
+   "A": "2, 2",
+   "B": "2, 1, 5",
+   "C": "1, 5, 4",
+   "D": "1, 5, 2",
+   "E": "0.5, 1,5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-40",
+  "subject": "economics",
+  "year": 1984,
+  "number": 40,
+  "question": "From the table it can be deduced that",
+  "options": {
+   "A": "Nigeria should produce cocoa and lace",
+   "B": "Austria should produce cocoa and lace",
+   "C": "Nigeria can benefit from producing lace only",
+   "D": "Nigeria should not produce any of the products",
+   "E": "Austria should produce lace and Nigeria should produce cocoa."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-41",
+  "subject": "economics",
+  "year": 1984,
+  "number": 41,
+  "question": "The following, except ONE, are the differences between international trade and internal trade.",
+  "options": {
+   "A": "Differences in currencies",
+   "B": "Governments control",
+   "C": "Mobility of factors of production",
+   "D": "Cultural differences.",
+   "E": "Exchanges of goods and services"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-42",
+  "subject": "economics",
+  "year": 1984,
+  "number": 42,
+  "question": "Let Px represent the price of exports and Pm the price of imports. Then the items of trade (TOT) are said to be favourable if",
+  "options": {
+   "B": "Px < 1",
+   "D": "Px = 1 Pm Pm",
+   "E": "0 < Px < 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-43",
+  "subject": "economics",
+  "year": 1984,
+  "number": 43,
+  "question": "Which of the following items does NOT belong to a country’s current account in the balance of payments account?",
+  "options": {
+   "A": "Merchandise exports",
+   "B": "Merchandise imports",
+   "C": "Travel",
+   "D": "Foreign currencies E.Insurance services"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-44",
+  "subject": "economics",
+  "year": 1984,
+  "number": 44,
+  "question": "An improvement in Nigeria’s terms of trade should",
+  "options": {
+   "A": "Lead to a fall in cost of her imports in terms of what she must sacrifice to obtain them",
+   "B": "Make ‘made in Nigeria’ goods cheaper to buy",
+   "C": "Increase Nigeria’s domestic output of commodities",
+   "D": "Lead to an increase in her exchange rates",
+   "E": "Lead to an increase in Nigeria’s exports of petroleum"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-45",
+  "subject": "economics",
+  "year": 1984,
+  "number": 45,
+  "question": "Which of the following is NOT a feature of economic underdevelopment o a country?",
+  "options": {
+   "A": "Large number of high income earners relative to the population",
+   "B": "High annual income for the few",
+   "C": "High incidence of poverty",
+   "D": "Low daily calorie intake per person",
+   "E": "High infant mortality rate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1984_p9_1.png",
+  "images": [
+   "economics/1984_p9_1.png"
+  ]
+ },
+ {
+  "id": "economics-1984-46",
+  "subject": "economics",
+  "year": 1984,
+  "number": 46,
+  "question": "The above diagram illustrates",
+  "options": {
+   "A": "The circular flow of income",
+   "B": "Gross national product plus depreciation",
+   "C": "Incomes of the sector",
+   "D": "The profit of business enterprises",
+   "E": "The output approach to national income determination."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-47",
+  "subject": "economics",
+  "year": 1984,
+  "number": 47,
+  "question": "In the diagram (I) refers to the calculation of national income through the",
+  "options": {
+   "A": "Expenditure approach",
+   "B": "Input-output approach",
+   "C": "Flow of funds approach",
+   "D": "Income approach",
+   "E": "Output approach"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-48",
+  "subject": "economics",
+  "year": 1984,
+  "number": 48,
+  "question": "In the same diagram, (III) refers to the calculation of national income through the",
+  "options": {
+   "A": "Income approach",
+   "B": "government earnings approach",
+   "C": "expenditure approach",
+   "D": "output approach",
+   "E": "flow of funds approach"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-49",
+  "subject": "economics",
+  "year": 1984,
+  "number": 49,
+  "question": "Given the present state of the Nigerian economy, which of the following measures will promote a more rapid economic development?",
+  "options": {
+   "A": "Complete dependence on oil exports",
+   "B": "Concentration on agricultural exports",
+   "C": "Diversification of the economy",
+   "D": "Building of more schools and universities",
+   "E": "Introduction of nuclear energy in Nigeria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1984-50",
+  "subject": "economics",
+  "year": 1984,
+  "number": 50,
+  "question": "Which of the following does NOT represent the behaviour of a monopolist?",
+  "options": {
+   "A": "Management the market price of his goods",
+   "B": "Manipulating both the price and quantity of his goods at the same time",
+   "C": "Raising the price at one market, lowering at another market",
+   "D": "Manipulating only quantity, price being a given factor",
+   "E": "Manipulating the quality of his goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,904 @@
+[
+ {
+  "id": "economics-1990-1",
+  "subject": "economics",
+  "year": 1990,
+  "number": 1,
+  "question": "If one orange costs 20k and one kilogram of beef costs N10.00, the opportunity cost of one kilogram of beef is A.50 orange B. 10 orange",
+  "options": {
+   "C": "5 orange",
+   "D": "N9.80"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-2",
+  "subject": "economics",
+  "year": 1990,
+  "number": 2,
+  "question": "In economic life. Choice among alternative depends on the",
+  "options": {
+   "A": "Income of the decision make",
+   "B": "Scarcity of resources",
+   "C": "Scale of preference of the decision maker",
+   "D": "Status of the decision maker Use the diagram below to answer question 3 and 4 A simple circular flow of income diagram"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1990_p26_1.png",
+  "images": [
+   "economics/1990_p26_1.png"
+  ]
+ },
+ {
+  "id": "economics-1990-3",
+  "subject": "economics",
+  "year": 1990,
+  "number": 3,
+  "question": "The flow labelled Y refers to",
+  "options": {
+   "A": "Real income",
+   "B": "Factor payments",
+   "C": "Factors input",
+   "D": "National income"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-4",
+  "subject": "economics",
+  "year": 1990,
+  "number": 4,
+  "question": "The lower half of the diagram indicates",
+  "options": {
+   "A": "The flow of goods and services",
+   "B": "Payment for goods and services",
+   "C": "The flow income",
+   "D": "Government transaction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-5",
+  "subject": "economics",
+  "year": 1990,
+  "number": 5,
+  "question": "One of the major advantage of specialization is that",
+  "options": {
+   "A": "The worker becomes a tender of machines",
+   "B": "It causes more employment of labour",
+   "C": "Less machinery is required for production",
+   "D": "The worker waster less time between operation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-6",
+  "subject": "economics",
+  "year": 1990,
+  "number": 6,
+  "question": "Which of the following reward is associated with entrepreneurship as a factor of production?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-7",
+  "subject": "economics",
+  "year": 1990,
+  "number": 7,
+  "question": "A firm achieves least-cost in production by substitu tion factors until",
+  "options": {
+   "A": "Their prices are equal B the ratio of their marginal-physical-products equals the ratio of their prices",
+   "C": "Their marginal-physical-products are each equal to their factor prices",
+   "D": "Their marginal-phsical-products are each equal to zero"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-8",
+  "subject": "economics",
+  "year": 1990,
+  "number": 8,
+  "question": "Economics of scale operate only when",
+  "options": {
+   "A": "Marginal cost is falling with input",
+   "B": "Average cost is falling with output",
+   "C": "Fixed cost is variable",
+   "D": "Variable cost is less than fixed cost"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-9",
+  "subject": "economics",
+  "year": 1990,
+  "number": 9,
+  "question": "At the point of profit maximization by a firm, marginal cost is",
+  "options": {
+   "A": "Minimum",
+   "B": "Falling",
+   "C": "Constant",
+   "D": "Rising"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-10",
+  "subject": "economics",
+  "year": 1990,
+  "number": 10,
+  "question": "A Situation in which all inputs are doubled and output also doubles is known as",
+  "options": {
+   "A": "Constant proportion",
+   "B": "Constant returns",
+   "C": "Increasing returns to scale",
+   "D": "Constant returns to scale"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-11",
+  "subject": "economics",
+  "year": 1990,
+  "number": 11,
+  "question": "The demand curve would shift to the when there is a rise in",
+  "options": {
+   "A": "Constant proportions",
+   "B": "Constant returns",
+   "C": "Increasing returns to scale",
+   "E": "Constant returns to scale"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-12",
+  "subject": "economics",
+  "year": 1990,
+  "number": 12,
+  "question": "The law of diminishing marginal utility indicates that if a consumer increase his consumption of a commodity continously his",
+  "options": {
+   "A": "Total utility must fall",
+   "B": "Marginal utility must fall",
+   "C": "Marginal utility may rise even though his total utility is falling",
+   "D": "Marginal utility may fall even though his total utility may be rising"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-13",
+  "subject": "economics",
+  "year": 1990,
+  "number": 13,
+  "question": "Technical progress that leads to reduction in costs result in crease inequilibrium quantity",
+  "options": {
+   "D": "A decrease in equilibrium price and increase in equilibrium quantity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-14",
+  "subject": "economics",
+  "year": 1990,
+  "number": 14,
+  "question": "If an increase in income induces a reduction the demand for beans, beans can be referred to as",
+  "options": {
+   "A": "A normal good",
+   "B": "An inferior good",
+   "C": "A substitute",
+   "D": "A giffen good"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-15",
+  "subject": "economics",
+  "year": 1990,
+  "number": 15,
+  "question": "The demand for a product is said to be price inelastic if",
+  "options": {
+   "A": "The price elasticity of demand is less than one",
+   "B": "The price elasticity of demand is greater than one",
+   "C": "A reduction in price results in an increase in quantity demanded",
+   "D": "An increase in price result in a decrease in the quantity demanded"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-16",
+  "subject": "economics",
+  "year": 1990,
+  "number": 16,
+  "question": "Which of the following graphs represents the price quantity relationship between tea and lemon, if they are perfect complements? P ₍Aₜₑ. ₐ P C₍ₑ.ₐ ₎ Q ₍ₗₑₘₒₙ₎P C ₍.ₑ ₐ₎ Q ₍ₗₑₘₒₙ₎ P ₍BAₜₑ. ₐ P CD₍ₑ.ₐ ₎ Q ⁽lemoⁿ⁾P C ₍.ₑ ₐ₎ Q ⁽lemoⁿ⁾",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "economics/1990_p27_2.png",
+  "images": [
+   "economics/1990_p27_2.png",
+   "economics/1990_p27_5.png",
+   "economics/1990_p27_1.png",
+   "economics/1990_p27_4.png"
+  ]
+ },
+ {
+  "id": "economics-1990-17",
+  "subject": "economics",
+  "year": 1990,
+  "number": 17,
+  "question": "In the below diagram, RTX, are the marginal cost and the average cost curve respectively of a perfectly competitive firm. The supply curve of the firm is indicates by",
+  "options": {
+   "A": "TX",
+   "B": "RT",
+   "C": "ST",
+   "D": "TY O Q"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1990_p27_3.png",
+  "images": [
+   "economics/1990_p27_3.png"
+  ]
+ },
+ {
+  "id": "economics-1990-18",
+  "subject": "economics",
+  "year": 1990,
+  "number": 18,
+  "question": "An imperfect market in which there is only one buyer of a commodity is",
+  "options": {
+   "A": "Monopsony",
+   "B": "Oligopoly",
+   "C": "Monopoly",
+   "D": "Duopoly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-19",
+  "subject": "economics",
+  "year": 1990,
+  "number": 19,
+  "question": "The tailoring service is competitive partly because it consists of a large number of",
+  "options": {
+   "A": "Large-scale enterprises",
+   "B": "Medium scale enterprise",
+   "C": "Small scale enterprises",
+   "D": "Government-owned enterprises"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-20",
+  "subject": "economics",
+  "year": 1990,
+  "number": 20,
+  "question": "Which of the following is applicable to a monopolistic firm operating at the output where marginal cost",
+  "options": {
+   "C": "Price is above marginal revenue",
+   "D": "Average variable cost is at a minimum"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-21",
+  "subject": "economics",
+  "year": 1990,
+  "number": 21,
+  "question": "Which of the following is the major function of the wholesaler?",
+  "options": {
+   "A": "Bulk breaking",
+   "B": "Provision of useful information to the manufacturer on products",
+   "C": "Provision of after sales service to consumers",
+   "D": "Provision of warehousing facility"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-22",
+  "subject": "economics",
+  "year": 1990,
+  "number": 22,
+  "question": "In the distribution channels for goods and services, the middleman’s mark-up margin provides a rough measure for the",
+  "options": {
+   "A": "Quantity discount allowed final consumers",
+   "B": "Reward for business entrepreneurship",
+   "C": "Effectiveness of government control over economy’s marketing channels",
+   "D": "Extent of exploitation of the final consumer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-23",
+  "subject": "economics",
+  "year": 1990,
+  "number": 23,
+  "question": "Which of the following reasons could induce a manufacturer to by pass the wholesaler in the distribution chain?",
+  "options": {
+   "A": "To provide the quantity needed by retailers",
+   "B": "To collect usefully information on his product",
+   "C": "To provide ware housing facilities",
+   "D": "To violate government regulation on distribution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-24",
+  "subject": "economics",
+  "year": 1990,
+  "number": 24,
+  "question": "A major difference between a state-owned enterprise and private enterprise is that the former",
+  "options": {
+   "A": "Is not expected to cover its cost of produc tion while the latter is",
+   "B": "Is not always expected to maximize profits while the 33 later is",
+   "C": "Has shareholders while the latter does not",
+   "D": "Has a board of directions while the latter does not"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-25",
+  "subject": "economics",
+  "year": 1990,
+  "number": 25,
+  "question": "Divorce of ownership from control is a characteristic of",
+  "options": {
+   "A": "Sole proprietorship",
+   "B": "A limited liability company",
+   "C": "Partnership",
+   "D": "A private limited company"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-26",
+  "subject": "economics",
+  "year": 1990,
+  "number": 26,
+  "question": "Capital provided by individuals to the firm by purchasing stocks is called",
+  "options": {
+   "A": "Debt capital",
+   "B": "Fixed capital",
+   "C": "Circulating",
+   "D": "Equity capital"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-27",
+  "subject": "economics",
+  "year": 1990,
+  "number": 27,
+  "question": "Which of the following factors is the most important in siting a petro-chemical plant?",
+  "options": {
+   "A": "Nearness to the source of raw materials",
+   "B": "Nearness tot he source of power",
+   "C": "Availability of labour",
+   "D": "Proximity of financial institutions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-28",
+  "subject": "economics",
+  "year": 1990,
+  "number": 28,
+  "question": "Which of the following will be the effect of allowing only economic factors to dictate the location fo",
+  "options": {
+   "B": "There will be an unbalance spread in the distribution of industries",
+   "C": "The less developed parts of the country will be able to attract more industries",
+   "D": "Only the government will be able to finance the establishment of industries"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-29",
+  "subject": "economics",
+  "year": 1990,
+  "number": 29,
+  "question": "If the same basket of goods which cost N12.00 in 1985 cost N15.00 in 1987 is",
+  "options": {
+   "A": "25",
+   "B": "80.",
+   "C": "100",
+   "D": "125"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-30",
+  "subject": "economics",
+  "year": 1990,
+  "number": 30,
+  "question": "Which of the following is like to be inflationary?",
+  "options": {
+   "A": "Tax increase",
+   "B": "Increase in unemployment",
+   "C": "Budget surplus",
+   "D": "Wage increases"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-31",
+  "subject": "economics",
+  "year": 1990,
+  "number": 31,
+  "question": "The basic purpose of imposing legal reserve require ments on commercials banks is to",
+  "options": {
+   "A": "Assure the profitability of commercial banks",
+   "B": "Provide a device through which credit creation by bankscan be controllled",
+   "C": "Provide a proper ratio between earning and non-bank assets",
+   "D": "Provide the Central Bank with with working Capital"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-32",
+  "subject": "economics",
+  "year": 1990,
+  "number": 32,
+  "question": "Find the total credit that the banking system can create if primary deposits is just N100.00 while the cash ratio is 20%",
+  "options": {
+   "A": "N700.00",
+   "B": "N600.00",
+   "C": "500.00",
+   "D": "N400.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-33",
+  "subject": "economics",
+  "year": 1990,
+  "number": 33,
+  "question": "Which of thefollowing is a liability of a commercial bank?",
+  "options": {
+   "A": "Deposits in the bank",
+   "B": "Loans made by the bank to individuals",
+   "C": "Loans made by the bank to other banks",
+   "D": "Bonds purchased by the bank"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-34",
+  "subject": "economics",
+  "year": 1990,
+  "number": 34,
+  "question": "A tax on a commodity whose supply is perfectlyinelastic is",
+  "options": {
+   "A": "Shifted completely on the consumer",
+   "B": "Completely borne by the supplier",
+   "C": "Divide in the ratio 60:40 between the consumer and the supplier",
+   "D": "Divided half-and-half between the producer and the consumer Use the figure to answer question"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1990_p28_1.png",
+  "images": [
+   "economics/1990_p28_1.png"
+  ]
+ },
+ {
+  "id": "economics-1990-35",
+  "subject": "economics",
+  "year": 1990,
+  "number": 35,
+  "question": "The relationship between tax rate and income which is relevant to a progressive tax is shown by",
+  "options": {
+   "A": "Curve X",
+   "B": "Curve Y",
+   "C": "Curve Z",
+   "D": "Curve X and Z"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-37",
+  "subject": "economics",
+  "year": 1990,
+  "number": 37,
+  "question": "Under a system of freely floating exchange rate, an increase in the international value of a country (s)currency will cause",
+  "options": {
+   "A": "Its exports to rise",
+   "B": "Its imports to rise",
+   "C": "Gold to flow into that country",
+   "D": "Its currency to be in surplus"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-38",
+  "subject": "economics",
+  "year": 1990,
+  "number": 38,
+  "question": "Balance or trade is te difference between",
+  "options": {
+   "A": "Exports and imports of goods and service",
+   "B": "Capital inflows and capital outflows",
+   "C": "Visible and invisible balances",
+   "D": "Exports an imports of goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-39",
+  "subject": "economics",
+  "year": 1990,
+  "number": 39,
+  "question": "Which of the following is likely to reduce a surplus in the balance of payments of a country?",
+  "options": {
+   "A": "Devaluation",
+   "B": "Increased tarrif on imports",
+   "C": "Export promotion",
+   "D": "Currency appreciation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-40",
+  "subject": "economics",
+  "year": 1990,
+  "number": 40,
+  "question": "Which of the following is a tariff?",
+  "options": {
+   "A": "Limit on the amount of good which can be imported",
+   "B": "Interest rate on foreign loans",
+   "C": "Government payment to domestic producers for exports",
+   "D": "Tax on imported goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-41",
+  "subject": "economics",
+  "year": 1990,
+  "number": 41,
+  "question": "Import duties will increases total expenditure on imports if the demand for imports is",
+  "options": {
+   "A": "Elastic",
+   "B": "Inelastic C.Infinitely elastic",
+   "D": "Derived"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-42",
+  "subject": "economics",
+  "year": 1990,
+  "number": 42,
+  "question": "Which of the following is likely to hinder labour mobility in Nigeria?",
+  "options": {
+   "A": "Higher wages elsewhere",
+   "B": "Cultural similarities",
+   "C": "Good accommodation",
+   "D": "Ignorance of job opportunities elsewhere"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-43",
+  "subject": "economics",
+  "year": 1990,
+  "number": 43,
+  "question": "If birth rate is constant and death rate declines, population",
+  "options": {
+   "A": "Falls",
+   "B": "Expands",
+   "C": "Stabilizes",
+   "D": "Oscillates"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-44",
+  "subject": "economics",
+  "year": 1990,
+  "number": 44,
+  "question": "If the government invests the sum of N1 000.00 and the marginal propensity to consume is 0.75, what it the change in income?",
+  "options": {
+   "A": "N 1000 000.00",
+   "B": "N4 000 000.00",
+   "C": "6 000 000.00",
+   "D": "N14 000 000.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-45",
+  "subject": "economics",
+  "year": 1990,
+  "number": 45,
+  "question": "The system of measurement of national income as the sum of all final demands is called",
+  "options": {
+   "A": "Income approach",
+   "B": "Expenditure approach",
+   "C": "Is payable tot he disabled members of the community",
+   "D": "Accrues tot he environmental sanitation authorities for refuse"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-47",
+  "subject": "economics",
+  "year": 1990,
+  "number": 47,
+  "question": "In equilibrium, injections are equal to",
+  "options": {
+   "A": "Withdrawals B.Surplus of imports over exports",
+   "C": "Government spending",
+   "D": "Wages"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-48",
+  "subject": "economics",
+  "year": 1990,
+  "number": 48,
+  "question": "Social overhead capital refers to",
+  "options": {
+   "A": "Balanced growth",
+   "B": "Gross investment",
+   "C": "The building of infrastructures",
+   "D": "Capital formation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-49",
+  "subject": "economics",
+  "year": 1990,
+  "number": 49,
+  "question": "Themost common index used for measuring development is",
+  "options": {
+   "A": "The level of literacy",
+   "B": "Per capita income",
+   "C": "Nutritional level",
+   "D": "Population growth rate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1990-50",
+  "subject": "economics",
+  "year": 1990,
+  "number": 50,
+  "question": "Agriculture is central to Nigeria’s economic develop ment because",
+  "options": {
+   "A": "Nigeria’s comparative advantage lies mainly in agro-allied industries",
+   "B": "Agriculture is the largest employer of labour",
+   "C": "Agriculture accounts for an insignificant domestic product",
+   "D": "Nigeria earns limitless goreign exchange from agriculture"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

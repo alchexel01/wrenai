@@ -1,0 +1,923 @@
+[
+ {
+  "id": "economics-1983-1",
+  "subject": "economics",
+  "year": 1983,
+  "number": 1,
+  "question": "Which of the following items is NOT included in measuring national income by the income approach?",
+  "options": {
+   "A": "Wages and salaries of public servants",
+   "B": "Student grants and scholarships.",
+   "C": "Profits of companies.",
+   "D": "Income earned by self employed persons such as lawyers.",
+   "E": "Rents on property."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-2",
+  "subject": "economics",
+  "year": 1983,
+  "number": 2,
+  "question": "A down ward sloping demand curve intersects a fixed supply curve. A shift of this demand curve to the right implies that",
+  "options": {
+   "A": "both price and quantity will increase",
+   "B": "only price increase",
+   "C": "only quantity increase",
+   "D": "the price remains constant",
+   "E": "the price falls."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-3",
+  "subject": "economics",
+  "year": 1983,
+  "number": 3,
+  "question": "Which of the following items is NOT an argument for locating industries in rural areas?",
+  "options": {
+   "A": "Rural areas supply agricultural raw material.",
+   "B": "The pace of development will be quickened in rural areas.",
+   "C": "Employment will be provided for rural inhabitants.",
+   "D": "Capital is easily available in rural areas.",
+   "E": "Suitable humid climate is sometimes found in rural areas."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-4",
+  "subject": "economics",
+  "year": 1983,
+  "number": 4,
+  "question": "Price O Q₀ The curves D₀D₀ and S₀S₀ are the demand and supply curves respectively. What happens government subsidizes producers in order to boost output?",
+  "options": {
+   "A": "The supply curve will shift S0S0 to S2S2",
+   "B": "The supply curve will shift from S0S0 to S1S1",
+   "C": "The supply curve will shift from S2S2 to S1S1",
+   "D": "The supply curve will shift from S1S1 to S0S0",
+   "E": "The demand curve will shift from D0D0 to D1D1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1983_p2_1.png",
+  "images": [
+   "economics/1983_p2_1.png"
+  ]
+ },
+ {
+  "id": "economics-1983-5",
+  "subject": "economics",
+  "year": 1983,
+  "number": 5,
+  "question": "The natural growth rate of a population is the",
+  "options": {
+   "A": "Sum of the birth rate and the death rate",
+   "D": "Birth rate divided by the net migration",
+   "E": "Death rate minus the net migration."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-6",
+  "subject": "economics",
+  "year": 1983,
+  "number": 6,
+  "question": "Which of the following sets fully represents factor of production?",
+  "options": {
+   "A": "Sunlight, machinery, man, land",
+   "B": "Land, labour, capital, enterprise technology",
+   "C": "Capital, technology, ideas, market, land.",
+   "D": "Land, water, weather.",
+   "E": "Money, market, middlemen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-7",
+  "subject": "economics",
+  "year": 1983,
+  "number": 7,
+  "question": "Production possibilities (alternatives) P Q R S T Units of shelter 5 4 3 2 0 Units of food 0 5 9 12 15 Based on the above production possibilities table, the real cost of a unit of food when alternative R is selected is",
+  "options": {
+   "A": "One unit of shelter",
+   "B": "Three units of shelter",
+   "C": "One third of a unit of shelter",
+   "D": "Six units of shelter",
+   "E": "Two units of shelter."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-8",
+  "subject": "economics",
+  "year": 1983,
+  "number": 8,
+  "question": "The concept of economic efficiency primarily refers to",
+  "options": {
+   "A": "Obtaining the maximum output from available resources at the lowest possible cost",
+   "B": "Conservation of our petroleum resources",
+   "C": "Equity in the distribution of the nation’s wealth",
+   "D": "Producing without waste",
+   "E": "The limited wants unlimited resources dilemma"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-9",
+  "subject": "economics",
+  "year": 1983,
+  "number": 9,
+  "question": "If successive units of labour are added to a piece of land while capital and technology remain constant, a point will be reached in the level of production when each added unit of labour will add less to the output than previous units of labour.",
+  "options": {
+   "A": "The productivity of labour",
+   "B": "The law of diminishing marginal utility",
+   "C": "The law of diminishing returns",
+   "D": "The concept of factor intensity",
+   "E": "Labour intensive production."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-10",
+  "subject": "economics",
+  "year": 1983,
+  "number": 10,
+  "question": "In perfect competition a firm’s price is equal to its marginal revenue which is again equal to average revenue. This form maximizes its profits when its marginal cost (MC)is equal to price (p). Which of the curves in the diagram below represents the firm’s marginal cost (MC?",
+  "options": {
+   "A": "Curve I",
+   "E": "Curve I and III"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1983_p3_1.png",
+  "images": [
+   "economics/1983_p3_1.png"
+  ]
+ },
+ {
+  "id": "economics-1983-11",
+  "subject": "economics",
+  "year": 1983,
+  "number": 11,
+  "question": "A Nigerian household’s demand curve for semovita is downward sloping because",
+  "options": {
+   "A": "The demand for semovita is high",
+   "B": "The local markets are flooded with semovita",
+   "C": "It is produced in Nigeria",
+   "D": "Every household can afford to buy semovita",
+   "E": "Higher prices attract lower quantities while lower prices attract larger quantities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-12",
+  "subject": "economics",
+  "year": 1983,
+  "number": 12,
+  "question": "The table below shows the market schedule for semovita. QUANTITY QUANTITY PRICE DEMANDED SUPPLIED per 5 kg bag in bags in bags N3.00 15,000 1,500 N4.00 13,000 3,000 N5.00 10,000 6,000 N6.00 7,000 7,000 N7.00 5,000 9,000 N8.00 4,000 12,000 N9.00 2,000 14,000 What is the market equilibrium price? A..N5.00 B. N8.00 C. N9.00",
+  "options": {
+   "D": "N7.00",
+   "E": "N6.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-13",
+  "subject": "economics",
+  "year": 1983,
+  "number": 13,
+  "question": "Marginal cost curve intersects average cost curve",
+  "options": {
+   "A": "From above at its lowest point",
+   "B": "From below before the lowest point",
+   "C": "From below at its lowest point",
+   "D": "From below after the lowest point",
+   "E": "At zero point"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-14",
+  "subject": "economics",
+  "year": 1983,
+  "number": 14,
+  "question": "Palm oil industry is located in Bendel State because the state",
+  "options": {
+   "A": "Imports raw material for palm oil industry",
+   "B": "Is a palm tree growing area",
+   "C": "Soil is unsuitable for other crops",
+   "D": "Government does not engage land for other crops",
+   "E": "Land is suitable for oil"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-16",
+  "subject": "economics",
+  "year": 1983,
+  "number": 16,
+  "question": "In an inflationary period which of the following statement is NOT true?",
+  "options": {
+   "A": "Wages rise simultaneously with prices",
+   "B": "The purchasing power of money diminishes",
+   "C": "More money runs after a limited quantity goods",
+   "D": "Money supply increases",
+   "E": "Aggregate real demand exceeds aggregate real supply"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-17",
+  "subject": "economics",
+  "year": 1983,
+  "number": 17,
+  "question": "Retailers in an economy perform the function of",
+  "options": {
+   "A": "Production",
+   "B": "Exchange",
+   "C": "Distribution",
+   "D": "Hoarding",
+   "E": "Investment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-18",
+  "subject": "economics",
+  "year": 1983,
+  "number": 18,
+  "question": "In a sole proprietorship the decisions are made by the",
+  "options": {
+   "A": "Government",
+   "B": "Board of directors",
+   "C": "Management",
+   "D": "Shareholders’ conference",
+   "E": "Owner"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-19",
+  "subject": "economics",
+  "year": 1983,
+  "number": 19,
+  "question": "Which of the following enterprises does NOT pursue the sole objective of profit maximization",
+  "options": {
+   "A": "Roads Nigeria Ltd.",
+   "B": "Union Bank of Nigeria Ltd.",
+   "C": "Nigerian Electric Power Authority",
+   "D": "Volkswagen (VW) Nigeria Ltd.",
+   "E": "Kingsway Nigeria Ltd."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-20",
+  "subject": "economics",
+  "year": 1983,
+  "number": 20,
+  "question": "Public expenditure creates expansionary effects in the economy when it is",
+  "options": {
+   "A": "In excess of government revenue",
+   "B": "Channelled into capital projected",
+   "C": "Diverted into imports",
+   "D": "Financed through oil revenue",
+   "E": "Completely financed through part of the year total collection taxes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-21",
+  "subject": "economics",
+  "year": 1983,
+  "number": 21,
+  "question": "The maintenance of general economic stability in the country necessarily relies heavily on",
+  "options": {
+   "A": "Federal fiscal policy",
+   "B": "Coordinated federal, state and local fiscal policies",
+   "C": "Tax and revenue policies of state governments",
+   "D": "Federal grants to state and local governments",
+   "E": "Federal grants to local governments"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-23",
+  "subject": "economics",
+  "year": 1983,
+  "number": 23,
+  "question": "Which of the following are direct taxes",
+  "options": {
+   "A": "Sales taxes",
+   "B": "Excise duties",
+   "C": "Income and company taxes",
+   "D": "Tariff duties",
+   "E": "Commodity taxes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-24",
+  "subject": "economics",
+  "year": 1983,
+  "number": 24,
+  "question": "Division of labour has many advantages. Notwithstanding, it is greatly limited by",
+  "options": {
+   "A": "Monotony of work",
+   "B": "Decline of craftmanship",
+   "C": "Risk of unemployment",
+   "D": "Extent of market demand",
+   "E": "Boredom"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-25",
+  "subject": "economics",
+  "year": 1983,
+  "number": 25,
+  "question": "P S In the above diagram P1S is a supply curve for a manufactured good. It shows that",
+  "options": {
+   "A": "When price is Po1 quantity supplied is infinitely elastic",
+   "B": "The higher the price the greater the quantity supplied",
+   "C": "The higher the price the lower the quantity supplied",
+   "D": "When price is zero quantity supplied becomes infinite",
+   "E": "When price is infinite quantity supplied becomes zero"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1983_p4_1.png",
+  "images": [
+   "economics/1983_p4_1.png"
+  ]
+ },
+ {
+  "id": "economics-1983-26",
+  "subject": "economics",
+  "year": 1983,
+  "number": 26,
+  "question": "In the event of a limited liability company going into liquidation each",
+  "options": {
+   "A": "Shareholder may lose the maximum of the amount he has invested",
+   "B": "Shareholder loses nothing",
+   "C": "Shareholder loses everything including his house",
+   "D": "Shareholder’s liability becomes unlimited",
+   "E": "Shareholder will lose the amount he has invested plus a proportion of his bank account"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-27",
+  "subject": "economics",
+  "year": 1983,
+  "number": 27,
+  "question": "A greater burden of the taxes on essential goods is borne by the",
+  "options": {
+   "A": "middle income group",
+   "B": "Higher income group",
+   "C": "Lower income group",
+   "D": "People falling between the middle and higher income group",
+   "E": "Top few richest people of the country."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-28",
+  "subject": "economics",
+  "year": 1983,
+  "number": 28,
+  "question": "Comparative cost doctrine of international trade means specialization in production",
+  "options": {
+   "A": "According to absolute cost advantage",
+   "D": "According to comparative cost advantages",
+   "E": "On the basis of the availability of labour"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-29",
+  "subject": "economics",
+  "year": 1983,
+  "number": 29,
+  "question": "The meaning of ‘Dumping’ is selling goods in a foreign market",
+  "options": {
+   "A": "At a price below that received the home market",
+   "B": "At a price higher than that received in the home market",
+   "C": "At a price equal to the cost price in the home market",
+   "D": "In order to encourage indigenous producers",
+   "E": "At a price equal to the selling price in the home market"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-30",
+  "subject": "economics",
+  "year": 1983,
+  "number": 30,
+  "question": "Disequilibrium in the balance of payments means",
+  "options": {
+   "A": "Imports of the country exceeding its exports",
+   "B": "Overall deficit or surplus in the current account and capital account of the balance of payments",
+   "C": "Capital flowing out of the country ex ceeds the capital flowing into the country",
+   "D": "Deficit in the trade balance",
+   "E": "Export earnings exceed cost of imports."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-31",
+  "subject": "economics",
+  "year": 1983,
+  "number": 31,
+  "question": "Petroleum ‘glut’ in international trade means",
+  "options": {
+   "A": "A fallen in petroleum production",
+   "B": "An over supply of petroleum",
+   "C": "A higher petroleum price offered by the buyer",
+   "D": "A higher petroleum price demanded by the seller",
+   "E": "Higher prices for the consumption of pe troleum"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-32",
+  "subject": "economics",
+  "year": 1983,
+  "number": 32,
+  "question": "International trade is necessary because",
+  "options": {
+   "A": "No country can live in economic isolation",
+   "B": "Different countries are differently endowed in natural and man-made resources",
+   "C": "Some countries have comparative costs advantage in the production of particular commodities over other countries",
+   "D": "The world demand for and supply of various categories of commodities is expanding very fast",
+   "E": "Countries want to build up their foreign exchange reserves."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-33",
+  "subject": "economics",
+  "year": 1983,
+  "number": 33,
+  "question": "Mono-product economies are those that",
+  "options": {
+   "A": "Have a rich cultural heritage",
+   "B": "Product only raw materials",
+   "C": "Live from the export of their raw products",
+   "D": "Produce one main commodity",
+   "E": "Specialize in agriculture industries"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-35",
+  "subject": "economics",
+  "year": 1983,
+  "number": 35,
+  "question": "If an economy is growing at an annual rate of 7% and 4% of it is known to be due to the improve ments in labour and capital combined, the balance of 3% is usually due to",
+  "options": {
+   "A": "Land and related factors",
+   "B": "Abundance of natural resources",
+   "C": "Level of human capital",
+   "D": "Technical progress or other factors",
+   "E": "The discipline of political leaders"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-36",
+  "subject": "economics",
+  "year": 1983,
+  "number": 36,
+  "question": "A major function of middlemen in Nigeria is the distribution of",
+  "options": {
+   "A": "Commodities to all consumers regardless of income",
+   "B": "Commodities to consuming centres and the collection of money income to producing centres",
+   "C": "Economic welfare to all",
+   "D": "Wealth to all",
+   "E": "Poverty within the society."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-37",
+  "subject": "economics",
+  "year": 1983,
+  "number": 37,
+  "question": "When a government owns enterprises a numbers of advantages arise. Which of the following is NOT one of such advantages?",
+  "options": {
+   "A": "More capital is provided",
+   "B": "Pricing policy may be in the interest of consumers",
+   "C": "Government workers may be indifferent towards the public.",
+   "D": "Infrastructures are rapidly developed.",
+   "E": "Income may be more evenly distributed"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-38",
+  "subject": "economics",
+  "year": 1983,
+  "number": 38,
+  "question": "Which of the following is NOT an advantage of localization of industries?",
+  "options": {
+   "A": "Reaping of external economies",
+   "B": "Development of a pool of skilled labour for the industry",
+   "C": "Development of subsidiary industries",
+   "D": "Development of organized markets",
+   "E": "Growth of conurbations."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-39",
+  "subject": "economics",
+  "year": 1983,
+  "number": 39,
+  "question": "The monetary system that requires double coincidence of wants is known as",
+  "options": {
+   "A": "The gold standard",
+   "B": "Barter C.The commodity syste D.The gold exchange standard",
+   "E": "The cheque system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-40",
+  "subject": "economics",
+  "year": 1983,
+  "number": 40,
+  "question": "The effect of emigration on a country’s population, all other things remaining equal, is to",
+  "options": {
+   "A": "Increase its size",
+   "B": "Cause overpopulation",
+   "C": "Increase its growth rate",
+   "D": "Reduce the proportion of children",
+   "E": "Reduce its size"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-41",
+  "subject": "economics",
+  "year": 1983,
+  "number": 41,
+  "question": "Money performs a number of functions. ONE of these functions makes it possible for any person to provide for old age. Because of that particular function, money is regarded as a",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-42",
+  "subject": "economics",
+  "year": 1983,
+  "number": 42,
+  "question": "Agriculture plays a dominant role in West Africa economies because",
+  "options": {
+   "A": "The Green Revolution in Nigeria is agricultural",
+   "B": "It supplies all the foodstuff consumed in West Africa",
+   "C": "There are large plantations of cocoa, groundnut and palm oil in West Africa",
+   "D": "It is the main source of revenue in Nigeria",
+   "E": "It employs more than 50% of the total labour force in West Africa"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-43",
+  "subject": "economics",
+  "year": 1983,
+  "number": 43,
+  "question": "Which of the following defines Economics most comprehensively?",
+  "options": {
+   "A": "Buying and selling",
+   "B": "Organization of industries.",
+   "C": "Study of human behaviour in the allocation of scarce resources.",
+   "D": "National development planning and budgeting",
+   "E": "Banking and insurance"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-44",
+  "subject": "economics",
+  "year": 1983,
+  "number": 44,
+  "question": "Age structure in Nigeria is such that the working age-group is in the years",
+  "options": {
+   "A": "1-15",
+   "B": "15-65",
+   "C": "30-40",
+   "D": "40-65E. 65 and above"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-45",
+  "subject": "economics",
+  "year": 1983,
+  "number": 45,
+  "question": "NEPA as a public corporation is",
+  "options": {
+   "A": "A power-generating industry in Nigeria",
+   "B": "Organized in a perfectly competitive market",
+   "C": "A duopoly",
+   "D": "A monopolistically competitive industry",
+   "E": "A monopoly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-46",
+  "subject": "economics",
+  "year": 1983,
+  "number": 46,
+  "question": "Full employment is a situation in which",
+  "options": {
+   "A": "Every adult is employed",
+   "B": "All adult who can work are employed",
+   "C": "All persons who have attained the age of 15 years and above are employed",
+   "D": "Only the disabled are not employed",
+   "E": "All those who are able and eligible to work can find employment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-47",
+  "subject": "economics",
+  "year": 1983,
+  "number": 47,
+  "question": "When demand is elastic, it means that consumer",
+  "options": {
+   "A": "React more proportionately to price change",
+   "B": "Are not sensitive to price change",
+   "C": "Will stop buying when price increases",
+   "D": "React less proportionately to price change",
+   "E": "React equally to price change"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-48",
+  "subject": "economics",
+  "year": 1983,
+  "number": 48,
+  "question": "Demand for a factor of production is",
+  "options": {
+   "A": "A composite demand",
+   "B": "A joint demand",
+   "C": "A derived demand",
+   "D": "An elasticity of demand",
+   "E": "Cross-elasticity of demand"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-49",
+  "subject": "economics",
+  "year": 1983,
+  "number": 49,
+  "question": "Differentiated product is the characteristic feature of",
+  "options": {
+   "A": "Perfect competition",
+   "B": "Pure competition C.Monopolistic competition D.Monopoly E.Oligopoly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1983-50",
+  "subject": "economics",
+  "year": 1983,
+  "number": 50,
+  "question": "Nigeria is currently implementing the",
+  "options": {
+   "A": "Third development plan",
+   "B": "Second development plan"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

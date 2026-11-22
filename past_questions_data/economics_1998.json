@@ -1,0 +1,940 @@
+[
+ {
+  "id": "economics-1998-1",
+  "subject": "economics",
+  "year": 1998,
+  "number": 1,
+  "question": "Goods Y O L Goods X",
+  "options": {
+   "A": "L",
+   "B": "M",
+   "C": "N",
+   "D": "P In the diagram above, full employments is indicated by"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1998_p50_2.png",
+  "images": [
+   "economics/1998_p50_2.png"
+  ]
+ },
+ {
+  "id": "economics-1998-2",
+  "subject": "economics",
+  "year": 1998,
+  "number": 2,
+  "question": "From the table above, the total utility for the indi vidual who consumea 3 units fo commodity X is",
+  "options": {
+   "A": "50 units",
+   "C": "230units",
+   "B": "150 units",
+   "D": "250 units"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1998_p50_3.png",
+  "images": [
+   "economics/1998_p50_3.png"
+  ]
+ },
+ {
+  "id": "economics-1998-3",
+  "subject": "economics",
+  "year": 1998,
+  "number": 3,
+  "question": "One ofeconomic problems of Nigeria todayarises from",
+  "options": {
+   "A": "The overutilization of human an natural resources",
+   "B": "Inavailability of mineral resources",
+   "C": "Inadequate manpower resources",
+   "D": "The underutilization of human and natural resources"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-4",
+  "subject": "economics",
+  "year": 1998,
+  "number": 4,
+  "question": "In certain circumstances, a centrally planned economy adopts the rationing system because of",
+  "options": {
+   "A": "The scarcity of goos and services in the market",
+   "B": "Low real and money wages",
+   "C": "The need for equitable distribution of goods and service",
+   "D": "Transportation and distribution problems"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-5",
+  "subject": "economics",
+  "year": 1998,
+  "number": 5,
+  "question": "Given that B = Births X = Emigrants D = Deaths M = Immigrants The population of a country over a period of time will rise if",
+  "options": {
+   "A": "A = D and X > m",
+   "B": "B-D =O and M >X",
+   "C": "D -B =O and m = x",
+   "D": "X > M and D > B Use the table below to answer question 6 and 7 .Population Statistics of a Country"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1998_p50_1.png",
+  "images": [
+   "economics/1998_p50_1.png"
+  ]
+ },
+ {
+  "id": "economics-1998-6",
+  "subject": "economics",
+  "year": 1998,
+  "number": 6,
+  "question": "The dependency ratio between 1960 and 1990 is",
+  "options": {
+   "A": "Increased by 5%",
+   "B": "Increased by 2%",
+   "C": "Decreased by 2%",
+   "D": "Decreased by 5%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-7",
+  "subject": "economics",
+  "year": 1998,
+  "number": 7,
+  "question": "In 1990, the difference between the dependent population and the active population ration is",
+  "options": {
+   "A": "22%",
+   "B": "20%",
+   "C": "16%",
+   "D": "4%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-8",
+  "subject": "economics",
+  "year": 1998,
+  "number": 8,
+  "question": "The short-run period in produce is defined as a period when",
+  "options": {
+   "A": "there is at least one fixed factor",
+   "B": "all costs of production must be covered",
+   "C": "the output cannot be varied",
+   "D": "current output is not profitable"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-9",
+  "subject": "economics",
+  "year": 1998,
+  "number": 9,
+  "question": "Specialization often improves economic performance because it",
+  "options": {
+   "A": "Permits exploitation of economies of scale",
+   "B": "Incorporates external economies",
+   "C": "Is based on the law of variable proportions",
+   "D": "Allocate resources according to absolute advantage"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-10",
+  "subject": "economics",
+  "year": 1998,
+  "number": 10,
+  "question": "Which of the following statements best describes the relationship between average product and marginal product?",
+  "options": {
+   "A": "Marginal product and average product curves rise and fall together",
+   "B": "Marginal product equals average product at the minimum point of the latter",
+   "C": "Average product curve will rise as long as marginal product is greater than average product",
+   "D": "Marginal product equals average product at the maximum point of the former"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1998_p50_4.png",
+  "images": [
+   "economics/1998_p50_4.png"
+  ]
+ },
+ {
+  "id": "economics-1998-11",
+  "subject": "economics",
+  "year": 1998,
+  "number": 11,
+  "question": "The average total cost when output is 200 units in the table above is",
+  "options": {
+   "A": "N1.00",
+   "B": "N1.20",
+   "C": "N1.40",
+   "D": "N2.40"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-12",
+  "subject": "economics",
+  "year": 1998,
+  "number": 12,
+  "question": "When a firm is reaping economies of large-scale production, it experiences a fall in its",
+  "options": {
+   "A": "Long-run marginal cost",
+   "B": "Long-run average cost",
+   "C": "Long-run total cost",
+   "D": "Short-run marginal cost"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-13",
+  "subject": "economics",
+  "year": 1998,
+  "number": 13,
+  "question": "P Q Q In the diagram above, the price P2 in price control situation, is referred to as",
+  "options": {
+   "A": "Minimum price",
+   "B": "Mark -up price",
+   "C": "Maximum price",
+   "D": "Mark-down price"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1998_p51_3.png",
+  "images": [
+   "economics/1998_p51_3.png"
+  ]
+ },
+ {
+  "id": "economics-1998-14",
+  "subject": "economics",
+  "year": 1998,
+  "number": 14,
+  "question": "P Q₁ Q The shaded triangle in the diagram above is known as",
+  "options": {
+   "A": "Excess supply",
+   "B": "Consumer surplus",
+   "C": "Excess consumption",
+   "D": "Producer surplus"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1998_p51_2.png",
+  "images": [
+   "economics/1998_p51_2.png",
+   "economics/1998_p51_1.png"
+  ]
+ },
+ {
+  "id": "economics-1998-15",
+  "subject": "economics",
+  "year": 1998,
+  "number": 15,
+  "question": "O Q₁ Q₂ Q₃ Q₄ Quantity In the diagram above, D0D0 is the original demand curve, S0S0 is the original supply curve, D1D1 is the new demand curve S1S1 is the is the new supply curve. What is the new equilibrium quantity?",
+  "options": {
+   "A": "Q1",
+   "B": "Q2",
+   "C": "Q3",
+   "D": "Q4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-16",
+  "subject": "economics",
+  "year": 1998,
+  "number": 16,
+  "question": "If an increase in the price of a commodity leads to increase in total revenue, then it means that the demand for this commodity is",
+  "options": {
+   "A": "Normal",
+   "B": "Elastic",
+   "C": "Inelastic",
+   "D": "Abnormal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-17",
+  "subject": "economics",
+  "year": 1998,
+  "number": 17,
+  "question": "Given that the elasticity of demand for a commodity is 2.5, the percentage change in the quantity demanded as a result of a 10 percent change in its prices is",
+  "options": {
+   "A": "0.25",
+   "B": "0.40.",
+   "C": "4.00",
+   "D": "25.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-18",
+  "subject": "economics",
+  "year": 1998,
+  "number": 18,
+  "question": "The producer in a perfectly competitive market is face with a demand curve whose elasticity is",
+  "options": {
+   "A": "Unitary",
+   "B": "Greater than one",
+   "C": "Infinite Price"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1998_p51_4.png",
+  "images": [
+   "economics/1998_p51_4.png"
+  ]
+ },
+ {
+  "id": "economics-1998-19",
+  "subject": "economics",
+  "year": 1998,
+  "number": 19,
+  "question": "P MR O N K L F Quantity In the diagram above, profit is maximized at the output level",
+  "options": {
+   "A": "ON",
+   "C": "OL",
+   "B": "OK",
+   "D": "OF"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-20",
+  "subject": "economics",
+  "year": 1998,
+  "number": 20,
+  "question": "Unlike the retailer, the wholesale provides",
+  "options": {
+   "A": "Useful information to the manufacturer about consumers’ taste",
+   "B": "After sales service to the consumer",
+   "C": "Useful information to the customers on the benefits and uses of the product",
+   "D": "Useful information about market trends and Finance to the manufacturer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-21",
+  "subject": "economics",
+  "year": 1998,
+  "number": 21,
+  "question": "Liquidation of a limited liabilitycompanyimplies that the",
+  "options": {
+   "A": "Company may not pay its debt",
+   "B": "Debts of the company can only be paid from its own assets",
+   "C": "Debts of the company are paid from both business and private funds of the owners",
+   "D": "Debts of the company must be paid from public funds only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-22",
+  "subject": "economics",
+  "year": 1998,
+  "number": 22,
+  "question": "One form of business organization which is not motivated solely by the profit objective is the",
+  "options": {
+   "A": "Joint stock company",
+   "B": "Private limited company C co-operative society",
+   "D": "Ordinary partnership"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-23",
+  "subject": "economics",
+  "year": 1998,
+  "number": 23,
+  "question": "Which of the following can have their shares quoted on the stock exchange?",
+  "options": {
+   "A": "Public corporations",
+   "B": "A partnership",
+   "C": "A consumer co-operative",
+   "D": "A public limited liability company"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-24",
+  "subject": "economics",
+  "year": 1998,
+  "number": 24,
+  "question": "The sector that employs the largest proportion of the active labour force in Nigeria",
+  "options": {
+   "A": "Oil sector",
+   "B": "Federal civil service",
+   "C": "Financial sector",
+   "D": "Agricultural sector"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-25",
+  "subject": "economics",
+  "year": 1998,
+  "number": 25,
+  "question": "An entirely domestic effort directed at improving agricultural production in Nigeria is the",
+  "options": {
+   "A": "Agricultural Development Programme",
+   "B": "Agro-industrial Development Scheme",
+   "C": "Food and Agricultural Organization",
+   "D": "National Land Development Authority"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-26",
+  "subject": "economics",
+  "year": 1998,
+  "number": 26,
+  "question": "A factor that influences the location of a firm near its market is the",
+  "options": {
+   "A": "Transportation of bulky raw materials"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-27",
+  "subject": "economics",
+  "year": 1998,
+  "number": 27,
+  "question": "In many developing countries, infrastructural problem is acute due tot he shortage of",
+  "options": {
+   "A": "Industries and industrial equipment",
+   "B": "Savings, investment and consumption",
+   "C": "Natural resources for development",
+   "D": "Supporting services that encourage eco nomic activities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-28",
+  "subject": "economics",
+  "year": 1998,
+  "number": 28,
+  "question": "Export-promotion policy is primarily concerned with the",
+  "options": {
+   "A": "Processing of raw materials to increase their value",
+   "B": "Making of international routes safe for export commodities",
+   "C": "Reduction in the number of imported items",
+   "D": "Encouragement of the production of export commodities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-29",
+  "subject": "economics",
+  "year": 1998,
+  "number": 29,
+  "question": "The petroleum industry in Nigeria is",
+  "options": {
+   "A": "The sole source of the nation’s revenue",
+   "B": "The oldest industry in the country",
+   "C": "The mainstay of the economy",
+   "D": "A factor in the decline in the nation’s foreign reserves"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-30",
+  "subject": "economics",
+  "year": 1998,
+  "number": 30,
+  "question": "Crude petroleum is a good example of a",
+  "options": {
+   "A": "Lasting asset",
+   "B": "Wasting asset",
+   "C": "Synthetic product",
+   "D": "Costless resource"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-31",
+  "subject": "economics",
+  "year": 1998,
+  "number": 31,
+  "question": "One of the techniques of monetary control used by the Central Bank of Nigeria is",
+  "options": {
+   "A": "Selective credit control",
+   "B": "Budget deficit",
+   "C": "Foreign exchange control"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-32",
+  "subject": "economics",
+  "year": 1998,
+  "number": 32,
+  "question": "Which of the following is true about the value of money?",
+  "options": {
+   "A": "It varies inversely with the price level",
+   "B": "It varies directly with the price level",
+   "C": "It depreciates in the period of deflation",
+   "D": "It is not affected by the price level"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-33",
+  "subject": "economics",
+  "year": 1998,
+  "number": 33,
+  "question": "If the reserve requirement for commercial banking in Nigeria were 30%, a commercial bank which receives an initial cash deposit of N3 000 is in a position to lend out",
+  "options": {
+   "A": "N9 000",
+   "B": "N3 330",
+   "C": "N2 770",
+   "D": "N2 100"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-34",
+  "subject": "economics",
+  "year": 1998,
+  "number": 34,
+  "question": "An issue of bank-notes not backed by gold but by government securities is known as",
+  "options": {
+   "A": "Fiduciary issue",
+   "B": "Guaranteed money",
+   "C": "Seigniorage",
+   "D": "Legal tender"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-35",
+  "subject": "economics",
+  "year": 1998,
+  "number": 35,
+  "question": "A rise in the market price of fixed interest securities is an indication that the",
+  "options": {
+   "A": "Supply of money has decreased",
+   "B": "Liquidity preference has increased",
+   "C": "Market rate of interest has risen",
+   "D": "Market rate of interest has fallen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-36",
+  "subject": "economics",
+  "year": 1998,
+  "number": 36,
+  "question": "An increase in government expenditure will lead to",
+  "options": {
+   "A": "Investment opportunities for foreign",
+   "D": "Reduction in total tax revenue"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-37",
+  "subject": "economics",
+  "year": 1998,
+  "number": 37,
+  "question": "When an indirect tax is levied on the producer of a good, the burden on the consumer will depend largely on the",
+  "options": {
+   "A": "Elasticity of demand for the good",
+   "B": "Proportion of the consumer’s income spent on the goods",
+   "C": "Elasticity of demand and supply of the commodity",
+   "D": "Availability of substitutes for the commodity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-38",
+  "subject": "economics",
+  "year": 1998,
+  "number": 38,
+  "question": "If a government wants to reduce the level of inflation, it will",
+  "options": {
+   "A": "Run a budget surplus",
+   "B": "Run a budget deficit",
+   "C": "Run a balance budget",
+   "D": "Borrow more money"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-39",
+  "subject": "economics",
+  "year": 1998,
+  "number": 39,
+  "question": "In a country’s national income increased from N1000 billion to N1100 billion over a period of 2 years, what was the average annual rate of growth of national income over the period?",
+  "options": {
+   "A": "5%",
+   "B": "15%",
+   "C": "20%",
+   "D": "100%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-40",
+  "subject": "economics",
+  "year": 1998,
+  "number": 40,
+  "question": "A fall in the marginal propensity to save will lead to",
+  "options": {
+   "A": "A decrease in national income",
+   "B": "An increase in national income",
+   "C": "No change in national income",
+   "D": "An increase in disposable income"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-41",
+  "subject": "economics",
+  "year": 1998,
+  "number": 41,
+  "question": "Which of the following is a transfer payment?",
+  "options": {
+   "A": "Dividend to a shareholder",
+   "B": "Gift to a motherless Babies’s Home",
+   "C": "Salary to a worker",
+   "D": "Rent to a landlord"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-42",
+  "subject": "economics",
+  "year": 1998,
+  "number": 42,
+  "question": "The major objective of economic growth is to",
+  "options": {
+   "A": "Redistribute income and other benefits of growth",
+   "B": "Equalize opportunities for education and employment",
+   "C": "Increase the aggregate expenditure on goods and services",
+   "D": "Increase the real per capita income"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-43",
+  "subject": "economics",
+  "year": 1998,
+  "number": 43,
+  "question": "The Family Support Programme in Nigeria essentially focuses on",
+  "options": {
+   "A": "The generation of employment",
+   "B": "The alleviation of poverty",
+   "C": "Agricultural and industrial development",
+   "D": "Economic emancipation of women"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-44",
+  "subject": "economics",
+  "year": 1998,
+  "number": 44,
+  "question": "Economically, underdeveloped countries are charac terized by",
+  "options": {
+   "A": "High rate of population growth and low rate of economic growth",
+   "B": "High rate of economic growth and low rate of population growth",
+   "C": "High rate of population growth and high rate of economic growth",
+   "D": "Low rate of population growth and low rate of economic growth"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-46",
+  "subject": "economics",
+  "year": 1998,
+  "number": 46,
+  "question": "Development plans have not been successful in some developing countries largely because of",
+  "options": {
+   "A": "Very large working population",
+   "B": "Increasing level of consumption",
+   "C": "Scarcity of industrial raw materials",
+   "D": "Shortage of skilled labour and experts"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-47",
+  "subject": "economics",
+  "year": 1998,
+  "number": 47,
+  "question": "The balance of visible trade is the difference between the value of",
+  "options": {
+   "A": "Imported and exported goods",
+   "B": "Imported and exported services",
+   "C": "Current account and capital account",
+   "D": "Exchange rate of local and foreign currencies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-48",
+  "subject": "economics",
+  "year": 1998,
+  "number": 48,
+  "question": "If a country has a balance of payments surplus on current accounts, this means that",
+  "options": {
+   "A": "The total invisible export is greater than invisible import",
+   "B": "The value of goods exported must be greater than the value of goods imported",
+   "C": "There must be a positive balance on capital account",
+   "D": "The aggregate of the balance of trade and the invisible balance must be positive"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-49",
+  "subject": "economics",
+  "year": 1998,
+  "number": 49,
+  "question": "If a country operates a freely floating exchange rate system, and suffers a balance of payments deficit, the deficit can be eliminated through",
+  "options": {
+   "A": "A rise in the external value of its currency",
+   "B": "A fall in the external value of its currency",
+   "C": "An increase in the volume of imports",
+   "D": "The consumption of more foreign goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-50",
+  "subject": "economics",
+  "year": 1998,
+  "number": 50,
+  "question": "The Economic Commission for Africa wasset up bythe",
+  "options": {
+   "A": "UNO",
+   "B": "ECOWAS",
+   "C": "OAU",
+   "D": "IMF"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

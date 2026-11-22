@@ -1,0 +1,974 @@
+[
+ {
+  "id": "economics-1985-1",
+  "subject": "economics",
+  "year": 1985,
+  "number": 1,
+  "question": "One main quality of a good is that it",
+  "options": {
+   "A": "Is sold in the market",
+   "B": "Satisfies wants",
+   "C": "Is made in the factory",
+   "D": "Is always tangible",
+   "E": "Is non-perishable"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1985_p9_2.png",
+  "images": [
+   "economics/1985_p9_2.png"
+  ]
+ },
+ {
+  "id": "economics-1985-2",
+  "subject": "economics",
+  "year": 1985,
+  "number": 2,
+  "question": "",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-3",
+  "subject": "economics",
+  "year": 1985,
+  "number": 3,
+  "question": "The interdependence between household and business enterprise illustrated in the figure above is known as",
+  "options": {
+   "A": "Market interaction",
+   "B": "Cash flow",
+   "C": "Circular flow of income",
+   "D": "Supply and demand for goods and services",
+   "E": "Household preference schedule Bisi needs book costing N10.00. If Bisi buys the book instead of the hat, the opportunity cost of his choice is the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-4",
+  "subject": "economics",
+  "year": 1985,
+  "number": 4,
+  "question": "An economic problem exists whenever",
+  "options": {
+   "A": "There is scarcity and choice",
+   "B": "There are no buyers for our goods",
+   "C": "There are too many sellers",
+   "D": "Many people are out of work",
+   "E": "All raw materials are imported"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-5",
+  "subject": "economics",
+  "year": 1985,
+  "number": 5,
+  "question": "The meaning of scale of preference is",
+  "options": {
+   "A": "Preparing a list of goods and services to be purchased in order of priority",
+   "B": "Showing the monthly income",
+   "C": "Budget preparation without due regard to proper priorities",
+   "D": "Consumer preference for luxurious goods",
+   "E": "Consumer preference for foreign goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-6",
+  "subject": "economics",
+  "year": 1985,
+  "number": 6,
+  "question": "Optimum population is desirable because it enables an economy to attain maximum",
+  "options": {
+   "A": "Per capita income",
+   "B": "Per capita output",
+   "C": "Per capita real income",
+   "D": "Per capita revenue",
+   "E": "Growth rate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-7",
+  "subject": "economics",
+  "year": 1985,
+  "number": 7,
+  "question": "The age distribution of a population is NOT influenced by",
+  "options": {
+   "A": "Birth rates",
+   "B": "Death rates",
+   "C": "Patterns of immigration",
+   "D": "Patterns of emigration E.. School leaving age"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-8",
+  "subject": "economics",
+  "year": 1985,
+  "number": 8,
+  "question": "One theory of population contends that population tends to increase much faster than the supply of food, and that if the growth in population is not checked, it will be checked by natural forces like misery, disaster and food shortage. This theory was propounded by",
+  "options": {
+   "A": "Prof. Paul Samuelson",
+   "B": "Adam Smith",
+   "C": "David Richardo",
+   "D": "Rev. Thomas Malthus",
+   "E": "Prof. Ojetunji Aboyade"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1985_p10_1.png",
+  "images": [
+   "economics/1985_p10_1.png"
+  ]
+ },
+ {
+  "id": "economics-1985-9",
+  "subject": "economics",
+  "year": 1985,
+  "number": 9,
+  "question": "The table above illustrates the law of",
+  "options": {
+   "A": "Diminishing marginal utility",
+   "B": "Diminishing marginal productivity",
+   "C": "Diminishing returns",
+   "D": "Increasing returns",
+   "E": "Increase total utility"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-10",
+  "subject": "economics",
+  "year": 1985,
+  "number": 10,
+  "question": "If in the short run commodity X and commodity Y are",
+  "options": {
+   "B": "An increase in demand for X will shift the supply of Y",
+   "C": "An increase in demand for Y will raise the price X",
+   "D": "An increase in demand for X will cause less of Y to be produced.",
+   "E": "A probable tax on Y cause more of X to be supplied"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-11",
+  "subject": "economics",
+  "year": 1985,
+  "number": 11,
+  "question": "In market economies, resources are allocated through the",
+  "options": {
+   "A": "Government authorities",
+   "B": "Price system",
+   "C": "Banking system",
+   "D": "Central planning bureau",
+   "E": "Revenue allocation formula"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-12",
+  "subject": "economics",
+  "year": 1985,
+  "number": 12,
+  "question": "Study the figure below Price Quantity Q₁ Q₂ Q₃ At point H, the price elasticity of supply is",
+  "options": {
+   "A": "Perfectly inelastic",
+   "B": "Inelastic",
+   "C": "Unit elastic",
+   "D": "Perfectly elastic",
+   "E": "Elastic"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1985_p10_3.png",
+  "images": [
+   "economics/1985_p10_3.png"
+  ]
+ },
+ {
+  "id": "economics-1985-13",
+  "subject": "economics",
+  "year": 1985,
+  "number": 13,
+  "question": "At every point on an indifference curve, the",
+  "options": {
+   "A": "Total utility is decreasing",
+   "B": "Prices fo all goods are constant",
+   "C": "Consumer is satiated",
+   "D": "Level of utility is constant",
+   "E": "Level of utility is increasing"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-14",
+  "subject": "economics",
+  "year": 1985,
+  "number": 14,
+  "question": "Under perfect competition, the long-run equilibrium requires",
+  "options": {
+   "A": "MR = MC",
+   "B": "MR = AC = AR",
+   "C": "MR > MC",
+   "D": "MR = MC = AR = AC",
+   "E": "AR = AC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-15",
+  "subject": "economics",
+  "year": 1985,
+  "number": 15,
+  "question": "Price In the figure above, the broken line labelled M is the Marginal Revenue Curve of a",
+  "options": {
+   "A": "Monopoly",
+   "B": "Competitive firm",
+   "C": "State corporation",
+   "D": "Partnership",
+   "E": "Monopsony"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1985_p10_2.png",
+  "images": [
+   "economics/1985_p10_2.png"
+  ]
+ },
+ {
+  "id": "economics-1985-16",
+  "subject": "economics",
+  "year": 1985,
+  "number": 16,
+  "question": "If a monopoly is attempting to maximize profit, which of the following should it attempt to do?",
+  "options": {
+   "A": "Select that output at which ATC is at minimum",
+   "B": "Set price equal to TC",
+   "C": "Maximize revenues",
+   "D": "Maximize revenues",
+   "E": "Equate marginal cost to marginal revenue."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-17",
+  "subject": "economics",
+  "year": 1985,
+  "number": 17,
+  "question": "The amount of labour a producer hires relatives to other factor inputs depends on the",
+  "options": {
+   "A": "Price of labour or its wage",
+   "B": "Price of labour, machinery and other imputs",
+   "C": "Price of machinery",
+   "D": "Price of the other inputs",
+   "E": "Type of machinery"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-18",
+  "subject": "economics",
+  "year": 1985,
+  "number": 18,
+  "question": "Which of the following is NOT a feature of under- development?",
+  "options": {
+   "A": "Low per capita income",
+   "B": "Vicious circle of poverty",
+   "C": "Low level of industrialization",
+   "D": "Greater dependence on primary production",
+   "E": "High per capital income"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-19",
+  "subject": "economics",
+  "year": 1985,
+  "number": 19,
+  "question": "The inefficient distribution of scarce commodities in Nigeria is mostly due tot he",
+  "options": {
+   "A": "Inefficiency of the middleman",
+   "B": "Inefficiency in the production process",
+   "C": "Long chain of the distribution system",
+   "D": "Sovereignty of the consumers",
+   "E": "Ineffectiveness of retailers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-20",
+  "subject": "economics",
+  "year": 1985,
+  "number": 20,
+  "question": "Warehousing facilities in the distribution and marketing of products are provided by",
+  "options": {
+   "A": "Manufacturers",
+   "B": "Wholesalers",
+   "C": "Retailers",
+   "D": "Consumers",
+   "E": "Sellers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-21",
+  "subject": "economics",
+  "year": 1985,
+  "number": 21,
+  "question": "A corporation can obtain funds by issuing bonds. A bond is a form of debt which falls due for repayment after",
+  "options": {
+   "A": "6 months",
+   "B": "9 months",
+   "C": "2 years",
+   "D": "5 years",
+   "E": "10 or more years"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-22",
+  "subject": "economics",
+  "year": 1985,
+  "number": 22,
+  "question": "A firm is said to be a public Joint Stock Company when",
+  "options": {
+   "D": "Sells shares to members of the public and publishes its account",
+   "E": "Is a limited liability company"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-23",
+  "subject": "economics",
+  "year": 1985,
+  "number": 23,
+  "question": "Limited liability means",
+  "options": {
+   "A": "The debts of a company can only be paid from business as well as private funds of the owners",
+   "B": "The debts of the company are paid from business as well as private funds of the owners",
+   "C": "Government cannot tax company",
+   "D": "The debts of the company must be paid from Private funds only",
+   "E": "The company does not have to pay its debts."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-24",
+  "subject": "economics",
+  "year": 1985,
+  "number": 24,
+  "question": "The purchasing power of the Naira will fall when",
+  "options": {
+   "A": "The Naira is devalued",
+   "B": "Government cuts all salaries and wages",
+   "C": "There is inflation",
+   "D": "The colour of the Naira is changed",
+   "E": "Workers are retrenched"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-25",
+  "subject": "economics",
+  "year": 1985,
+  "number": 25,
+  "question": "When a business has unlimited liability",
+  "options": {
+   "A": "All its profits can be taxed away by the government",
+   "B": "All its assets are owned by the members of its board of directors",
+   "C": "The business ceases to exist at the death of one of its owners",
+   "D": "The owners are responsible for all its financial debts",
+   "E": "The owners are not responsible for all its financial debts."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-26",
+  "subject": "economics",
+  "year": 1985,
+  "number": 26,
+  "question": "Which of the following factors is most responsible for the concentration fo population around the oil fields in Eastern Nigeria?",
+  "options": {
+   "A": "Establishment of industries",
+   "B": "Presence of mineral deposits",
+   "C": "Transportation facilities",
+   "D": "Favourable soil",
+   "E": "Favourable climatic conditions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-27",
+  "subject": "economics",
+  "year": 1985,
+  "number": 27,
+  "question": "The petro-chemical industries are located in the Rivers State of Nigeria due to",
+  "options": {
+   "A": "Favourable climate",
+   "B": "Favourable soil",
+   "C": "Oil deposits",
+   "D": "Palm oil products",
+   "E": "Coal deposits"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-28",
+  "subject": "economics",
+  "year": 1985,
+  "number": 28,
+  "question": "One of the functions of a commercial bank is that it is",
+  "options": {
+   "A": "Responsible for monetary policy",
+   "B": "Responsible for issuing of currency notes",
+   "C": "The lender of last resort",
+   "D": "The banker of the government",
+   "E": "A banker of demand and time deposits of customers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-29",
+  "subject": "economics",
+  "year": 1985,
+  "number": 29,
+  "question": "Because money serves as a standard of deferred payments",
+  "options": {
+   "A": "It serves as a store of value",
+   "B": "Goods can be bought on credit with determined value"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-30",
+  "subject": "economics",
+  "year": 1985,
+  "number": 30,
+  "question": "Which of the following is a necessary prerequisite for trade by barter.",
+  "options": {
+   "A": "Need for double coincidence of wants",
+   "B": "Multiple exchange rate",
+   "C": "Impossibility of future trade",
+   "D": "Impossibility of large-scale production",
+   "E": "Indivisibility of commodities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-31",
+  "subject": "economics",
+  "year": 1985,
+  "number": 31,
+  "question": "A state budget is an outline of planned",
+  "options": {
+   "A": "Expenditures and revenues expected within a financial years",
+   "B": "Expenditures of ministries and parastatals within a given period",
+   "C": "Recurrent and capital expenditures within a year",
+   "D": "Sources of revenue derivation for a financial year",
+   "E": "Use of different kinds of taxation is a given year"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-32",
+  "subject": "economics",
+  "year": 1985,
+  "number": 32,
+  "question": "Which of the following is NOT among the canons of taxation as set out by Adam Smith?",
+  "options": {
+   "A": "Equality",
+   "B": "Security",
+   "C": "Certainty",
+   "D": "Convenience",
+   "E": "Economy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-33",
+  "subject": "economics",
+  "year": 1985,
+  "number": 33,
+  "question": "An example of a regressive tax is",
+  "options": {
+   "A": "The personal income tax",
+   "B": "The graduated corporation income tax",
+   "C": "A general sales tax",
+   "D": "The inhertance tax",
+   "E": "The excise tax"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-34",
+  "subject": "economics",
+  "year": 1985,
+  "number": 34,
+  "question": "Tax which is levied on goods manufactured, sold or used within the country is",
+  "options": {
+   "A": "Sales tax",
+   "B": "Excise tax",
+   "C": "Direct tax",
+   "D": "Income tax",
+   "E": "Poll tax"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-35",
+  "subject": "economics",
+  "year": 1985,
+  "number": 35,
+  "question": "By terms of trade, we mean the",
+  "options": {
+   "A": "Ratio of exports to imports",
+   "B": "Difference between exports and imports",
+   "C": "Difference between current account and capital account",
+   "D": "Index of export prices to import prices expressed as a percentage",
+   "E": "Ratio of short-term capital movements"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-36",
+  "subject": "economics",
+  "year": 1985,
+  "number": 36,
+  "question": "The argument of tariff protection in less developed economies is that such a measure would",
+  "options": {
+   "A": "Raise the price of goods affected abroad",
+   "B": "Make consumers pay a higher price for the domestically produced output",
+   "C": "Protect young industries from ruinous competition from abroad",
+   "D": "Help reduce excess capacity in domestic industries",
+   "E": "Stifle private investment initiative"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-37",
+  "subject": "economics",
+  "year": 1985,
+  "number": 37,
+  "question": "Devaluation of the Naira as a condition for the International Monetary Fund loan is considered inadvisable because",
+  "options": {
+   "A": "It would allow for more money to be spent on luxuries",
+   "D": "It would worsen Nigeria’s foreign exchange situation",
+   "E": "Nigeria’s oil would sell for less in the world market"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-38",
+  "subject": "economics",
+  "year": 1985,
+  "number": 38,
+  "question": "Foreign exchange control in Nigeria is administered bythe",
+  "options": {
+   "A": "United Bank for Africa",
+   "B": "Union Bank of Nigeria",
+   "C": "First bank of Nigeria",
+   "D": "Central Bank of Nigeria",
+   "E": "National Bank of Nigeria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-39",
+  "subject": "economics",
+  "year": 1985,
+  "number": 39,
+  "question": "Under the ECOWAS agreement, a Nigerian can enter and stay in Ghana without a visa for a period of",
+  "options": {
+   "A": "14 days",
+   "B": "30 days",
+   "C": "60 days",
+   "D": "90 days",
+   "E": "100days"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-40",
+  "subject": "economics",
+  "year": 1985,
+  "number": 40,
+  "question": "How many National Development Plans did Nigeria have between 1960 and 1984?",
+  "options": {
+   "A": "One",
+   "B": "Two",
+   "C": "Four D.Five",
+   "E": "Six"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-41",
+  "subject": "economics",
+  "year": 1985,
+  "number": 41,
+  "question": "If an economy grows at an annual rate of 6%, of which 4% is deemed to be due to improvement in the productivity of labour and capital combined, the remaining 2% is generally attributed to",
+  "options": {
+   "A": "Technical progress",
+   "B": "Size of the population",
+   "C": "Amount of natural resources",
+   "D": "The environment",
+   "E": "The quality of human resource"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-42",
+  "subject": "economics",
+  "year": 1985,
+  "number": 42,
+  "question": "The process by which a country attempts to reduce the import of manufactured goods by encouraging firms to produce these goods at home is described as",
+  "options": {
+   "A": "Export promotion",
+   "B": "Import -substitution",
+   "C": "Industrialization",
+   "D": "Export-diversification",
+   "E": "Import-creation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-43",
+  "subject": "economics",
+  "year": 1985,
+  "number": 43,
+  "question": "Under normal circumstances a producer will bear the entire burden of taxation on his output if the",
+  "options": {
+   "A": "Demand for his product is completely elastic",
+   "B": "Supply of his goods is more elastic than the demand",
+   "C": "Demand for his product is more elastic than the supply",
+   "D": "Production of his commodities is subject to diminishing returns",
+   "E": "Production fo his commodities is subject to increasing returns to scale"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-44",
+  "subject": "economics",
+  "year": 1985,
+  "number": 44,
+  "question": "Which of the following is NOT a part of the fixed cost of a limited liability company?",
+  "options": {
+   "A": "Interest on loans",
+   "B": "Rent on buildings",
+   "C": "Depreciation reserves",
+   "D": "Management expenditure",
+   "E": "Wages"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-46",
+  "subject": "economics",
+  "year": 1985,
+  "number": 46,
+  "question": "Disguised unemployment",
+  "options": {
+   "A": "Exists when manpower is not being utilized efficiently",
+   "B": "Calls for the implementation of five-year plans",
+   "C": "Can be eliminated if the press is free",
+   "D": "Can be eliminated if the capital output ratio is increased",
+   "E": "Is a statistical artifact with no economic meaning"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-47",
+  "subject": "economics",
+  "year": 1985,
+  "number": 47,
+  "question": "In the table above, the marginal cost when output is two units is, A.N16.00 B. N20.00 C. N36.00",
+  "options": {
+   "D": "N40.00",
+   "E": "N48.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1985_p13_1.png",
+  "images": [
+   "economics/1985_p13_1.png"
+  ]
+ },
+ {
+  "id": "economics-1985-48",
+  "subject": "economics",
+  "year": 1985,
+  "number": 48,
+  "question": "The table below illustrates the law of diminishing returns on a farm. Which pair of the following answers is appropriate for the missing information in the spaces marked X and Y?",
+  "options": {
+   "A": "X = 20, Y = 6",
+   "B": "X = 38, Y= 9",
+   "C": "X = 46, Y= 9",
+   "D": "X = 46, Y= 14",
+   "E": "X = 10, Y= 10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1985_p13_2.png",
+  "images": [
+   "economics/1985_p13_2.png"
+  ]
+ },
+ {
+  "id": "economics-1985-49",
+  "subject": "economics",
+  "year": 1985,
+  "number": 49,
+  "question": "The unemployment associated with a recession is called",
+  "options": {
+   "A": "Voluntary",
+   "B": "Frictional",
+   "C": "Cyclical",
+   "D": "Structural",
+   "E": "Disguise"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1985-50",
+  "subject": "economics",
+  "year": 1985,
+  "number": 50,
+  "question": "When total revenue is a t a maximum, marginal revenue is",
+  "options": {
+   "A": "Constant",
+   "B": "Negative",
+   "C": "Zero",
+   "D": "Positive",
+   "E": "Maximum"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

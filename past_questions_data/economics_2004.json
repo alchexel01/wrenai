@@ -1,0 +1,913 @@
+[
+ {
+  "id": "economics-2004-1",
+  "subject": "economics",
+  "year": 2004,
+  "number": 1,
+  "question": "By advertising, a monopolistic competitive firm tries toshift its",
+  "options": {
+   "A": "supply curve to the right",
+   "B": "demand curve to the right",
+   "C": "supply curve to the left",
+   "D": "demand curve to the left"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-2",
+  "subject": "economics",
+  "year": 2004,
+  "number": 2,
+  "question": "Given than Y = C + I and C = bY where b = 0.8, what is the multiplier?",
+  "options": {
+   "A": "5",
+   "B": "10",
+   "C": "4",
+   "D": "2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-3",
+  "subject": "economics",
+  "year": 2004,
+  "number": 3,
+  "question": "Theroleof the Central Bank in the economic development of Nigeria is to",
+  "options": {
+   "A": "give short-and medium-term loansto thepublic",
+   "B": "give financial and technical advice to customers",
+   "C": "use the cheques and bank drafts to facilitate business transactions",
+   "D": "maintain a stable price system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-4",
+  "subject": "economics",
+  "year": 2004,
+  "number": 4,
+  "question": "The primary function of non-bank financial institutions is to",
+  "options": {
+   "A": "manage investment portfolios for government",
+   "B": "mobilize saving for investment",
+   "C": "grant loans to banks",
+   "D": "receive deposits from banks"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-5",
+  "subject": "economics",
+  "year": 2004,
+  "number": 5,
+  "question": "At the maximum point of the total product curve of a firm, marginal revenue is A decreasing B. increasing C. constant D. zero",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-6",
+  "subject": "economics",
+  "year": 2004,
+  "number": 6,
+  "question": "In a n open economy, the GNP is measured as",
+  "options": {
+   "A": "C+I+G+X",
+   "B": "C+I+G+(X-M)",
+   "C": "C+I+G+M",
+   "D": "C+I+G"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2004_p68_1.png",
+  "images": [
+   "economics/2004_p68_1.png"
+  ]
+ },
+ {
+  "id": "economics-2004-7",
+  "subject": "economics",
+  "year": 2004,
+  "number": 7,
+  "question": "The diagram above represents the short-run position of a monopolist. The profit-maximizing output is",
+  "options": {
+   "A": "Q₃",
+   "B": "Q₄",
+   "C": "Q₁",
+   "D": "Q₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-8",
+  "subject": "economics",
+  "year": 2004,
+  "number": 8,
+  "question": "The capital market provides business firm with the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-9",
+  "subject": "economics",
+  "year": 2004,
+  "number": 9,
+  "question": "Which of the financial institution is charged with the formulation of monetary policies in Nigeria?",
+  "options": {
+   "A": "The Central Bank of Nigeria",
+   "B": "The Nigeria Deposit Insurance Corporation",
+   "C": "The Abuja Commodity Exchange",
+   "D": "The Lagos Stock Exchange"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-10",
+  "subject": "economics",
+  "year": 2004,
+  "number": 10,
+  "question": "GDP differs from GNP because GDP",
+  "options": {
+   "A": "is inclusive of depreciation",
+   "B": "emphasizes the final goods and services",
+   "C": "produced within the country at a particular period",
+   "D": "emphasizes the market value of all final goods and services produced by nationals"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-11",
+  "subject": "economics",
+  "year": 2004,
+  "number": 11,
+  "question": "The distinction between perfect competition and monopolistic competition is that the latter is characterized by",
+  "options": {
+   "A": "a single market price",
+   "B": "many buyers and sellers",
+   "C": "product differentiation",
+   "D": "homogeneity of product"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-12",
+  "subject": "economics",
+  "year": 2004,
+  "number": 12,
+  "question": "Thedownstream activities ofoil companies in Nigeria involve",
+  "options": {
+   "A": "refining and distribution",
+   "B": "prospecting and drilling",
+   "C": "Off-shore drilling",
+   "D": "Management of spillage and pollution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-13",
+  "subject": "economics",
+  "year": 2004,
+  "number": 13,
+  "question": "The movement of goods and services from the products to the consumers is refereed to as",
+  "options": {
+   "A": "external trade",
+   "B": "the distribution chain",
+   "C": "the circular flow",
+   "D": "consumption"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-14",
+  "subject": "economics",
+  "year": 2004,
+  "number": 14,
+  "question": "The purpose of conducting a census is to enable a country to",
+  "options": {
+   "A": "plan her capital inflow and outflow",
+   "B": "determine the growth rate of population",
+   "C": "determine the optimum level of population",
+   "D": "plan her growth and development"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-15",
+  "subject": "economics",
+  "year": 2004,
+  "number": 15,
+  "question": "A major cause of the slow pace of industrialization in Nigeria is inadequate",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-16",
+  "subject": "economics",
+  "year": 2004,
+  "number": 16,
+  "question": "The maximum wage legislation seeks to",
+  "options": {
+   "A": "fix wages above the equilibrium wage rate",
+   "B": "set wages below the equilibrium wage rate",
+   "C": "deter employers from exploiting their employees",
+   "D": "ensure an upper limit to the wages payable"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-17",
+  "subject": "economics",
+  "year": 2004,
+  "number": 17,
+  "question": "The marketing of agricultural commodities in Nigeria is hampered by",
+  "options": {
+   "A": "lack of adequate storage facilities",
+   "B": "the existence of farmers’ associations",
+   "C": "the existence of commodity exchange",
+   "D": "the abolition of ,arketing boards."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-18",
+  "subject": "economics",
+  "year": 2004,
+  "number": 18,
+  "question": "Import duty concessions on industrial inputs directly benefit the",
+  "options": {
+   "A": "consumers B.external sector",
+   "C": "commercial sector",
+   "D": "manufacturers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-19",
+  "subject": "economics",
+  "year": 2004,
+  "number": 19,
+  "question": "The labour force in Nigeria falls between the ages of",
+  "options": {
+   "A": "18 and 45",
+   "B": "18 and 55 C.18 and 60",
+   "D": "18 and 30"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-20",
+  "subject": "economics",
+  "year": 2004,
+  "number": 20,
+  "question": "Government’s involvement in agricultural business in Nigeria’s is most manifested in the",
+  "options": {
+   "A": "establishment of farm settlements in each state of the federation",
+   "B": "establishment of credit guarantee schemes for small-scale farmers",
+   "C": "formation of farmers’ cooperative socities",
+   "D": "procurement and distribution of fertilizers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-21",
+  "subject": "economics",
+  "year": 2004,
+  "number": 21,
+  "question": "The difference between birth and death rates of a given population is referred to as the",
+  "options": {
+   "A": "mortality rate",
+   "B": "fertility rate C.natural growth rate",
+   "D": "linear growth rate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-22",
+  "subject": "economics",
+  "year": 2004,
+  "number": 22,
+  "question": "Fiscal policy is the government’s plan to control aggregate demand by manipulating",
+  "options": {
+   "A": "the demand and supply of money",
+   "B": "revenue and expenditure",
+   "C": "tastes and preferences of consumers D, the structure of production and employment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-23",
+  "subject": "economics",
+  "year": 2004,
+  "number": 23,
+  "question": "A country is said to have absolute advantage when she A.has a higher opportunity cost in the production of a good",
+  "options": {
+   "B": "can sell to oother countries without buying from them",
+   "C": "can produce more of any good with fewer resources",
+   "D": "has a lower opportunity cost in the production of a good."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-24",
+  "subject": "economics",
+  "year": 2004,
+  "number": 24,
+  "question": "The European Union was formed to promote free trade within member nations",
+  "options": {
+   "A": "Promote free trade within members nation.",
+   "B": "Promote economic integration in non-member countries",
+   "C": "Assist countries to achieve their economic goals",
+   "D": "Finance development projects in member nations."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-25",
+  "subject": "economics",
+  "year": 2004,
+  "number": 25,
+  "question": "if budget deficits are financed by borrowing, the crowding-out effects can be offset by an increase in",
+  "options": {
+   "A": "government expenditure",
+   "B": "savings C.interest rates",
+   "D": "exchange rates"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-26",
+  "subject": "economics",
+  "year": 2004,
+  "number": 26,
+  "question": "When the importation of a commodityis limited to a definite quantity, the trade control means used is known as",
+  "options": {
+   "A": "exchange control",
+   "B": "tax relief"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-27",
+  "subject": "economics",
+  "year": 2004,
+  "number": 27,
+  "question": "Theexcess ofaggregate expenditure over full emploment level of output is referred to as",
+  "options": {
+   "A": "GNP gap",
+   "B": "Deflationary gap",
+   "C": "Inflationary gap",
+   "D": "recessionary gap"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-28",
+  "subject": "economics",
+  "year": 2004,
+  "number": 28,
+  "question": "The tax levied on goods and services at each stage of production is",
+  "options": {
+   "A": "surfax",
+   "B": "VAT",
+   "C": "Ad valorem tax",
+   "D": "PAYE"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-29",
+  "subject": "economics",
+  "year": 2004,
+  "number": 29,
+  "question": "The number of shareholders in a private limited liability company ranges from",
+  "options": {
+   "A": "two to seven",
+   "B": "two to three",
+   "C": "two to fifty",
+   "D": "two to twenty"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-30",
+  "subject": "economics",
+  "year": 2004,
+  "number": 30,
+  "question": "A major reason for having national development plan is to",
+  "options": {
+   "A": "ensure efficient use of available resources",
+   "B": "involve people in national programmes",
+   "C": "make government spend more on production",
+   "D": "ensurethat more citizens areinvolved in planning"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-31",
+  "subject": "economics",
+  "year": 2004,
+  "number": 31,
+  "question": "The difference between payments and receipts for visible trade is called",
+  "options": {
+   "A": "bilateral trade",
+   "B": "current balance C.balance of payment D. balance of trade"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-32",
+  "subject": "economics",
+  "year": 2004,
+  "number": 32,
+  "question": "One of the cause of the present high rate of inflation in Nigeria is",
+  "options": {
+   "A": "Increasing budget surplus",
+   "B": "Increasing factors costs C.E Exchangerate appreciation D. High capacityutilization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-33",
+  "subject": "economics",
+  "year": 2004,
+  "number": 33,
+  "question": "The final stage in the production process of any commodity involves its movement from the",
+  "options": {
+   "A": "retailer tothe wholesaler",
+   "B": "producer to the wholesaler",
+   "C": "retailer to the consumer",
+   "D": "wholesaler to the retailer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-34",
+  "subject": "economics",
+  "year": 2004,
+  "number": 34,
+  "question": "A change in demand for a normal good means",
+  "options": {
+   "A": "a shift in the demand curve",
+   "B": "a change in the price elasticity",
+   "C": "the demand changes as price changes",
+   "D": "a movement along a given demand curve"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-35",
+  "subject": "economics",
+  "year": 2004,
+  "number": 35,
+  "question": "In the diagram above, ST is the budget line while I.II and III represent indifference curves. A rational consumer will choose to consume at point",
+  "options": {
+   "A": "M",
+   "B": "J",
+   "C": "K",
+   "D": "L"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2004_p69_1.png",
+  "images": [
+   "economics/2004_p69_1.png"
+  ]
+ },
+ {
+  "id": "economics-2004-36",
+  "subject": "economics",
+  "year": 2004,
+  "number": 36,
+  "question": "In order to increase revenue, the seller of a commodity whose demand is fairly elastic is advised to",
+  "options": {
+   "A": "increase price",
+   "B": "reduce outpur",
+   "C": "reduce price",
+   "D": "retain price"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-37",
+  "subject": "economics",
+  "year": 2004,
+  "number": 37,
+  "question": "In any set of data, the median represent the",
+  "options": {
+   "A": "value that is most representative of the data",
+   "B": "mid-position when the values are arranged in ascending or descending order",
+   "C": "mid-position when the values are arranged"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2004_p70_1.png",
+  "images": [
+   "economics/2004_p70_1.png"
+  ]
+ },
+ {
+  "id": "economics-2004-38",
+  "subject": "economics",
+  "year": 2004,
+  "number": 38,
+  "question": "The table above shows the combinations of beans and rice that can be purchased by a consumer. The opportunity cost of moving from K to L is",
+  "options": {
+   "A": "2 units of rice",
+   "B": "5 units of beans",
+   "C": "17 units of rice",
+   "D": "20 units of beans"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-39",
+  "subject": "economics",
+  "year": 2004,
+  "number": 39,
+  "question": "One of the assumption of ordinary utility in consumer behaviour is that",
+  "options": {
+   "A": "consumer are irrational",
+   "B": "marginal utility rises contionously",
+   "C": "utility is measurable",
+   "D": "utility can only be ranked"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-40",
+  "subject": "economics",
+  "year": 2004,
+  "number": 40,
+  "question": "A large standard deviation is an indication of",
+  "options": {
+   "A": "the size of the sample",
+   "B": "a wide spread around the mean",
+   "C": "a wide difference between the mean and the mode",
+   "D": "the difference between teh highest and the lowest values."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-41",
+  "subject": "economics",
+  "year": 2004,
+  "number": 41,
+  "question": "A m ajor characteristics of a mixed economy is that",
+  "options": {
+   "A": "economic decisions are emade by both the rich and the poor",
+   "B": "both primary and secondary production are undertaken",
+   "C": "the federal and the state governments undertake joint projects",
+   "D": "economic activties are undertaken by both the public and private sectors"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-42",
+  "subject": "economics",
+  "year": 2004,
+  "number": 42,
+  "question": "Given the cost function C = 160 + 36Q, what is teh average cost at 20 units of output?",
+  "options": {
+   "A": "N720",
+   "B": "N216.00",
+   "C": "N44.00",
+   "D": "N880.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-43",
+  "subject": "economics",
+  "year": 2004,
+  "number": 43,
+  "question": "If an increase in the p rice of good X leads to an increase in the supply of good Y, X and Y are said to",
+  "options": {
+   "A": "jointly supplied",
+   "B": "competitive",
+   "C": "composite",
+   "D": "jointly demanded"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2004_p70_2.png",
+  "images": [
+   "economics/2004_p70_2.png"
+  ]
+ },
+ {
+  "id": "economics-2004-44",
+  "subject": "economics",
+  "year": 2004,
+  "number": 44,
+  "question": "The diagram above shows the shifts in both demand and supply curves. What is the new equilibrium point after the shifts?",
+  "options": {
+   "A": "E",
+   "B": "E"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-45",
+  "subject": "economics",
+  "year": 2004,
+  "number": 45,
+  "question": "Use the diagram below to answer questions 45 and 46 45. When there is a change fron T to N, it implies that",
+  "options": {
+   "A": "supply has increased",
+   "B": "quantity supplied has increased",
+   "C": "quantity demanded has i ncreased",
+   "D": "price has fallen 46., A movement from M to T implies that there has been"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2004_p70_3.png",
+  "images": [
+   "economics/2004_p70_3.png"
+  ]
+ },
+ {
+  "id": "economics-2004-47",
+  "subject": "economics",
+  "year": 2004,
+  "number": 47,
+  "question": "A necessary condition for specialisataion in an economy is the existence of",
+  "options": {
+   "A": "a regulated market",
+   "B": "a competitive market",
+   "C": "a medium of exchange",
+   "D": "adequate capital"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-48",
+  "subject": "economics",
+  "year": 2004,
+  "number": 48,
+  "question": "A firm operating at full capacity will experience rising short-run totall costs when",
+  "options": {
+   "A": "prices of its variable inputs rise",
+   "B": "prices of its variable inputs fall",
+   "C": "there is a change in m anagement",
+   "D": "labour productivity increases"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-49",
+  "subject": "economics",
+  "year": 2004,
+  "number": 49,
+  "question": "In a textile factory, teh cost of cotton used is a typical example of",
+  "options": {
+   "A": "an average cost",
+   "B": "a variable cost",
+   "C": "a total cost",
+   "D": "a fixed cost"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2004-50",
+  "subject": "economics",
+  "year": 2004,
+  "number": 50,
+  "question": "A black market can occur when",
+  "options": {
+   "A": "supply is excess of deman",
+   "B": "consumption of the commomdity is restricted",
+   "C": "prices are set by government above the equilibrium",
+   "D": "prices are set by government below the equilibrium"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

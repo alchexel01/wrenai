@@ -1,0 +1,912 @@
+[
+ {
+  "id": "economics-2000-1",
+  "subject": "economics",
+  "year": 2000,
+  "number": 1,
+  "question": "Economics can be defined as",
+  "options": {
+   "A": "reduction in spending in the face of competing alternatives",
+   "B": "allocation of resources to alternative uses",
+   "C": "economic behaviour of small units like the household and the firm",
+   "D": "the study of economic aggregates like inflation and national income."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-2",
+  "subject": "economics",
+  "year": 2000,
+  "number": 2,
+  "question": "I. What and how much will be produced? II. How will it be produced? III. For whom will it be produced? IV. How much will be exported and consumed? From the above, identify the combination of basic resource allocation questions in economic .analysis.",
+  "options": {
+   "A": "1.11 and III",
+   "B": "I,ll and IV",
+   "C": "I, III and.IV",
+   "D": "II, III an. IV J Use the histogra... below to answer questio..s 3and 4 sₜ 120 ⁿₑd100 uₜₛ80 fₒ 60 oN40 Scores"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2000_p56_1.png",
+  "images": [
+   "economics/2000_p56_1.png"
+  ]
+ },
+ {
+  "id": "economics-2000-3",
+  "subject": "economics",
+  "year": 2000,
+  "number": 3,
+  "question": "How many students took the examination?",
+  "options": {
+   "A": "280 B.240",
+   "C": "200",
+   "D": "80"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-4",
+  "subject": "economics",
+  "year": 2000,
+  "number": 4,
+  "question": "If the pass mark was 40, how many students passed the examination?",
+  "options": {
+   "A": "100",
+   "B": "120",
+   "C": "160 D.200"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-5",
+  "subject": "economics",
+  "year": 2000,
+  "number": 5,
+  "question": "In a capitalist economy, the economic problem of what goods to produce is decided mainly by",
+  "options": {
+   "A": "shadow prices",
+   "B": "profit level",
+   "C": "relative prices",
+   "D": "a central planner. Use theinformation belowtoanswer questions 7 and 8. When commodity X sold for N25 per unit, 50 units of commodity Y were purcnased. With an increase in the price of commodity X to N5Q per unit, the demand for commodity Y fell to 2{) units. ,r"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-7",
+  "subject": "economics",
+  "year": 2000,
+  "number": 7,
+  "question": "Determine the cross elasticity of demand.",
+  "options": {
+   "A": "1.7 B.0. 6",
+   "C": "-0.6",
+   "D": "-1.7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-8",
+  "subject": "economics",
+  "year": 2000,
+  "number": 8,
+  "question": "The two commodities can be classified as",
+  "options": {
+   "A": "substitutes",
+   "B": "durable and non-durable",
+   "C": "intermediate and final",
+   "D": "complements."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-9",
+  "subject": "economics",
+  "year": 2000,
+  "number": 9,
+  "question": "A centrnl argument of cardinal utility is that utility is",
+  "options": {
+   "A": "measurnble",
+   "B": "psychological",
+   "C": "ranked",
+   "D": "intangible."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-10",
+  "subject": "economics",
+  "year": 2000,
+  "number": 10,
+  "question": "Good one O L₁ Good two In the diagram above, L₁. L₁. and L₂L₂ are budget lines.I₁.,I₂ and I₃ are indifference curves. Which poin are optimal?",
+  "options": {
+   "A": "UandW.",
+   "B": "U and Z.",
+   "C": "VandW.",
+   "D": "Y and Z. Use thediagrams below to answer questions 11 and 12. Commodity I Commodity II Price D Price D P₁ P₁ P₂ P₂ D ₂ O Q₁ Q₂ Quantity O Q₁ Q₂ Quantity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2000_p57_1.png",
+  "images": [
+   "economics/2000_p57_1.png",
+   "economics/2000_p57_3.png",
+   "economics/2000_p57_2.png"
+  ]
+ },
+ {
+  "id": "economics-2000-11",
+  "subject": "economics",
+  "year": 2000,
+  "number": 11,
+  "question": "Commodities 1 and II are in",
+  "options": {
+   "A": "competitive supply",
+   "B": "joint supply",
+   "C": "substitute supply D. derived supply."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-12",
+  "subject": "economics",
+  "year": 2000,
+  "number": 12,
+  "question": "The supply of commodity II increasing from S₁S₁ to S₂S₂",
+  "options": {
+   "A": "leads to a fall in price from OP₁ to OP₂",
+   "B": "moves the pricebelow OP₂",
+   "C": "increases the price from OP₂ to OP₁",
+   "D": "moves the price to OP₁"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-13",
+  "subject": "economics",
+  "year": 2000,
+  "number": 13,
+  "question": "In a freemarket system, trading can onlytake place when the",
+  "options": {
+   "D": "consumer sovereignty is lacking."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-14",
+  "subject": "economics",
+  "year": 2000,
+  "number": 14,
+  "question": "The condition for equilibrium price and quantity under perfect competition is",
+  "options": {
+   "A": "MC = AR = TRB. TC=AR=P",
+   "C": "MC=AR=P",
+   "D": "MC=AR=TC I5. External diseconomies of scale result from excessive growth of",
+   "B": "some sectors of the industry C. external factors D. internal factors. Use the table below to answer questions 16 and 17."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2000_p57_4.png",
+  "images": [
+   "economics/2000_p57_4.png"
+  ]
+ },
+ {
+  "id": "economics-2000-16",
+  "subject": "economics",
+  "year": 2000,
+  "number": 16,
+  "question": "The marginal product X is",
+  "options": {
+   "A": "18",
+   "B": "20",
+   "C": "24",
+   "D": "25"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-17",
+  "subject": "economics",
+  "year": 2000,
+  "number": 17,
+  "question": "The average product Y is",
+  "options": {
+   "A": "8.0",
+   "B": "12.0",
+   "C": "14.6",
+   "D": "15.5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-18",
+  "subject": "economics",
+  "year": 2000,
+  "number": 18,
+  "question": "In a small scale business. the fixed cost is #5 000.00. variable cost is #15 000.00 and the output is 500 units. What will be the unit cost of the goods?",
+  "options": {
+   "A": "#400.00",
+   "B": "#80.00",
+   "C": "#40.00",
+   "D": "#20.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-19",
+  "subject": "economics",
+  "year": 2000,
+  "number": 19,
+  "question": "If a total cost curve is plotted, marginal cost can be illustrated by the",
+  "options": {
+   "A": "slope of the tangent to the curve at any given output",
+   "B": "V-shaped curve cutting the total cost curve at its lowest point",
+   "C": "straigh line from theorigin to the midpoint of the curve",
+   "D": "straight line cutting the curve at its highest point."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-20",
+  "subject": "economics",
+  "year": 2000,
+  "number": 20,
+  "question": "(MC AVC) Quantity In a price-laking firm, the portion UT above is the firm's .",
+  "options": {
+   "A": "average revenue curve",
+   "B": "supply curve"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2000_p57_5.png",
+  "images": [
+   "economics/2000_p57_5.png"
+  ]
+ },
+ {
+  "id": "economics-2000-21",
+  "subject": "economics",
+  "year": 2000,
+  "number": 21,
+  "question": "The short-run equilibrium in a perfectly competitive market requires that",
+  "options": {
+   "A": "marginal cost be equal to total revenue",
+   "B": "marginal cost and marginal revenue be equal",
+   "C": "costs are mutually determined by buyers and sellers",
+   "D": "the marginal cost curve cuts the total cost curve."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2000_p58_1.png",
+  "images": [
+   "economics/2000_p58_1.png"
+  ]
+ },
+ {
+  "id": "economics-2000-22",
+  "subject": "economics",
+  "year": 2000,
+  "number": 22,
+  "question": "The firm whose sales and total revenue of the commodity as given above is",
+  "options": {
+   "A": "a monopolist",
+   "B": "a monopolistic competitor,",
+   "C": "a perfect competitor",
+   "D": "an oligopolist."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-23",
+  "subject": "economics",
+  "year": 2000,
+  "number": 23,
+  "question": "At the point where marginal revenue of a monopolist is equal to zero, its total revenue will be",
+  "options": {
+   "A": "falling",
+   "B": "rising",
+   "C": "equal to zero",
+   "D": "maximum."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-24",
+  "subject": "economics",
+  "year": 2000,
+  "number": 24,
+  "question": "A distinguishing characteristic of cooperative societies is that voting power depends on the",
+  "options": {
+   "A": "number of shares held",
+   "B": "status of the member",
+   "C": "equality of members",
+   "D": "management's decision."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-25",
+  "subject": "economics",
+  "year": 2000,
+  "number": 25,
+  "question": "The concept of privatization presupposes",
+  "options": {
+   "A": "efficiency",
+   "B": "market price",
+   "C": "indigenization",
+   "D": "foreign trade."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-26",
+  "subject": "economics",
+  "year": 2000,
+  "number": 26,
+  "question": "One problem in the marketing of agricultural product in Nigeria is",
+  "options": {
+   "A": "the seasonal nature of the commodities'",
+   "B": "high price of the commodities",
+   "C": "the changing tastes of consumers",
+   "D": "inadequate storage facilities."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-27",
+  "subject": "economics",
+  "year": 2000,
+  "number": 27,
+  "question": "Increased output will cause farmers' revenue to decrease when market demand is",
+  "options": {
+   "A": "elastic",
+   "B": "inelastic",
+   "C": "unitaryelastic",
+   "D": "perfectly elastic."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-28",
+  "subject": "economics",
+  "year": 2000,
+  "number": 28,
+  "question": "A primary industry is concerned with",
+  "options": {
+   "A": "extraction of resources in their raw state",
+   "B": "the operation of small scale enterprises",
+   "C": "the economic activities of primary producers",
+   "D": "clearing and cultivation of land only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-29",
+  "subject": "economics",
+  "year": 2000,
+  "number": 29,
+  "question": "The slow pace of industrial growth in Nigeria can be attributed to",
+  "options": {
+   "A": "overdependence on the oil sector",
+   "B": "inadequate number of unskilled labour .~",
+   "C": "lack of raw materials",
+   "D": "inadequate infrastructural facilities."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-30",
+  "subject": "economics",
+  "year": 2000,
+  "number": 30,
+  "question": "Industries contribute to national economic develop ment because they",
+  "options": {
+   "A": "utilize local raw materials",
+   "B": "employ an increasing number of labour",
+   "C": "provide recreational facilities",
+   "D": "use modern machines which replace human labour."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-31",
+  "subject": "economics",
+  "year": 2000,
+  "number": 31,
+  "question": "The Nigerian economy is monocultural because government revenue is derived mainlY from",
+  "options": {
+   "A": "agriculture",
+   "B": "manufacturing",
+   "C": "coal",
+   "D": "crude oil."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-32",
+  "subject": "economics",
+  "year": 2000,
+  "number": 32,
+  "question": "As a producers' association, the OPEC expects its membersto maintain produc- tion wh'ere marginal cost is",
+  "options": {
+   "A": "greater than price",
+   "B": "less than price",
+   "C": "equal to price",
+   "D": "equal to average cost."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-33",
+  "subject": "economics",
+  "year": 2000,
+  "number": 33,
+  "question": "A well conducted census is important for",
+  "options": {
+   "A": "effective defence",
+   "B": "effective revenue generation",
+   "C": "good economic planning",
+   "D": "optimum population."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-34",
+  "subject": "economics",
+  "year": 2000,
+  "number": 34,
+  "question": "The age distribution of a country's population determines the",
+  "options": {
+   "A": "ratio of the de- pendent to the working group",
+   "B": "total age of all working class adults",
+   "C": "male fe male ratio",
+   "D": "percentage of married women."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-35",
+  "subject": "economics",
+  "year": 2000,
+  "number": 35,
+  "question": "Firms continue to employ workers until the wage rate equals the.",
+  "options": {
+   "A": "average product of labour",
+   "B": "marginal revenue product of labour",
+   "C": "total product of labour",
+   "D": "sum of marginal revenue and average revenue of labour."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-36",
+  "subject": "economics",
+  "year": 2000,
+  "number": 36,
+  "question": "Wage D L Labour SL = supply curve of labour DL = demand curve of labour In the diagram above, ifW₁, W₂, W₃ and W₄ are different wage rates, the minimum wa~rate is",
+  "options": {
+   "A": "W₄",
+   "B": "W₃",
+   "C": "W₂ D.W₁"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2000_p58_2.png",
+  "images": [
+   "economics/2000_p58_2.png"
+  ]
+ },
+ {
+  "id": "economics-2000-37",
+  "subject": "economics",
+  "year": 2000,
+  "number": 37,
+  "question": "A major effect of a long distribution chain is",
+  "options": {
+   "A": "high retail prices",
+   "B": "scarcity of commodities",
+   "C": "low retail prices",
+   "D": "low producer earnings."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-38",
+  "subject": "economics",
+  "year": 2000,
+  "number": 38,
+  "question": "The major function of the wholesaler to his customers",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-39",
+  "subject": "economics",
+  "year": 2000,
+  "number": 39,
+  "question": "Which of the fo!lowing is used for measuring national Income?",
+  "options": {
+   "A": "Output income and wages.",
+   "B": "Import expenditure and output.",
+   "C": "Income, output and ex penditure.",
+   "D": "Export, import and output."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-40",
+  "subject": "economics",
+  "year": 2000,
+  "number": 40,
+  "question": "Exclusions that make Gross National Product a poor measure of welfare are",
+  "options": {
+   "A": "government purchases",
+   "B": "govern ment military outlays",
+   "C": "wages and sala ries",
+   "D": "housewives' services."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-41",
+  "subject": "economics",
+  "year": 2000,
+  "number": 41,
+  "question": "An increase in money supply, other things being equal, will",
+  "options": {
+   "A": "lower interest rates",
+   "B": "reduce income",
+   "C": "ensure trade balance",
+   "D": "increase money demand."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-42",
+  "subject": "economics",
+  "year": 2000,
+  "number": 42,
+  "question": "A persistent rise in the general level of prices Implies",
+  "options": {
+   "A": "an Increase In some prices",
+   "B": "a one-time rise in pr:ices",
+   "C": "a steady fall in the purchasing power of money",
+   "D": "that the higher the price level, the morethe value of money."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-43",
+  "subject": "economics",
+  "year": 2000,
+  "number": 43,
+  "question": "Two principal ways by which banks can lend money to their customers are through",
+  "options": {
+   "A": "loans and overdrafts",
+   "B": "loans and discounting bills",
+   "C": "overdrafts and cheques",
+   "D": "overdrafts and treasury bills."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-44",
+  "subject": "economics",
+  "year": 2000,
+  "number": 44,
+  "question": "A capital market differs from the money market in that in the former",
+  "options": {
+   "A": "loan sought is short term",
+   "B": "loan repayment is guaranteed",
+   "C": "loan sought is long term",
+   "D": "the percentage of interest charged is more."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-45",
+  "subject": "economics",
+  "year": 2000,
+  "number": 45,
+  "question": "An aspect of taxation that involves normative economics is the",
+  "options": {
+   "A": "tax rate",
+   "B": "effect on incentive to work",
+   "C": "fairness of the tax",
+   "D": "tax burden."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-46",
+  "subject": "economics",
+  "year": 2000,
+  "number": 46,
+  "question": "Public, debt is composed of",
+  "options": {
+   "A": "internal debts and World bank loans",
+   "B": "money owed to local and foreign contractors",
+   "C": "internal and external debts",
+   "D": "loans granted by IMF and ADB"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-47",
+  "subject": "economics",
+  "year": 2000,
+  "number": 47,
+  "question": "A country exporting mainly primary products and with a hign percentage of her labourforce in agriculture is said to",
+  "options": {
+   "A": "developing",
+   "B": "developed",
+   "C": "poor D.underdeveloped:"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-48",
+  "subject": "economics",
+  "year": 2000,
+  "number": 48,
+  "question": "A country's import price index by 1995 was 50 and her index of export price was 70. Calculate theterms of trade.",
+  "options": {
+   "A": "20%",
+   "B": "8.71%",
+   "C": "120%",
+   "D": "140%."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-49",
+  "subject": "economics",
+  "year": 2000,
+  "number": 49,
+  "question": "If the United Kingdom buys gold for £ 60 an ounce and Nigeria buys the same ounce for N500, what will be United Kingdom's exchange rate with Nigeria?",
+  "options": {
+   "A": "£ 0.05 = N1.00 8.",
+   "B": "£ 0.06 = N1.00",
+   "C": "£0.11 = N1.00",
+   "D": "£0.12 = N1.00."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-50",
+  "subject": "economics",
+  "year": 2000,
+  "number": 50,
+  "question": "Being a member of the OPEC, Nigeria is in a favourable position to",
+  "options": {
+   "A": "export her crude oil",
+   "B": "control world crude oil prices",
+   "C": "reap the benefit of a cartel",
+   "D": "borrow money from members."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

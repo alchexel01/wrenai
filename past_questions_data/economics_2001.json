@@ -1,0 +1,935 @@
+[
+ {
+  "id": "economics-2001-1",
+  "subject": "economics",
+  "year": 2001,
+  "number": 1,
+  "question": "If the pice elasticity of demand for a good isO.43, an increase in the price of the good will result in ;",
+  "options": {
+   "A": "an increase in profit by 43%",
+   "B": "a net gain C.a decrease in profit by 43% D. a net loss"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-2",
+  "subject": "economics",
+  "year": 2001,
+  "number": 2,
+  "question": "In a free market economy the price system allocates resources",
+  "options": {
+   "A": "under government's directives",
+   "B": "to ensure general welfare",
+   "C": "to their best alternative uses",
+   "D": "to reduce poverty."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-3",
+  "subject": "economics",
+  "year": 2001,
+  "number": 3,
+  "question": "At consumer equilibrium, the slope of the indifference curve is",
+  "options": {
+   "A": "half the slope of the budget constraint line",
+   "B": "equal to the slope of the budget constraint line",
+   "C": "greater than the slope of the budget constraint line"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-4",
+  "subject": "economics",
+  "year": 2001,
+  "number": 4,
+  "question": "For a supply curve, an increase in the price of a commodity willresult in",
+  "options": {
+   "A": "a decrease in supply",
+   "B": "a decrease in the quantity supplied",
+   "C": "an increase in supply",
+   "D": "an increase in the quantity supplied."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-5",
+  "subject": "economics",
+  "year": 2001,
+  "number": 5,
+  "question": "A nominal good with close substitutes is likely to have price elasticity of demand",
+  "options": {
+   "A": "between zero and one",
+   "B": "equal to unity",
+   "C": "less than unity",
+   "D": "greater than unity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-6",
+  "subject": "economics",
+  "year": 2001,
+  "number": 6,
+  "question": "Economics is regarded as a social science because it",
+  "options": {
+   "A": "adopts the scientific method in production",
+   "B": "is an agent of socialization",
+   "C": "the scientific medod in the study of human Total Utility O Quantity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2001_p60_1.png",
+  "images": [
+   "economics/2001_p60_1.png"
+  ]
+ },
+ {
+  "id": "economics-2001-7",
+  "subject": "economics",
+  "year": 2001,
+  "number": 7,
+  "question": "The diagram above shows the total utility curve. At the point M, marginal utility",
+  "options": {
+   "A": "increases",
+   "B": "is unity",
+   "C": "diminishes",
+   "D": "is zero."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-8",
+  "subject": "economics",
+  "year": 2001,
+  "number": 8,
+  "question": "A change in supply is best described as a",
+  "options": {
+   "A": "movement along the supply C&D'Ve",
+   "B": "shift of the supply curve to the left or to the right",
+   "C": "shift of the supply curve to the left",
+   "D": "shift of the supply curve to the right"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-9",
+  "subject": "economics",
+  "year": 2001,
+  "number": 9,
+  "question": "When a generalization is made based on ohserved facts, it is known as",
+  "options": {
+   "A": "deductive reasoning",
+   "B": "inductive reasoning",
+   "C": "theoretical reasoning",
+   "D": "normative reasoning."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-10",
+  "subject": "economics",
+  "year": 2001,
+  "number": 10,
+  "question": "A major problem facing all economies is how to",
+  "options": {
+   "A": "increase consumption of imported goods",
+   "B": "improve trade among nations",
+   "C": "transform from a developing In a developed economy",
+   "D": "allocate scarce resources."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-11",
+  "subject": "economics",
+  "year": 2001,
+  "number": 11,
+  "question": "A vertical supply curve indicates that",
+  "options": {
+   "A": "the quantity supplied is responsive to price",
+   "B": "the same fixed quacl;itywill resupplied nomatter the price",
+   "C": "an increase in price will result in an increase in the quantity supplied",
+   "D": "there is a fixed price for the commodity below which no supply will be made."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-12",
+  "subject": "economics",
+  "year": 2001,
+  "number": 12,
+  "question": "In a demand curve. the lelationship between price and quantity is A in determine B. direct C. nil D. inverse.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-13",
+  "subject": "economics",
+  "year": 2001,
+  "number": 13,
+  "question": "If die arithmetic mean of 1, 2, 5, 6, and i8 is 8.0,find the value of .x",
+  "options": {
+   "A": "7.0",
+   "B": "6.0",
+   "C": "8.5",
+   "D": "8.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-14",
+  "subject": "economics",
+  "year": 2001,
+  "number": 14,
+  "question": "The fixing of the price of an item above or below the equilibrium price is mostlikely to take place in a",
+  "options": {
+   "A": "centrally planned economy",
+   "B": "free market economy",
+   "C": "developed economy",
+   "D": "mixed economy."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-15",
+  "subject": "economics",
+  "year": 2001,
+  "number": 15,
+  "question": "Aconsumer's scale of preference is an arrangement of his",
+  "options": {
+   "A": "scarce resources in order of iniportance",
+   "B": "needs in order of importance"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-16",
+  "subject": "economics",
+  "year": 2001,
+  "number": 16,
+  "question": "A firm’s shut-down point is reached when the average revenue fails to cover the",
+  "options": {
+   "A": "average variable cost",
+   "B": "marginal cost",
+   "C": "average total cost",
+   "D": "average fixed cost"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-17",
+  "subject": "economics",
+  "year": 2001,
+  "number": 17,
+  "question": "Internal economies of scale are expected to bring about",
+  "options": {
+   "A": "an increase in short-run average cost",
+   "B": "an increase-in long-run average cost",
+   "C": "a decrease in long-run average cost D a decrease in short-run avtrage cost."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-18",
+  "subject": "economics",
+  "year": 2001,
+  "number": 18,
+  "question": "In the long- run a monopolist maximizes his profit when the marginal cost equals",
+  "options": {
+   "A": "total revenue",
+   "B": "marginal revenue",
+   "C": "average cost",
+   "D": "price."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-19",
+  "subject": "economics",
+  "year": 2001,
+  "number": 19,
+  "question": "The long run is a period during which a firm",
+  "options": {
+   "A": "sells input to purchase fixed asset",
+   "B": "varies all its inputs",
+   "C": "sources all its inputs from within",
+   "D": "replaces all its inputs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-20",
+  "subject": "economics",
+  "year": 2001,
+  "number": 20,
+  "question": "An important feature of perfect competition is that",
+  "options": {
+   "A": "the movement of goods and services is restricted",
+   "B": "there is adequate knowledge of existing prices",
+   "C": "prices are centrally administered",
+   "D": "individual economic units can influence prices."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-21",
+  "subject": "economics",
+  "year": 2001,
+  "number": 21,
+  "question": "If government fixes price below the equilibrium price, what effect will it have on demand?",
+  "options": {
+   "A": "Quantity demanded and supplied will be equal.",
+   "B": "Quantity supplied will be greater than quantity demanded.",
+   "C": "Quantity demanded will increase.",
+   "D": "Quantity demanded will decrease."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-22",
+  "subject": "economics",
+  "year": 2001,
+  "number": 22,
+  "question": "An imperfect market exists-;here",
+  "options": {
+   "A": "the product is homogenous",
+   "B": "there is perfect information among the few buyers and sellers",
+   "C": "both buyers and sellers have free entry into and free exit from the market",
+   "D": "the location of some sellers gives them an advantage over others."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-23",
+  "subject": "economics",
+  "year": 2001,
+  "number": 23,
+  "question": "A production function relates",
+  "options": {
+   "A": "cost to output",
+   "B": "wage to profit",
+   "C": "cost to input",
+   "D": "oulput to input."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-24",
+  "subject": "economics",
+  "year": 2001,
+  "number": 24,
+  "question": "The table below shows demand schedule for eggs. What is the equilibrium price?",
+  "options": {
+   "A": "NIOOB. NII0",
+   "C": "N6O",
+   "D": "N80"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2001_p60_2.png",
+  "images": [
+   "economics/2001_p60_2.png"
+  ]
+ },
+ {
+  "id": "economics-2001-25",
+  "subject": "economics",
+  "year": 2001,
+  "number": 25,
+  "question": "A major advantage of specializatiun and division of labour is that",
+  "options": {
+   "A": "time wastage will be minimized",
+   "B": "trade unions will be encouraged",
+   "C": "were will be a ready market for labour",
+   "D": "workers will be adequately rewarded."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-26",
+  "subject": "economics",
+  "year": 2001,
+  "number": 26,
+  "question": "Which of lhe following is an example of a fixed cost?",
+  "options": {
+   "A": "Fuel cost.",
+   "B": "Electricity bill.",
+   "C": "Rent on building.",
+   "D": "Transportation cost."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-27",
+  "subject": "economics",
+  "year": 2001,
+  "number": 27,
+  "question": "In the agricultural sector, improved extension services facilitate",
+  "options": {
+   "A": "acquisilion of techniques",
+   "B": "arabic crop production",
+   "C": "mobility of labour",
+   "D": "livestock production."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-28",
+  "subject": "economics",
+  "year": 2001,
+  "number": 28,
+  "question": "A disadvantage of concentrating industries in an area is that it could",
+  "options": {
+   "A": "lead La collusion among we firms",
+   "B": "result in environmental pollution",
+   "C": "bring about dieconomies of scale",
+   "D": "increase lhe cost of production."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-29",
+  "subject": "economics",
+  "year": 2001,
+  "number": 29,
+  "question": "The losses suffered by a sole proprietor are",
+  "options": {
+   "A": "usually equal to the amount invested",
+   "B": "usually less than the amount invested",
+   "C": "limited to the amount invested",
+   "D": "not limited to the amount invesled."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-30",
+  "subject": "economics",
+  "year": 2001,
+  "number": 30,
+  "question": "To facilitate the exportation of crude oil from Nigeria. special",
+  "options": {
+   "A": "airtrips were constructed for jets toevacuate the oil",
+   "B": "roads were built to connect the major oil wells to the ports",
+   "C": "pipelines were laid to connect the major oil wells to the ports",
+   "D": "railway lines were constructed to connect the major oil wells to the ports."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-31",
+  "subject": "economics",
+  "year": 2001,
+  "number": 31,
+  "question": "An industry is a",
+  "options": {
+   "A": "company producing unrelated commodities",
+   "B": "group of firms producing related commodities",
+   "C": "group of firms producing distinct commodities",
+   "D": "firm producing differentiated commodities."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-32",
+  "subject": "economics",
+  "year": 2001,
+  "number": 32,
+  "question": "The raising of funds by selling stocks to the public is called",
+  "options": {
+   "A": "equity financing",
+   "B": "stock financing",
+   "C": "debt financing",
+   "D": "loan financing."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-33",
+  "subject": "economics",
+  "year": 2001,
+  "number": 33,
+  "question": "A tax that increases at a higher percentage as income increases is called",
+  "options": {
+   "A": "a proportional tax",
+   "B": "a regressive tax",
+   "C": "a progressive tax",
+   "D": "an income tax."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-34",
+  "subject": "economics",
+  "year": 2001,
+  "number": 34,
+  "question": "The price paid for labour services is the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-35",
+  "subject": "economics",
+  "year": 2001,
+  "number": 35,
+  "question": "The capital market is a market for tnKJin:9(:\" financial assets such as",
+  "options": {
+   "A": "bankers acceptances",
+   "B": "treasury bills",
+   "C": "long-term securities",
+   "D": "commercial papers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-36",
+  "subject": "economics",
+  "year": 2001,
+  "number": 36,
+  "question": "In national income accounting. NNP is derived by subtracting from the GNP",
+  "options": {
+   "A": "uansfer payments",
+   "B": "indirect taxes",
+   "C": "allowance for wastage",
+   "D": "capital consumption."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-37",
+  "subject": "economics",
+  "year": 2001,
+  "number": 37,
+  "question": "Economic growth can be accelerated through",
+  "options": {
+   "A": "balancing of savings and consumption",
+   "B": "postponement of current consumption",
+   "C": "planned current consumption",
+   "D": "increased current consumption."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-38",
+  "subject": "economics",
+  "year": 2001,
+  "number": 38,
+  "question": "An increase in the discount rate is an indication of a Central Banks intention to pursue",
+  "options": {
+   "A": "an expansionary monetary policy",
+   "B": "a disciplined monetary policy",
+   "C": "a dynamic monetary policy",
+   "D": "a contractionary monetary policy."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-39",
+  "subject": "economics",
+  "year": 2001,
+  "number": 39,
+  "question": "The efficiency of labour can be. increased by",
+  "options": {
+   "A": "constant training of workers",
+   "B": "retirement'ofworkers on a regular basis",
+   "C": "engaging expatriates only",
+   "D": "placing an embargo on recruitment. ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-40",
+  "subject": "economics",
+  "year": 2001,
+  "number": 40,
+  "question": "In Nigeria, revenue sharing from the Federation accou.nt is between the",
+  "options": {
+   "A": "executive the judiciary and the legislature",
+   "B": "federal and state governments and the. parastatals",
+   "C": "federal and state governments and the senate",
+   "D": "federal state and local governments. ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-41",
+  "subject": "economics",
+  "year": 2001,
+  "number": 41,
+  "question": "The reduction of high fertility rate is a measure in population control designed to make the",
+  "options": {
+   "A": "female population higher than the male",
+   "B": "female and male population equal",
+   "C": "male population higher than the female",
+   "D": "growth in population more sustainable"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-42",
+  "subject": "economics",
+  "year": 2001,
+  "number": 42,
+  "question": "National debt is an expected outcome of a",
+  "options": {
+   "A": "deficit budget",
+   "B": "consolidated budget",
+   "C": "balanced budget",
+   "D": "surplus budget."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-43",
+  "subject": "economics",
+  "year": 2001,
+  "number": 43,
+  "question": "The distribution channel that contributes most to the cost of productfon is",
+  "options": {
+   "A": "producer-wholesaler-consumer",
+   "B": "producer-retailer-consumer C producer -retailer -wholesaler-consumer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-44",
+  "subject": "economics",
+  "year": 2001,
+  "number": 44,
+  "question": "Money may not be accepted as a store of value if",
+  "options": {
+   "A": "its value is unstable",
+   "B": "it is easily transferable",
+   "C": "its value is stable",
+   "D": "it is easily divisible"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-45",
+  "subject": "economics",
+  "year": 2001,
+  "number": 45,
+  "question": "In order to accelerate economic development a country must A stimulate her population growth rate",
+  "options": {
+   "B": "pursue a high population growth rate",
+   "C": "pursue arational populationpolicy",
+   "D": "pursue an incremental population policy."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-46",
+  "subject": "economics",
+  "year": 2001,
+  "number": 46,
+  "question": "If the laboul force in a given community is 2,000,000, in the wage employment 200,000 and the unemployed are 80,000, what is the unemployment rate in the community?",
+  "options": {
+   "A": "0.4%",
+   "B": "40.0%",
+   "C": "10.0%",
+   "D": "0.4.0%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-47",
+  "subject": "economics",
+  "year": 2001,
+  "number": 47,
+  "question": "GNP is not a good measure of social welfare because there are unrecorded",
+  "options": {
+   "A": "indirect taxes",
+   "B": "social costs",
+   "C": "government subsidies",
+   "D": "transfer payments"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-48",
+  "subject": "economics",
+  "year": 2001,
+  "number": 48,
+  "question": "The loans from the World Bank to developing countries are mainly to support",
+  "options": {
+   "A": "the establishment of more universities",
+   "B": "capital-intensive technology",
+   "C": "infrastructural investments",
+   "D": "their low level of consumption."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-49",
+  "subject": "economics",
+  "year": 2001,
+  "number": 49,
+  "question": "The major reason why nations engage in international trade is that",
+  "options": {
+   "A": "it allows free movement of factors of production",
+   "B": "it makes possible the use of capital- intensive method of production.",
+   "C": "nations are substantially different in their endowments of economic resources",
+   "D": "it affords the trading nations the opportunity to earn high profit."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2001-50",
+  "subject": "economics",
+  "year": 2001,
+  "number": 50,
+  "question": "A country with over-valued currency will",
+  "options": {
+   "A": "expect balance of payments surplus",
+   "B": "have increased demand for her exports",
+   "C": "increase her foreign reserve",
+   "D": "decrease her foreign reserve"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

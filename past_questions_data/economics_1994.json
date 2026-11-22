@@ -1,0 +1,905 @@
+[
+ {
+  "id": "economics-1994-1",
+  "subject": "economics",
+  "year": 1994,
+  "number": 1,
+  "question": "The basic economic problems of the society include",
+  "options": {
+   "A": "What to produce, how and or whom",
+   "B": "How to produce and sell",
+   "C": "Scarcity, when to produce and how"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-2",
+  "subject": "economics",
+  "year": 1994,
+  "number": 2,
+  "question": "Opportunity cost is an economic cost is an economic concept which describes the",
+  "options": {
+   "A": "Monetary equivalent of the utility of a commodity",
+   "B": "Amount of time or money invested on a",
+   "D": "Cost of retaining an optimum level of production of commodities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-3",
+  "subject": "economics",
+  "year": 1994,
+  "number": 3,
+  "question": "If the marginal propensity to consume is 0.80 and the investment expenditure changes from N100 million to N140 million in a given economy, find the level of equilibrium in te given economy, using the formula K = 1-MPC ( K = Multiplier; MPC = Marginal Propensity to Consume)",
+  "options": {
+   "A": "N20 million",
+   "B": "N40 million",
+   "C": "N80 million",
+   "D": "N200 million"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-4",
+  "subject": "economics",
+  "year": 1994,
+  "number": 4,
+  "question": "The circular flow of income defines the",
+  "options": {
+   "A": "Relationship between ends and means in the economic system",
+   "B": "Allocation of income to various members of the household",
+   "C": "Flow of goods, serves and money among the various `macro-sectors of the economy",
+   "D": "Micro-economic relationship in economic analysis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-5",
+  "subject": "economics",
+  "year": 1994,
+  "number": 5,
+  "question": "The necessity of choice is due to the fact that",
+  "options": {
+   "A": "Human wants are insatiable",
+   "B": "Consumer like to maximize satisfaction",
+   "C": "Resources are abundant",
+   "D": "Consumer are selective"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-6",
+  "subject": "economics",
+  "year": 1994,
+  "number": 6,
+  "question": "The graph above represents a production function. At which of the points does diminishing returns set in? Oᵤₜₚᵤ Vₐᵣᵢₐbₗₑ Fₐcₜₒᵣ",
+  "options": {
+   "A": "I",
+   "B": "J",
+   "C": "K",
+   "D": "L"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1994_p40_1.png",
+  "images": [
+   "economics/1994_p40_1.png"
+  ]
+ },
+ {
+  "id": "economics-1994-7",
+  "subject": "economics",
+  "year": 1994,
+  "number": 7,
+  "question": "In a mixed economy, decisions to produce are taken",
+  "options": {
+   "A": "Men and women acting in their own best interest",
+   "B": "The government acting in the interest of the country",
+   "C": "The market women, the labour unions and the employers association",
+   "D": "Private individuals, organization and the government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-8",
+  "subject": "economics",
+  "year": 1994,
+  "number": 8,
+  "question": "Every economy requires an accurate census because it assists in",
+  "options": {
+   "A": "Solving inflation problem",
+   "B": "Proving a sound framework for policy formulation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-9",
+  "subject": "economics",
+  "year": 1994,
+  "number": 9,
+  "question": "The population fo country X in 1990 was 35 million. The births were 450,000 while it recorded 210,00 deaths. If in the same year, its immigrants were 20,000 and 10,000 of its citizens left the country, calculate the total population of the country at the end of 1990.",
+  "options": {
+   "A": "24,250.00",
+   "B": "25,350.00",
+   "C": "34,750.00",
+   "D": "35,250.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-10",
+  "subject": "economics",
+  "year": 1994,
+  "number": 10,
+  "question": "If the actual population in a country is less than the optimum population, then",
+  "options": {
+   "A": "It is desirable to have a large population",
+   "B": "It is necessary to have an improved technol ogy to sustain the population",
+   "C": "It is desirable to have smaller population",
+   "D": "The available resources are inadequate to sustain the population"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-11",
+  "subject": "economics",
+  "year": 1994,
+  "number": 11,
+  "question": "Unemployment can be reduced by",
+  "options": {
+   "A": "Restricting the productive base of the economy",
+   "B": "Adopting capital - intensive techniques of production",
+   "C": "Adopting a mixture of labour and capital intensive techniques of production",
+   "D": "Adopting a mixture of labour and capital- intensive techniques of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-12",
+  "subject": "economics",
+  "year": 1994,
+  "number": 12,
+  "question": "ₛd W g l atᵢₚN O M N Consumer goods Production possibility curve of country X If the economy of the country is operating X, the implication is that",
+  "options": {
+   "A": "The productive capacity is being fully utilized",
+   "B": "The productive capacity is not being fully utilized",
+   "C": "Too little of consumer goods is being produced",
+   "D": "There is a disequilibrium between the production of capital and consumer goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1994_p40_2.png",
+  "images": [
+   "economics/1994_p40_2.png"
+  ]
+ },
+ {
+  "id": "economics-1994-13",
+  "subject": "economics",
+  "year": 1994,
+  "number": 13,
+  "question": "When the Total Product (TP) is at maximum point, the Marginal Product (MP) and the Average Product (AP) respectively are",
+  "options": {
+   "A": "Zero and decreasing",
+   "B": "Decreasing and zero",
+   "C": "Negative and decreasing",
+   "D": "Both at their maximum"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-14",
+  "subject": "economics",
+  "year": 1994,
+  "number": 14,
+  "question": "In the long run, all production factors are",
+  "options": {
+   "A": "Fixed",
+   "B": "Semi-fixed",
+   "C": "Variable",
+   "D": "Semi-variable"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-15",
+  "subject": "economics",
+  "year": 1994,
+  "number": 15,
+  "question": "Acompany’s expenditure on rawmaterials is regarded as",
+  "options": {
+   "A": "Explicit cost",
+   "B": "Implicit cost",
+   "C": "Prime cost",
+   "D": "Average cost"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-17",
+  "subject": "economics",
+  "year": 1994,
+  "number": 17,
+  "question": "A firm determines its profits when it studies its",
+  "options": {
+   "A": "Marginal Cost",
+   "B": "Average Cost",
+   "C": "Total Cost",
+   "D": "Average Cost relative to price in the market"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-18",
+  "subject": "economics",
+  "year": 1994,
+  "number": 18,
+  "question": "An increase in the supply of labour in a factory while other things remain equal will lead to",
+  "options": {
+   "A": "An increase in the wage rate and an increase in the number of people employed",
+   "B": "A decrease in the wage rate and a decrease in employment",
+   "C": "An increase in the wage rate and decrease in employment",
+   "D": "A decrease in the wage rate and an increase in employment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-19",
+  "subject": "economics",
+  "year": 1994,
+  "number": 19,
+  "question": "A demand which is positively related to price is true of",
+  "options": {
+   "A": "Normal goods",
+   "B": "Giffen goods",
+   "C": "Ostentatious goods",
+   "D": "Capital goods Use the table below to answer 20 and 21"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1994_p41_1.png",
+  "images": [
+   "economics/1994_p41_1.png"
+  ]
+ },
+ {
+  "id": "economics-1994-20",
+  "subject": "economics",
+  "year": 1994,
+  "number": 20,
+  "question": "What is the equilibrium quantity?",
+  "options": {
+   "A": "50",
+   "B": "250",
+   "C": "350",
+   "D": "450"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-21",
+  "subject": "economics",
+  "year": 1994,
+  "number": 21,
+  "question": "Abovetheequilibrium point, a further rise in price tends to",
+  "options": {
+   "A": "Increase demand and restrict supply",
+   "B": "Restrict demand and restrict supply",
+   "C": "Increase demand and decrease supply",
+   "D": "Decrease demand and increase supply"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1994_p41_2.png",
+  "images": [
+   "economics/1994_p41_2.png"
+  ]
+ },
+ {
+  "id": "economics-1994-22",
+  "subject": "economics",
+  "year": 1994,
+  "number": 22,
+  "question": "From the table above, marginal revenue is",
+  "options": {
+   "A": "N5",
+   "B": "N6",
+   "C": "N8",
+   "D": "N10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-23",
+  "subject": "economics",
+  "year": 1994,
+  "number": 23,
+  "question": "Elasticity of demand is an effective tool in the hands of a producer in that it enables him",
+  "options": {
+   "D": "Set his price to maximize his profit"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-24",
+  "subject": "economics",
+  "year": 1994,
+  "number": 24,
+  "question": "Cross elasticity of demand can be mathematically expressed as the",
+  "options": {
+   "A": "Percentage change in quantity of commodityX Percentage change in quantity of commodity Y",
+   "B": "Percentage change in quantity demanded percentage change in price",
+   "C": "Percentage change in quantity demanded of commodity X Percentage change in price of commodity Y",
+   "D": "Percentage change in quantity demanded Percentage change in income"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-25",
+  "subject": "economics",
+  "year": 1994,
+  "number": 25,
+  "question": "The basic idea behind brand differentiation under an imperfect market arrangement is to",
+  "options": {
+   "A": "Stimulate demand for rival product",
+   "B": "Create demand for the particular product",
+   "C": "Enable the product to penetrate the market",
+   "D": "Enable the product to compete with others"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-26",
+  "subject": "economics",
+  "year": 1994,
+  "number": 26,
+  "question": "In the long run, a firm in a perfectly competitive market will make",
+  "options": {
+   "A": "Normal profit",
+   "B": "Abnormal profit",
+   "C": "Marginal profit",
+   "D": "No profit"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-27",
+  "subject": "economics",
+  "year": 1994,
+  "number": 27,
+  "question": "Output restriction, fixing of prices, creating obstacles, to free entry into the market are features of",
+  "options": {
+   "A": "Pure monopoly",
+   "B": "Perfect competition",
+   "C": "Monopolistic competition",
+   "D": "Monopsonist competition"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-28",
+  "subject": "economics",
+  "year": 1994,
+  "number": 28,
+  "question": "A major shortcoming of the sole proprietorship form of business is lack of",
+  "options": {
+   "A": "Working capital",
+   "B": "Patronage",
+   "C": "Continuity",
+   "D": "Market"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-29",
+  "subject": "economics",
+  "year": 1994,
+  "number": 29,
+  "question": "In theevent of liquidation of a privatelimited liability company, t he shareholder’s liabilityis limited totheir total.",
+  "options": {
+   "A": "Income from all source",
+   "B": "Family assets",
+   "C": "Collateral offered for bank loans",
+   "D": "Investments in the company"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-30",
+  "subject": "economics",
+  "year": 1994,
+  "number": 30,
+  "question": "The major factor that causes fluctuations in the supply of agricultural produce is",
+  "options": {
+   "A": "High price",
+   "B": "Pests",
+   "C": "Weather variations",
+   "D": "Rural-urban migration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-31",
+  "subject": "economics",
+  "year": 1994,
+  "number": 31,
+  "question": "The system of agricultural practice which involves hunting, gathering and growing of food crops for family consumption only is described as",
+  "options": {
+   "A": "Peasant agriculture B.Plantation agriculture",
+   "C": "Co-operative farming",
+   "D": "Subsistence farming"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-32",
+  "subject": "economics",
+  "year": 1994,
+  "number": 32,
+  "question": "What is the term used to describe a policy aimed at promoting the local production of goods which are",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-33",
+  "subject": "economics",
+  "year": 1994,
+  "number": 33,
+  "question": "Labour-intensive strategy fo industrialization emphasizes the use of",
+  "options": {
+   "A": "Stem",
+   "B": "Manual method of production",
+   "C": "Synthetic raw materials D.Hydro-electric power"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-34",
+  "subject": "economics",
+  "year": 1994,
+  "number": 34,
+  "question": "Petroleum is the mainstay of the Nigerian economy because it is the",
+  "options": {
+   "A": "Main foreign exchange earner",
+   "B": "Greatest employer to labour",
+   "C": "Greater contributors tothe growth of agriculture",
+   "D": "Source of high income for its workers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-35",
+  "subject": "economics",
+  "year": 1994,
+  "number": 35,
+  "question": "An indigenous company wholly owned by the federal government of Niger which currently engages in prospecting for oil is",
+  "options": {
+   "A": "The Nigerian National Oil Company",
+   "B": "Peak Petroleum Industries Nigeria Limited",
+   "C": "Nigeria Exploration and Production Company",
+   "D": "The Nigeria National Petroleum Corporation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-36",
+  "subject": "economics",
+  "year": 1994,
+  "number": 36,
+  "question": "An increase both the legal reserve ratio and discount rate has the effect of",
+  "options": {
+   "A": "Increasing the quantity of money in circula tion",
+   "B": "Decreasing the quantity of money in circulation",
+   "C": "Increasing the value of money",
+   "D": "Decreasing the value of money"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-37",
+  "subject": "economics",
+  "year": 1994,
+  "number": 37,
+  "question": "Inflation in the Nigeria economybay be fueled by increase in",
+  "options": {
+   "A": "The dollar price of crude oil",
+   "B": "The sale of company share",
+   "C": "Government expenditure",
+   "D": "Sale of government bond"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-38",
+  "subject": "economics",
+  "year": 1994,
+  "number": 38,
+  "question": "Gresham’s law in economic shows that",
+  "options": {
+   "A": "Good money drives out bad money",
+   "B": "Bad money drivers out good money",
+   "C": "The value of money varies inversely with the price level",
+   "D": "Gold must be available to maintain the value of paper money"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-39",
+  "subject": "economics",
+  "year": 1994,
+  "number": 39,
+  "question": "Monetary policy aimed at reducing demand-pull inflation in the country may be carried out through",
+  "options": {
+   "A": "Increase in taxation of private companies, public corporation and private individuals",
+   "B": "Increase in cash reserve ratio of commercial banks and the sales of government securities",
+   "C": "Decrease in government expenditure on education",
+   "D": "Direct price control in the market place"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-40",
+  "subject": "economics",
+  "year": 1994,
+  "number": 40,
+  "question": "Progressive tax structure is designed to",
+  "options": {
+   "A": "Take more from the income of the poor",
+   "B": "Take more from the income of the rich",
+   "C": "Take equal proportion of income from both the rich and the poor",
+   "D": "Reduce the problems emanating from tax impositon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-42",
+  "subject": "economics",
+  "year": 1994,
+  "number": 42,
+  "question": "The national income of a country indicates that the gross national income was N17 700 million and gross domestic product was N16 800 million. The difference of N900 million represents",
+  "options": {
+   "A": "Debt repayments",
+   "B": "investments abroad",
+   "C": "net income from abroad",
+   "D": "capital consumption"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-43",
+  "subject": "economics",
+  "year": 1994,
+  "number": 43,
+  "question": "If national income rises by 6% and population rises by 3%, per capital income will",
+  "options": {
+   "A": "Rise by 6 percent",
+   "B": "Fall by 3 percent",
+   "C": "Fall by 6 percent",
+   "D": "Rise by 3 percent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-44",
+  "subject": "economics",
+  "year": 1994,
+  "number": 44,
+  "question": "One of the ways by which the government can speed up economic development is through the",
+  "options": {
+   "A": "Increase in consumption pattern of the people",
+   "B": "Encouragement of savings, investment and equitable distribution of goods and services",
+   "C": "Increase in the rate of population growth so as to ensure that the country has a large labour force",
+   "D": "Encourage of importation of raw materials to produce consumers goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-45",
+  "subject": "economics",
+  "year": 1994,
+  "number": 45,
+  "question": "A sustained increase in the production of goods and services in a country is called economic",
+  "options": {
+   "A": "Development",
+   "B": "Growth",
+   "C": "Diversification",
+   "D": "Planning"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-46",
+  "subject": "economics",
+  "year": 1994,
+  "number": 46,
+  "question": "One of the techniques for rectifying a deficit balance of payment is",
+  "options": {
+   "A": "Import promotion",
+   "B": "Devaluation",
+   "C": "Physical intervention",
+   "D": "Borrowing from abroad"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-47",
+  "subject": "economics",
+  "year": 1994,
+  "number": 47,
+  "question": "The main objective of the Economic Community of West African State is to",
+  "options": {
+   "A": "Establish a West African Development Bank",
+   "B": "Create a West African army",
+   "C": "Introduce a common currency for the sub- region",
+   "D": "Promote the free movement of persons, goods and services within the sub-region"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-48",
+  "subject": "economics",
+  "year": 1994,
+  "number": 48,
+  "question": "In international trade, shipping and other freight charges are treated as",
+  "options": {
+   "A": "Invisible items",
+   "B": "Unilateral transfers",
+   "C": "Capital transactions",
+   "D": "Autonomous capital transactions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-49",
+  "subject": "economics",
+  "year": 1994,
+  "number": 49,
+  "question": "A situation in which a commodity is sold abroad below its cost fo production in the home country is known is",
+  "options": {
+   "A": "Dumping",
+   "B": "Counter trade",
+   "C": "Bilateral trade",
+   "D": "Trade liberalization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1994-50",
+  "subject": "economics",
+  "year": 1994,
+  "number": 50,
+  "question": "The borrowing rights of a member country of the international Monetary Fund are determined by",
+  "options": {
+   "A": "The seriousness of the country’s economic problems"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

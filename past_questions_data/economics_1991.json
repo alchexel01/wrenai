@@ -1,0 +1,948 @@
+[
+ {
+  "id": "economics-1991-1",
+  "subject": "economics",
+  "year": 1991,
+  "number": 1,
+  "question": "In market economy, the question of what, how and for whom to produce are solved by the",
+  "options": {
+   "A": "Elected representatives of the people",
+   "B": "Planning committee",
+   "C": "Price mechanism",
+   "D": "Government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-2",
+  "subject": "economics",
+  "year": 1991,
+  "number": 2,
+  "question": "Economic goods are termed scarce goods when they are",
+  "options": {
+   "A": "Not available insufficient quantities to satisfy all wants for them",
+   "B": "Not produced in sufficient quantities to satisfy the effective demand them",
+   "C": "Of high quality",
+   "D": "Of primary importance in satisfying the needs of a society"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-3",
+  "subject": "economics",
+  "year": 1991,
+  "number": 3,
+  "question": "A school girl who needs a book and mirror, each costing five naira, decides to purchase the book instead of the mirror since she cannot pay for the two at the same time. Determine the real cost of her books",
+  "options": {
+   "A": "The five naira she spent on the book",
+   "B": "Five naira real cash value",
+   "C": "The mirror",
+   "D": "The book"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-4",
+  "subject": "economics",
+  "year": 1991,
+  "number": 4,
+  "question": "Macroeconomics is a study of economic science from the point of view of",
+  "options": {
+   "A": "Resource markets or production units",
+   "B": "Individual producers of consumers",
+   "C": "Aggregate or general economy",
+   "D": "Companies or individual firms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-5",
+  "subject": "economics",
+  "year": 1991,
+  "number": 5,
+  "question": "In combining inputs x and y the entrepreneur obtains the maximum output from a given money outlay when",
+  "options": {
+   "A": "Px = Py Mpx Mpy",
+   "B": "Mpx = Mpy Px Py",
+   "C": "Px.MPx=Py.MPy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-6",
+  "subject": "economics",
+  "year": 1991,
+  "number": 6,
+  "question": "If units of a variable factor are increasingly added to a fixed factor and the marginal physical product keeps increasing, production is said to be taking place under condition of",
+  "options": {
+   "A": "Increasing returns to the variable factor",
+   "B": "Increasing returns to scale",
+   "C": "Constant returns to the variable factor",
+   "D": "External economies of scale"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-7",
+  "subject": "economics",
+  "year": 1991,
+  "number": 7,
+  "question": "At any given level of output, the total cost of a firm equals the",
+  "options": {
+   "A": "Marginal cost plus the average cost",
+   "B": "Fixed costs less its variable cost",
+   "C": "Average cost multiplied by its output",
+   "D": "Economic costs multiplied by variable costs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-8",
+  "subject": "economics",
+  "year": 1991,
+  "number": 8,
+  "question": "At any given level of output, a firm’s total variable cost equals",
+  "options": {
+   "A": "Total cost less marginal cost",
+   "B": "Total cost less total fixed cost",
+   "C": "Total cost less average cost",
+   "D": "Average variable cost and marginal variable cost"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-9",
+  "subject": "economics",
+  "year": 1991,
+  "number": 9,
+  "question": "Consider the following diagram where XYZ repre sent the average cost curve of a firm. XY shows that as output increases the average cost declines. However, this decline cannot continue indefinitely because of",
+  "options": {
+   "A": "Managerial economies",
+   "B": "Indivisibilities",
+   "C": "The extent of the market",
+   "D": "The pooling of dissimilar risks"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1991_p29_1.png",
+  "images": [
+   "economics/1991_p29_1.png"
+  ]
+ },
+ {
+  "id": "economics-1991-10",
+  "subject": "economics",
+  "year": 1991,
+  "number": 10,
+  "question": "If the price of a ball point pen falls from N1.00 to N0.60 and the quantity demanded increases from 200 to 300, the point elasticity of demand is equal to.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-11",
+  "subject": "economics",
+  "year": 1991,
+  "number": 11,
+  "question": "If a society is operating on the production possibility curve, this implies that the resources are",
+  "options": {
+   "A": "Fully and efficiently utilised",
+   "B": "Fully but inefficiently utilised",
+   "C": "Efficiently but not fully utilised",
+   "D": "Abundant"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-12",
+  "subject": "economics",
+  "year": 1991,
+  "number": 12,
+  "question": "A market is in disequilibrium if",
+  "options": {
+   "A": "The quantity purchased is greater than the quantity sold",
+   "B": "The quantity sold differs from the quantity purchased",
+   "C": "At a lower price, a larger quantity is sold",
+   "D": "The quantity demanded differs from the quantity supplied Use the diagram below to answer questions 13 and 14, MC AC MR = AR = AR = P iₚr X Y Z Quantity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1991_p30_1.png",
+  "images": [
+   "economics/1991_p30_1.png"
+  ]
+ },
+ {
+  "id": "economics-1991-13",
+  "subject": "economics",
+  "year": 1991,
+  "number": 13,
+  "question": "The excess profit made by the firm in the short-run is represented by",
+  "options": {
+   "A": "ORTZ",
+   "B": "OPVY",
+   "C": "QRTW",
+   "D": "ORSX"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-14",
+  "subject": "economics",
+  "year": 1991,
+  "number": 14,
+  "question": "The long-run equilibrium price and quantity for the firm are respectively",
+  "options": {
+   "A": "OP, OY",
+   "B": "OR, OZ",
+   "C": "OR, OX",
+   "D": "OQ, OZ"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-15",
+  "subject": "economics",
+  "year": 1991,
+  "number": 15,
+  "question": "The cross-elasticity of demand between complemen tary goods is",
+  "options": {
+   "A": "Unitary",
+   "B": "Positive",
+   "C": "Zero",
+   "D": "Negative"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-16",
+  "subject": "economics",
+  "year": 1991,
+  "number": 16,
+  "question": "Resources are efficiently allocated when production takes place at that output where price equals",
+  "options": {
+   "A": "Marginal revenue",
+   "B": "Average variable cost",
+   "C": "Marginal cost",
+   "D": "Total cost"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-17",
+  "subject": "economics",
+  "year": 1991,
+  "number": 17,
+  "question": "Comparison of the price and output decisions of a perfectly competitive firm with those of a monopolist shows that the",
+  "options": {
+   "A": "Monopolist charges a lower price than the perfect competitor",
+   "B": "Perfect competitor charges a lower price and produces a larger output than the monopo list",
+   "C": "Perfect competitor produces a smaller output than the monopolist",
+   "D": "Monopolist charges a lower price and produces a larger output than the perfect 1000 MC (#/ton) 10 6 12 14"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1991_p30_2.png",
+  "images": [
+   "economics/1991_p30_2.png"
+  ]
+ },
+ {
+  "id": "economics-1991-18",
+  "subject": "economics",
+  "year": 1991,
+  "number": 18,
+  "question": "Consider the table above showing output (Q), total cost (TC) of production and marginal cost (MC) for a firm in a competitive market. Suppose price (P) = N12, what is the maximum profit the firm can make?",
+  "options": {
+   "A": "N2 000.00",
+   "B": "N1 200.00",
+   "C": "N1 000.00",
+   "D": "N400.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-19",
+  "subject": "economics",
+  "year": 1991,
+  "number": 19,
+  "question": "In a perfectly competitive market, the firm is in long- run equilibrium at the output where",
+  "options": {
+   "A": "Marginal cost is minimum",
+   "B": "Average cost is minimum",
+   "C": "Total revenue is maximum",
+   "D": "Marginal revenue is maximum Use the diagram below to answer questions 20 to 22"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1991_p30_3.png",
+  "images": [
+   "economics/1991_p30_3.png"
+  ]
+ },
+ {
+  "id": "economics-1991-20",
+  "subject": "economics",
+  "year": 1991,
+  "number": 20,
+  "question": "The firm portrayed is selling in",
+  "options": {
+   "A": "A purely competitive market",
+   "B": "A market in which demand is elastic at all prices",
+   "C": "An imperfectly competitive market",
+   "D": "A market in which companies produce homogeneous commodities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-21",
+  "subject": "economics",
+  "year": 1991,
+  "number": 21,
+  "question": "Demand is relatively inelastic",
+  "options": {
+   "A": "At P2 range",
+   "B": "In the P2 P4 price range",
+   "C": "At P3 only",
+   "D": "At any prices below P2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-22",
+  "subject": "economics",
+  "year": 1991,
+  "number": 22,
+  "question": "Which of the following statements must hold if price discrimination is to be possible?",
+  "options": {
+   "A": "Elasticities in thevariousmarkets must not differ",
+   "B": "The seller must recognise",
+   "C": "The markets must not be separated but integrated",
+   "D": "The markets should be separable but there should be no resale"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-23",
+  "subject": "economics",
+  "year": 1991,
+  "number": 23,
+  "question": "The ordinary partner in a partnership",
+  "options": {
+   "A": "Takes no active parti in management of the business",
+   "B": "haslimited liabilityin case of businessfailure",
+   "C": "Hasunlimited liabilityin case of business failure",
+   "D": "Cannot be sued personally on matters relating to the business"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-24",
+  "subject": "economics",
+  "year": 1991,
+  "number": 24,
+  "question": "A possible factor which limits the extent of growth of a firm is the",
+  "options": {
+   "A": "Existence of a monopoly",
+   "B": "Bureaucratic delays in decision-making"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-25",
+  "subject": "economics",
+  "year": 1991,
+  "number": 25,
+  "question": "One of the most outstanding disadvantage of co- operative societies as business organization is that",
+  "options": {
+   "A": "True spirit of co-operation is marred by delegated authority",
+   "B": "Members show much interest",
+   "C": "It is poorly financed",
+   "D": "Membership interest is centered on sharing of essential commodities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-26",
+  "subject": "economics",
+  "year": 1991,
+  "number": 26,
+  "question": "A disadvantage of a join-stock company is",
+  "options": {
+   "A": "Unlimited liability",
+   "B": "Limited liability",
+   "C": "Continuity",
+   "D": "Loss of controlling interest"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-27",
+  "subject": "economics",
+  "year": 1991,
+  "number": 27,
+  "question": "A characteristic of a debenture is that",
+  "options": {
+   "A": "Its yield is based on profits",
+   "B": "Its yield is a fixed rate of interest",
+   "C": "It has no redemption date",
+   "D": "There is a voting when interest is paid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-28",
+  "subject": "economics",
+  "year": 1991,
+  "number": 28,
+  "question": "Industries tend to be located closer to market centres than to the sources of major raw materials if the",
+  "options": {
+   "A": "Products are relatively cheap to transport to market centres",
+   "B": "Products are relatively more expensively to transport are relatively more expensive to transport than the major raw materials",
+   "C": "Raw materials are bulky",
+   "D": "Raw materials can also be imported"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-29",
+  "subject": "economics",
+  "year": 1991,
+  "number": 29,
+  "question": "One disadvantage of trade by barter is that",
+  "options": {
+   "A": "People are happier when they exchange the same quantities of goods through the medium of money rather than by baster",
+   "B": "The person wishing to buy good X may not have good Y which is what the other person wants",
+   "C": "One person must always be cheated when trade takes place by barter",
+   "D": "It increase the initial cost of producing goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-30",
+  "subject": "economics",
+  "year": 1991,
+  "number": 30,
+  "question": "One of the functions of Development Banks is to",
+  "options": {
+   "A": "Mint money for the development of the economy",
+   "B": "Provide short-term loans to commercial banks",
+   "C": "Provide medium and long-term finance for development of the banking system",
+   "D": "Provide medium and long-term finance for the development of the economy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-31",
+  "subject": "economics",
+  "year": 1991,
+  "number": 31,
+  "question": "To perform its function as a store of wealth and standard for deferred payment, money must be",
+  "options": {
+   "A": "Portable",
+   "B": "In attractive form",
+   "C": "Stable in value",
+   "D": "Spent more on capital goods than on consumer goods"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-32",
+  "subject": "economics",
+  "year": 1991,
+  "number": 32,
+  "question": "Fiduciary issue is that part of",
+  "options": {
+   "D": "A country’s currency officially issued"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-33",
+  "subject": "economics",
+  "year": 1991,
+  "number": 33,
+  "question": "An effect of inflation is that is",
+  "options": {
+   "A": "Discourages trade by barter",
+   "B": "Favours debtors at the expense fo creditors",
+   "C": "Increases the real income of salary earners",
+   "D": "Increases the value of a country’s exports"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-34",
+  "subject": "economics",
+  "year": 1991,
+  "number": 34,
+  "question": "Banks aid economic expansion and development by",
+  "options": {
+   "A": "Being very strict in lending policies",
+   "B": "Mobilizing savings for investment lending",
+   "C": "Paying interest on deposit accounts",
+   "D": "Charging high interest on loans"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-35",
+  "subject": "economics",
+  "year": 1991,
+  "number": 35,
+  "question": "The term ‘Stock of Capital’ means",
+  "options": {
+   "A": "Amount of money necessary to start a business",
+   "B": "Total amount receiveable by all factors of production",
+   "C": "Amount of equipment plant and inventory existing at a time",
+   "D": "Total amount available for economic development"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-36",
+  "subject": "economics",
+  "year": 1991,
+  "number": 36,
+  "question": "A tax that takes an increasing fractional of income as income goes down is called",
+  "options": {
+   "A": "Conditional",
+   "B": "Regressive",
+   "C": "Progressive",
+   "D": "Proportional"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-37",
+  "subject": "economics",
+  "year": 1991,
+  "number": 37,
+  "question": "Budget deficit is the amount by which",
+  "options": {
+   "A": "Total expenditure exceeds revenue",
+   "B": "Recurrent expenditure exceeds revenue",
+   "C": "Capital expenditure exceeds revenue",
+   "D": "Recurrent expenditure exceeds capital expenditure"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-38",
+  "subject": "economics",
+  "year": 1991,
+  "number": 38,
+  "question": "The average tax rate is defined as",
+  "options": {
+   "A": "Total tax rate less the marginal tax rate",
+   "B": "The tax rate which applies to additional value of income",
+   "C": "The ratio of total taxes paid to total income",
+   "D": "Marginal tax rate for being progressive"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-39",
+  "subject": "economics",
+  "year": 1991,
+  "number": 39,
+  "question": "Personal distribution of income implies",
+  "options": {
+   "A": "The way income is distributed among specific households or spending units",
+   "B": "The distribution of income according to basic resource classes",
+   "C": "Dividing income according to industries",
+   "D": "Dividing income between personal taxes consumption expenditures and savings"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-40",
+  "subject": "economics",
+  "year": 1991,
+  "number": 40,
+  "question": "One of the advantages of international trade is that is",
+  "options": {
+   "A": "Increases world output",
+   "B": "Encourages economic independence among nations",
+   "C": "Restricts spread of technical knowledge",
+   "D": "Promotes self-reliance and satisfaction with only what can be produced internally"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-41",
+  "subject": "economics",
+  "year": 1991,
+  "number": 41,
+  "question": "There is an improvement in the terms of trade of a country if volume of imports",
+  "options": {
+   "C": "A smaller quantity of exports is given up to obtain a unit of imports",
+   "D": "The value of exports is greater than the value of imports"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-42",
+  "subject": "economics",
+  "year": 1991,
+  "number": 42,
+  "question": "Under flexible exchange rates, a deficit could becorrected by",
+  "options": {
+   "A": "Freezing the gold point",
+   "B": "Appreciation of other currencies",
+   "C": "Removing export subsidies",
+   "D": "Removing tariffs"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-43",
+  "subject": "economics",
+  "year": 1991,
+  "number": 43,
+  "question": "The higher the dependency ratio the",
+  "options": {
+   "A": "Larger the proportion o f the employed relative tot he unemployed",
+   "B": "Smaller the proportion of the active labour force relative to the inactive",
+   "C": "Smaller the number of the non-working age groups relative to the active labour force",
+   "D": "Lower the birth rate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-44",
+  "subject": "economics",
+  "year": 1991,
+  "number": 44,
+  "question": "The age distribution of a country’s population is of economic importance because it affect the",
+  "options": {
+   "A": "Pattern of expenditures",
+   "B": "Size of the army",
+   "C": "Optimum size of firms",
+   "D": "Location of industries"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-45",
+  "subject": "economics",
+  "year": 1991,
+  "number": 45,
+  "question": "It is important to measure the National Income of a country because",
+  "options": {
+   "A": "It is a major determinant of the standard of living",
+   "B": "It reveals hazards of development like pollution and congestion",
+   "C": "It reveals the distribution of the citizens’ savings in foreign banks",
+   "D": "Its size determines the extent of political stability"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-46",
+  "subject": "economics",
+  "year": 1991,
+  "number": 46,
+  "question": "The Gross Domestic Product is defined as the total value of",
+  "options": {
+   "A": "All final goods and services produced in a country during the year",
+   "B": "All assets of a country in a particular year",
+   "C": "Exports net of total value of imports",
+   "D": "All receipts."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1991_p32_1.png",
+  "images": [
+   "economics/1991_p32_1.png"
+  ]
+ },
+ {
+  "id": "economics-1991-47",
+  "subject": "economics",
+  "year": 1991,
+  "number": 47,
+  "question": "The value of total output in the economy using the value added approach is",
+  "options": {
+   "A": "N57.00",
+   "B": "N37.00",
+   "C": "N20.00",
+   "D": "N15.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-48",
+  "subject": "economics",
+  "year": 1991,
+  "number": 48,
+  "question": "If W stands for wages/salaries, P for profit, R for interest and Z for rent on land and real estate, then national income is",
+  "options": {
+   "A": "W - P - R - Z",
+   "B": "W + P + Z - R",
+   "C": "P - R - Z + W",
+   "D": "W + P + R + Z"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-49",
+  "subject": "economics",
+  "year": 1991,
+  "number": 49,
+  "question": "In the national income and product accounts, double counting is avoided if",
+  "options": {
+   "A": "Only final goods are counted",
+   "B": "Only intermediate goods are counted",
+   "C": "Only intermediate and final goods are counted",
+   "D": "The value of all goods and services are added together"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1991-50",
+  "subject": "economics",
+  "year": 1991,
+  "number": 50,
+  "question": "A major obstacle to economic development is",
+  "options": {
+   "A": "A rise in industrial output",
+   "B": "Low farm productivity",
+   "C": "Free trade"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

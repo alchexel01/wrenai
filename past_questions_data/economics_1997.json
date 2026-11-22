@@ -1,0 +1,896 @@
+[
+ {
+  "id": "economics-1997-1",
+  "subject": "economics",
+  "year": 1997,
+  "number": 1,
+  "question": "With a given level of money income, a consumer maximizes satisfaction from the consumption of goods and services when he",
+  "options": {
+   "A": "total utility derived from each good or service is increasing at an increasing rate",
+   "B": "marginal utility derived from each good or service is increasing at the same rate",
+   "C": "marginal utility derived per naira spent is the same for all the goods and services",
+   "D": "total utility derived from all the goods and services is large."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-2",
+  "subject": "economics",
+  "year": 1997,
+  "number": 2,
+  "question": "Ike’s scale of preference reveals that he prefers bananas to pawpaw, pawpaw to oranges and oranges to bananas. Ike’s preferences are therefore",
+  "options": {
+   "A": "inconsistent",
+   "B": "consistent",
+   "C": "transitive",
+   "D": "rational"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-3",
+  "subject": "economics",
+  "year": 1997,
+  "number": 3,
+  "question": "One of the features of a free market economy is that",
+  "options": {
+   "A": "resources are directed bythe price mechanism",
+   "B": "workers do not earn equal wages",
+   "C": "the profit motive is severely constrained",
+   "D": "decision on the economy are taken by bureaucratic structures"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-4",
+  "subject": "economics",
+  "year": 1997,
+  "number": 4,
+  "question": "One of the fundamental differences between a capitalist and a socialist economy is that while latter is characterized by complete private ownership.",
+  "options": {
+   "B": "in the former, prices act as signals in the allocation of resources, it is the central authority that performs this function in the latter",
+   "C": "taxes are levied in a capitalist economy there is not taxation in a socialist economy",
+   "D": "income and wealth are equally distributed in the socialist economy, this is not so in a capitalist economy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-5",
+  "subject": "economics",
+  "year": 1997,
+  "number": 5,
+  "question": "Given that at the beginning of 1973, Nigeria with a population of 75 million had a birth rate of 3% per annum. This implies that in that year.",
+  "options": {
+   "A": "the population increased by 2.25 million",
+   "B": "there were 2.25 million live births",
+   "C": "the government had to make provisions for 2.25 million children",
+   "D": "2.25 million children were born."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-6",
+  "subject": "economics",
+  "year": 1997,
+  "number": 6,
+  "question": "When a country’s population is experiencing increas ing returns, that country is said to be",
+  "options": {
+   "A": "overpopulated",
+   "B": "economically poor",
+   "C": "over producing goods and services",
+   "D": "underpopulated 30%,this implies that the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-8",
+  "subject": "economics",
+  "year": 1997,
+  "number": 8,
+  "question": "One of the objectives of Nigeria’s current population policy is to",
+  "options": {
+   "A": "reduce the birth rate",
+   "B": "reduce the emigration rate",
+   "C": "increase the birth rate",
+   "D": "enhance longevity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-9",
+  "subject": "economics",
+  "year": 1997,
+  "number": 9,
+  "question": "Labour productivity is the ratio of",
+  "options": {
+   "A": "Labour to output B.Man-hours to output",
+   "C": "Output to man-hours",
+   "D": "Average products to man-hours"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-10",
+  "subject": "economics",
+  "year": 1997,
+  "number": 10,
+  "question": "The type of cost which has to be covered for a firm to continue production in the short-run is the",
+  "options": {
+   "A": "Overhead cost",
+   "B": "Fixed cost",
+   "C": "Marginal cost",
+   "D": "Average variable cost Use the diagram below to answer question 11 and 12 Consumer goods Capital goods The current stage of the economy is depicted in curve I"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1997_p47_1.png",
+  "images": [
+   "economics/1997_p47_1.png"
+  ]
+ },
+ {
+  "id": "economics-1997-11",
+  "subject": "economics",
+  "year": 1997,
+  "number": 11,
+  "question": "Point P suggests that the economy is",
+  "options": {
+   "A": "reaching full employment but not full production",
+   "B": "attaining full production but not full employment",
+   "C": "under capitalized",
+   "D": "attaining both full employment and full production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-12",
+  "subject": "economics",
+  "year": 1997,
+  "number": 12,
+  "question": "The movement of curve I to II suggest",
+  "options": {
+   "A": "an improvement capital goods technology but not in consumer goods technology",
+   "B": "a movement from unemployment to full employment",
+   "C": "that the output for the society has declined",
+   "D": "a gain in consumer goods technique and not"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-13",
+  "subject": "economics",
+  "year": 1997,
+  "number": 13,
+  "question": "Gcₒrₛaₜpₛh Qᵤₐₙₜᵢₜy ₒf oᵤₜₚᵤₜ ₚₑᵣ ₚₑᵣᵢₒd In the diagram above, the curve which represents the firm’s short-run average variable cost is curve",
+  "options": {
+   "A": "I",
+   "B": "II C III",
+   "D": "IV"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1997_p47_2.png",
+  "images": [
+   "economics/1997_p47_2.png"
+  ]
+ },
+ {
+  "id": "economics-1997-14",
+  "subject": "economics",
+  "year": 1997,
+  "number": 14,
+  "question": "A good is said to be inferior if its demand",
+  "options": {
+   "A": "rises as income rises",
+   "B": "falls as income rises",
+   "C": "rises as its price falls",
+   "D": "is perfectly inelastic"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-15",
+  "subject": "economics",
+  "year": 1997,
+  "number": 15,
+  "question": "Given a market demand curve Q = 120 - 2p and a supply curve Q = 4 p, the equilibrium price and quantity respectively are",
+  "options": {
+   "A": "20 and 80",
+   "B": "30 and 120",
+   "C": "40 and 60",
+   "D": "60 and 240"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-16",
+  "subject": "economics",
+  "year": 1997,
+  "number": 16,
+  "question": "If a demand curve that intersects a perfectly inelastic supply curve shifts rightward, then",
+  "options": {
+   "A": "the equilibrium price and quantity will increase",
+   "B": "only the price will increase",
+   "C": "only the quantity will increase",
+   "D": "the price will remain constant"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-17",
+  "subject": "economics",
+  "year": 1997,
+  "number": 17,
+  "question": "The elasticity of demand for a firm’s product 2. If the firm reduces its prices its price by 20 per cent, its sales revenue will increase by",
+  "options": {
+   "A": "10 per cent",
+   "B": "20 per cent",
+   "C": "30 per cent",
+   "D": "40 per cent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-18",
+  "subject": "economics",
+  "year": 1997,
+  "number": 18,
+  "question": "If the percentage change in the income of the consumers of an industrial product is less than the resulting percentage change in the quantity de manded of the product, then the income elasticity of demand for the product is",
+  "options": {
+   "A": "lees than one",
+   "B": "equal to one",
+   "C": "greater than one",
+   "D": "equal to zero"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-19",
+  "subject": "economics",
+  "year": 1997,
+  "number": 19,
+  "question": "A market where there are many differentiated products is called",
+  "options": {
+   "A": "monopoly",
+   "B": "perfect competition",
+   "C": "monopolistic competition",
+   "D": "oligopoly Cost AR = MR = P Quantity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/1997_p48_1.png",
+  "images": [
+   "economics/1997_p48_1.png"
+  ]
+ },
+ {
+  "id": "economics-1997-20",
+  "subject": "economics",
+  "year": 1997,
+  "number": 20,
+  "question": "From the diagram above, the quantity of output is determined by the point",
+  "options": {
+   "A": "M",
+   "B": "N",
+   "C": "H",
+   "D": "F"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-21",
+  "subject": "economics",
+  "year": 1997,
+  "number": 21,
+  "question": "The best channel of distribution of baked bread is through",
+  "options": {
+   "A": "wholesalers to retailers then to consumers",
+   "B": "direct sales to consumers",
+   "C": "wholesalers to consumers",
+   "D": "retailers to consumers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-22",
+  "subject": "economics",
+  "year": 1997,
+  "number": 22,
+  "question": "A form of business organization which is character ized by limited authority and liability of the individual owners is the",
+  "options": {
+   "A": "sole proprietorship",
+   "B": "partnership",
+   "C": "joint stock company",
+   "D": "co-operative society"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-23",
+  "subject": "economics",
+  "year": 1997,
+  "number": 23,
+  "question": "The shares that must be redeemed first at liquidation of a company are",
+  "options": {
+   "A": "preference shares",
+   "B": "non-voting ordinary shares",
+   "C": "ordinary shares",
+   "D": "debentures"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-24",
+  "subject": "economics",
+  "year": 1997,
+  "number": 24,
+  "question": "The suggestion that peasants in Africa have back ward-bending supply curves of output implies that their response to an increase in the price of their crops will be to",
+  "options": {
+   "A": "increase their output",
+   "B": "decrease their output",
+   "C": "keep their output constant",
+   "D": "hoard their output"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-25",
+  "subject": "economics",
+  "year": 1997,
+  "number": 25,
+  "question": "The most important requirement for increasing agricultural output in Nigeria is",
+  "options": {
+   "A": "for a government to go into large scale farming",
+   "B": "to employ relevant foreign technology and reform the land tenure system",
+   "C": "to increase farmer’s incomes and improve the farming techniques",
+   "D": "to employ more extension workers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-27",
+  "subject": "economics",
+  "year": 1997,
+  "number": 27,
+  "question": "Plywood industries are often located near the source of",
+  "options": {
+   "A": "finance",
+   "B": "labour",
+   "C": "power",
+   "D": "raw materials"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-28",
+  "subject": "economics",
+  "year": 1997,
+  "number": 28,
+  "question": "A firm is said to have benefited from external econom ics in production if it has realized",
+  "options": {
+   "A": "a more efficient management of resources",
+   "B": "a better combination of factors of produc tion",
+   "C": "reduced resource costs due to operations of other firms",
+   "D": "a higher profits level due to increase sales"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-29",
+  "subject": "economics",
+  "year": 1997,
+  "number": 29,
+  "question": "One of the dangers of the localization of industries",
+  "options": {
+   "A": "residual unemployment",
+   "B": "mass unemployment",
+   "C": "structural unemployment",
+   "D": "cyclical unemployment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-30",
+  "subject": "economics",
+  "year": 1997,
+  "number": 30,
+  "question": "A glut in the world market for crude oil means",
+  "options": {
+   "A": "a fall in crude oil production",
+   "B": "an excess supply of crude petroleum",
+   "C": "a higher crude oil price offered by the buyer",
+   "D": "a higher crude oil price demanded by the seller"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-31",
+  "subject": "economics",
+  "year": 1997,
+  "number": 31,
+  "question": "The main problem of the Organization of Petroleum Exporting Countries is how to",
+  "options": {
+   "A": "prevent members from violating their quota",
+   "B": "enhance the quality of petroleum products",
+   "C": "compete with he North Sea Producers",
+   "D": "ensure viable crude reserves"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-32",
+  "subject": "economics",
+  "year": 1997,
+  "number": 32,
+  "question": "The most important attribute of money is",
+  "options": {
+   "A": "homogeneity",
+   "B": "relative scarcity",
+   "C": "divisibility",
+   "D": "general acceptability"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-33",
+  "subject": "economics",
+  "year": 1997,
+  "number": 33,
+  "question": "Which of the following is inflationary?",
+  "options": {
+   "A": "an increase in taxation",
+   "B": "an increase in savings",
+   "C": "a decrease in money supply",
+   "D": "an increase in government expenditure"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-34",
+  "subject": "economics",
+  "year": 1997,
+  "number": 34,
+  "question": "In commercial banking, an account from which the customer cannot withdraw money instantly is",
+  "options": {
+   "A": "demand deposit account",
+   "B": "tme deposit account",
+   "C": "special deposit account",
+   "D": "savings deposit account"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-35",
+  "subject": "economics",
+  "year": 1997,
+  "number": 35,
+  "question": "Banks can create more money by",
+  "options": {
+   "A": "increasing its cash ratio with the Central Bank",
+   "B": "issuing more bank cheques",
+   "C": "accepting more deposits from customers instruments used in the",
+   "D": "security markets"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-37",
+  "subject": "economics",
+  "year": 1997,
+  "number": 37,
+  "question": "The use of legally permissible means to reduce tax liabilities is known as tax",
+  "options": {
+   "A": "evasion",
+   "B": "avoidance",
+   "C": "relief",
+   "D": "exemption"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-38",
+  "subject": "economics",
+  "year": 1997,
+  "number": 38,
+  "question": "The greatest proportion of government revenue in Nigeria comes from",
+  "options": {
+   "A": "export of raw materials",
+   "B": "income taxes on individuals and businesses",
+   "C": "customs duties and excise taxes",
+   "D": "loans and grants from industrially advanced countries"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-39",
+  "subject": "economics",
+  "year": 1997,
+  "number": 39,
+  "question": "One of the factors which is likely to check the growth of public debts is",
+  "options": {
+   "A": "bridging the resources gap",
+   "B": "debt repudiation",
+   "C": "debt rescheduling"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-40",
+  "subject": "economics",
+  "year": 1997,
+  "number": 40,
+  "question": "If the marginal propensity to consume is 0.75 and private investment increases by N10 billion while government expenditure decrease by N15 billion, GDP will decrease by",
+  "options": {
+   "A": "N12 billion",
+   "B": "N15 billion C.N 20 billion",
+   "D": "N 25 billion"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-41",
+  "subject": "economics",
+  "year": 1997,
+  "number": 41,
+  "question": "Given: Investment = N100 million Consumption = N200m + 0.75 Y Y = C + I Where, Y = Income, C = Consumption and I = Investment What is the income level to the nearest million?",
+  "options": {
+   "A": "N100 million",
+   "C": "N 1 000 million",
+   "B": "N300 million",
+   "D": "N1 200 million"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-42",
+  "subject": "economics",
+  "year": 1997,
+  "number": 42,
+  "question": "The total money values of all goods and services produced in a country during a certain period is measured by using the",
+  "options": {
+   "A": "Income method",
+   "C": "Output method",
+   "B": "Expenditure method",
+   "D": "Factor method"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-43",
+  "subject": "economics",
+  "year": 1997,
+  "number": 43,
+  "question": "Privatization of government-owned companies means the",
+  "options": {
+   "A": "relinquishing of government’s equity participation to private individuals",
+   "B": "recapitalization of distressed government - owned companies",
+   "C": "joint participation of government and private individuals",
+   "D": "commercialization and deregulation of the economy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-44",
+  "subject": "economics",
+  "year": 1997,
+  "number": 44,
+  "question": "The major determinant of the total volume of output in an economy is the",
+  "options": {
+   "A": "level of wholesale prices",
+   "B": "dize of the labour force",
+   "C": "level of total expenditure",
+   "D": "composition of consumer spending"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-45",
+  "subject": "economics",
+  "year": 1997,
+  "number": 45,
+  "question": "The most important factor in ensuring economic development is the",
+  "options": {
+   "A": "effective mobilization of domestic savings",
+   "B": "presence of foreign capital",
+   "C": "formulation of appropriate government policies",
+   "D": "attraction of foreign aids and grants"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-46",
+  "subject": "economics",
+  "year": 1997,
+  "number": 46,
+  "question": "Which of the following classes of goods accounts for the largest proportion of Nigeria’s imports?",
+  "options": {
+   "A": "food and animal products",
+   "B": "consumer goods",
+   "C": "chemicals",
+   "D": "machinery and transport equipment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-47",
+  "subject": "economics",
+  "year": 1997,
+  "number": 47,
+  "question": "Counter trading is an international arrangement whereby",
+  "options": {
+   "A": "goods and services are exchanged in a manner similar to barter",
+   "B": "goods and services are sold on the counter",
+   "C": "crude oil is sold to a foreign country",
+   "D": "goods are shipped to countries on which the United Nations has placed a trade embargo"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-48",
+  "subject": "economics",
+  "year": 1997,
+  "number": 48,
+  "question": "In recent years, Nigeria’s balance of payments has continued to register a deficit due to I. Increased government overseas’ spending II. Increasing prices of exports III. Rising import prices IV. More payments to overseas’ investors",
+  "options": {
+   "A": "I, II and III",
+   "B": "I, II and IV",
+   "C": "I, III and IV",
+   "D": "II, III and IV"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-49",
+  "subject": "economics",
+  "year": 1997,
+  "number": 49,
+  "question": "The organization which provide credits to help countries achieve short-term balance in their balance of payments is the",
+  "options": {
+   "A": "economic Community fo West African State",
+   "B": "international Monetary Fund",
+   "C": "international Bank for Reconstruction and development",
+   "D": "african Development Bank"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-50",
+  "subject": "economics",
+  "year": 1997,
+  "number": 50,
+  "question": "An important feature of a cartel is that",
+  "options": {
+   "A": "members do no reduce price below the cartel price",
+   "B": "each member has a fixed output above which it is not expected to produce",
+   "C": "a powerful member fixes the price at which otherswill sell",
+   "D": "members fix the prices for their products"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
