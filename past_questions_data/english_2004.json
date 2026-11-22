@@ -1,0 +1,78 @@
+[
+ {
+  "id": "english-2004-1",
+  "subject": "english",
+  "year": 2004,
+  "number": 1,
+  "question": "The phrase near neighbour, as used in the passage, shows that",
+  "options": {
+   "A": "moonlight generally shares many characteristics with ‘earth light’",
+   "B": "the earth is nearer to the moon than to the sun",
+   "C": "theearth actuallysharesboundaries with themoon.",
+   "D": "life-long opportunity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2004-3",
+  "subject": "english",
+  "year": 2004,
+  "number": 3,
+  "question": "The sentence over the centuries, magical powers have been attributed to the moon suggests that",
+  "options": {
+   "A": "people perform magic with the moon",
+   "B": "it is a common belief that the moon has magical powers",
+   "C": "the moon actually possesses magical powers.",
+   "D": "The moon reflects magical powers from the sun’s rays."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2004-4",
+  "subject": "english",
+  "year": 2004,
+  "number": 4,
+  "question": "The expression either quest refers to the origin of",
+  "options": {
+   "A": "the moon or the earth",
+   "B": "neither the moon nor the earth",
+   "C": "the moon",
+   "D": "the earth."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "english-2004-5",
+  "subject": "english",
+  "year": 2004,
+  "number": 5,
+  "question": "A suitable title for the passage is",
+  "options": {
+   "A": "The Magical Powers of the Moon",
+   "B": "Facts about the Moon",
+   "C": "The Lunar Cycle",
+   "D": "Moon-Gazing. PASSAGE II The passage below has gaps numbered 6 to 15. Immediately following each gap, four options are provided. Choose the most appropriate option for each gap. Each question carries 2 marks. Capitalism is an economic system which is founded on the principle of free enterprise and the private ownership of the means of production and distribution. The …6… (A. attorneys"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
