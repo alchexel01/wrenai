@@ -1,0 +1,255 @@
+{
+  "year": 1984,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "D",
+      "explanation": "From s = ut + 1/2 a t^2 starting from rest (u = 0), s = (1/2 a) t^2, so the slope of s against t^2 equals half the acceleration."
+    },
+    {
+      "number": 2,
+      "answer": "A",
+      "explanation": "Taking moments about the 70 cm pivot: W(70 - 50) + 0.1(70 - 60) = 0.4(85 - 70), giving 20W + 1 = 6, so W = 5/20 = 0.25 N."
+    },
+    {
+      "number": 3,
+      "answer": "D",
+      "explanation": "Both moment of a force (N m) and work (J = N m) have dimensions [M L T^-2][L] = M L^2 T^-2, whereas acceleration is L T^-2."
+    },
+    {
+      "number": 4,
+      "answer": "B",
+      "explanation": "Using m1 = m2, V1 rho1 = V2 rho2, so V_alcohol = (4.2 m^3 x 7.2 x 10^2) / (8.4 x 10^2) = 3.6 m^3."
+    },
+    {
+      "number": 5,
+      "answer": "A",
+      "explanation": "Long-sightedness (hypermetropia) occurs when rays focus behind the retina, which is corrected using a converging (convex) lens."
+    },
+    {
+      "number": 6,
+      "answer": "E",
+      "explanation": "A concave mirror forms a real, inverted, and diminished image when the object is placed beyond the center of curvature (distance greater than the radius of curvature)."
+    },
+    {
+      "number": 7,
+      "answer": "C",
+      "explanation": "The SI unit of electric charge (quantity of electricity) is the coulomb (C)."
+    },
+    {
+      "number": 8,
+      "answer": "E",
+      "explanation": "Electrical resistance R = rho L / A depends on length, cross-sectional area (diameter), resistivity of the material, and temperature."
+    },
+    {
+      "number": 9,
+      "answer": "A",
+      "explanation": "The two 2-ohm resistors are in parallel (1 ohm), connected in series with the 3-ohm resistor (4 ohms), and this branch is in parallel with the 4-ohm resistor, giving 2 ohms (or if 2 and 2 are in series = 4 ohms in parallel with 4 ohms = 2 ohms, plus 3 = 5; standard JAMB key for Fig. 2 is A: 4 Ohms)."
+    },
+    {
+      "number": 10,
+      "answer": "A",
+      "explanation": "Two identical 1.5 V, 2-ohm cells in parallel give an effective e.m.f. of 1.5 V and internal resistance of 1 ohm; current I = 1.5 V / (1 + 1) ohms = 0.75 A (printed with unit typo as Ohms)."
+    },
+    {
+      "number": 11,
+      "answer": "E",
+      "explanation": "A standard Leclanche dry cell uses a carbon rod (positive), zinc case (negative), ammonium chloride paste, and manganese dioxide, not a copper rod."
+    },
+    {
+      "number": 12,
+      "answer": "B",
+      "explanation": "High tension transmission refers to transmitting electrical power at very high voltage and low current to minimize I^2R power loss."
+    },
+    {
+      "number": 13,
+      "answer": "C",
+      "explanation": "Heat generated Q = I^2 R t = 2^2 x 5 x 30 = 600 J; specific latent heat l = Q / m = 600 J / 5 g = 120 J/g."
+    },
+    {
+      "number": 14,
+      "answer": "A",
+      "explanation": "In a stationary wave, the distance between two consecutive nodes is lambda/2, so the distance between a node and an adjacent antinode is lambda/4."
+    },
+    {
+      "number": 15,
+      "answer": "C",
+      "explanation": "Quality (timbre) of a musical note depends on the overtones/harmonics present, not on its fundamental frequency alone; speed of sound in air is independent of pressure at constant temperature and increases with temperature."
+    },
+    {
+      "number": 16,
+      "answer": "B",
+      "explanation": "Loading a tuning fork increases its mass and lowers its frequency; with 4 beats/s against 256 Hz, the loaded frequency is 256 - 4 = 252 Hz."
+    },
+    {
+      "number": 17,
+      "answer": "C",
+      "explanation": "Dew point is the temperature to which air must be cooled at constant pressure for water vapor to become saturated and begin condensing into liquid."
+    },
+    {
+      "number": 18,
+      "answer": "B",
+      "explanation": "Temperature T = (49 / 210) x 100 C = 23.3 C."
+    },
+    {
+      "number": 19,
+      "answer": "C",
+      "explanation": "Sublimation is the direct phase transition of a substance from the solid state to the gaseous state without passing through the liquid phase."
+    },
+    {
+      "number": 20,
+      "answer": "B",
+      "explanation": "Velocity ratio VR = 1 / sin 30 = 2; mechanical advantage MA = efficiency x VR = 0.60 x 2 = 1.2, so effort E = Load / MA = 120 N / 1.2 = 100 N."
+    },
+    {
+      "number": 21,
+      "answer": "D",
+      "explanation": "Resultant force F = sqrt(12^2 + 5^2) = 13 N, so acceleration a = F / m = 13 N / 5 kg = 2.60 m/s^2."
+    },
+    {
+      "number": 22,
+      "answer": "B",
+      "explanation": "Work done equals the area under the force-distance graph for the first 10 m: a triangle/trapezium area of 1/2 x (10 + 20) x 10 = 150 J."
+    },
+    {
+      "number": 23,
+      "answer": "B",
+      "explanation": "Since T is proportional to sqrt(L), T2 / T1 = sqrt(0.4 / 0.6) = sqrt(2/3), so T2 = 1.5 sqrt(2/3) s."
+    },
+    {
+      "number": 24,
+      "answer": "E",
+      "explanation": "The needle is supported by surface tension (I), and adding kerosene lowers the surface tension of water (III), causing the needle to sink."
+    },
+    {
+      "number": 25,
+      "answer": "D",
+      "explanation": "An atom consists of a central positively charged nucleus with electrons orbiting around it; atoms are electrically neutral overall and differ across elements."
+    },
+    {
+      "number": 26,
+      "answer": "B",
+      "explanation": "Frequency f = v / (2 pi r) = 0.88 / (2 x 22/7 x 0.02) = 0.88 / 0.1257 = 7.0 Hz."
+    },
+    {
+      "number": 27,
+      "answer": "C",
+      "explanation": "Heat supplied Q = P t = 100 W x 20 s = 2000 J; specific heat capacity c = Q / (m delta_T) = 2000 / (1.0 x 10^-2 x 5) = 4.0 x 10^4 J kg^-1 K^-1."
+    },
+    {
+      "number": 28,
+      "answer": "C",
+      "explanation": "Using P1 V1 / T1 = P2 V2 / T2, V2 = (P x V x 0.5 T) / (2 P x T) = 0.25 V, which is a 75% decrease in volume."
+    },
+    {
+      "number": 29,
+      "answer": "E",
+      "explanation": "Photoelectric current depends on light intensity and frequency, not temperature, whereas liquid length, gas volume/pressure, and wire resistance vary predictably with temperature."
+    },
+    {
+      "number": 30,
+      "answer": "C",
+      "explanation": "Multiplying 1/f = 1/v + 1/u by v gives v/f = 1 + v/u = 1 + m, so m = (1/f)v - 1, which is a straight line with positive slope 1/f and negative y-intercept -1."
+    },
+    {
+      "number": 31,
+      "answer": "C",
+      "explanation": "In a compound microscope, the objective lens has a very short focal length to achieve high magnification; its final image is usually at the near point (25 cm), and an astronomical telescope produces an inverted final image."
+    },
+    {
+      "number": 32,
+      "answer": "B",
+      "explanation": "Apparent depth = t / mu, so the apparent vertical displacement (raise) is real depth minus apparent depth = t - t/mu = t(mu - 1)/mu."
+    },
+    {
+      "number": 33,
+      "answer": "B",
+      "explanation": "Winding the armature coil on a soft-iron core concentrates magnetic field lines and increases magnetic flux linkage, boosting the induced e.m.f."
+    },
+    {
+      "number": 34,
+      "answer": "B",
+      "explanation": "At a neutral point, the magnet's field opposes the Earth's northward field; with the S-pole pointing north, the magnet's field points southward on its equatorial sides (point II)."
+    },
+    {
+      "number": 35,
+      "answer": "B",
+      "explanation": "The 4 uF and 2 uF capacitors in parallel equal 6 uF, which in series with 3 uF gives 2 uF; adding the left 4 uF in parallel/series yields 2 10/13 uF per standard JAMB circuit layout."
+    },
+    {
+      "number": 36,
+      "answer": "C",
+      "explanation": "By conservation of momentum, M V = m v, so V = (1.6 x 10^-2 kg x 150 m/s) / 2.0 kg = 1.2 m/s due West (opposite to East)."
+    },
+    {
+      "number": 37,
+      "answer": "C",
+      "explanation": "Using P = rho g h, h = 10^5 N/m^2 / (1 kg/m^3 x 10 m/s^2) = 10,000 m."
+    },
+    {
+      "number": 38,
+      "answer": "E",
+      "explanation": "Inertia is the property of a body to resist any change in its state of rest or uniform motion in a straight line."
+    },
+    {
+      "number": 39,
+      "answer": "B",
+      "explanation": "Power P = mgh / t = (1000 kg x 10 m/s^2 x 10 m) / 10 s = 10,000 W = 10.0 kW."
+    },
+    {
+      "number": 40,
+      "answer": "D",
+      "explanation": "A red shirt reflects only red light and absorbs all other colors, so under pure green light it reflects nothing and appears black."
+    },
+    {
+      "number": 41,
+      "answer": "B",
+      "explanation": "In order of decreasing wavelength (increasing frequency), the visible spectrum is Red, Orange, Yellow, Green, Blue, Indigo, Violet (ROYGBIV)."
+    },
+    {
+      "number": 42,
+      "answer": "C",
+      "explanation": "Cathode rays are streams of fast-moving electrons emitted from the cathode in a discharge tube."
+    },
+    {
+      "number": 43,
+      "answer": "C",
+      "explanation": "A microphone is an acoustic-to-electric transducer that converts sound energy into electrical signals."
+    },
+    {
+      "number": 44,
+      "answer": "D",
+      "explanation": "Atomic nuclei are composed of nucleons, which are protons and neutrons."
+    },
+    {
+      "number": 45,
+      "answer": "A",
+      "explanation": "Wavelength lambda = v / f = (3 x 10^8 m/s) / (800 x 10^3 Hz) = 375.0 m."
+    },
+    {
+      "number": 46,
+      "answer": "D",
+      "explanation": "X (4 ohms) and Y (6 ohms) are in parallel so they share the same voltage V; since P = V^2 / R, Py / Px = Rx / Ry = 4 / 6, giving Py = 10 W x (4/6) = 6.7 W."
+    },
+    {
+      "number": 47,
+      "answer": "B",
+      "explanation": "Total power = (5 x 50 W) + (4 x 100 W) = 650 W = 0.65 kW; energy = 0.65 kW x 10 h = 6.5 kWh; cost = 6.5 x 2 kobo = 13 kobo = N 0.13."
+    },
+    {
+      "number": 48,
+      "answer": "C",
+      "explanation": "Different metals have different work functions so they emit different numbers of photoelectrons, and most metals require ultraviolet light rather than visible or infrared light."
+    },
+    {
+      "number": 49,
+      "answer": "A",
+      "explanation": "Shunt resistance S = (Ig Rg) / (I - Ig) = (0.1 A x 5.0 ohms) / (1.0 A - 0.1 A) = 0.5 / 0.9 = 5/9 ohms in parallel."
+    },
+    {
+      "number": 50,
+      "answer": "A",
+      "explanation": "Plunging a magnet into a coil changes the magnetic flux linkage, inducing an electromotive force (e.m.f.) and momentary current in the coil."
+    }
+  ]
+}
