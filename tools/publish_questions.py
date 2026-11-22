@@ -323,7 +323,9 @@ def refuse_if_unsafe(branch):
         print("  " + b)
     if len(bad) > 12:
         print(f"  ... and {len(bad) - 12} more")
-    print("I will not push it. To throw that commit away but KEEP all your files on disk, run:")
+    print("I will not push it. To throw that commit away but KEEP all your files on disk, run")
+    print("these two, in this order (the first one gets GitHub's latest state):")
+    print("  git fetch origin")
     print(f"  git reset --mixed origin/{branch}")
     print("then run this script again.")
     return False
@@ -332,6 +334,7 @@ def refuse_if_unsafe(branch):
 def push_safely(branch):
     """Push once; if GitHub says 'fetch first', combine safely and push again.
     Never forces."""
+    git("fetch", "origin")                       # safe: only reads GitHub's latest state
     if not refuse_if_unsafe(branch):
         return False
     for attempt in (1, 2):
