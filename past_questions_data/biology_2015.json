@@ -1,0 +1,907 @@
+[
+ {
+  "id": "biology-2015-1",
+  "subject": "biology",
+  "year": 2015,
+  "number": 1,
+  "question": "Which of the following has the most primitive respiratory system?",
+  "options": {
+   "A": "insect",
+   "B": "fish",
+   "C": "snail",
+   "D": "mouse"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-2",
+  "subject": "biology",
+  "year": 2015,
+  "number": 2,
+  "question": "One adaptation shown by hydrophytes in fresh water habitats is the",
+  "options": {
+   "A": "waxy cuticle on shoot surface",
+   "B": "poor development of roots and xylem tissues",
+   "C": "well-developed roots and supporting system",
+   "D": "leaves reduced to spines"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-3",
+  "subject": "biology",
+  "year": 2015,
+  "number": 3,
+  "question": "Which of the following use diffusion as the principal method of gaseous exchange?",
+  "options": {
+   "A": "grasshopper",
+   "B": "rat spines",
+   "C": "lizard",
+   "D": "earthworm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-4",
+  "subject": "biology",
+  "year": 2015,
+  "number": 4,
+  "question": "The theory which supports the view that the large muscles developed by an athlete will be passed on to the offspring was proposed by",
+  "options": {
+   "A": "Mendel",
+   "B": "Darwin",
+   "C": "Lamark",
+   "D": "Pasteur"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-5",
+  "subject": "biology",
+  "year": 2015,
+  "number": 5,
+  "question": "The chromosomes of members of the kingdom Monera are within the",
+  "options": {
+   "A": "nucleoplasm",
+   "B": "nucleus",
+   "C": "nucleolus",
+   "D": "cytoplasm"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-6",
+  "subject": "biology",
+  "year": 2015,
+  "number": 6,
+  "question": "The mangrove swamp in Nigeria is restricted to the",
+  "options": {
+   "A": "Sahel savanna",
+   "B": "Guinea savanna",
+   "D": "Sudan savanna"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-7",
+  "subject": "biology",
+  "year": 2015,
+  "number": 7,
+  "question": "The pancrease secretes enzymes for the digestion of",
+  "options": {
+   "A": "fats, proteins and carbohydrates",
+   "B": "fats, vitamins and cellulose",
+   "C": "fats, carbohydrates and vitamins",
+   "D": "proteins, cellulose and minerals"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-8",
+  "subject": "biology",
+  "year": 2015,
+  "number": 8,
+  "question": "The causative agent of bird flu is a",
+  "options": {
+   "A": "protozoan",
+   "B": "virus",
+   "C": "bacterium",
+   "D": "fungus"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-9",
+  "subject": "biology",
+  "year": 2015,
+  "number": 9,
+  "question": "A water medium is necessary for fertilization in",
+  "options": {
+   "A": "conifers",
+   "B": "angiosperms",
+   "C": "ferns",
+   "D": "fungi"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-10",
+  "subject": "biology",
+  "year": 2015,
+  "number": 10,
+  "question": "An example of a sex-linked trait is the",
+  "options": {
+   "A": "colour of the skin in humans",
+   "B": "ability to roll the tongue",
+   "C": "possession of facial hair in adult humans",
+   "D": "ability to grow. long hair in females"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-11",
+  "subject": "biology",
+  "year": 2015,
+  "number": 11,
+  "question": "In which of the following Nigerian states can montane vegetation be found?",
+  "options": {
+   "A": "Bauchi",
+   "B": "Plateau",
+   "C": "Taraba",
+   "D": "Enugu"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-12",
+  "subject": "biology",
+  "year": 2015,
+  "number": 12,
+  "question": "Which of the following is true of cloning?",
+  "options": {
+   "A": "it is welcomed as an ethically and normally sound science",
+   "B": "it involves the asexual multiplication of the tissues of the original organism",
+   "C": "the clone is similar to but not exactly like the original organism",
+   "D": "only one cell of the original organism"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-13",
+  "subject": "biology",
+  "year": 2015,
+  "number": 13,
+  "question": "The process of shedding the exoskeleton of an arthropod is known as",
+  "options": {
+   "A": "ecdysis",
+   "B": "in star formation",
+   "C": "metamorphosis",
+   "D": "osmosis"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-14",
+  "subject": "biology",
+  "year": 2015,
+  "number": 14,
+  "question": "Which of the following is a major cause of constipation in humans?",
+  "options": {
+   "A": "lack of roughage",
+   "B": "vitamin B",
+   "C": "vitamin E",
+   "D": "lack of salts"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-15",
+  "subject": "biology",
+  "year": 2015,
+  "number": 15,
+  "question": "In mammals, the organ directly on top of the kidney is the",
+  "options": {
+   "A": "adrenal gland",
+   "B": "prostate gland",
+   "C": "pancrease",
+   "D": "thyroid gland"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-16",
+  "subject": "biology",
+  "year": 2015,
+  "number": 16,
+  "question": "An accurate identification of a rapist can be carried out by conducting a",
+  "options": {
+   "A": "RNA analysis",
+   "B": "blood group test",
+   "C": "behavioural traits test",
+   "D": "DNA analysis"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-17",
+  "subject": "biology",
+  "year": 2015,
+  "number": 17,
+  "question": "An example of a fish that aestivates",
+  "options": {
+   "A": "croaker",
+   "B": "lung fish",
+   "C": "shark",
+   "D": "cat fish"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-18",
+  "subject": "biology",
+  "year": 2015,
+  "number": 18,
+  "question": "The opening and closing of the stoma are regulated by",
+  "options": {
+   "A": "respiration",
+   "B": "osmosis",
+   "C": "diffusion",
+   "D": "transpiration"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-19",
+  "subject": "biology",
+  "year": 2015,
+  "number": 19,
+  "question": "Which of the following is common to",
+  "options": {
+   "A": "they are parasites of man",
+   "B": "their immature stages are aquatic",
+   "C": "they undergo complete metamorphosis",
+   "D": "their adults have two pairs of wings"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-20",
+  "subject": "biology",
+  "year": 2015,
+  "number": 20,
+  "question": "The organs that will be most useful to giant African rats in finding their way in underground habitats are the",
+  "options": {
+   "A": "nostrils",
+   "B": "eyes",
+   "C": "vibrissae",
+   "D": "tails"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-21",
+  "subject": "biology",
+  "year": 2015,
+  "number": 21,
+  "question": "A crucible of 5gm weighed 10gm after filling with fresh soil. It is then heated in an oven at 1000C for 1 hour. After cooling in a desiccator, the weight was 8gm. The percentage of water in the soil is",
+  "options": {
+   "A": "0.8",
+   "B": "0.2",
+   "C": "0.4",
+   "D": "0.6"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-22",
+  "subject": "biology",
+  "year": 2015,
+  "number": 22,
+  "question": "The waste product of plants used in the conversion of hide to leather is",
+  "options": {
+   "A": "alkaloid",
+   "B": "resin",
+   "C": "tannin",
+   "D": "gun"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-23",
+  "subject": "biology",
+  "year": 2015,
+  "number": 23,
+  "question": "The correct sequence of the movement of urea during formation is",
+  "options": {
+   "A": "glomerulus - Bowman's capsule - convoluted tubule - Henle's loop - collecting tubule",
+   "B": "convoluted tubule - glomerulus - Henle's loop - Bowman's capsule - collecting tubule",
+   "C": "glomerulus - Bowman's capsule- convoluted tubule - Henle's loop collecting tubule",
+   "D": "convoluted tubule - Bowman's capsule - Henle's loop -glomerulus - collecting tubule"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-24",
+  "subject": "biology",
+  "year": 2015,
+  "number": 24,
+  "question": "In lizards, the lowing of the gular fold is used to",
+  "options": {
+   "A": "defend their territory",
+   "B": "attract mates",
+   "C": "frighten enemies",
+   "D": "catch insects"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-25",
+  "subject": "biology",
+  "year": 2015,
+  "number": 25,
+  "question": "The photosynthetic pigments include",
+  "options": {
+   "A": "chloroplast and cytochromes",
+   "B": "melanin and haemoglobin",
+   "C": "chlorophyll and carotenoids",
+   "D": "carotenoids and haemoglobin"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-26",
+  "subject": "biology",
+  "year": 2015,
+  "number": 26,
+  "question": "The highest level of ecological organization is the",
+  "options": {
+   "A": "ecosystem",
+   "B": "niche",
+   "C": "biosphere",
+   "D": "population"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-27",
+  "subject": "biology",
+  "year": 2015,
+  "number": 27,
+  "question": "A biotic factor which affects the distribution and abundance of organism in a terrestrial habitat is",
+  "options": {
+   "A": "pH",
+   "B": "competition",
+   "C": "temperature",
+   "D": "light"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-28",
+  "subject": "biology",
+  "year": 2015,
+  "number": 28,
+  "question": "The eye defect that rises because the cornea is not curved smoothly is",
+  "options": {
+   "A": "astigmatism",
+   "B": "short-sightedness",
+   "C": "long-sightedness",
+   "D": "presbyopia"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-29",
+  "subject": "biology",
+  "year": 2015,
+  "number": 29,
+  "question": "Which of the following is an example of parasitism?",
+  "options": {
+   "A": "a squirrel living in an abandoned nest of a bird",
+   "B": "mistletoe growing on an orange tree",
+   "D": "cattle egrets taking tasks from the body of cattle"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-30",
+  "subject": "biology",
+  "year": 2015,
+  "number": 30,
+  "question": "The increasing order of the particle size in the following soil types is",
+  "options": {
+   "A": "cattle sand – clay-gravel",
+   "B": "clay - silt sand – gravel",
+   "C": "silt - clay - sand - gravel",
+   "D": "clay - sand - silt – gravel"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-31",
+  "subject": "biology",
+  "year": 2015,
+  "number": 31,
+  "question": "Which of following factors can bring about competition population?",
+  "options": {
+   "A": "emigration",
+   "B": "drought",
+   "C": "mortality",
+   "D": "dispersion Stunted growth and poor root development are a result of a deficiency"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2015_p34_1.png",
+  "images": [
+   "biology/2015_p34_1.png"
+  ]
+ },
+ {
+  "id": "biology-2015-33",
+  "subject": "biology",
+  "year": 2015,
+  "number": 33,
+  "question": "The cell organelle solely responsible for respiration is the",
+  "options": {
+   "A": "nucleus",
+   "B": "nucleolus",
+   "C": "endoplasmic reticulum",
+   "D": "mitochondrion"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-34",
+  "subject": "biology",
+  "year": 2015,
+  "number": 34,
+  "question": "The organelle responsible for",
+  "options": {
+   "A": "IV",
+   "B": "I",
+   "C": "II",
+   "D": "III Use the diagram below to answer questions 35 and 36."
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2015_p35_1.png",
+  "images": [
+   "biology/2015_p35_1.png"
+  ]
+ },
+ {
+  "id": "biology-2015-35",
+  "subject": "biology",
+  "year": 2015,
+  "number": 35,
+  "question": "The process illustrated is",
+  "options": {
+   "A": "gametogenesis",
+   "B": "sexual reproduction in Rhizopus",
+   "C": "sexual reproduction in Spirogyra",
+   "D": "sporulation"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-36",
+  "subject": "biology",
+  "year": 2015,
+  "number": 36,
+  "question": "The structure labelled I is the",
+  "options": {
+   "A": "zygospore",
+   "B": "conidiophore",
+   "C": "sporangium",
+   "D": "hypha Use the diagram below to answer questions 37 and 38."
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2015_p35_2.png",
+  "images": [
+   "biology/2015_p35_2.png"
+  ]
+ },
+ {
+  "id": "biology-2015-37",
+  "subject": "biology",
+  "year": 2015,
+  "number": 37,
+  "question": "The organelle responsible for sexual reproduction is",
+  "options": {
+   "A": "IV",
+   "B": "I",
+   "C": "II",
+   "D": "III"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2015_p35_4.png",
+  "images": [
+   "biology/2015_p35_4.png"
+  ]
+ },
+ {
+  "id": "biology-2015-39",
+  "subject": "biology",
+  "year": 2015,
+  "number": 39,
+  "question": "The part labelled I is the",
+  "options": {
+   "A": "pulmonary artery",
+   "B": "bicuspid valve",
+   "C": "aorta",
+   "D": "vena carva"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-40",
+  "subject": "biology",
+  "year": 2015,
+  "number": 40,
+  "question": "Oxygenated blood is pumped to the entire body from the part labelled",
+  "options": {
+   "A": "IV",
+   "B": "I",
+   "C": "II",
+   "D": "III Use the diagram below to answer questions 41 and 42."
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2015_p35_3.png",
+  "images": [
+   "biology/2015_p35_3.png"
+  ]
+ },
+ {
+  "id": "biology-2015-41",
+  "subject": "biology",
+  "year": 2015,
+  "number": 41,
+  "question": "The experiment demonstrates",
+  "options": {
+   "A": "hydrotropism",
+   "B": "phototropism",
+   "C": "thigmotropism",
+   "D": "hydrotropism"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-42",
+  "subject": "biology",
+  "year": 2015,
+  "number": 42,
+  "question": "The part marked I will contain a high",
+  "options": {
+   "A": "ethylene",
+   "B": "abscisic acid",
+   "C": "auxin",
+   "D": "ascorbic acid Use the diagram below to answer questions 43 and 44"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2015_p36_1.png",
+  "images": [
+   "biology/2015_p36_1.png"
+  ]
+ },
+ {
+  "id": "biology-2015-43",
+  "subject": "biology",
+  "year": 2015,
+  "number": 43,
+  "question": "The breeding posture illustrated in the diagram is known as",
+  "options": {
+   "A": "reproductive swimming",
+   "B": "amplexus",
+   "C": "mating",
+   "D": "courtship"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-44",
+  "subject": "biology",
+  "year": 2015,
+  "number": 44,
+  "question": "The diagram shows that the organisms are",
+  "options": {
+   "A": "viviparous",
+   "B": "hermaphrodite",
+   "C": "ovoviviparous",
+   "D": "oviparous"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-45",
+  "subject": "biology",
+  "year": 2015,
+  "number": 45,
+  "question": "Insulin is produced by the endocrine organ labeled",
+  "options": {
+   "A": "I",
+   "B": "IV",
+   "C": "III",
+   "D": "II"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-46",
+  "subject": "biology",
+  "year": 2015,
+  "number": 46,
+  "question": "Which of the following will be true of dog II which lost its tail in an accident if it mates with dog III?",
+  "options": {
+   "A": "all its offspring will be born without tails",
+   "B": "3/4 of its offspring will be born without tails",
+   "C": "none of its offspring will be born",
+   "D": "1/4 of its offspring will be born without tails."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-47",
+  "subject": "biology",
+  "year": 2015,
+  "number": 47,
+  "question": "If the dogs are offspring of a monohybrid cross and the gene G for grey head is dominant over as illele g, the individual whose genotype is likely to be gg is",
+  "options": {
+   "A": "I",
+   "B": "IV",
+   "C": "III",
+   "D": "II Use the diagram below to answer questions 48 and 49."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2015_p36_2.png",
+  "images": [
+   "biology/2015_p36_2.png"
+  ]
+ },
+ {
+  "id": "biology-2015-48",
+  "subject": "biology",
+  "year": 2015,
+  "number": 48,
+  "question": "The type of protective adaptation exhibited by the animal is",
+  "options": {
+   "A": "flash coloration",
+   "B": "countershading colouration",
+   "C": "warning colouration",
+   "D": "disruptive colouration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-49",
+  "subject": "biology",
+  "year": 2015,
+  "number": 49,
+  "question": "The structure labeled I is",
+  "options": {
+   "A": "tactile",
+   "B": "radiosensitive",
+   "C": "photosensitive",
+   "D": "chemoreceptive"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

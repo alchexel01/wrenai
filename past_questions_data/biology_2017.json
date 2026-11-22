@@ -1,0 +1,726 @@
+[
+ {
+  "id": "biology-2017-1",
+  "subject": "biology",
+  "year": 2017,
+  "number": 1,
+  "question": "The piercing and sucking mouth parts are found in",
+  "options": {
+   "A": "grasshoppers",
+   "B": "mosquitoes",
+   "C": "termites",
+   "D": "cockroaches"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-2",
+  "subject": "biology",
+  "year": 2017,
+  "number": 2,
+  "question": "The hormones that regulate plant growth are",
+  "options": {
+   "A": "ethylene and auxins",
+   "B": "auxin and gibberellins",
+   "C": "cytokinin and abscisic acid",
+   "D": "ethylene and gibberellins"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-3",
+  "subject": "biology",
+  "year": 2017,
+  "number": 3,
+  "question": "Which of the following pair of organisms exhibit parasitic association?",
+  "options": {
+   "A": "insect and plant",
+   "B": "cattle and egret",
+   "C": "shark and remora",
+   "D": "tsetse-fly and cattle"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-4",
+  "subject": "biology",
+  "year": 2017,
+  "number": 4,
+  "question": "Which of the following group of animals can withstand the rigour of the arid land?",
+  "options": {
+   "A": "locust, camel, lizard and snakes",
+   "B": "monkeys, chameleon, earthworm and grasshopper",
+   "C": "monkeys, grasshopper, snail and snakes",
+   "D": "lungfish, duck, butterfly and lizards"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-5",
+  "subject": "biology",
+  "year": 2017,
+  "number": 5,
+  "question": "Suture joint is found in the",
+  "options": {
+   "A": "hip",
+   "B": "ankle",
+   "C": "skull",
+   "D": "elbow"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-6",
+  "subject": "biology",
+  "year": 2017,
+  "number": 6,
+  "question": "The organelle responsible for osmoregulation in Paramecium is",
+  "options": {
+   "A": "flame cell",
+   "B": "nephridia",
+   "C": "contractile vacuole",
+   "D": "Malpighian tubule"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-7",
+  "subject": "biology",
+  "year": 2017,
+  "number": 7,
+  "question": "Use the diagram to answer the question that follow The excretory organ of an earthworm is represented by",
+  "options": {
+   "A": "IV",
+   "B": "I",
+   "C": "III",
+   "D": "II"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2017_p44_1.png",
+  "images": [
+   "biology/2017_p44_1.png"
+  ]
+ },
+ {
+  "id": "biology-2017-8",
+  "subject": "biology",
+  "year": 2017,
+  "number": 8,
+  "question": "The platelets in mammalian blood are responsible for",
+  "options": {
+   "A": "transporting oxygen",
+   "B": "initiating clotting",
+   "C": "removing carbon (IV) oxide",
+   "D": "destroying micro-organisms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-9",
+  "subject": "biology",
+  "year": 2017,
+  "number": 9,
+  "question": "The most important factor that determines the different types of vegetation is",
+  "options": {
+   "A": "light",
+   "B": "wind",
+   "C": "temperature",
+   "D": "rainfall"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-10",
+  "subject": "biology",
+  "year": 2017,
+  "number": 10,
+  "question": "When testing for the presence of starch in a leaf, the reason for dipping the decolourised leaf in hot water is to",
+  "options": {
+   "A": "detect the starch",
+   "B": "kill the leaf",
+   "C": "soften the leaf",
+   "D": "remove the chlorophyll"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-11",
+  "subject": "biology",
+  "year": 2017,
+  "number": 11,
+  "question": "The relationship between remora and shark can best be described as",
+  "options": {
+   "A": "parasitism",
+   "B": "amensalism",
+   "C": "mutualism",
+   "D": "commensalism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-12",
+  "subject": "biology",
+  "year": 2017,
+  "number": 12,
+  "question": "The major characteristic of a fresh water habitat is the possession of",
+  "options": {
+   "A": "high turbidity",
+   "B": "high density",
+   "C": "low salinity",
+   "D": "high current"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-13",
+  "subject": "biology",
+  "year": 2017,
+  "number": 13,
+  "question": "The causative organism of cholera is",
+  "options": {
+   "A": "Clostridium sp",
+   "B": "shigella sp",
+   "C": "vibrio sp",
+   "D": "salmonella typhi"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-14",
+  "subject": "biology",
+  "year": 2017,
+  "number": 14,
+  "question": "The process that takes place in the dark stage of photosynthesis is",
+  "options": {
+   "A": "oxidation of water",
+   "B": "photolysis of water",
+   "C": "oxidation of carbon (IV) oxide",
+   "D": "reduction of carbon (IV) oxide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-15",
+  "subject": "biology",
+  "year": 2017,
+  "number": 15,
+  "question": "Chlorofluorocarbons are air pollutants that originates from",
+  "options": {
+   "A": "crude oil refining",
+   "B": "coal mining",
+   "C": "motor vehicle exhaust",
+   "D": "cooling system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-16",
+  "subject": "biology",
+  "year": 2017,
+  "number": 16,
+  "question": "Which of the following is organ level of organisation?",
+  "options": {
+   "A": "Volvox sp",
+   "B": "paramecium caudatum",
+   "C": "hydra viridis",
+   "D": "onion bulb"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-17",
+  "subject": "biology",
+  "year": 2017,
+  "number": 17,
+  "question": "The simplest form of reproduction is",
+  "options": {
+   "A": "conjugation",
+   "B": "budding",
+   "C": "spore formation",
+   "D": "binary fission"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-18",
+  "subject": "biology",
+  "year": 2017,
+  "number": 18,
+  "question": "Which of the following is a characteristic of wind-pollinated flower?",
+  "options": {
+   "A": "flowers lack nectar",
+   "B": "flowers are conspicuous",
+   "C": "flowers have perianths",
+   "D": "flowers are bisexual"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-19",
+  "subject": "biology",
+  "year": 2017,
+  "number": 19,
+  "question": "Use the diagram to answer the question that follow The most eminent unit in terms or water conservation is represented by",
+  "options": {
+   "A": "IV",
+   "B": "I",
+   "C": "III",
+   "D": "II"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2017_p45_1.png",
+  "images": [
+   "biology/2017_p45_1.png"
+  ]
+ },
+ {
+  "id": "biology-2017-20",
+  "subject": "biology",
+  "year": 2017,
+  "number": 20,
+  "question": "The process required for formation of gamete in sexual reproduction is",
+  "options": {
+   "B": "fertilisation",
+   "C": "mitosis",
+   "D": "meiosis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-21",
+  "subject": "biology",
+  "year": 2017,
+  "number": 21,
+  "question": "In an experiment to determine the humus in a soil sample the following results were obtained Mass of dish - 20g Mass of dry soil - 7.5g Mass of dish + soil after burning = 25g The percentage of humus in the given sample is",
+  "options": {
+   "A": "9.1",
+   "B": "37.5",
+   "C": "12.5",
+   "D": "33.3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-22",
+  "subject": "biology",
+  "year": 2017,
+  "number": 22,
+  "question": "The presence of termites and earthworms in soil promote",
+  "options": {
+   "A": "porosity and fertility",
+   "B": "porosity and aeration",
+   "C": "aeration and fertility",
+   "D": "acidity and aeration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-23",
+  "subject": "biology",
+  "year": 2017,
+  "number": 23,
+  "question": "In a 15m² habitat, the total number of Tridax counted using a 1.6m² quadrant thrown randomly 50 times was 400. What is the Tridax",
+  "options": {
+   "A": "12",
+   "B": "16",
+   "C": "8",
+   "D": "5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-24",
+  "subject": "biology",
+  "year": 2017,
+  "number": 24,
+  "question": "Which of the following is a sex-link character?",
+  "options": {
+   "A": "Dwarfism",
+   "B": "Albinism",
+   "C": "Tongue rolling",
+   "D": "Colour blindness"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-25",
+  "subject": "biology",
+  "year": 2017,
+  "number": 25,
+  "question": "The outer-most tissue of the herbaceous roots is the",
+  "options": {
+   "A": "cuticle",
+   "B": "pericycle",
+   "C": "epidermis",
+   "D": "endodermis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-26",
+  "subject": "biology",
+  "year": 2017,
+  "number": 26,
+  "question": "The respective tissues that transport water and manufactured food in plants are",
+  "options": {
+   "A": "xylem and phloem",
+   "C": "phloem and xylem",
+   "D": "xylem and tracheid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-27",
+  "subject": "biology",
+  "year": 2017,
+  "number": 27,
+  "question": "An adaptive feature of plants in the savanna is",
+  "options": {
+   "A": "fissured bark",
+   "B": "few grasses",
+   "C": "tall trees",
+   "D": "long lifespan 28.A grasshopper's cuticle becomes green during the season and black after fire. The reasons for the change is ---"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-29",
+  "subject": "biology",
+  "year": 2017,
+  "number": 29,
+  "question": "Which of the following is the most advance plant?",
+  "options": {
+   "A": "merchantia",
+   "B": "Dryopteris",
+   "C": "Chlamydomonas",
+   "D": "Spirogyra"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-30",
+  "subject": "biology",
+  "year": 2017,
+  "number": 30,
+  "question": "The soil type with the least ability to retain nutrients is",
+  "options": {
+   "A": "sandy loam",
+   "B": "clay loam",
+   "C": "loam",
+   "D": "sand 31.A humming bird is able to feed on nectar because its beak is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2017_p46_1.png",
+  "images": [
+   "biology/2017_p46_1.png"
+  ]
+ },
+ {
+  "id": "biology-2017-32",
+  "subject": "biology",
+  "year": 2017,
+  "number": 32,
+  "question": "The part labelled III acts as",
+  "options": {
+   "A": "water outlet",
+   "C": "exchange surface",
+   "D": "blood transporter"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-33",
+  "subject": "biology",
+  "year": 2017,
+  "number": 33,
+  "question": "The effect of overcrowding is",
+  "options": {
+   "A": "immigration",
+   "B": "reduced competition",
+   "C": "emigration",
+   "D": "reduced mortality"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-34",
+  "subject": "biology",
+  "year": 2017,
+  "number": 34,
+  "question": "The vertebrae that allows the skull to nod and rotate are",
+  "options": {
+   "A": "axis and cervical",
+   "B": "atlas and thoracis",
+   "C": "axis and atlas",
+   "D": "atlas and cervical"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-35",
+  "subject": "biology",
+  "year": 2017,
+  "number": 35,
+  "question": "The component of the cell that determines paternity resides in the",
+  "options": {
+   "A": "centrosome",
+   "B": "ribosome",
+   "C": "nucleus",
+   "D": "mitochondria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-36",
+  "subject": "biology",
+  "year": 2017,
+  "number": 36,
+  "question": "Which of the following beak type is an adaption for aquatic feeding?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "biology/2017_p46_3.png",
+  "images": [
+   "biology/2017_p46_3.png"
+  ]
+ },
+ {
+  "id": "biology-2017-37",
+  "subject": "biology",
+  "year": 2017,
+  "number": 37,
+  "question": "Use the diagram to answer the question that follow The part labelled II is the",
+  "options": {
+   "A": "arch",
+   "B": "filament",
+   "C": "slit",
+   "D": "raker"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2017_p46_2.png",
+  "images": [
+   "biology/2017_p46_2.png"
+  ]
+ },
+ {
+  "id": "biology-2017-38",
+  "subject": "biology",
+  "year": 2017,
+  "number": 38,
+  "question": "The insect-trapping by the leaves of Venus flytrap is an example of a",
+  "options": {
+   "A": "adaptive coloration",
+   "B": "structural adaptation",
+   "C": "environmental adaptation",
+   "D": "behaviour adaptation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-39",
+  "subject": "biology",
+  "year": 2017,
+  "number": 39,
+  "question": "Morphological variation in humans include",
+  "options": {
+   "A": "height, skin, colour and tongue rolling",
+   "B": "weight, finger prints and body shape",
+   "C": "height, weight and blood group",
+   "D": "skin colour, blood and height"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-40",
+  "subject": "biology",
+  "year": 2017,
+  "number": 40,
+  "question": "Which of the following is correct about blood transfusion?",
+  "options": {
+   "A": "Group AB can only receive from groups A and B and not from group O",
+   "B": "Group O can receive from groups A and B and from AB",
+   "C": "Group B can only donate to blood group B and not to AB and O",
+   "D": "Group O can donate to groups A, B and AB but cannot receive ANSWERS 1. B 2. B 3. D 4. A 5. C 6. C 7. C 8. B 9. D 10. C 11. D 12. C 13. C 14. D 15. D 16. D 17. D 18. A 19. D 20. D 21. B 22. C 23. D 24. B 25. A"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

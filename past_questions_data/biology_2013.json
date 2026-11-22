@@ -1,0 +1,911 @@
+[
+ {
+  "id": "biology-2013-1",
+  "subject": "biology",
+  "year": 2013,
+  "number": 1,
+  "question": "Which Question Paper Type of Biology is given to you?",
+  "options": {
+   "A": "Type D",
+   "B": "Type I",
+   "C": "Type B",
+   "D": "Type U"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-2",
+  "subject": "biology",
+  "year": 2013,
+  "number": 2,
+  "question": "The process in which complex substances are broken down into simpler ones is referred to as",
+  "options": {
+   "A": "anabolism",
+   "B": "catabolism",
+   "C": "metabolism",
+   "D": "tropism"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-3",
+  "subject": "biology",
+  "year": 2013,
+  "number": 3,
+  "question": "The organ which is sensitive to light in Euglena is the",
+  "options": {
+   "A": "gullet",
+   "B": "flagellum",
+   "C": "chloroplast",
+   "D": "eyespot"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-4",
+  "subject": "biology",
+  "year": 2013,
+  "number": 4,
+  "question": "The organelles present in cells that are actively respiring and photosynthesizing are",
+  "options": {
+   "A": "lysosomes and ribosomes",
+   "B": "Golgi apparatus and endoplasmic reticulum",
+   "C": "nucleus and centrioles",
+   "D": "mitochondria and chloroplast"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-5",
+  "subject": "biology",
+  "year": 2013,
+  "number": 5,
+  "question": "Taenia solium can be found in",
+  "options": {
+   "A": "cow",
+   "B": "goat",
+   "C": "dog",
+   "D": "pig"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-6",
+  "subject": "biology",
+  "year": 2013,
+  "number": 6,
+  "question": "The structure labelled II is the",
+  "options": {
+   "A": "spermathecal pore",
+   "B": "cocoon",
+   "C": "clitellum"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-7",
+  "subject": "biology",
+  "year": 2013,
+  "number": 7,
+  "question": "The organism is found in soils rich in",
+  "options": {
+   "A": "mud",
+   "B": "humus",
+   "C": "clay",
+   "D": "sand"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2013_p20_1.png",
+  "images": [
+   "biology/2013_p20_1.png"
+  ]
+ },
+ {
+  "id": "biology-2013-8",
+  "subject": "biology",
+  "year": 2013,
+  "number": 8,
+  "question": "Which of the following describes a characteristic of arthropods?",
+  "options": {
+   "A": "The organism finds it easy to grow freely",
+   "B": "the organism has a pair of jointed appendages",
+   "C": "the body is not divided into a number of segments seg",
+   "D": "the body is covered by chitin"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-9",
+  "subject": "biology",
+  "year": 2013,
+  "number": 9,
+  "question": "Which of the following distinguishes a butterfly from a moth?",
+  "options": {
+   "A": "the wings of butterfly rest horizontally but those of moth rest vertically",
+   "B": "Both are active during the day",
+   "C": "they have similar antennae",
+   "D": "the abdomen of moth is fatter than that of butterfly"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-10",
+  "subject": "biology",
+  "year": 2013,
+  "number": 10,
+  "question": "Which of the following types of feathers is used for flight in birds?",
+  "options": {
+   "A": "Quill",
+   "B": "Filo plume",
+   "C": "Covert",
+   "D": "Down"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-11",
+  "subject": "biology",
+  "year": 2013,
+  "number": 11,
+  "question": "The plants that grow in deserts or very dry areas are referred to as",
+  "options": {
+   "A": "mesophytes",
+   "B": "hydrophytes"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-12",
+  "subject": "biology",
+  "year": 2013,
+  "number": 12,
+  "question": "Which of the following is the simplest living organism?",
+  "options": {
+   "A": "Paramecium",
+   "B": "Virus",
+   "C": "Amoeba",
+   "D": "Chlamydomonas"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-13",
+  "subject": "biology",
+  "year": 2013,
+  "number": 13,
+  "question": "Proboscis is a structure that is mostly found in",
+  "options": {
+   "A": "insects",
+   "B": "tapeworms",
+   "C": "amphibians",
+   "D": "molluscs"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-14",
+  "subject": "biology",
+  "year": 2013,
+  "number": 14,
+  "question": "The structural adaptation of desert plants for water conservation is",
+  "options": {
+   "A": "broad leaves with numerous stomata",
+   "B": "spongy mesophyll",
+   "C": "spiny leaves",
+   "D": "prominent stomata in leaves"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-15",
+  "subject": "biology",
+  "year": 2013,
+  "number": 15,
+  "question": "The long and sharp clawed feet of birds is an adaptation for",
+  "options": {
+   "A": "crushing seeds",
+   "B": "scooping mud",
+   "C": "tearing flesh",
+   "D": "grasping prey"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-16",
+  "subject": "biology",
+  "year": 2013,
+  "number": 16,
+  "question": "During the manufacture of food by plants, which of the following organism use energy from the sun?",
+  "options": {
+   "A": "anabaena",
+   "B": "sulphur bacteria",
+   "C": "Nitrosomonas sp.",
+   "D": "Nitrobacter sp."
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-17",
+  "subject": "biology",
+  "year": 2013,
+  "number": 17,
+  "question": "Movement of minerals and chemical compounds with a plant occurs during",
+  "options": {
+   "A": "osmosis",
+   "B": "translocation",
+   "C": "transpiration",
+   "D": "diffusion"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-18",
+  "subject": "biology",
+  "year": 2013,
+  "number": 18,
+  "question": "The enzyme that is present in the saliva",
+  "options": {
+   "A": "rennin",
+   "B": "lipase",
+   "C": "pepsin",
+   "D": "ptyalin"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-19",
+  "subject": "biology",
+  "year": 2013,
+  "number": 19,
+  "question": "Plants that have special devices for trapping and digesting insects are",
+  "options": {
+   "A": "carnivorous",
+   "B": "symbiotic",
+   "C": "parasitic",
+   "D": "saprophytic"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-20",
+  "subject": "biology",
+  "year": 2013,
+  "number": 20,
+  "question": "The process of transforming the chemical energy of cellular fuels into the high energy bonds of ATP in plants is",
+  "options": {
+   "A": "autotropism",
+   "B": "photosynthesis",
+   "C": "photolysis",
+   "D": "respiration"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-21",
+  "subject": "biology",
+  "year": 2013,
+  "number": 21,
+  "question": "Fungi are referred to as hetotrophs because they",
+  "options": {
+   "A": "are filamentous",
+   "B": "lack chlorophyll",
+   "C": "have mycelium",
+   "D": "lack roots"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-22",
+  "subject": "biology",
+  "year": 2013,
+  "number": 22,
+  "question": "An example of a parasitic protozoan is",
+  "options": {
+   "A": "Paramecium",
+   "B": "Plasmodium",
+   "C": "Euglena",
+   "D": "Chlamydomonas"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-23",
+  "subject": "biology",
+  "year": 2013,
+  "number": 23,
+  "question": "Which blood cell are involved in the immune response of vertebrates?",
+  "options": {
+   "A": "Phagoecytes",
+   "B": "lymphocytes",
+   "C": "erythrocytes",
+   "D": "monocytes"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-24",
+  "subject": "biology",
+  "year": 2013,
+  "number": 24,
+  "question": "The blood circulatory system of vertebrates consists of",
+  "options": {
+   "A": "heart, arteries, capillaries and veins",
+   "B": "heart, aorta, capillaries and veins",
+   "D": "heart, vena cava, arteries, and veins 25.A plant tissue that carries water and mineral salts is the",
+   "C": "cortex"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-26",
+  "subject": "biology",
+  "year": 2013,
+  "number": 26,
+  "question": "Which of the following helps in the clotting of blood?",
+  "options": {
+   "A": "Red blood cells",
+   "B": "White blood cells",
+   "C": "Plasma",
+   "D": "Platelets"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-27",
+  "subject": "biology",
+  "year": 2013,
+  "number": 27,
+  "question": "Which of the following forms about 55% of the volume of the blood in man?",
+  "options": {
+   "A": "leucocytes",
+   "B": "platelets",
+   "C": "plasma",
+   "D": "erythrocytes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-28",
+  "subject": "biology",
+  "year": 2013,
+  "number": 28,
+  "question": "The part of the mammalian skin involved in excretion is the",
+  "options": {
+   "A": "sweat glands",
+   "B": "Malpighian layer",
+   "C": "sebaceous gland",
+   "D": "horny layer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-29",
+  "subject": "biology",
+  "year": 2013,
+  "number": 29,
+  "question": "Which of the following is a waste product of an insect?",
+  "options": {
+   "A": "Alkaloids",
+   "B": "Uric acid",
+   "C": "Sweat",
+   "D": "Mucilage"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-30",
+  "subject": "biology",
+  "year": 2013,
+  "number": 30,
+  "question": "The main structure in vertebrates that supports and protects the body is the",
+  "options": {
+   "A": "skeleton",
+   "B": "ligament",
+   "C": "muscle",
+   "D": "joint"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-31",
+  "subject": "biology",
+  "year": 2013,
+  "number": 31,
+  "question": "The chitin in the exoskeleton of many arthropods is strengthened by",
+  "options": {
+   "A": "lids",
+   "B": "proteins",
+   "C": "calcium compounds",
+   "D": "organic salt"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-32",
+  "subject": "biology",
+  "year": 2013,
+  "number": 32,
+  "question": "The transfer of pollen grains from the anther to a sigma is",
+  "options": {
+   "A": "propagation",
+   "B": "placentation",
+   "C": "pollination",
+   "D": "fertilization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-33",
+  "subject": "biology",
+  "year": 2013,
+  "number": 33,
+  "question": "The male reproductive organ of a flower is the",
+  "options": {
+   "A": "carpel",
+   "B": "stamen",
+   "C": "petal",
+   "D": "sepal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-34",
+  "subject": "biology",
+  "year": 2013,
+  "number": 34,
+  "question": "The gland that is found just below the hypothalamus is the",
+  "options": {
+   "A": "parathyroid",
+   "B": "adrenal",
+   "C": "pituitary",
+   "D": "thyroid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-35",
+  "subject": "biology",
+  "year": 2013,
+  "number": 35,
+  "question": "The most important plant hormone is",
+  "options": {
+   "A": "cytokinin",
+   "B": "abscisic acid",
+   "C": "auxin",
+   "D": "gibberellin"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-36",
+  "subject": "biology",
+  "year": 2013,
+  "number": 36,
+  "question": "The sensory cell that responds to dim light is referred to as the",
+  "options": {
+   "A": "cone",
+   "B": "lens",
+   "C": "rod",
+   "D": "iris"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-37",
+  "subject": "biology",
+  "year": 2013,
+  "number": 37,
+  "question": "The absence of anti-diuretic hormone in humans results in",
+  "options": {
+   "A": "decreasing dehydration",
+   "C": "eliminating dehydration",
+   "D": "increasing dehydration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-38",
+  "subject": "biology",
+  "year": 2013,
+  "number": 38,
+  "question": "Oestrogen is a hormone that is synthesized in the",
+  "options": {
+   "A": "ovaries",
+   "B": "testes",
+   "C": "anterior pituitary",
+   "D": "adrenal cortex"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-39",
+  "subject": "biology",
+  "year": 2013,
+  "number": 39,
+  "question": "The eye defect cause by the development of cloudy areas in the lenses is",
+  "options": {
+   "A": "presbyopia",
+   "B": "glaucoma",
+   "C": "cataract",
+   "D": "astigmatism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-40",
+  "subject": "biology",
+  "year": 2013,
+  "number": 40,
+  "question": "A pollutant that is biodegradable is",
+  "options": {
+   "A": "crude oil",
+   "B": "heavy metals",
+   "C": "cellophane",
+   "D": "sewage 41.A tropical disease caused by Trypanosoma is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-42",
+  "subject": "biology",
+  "year": 2013,
+  "number": 42,
+  "question": "The solid part of the ecosystem is referred to as the",
+  "options": {
+   "A": "atmosphere",
+   "B": "hydrosphere",
+   "C": "biosphere",
+   "D": "lithosphere"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-43",
+  "subject": "biology",
+  "year": 2013,
+  "number": 43,
+  "question": "Which of the following is caused by Treponema palladium?",
+  "options": {
+   "A": "Gonorrhoea",
+   "B": "Leprosy",
+   "C": "Tuberculosis",
+   "D": "Syphilis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-44",
+  "subject": "biology",
+  "year": 2013,
+  "number": 44,
+  "question": "To which blood group do universal recipients belong?",
+  "options": {
+   "A": "B",
+   "B": "A",
+   "C": "O",
+   "D": "AB"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-45",
+  "subject": "biology",
+  "year": 2013,
+  "number": 45,
+  "question": "The clumping together of red blood cells",
+  "options": {
+   "A": "agglutination",
+   "B": "fusion",
+   "C": "transfusion",
+   "D": "compatibility"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-46",
+  "subject": "biology",
+  "year": 2013,
+  "number": 46,
+  "question": "Physiological adaptation to very dry conditions in animals demonstrates",
+  "options": {
+   "A": "rejuvenation",
+   "B": "xeromorphism",
+   "C": "hibernation",
+   "D": "aestivation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-47",
+  "subject": "biology",
+  "year": 2013,
+  "number": 47,
+  "question": "One of adaptation of Cactus opuntia to conserve water is the reduction of",
+  "options": {
+   "A": "internodes",
+   "B": "stem to leaves",
+   "C": "leaves to spine",
+   "D": "flower size"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-48",
+  "subject": "biology",
+  "year": 2013,
+  "number": 48,
+  "question": "Which of the following structure is adapted for feeding in a bird of prey?",
+  "options": {
+   "A": "Hooked break and sharp claws",
+   "B": "Smooth beak and strong claws",
+   "C": "Big beaks and strong feet",
+   "D": "Pointed beak and strong claws"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-49",
+  "subject": "biology",
+  "year": 2013,
+  "number": 49,
+  "question": "The special pigment for colour change in chameleon is",
+  "options": {
+   "A": "melanin",
+   "B": "carotenoid",
+   "C": "chromatin",
+   "D": "chromatophore"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-50",
+  "subject": "biology",
+  "year": 2013,
+  "number": 50,
+  "question": "The behavioural adaptation in social insects could best be described as",
+  "options": {
+   "B": "saprophytism",
+   "C": "parasitism",
+   "D": "commensalisms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

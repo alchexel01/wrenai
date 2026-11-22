@@ -1,0 +1,816 @@
+[
+ {
+  "id": "biology-2014-1",
+  "subject": "biology",
+  "year": 2014,
+  "number": 1,
+  "question": "Which Question paper Type of Biology is given to you?",
+  "options": {
+   "A": "Type F",
+   "B": "Type E",
+   "C": "Type L",
+   "D": "Type S Use the diagram below to answer and 3."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2014_p26_1.png",
+  "images": [
+   "biology/2014_p26_1.png"
+  ]
+ },
+ {
+  "id": "biology-2014-2",
+  "subject": "biology",
+  "year": 2014,
+  "number": 2,
+  "question": "The part labelled II is the",
+  "options": {
+   "A": "nucleus",
+   "B": "eyespot",
+   "C": "basal granule",
+   "D": "contractile vacuole"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-3",
+  "subject": "biology",
+  "year": 2014,
+  "number": 3,
+  "question": "The part responsible for photosynthesis is labelled",
+  "options": {
+   "A": "III",
+   "B": "IV",
+   "C": "I",
+   "D": "II"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-4",
+  "subject": "biology",
+  "year": 2014,
+  "number": 4,
+  "question": "The lowest level of organization in living organisms is",
+  "options": {
+   "A": "organ",
+   "B": "cell",
+   "C": "system",
+   "D": "tissue"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-5",
+  "subject": "biology",
+  "year": 2014,
+  "number": 5,
+  "question": "Which of the following is the most complex according to their cellular level of organization?",
+  "options": {
+   "A": "Heart",
+   "C": "Euglena",
+   "D": "Hydra Use the diagram below to answer questions 6 and 7"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2014_p26_2.png",
+  "images": [
+   "biology/2014_p26_2.png"
+  ]
+ },
+ {
+  "id": "biology-2014-6",
+  "subject": "biology",
+  "year": 2014,
+  "number": 6,
+  "question": "The organs for attachments to the lining of the host's intestine are labelled",
+  "options": {
+   "A": "II and III",
+   "B": "III and IV",
+   "C": "I and II",
+   "D": "I and III"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-7",
+  "subject": "biology",
+  "year": 2014,
+  "number": 7,
+  "question": "The young proglottid is represented by",
+  "options": {
+   "A": "III",
+   "B": "IV",
+   "C": "I",
+   "D": "II"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-8",
+  "subject": "biology",
+  "year": 2014,
+  "number": 8,
+  "question": "Which of the following organisms is multi-cellular?",
+  "options": {
+   "A": "Chlamydomonas",
+   "B": "Spirogyra",
+   "C": "Amoeba",
+   "D": "Euglena"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-9",
+  "subject": "biology",
+  "year": 2014,
+  "number": 9,
+  "question": "In bryophytes, sex organs are produced in the",
+  "options": {
+   "A": "protonema",
+   "B": "sporophyte",
+   "C": "gametophyte",
+   "D": "rhizoid"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-10",
+  "subject": "biology",
+  "year": 2014,
+  "number": 10,
+  "question": "Seed plants are the most dominant vegetation on land because of",
+  "options": {
+   "A": "their motile gametes",
+   "B": "their ability to photosynthesize",
+   "C": "efficient seed dispersal",
+   "D": "availability of water"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-11",
+  "subject": "biology",
+  "year": 2014,
+  "number": 11,
+  "question": "Which of the following is an arboreal organism?",
+  "options": {
+   "A": "Elephant",
+   "B": "Fish",
+   "C": "Antelope",
+   "D": "Bird Use the diagram below to answer questions 12 and 13"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2014_p27_1.png",
+  "images": [
+   "biology/2014_p27_1.png"
+  ]
+ },
+ {
+  "id": "biology-2014-12",
+  "subject": "biology",
+  "year": 2014,
+  "number": 12,
+  "question": "The part labelled I is the",
+  "options": {
+   "A": "xylem",
+   "B": "phloem",
+   "C": "root hairs",
+   "D": "cortex"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-13",
+  "subject": "biology",
+  "year": 2014,
+  "number": 13,
+  "question": "The diagram is the transverse section of",
+  "options": {
+   "A": "monocotyledonous stem",
+   "B": "dicotyledonous stem",
+   "C": "monocotyledonous root",
+   "D": "dicotyledonous root 2 0 3 3"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-14",
+  "subject": "biology",
+  "year": 2014,
+  "number": 14,
+  "question": "I ⁄ , c ⁄ , pm ⁄ , m ⁄ . 1 0 2 3 The general formula above represents that of",
+  "options": {
+   "A": "an omnivore",
+   "B": "a detritus feeder",
+   "C": "a carnivore",
+   "D": "a herbivore 15.A circulatory system is very essential in mammals but not in smaller organisms like Amoeba because"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-16",
+  "subject": "biology",
+  "year": 2014,
+  "number": 16,
+  "question": "In vascular plants, the sieve tubes and companion cells are present in the",
+  "options": {
+   "A": "cambium",
+   "B": "cortex",
+   "C": "xylem",
+   "D": "phloem"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-17",
+  "subject": "biology",
+  "year": 2014,
+  "number": 17,
+  "question": "The stomata of leaves are similar in function to the",
+  "options": {
+   "A": "pharynx of humans",
+   "B": "scales of fish",
+   "C": "spiracle of insects",
+   "D": "trachea of toads"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-18",
+  "subject": "biology",
+  "year": 2014,
+  "number": 18,
+  "question": "The use of moist skin for respiration in amphibians is known as",
+  "options": {
+   "A": "cellular respiration",
+   "B": "cutaneous respiration",
+   "C": "buccal respiration",
+   "D": "pulmonary respiration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-19",
+  "subject": "biology",
+  "year": 2014,
+  "number": 19,
+  "question": "Water in plants is removed as water vapour through the process of",
+  "options": {
+   "A": "diffusion",
+   "B": "osmosis",
+   "C": "evaporation",
+   "D": "transpiration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-20",
+  "subject": "biology",
+  "year": 2014,
+  "number": 20,
+  "question": "An example of an organ of perennation in plants is",
+  "options": {
+   "A": "rhizome",
+   "B": "seed",
+   "C": "petal of a flower",
+   "D": "calyx of flower"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-21",
+  "subject": "biology",
+  "year": 2014,
+  "number": 21,
+  "question": "Alternation of generation is a feature shown in",
+  "options": {
+   "A": "mosses",
+   "B": "fungi",
+   "C": "grasses",
+   "D": "conifers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-22",
+  "subject": "biology",
+  "year": 2014,
+  "number": 22,
+  "question": "I. Growth is mainly apical II. Growth is specific with definite shape III. Growth is throughout life. Which of the above correctly describes the growth pattern in plants?",
+  "options": {
+   "A": "I, II and III only",
+   "B": "II and III only",
+   "C": "I and II only",
+   "D": "I and III only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-23",
+  "subject": "biology",
+  "year": 2014,
+  "number": 23,
+  "question": "Coordination and regulation of body activities in mammals are achieved by the",
+  "options": {
+   "A": "nerves and muscle",
+   "B": "nerves and hormones",
+   "C": "nerves only",
+   "D": "hormones only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-24",
+  "subject": "biology",
+  "year": 2014,
+  "number": 24,
+  "question": "The Cerebellum of the Brain controls",
+  "options": {
+   "A": "reflex action",
+   "B": "muscular activity",
+   "C": "emotional expressions",
+   "D": "the Endocrine system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-25",
+  "subject": "biology",
+  "year": 2014,
+  "number": 25,
+  "question": "The part of the brain responsible for peristalsis is the",
+  "options": {
+   "A": "Olfactory Lobe",
+   "B": "Medulla Oblongata",
+   "C": "Hypothalamus",
+   "D": "Thalamus"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-26",
+  "subject": "biology",
+  "year": 2014,
+  "number": 26,
+  "question": "Which of the following instruments is used for measuring atmospheric pressure?",
+  "options": {
+   "A": "Hydrometer",
+   "B": "Hygrometer",
+   "C": "Thermometer",
+   "D": "Barometer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-27",
+  "subject": "biology",
+  "year": 2014,
+  "number": 27,
+  "question": "The influence of soil on organisms in a habitat is referred to as",
+  "options": {
+   "A": "edaphic",
+   "B": "physiographic",
+   "C": "biotic",
+   "D": "topographic"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-28",
+  "subject": "biology",
+  "year": 2014,
+  "number": 28,
+  "question": "The genetic make-up of an organism is described as",
+  "options": {
+   "A": "allele",
+   "C": "phenotype",
+   "D": "genotype"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-29",
+  "subject": "biology",
+  "year": 2014,
+  "number": 29,
+  "question": "The major limiting factor of productivity in the aquatic habitat is",
+  "options": {
+   "A": "food",
+   "B": "temperature",
+   "C": "water",
+   "D": "sunlight"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-30",
+  "subject": "biology",
+  "year": 2014,
+  "number": 30,
+  "question": "Which of the following group of organisms feeds directly on green plants?",
+  "options": {
+   "A": "Primary Consumers",
+   "B": "Secondary Consumers",
+   "C": "Producers",
+   "D": "Decomposers 31.A characteristic feature of tropical rainforest is that it"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-32",
+  "subject": "biology",
+  "year": 2014,
+  "number": 32,
+  "question": "The study of how and why population size change over time is",
+  "options": {
+   "A": "Population estimation",
+   "B": "Population dynamics",
+   "C": "Population ecology",
+   "D": "Population Cycle 33.A severe and long dry season is a characteristic feature of"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-34",
+  "subject": "biology",
+  "year": 2014,
+  "number": 34,
+  "question": "Which of the following is a nitrogen- fixing blue-green algae of soil?",
+  "options": {
+   "A": "Rhizobium",
+   "B": "Nitrosomonas",
+   "C": "Clostridium",
+   "D": "Anabaena"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-35",
+  "subject": "biology",
+  "year": 2014,
+  "number": 35,
+  "question": "The soil with highest water-retaining capacity is",
+  "options": {
+   "B": "Stoney soil",
+   "C": "Sandy soil",
+   "D": "Loamy Soil"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-36",
+  "subject": "biology",
+  "year": 2014,
+  "number": 36,
+  "question": "The causative agent of Poliomyelitis is",
+  "options": {
+   "A": "Virus",
+   "B": "Fungus",
+   "C": "Protozoan",
+   "D": "Bacterium"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-37",
+  "subject": "biology",
+  "year": 2014,
+  "number": 37,
+  "question": "One of the ways of controlling noise pollution in urban areas is",
+  "options": {
+   "A": "by siting industries away from residential areas",
+   "B": "that fuel should be completely combusted by engines",
+   "C": "by planting trees on both sides of the road",
+   "D": "by wearing ear devices 38.A constituent of the exhaust fumes from electricity generating sets which causes serious pollution is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-39",
+  "subject": "biology",
+  "year": 2014,
+  "number": 39,
+  "question": "Which of the following is true of small pox?",
+  "options": {
+   "A": "It is transmitted by bacteria",
+   "B": "It can effectively be controlled with antibiotics",
+   "C": "It can effectively be controlled by vaccination",
+   "D": "It is a water-borne infection 40.A pollutant that is mostly associated with acid rain is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-41",
+  "subject": "biology",
+  "year": 2014,
+  "number": 41,
+  "question": "When the adults have reach a certain degree of weakness, the process of binary fission is replaced by conjugation",
+  "options": {
+   "A": "Paramecium",
+   "B": "Euglena",
+   "C": "Amoeba",
+   "D": "Plasmodium"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-42",
+  "subject": "biology",
+  "year": 2014,
+  "number": 42,
+  "question": "Whorls, arches, loops and compounds are types of variation in",
+  "options": {
+   "A": "Colour",
+   "B": "Finger prints",
+   "C": "Hair Colour",
+   "D": "Blood group 43.A couple has 10 children, all female. Which of the following best explains the situation?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-45",
+  "subject": "biology",
+  "year": 2014,
+  "number": 45,
+  "question": "One of the advantages of outbreeding is",
+  "options": {
+   "A": "pests tolerance",
+   "B": "disease resistance",
+   "C": "fast growth",
+   "D": "tall height"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-46",
+  "subject": "biology",
+  "year": 2014,
+  "number": 46,
+  "question": "An individual with blood group AB can receive blood from those in blood group(s)",
+  "options": {
+   "A": "A, B, AB, O",
+   "B": "A, AB and O only",
+   "C": "AB only",
+   "D": "A and B only"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-47",
+  "subject": "biology",
+  "year": 2014,
+  "number": 47,
+  "question": "The stream-lined shape of fishes is an adaptation for",
+  "options": {
+   "A": "Securing mates",
+   "B": "easy movement",
+   "C": "obtaining food",
+   "D": "defence and attack"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-48",
+  "subject": "biology",
+  "year": 2014,
+  "number": 48,
+  "question": "An example of a poikilothermic organism is a",
+  "options": {
+   "A": "Lizard",
+   "B": "Cockroach",
+   "C": "rabbit"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-49",
+  "subject": "biology",
+  "year": 2014,
+  "number": 49,
+  "question": "All living organisms are constantly involved in a struggle for existence. was proposed by Morgan Darwin Lamarck Wallace",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-50",
+  "subject": "biology",
+  "year": 2014,
+  "number": 50,
+  "question": "Adaptive radiation is illustrated in",
+  "options": {
+   "A": "modified insect mouthparts",
+   "B": "dentition in mammals",
+   "C": "wings in birds and bats",
+   "D": "appendages in insects This"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

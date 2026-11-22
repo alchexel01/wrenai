@@ -1,0 +1,709 @@
+[
+ {
+  "id": "biology-2018-1",
+  "subject": "biology",
+  "year": 2018,
+  "number": 1,
+  "question": "A group of closely related organisms capable of interbreeding to produce fertile offspring are known as members of a",
+  "options": {
+   "A": "kingdom",
+   "B": "class",
+   "C": "family",
+   "D": "species"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-2",
+  "subject": "biology",
+  "year": 2018,
+  "number": 2,
+  "question": "A beaker of pond water containing few specimens of Euglena was placed in a dark room for two weeks. At the end of this period, the specimens of Euglena were still alive because they were",
+  "options": {
+   "A": "able to carry out holozoic nutrition",
+   "B": "able to carry out photosynthesis using carbon dioxide in the pond water",
+   "C": "better adapted to life in darkness than to life in light",
+   "D": "not overcrowded"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-3",
+  "subject": "biology",
+  "year": 2018,
+  "number": 3,
+  "question": "The cytoplasm of the cell is considered a very important component because it",
+  "options": {
+   "A": "regulates the amount of energy in the cell",
+   "B": "suspends all cell organelles",
+   "C": "is the outermost part of the cell",
+   "D": "is solely responsible for cell division Use the diagram below to answer question 4 to 6"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2018_p49_1.png",
+  "images": [
+   "biology/2018_p49_1.png"
+  ]
+ },
+ {
+  "id": "biology-2018-4",
+  "subject": "biology",
+  "year": 2018,
+  "number": 4,
+  "question": "After an hour, the level of water in the thistle funnel will",
+  "options": {
+   "A": "rise",
+   "B": "fall",
+   "C": "remain the same",
+   "D": "double"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-5",
+  "subject": "biology",
+  "year": 2018,
+  "number": 5,
+  "question": "The experiment is used to demonstrate",
+  "options": {
+   "A": "transportation",
+   "B": "water culture",
+   "C": "diffusion",
+   "D": "Osmosis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-6",
+  "subject": "biology",
+  "year": 2018,
+  "number": 6,
+  "question": "In a plant cells, the role of the membrane is played by the",
+  "options": {
+   "A": "nucleolus",
+   "B": "cell wall",
+   "C": "cytoplasm",
+   "D": "mitochondrion"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-7",
+  "subject": "biology",
+  "year": 2018,
+  "number": 7,
+  "question": "Red blood cells were found to have burst open after being placed in distil for an hour. This phenomenon is known as",
+  "options": {
+   "A": "plasmolysis",
+   "B": "diffusion",
+   "C": "haemolysis",
+   "D": "wilting"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-8",
+  "subject": "biology",
+  "year": 2018,
+  "number": 8,
+  "question": "The curvature movement of plants in response to the stimulus of water is called",
+  "options": {
+   "A": "hydrotropism",
+   "B": "geotropism",
+   "C": "Phototropism",
+   "D": "thigmotropism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-9",
+  "subject": "biology",
+  "year": 2018,
+  "number": 9,
+  "question": "The overall reaction in glycolysis can be summarised as",
+  "options": {
+   "A": "C 6111205 --K31-1403 + 4H + ATP",
+   "B": "",
+   "C": "6H1206 ----- 2;11403+ 4H + 2ATP C. C61-1,206---.> 2;1-1403 + 4H + ADP",
+   "D": "C6F11206 2C31-1403+ 4h + 2ADP"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-10",
+  "subject": "biology",
+  "year": 2018,
+  "number": 10,
+  "question": "The longest bone in the body is the",
+  "options": {
+   "A": "humerous",
+   "B": "femur",
+   "C": "scapula",
+   "D": "tibia"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-11",
+  "subject": "biology",
+  "year": 2018,
+  "number": 11,
+  "question": "Which of the following structures is not a skeletal material?",
+  "options": {
+   "A": "Chitin",
+   "B": "Cartilage",
+   "C": "Bone",
+   "D": "Muscle"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-12",
+  "subject": "biology",
+  "year": 2018,
+  "number": 12,
+  "question": "The reason why the flow of blood through the capillaries is very slow is",
+  "options": {
+   "A": "because the walls of capillaries are very thin",
+   "B": "to avoid high — blood pressure",
+   "C": "to ensure that the individual does not get dizzy",
+   "D": "to allow adequate time for exchange of materials"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-13",
+  "subject": "biology",
+  "year": 2018,
+  "number": 13,
+  "question": "Which of the following groups of organisms has kidney as their excretory organ?",
+  "options": {
+   "A": "Fishes, amphibians, birds, man",
+   "B": "Fishes, amphibians, annelids, insects",
+   "C": "Fishes, reptiles, birds, tapeworms",
+   "D": "Fishes protozoans, amphibians, man"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-14",
+  "subject": "biology",
+  "year": 2018,
+  "number": 14,
+  "question": "Which of the following features is not a characteristic of arteries? Arteries",
+  "options": {
+   "A": "possess values at internals throughout their length.",
+   "B": "have thick muscular and elastic walls",
+   "C": "carry blood away from the heart",
+   "D": "transport oxygenated blood with the exception of the pulmonary artery. The graph below shows the results of a laboratory investigation which measured the body temperatures of a lizard and a bird under changing artificial conditions. Use to answer questions 15 and 16."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2018_p50_1.png",
+  "images": [
+   "biology/2018_p50_1.png"
+  ]
+ },
+ {
+  "id": "biology-2018-15",
+  "subject": "biology",
+  "year": 2018,
+  "number": 15,
+  "question": "Which of the statements below is valid?",
+  "options": {
+   "A": "The bird's blood was always warmer than that of the lizard.",
+   "B": "The body temperature of the bird varied less than that of the lizard during changes in environmental temperature.",
+   "C": "The body temperature of the bird remained constant despite changes in environmental temperature.",
+   "D": "The body temperature of the lizard was always close to that of the environmental temperature."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-16",
+  "subject": "biology",
+  "year": 2018,
+  "number": 16,
+  "question": "What physiological term can be used to describe the regulation of the body temperature of the lizard?",
+  "options": {
+   "A": "Homeostasis",
+   "B": "Homeothermy",
+   "C": "Poikilothermy",
+   "D": "Osmoregulation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-17",
+  "subject": "biology",
+  "year": 2018,
+  "number": 17,
+  "question": "The reason why hospitals use saline solutions as drip instead of water is",
+  "options": {
+   "A": "because salt is a preservative",
+   "B": "to prevent contamination of the body",
+   "C": "to maintain the composition of body fluids",
+   "D": "to increase the number of blood cells"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-18",
+  "subject": "biology",
+  "year": 2018,
+  "number": 18,
+  "question": "The part of the ear which contains nerve cells sensitive to sound vibrations is the",
+  "options": {
+   "A": "cochlea",
+   "B": "ampulla",
+   "C": "tympanum",
+   "D": "malleus"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-19",
+  "subject": "biology",
+  "year": 2018,
+  "number": 19,
+  "question": "Spectacles with convex lenses correct long-sightedness by",
+  "options": {
+   "A": "converging the Light rays before they enter the eye",
+   "B": "diverging the light rays before they enter the eye",
+   "C": "reducing light intensity before it enters the eye",
+   "D": "increasing light intensity before it enters the eye 20.A seed of a flowering plant can best be described as"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-21",
+  "subject": "biology",
+  "year": 2018,
+  "number": 21,
+  "question": "Which of the following processes removes carbon from the atmosphere?",
+  "options": {
+   "B": "Photosynthesis",
+   "C": "volcanic eruption",
+   "D": "Burning fuels"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-22",
+  "subject": "biology",
+  "year": 2018,
+  "number": 22,
+  "question": "Which of the following cycles involves the process of precipitation and transpiration?",
+  "options": {
+   "A": "Water cycles",
+   "B": "Carbon cycle",
+   "C": "Nitrogen cycle",
+   "D": "oxygen cycle"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-23",
+  "subject": "biology",
+  "year": 2018,
+  "number": 23,
+  "question": "What is the critical limiting factor for plants below the photic zone in an aquatic ecosystem?",
+  "options": {
+   "A": "Availability of nutrients",
+   "B": "Availability of water",
+   "C": "intensity of light",
+   "D": "Carbon dioxide concentration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-24",
+  "subject": "biology",
+  "year": 2018,
+  "number": 24,
+  "question": "Which of the following instruments is used to estimate the number o, plants in a habitat?",
+  "options": {
+   "A": "Pooter",
+   "B": "Pitfall trap",
+   "C": "Quadrat",
+   "D": "Sweep net"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-25",
+  "subject": "biology",
+  "year": 2018,
+  "number": 25,
+  "question": "Which of the following statements is true about sandy soil? It",
+  "options": {
+   "A": "has limited air space",
+   "B": "is light and easy to dig",
+   "C": "drains slowly",
+   "D": "is heavy and poorly aerated"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-26",
+  "subject": "biology",
+  "year": 2018,
+  "number": 26,
+  "question": "Which of the following organisms is a primary consumer?",
+  "options": {
+   "A": "Dog",
+   "B": "Sheep",
+   "C": "Grass",
+   "D": "Fungus Study the diagram of a food chain shown below and use it to answer question 27 and 28. P→Q→R→S→T"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-27",
+  "subject": "biology",
+  "year": 2018,
+  "number": 27,
+  "question": "The organism designated P in the food chain above is normally sustained by energy from",
+  "options": {
+   "A": "sunlight",
+   "C": "green plants",
+   "D": "mineral salts"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-28",
+  "subject": "biology",
+  "year": 2018,
+  "number": 28,
+  "question": "Which of the following statements best describes the organism designated R? It",
+  "options": {
+   "A": "feeds on S.",
+   "B": "is a primary consumer.",
+   "C": "is a producer as well as a consumer",
+   "D": "is a secondary consumer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-29",
+  "subject": "biology",
+  "year": 2018,
+  "number": 29,
+  "question": "Which of the following diseases is not hereditary?",
+  "options": {
+   "A": "Albinism",
+   "B": "Scabies",
+   "C": "Haemophilia",
+   "D": "Colour blindness"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-30",
+  "subject": "biology",
+  "year": 2018,
+  "number": 30,
+  "question": "The immediate product of meiosis in flowering plants is the",
+  "options": {
+   "A": "sporophyte",
+   "B": "gametophyte",
+   "C": "zygote",
+   "D": "pollen grains"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-31",
+  "subject": "biology",
+  "year": 2018,
+  "number": 31,
+  "question": "DNA in eukaryotic cells is contained in the",
+  "options": {
+   "A": "central vacuole",
+   "B": "nucleus",
+   "C": "lysosome",
+   "D": "golgi body 32.A man who is heterozygous for the disease haemophilia marries a woman who is double recessive for haemophilia. What percentage of their offspring would have the disease?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-33",
+  "subject": "biology",
+  "year": 2018,
+  "number": 33,
+  "question": "Cytokinesis of mitosis is a process that ensures that",
+  "options": {
+   "A": "each daughter cell gets the necessary organelle",
+   "B": "there is distribution of a complete set of genes into each daughter cell.",
+   "C": "daughter cells inherit new genetic combinations.",
+   "D": "worn out organelles are excluded"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-34",
+  "subject": "biology",
+  "year": 2018,
+  "number": 34,
+  "question": "An animal which is active during the day is known as a",
+  "options": {
+   "A": "nocturnal animal",
+   "B": "diurnal animal",
+   "C": "terrestrial animal",
+   "D": "homoatomic animal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-35",
+  "subject": "biology",
+  "year": 2018,
+  "number": 35,
+  "question": "Evidence of evolution include the following except",
+  "options": {
+   "A": "fossil records",
+   "B": "comparative anatomy",
+   "C": "mutation of genes",
+   "D": "geographical distribution of organisms Use the diagram below to answer question 36 and 37."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2018_p52_1.png",
+  "images": [
+   "biology/2018_p52_1.png"
+  ]
+ },
+ {
+  "id": "biology-2018-36",
+  "subject": "biology",
+  "year": 2018,
+  "number": 36,
+  "question": "The diagram shows that the organisms are",
+  "options": {
+   "A": "hermaphrodite",
+   "B": "viviparous",
+   "C": "oviparous",
+   "D": "ovoviparous"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-37",
+  "subject": "biology",
+  "year": 2018,
+  "number": 37,
+  "question": "The breeding posture illustrated in the diagram is known as",
+  "options": {
+   "A": "mating",
+   "B": "amplexus",
+   "C": "courtship display",
+   "D": "reproductive swimming"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-38",
+  "subject": "biology",
+  "year": 2018,
+  "number": 38,
+  "question": "An accurate identification of a rapist can be carried out by it conducting a",
+  "options": {
+   "A": "RNA analysis",
+   "B": "DNA analysis",
+   "D": "behavioural traits test 39.A boy who is fond of swimming in a pond finds himself passing urine with traces of blood. He is likely to have contracted",
+   "C": "poliomyelitis"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-40",
+  "subject": "biology",
+  "year": 2018,
+  "number": 40,
+  "question": "The flippers of a whale and the fins of a fish are examples of",
+  "options": {
+   "A": "divergent evolution",
+   "B": "coevolution",
+   "C": "continuous variation",
+   "D": "convergent evolution 1. 2 6.B 27.A 28.D 29.B 30.D 31.B 32.C 33.B"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
