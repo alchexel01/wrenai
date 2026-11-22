@@ -42,6 +42,9 @@ Endpoints:
     GET  /past-questions/papers      — which subjects/years have past questions loaded
     GET  /past-questions             — questions for one paper (?subject=&year=&limit=&offset=&shuffle=)
     GET  /past-questions/images/{subject}/{file} — one diagram picture (PNG)
+    POST /past-questions/flag        — the app reports a question that looks wrong
+    GET  /past-questions/flags       — (admin) flagged questions, most-reported first, with fix templates
+    DELETE /past-questions/flags/{id} — (admin) clear a question's reports after fixing it
 
 See README.md for deployment and how AI.py should call this.
 """
@@ -1148,3 +1151,31 @@ def get_past_question_image(subject: str, filename: str, req: Request,
     path = past_questions.image_path(subject, filename)
     return FileResponse(path, media_type="image/png",
                         headers={"X-Request-ID": rid, "Cache-Control": "public, max-age=86400"})
+
+
+# ── Flagged past questions ───────────────────────────────────────────────
+# The app posts a question here when a student flags it. You read them with
+# GET /past-questions/flags (X-Admin-Key: <WREN_ADMIN_KEY>), fix them with a
+# past_questions_data/fixes/<subject>_<year>.json file, then DELETE the entry.
+# Storage and the "disk is wiped on deploy" note: see past_questions.py.
+@app.post("/past-questions/flag")
+def flag_past_question(body: past_questions.FlagIn, req: Request,
+                       x_app_secret: str = Header(default=""),
+                       x_device_id: str = Header(default="")):
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    return past_questions.save_flag(body, x_device_id, rid)
+
+
+@app.get("/past-questions/flags")
+def list_flagged_past_questions(limit: int = 200, x_admin_key: str = Header(default="")):
+    if not ADMIN_KEY or x_admin_key != ADMIN_KEY:
+        raise HTTPException(status_code=401, detail="invalid or missing admin key")
+    return past_questions.list_flags(limit)
+
+
+@app.delete("/past-questions/flags/{qid}")
+def clear_flagged_past_question(qid: str, x_admin_key: str = Header(default="")):
+    if not ADMIN_KEY or x_admin_key != ADMIN_KEY:
+        raise HTTPException(status_code=401, detail="invalid or missing admin key")
+    return past_questions.clear_flags(qid)
