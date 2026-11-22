@@ -1,0 +1,933 @@
+[
+ {
+  "id": "economics-2014-1",
+  "subject": "economics",
+  "year": 2014,
+  "number": 1,
+  "question": "Which question paper type of Economics is given to you?",
+  "options": {
+   "A": "Type F",
+   "B": "Type E",
+   "C": "Type L",
+   "D": "Type S"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-2",
+  "subject": "economics",
+  "year": 2014,
+  "number": 2,
+  "question": "The choice of how to produce in a command economy is determined by",
+  "options": {
+   "A": "government",
+   "B": "consumer",
+   "C": "industrialists",
+   "D": "labour unions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-3",
+  "subject": "economics",
+  "year": 2014,
+  "number": 3,
+  "question": "In capitalist economies, questions about what to produce are ultimately answered",
+  "options": {
+   "A": "income level of households",
+   "B": "available technical skills in the economy",
+   "C": "output decisions of firms",
+   "D": "holding decision of households"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-4",
+  "subject": "economics",
+  "year": 2014,
+  "number": 4,
+  "question": "The best measure of dispersion to determine the tallest tree in a forest is",
+  "options": {
+   "A": "range",
+   "B": "variance",
+   "C": "standard deviation",
+   "D": "mean deviation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-5",
+  "subject": "economics",
+  "year": 2014,
+  "number": 5,
+  "question": "What is the percentage contribution of services to the national income?",
+  "options": {
+   "A": "15%",
+   "B": "10%",
+   "C": "54%",
+   "D": "24%"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2014_p24_1.png",
+  "images": [
+   "economics/2014_p24_1.png"
+  ]
+ },
+ {
+  "id": "economics-2014-6",
+  "subject": "economics",
+  "year": 2014,
+  "number": 6,
+  "question": "If the national income is 360m, the contribution of the manufacturing sector",
+  "options": {
+   "A": "312m",
+   "B": "39m",
+   "C": "318m",
+   "D": "317m"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-7",
+  "subject": "economics",
+  "year": 2014,
+  "number": 7,
+  "question": "A combination of factors responsible for a shift from D₀D₀to D₁D₁ are",
+  "options": {
+   "A": "consumers income and change in technology",
+   "B": "price of the commodity and weather conditions consumers income and population size",
+   "C": "consumers taste and change in price"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2014_p24_2.png",
+  "images": [
+   "economics/2014_p24_2.png"
+  ]
+ },
+ {
+  "id": "economics-2014-8",
+  "subject": "economics",
+  "year": 2014,
+  "number": 8,
+  "question": "Given that Qd = 40-2P and Qs = 6P+24. Calculate the equilibrium price.",
+  "options": {
+   "A": "₦34",
+   "B": "₦32",
+   "C": "₦36",
+   "D": "₦16"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-9",
+  "subject": "economics",
+  "year": 2014,
+  "number": 9,
+  "question": "A change in demand for a normal goods implies that, there is a",
+  "options": {
+   "A": "change in the quantity demanded as price changes",
+   "B": "shift in the demand curve",
+   "C": "movement along a given demand curve",
+   "D": "change in the price elasticity of demand"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-10",
+  "subject": "economics",
+  "year": 2014,
+  "number": 10,
+  "question": "If a 10% rise in price causes a 5% decrease in the quantity demanded of a",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-11",
+  "subject": "economics",
+  "year": 2014,
+  "number": 11,
+  "question": "From the graph above, the consumer will attain equilibrium at point",
+  "options": {
+   "A": "J",
+   "B": "K",
+   "C": "L",
+   "D": "M"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2014_p25_1.png",
+  "images": [
+   "economics/2014_p25_1.png"
+  ]
+ },
+ {
+  "id": "economics-2014-12",
+  "subject": "economics",
+  "year": 2014,
+  "number": 12,
+  "question": "A rightward shift of the budget line is caused by a",
+  "options": {
+   "A": "fall in consumer income",
+   "B": "change in consumer taste",
+   "C": "fall in the commodity relative price",
+   "D": "rise in the commodity relative price"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-13",
+  "subject": "economics",
+  "year": 2014,
+  "number": 13,
+  "question": "Given the supply function P = 1/4(Qs+10) when P = N10, what is Qs?",
+  "options": {
+   "A": "20",
+   "B": "15",
+   "C": "50",
+   "D": "30"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-14",
+  "subject": "economics",
+  "year": 2014,
+  "number": 14,
+  "question": "Price Quantity (₦) supplied 8 20 10 24 From the table above, Calculate the price elasticity of supply",
+  "options": {
+   "A": "0.50",
+   "B": "0.80",
+   "C": "2.00",
+   "D": "1.25"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-15",
+  "subject": "economics",
+  "year": 2014,
+  "number": 15,
+  "question": "When price is set below equilibrium, this will lead to",
+  "options": {
+   "A": "an increase in the quantity supplied",
+   "B": "a new equilibrium",
+   "C": "a decrease in the quantity supplied",
+   "D": "a fall in price"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-16",
+  "subject": "economics",
+  "year": 2014,
+  "number": 16,
+  "question": "Price mechanism determines the prices of commodities through",
+  "options": {
+   "A": "auctioning",
+   "B": "market forces",
+   "C": "the sales of treasury bills",
+   "D": "government legislation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-17",
+  "subject": "economics",
+  "year": 2014,
+  "number": 17,
+  "question": "Unit Total Average Marginal of product product product labour 1 8 8 -- 2 20 10 12 3 E 9 7 4 28 7 F 5 40 8 12 From the table above, find the values of E and F respectively",
+  "options": {
+   "A": "27 and 1",
+   "B": "68 and 12",
+   "C": "28 and 5",
+   "D": "12 and 19"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-18",
+  "subject": "economics",
+  "year": 2014,
+  "number": 18,
+  "question": "If the production of a large firm is higher than that of a small firm, it is experiencing.",
+  "options": {
+   "A": "external economies of scale",
+   "B": "external diseconomies of scale",
+   "C": "internal economies of scale",
+   "D": "internal diseconomies of scale"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-19",
+  "subject": "economics",
+  "year": 2014,
+  "number": 19,
+  "question": "Division of labour requires that, the tasks in a production line be performed",
+  "options": {
+   "A": "by specialists",
+   "B": "in stages",
+   "C": "by all workers",
+   "D": "by unskilled labourers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-20",
+  "subject": "economics",
+  "year": 2014,
+  "number": 20,
+  "question": "Given that FC = ₦500, VC = ₦1,500, and Q = 50 units. Find the average cost of the product.",
+  "options": {
+   "A": "₦30",
+   "B": "₦40",
+   "C": "₦10",
+   "D": "₦20"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-21",
+  "subject": "economics",
+  "year": 2014,
+  "number": 21,
+  "question": "Rent and administrative expenses are examples of",
+  "options": {
+   "A": "average fixed costs",
+   "B": "average variable costs",
+   "C": "fixed costs",
+   "D": "variable costs"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-22",
+  "subject": "economics",
+  "year": 2014,
+  "number": 22,
+  "question": "A perfect competitor will continue to expand output up to the point where",
+  "options": {
+   "A": "TC>TR",
+   "B": "MR=AR",
+   "C": "MC<MR",
+   "D": "MC>MR"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-23",
+  "subject": "economics",
+  "year": 2014,
+  "number": 23,
+  "question": "One of the characteristics of a monopolist is that, he can influence",
+  "options": {
+   "A": "quantity produced by other producers",
+   "B": "prices charged by other producers",
+   "C": "both price and quantity",
+   "D": "price or quantity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-24",
+  "subject": "economics",
+  "year": 2014,
+  "number": 24,
+  "question": "A monopolist can boost up his revenue by",
+  "options": {
+   "A": "adjusting both price and output upward",
+   "B": "reducing total output to match price",
+   "C": "increasing price",
+   "D": "reducing price"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-25",
+  "subject": "economics",
+  "year": 2014,
+  "number": 25,
+  "question": "Which of the following can be used to measure the Gross National product in an open economy?",
+  "options": {
+   "A": "C+I+G+(X+M)",
+   "B": "C+I+G+X",
+   "C": "C+I+G",
+   "D": "C+I+G+(X-M)"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-26",
+  "subject": "economics",
+  "year": 2014,
+  "number": 26,
+  "question": "If MPC = 2/3 and investment is ₦100 million, the level of national income is",
+  "options": {
+   "A": "₦100 million",
+   "B": "₦10 million",
+   "C": "₦303 million",
+   "D": "₦300 million"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-27",
+  "subject": "economics",
+  "year": 2014,
+  "number": 27,
+  "question": "The precautionary demand for money is determined by",
+  "options": {
+   "A": "the rate of interest",
+   "B": "the level of savings",
+   "C": "the level of income",
+   "D": "general price level"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-28",
+  "subject": "economics",
+  "year": 2014,
+  "number": 28,
+  "question": "An inflation that co-exists with high rate of unemployment is",
+  "options": {
+   "A": "hyperinflation",
+   "B": "stagflation",
+   "C": "demand-pull inflation",
+   "D": "cost-push inflation"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-29",
+  "subject": "economics",
+  "year": 2014,
+  "number": 29,
+  "question": "One of the challenges facing the banking industry in Nigeria is",
+  "options": {
+   "A": "ensuring technological security",
+   "B": "providing employment",
+   "C": "providing loans for investment",
+   "D": "creating more money"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-30",
+  "subject": "economics",
+  "year": 2014,
+  "number": 30,
+  "question": "Short-term loans for investment are usually obtained through the",
+  "options": {
+   "A": "stock market",
+   "B": "development banks",
+   "C": "money market",
+   "D": "capital market"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-31",
+  "subject": "economics",
+  "year": 2014,
+  "number": 31,
+  "question": "Given a base year and the price index of 175% the following year, which of the following year will arise?",
+  "options": {
+   "A": "The cost of living decreases of that year",
+   "B": "The cost of living remains unchanged",
+   "C": "The value of money rises by 75%",
+   "D": "The value of money falls by 75%"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-32",
+  "subject": "economics",
+  "year": 2014,
+  "number": 32,
+  "question": "Wage freeze is a policy measure aimed",
+  "options": {
+   "A": "encouraging investors",
+   "B": "curbing inflation",
+   "C": "regulating standard of living",
+   "D": "curbing deflation"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-33",
+  "subject": "economics",
+  "year": 2014,
+  "number": 33,
+  "question": "A major obstacle to the development of Nigeria economy is",
+  "options": {
+   "A": "low capital formation",
+   "B": "rural-urban migration",
+   "C": "over dependence on oil",
+   "D": "poor developmental policies"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-34",
+  "subject": "economics",
+  "year": 2014,
+  "number": 34,
+  "question": "A major feature of an underdeveloped economy is",
+  "options": {
+   "A": "excess capacity utilization",
+   "B": "low rate of population growth",
+   "C": "low level of standard of living",
+   "D": "low level of unemployment"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-35",
+  "subject": "economics",
+  "year": 2014,
+  "number": 35,
+  "question": "An important role of agriculture in Nigeria's economic development is the",
+  "options": {
+   "A": "processing of raw materials for industries",
+   "B": "regulation of price system",
+   "C": "provision of infrastructure",
+   "D": "provision of employment"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-36",
+  "subject": "economics",
+  "year": 2014,
+  "number": 36,
+  "question": "An advantage of large-scale farming over peasant farming is in the area of",
+  "options": {
+   "A": "providing research and massive employment of labour",
+   "B": "redistributing national income to various regions of the country",
+   "C": "encouraging the use of traditional implements",
+   "D": "encouraging urban-rural migration"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-37",
+  "subject": "economics",
+  "year": 2014,
+  "number": 37,
+  "question": "A major disadvantage of localization of industry is",
+  "options": {
+   "A": "the risk of structural unemployment",
+   "B": "over-utilization of installed industrial capacity",
+   "C": "the risk of seasonal unemployment",
+   "D": "under-utilization of installed industrial capacity"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-38",
+  "subject": "economics",
+  "year": 2014,
+  "number": 38,
+  "question": "One major factor that determines the location of an industry is",
+  "options": {
+   "A": "tax exemption grant",
+   "B": "its proximity to the market",
+   "C": "the capital base",
+   "D": "the social responsibility of the firm"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-39",
+  "subject": "economics",
+  "year": 2014,
+  "number": 39,
+  "question": "The major contribution of OPEC to the Nigerian economy is the",
+  "options": {
+   "A": "provision of social infrastructures",
+   "B": "granting of subsidies on petroleum products",
+   "C": "stabilization of oil prices",
+   "D": "building of refineries"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-40",
+  "subject": "economics",
+  "year": 2014,
+  "number": 40,
+  "question": "The loading of crude oil at the terminal is an activity in the",
+  "options": {
+   "A": "downstream sector of the oil industry",
+   "B": "upstream and downstream sector of the oil industry",
+   "C": "upstream sector of the oil industry",
+   "D": "midstream and upstream sectors of the oil industry"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-41",
+  "subject": "economics",
+  "year": 2014,
+  "number": 41,
+  "question": "The short-run average variable cost of a firm will rise owing to",
+  "options": {
+   "A": "the expansion of factory space",
+   "B": "the building of new warehouse",
+   "C": "an increase in the cost of labour",
+   "D": "an increase in the salaries of directors"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-42",
+  "subject": "economics",
+  "year": 2014,
+  "number": 42,
+  "question": "Firms embark on vertical integration in other to",
+  "options": {
+   "A": "take over markets formally controlled by other firms",
+   "B": "prevent other firms from entering the market",
+   "C": "reduce advertisement and management cost",
+   "D": "enjoy economies of large- scale production"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-43",
+  "subject": "economics",
+  "year": 2014,
+  "number": 43,
+  "question": "The voting power in co-operative societies is vested on",
+  "options": {
+   "A": "management",
+   "B": "members without loan",
+   "C": "shareholders",
+   "D": "members with the highest contribution"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-44",
+  "subject": "economics",
+  "year": 2014,
+  "number": 44,
+  "question": "An accurate census figure is an important tool for planners in",
+  "options": {
+   "A": "providing employment",
+   "B": "siting industries",
+   "C": "providing social amenities",
+   "D": "allocating resources"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-45",
+  "subject": "economics",
+  "year": 2014,
+  "number": 45,
+  "question": "An accurate population census is important in other to",
+  "options": {
+   "A": "produce more food for the growing population",
+   "B": "provide employment opportunities for the people",
+   "C": "estimate a country's per capita income",
+   "D": "fast track industrial development 46.A major determinant of floating exchange rate is"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-47",
+  "subject": "economics",
+  "year": 2014,
+  "number": 47,
+  "question": "If the importation of a commodity is limited to a definite quantity, the trade control measure imposed is",
+  "options": {
+   "A": "excise duties",
+   "B": "import duties",
+   "C": "quotas",
+   "D": "tariff"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-48",
+  "subject": "economics",
+  "year": 2014,
+  "number": 48,
+  "question": "The main objective of WTO is to",
+  "options": {
+   "A": "ensure adequate protection of infant industries",
+   "B": "provide a mechanism for tariff reduction",
+   "C": "assist countries with chronic balance of payments problem",
+   "D": "assist developing countries to execute developmental projects"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-49",
+  "subject": "economics",
+  "year": 2014,
+  "number": 49,
+  "question": "The major determinant of the total volume of output in an economy is the",
+  "options": {
+   "A": "level of total expenditure",
+   "B": "composition of consumer spending",
+   "C": "number of farmers",
+   "D": "size of the labour force"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-50",
+  "subject": "economics",
+  "year": 2014,
+  "number": 50,
+  "question": "The labour force of a country is determined by the",
+  "options": {
+   "A": "age structure of the population",
+   "B": "geographical distribution of the population",
+   "C": "sex distribution of the population",
+   "D": "number of people available for work 1. C 9. D 17. C 2. A 10. C 18. C 3. C 11. B 19. B 4. B 12. D 20. D 5. C 13. A 21. D 6. C 14. B 22. C 7. D 15. D 23. C 8. D 16. B 24. B"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

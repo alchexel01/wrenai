@@ -1,0 +1,715 @@
+[
+ {
+  "id": "economics-2017-1",
+  "subject": "economics",
+  "year": 2017,
+  "number": 1,
+  "question": "If the arithmetic mean of 2, 3, 5, 8, Z, 10 and 12 is 7, what is the value of Z?",
+  "options": {
+   "A": "8",
+   "B": "9",
+   "C": "10",
+   "D": "7"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-2",
+  "subject": "economics",
+  "year": 2017,
+  "number": 2,
+  "question": "The most important function of agriculture to the Nigerian economy is",
+  "options": {
+   "A": "the guarantee of food security",
+   "B": "technical skill development",
+   "C": "technological development",
+   "D": "industrial development"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-3",
+  "subject": "economics",
+  "year": 2017,
+  "number": 3,
+  "question": "Given that Qd=15-2P and Qs=5+3P, determine the equilibrium price.",
+  "options": {
+   "A": "N3.00",
+   "B": "N5.00",
+   "C": "N2.00",
+   "D": "N6.00"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-4",
+  "subject": "economics",
+  "year": 2017,
+  "number": 4,
+  "question": "Scale of preference is referred to as the",
+  "options": {
+   "A": "choices consumers make",
+   "B": "array of consumer's needs",
+   "C": "consumer preference for luxurious goods",
+   "D": "consumer wants in order of priority"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-5",
+  "subject": "economics",
+  "year": 2017,
+  "number": 5,
+  "question": "One of the basic assumptions of monopoly is",
+  "options": {
+   "A": "perfect information of the market condition",
+   "B": "the ability to either control price or output",
+   "C": "perfect mobility of factors of production",
+   "D": "large number of buyers and sellers"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-6",
+  "subject": "economics",
+  "year": 2017,
+  "number": 6,
+  "question": "The major advantage of a public limited liability company over a private limited liability company's",
+  "options": {
+   "A": "limited liability enjoyed by owner",
+   "B": "separate legal entity",
+   "C": "easy transferability of shares",
+   "D": "perpetual existence"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-7",
+  "subject": "economics",
+  "year": 2017,
+  "number": 7,
+  "question": "The main activity in the upstream oil sector in Nigeria is",
+  "options": {
+   "A": "marketing of petroleum products",
+   "B": "distribution of petroleum products",
+   "C": "extraction of crude oil"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-8",
+  "subject": "economics",
+  "year": 2017,
+  "number": 8,
+  "question": "The natural growth of population is calculated as",
+  "options": {
+   "A": "birth rate + death rate",
+   "B": "labour force + dependant",
+   "C": "death rate - birth rate",
+   "D": "birth rate - death rate"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-9",
+  "subject": "economics",
+  "year": 2017,
+  "number": 9,
+  "question": "The study of age structure of a population is important because it",
+  "options": {
+   "A": "determine the exchange rate",
+   "B": "provide the government with statistics on the prevailing interest rate",
+   "C": "reveals the cost of living",
+   "D": "provides the government with statistics on present size of the labour force"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-10",
+  "subject": "economics",
+  "year": 2017,
+  "number": 10,
+  "question": "If the demand for palm oil is for the purpose of soap production and cooking, the demand is said to be",
+  "options": {
+   "A": "competitive",
+   "B": "complementary",
+   "C": "composite",
+   "D": "derived"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-11",
+  "subject": "economics",
+  "year": 2017,
+  "number": 11,
+  "question": "The institution established to enhance the activities of Nigeria's exports is",
+  "options": {
+   "A": "Nigerian Export and Import Bank",
+   "B": "Import-substitution strategy",
+   "C": "Nigeria Export Promotion Council",
+   "D": "Bank of Industry"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2017_p42_1.png",
+  "images": [
+   "economics/2017_p42_1.png"
+  ]
+ },
+ {
+  "id": "economics-2017-12",
+  "subject": "economics",
+  "year": 2017,
+  "number": 12,
+  "question": "From the pie chart above, the percentage contribution of entrepreneur is",
+  "options": {
+   "A": "2.77%",
+   "B": "33.33%",
+   "C": "27.70%"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-13",
+  "subject": "economics",
+  "year": 2017,
+  "number": 13,
+  "question": "A sustained increase in per capita income accompanied by an increase in output is",
+  "options": {
+   "A": "economies of scale",
+   "B": "economic efficiency",
+   "C": "economic development",
+   "D": "economic growth"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-14",
+  "subject": "economics",
+  "year": 2017,
+  "number": 14,
+  "question": "The reward for capita as a factor of production is",
+  "options": {
+   "A": "interest",
+   "B": "rent",
+   "C": "profit",
+   "D": "wage"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-15",
+  "subject": "economics",
+  "year": 2017,
+  "number": 15,
+  "question": "The type of inflation that emanates from excess demand over supply is",
+  "options": {
+   "A": "galloping inflation",
+   "B": "cost-push inflation",
+   "C": "demand-pull inflation",
+   "D": "imported inflation"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-16",
+  "subject": "economics",
+  "year": 2017,
+  "number": 16,
+  "question": "Which of the following problems is associated with national income measurement?",
+  "options": {
+   "A": "High interest rate",
+   "B": "Inflation and deflation",
+   "C": "Overpopulation",
+   "D": "population growth"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-17",
+  "subject": "economics",
+  "year": 2017,
+  "number": 17,
+  "question": "Freedom of consumption and production are characteristics of",
+  "options": {
+   "A": "socialism",
+   "B": "feudalism",
+   "C": "capitalism",
+   "D": "communism"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-18",
+  "subject": "economics",
+  "year": 2017,
+  "number": 18,
+  "question": "Cost of raw materials in production is an example of",
+  "options": {
+   "A": "marginal cost",
+   "B": "variable cost",
+   "C": "total cost",
+   "D": "fixed cost"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-19",
+  "subject": "economics",
+  "year": 2017,
+  "number": 19,
+  "question": "Foreign exchange control in Nigeria is administered by the",
+  "options": {
+   "A": "Money deposit banks",
+   "B": "Central Bank of Nigeria",
+   "C": "Discount houses",
+   "D": "Security and Exchange Commission"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2017_p43_1.png",
+  "images": [
+   "economics/2017_p43_1.png"
+  ]
+ },
+ {
+  "id": "economics-2017-20",
+  "subject": "economics",
+  "year": 2017,
+  "number": 20,
+  "question": "From the pie chart above, determine the contribution of capital if the total contribution of all factors is",
+  "options": {
+   "A": "₦12.50 million",
+   "B": "₦142.50 million",
+   "C": "₦50 million",
+   "D": "₦7.50 million"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-21",
+  "subject": "economics",
+  "year": 2017,
+  "number": 21,
+  "question": "The volume of output in an economy is determined by",
+  "options": {
+   "A": "the foreign exchange rate",
+   "B": "the standard of living of citizens",
+   "C": "population density of a country",
+   "D": "efficiency in the use of factors of production"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-22",
+  "subject": "economics",
+  "year": 2017,
+  "number": 22,
+  "question": "Given Qd = 30 - 3P, Qs = 9P – 18. Determine the equilibrium quantity",
+  "options": {
+   "A": "18",
+   "B": "20",
+   "C": "25",
+   "D": "27"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-23",
+  "subject": "economics",
+  "year": 2017,
+  "number": 23,
+  "question": "In Nigeria, industrial development can be enhanced by",
+  "options": {
+   "A": "ensuring stable prices for manufactured goods",
+   "B": "reducing government expenditure on imported goods",
+   "C": "providing efficient infrastructure",
+   "D": "increasing the rate of interest"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-25",
+  "subject": "economics",
+  "year": 2017,
+  "number": 25,
+  "question": "Capital gains tax is an example of",
+  "options": {
+   "A": "Value Added Tax",
+   "B": "purchase tax",
+   "C": "sales tax",
+   "D": "income tax"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-26",
+  "subject": "economics",
+  "year": 2017,
+  "number": 26,
+  "question": "Which of the following is NOT a source of government revenue?",
+  "options": {
+   "A": "Taxes, fees, licenses and fines",
+   "B": "Interest, dividends, profits and earnings",
+   "C": "Personal income, disposable income and transfer earnings",
+   "D": "Grants, aids and borrowing"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-27",
+  "subject": "economics",
+  "year": 2017,
+  "number": 27,
+  "question": "One of the important qualities that money must possess is",
+  "options": {
+   "A": "heterogeneity",
+   "B": "easy availability",
+   "C": "homogeneity",
+   "D": "flexibility in value Price"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2017_p44_1.png",
+  "images": [
+   "economics/2017_p44_1.png"
+  ]
+ },
+ {
+  "id": "economics-2017-28",
+  "subject": "economics",
+  "year": 2017,
+  "number": 28,
+  "question": "The graph above represents",
+  "options": {
+   "A": "a decrease in quality supplied",
+   "B": "an increase in supply",
+   "C": "an increase in quantity supplied",
+   "D": "a decrease in supply Wages"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2017_p44_2.png",
+  "images": [
+   "economics/2017_p44_2.png"
+  ]
+ },
+ {
+  "id": "economics-2017-29",
+  "subject": "economics",
+  "year": 2017,
+  "number": 29,
+  "question": "From the diagram above, the arrow marked M indicates",
+  "options": {
+   "A": "payments made for foods and services",
+   "B": "payments made to factors of production",
+   "C": "the flow of capital goods",
+   "D": "the flow of economics rent"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-30",
+  "subject": "economics",
+  "year": 2017,
+  "number": 30,
+  "question": "A change in the quantity supplied of a commodity is influenced by",
+  "options": {
+   "A": "the price of substitutes",
+   "B": "the price of the commodity",
+   "C": "consumer's tastes",
+   "D": "technological know-how"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-31",
+  "subject": "economics",
+  "year": 2017,
+  "number": 31,
+  "question": "Price Quantity (₦) demanded 6 20 5 16 From the table above, calculate the elasticity of demand",
+  "options": {
+   "A": "0.03",
+   "B": "0.30",
+   "C": "0.33",
+   "D": "0.04"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-32",
+  "subject": "economics",
+  "year": 2017,
+  "number": 32,
+  "question": "One of the functions of money deposit banks in economic development is",
+  "options": {
+   "A": "that it is banker to the government",
+   "B": "the provision of credits facilities",
+   "C": "the formulation of monetary policies",
+   "D": "issuing of currency notes"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-33",
+  "subject": "economics",
+  "year": 2017,
+  "number": 33,
+  "question": "One of the arguments against the practice of monopoly is",
+  "options": {
+   "A": "merging of producers",
+   "B": "competition",
+   "C": "exploitation",
+   "D": "non-government ownership"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-34",
+  "subject": "economics",
+  "year": 2017,
+  "number": 34,
+  "question": "The main reason why countries engaged in international trade is the",
+  "options": {
+   "A": "opportunity to earn high profit in trading",
+   "B": "use of capital-intensive method of productions",
+   "C": "difference in their endowment of economic resources",
+   "D": "difference in the population structure"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-35",
+  "subject": "economics",
+  "year": 2017,
+  "number": 35,
+  "question": "From the table above, what is the value X?",
+  "options": {
+   "A": "32",
+   "B": "35",
+   "C": "34",
+   "D": "30"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2017_p45_2.png",
+  "images": [
+   "economics/2017_p45_2.png"
+  ]
+ },
+ {
+  "id": "economics-2017-36",
+  "subject": "economics",
+  "year": 2017,
+  "number": 36,
+  "question": "From the table above, it can be inferred that there is",
+  "options": {
+   "A": "diminishing returns to scale",
+   "B": "excess of demand",
+   "C": "diminishing marginal utility",
+   "D": "diminishing marginal productivity 37.A well conducted census is important for"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2017_p45_1.png",
+  "images": [
+   "economics/2017_p45_1.png"
+  ]
+ },
+ {
+  "id": "economics-2017-38",
+  "subject": "economics",
+  "year": 2017,
+  "number": 38,
+  "question": "The cost-saving advantages which a large firm can achieve on its own is called",
+  "options": {
+   "A": "internal economies of scale",
+   "B": "diseconomies of large scale",
+   "C": "externa diseconomies of scale",
+   "D": "external economies of scale 39.A country uses the foreign exchange control measure to eliminate balance of payments deficit by"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-40",
+  "subject": "economics",
+  "year": 2017,
+  "number": 40,
+  "question": "The role of IBRD as an international institution is to",
+  "options": {
+   "A": "improve trading among member nations",
+   "B": "finance private businesses in member nations",
+   "C": "facilitate the development of infrastructure in member nations",
+   "D": ""
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

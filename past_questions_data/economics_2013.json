@@ -1,0 +1,953 @@
+[
+ {
+  "id": "economics-2013-1",
+  "subject": "economics",
+  "year": 2013,
+  "number": 1,
+  "question": "Which question paper type of Economics is given to you?",
+  "options": {
+   "A": "Type B",
+   "B": "Type I",
+   "C": "Type B",
+   "D": "Type U"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-2",
+  "subject": "economics",
+  "year": 2013,
+  "number": 2,
+  "question": "An economy in which both the public and private sectors contribute to economic growth is as",
+  "options": {
+   "A": "feudal economy",
+   "B": "capitalist economy",
+   "C": "socialist economy",
+   "D": "mixed economy"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-3",
+  "subject": "economics",
+  "year": 2013,
+  "number": 3,
+  "question": "If the standard deviation of a given data is 53, what is the variance?",
+  "options": {
+   "A": "2,082",
+   "B": "2,809",
+   "C": "2,808",
+   "D": "2,209"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-4",
+  "subject": "economics",
+  "year": 2013,
+  "number": 4,
+  "question": "Which of the following set of statistical tools is used for further economic analysis?",
+  "options": {
+   "A": "the median and standard deviation",
+   "B": "the mean and mode",
+   "C": "the mean and standard deviation",
+   "D": "the mode and median"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-5",
+  "subject": "economics",
+  "year": 2013,
+  "number": 5,
+  "question": "An advantage of the range as a measure of dispersion is that it",
+  "options": {
+   "A": "can be used to calculate open- ended distribution",
+   "B": "make use of all values of observations in a distribution",
+   "C": "takes all values into consideration",
+   "D": "is useful for further statistical calculation"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-6",
+  "subject": "economics",
+  "year": 2013,
+  "number": 6,
+  "question": "Find the median of the following set of data 35, 10, 14, 38, 15, 18, 22, 30 and",
+  "options": {
+   "A": "10",
+   "B": "38",
+   "C": "35",
+   "D": "22"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-7",
+  "subject": "economics",
+  "year": 2013,
+  "number": 7,
+  "question": "An increase in demand without a corresponding change in supply will lead",
+  "options": {
+   "A": "a decrease in equilibrium price and increase in equilibrium quantity",
+   "B": "an increase in equilibrium price and quantity",
+   "C": "a decrease in equilibrium price and quantity",
+   "D": "an increase in equilibrium price and a decrease in equilibrium quantity"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-8",
+  "subject": "economics",
+  "year": 2013,
+  "number": 8,
+  "question": "An increase in the price of a commodity will result in",
+  "options": {
+   "A": "a decrease in the quantity demanded",
+   "B": "an increase in demand",
+   "C": "an increase in quantity demanded",
+   "D": "a decrease in demand"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-9",
+  "subject": "economics",
+  "year": 2013,
+  "number": 9,
+  "question": "If the price of a bicycle changes from N120 to N80 and quantity bought changes from 300 to 500 units, the elasticity of demand for bicycle is",
+  "options": {
+   "A": "66.7",
+   "B": "0.5",
+   "C": "1.5",
+   "D": "2.0"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-10",
+  "subject": "economics",
+  "year": 2013,
+  "number": 10,
+  "question": "From the graph above, the price elasticity of demand is",
+  "options": {
+   "A": "unitarily elastic",
+   "B": "perfectly elastic",
+   "C": "perfectly inelastic",
+   "D": "fairly inelastic"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2013_p18_1.png",
+  "images": [
+   "economics/2013_p18_1.png"
+  ]
+ },
+ {
+  "id": "economics-2013-11",
+  "subject": "economics",
+  "year": 2013,
+  "number": 11,
+  "question": "One of the assumptions of the cardinalist approach is",
+  "options": {
+   "A": "diminishing marginal rate of substitution",
+   "B": "the consistency and transitivity of choice",
+   "C": "that total utility depends on the quantity of the commodities consumed",
+   "D": "unstable marginal utility of money"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-12",
+  "subject": "economics",
+  "year": 2013,
+  "number": 12,
+  "question": "Utility is the satisfaction derived from the",
+  "options": {
+   "A": "distribution of goods and services",
+   "B": "use of goods and services",
+   "C": "demand of goods and services",
+   "D": "production of goods and services"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-13",
+  "subject": "economics",
+  "year": 2013,
+  "number": 13,
+  "question": "From the indifference curve above, consumer will prefer combination",
+  "options": {
+   "A": "F",
+   "B": "S",
+   "C": "M",
+   "D": "K"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2013_p19_1.png",
+  "images": [
+   "economics/2013_p19_1.png"
+  ]
+ },
+ {
+  "id": "economics-2013-14",
+  "subject": "economics",
+  "year": 2013,
+  "number": 14,
+  "question": "One of the major factors that brings about changes in supply is",
+  "options": {
+   "A": "market discrimination",
+   "B": "availability of storage facilities",
+   "C": "the cost of storage",
+   "D": "incentives granted to workers"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-15",
+  "subject": "economics",
+  "year": 2013,
+  "number": 15,
+  "question": "If P = ₄ (Qs + 10). What is the quantity supplied at N14?",
+  "options": {
+   "A": "14",
+   "B": "60",
+   "C": "46",
+   "D": "32"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-16",
+  "subject": "economics",
+  "year": 2013,
+  "number": 16,
+  "question": "If the supply of a product is elastic, a small reduction in price will",
+  "options": {
+   "A": "reduce the cost of production",
+   "B": "reduce the quantity supplied",
+   "C": "increase the quantity supplied",
+   "D": "lead to no change in the quantity supplied"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-17",
+  "subject": "economics",
+  "year": 2013,
+  "number": 17,
+  "question": "The supply of beverages by firms in a monopolistic market is an example of",
+  "options": {
+   "A": "derived demand",
+   "B": "competitive supply",
+   "C": "composite supply",
+   "D": "joint demand"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-18",
+  "subject": "economics",
+  "year": 2013,
+  "number": 18,
+  "question": "If the price of a commodity is fixed below equilibrium, this will lead to",
+  "options": {
+   "A": "excess demand",
+   "B": "a decrease in price",
+   "C": "an increase in price",
+   "D": "excess supply"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-19",
+  "subject": "economics",
+  "year": 2013,
+  "number": 19,
+  "question": "One of the criticisms of the price mechanism is that",
+  "options": {
+   "A": "producers are sovereign",
+   "B": "it provides low degree of freedom",
+   "C": "it widens the inequitable gap",
+   "D": "consumers are sovereign"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-20",
+  "subject": "economics",
+  "year": 2013,
+  "number": 20,
+  "question": "In Nigeria, government can reduce the cost of accommodation by fixing rent",
+  "options": {
+   "A": "at the prevailing rate",
+   "B": "at the equilibrium price",
+   "C": "above the equilibrium price",
+   "D": "below the equilibrium price"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-21",
+  "subject": "economics",
+  "year": 2013,
+  "number": 21,
+  "question": "If a refinery achieves a reduction in cost by purchasing and transporting crude oil in large quantities, it enjoys",
+  "options": {
+   "A": "economies of scale",
+   "B": "specialization",
+   "C": "division of labour",
+   "D": "diseconomies of scale"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-22",
+  "subject": "economics",
+  "year": 2013,
+  "number": 22,
+  "question": "An isoquant lying above to the right of another represents",
+  "options": {
+   "A": "a higher output level",
+   "B": "constant returns to scale",
+   "C": "over-capacity utilization",
+   "D": "a lower output level"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-23",
+  "subject": "economics",
+  "year": 2013,
+  "number": 23,
+  "question": "",
+  "options": {},
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": true,
+  "image": "economics/2013_p20_1.png",
+  "images": [
+   "economics/2013_p20_1.png"
+  ]
+ },
+ {
+  "id": "economics-2013-24",
+  "subject": "economics",
+  "year": 2013,
+  "number": 24,
+  "question": "The optimum level of output of the firm",
+  "options": {
+   "A": "BC",
+   "B": "OB",
+   "C": "OS",
+   "D": "BS"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-25",
+  "subject": "economics",
+  "year": 2013,
+  "number": 25,
+  "question": "The total revenue of the firm is represented by",
+  "options": {
+   "A": "GHEF",
+   "B": "GHJC",
+   "C": "EFJC",
+   "D": "GHOB"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-26",
+  "subject": "economics",
+  "year": 2013,
+  "number": 26,
+  "question": "A measure of national income used as comparison of standard of living among nations is",
+  "options": {
+   "A": "net national product",
+   "B": "gross domestic product",
+   "C": "gross national product",
+   "D": "per capita income"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-27",
+  "subject": "economics",
+  "year": 2013,
+  "number": 27,
+  "question": "The speculative demand for money is inversely related to the",
+  "options": {
+   "A": "interest rate",
+   "B": "level of income",
+   "C": "exchange rate",
+   "D": "inflation rate"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-28",
+  "subject": "economics",
+  "year": 2013,
+  "number": 28,
+  "question": "If Mr. K obtains a N50.000 loan from a bank for the purpose of providing household needs, the demand for money is said to be",
+  "options": {
+   "A": "transactionary",
+   "B": "speculative",
+   "C": "precautionary and speculative",
+   "D": "transactional and speculative"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-29",
+  "subject": "economics",
+  "year": 2013,
+  "number": 29,
+  "question": "Which of the following is used by the Central Bank of Nigeria to control inflation?",
+  "options": {
+   "A": "Tariff on imports",
+   "B": "Tax rate",
+   "C": "Exchange rate",
+   "D": "Discount rate"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-30",
+  "subject": "economics",
+  "year": 2013,
+  "number": 30,
+  "question": "If CBN reduces money supply, the interest rate will",
+  "options": {
+   "A": "fluctuate",
+   "B": "rise",
+   "C": "fall",
+   "D": "remain unchanged"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-31",
+  "subject": "economics",
+  "year": 2013,
+  "number": 31,
+  "question": "An example of an expansionary fiscal policy action is",
+  "options": {
+   "A": "decrease in the corporate profit tax rates",
+   "B": "decrease in welfare payments",
+   "C": "purchase of government securities",
+   "D": "decrease in the bank rate"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-32",
+  "subject": "economics",
+  "year": 2013,
+  "number": 32,
+  "question": "A tax on land will ultimately fall",
+  "options": {
+   "A": "partly on agents and users",
+   "B": "entirely on users",
+   "C": "entirely on owners",
+   "D": "partly on users and owners"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-33",
+  "subject": "economics",
+  "year": 2013,
+  "number": 33,
+  "question": "One of the goals of development plans in Nigeria is to",
+  "options": {
+   "A": "increase the profitability of multinational businesses",
+   "B": "improve the country's GDP",
+   "C": "achieve higher standard of living for the citizens",
+   "D": "deregulate the economy"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-34",
+  "subject": "economics",
+  "year": 2013,
+  "number": 34,
+  "question": "Life insurance companies contribute to economic development by holding a part of their assets in",
+  "options": {
+   "A": "long-term financial instruments",
+   "B": "money market instruments",
+   "C": "cash and near money",
+   "D": "short-term financial instruments"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-35",
+  "subject": "economics",
+  "year": 2013,
+  "number": 35,
+  "question": "In order to add value to Nigeria agricultural produce, there is need to",
+  "options": {
+   "A": "cultivate high breed crops",
+   "B": "process them into finished goods",
+   "C": "adopt modern storage methods",
+   "D": "advertise them in European markets"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-36",
+  "subject": "economics",
+  "year": 2013,
+  "number": 36,
+  "question": "The main reason for low agricultural produce in west Africa is need to",
+  "options": {
+   "A": "the presence of large-scale agro- allied industries",
+   "B": "high dependency ratio",
+   "C": "over dependence on agriculture for subsistence",
+   "D": "the use of crude implements in farming process"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-37",
+  "subject": "economics",
+  "year": 2013,
+  "number": 37,
+  "question": "The most important determinant for the location of a brick industry is the availability of",
+  "options": {
+   "A": "market",
+   "B": "power supply",
+   "C": "water",
+   "D": "raw materials"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-38",
+  "subject": "economics",
+  "year": 2013,
+  "number": 38,
+  "question": "In Nigeria, efficiency in public corporations can be achieved through",
+  "options": {
+   "A": "public offer",
+   "B": "indigenization",
+   "C": "privatization",
+   "D": "nationalization"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-39",
+  "subject": "economics",
+  "year": 2013,
+  "number": 39,
+  "question": "Government participation in the oil industry was necessitated by the",
+  "options": {
+   "A": "annual increase in production",
+   "B": "formation of OPEC",
+   "C": "high demand for crude oil",
+   "D": "huge investment outlay"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-40",
+  "subject": "economics",
+  "year": 2013,
+  "number": 40,
+  "question": "The deregulation of the petroleum sector in Nigeria will bring about",
+  "options": {
+   "A": "efficiency in pricing and distribution of the products",
+   "B": "an end to the importation of fuel",
+   "C": "an end to foreign firms' dominance",
+   "D": "fixing appropriate production quotas"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-41",
+  "subject": "economics",
+  "year": 2013,
+  "number": 41,
+  "question": "A distinguishing characteristic of consumer co-operative society is that the",
+  "options": {
+   "A": "the maximum number of shareholders is 20",
+   "B": "members are the owners",
+   "C": "members are the workers",
+   "D": "the minimum number of shareholders is 5"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-42",
+  "subject": "economics",
+  "year": 2013,
+  "number": 42,
+  "question": "A major disadvantage of partnership business is",
+  "options": {
+   "A": "difficulty in the transfer of shares",
+   "B": "distrust among members",
+   "C": "limited liability",
+   "D": "large capital outlay"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-43",
+  "subject": "economics",
+  "year": 2013,
+  "number": 43,
+  "question": "The quality of labour force in Nigeria can be improved by",
+  "options": {
+   "A": "establishing more tertiary institutions",
+   "B": "creating sufficient job opportunities",
+   "C": "encouraging the study of science and technology",
+   "D": "establishing more skills acquisition centres"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-44",
+  "subject": "economics",
+  "year": 2013,
+  "number": 44,
+  "question": "The effect of emigration on a country's population is",
+  "options": {
+   "A": "decrease in the population",
+   "B": "decrease in job opportunities",
+   "C": "increase in population",
+   "D": "increase in dependency ratio"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-45",
+  "subject": "economics",
+  "year": 2013,
+  "number": 45,
+  "question": "A measure for preventing the external value of the naira from falling is for the government to",
+  "options": {
+   "A": "increase its spending with foreign Reserve",
+   "B": "sell its own currency",
+   "C": "reduce interest rate",
+   "D": "buy its currency with foreign reserve"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-46",
+  "subject": "economics",
+  "year": 2013,
+  "number": 46,
+  "question": "A fiscal policy instrument that can influence the demand pattern in an economy is",
+  "options": {
+   "A": "government spending",
+   "B": "interest rate",
+   "C": "income tax",
+   "D": "tariff"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-47",
+  "subject": "economics",
+  "year": 2013,
+  "number": 47,
+  "question": "One of the main achievements of the Economic Commission for Africa is",
+  "options": {
+   "A": "eliminating trade restrictions among States",
+   "B": "encouraging transport and communication development",
+   "C": "guaranteeing a steady flow of foreign investment into Africa",
+   "D": "providing the machinery for collaboration on monetary issues"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-48",
+  "subject": "economics",
+  "year": 2013,
+  "number": 48,
+  "question": "The rate of interest change on loans depends largely on",
+  "options": {
+   "A": "the prevailing exchange rate",
+   "B": "marginal efficiency of capital",
+   "C": "the risk associated with the loan",
+   "D": "the prevailing tax rate"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-49",
+  "subject": "economics",
+  "year": 2013,
+  "number": 49,
+  "question": "A valid explanation for real wage growth",
+  "options": {
+   "A": "an increase in the rate of productivity",
+   "B": "the rising cost of capital accumulation",
+   "C": "a contraction of employment in service industries",
+   "D": "an increase in the quantity of labour"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2013-50",
+  "subject": "economics",
+  "year": 2013,
+  "number": 50,
+  "question": "If Mr. X lost his clerical job at a store and searched for a similar job for ten months before finding one this implies that Mr. X was",
+  "options": {
+   "A": "structurally unemployed",
+   "B": "frictionally unemployed",
+   "C": "seasonally unemployed",
+   "D": "cyclically unemployed"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

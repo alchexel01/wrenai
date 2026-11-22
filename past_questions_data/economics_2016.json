@@ -1,0 +1,876 @@
+[
+ {
+  "id": "economics-2016-1",
+  "subject": "economics",
+  "year": 2016,
+  "number": 1,
+  "question": "A country embarks on deficit financing in order to",
+  "options": {
+   "A": "reduce aggregate demand",
+   "B": "increase revenue",
+   "C": "stimulate investment",
+   "D": "curb inflation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-2",
+  "subject": "economics",
+  "year": 2016,
+  "number": 2,
+  "question": "The money market provides business firms with the avenue to",
+  "options": {
+   "A": "purchase goods and services",
+   "B": "purchase capital equipment’s",
+   "C": "obtain short- term funds",
+   "D": "obtain long-term funds"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-3",
+  "subject": "economics",
+  "year": 2016,
+  "number": 3,
+  "question": "The optimum level of output for pure monopolist occurs where",
+  "options": {
+   "A": "P is highest",
+   "B": "P=AC",
+   "C": "P=MC",
+   "D": "MR=MC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-4",
+  "subject": "economics",
+  "year": 2016,
+  "number": 4,
+  "question": "According to the demographic transition theory, Africa can be said to be at stage",
+  "options": {
+   "A": "2 and 3",
+   "B": "3 only",
+   "C": "2 only",
+   "D": "1 and 3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-5",
+  "subject": "economics",
+  "year": 2016,
+  "number": 5,
+  "question": "The Economic Community of West African States (ECOWAS) is an example of",
+  "options": {
+   "A": "globalization",
+   "B": "regional marketing board",
+   "C": "economic integration",
+   "D": "economic union."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-6",
+  "subject": "economics",
+  "year": 2016,
+  "number": 6,
+  "question": "Given: 32, 18, 24, 17, 16, 32, 28, 68, 71 and 15, the mode of the distribution is",
+  "options": {
+   "A": "71",
+   "B": "56",
+   "C": "32",
+   "D": "15"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-7",
+  "subject": "economics",
+  "year": 2016,
+  "number": 7,
+  "question": "The major determinant of income elasticity of demand is",
+  "options": {
+   "A": "government policy",
+   "B": "the availability of substitutes",
+   "C": "the price of the good",
+   "D": "the level of consumer's income"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-8",
+  "subject": "economics",
+  "year": 2016,
+  "number": 8,
+  "question": "Given: 2, 4, 6, 8, 4 and 6, the absolute mean deviation is",
+  "options": {
+   "A": "6.00",
+   "B": "1.67",
+   "C": "30.00",
+   "D": "0.60"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-9",
+  "subject": "economics",
+  "year": 2016,
+  "number": 9,
+  "question": "The precautionary demand for money is determined by",
+  "options": {
+   "A": "the level of savings",
+   "B": "the rate of interest",
+   "C": "general price level",
+   "D": "the level of income."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-10",
+  "subject": "economics",
+  "year": 2016,
+  "number": 10,
+  "question": "If the output of a firm experiencing economies of scale increases, the average cost would",
+  "options": {
+   "A": "be at minimum",
+   "B": "rise",
+   "C": "be at maximum",
+   "D": "fall."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-11",
+  "subject": "economics",
+  "year": 2016,
+  "number": 11,
+  "question": "The demand curve for a normal good is negatively sloped because",
+  "options": {
+   "A": "price is an incentive to producers",
+   "B": "price is an incentive to consumers",
+   "C": "demand always exceeds supply",
+   "D": "price and quantity move in the same direction."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-12",
+  "subject": "economics",
+  "year": 2016,
+  "number": 12,
+  "question": "The average total cost when 20 units are produced is",
+  "options": {
+   "A": "₦45.30kg",
+   "B": "₦50.00kg",
+   "C": "₦47.50kg",
+   "D": "₦5.00kg"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2016_p36_1.png",
+  "images": [
+   "economics/2016_p36_1.png"
+  ]
+ },
+ {
+  "id": "economics-2016-13",
+  "subject": "economics",
+  "year": 2016,
+  "number": 13,
+  "question": "The major role of multinational companies in the Nigerian petroleum industry is",
+  "options": {
+   "A": "oil marketing only",
+   "B": "oil marketing and prospecting",
+   "C": "establishment of refineries",
+   "D": "oil prospecting only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-14",
+  "subject": "economics",
+  "year": 2016,
+  "number": 14,
+  "question": "Life insurance companies contribute to economic development by holding a part of their assets in",
+  "options": {
+   "A": "long-term financial instruments",
+   "B": "equipment",
+   "C": "cash and near money",
+   "D": "money-market instruments."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-15",
+  "subject": "economics",
+  "year": 2016,
+  "number": 15,
+  "question": "The wage rate is mostly related to",
+  "options": {
+   "A": "marginal productivity of labour",
+   "B": "average productivity of labour C. marginal efficiency of investment D. total productivity of Labour."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-16",
+  "subject": "economics",
+  "year": 2016,
+  "number": 16,
+  "question": "The choice of how to produce in a command economy is determined by",
+  "options": {
+   "A": "consumers",
+   "B": "government",
+   "C": "industries",
+   "D": "labour unions."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-17",
+  "subject": "economics",
+  "year": 2016,
+  "number": 17,
+  "question": "The co-efficient of price elasticity of supply is",
+  "options": {
+   "A": "% change in supply % change in price",
+   "B": "% change in quantity supplied % change in price",
+   "D": "% change in quantity supplied %change in income"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-18",
+  "subject": "economics",
+  "year": 2016,
+  "number": 18,
+  "question": "A change in supply of a commodity is due to a change in the",
+  "options": {
+   "A": "price of the commodity",
+   "B": "cost of production",
+   "C": "price of substitute",
+   "D": "population growth rate."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-19",
+  "subject": "economics",
+  "year": 2016,
+  "number": 19,
+  "question": "In a limited liability company, the greatest risk is borne by the",
+  "options": {
+   "A": "preference shareholders",
+   "B": "debentures shareholders",
+   "C": "ordinary shareholders",
+   "D": "board of directors."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-20",
+  "subject": "economics",
+  "year": 2016,
+  "number": 20,
+  "question": "A market characterized by absence of close substitutes of goods and services is an example of",
+  "options": {
+   "A": "a monopoly",
+   "B": "an oligopoly",
+   "C": "a perfect competition",
+   "D": "a monopolistic competition."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-21",
+  "subject": "economics",
+  "year": 2016,
+  "number": 21,
+  "question": "An inflation that co-exists with high rate of unemployment is",
+  "options": {
+   "A": "hyperinflation",
+   "B": "cost-push inflation",
+   "C": "stagflation",
+   "D": "demand-pull inflation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-22",
+  "subject": "economics",
+  "year": 2016,
+  "number": 22,
+  "question": "The growth and development of small and medium scale enterprises in Nigeria is hampered by",
+  "options": {
+   "A": "poor regulatory framework",
+   "B": "poor access to credit facilities",
+   "C": "poor management",
+   "D": "the small size of the market."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-23",
+  "subject": "economics",
+  "year": 2016,
+  "number": 23,
+  "question": "A major determinant of demand is",
+  "options": {
+   "A": "incentives to workers",
+   "B": "level of technology",
+   "C": "population",
+   "D": "cost of production."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-24",
+  "subject": "economics",
+  "year": 2016,
+  "number": 24,
+  "question": "Which of the following can be used to measure the Gross National Product",
+  "options": {
+   "A": "C+I+G-F(X+M)",
+   "B": "C+I+G+(X-M)",
+   "C": "C+I+G+X",
+   "D": "C+I+G"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-25",
+  "subject": "economics",
+  "year": 2016,
+  "number": 25,
+  "question": "Find the median of the following set of data 35, 10, 14, 38, 15, 18, 22, 30 and",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-28",
+  "subject": "economics",
+  "year": 2016,
+  "number": 28,
+  "question": "",
+  "options": {
+   "A": "10",
+   "B": "22",
+   "C": "38",
+   "D": "35 26."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2016_p38_1.png",
+  "images": [
+   "economics/2016_p38_1.png"
+  ]
+ },
+ {
+  "id": "economics-2016-29",
+  "subject": "economics",
+  "year": 2016,
+  "number": 29,
+  "question": "A major feature of an underdeveloped economy is",
+  "options": {
+   "A": "low rate of population growth",
+   "B": "excess capacity utilization",
+   "C": "low level of unemployment",
+   "D": "low level of standard living."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-30",
+  "subject": "economics",
+  "year": 2016,
+  "number": 30,
+  "question": "A tax on land will ultimately fall",
+  "options": {
+   "A": "partly on agents and users",
+   "B": "partly on users and owners",
+   "C": "entirely on owners",
+   "D": "entirely on users."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-31",
+  "subject": "economics",
+  "year": 2016,
+  "number": 31,
+  "question": "The deregulation on the petroleum sector in Nigeria will bring about",
+  "options": {
+   "A": "efficiency in pricing and distribution of the products",
+   "B": "fixing appropriate production quotas",
+   "C": "an end to the importation of fuel",
+   "D": "an end to foreign firms' dominance."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-32",
+  "subject": "economics",
+  "year": 2016,
+  "number": 32,
+  "question": "One of the ways of correcting a deficit balance of payments is to",
+  "options": {
+   "A": "devalue a country's currency",
+   "B": "predenominate a country's currency",
+   "C": "reduce imports",
+   "D": "reduce exports."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-33",
+  "subject": "economics",
+  "year": 2016,
+  "number": 33,
+  "question": "A nation's net export is negative when her",
+  "options": {
+   "A": "export is adjusted upwards",
+   "B": "external reserves deplete",
+   "C": "depreciation exceeds investments",
+   "D": "imports exceeds exports."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-34",
+  "subject": "economics",
+  "year": 2016,
+  "number": 34,
+  "question": "Given: Qd = 30 — 3P and Qs = 9P — 15, determine the equilibrium price",
+  "options": {
+   "A": "₦12.00",
+   "B": "₦3.75",
+   "C": "₦2.80",
+   "D": "₦3.00"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-35",
+  "subject": "economics",
+  "year": 2016,
+  "number": 35,
+  "question": "The problem of economic development in Nigeria is that of",
+  "options": {
+   "A": "poor weather conditions",
+   "B": "overpopulation",
+   "C": "surplus skilled manpower",
+   "D": "inadequate infrastructure."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-36",
+  "subject": "economics",
+  "year": 2016,
+  "number": 36,
+  "question": "The combination of two commodities that yield the same level of satisfaction is illustrated by",
+  "options": {
+   "A": "a budget line",
+   "B": "an isocost curve",
+   "C": "a production possibility curve",
+   "D": "an indifference curve"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-37",
+  "subject": "economics",
+  "year": 2016,
+  "number": 37,
+  "question": "The demand for inferior goods is inversely related to change in",
+  "options": {
+   "A": "income",
+   "B": "price",
+   "C": "supply",
+   "D": "taste."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-38",
+  "subject": "economics",
+  "year": 2016,
+  "number": 38,
+  "question": "The minimum number of shareholders for partnership is",
+  "options": {
+   "A": "7",
+   "B": "4",
+   "C": "2",
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-39",
+  "subject": "economics",
+  "year": 2016,
+  "number": 39,
+  "question": "When diminishing returns sets in, the total variable cost begins to",
+  "options": {
+   "A": "rise at an increasing rate",
+   "B": "fall at a decreasing rate",
+   "C": "rise at a decreasing rate",
+   "D": "fall at an increasing rate."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-40",
+  "subject": "economics",
+  "year": 2016,
+  "number": 40,
+  "question": "From the table above, the marginal product of the 7th Unit of Capital is",
+  "options": {
+   "A": "80kg",
+   "B": "100kg",
+   "C": "310kg",
+   "D": "173kg"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2016_p39_1.png",
+  "images": [
+   "economics/2016_p39_1.png"
+  ]
+ },
+ {
+  "id": "economics-2016-41",
+  "subject": "economics",
+  "year": 2016,
+  "number": 41,
+  "question": "Given: 32, 18, 24, 17, 16, 32, 28, 68, 71 and 15, what is the range?",
+  "options": {
+   "A": "26",
+   "B": "32",
+   "C": "56",
+   "D": "68"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-42",
+  "subject": "economics",
+  "year": 2016,
+  "number": 42,
+  "question": "From the diagram above, the consumer is at equilibrium at point",
+  "options": {
+   "A": "G",
+   "B": "F",
+   "C": "K",
+   "D": "M"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2016_p39_2.png",
+  "images": [
+   "economics/2016_p39_2.png"
+  ]
+ },
+ {
+  "id": "economics-2016-43",
+  "subject": "economics",
+  "year": 2016,
+  "number": 43,
+  "question": "If P = 1/4 (Qs + 30), what is the quantity supplied at ₦18?",
+  "options": {
+   "A": "64.5",
+   "B": "42.0",
+   "C": "2.4",
+   "D": "30.0"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-44",
+  "subject": "economics",
+  "year": 2016,
+  "number": 44,
+  "question": "When a consumer is at equilibrium, The MRS x is equal to the",
+  "options": {
+   "A": "product of the two prices",
+   "B": "sum of the two prices",
+   "C": "ratio of the two prices",
+   "D": "difference of the two prices."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-45",
+  "subject": "economics",
+  "year": 2016,
+  "number": 45,
+  "question": "One of the major factors militating against industrialization in Nigeria is",
+  "options": {
+   "A": "low level of foreign investment",
+   "B": "frequent break-down of equipment",
+   "C": "inadequacy of infrastructural facilities",
+   "D": "government participation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-46",
+  "subject": "economics",
+  "year": 2016,
+  "number": 46,
+  "question": "One of the factors that is considered in the location of a cement industry is nearness to",
+  "options": {
+   "A": "market",
+   "B": "raw materials",
+   "C": "infrastructural facilitates",
+   "D": "skilled manpower. 47.A problem facing the development of the Nigerian Petroleum industry in Nigeria is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-48",
+  "subject": "economics",
+  "year": 2016,
+  "number": 48,
+  "question": "At full employment level, a contractionary monetary policy will Lead to a",
+  "options": {
+   "A": "rise in aggregate supply",
+   "B": "rise in aggregate demand",
+   "C": "rise in level of inflation rate",
+   "D": "fall in the level of inflation 49.A country where the available population is unable to guarantee efficient utilization of available resources is experiencing"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-50",
+  "subject": "economics",
+  "year": 2016,
+  "number": 50,
+  "question": "One of the causes of instability in farmers' income is",
+  "options": {
+   "A": "high level of illiteracy",
+   "B": "unfriendly land tenure",
+   "C": "unfavourable weather condition",
+   "D": "poor management of extension services"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

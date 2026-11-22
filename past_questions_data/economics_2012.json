@@ -1,0 +1,958 @@
+[
+ {
+  "id": "economics-2012-1",
+  "subject": "economics",
+  "year": 2012,
+  "number": 1,
+  "question": "Which question paper type of Economics as indicated above is given to you?",
+  "options": {
+   "A": "Type Green",
+   "B": "Type Purple",
+   "C": "Type Red",
+   "D": "Type Yellow"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-2",
+  "subject": "economics",
+  "year": 2012,
+  "number": 2,
+  "question": "A major disadvantage of a socialist economy is that",
+  "options": {
+   "A": "corruption is rampant",
+   "B": "consumer's sovereignty is lost",
+   "C": "income inequality is entrenched",
+   "D": "there is high level of unemployment"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-3",
+  "subject": "economics",
+  "year": 2012,
+  "number": 3,
+  "question": "The privatization of public enterprises will lead to efficient management of resources in the economy. This statement can best be described as",
+  "options": {
+   "A": "normative reasoning",
+   "B": "inductive reasoning",
+   "C": "deductive reasoning",
+   "D": "positive reasoning"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-4",
+  "subject": "economics",
+  "year": 2012,
+  "number": 4,
+  "question": "The sign of the slope of a graph in economic analysis is important because",
+  "options": {
+   "A": "shows whether a good is normal or inferior",
+   "B": "shows the relationship between variables",
+   "C": "reveals the magnitude of the change between variables",
+   "D": "helps to determine the unit of measurement of variables"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-5",
+  "subject": "economics",
+  "year": 2012,
+  "number": 5,
+  "question": "The percentage contribution of manufacturing sector is",
+  "options": {
+   "A": "67.5",
+   "C": "32.4",
+   "D": "25.0"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2012_p13_1.png",
+  "images": [
+   "economics/2012_p13_1.png"
+  ]
+ },
+ {
+  "id": "economics-2012-6",
+  "subject": "economics",
+  "year": 2012,
+  "number": 6,
+  "question": "If the GDP is N60 billion, what is the difference between the contributions of oil and manufacturing sectors?",
+  "options": {
+   "A": "N11.7 billion",
+   "B": "N13.3 billion",
+   "C": "N21.7 billion",
+   "D": "N26.6 billion"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-7",
+  "subject": "economics",
+  "year": 2012,
+  "number": 7,
+  "question": "If the quantity of rice bought decreases from 250 tonnes to 200 tonnes owing to a 2% rise in price, it shows that there is a change in",
+  "options": {
+   "A": "consumers' income",
+   "B": "demand",
+   "C": "consumers' tastes",
+   "D": "quantity damanded"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-8",
+  "subject": "economics",
+  "year": 2012,
+  "number": 8,
+  "question": "A rise in income will, ceteris paribus, bring about",
+  "options": {
+   "A": "a movement along the demand curve",
+   "B": "a leftward shift of the demand curve",
+   "C": "a rightward shift of the demand curve",
+   "D": "no effect on the demand curve"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-9",
+  "subject": "economics",
+  "year": 2012,
+  "number": 9,
+  "question": "From the above, calculate the price elasticity of demand",
+  "options": {
+   "A": "5.0",
+   "B": "2.0",
+   "C": "1.0",
+   "D": "0.5"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2012_p13_2.png",
+  "images": [
+   "economics/2012_p13_2.png"
+  ]
+ },
+ {
+  "id": "economics-2012-10",
+  "subject": "economics",
+  "year": 2012,
+  "number": 10,
+  "question": "If the price of an item increases by 8% while the quantity demanded falls from 1500 units to 1492 units, the demand is said to be",
+  "options": {
+   "A": "perfectly elastic",
+   "B": "inelastic",
+   "C": "elastic",
+   "D": "perfectly inelastic"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-11",
+  "subject": "economics",
+  "year": 2012,
+  "number": 11,
+  "question": "Comparison of interpersonal utility is impossible because",
+  "options": {
+   "A": "utility is measured in utils",
+   "B": "marginal utility is not observable",
+   "C": "utility is subjectively determined",
+   "D": "individual income differ"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-12",
+  "subject": "economics",
+  "year": 2012,
+  "number": 12,
+  "question": "When the slope of the total utility curve is declining, the marginal utility of a consumer will be increasing if he",
+  "options": {
+   "A": "stops consuming more of the commodity",
+   "B": "reduces the quantity consumed",
+   "C": "increases the quantity consumed",
+   "D": "consumes more of another commodity Use the diagram below to answer question 13 and 14"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2012_p14_1.png",
+  "images": [
+   "economics/2012_p14_1.png"
+  ]
+ },
+ {
+  "id": "economics-2012-13",
+  "subject": "economics",
+  "year": 2012,
+  "number": 13,
+  "question": "The consumer is at equilibrium at point",
+  "options": {
+   "A": "N",
+   "B": "P",
+   "C": "M",
+   "D": "K"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-14",
+  "subject": "economics",
+  "year": 2012,
+  "number": 14,
+  "question": "To move from point M to K, the consumer has to increase the",
+  "options": {
+   "A": "consumption of X and reduce the consumption of Y",
+   "B": "expenditure on Y",
+   "C": "expenditure on X",
+   "D": "consumption of Y and reduce the consumption of X"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-15",
+  "subject": "economics",
+  "year": 2012,
+  "number": 15,
+  "question": "The supply of cocoa is influenced by",
+  "options": {
+   "A": "seasonal conditions",
+   "B": "the efficacy of fertilizer used",
+   "C": "the demand for beverages",
+   "D": "the availability of close substitutes"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-16",
+  "subject": "economics",
+  "year": 2012,
+  "number": 16,
+  "question": "If quantity supplied is constant irrespective of price changes, the supply elasticity is",
+  "options": {
+   "A": "unitary",
+   "B": "infinity",
+   "C": "fairly elastic",
+   "D": "perfectly inelastic"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-17",
+  "subject": "economics",
+  "year": 2012,
+  "number": 17,
+  "question": "The cost elasticity of supply is a useful instrument for measuring",
+  "options": {
+   "A": "profit",
+   "B": "productivity",
+   "C": "national income",
+   "D": "price index"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-18",
+  "subject": "economics",
+  "year": 2012,
+  "number": 18,
+  "question": "The invisible hand promotes the interests of",
+  "options": {
+   "A": "consumers",
+   "B": "society",
+   "C": "government",
+   "D": "producers"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-19",
+  "subject": "economics",
+  "year": 2012,
+  "number": 19,
+  "question": "Fixing price above equilibrium will cause",
+  "options": {
+   "A": "demand and supply to remain constant",
+   "B": "an increase in quantity supplied",
+   "C": "an increase in supply",
+   "D": "a decrease in quantity supplied"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-20",
+  "subject": "economics",
+  "year": 2012,
+  "number": 20,
+  "question": "An important function of the price system is to",
+  "options": {
+   "A": "ensure that producers' profits remain high",
+   "B": "guarantee full employment of resources",
+   "C": "allocate resources to most productive uses",
+   "D": "protect the economic interests of government"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-21",
+  "subject": "economics",
+  "year": 2012,
+  "number": 21,
+  "question": "If all factors are variable in the long run,firms will experience",
+  "options": {
+   "A": "decreasing returns to scale",
+   "B": "increasing returns to scale",
+   "C": "diminishing returns",
+   "D": "economies of scale"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-22",
+  "subject": "economics",
+  "year": 2012,
+  "number": 22,
+  "question": "The equilibrium point of a firm is attained at the point where the isoquant is",
+  "options": {
+   "A": "greater than the isocost",
+   "B": "less than the isocost",
+   "C": "tangent to the isocost",
+   "D": "greater than the output"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-23",
+  "subject": "economics",
+  "year": 2012,
+  "number": 23,
+  "question": "The long-run average cost curve touches to the short-run average cost curves at the",
+  "options": {
+   "A": "minimum points of all short run average cost curves",
+   "B": "declining points of all short-run average cost curves",
+   "C": "minimum point of only one of the short- run cost curves",
+   "D": "rising points of all short-run average cost curves"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-24",
+  "subject": "economics",
+  "year": 2012,
+  "number": 24,
+  "question": "If a firm doubles all inputs in the long run and the total output is less than doubled, this results in",
+  "options": {
+   "A": "diminishing returns",
+   "B": "constant returns to scale",
+   "C": "increasing returns to scale",
+   "D": "decreasing returns to scale"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-25",
+  "subject": "economics",
+  "year": 2012,
+  "number": 25,
+  "question": "Patents and copyrights enable monopolists to",
+  "options": {
+   "A": "determine the quality of their products",
+   "B": "determine the scale of their products",
+   "C": "restrict information flow to new firms",
+   "D": "restrict entry of new firms"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-26",
+  "subject": "economics",
+  "year": 2012,
+  "number": 26,
+  "question": "A discriminatory monopoly is characterized by",
+  "options": {
+   "A": "a common elasticity in different markets",
+   "B": "different elasticities in different markets",
+   "C": "a finite elasticity in all markets",
+   "D": "zero elasticity in all markets"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-27",
+  "subject": "economics",
+  "year": 2012,
+  "number": 27,
+  "question": "Net National Product is derived by deducting",
+  "options": {
+   "A": "net exports from GNP",
+   "B": "subsidies from GDP",
+   "C": "taxes from GDP",
+   "D": "depreciation from GNP Use the information below to answer question 28 29. The investment expenditure of economy changes by ₦2 Million and MPC is 0.75"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-28",
+  "subject": "economics",
+  "year": 2012,
+  "number": 28,
+  "question": "What is the change in income?",
+  "options": {
+   "A": "N0.5m",
+   "B": "N1.5m",
+   "C": "N2.6m",
+   "D": "N8.0m"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-29",
+  "subject": "economics",
+  "year": 2012,
+  "number": 29,
+  "question": "The multiplier is",
+  "options": {
+   "A": "8",
+   "B": "4",
+   "C": "3",
+   "D": "2"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-30",
+  "subject": "economics",
+  "year": 2012,
+  "number": 30,
+  "question": "The money that commands a higher market value than its face value is called",
+  "options": {
+   "A": "paper money",
+   "B": "standard money",
+   "D": "fiat money"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-31",
+  "subject": "economics",
+  "year": 2012,
+  "number": 31,
+  "question": "If a basket of commodities cost N120 in the base year and N240 in the current year, calculate the price index",
+  "options": {
+   "A": "100",
+   "B": "200",
+   "C": "240",
+   "D": "300"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-32",
+  "subject": "economics",
+  "year": 2012,
+  "number": 32,
+  "question": "The minimum amount which banks are required to deposit with the central bank is determined by the",
+  "options": {
+   "A": "liquidity ratio",
+   "B": "cash reserve ratio",
+   "C": "minimum lending rate",
+   "D": "aggregate credit ceiling"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-33",
+  "subject": "economics",
+  "year": 2012,
+  "number": 33,
+  "question": "The major function of money market is to",
+  "options": {
+   "A": "provide funds for long-term financing",
+   "B": "provide funds short-term financing",
+   "C": "stabilize the value of the local currency",
+   "D": "stabilize domestic prices"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-34",
+  "subject": "economics",
+  "year": 2012,
+  "number": 34,
+  "question": "An ad valorem tax is imposed on",
+  "options": {
+   "A": "special commodities",
+   "B": "exports",
+   "C": "imports",
+   "D": "the value of a commodity"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-35",
+  "subject": "economics",
+  "year": 2012,
+  "number": 35,
+  "question": "A huge national debt is an indication that the gold reserves of a nation has",
+  "options": {
+   "A": "appreciated",
+   "B": "decreased",
+   "C": "depreciated",
+   "D": "stagnated"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-36",
+  "subject": "economics",
+  "year": 2012,
+  "number": 36,
+  "question": "Rapid economic development in Nigeria is realizable by",
+  "options": {
+   "A": "continuous dependence on oil",
+   "B": "concentrating more on agriculture",
+   "C": "developing the tourism industry",
+   "D": "diversifying the economy"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-37",
+  "subject": "economics",
+  "year": 2012,
+  "number": 37,
+  "question": "The primary reason for desiring economic growth is to",
+  "options": {
+   "A": "control inflation",
+   "B": "reduce poverty",
+   "C": "redistribute income",
+   "D": "raise standard of living"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-38",
+  "subject": "economics",
+  "year": 2012,
+  "number": 38,
+  "question": "An emerging agricultural export crop in Nigeria is",
+  "options": {
+   "A": "cassava",
+   "B": "cotton",
+   "C": "cocoa",
+   "D": "soya beans"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-39",
+  "subject": "economics",
+  "year": 2012,
+  "number": 39,
+  "question": "A strategy for improving agriculture in Nigeria will involve",
+  "options": {
+   "A": "controlling the prices of agricultural products",
+   "B": "ensuring self-sufficiency in food production",
+   "C": "reducing agricultural exports",
+   "D": "establishing commondity boards"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-40",
+  "subject": "economics",
+  "year": 2012,
+  "number": 40,
+  "question": "A sugar industry is best located near the source of",
+  "options": {
+   "A": "labour",
+   "B": "raw materials",
+   "C": "power",
+   "D": "capital"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-41",
+  "subject": "economics",
+  "year": 2012,
+  "number": 41,
+  "question": "An important contribution of small-scale industries to the Nigerian economy is in the area of",
+  "options": {
+   "A": "technological development",
+   "B": "foregin exchange earnings",
+   "C": "raw materials processing",
+   "D": "labour employment"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-42",
+  "subject": "economics",
+  "year": 2012,
+  "number": 42,
+  "question": "A change in the pump price of petrol in Nigeria has a direct effect on the",
+  "options": {
+   "A": "prices of consumer goods",
+   "B": "prices of essential goods",
+   "C": "cost of raw materials",
+   "D": "cost of transportation"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-43",
+  "subject": "economics",
+  "year": 2012,
+  "number": 43,
+  "question": "Long-term funds for investment projects are sourced from the",
+  "options": {
+   "A": "money market",
+   "B": "commodity market",
+   "C": "foreign exchange market",
+   "D": "capital market"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-44",
+  "subject": "economics",
+  "year": 2012,
+  "number": 44,
+  "question": "A policy aimed at enhancing globalization of the Nigerian economy is",
+  "options": {
+   "A": "indigenization",
+   "B": "dereglation",
+   "C": "commercialization",
+   "D": "privatization"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-45",
+  "subject": "economics",
+  "year": 2012,
+  "number": 45,
+  "question": "The Malthusian theory was concerned about the relationship between",
+  "options": {
+   "A": "population growth rates of the rich and the poor nations",
+   "B": "population density and national income",
+   "C": "population growth rate and natural resources",
+   "D": "age distribution of population"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-46",
+  "subject": "economics",
+  "year": 2012,
+  "number": 46,
+  "question": "In a village of 50 persons, 10 immigrated, 25 died and 5 emigrated in year. Determine the total population",
+  "options": {
+   "A": "10",
+   "B": "20",
+   "C": "30",
+   "D": "50"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-47",
+  "subject": "economics",
+  "year": 2012,
+  "number": 47,
+  "question": "A deficit balance of payments is measured by subtracting the debits from the credits in the",
+  "options": {
+   "A": "current account",
+   "B": "current and capital accounts",
+   "C": "current and escrow accounts",
+   "D": "capital and escrow accounts"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-48",
+  "subject": "economics",
+  "year": 2012,
+  "number": 48,
+  "question": "One of the functions of ECOWAS is to",
+  "options": {
+   "A": "provide funds for infrastructural development",
+   "B": "determine prices of exports",
+   "C": "redistribute income among citizens",
+   "D": "provide employment for citizens of member nations"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-49",
+  "subject": "economics",
+  "year": 2012,
+  "number": 49,
+  "question": "The reward on machinery and equipment in the process of production is known as",
+  "options": {
+   "A": "profit",
+   "B": "interest",
+   "C": "rent",
+   "D": "wage s 50."
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2012-50",
+  "subject": "economics",
+  "year": 2012,
+  "number": 50,
+  "question": "From this diagram, the minimum wage OW will lead to",
+  "options": {
+   "A": "full employment of resources",
+   "B": "unemployment",
+   "C": "inflation",
+   "D": "full employment of factors of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2012_p16_1.png",
+  "images": [
+   "economics/2012_p16_1.png"
+  ]
+ }
+]

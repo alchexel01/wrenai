@@ -1,0 +1,809 @@
+[
+ {
+  "id": "economics-2011-1",
+  "subject": "economics",
+  "year": 2011,
+  "number": 1,
+  "question": "Which question paper type of economics is given to you?",
+  "options": {
+   "A": "Type A",
+   "B": "Type B",
+   "C": "Type C",
+   "D": "Type D"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-2",
+  "subject": "economics",
+  "year": 2011,
+  "number": 2,
+  "question": "An effective way of controlling inflation in a mixed economy is to",
+  "options": {
+   "A": "increase productivity",
+   "B": "reduce income tax",
+   "C": "ration available output",
+   "D": "increase imports"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-3",
+  "subject": "economics",
+  "year": 2011,
+  "number": 3,
+  "question": "One of the limitations PPC assumption is that there is",
+  "options": {
+   "A": "no indication of technological development",
+   "B": "no recognition of preferred goods for countries",
+   "C": "technical inefficiency",
+   "D": "abundant resources"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-4",
+  "subject": "economics",
+  "year": 2011,
+  "number": 4,
+  "question": "A major disadvantage of the arithmetic means is that it is",
+  "options": {
+   "A": "not useful for large data",
+   "B": "not suitable for further statistical analysis",
+   "C": "cumbersome to determine the actual value",
+   "D": "affected by extreme data"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-5",
+  "subject": "economics",
+  "year": 2011,
+  "number": 5,
+  "question": "Demand patterns are determined by the market on the basis of",
+  "options": {
+   "A": "scale of preference",
+   "B": "consumer sovereignty",
+   "C": "consumer rationality",
+   "D": "price of the commodity"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-6",
+  "subject": "economics",
+  "year": 2011,
+  "number": 6,
+  "question": "A consumer surplus measures the",
+  "options": {
+   "A": "benefits derived from consuming a cheap commodity",
+   "B": "excess of total expenditure over total utility",
+   "C": "difference between marginal utility and marginal cost",
+   "D": "excess of marginal utility over price"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-7",
+  "subject": "economics",
+  "year": 2011,
+  "number": 7,
+  "question": "If the demand for one commodity excludes another, it is said to be",
+  "options": {
+   "A": "complementary demand",
+   "B": "competitive demand",
+   "C": "composite demand",
+   "D": "derived demand"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-8",
+  "subject": "economics",
+  "year": 2011,
+  "number": 8,
+  "question": "The graph of the schedule above will depict",
+  "options": {
+   "A": "a kinked demand curve",
+   "B": "a normal demand curve",
+   "C": "an abnormal demand curve",
+   "D": "a diminishing marginal utility curve"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2011_p7_1.png",
+  "images": [
+   "economics/2011_p7_1.png"
+  ]
+ },
+ {
+  "id": "economics-2011-9",
+  "subject": "economics",
+  "year": 2011,
+  "number": 9,
+  "question": "The median of an odd-numbered set of scores is the",
+  "options": {
+   "A": "Middle value in the set",
+   "B": "Highest value in the set",
+   "C": "Arithmetic means of the set",
+   "D": "Most frequent occurring score"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-10",
+  "subject": "economics",
+  "year": 2011,
+  "number": 10,
+  "question": "If demand increases without a change in supply, equilibrium price and quantity will",
+  "options": {
+   "A": "remain unchanged",
+   "B": "shift inward",
+   "C": "fall",
+   "D": "rise"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-11",
+  "subject": "economics",
+  "year": 2011,
+  "number": 11,
+  "question": "In the process of production, total output is at maximum when",
+  "options": {
+   "A": "MP=0",
+   "B": "MP>0",
+   "C": "AP=0",
+   "D": "AP>0"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-12",
+  "subject": "economics",
+  "year": 2011,
+  "number": 12,
+  "question": "From that table above, the price",
+  "options": {
+   "A": "4",
+   "B": "25",
+   "C": "1",
+   "D": "2"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2011_p7_2.png",
+  "images": [
+   "economics/2011_p7_2.png"
+  ]
+ },
+ {
+  "id": "economics-2011-13",
+  "subject": "economics",
+  "year": 2011,
+  "number": 13,
+  "question": "When a consumer is at equilibrium, the MRSₓy is equal to the",
+  "options": {
+   "A": "sum of the prices",
+   "B": "product of the two prices",
+   "C": "ratio of the two prices",
+   "D": "difference of the two prices"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-14",
+  "subject": "economics",
+  "year": 2011,
+  "number": 14,
+  "question": "Minimum price legislation by government will",
+  "options": {
+   "A": "reduce supply",
+   "B": "increase supply",
+   "C": "reduce demand and create surplus",
+   "D": "increase demand and create scarcity"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-15",
+  "subject": "economics",
+  "year": 2011,
+  "number": 15,
+  "question": "Ranking is the method use in measuring",
+  "options": {
+   "A": "marginal utility",
+   "B": "ordinal utility",
+   "C": "cardinal utility",
+   "D": "total utility"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-16",
+  "subject": "economics",
+  "year": 2011,
+  "number": 16,
+  "question": "If a firm is faced with an elastic supply curve, its revenue will",
+  "options": {
+   "A": "be supplied at a higher price",
+   "B": "double at a higher price",
+   "C": "increase by more than the percentage increase in price",
+   "D": "equal percentage change in price"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-17",
+  "subject": "economics",
+  "year": 2011,
+  "number": 17,
+  "question": "The optimal range of output for a perfectly competitive firm is",
+  "options": {
+   "A": "AC is lowest",
+   "B": "AVC is lowest",
+   "C": "MC is rising",
+   "D": "MC is falling 18.A firm will experience diseconomies of scale when"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-19",
+  "subject": "economics",
+  "year": 2011,
+  "number": 19,
+  "question": "The law of variable proportions is",
+  "options": {
+   "A": "in the long-run period",
+   "B": "to large-scale enterprises",
+   "C": "to small-scale enterprises",
+   "D": "in the short-run period"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-20",
+  "subject": "economics",
+  "year": 2011,
+  "number": 20,
+  "question": "From the Diagram above, the optimal point of production is",
+  "options": {
+   "A": "R",
+   "B": "T",
+   "C": "U",
+   "D": "S"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2011_p8_1.png",
+  "images": [
+   "economics/2011_p8_1.png"
+  ]
+ },
+ {
+  "id": "economics-2011-21",
+  "subject": "economics",
+  "year": 2011,
+  "number": 21,
+  "question": "If real income increases while nominal income remains the same, it can be inferred that",
+  "options": {
+   "A": "Unemployment rate has decreased",
+   "B": "General prices have fallen",
+   "C": "Employment rate has risen",
+   "D": "General prices have risen"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-22",
+  "subject": "economics",
+  "year": 2011,
+  "number": 22,
+  "question": "One of the characteristics of oligopoly is the availability of",
+  "options": {
+   "A": "few sellers",
+   "B": "few buyers",
+   "C": "many sellers",
+   "D": "a single seller Use the diagram below to answer question 23 and 24"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2011_p9_1.png",
+  "images": [
+   "economics/2011_p9_1.png"
+  ]
+ },
+ {
+  "id": "economics-2011-23",
+  "subject": "economics",
+  "year": 2011,
+  "number": 23,
+  "question": "The average total cost when 20 units are produced is",
+  "options": {
+   "A": "N20.00",
+   "B": "N23.00",
+   "C": "N13.00",
+   "D": "N15.00"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-24",
+  "subject": "economics",
+  "year": 2011,
+  "number": 24,
+  "question": "When 20 units of output is produced, TC will be",
+  "options": {
+   "A": "N360",
+   "B": "N300",
+   "C": "N460",
+   "D": "N400"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-25",
+  "subject": "economics",
+  "year": 2011,
+  "number": 25,
+  "question": "The profit of a monopolist can be eliminated where price equals",
+  "options": {
+   "A": "AFC",
+   "B": "MC",
+   "C": "AC",
+   "D": "AVC"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-26",
+  "subject": "economics",
+  "year": 2011,
+  "number": 26,
+  "question": "Bank consolidation policy in Nigeria is a measure to increase",
+  "options": {
+   "A": "the capital base of banks",
+   "B": "employment opportunities in banks",
+   "C": "the number of shareholders",
+   "D": "the number of branches"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-27",
+  "subject": "economics",
+  "year": 2011,
+  "number": 27,
+  "question": "An increase in the circulation of money without a corresponding increase in output will lead to",
+  "options": {
+   "A": "a rise in income levels",
+   "B": "stagflation",
+   "C": "inflation",
+   "D": "deflation"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-28",
+  "subject": "economics",
+  "year": 2011,
+  "number": 28,
+  "question": "In national income accounts, an item counted as part of government spending",
+  "options": {
+   "B": "pension",
+   "C": "scholarship",
+   "D": "social welfare"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-29",
+  "subject": "economics",
+  "year": 2011,
+  "number": 29,
+  "question": "If aggregate demand is lower than total output in an economy national income will",
+  "options": {
+   "A": "be constant",
+   "B": "be at equilibrium",
+   "C": "increase",
+   "D": "fall"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-30",
+  "subject": "economics",
+  "year": 2011,
+  "number": 30,
+  "question": "During the era of barter, money was generally in the form of",
+  "options": {
+   "A": "notes",
+   "B": "precious metals",
+   "C": "coins",
+   "D": "commodities 31.A country achieves economic development when there is"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-32",
+  "subject": "economics",
+  "year": 2011,
+  "number": 32,
+  "question": "An indicator of growth in an economy over a period of time is the",
+  "options": {
+   "A": "GDP gap",
+   "B": "GDP at factor cost",
+   "C": "GDP at market price",
+   "D": "GDP deflator 33.A country embarks on deficit financing in order to"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "economics/2011_p10_1.png",
+  "images": [
+   "economics/2011_p10_1.png"
+  ]
+ },
+ {
+  "id": "economics-2011-34",
+  "subject": "economics",
+  "year": 2011,
+  "number": 34,
+  "question": "The deflationary gap is defined by",
+  "options": {
+   "A": "X",
+   "B": "K",
+   "C": "X + K",
+   "D": "X - K"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-35",
+  "subject": "economics",
+  "year": 2011,
+  "number": 35,
+  "question": "What does X represent?",
+  "options": {
+   "A": "recessionary gap",
+   "B": "GNP gap",
+   "C": "inflationary gap",
+   "D": "deflationary gap"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-36",
+  "subject": "economics",
+  "year": 2011,
+  "number": 36,
+  "question": "The import-substitution strategy of industrialization is to encourage",
+  "options": {
+   "A": "domestic production",
+   "B": "large-scale production",
+   "C": "importation",
+   "D": "exportation"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-37",
+  "subject": "economics",
+  "year": 2011,
+  "number": 37,
+  "question": "Upstream oil activities involve the",
+  "options": {
+   "A": "management of pollution",
+   "B": "marketing of refined products",
+   "C": "exploration of crude oil",
+   "D": "refining of crude oil"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-38",
+  "subject": "economics",
+  "year": 2011,
+  "number": 38,
+  "question": "Agricultural production in Nigeria is constrained by",
+  "options": {
+   "A": "ineffective use of stabilization measures",
+   "B": "inadequate demand",
+   "C": "poor implementation of policies",
+   "D": "balance of payments deficits"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-39",
+  "subject": "economics",
+  "year": 2011,
+  "number": 39,
+  "question": "The main function of NNPC is to",
+  "options": {
+   "A": "oversee the development of the oil sector",
+   "B": "develop the oil producing area",
+   "C": "fix the price of products",
+   "D": "ensure regular supply of products"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-40",
+  "subject": "economics",
+  "year": 2011,
+  "number": 40,
+  "question": "investing heavily in the agricultural sector will lead to",
+  "options": {
+   "A": "sufficient food production",
+   "B": "a vibrant commodity market",
+   "C": "capital inflow",
+   "D": "stable export prices"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-41",
+  "subject": "economics",
+  "year": 2011,
+  "number": 41,
+  "question": "Industrial development in Nigeria can be encouraged through",
+  "options": {
+   "A": "signing WTO treaty",
+   "B": "granting subsidies",
+   "C": "the provision of efficient infrastructure",
+   "D": "direct government participation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-42",
+  "subject": "economics",
+  "year": 2011,
+  "number": 42,
+  "question": "The record of a country's transactions in international trade is her",
+  "options": {
+   "A": "capital account",
+   "B": "balance of payments",
+   "C": "current account",
+   "D": "balance of trade"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-43",
+  "subject": "economics",
+  "year": 2011,
+  "number": 43,
+  "question": "The transfer to public shareholding corporations to private enterprises is",
+  "options": {
+   "A": "concession",
+   "B": "incorporation",
+   "C": "commercialization",
+   "D": "privatization 44.A condition in which official and autonomous exchange rate coexist is"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-45",
+  "subject": "economics",
+  "year": 2011,
+  "number": 45,
+  "question": "In modern economies, the Malthusian theory of population is ineffective because of",
+  "options": {
+   "A": "birth control measures",
+   "B": "technical progress",
+   "C": "government policies",
+   "D": "natural disasters"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-46",
+  "subject": "economics",
+  "year": 2011,
+  "number": 46,
+  "question": "Optimum population enables an economy to attain the highest level of",
+  "options": {
+   "A": "Industrial development",
+   "B": "Income per head",
+   "C": "Revenue generation 47.A change from one industry to another by a worker is an example of",
+   "D": "vertical mobility 48.The money paid per hour for work done"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
