@@ -27,7 +27,7 @@ Without questions (old style, still works):
     python publish_questions.py physics physics.txt --images diagrams_physics
     python publish_questions.py physics physics.txt --key ans.json --year 2019
 
-Options:  --year N   --key FILE   --images FOLDER   --yes (skip CHECK question)
+Options:  --year N (or 2018,2019,2020 / 2010-2018, PDFs only)   --key FILE   --images FOLDER   --yes (skip CHECK question)
           --no-push (parse and commit only)
 
 SAFETY (so this can never damage the backend repo)
@@ -419,11 +419,43 @@ def pick_subject():
         print("  Please type a subject.")
 
 
+def parse_years(raw):
+    """'2018,2019, 2020' or '2010-2018' -> [2018, 2019, 2020]. None if invalid."""
+    raw = re.sub(r"\s*-\s*", "-", (raw or "").strip())
+    years = []
+    for part in re.split(r"[,;\s]+", raw):
+        if not part:
+            continue
+        m = re.fullmatch(r"(\d{4})-(\d{4})", part)
+        if m:
+            a, b = int(m.group(1)), int(m.group(2))
+            if a > b or b - a > 60:
+                return None
+            nums = list(range(a, b + 1))
+        elif re.fullmatch(r"\d{4}", part):
+            nums = [int(part)]
+        else:
+            return None
+        for n in nums:
+            if n not in years:
+                years.append(n)
+    return years or None
+
+
+def years_in_text(txt):
+    """Years that have a 'YEAR: xxxx' line in the text file written by the reader."""
+    try:
+        t = pathlib.Path(txt).read_text(encoding="utf-8", errors="replace")
+    except OSError:
+        return []
+    return sorted({int(m) for m in re.findall(r"(?m)^YEAR:\s*(\d{4})", t)})
+
+
 def main():
     ap = argparse.ArgumentParser(description="Read a past-question PDF, parse it, push it to GitHub.")
     ap.add_argument("subject", nargs="?")
     ap.add_argument("source", nargs="?", help="a .pdf (read first) or an already-read .txt")
-    ap.add_argument("--year", type=int)
+    ap.add_argument("--year", help="one year, or several: 2018,2019,2020 or 2010-2018")
     ap.add_argument("--key", help="answer file (.txt or .json)")
     ap.add_argument("--images", help="folder for the diagram crops")
     ap.add_argument("--yes", action="store_true", help="push even if the report has CHECK lines")
@@ -460,14 +492,50 @@ def main():
     step = 0
     imgdir = args.images or (f"diagrams_{subject}" if is_pdf else None)
 
+    years = None
+    if args.year:
+        years = parse_years(args.year)
+        if not years:
+            sys.exit("--year must look like 2019, or 2018,2019,2020, or 2010-2018.")
+    if years and len(years) > 1 and not is_pdf:
+        sys.exit("Several years only work with a PDF. For a .txt file, put 'YEAR: 2019' lines in it.")
+
     # 1) PDF -> text
     if is_pdf:
         step += 1
         txt = str(pathlib.Path(source).with_suffix(".txt"))
         print(f"== {step}/{total}  Reading the PDF ==")
         cmd = [sys.executable, str(READER), source, txt, "--images", imgdir]
+        if years:
+            cmd += ["--years", ",".join(map(str, years))]
         if run(cmd).returncode != 0:
             sys.exit("Reading the PDF failed; nothing else was done.")
+
+        if interactive and not years and not years_in_text(txt):
+            print("\nNo year headings were found in this PDF (see the message above).")
+            print("Type ONE year if the PDF holds a single year, or SEVERAL separated by commas")
+            print("(for example 2018,2019,2020 or 2010-2018). Press Ctrl+C to cancel.")
+            while True:
+                years = parse_years(ask("Year(s) of this paper: "))
+                if years:
+                    break
+                print("  Please type years like 2019 or 2018,2019,2020.")
+            print("\nReading the PDF again with those years ...")
+            cmd = [sys.executable, str(READER), source, txt, "--images", imgdir,
+                   "--years", ",".join(map(str, years))]
+            if run(cmd).returncode != 0:
+                sys.exit("Reading the PDF failed; nothing else was done.")
+
+        if years and len(years) > 1:
+            found = years_in_text(txt)
+            lost = [y for y in years if y not in found]
+            if lost:
+                print("\nCould not find where these year(s) start: " + ", ".join(map(str, lost)))
+                if not found:
+                    sys.exit("No year start was found, so nothing was done. Check the years you typed.")
+                if not (args.yes or (interactive and yes_no(
+                        "Continue with only the years that were found?", False))):
+                    sys.exit("Stopped. Check the years you typed.")
     else:
         txt = source
 
@@ -475,22 +543,13 @@ def main():
     step += 1
     print(f"\n== {step}/{total}  Parsing ==")
     cmd = [sys.executable, str(PARSER), subject, txt]
-    if args.year:
-        cmd += ["--year", str(args.year)]
+    if years and len(years) == 1:
+        cmd += ["--year", str(years[0])]
     if args.key:
         cmd += ["--key", args.key]
     if imgdir:
         cmd += ["--images", imgdir]
     res = run(cmd, capture_output=True)
-    if res.returncode != 0 and "--year" in (res.stderr or "") and interactive:
-        print("No year headings were found in this PDF (see the message above).")
-        print("If it holds SEVERAL years, press Ctrl+C now: typing one year here would label")
-        print("every question with that year. If it holds ONE year only, type it.")
-        while True:
-            y = ask("Year of this paper (for example 2019): ")
-            if y.isdigit() and len(y) == 4:
-                break
-        res = run(cmd + ["--year", y], capture_output=True)
     print(res.stdout)
     if res.returncode != 0:
         sys.exit(res.stderr or "The parser failed; nothing was uploaded.")
