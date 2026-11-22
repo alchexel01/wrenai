@@ -1,0 +1,255 @@
+{
+  "year": 1987,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "C",
+      "explanation": "Momentum has unit kg m/s, which is equivalent to the impulse unit N s since 1 N = 1 kg m/s^2."
+    },
+    {
+      "number": 2,
+      "answer": "A",
+      "explanation": "Using the cosine rule with angle 120 degrees between the vectors, R = sqrt(8^2 + 5^2 - 2(8)(5)cos120) = sqrt(129) = 11.36 km."
+    },
+    {
+      "number": 3,
+      "answer": "B",
+      "explanation": "Distance is the area under the velocity-time graph: 0.5(1)(4) + 0.5(4+6)(1) + 6(1.5) + 0.5(6+2)(0.5) = 2 + 5 + 9 + 2 = 18.0 m."
+    },
+    {
+      "number": 4,
+      "answer": "C",
+      "explanation": "Thrust equals rate of change of momentum, F = (m/t)v, so mass per second m/t = 270 / 300 = 0.90 kg."
+    },
+    {
+      "number": 5,
+      "answer": "C",
+      "explanation": "Initial PE is mgh = 1000m J and final KE is 0.5mv^2 = 200m J, so (200m / 1000m) x 100% = 20%."
+    },
+    {
+      "number": 6,
+      "answer": "A",
+      "explanation": "Using T = m(g + a), 60000 = 4800(10 + a), which gives 10 + a = 12.5 and maximum upward acceleration a = 2.5 m/s^2."
+    },
+    {
+      "number": 7,
+      "answer": "C",
+      "explanation": "Distance s = 0.5at^2 = 0.5(0.1)(4^2) = 0.8 m, so work done W = Fs = 40 x 0.8 = 32 J."
+    },
+    {
+      "number": 8,
+      "answer": "B",
+      "explanation": "Equating gravitational potential energy to elastic potential energy, mgh = 0.5kx^2 gives 50 x 10 x 10 = 0.5(40000)x^2, so x = 0.50 m."
+    },
+    {
+      "number": 9,
+      "answer": "B",
+      "explanation": "For equilibrium of the system, the upper string supports the combined weight of both masses, giving tension T = (m1 + m2)g."
+    },
+    {
+      "number": 10,
+      "answer": "C",
+      "explanation": "Efficiency is useful electrical energy output E divided by mechanical energy input from water (Q1 - Q2), giving E / (Q1 - Q2)."
+    },
+    {
+      "number": 11,
+      "answer": "D",
+      "explanation": "Downward weight component mgsin45 = 282.8 N minus limiting friction umgcos45 = 70.7 N gives a minimum force of 212 N."
+    },
+    {
+      "number": 12,
+      "answer": "C",
+      "explanation": "Adhesion between water and glass exceeds cohesion in water, curving the meniscus upward at the walls due to surface tension."
+    },
+    {
+      "number": 13,
+      "answer": "D",
+      "explanation": "For an inclined plane, velocity ratio equals length divided by height, and mechanical advantage depends directly on this ratio."
+    },
+    {
+      "number": 14,
+      "answer": "C",
+      "explanation": "By Hooke's law, extension is directly proportional to load, so e2 = (20 / 5) x 0.56 = 2.24 cm."
+    },
+    {
+      "number": 15,
+      "answer": "C",
+      "explanation": "Cube volume is 1000 cm^3 and submerged volume is 800 cm^3 (4/5), so liquid density is 500 g / 800 cm^3 = 0.625 g/cm^3."
+    },
+    {
+      "number": 16,
+      "answer": "A",
+      "explanation": "Temperature is proportional to mercury rise: (4.5 / 20.0) x 100 = 22.5 degrees C."
+    },
+    {
+      "number": 17,
+      "answer": "B",
+      "explanation": "Brass has a greater linear expansivity than iron, so when heated it expands more and forms the outer convex side."
+    },
+    {
+      "number": 18,
+      "answer": "A",
+      "explanation": "Cubic expansivity is 3a = 1.2 x 10^-4 K^-1, so V = 125[1 + (1.2 x 10^-4)(100)] = 126.50 cm^3."
+    },
+    {
+      "number": 19,
+      "answer": "D",
+      "explanation": "Applying Boyle's law P1V1 = P2V2 to the trapped air gives (75.0 - 73.5) x 8.0 = (H - 74.0) x 6.0, so H = 76.0 cm."
+    },
+    {
+      "number": 20,
+      "answer": "B",
+      "explanation": "By Boyle's law, P against V is a hyperbola (II) and P against 1/V is a straight line through the origin (IV)."
+    },
+    {
+      "number": 21,
+      "answer": "A",
+      "explanation": "Heat lost by hot water equals heat gained by cold water: mc(T - 20) = 3mc(20 - 10), giving T = 50 degrees C."
+    },
+    {
+      "number": 22,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 23,
+      "answer": "D",
+      "explanation": "Total heat Q = mc(dT) + mL = (2 x 2090 x 2) + (2 x 333000) = 8360 + 666000 = 674360 J."
+    },
+    {
+      "number": 24,
+      "answer": "A",
+      "explanation": "Copper is a better thermal conductor than steel, and both metals conduct heat far better than glass."
+    },
+    {
+      "number": 25,
+      "answer": "B",
+      "explanation": "A vacuum lacks a material medium, which eliminates heat transfer by both conduction and convection."
+    },
+    {
+      "number": 26,
+      "answer": "D",
+      "explanation": "White surfaces are better reflectors and poorer absorbers of thermal radiation than black surfaces."
+    },
+    {
+      "number": 27,
+      "answer": "D",
+      "explanation": "Wave velocity v = f x lambda = 2 Hz x 0.30 m = 0.6 m/s."
+    },
+    {
+      "number": 28,
+      "answer": "C",
+      "explanation": "Time interval equals the wave period T = lambda / v = 100 m / 25 m/s = 4.00 s."
+    },
+    {
+      "number": 29,
+      "answer": "C",
+      "explanation": "A tuning fork emits a pure sinusoidal note of a single fundamental frequency with negligible overtones."
+    },
+    {
+      "number": 30,
+      "answer": "B",
+      "explanation": "Harmonics are multiples of 40 Hz: 40 Hz (fundamental), 80 Hz (1st overtone), and 120 Hz (2nd overtone), giving 2 overtones."
+    },
+    {
+      "number": 31,
+      "answer": "D",
+      "explanation": "Fundamental frequency f = (1/2l)sqrt(T/m), so frequency f is inversely proportional to length l."
+    },
+    {
+      "number": 32,
+      "answer": "B",
+      "explanation": "Formation of sharp, distinct shadows by opaque objects demonstrates that light travels in straight lines."
+    },
+    {
+      "number": 33,
+      "answer": "C",
+      "explanation": "Number of images n = (360 / theta) - 1 = (360 / 90) - 1 = 3."
+    },
+    {
+      "number": 34,
+      "answer": "B",
+      "explanation": "Using 1/v = 1/20 - 1/60 = 2/60 gives v = 30 cm, so magnification m = 30/60 = 0.5 and image size is 1.5 cm."
+    },
+    {
+      "number": 35,
+      "answer": "C",
+      "explanation": "Actual depth = refractive index x apparent depth = 1.33 x 1.0 m = 1.330 m."
+    },
+    {
+      "number": 36,
+      "answer": "D",
+      "explanation": "A ray passing through a parallel-sided glass block emerges parallel to its incident path, so angular deviation is 0 degrees."
+    },
+    {
+      "number": 37,
+      "answer": "B",
+      "explanation": "A microscope objective requires a converging lens with a very short positive focal length (+5 mm) for high magnification."
+    },
+    {
+      "number": 38,
+      "answer": "A",
+      "explanation": "Magnetic north is 10 degrees east of true north, so a compass reading of N40E gives a true bearing of N50E."
+    },
+    {
+      "number": 39,
+      "answer": "C",
+      "explanation": "Two 4-ohm resistors in parallel give 2 ohms, making total resistance 3 ohms, so voltage across the 1-ohm resistor is V/3."
+    },
+    {
+      "number": 40,
+      "answer": "C",
+      "explanation": "For series capacitors, 1/3 = 1/6 + 1/8 + 1/C3, which gives 1/C3 = 1/24 and C3 = 24 uF."
+    },
+    {
+      "number": 41,
+      "answer": "D",
+      "explanation": "The negatively charged rod repels electrons from M into N, leaving M positively charged and N negatively charged when separated."
+    },
+    {
+      "number": 42,
+      "answer": "A",
+      "explanation": "A transformer with more secondary turns steps up voltage and correspondingly steps down the secondary current."
+    },
+    {
+      "number": 43,
+      "answer": "C",
+      "explanation": "Electrical energy dissipated E = IVt = 0.5 A x 40 V x 120 s = 2400 J."
+    },
+    {
+      "number": 44,
+      "answer": "D",
+      "explanation": "By definition, magnetic field direction at a point is the direction a free north magnetic pole would point."
+    },
+    {
+      "number": 45,
+      "answer": "A",
+      "explanation": "Parallel conductors carrying currents in opposite directions repel each other, exerting forces away from the other wire."
+    },
+    {
+      "number": 46,
+      "answer": "B",
+      "explanation": "Shunt resistance S = (Ig x Rg) / (I - Ig) = (0.1I x 20) / 0.9I = 20 / 9 = 2.22 ohms."
+    },
+    {
+      "number": 47,
+      "answer": "A",
+      "explanation": "Two light hydrogen isotopes combine to form a heavier helium nucleus plus a neutron and energy, which is nuclear fusion."
+    },
+    {
+      "number": 48,
+      "answer": "C",
+      "explanation": "By Einstein's photoelectric equation, maximum kinetic energy of emitted electrons depends on incident light frequency and wavelength."
+    },
+    {
+      "number": 49,
+      "answer": "C",
+      "explanation": "Isotopes are atoms of the same element with the same atomic number (protons) but different numbers of neutrons."
+    },
+    {
+      "number": 50,
+      "answer": "D",
+      "explanation": "After three half-lives, N/8 atoms remain undecayed, so N - N/8 = 7N/8 atoms have disintegrated."
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "year": 1986,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "B",
+      "explanation": "A metre rule has a smallest division of 1 mm, so readings are recorded to the nearest 0.1 mm (35.0 mm)."
+    },
+    {
+      "number": 2,
+      "answer": "A",
+      "explanation": "By Hooke's law F = ke, the force constant k is the slope of the linear portion of the force-extension graph."
+    },
+    {
+      "number": 3,
+      "answer": "C",
+      "explanation": "By Archimedes' principle, an object submerged in water experiences an upward buoyant force (upthrust) that reduces its apparent weight."
+    },
+    {
+      "number": 4,
+      "answer": "D",
+      "explanation": "The newton (N = kg m/s^2) is a derived SI unit, whereas kelvin, kilogramme, and metre are fundamental SI units."
+    },
+    {
+      "number": 5,
+      "answer": "D",
+      "explanation": "In free fall near the Earth's surface, all objects experience the same acceleration due to gravity g regardless of mass."
+    },
+    {
+      "number": 6,
+      "answer": "B",
+      "explanation": "A cone resting on its slant edge stays in its new position when displaced because its centre of gravity neither rises nor falls."
+    },
+    {
+      "number": 7,
+      "answer": "D",
+      "explanation": "At maximum height final velocity is zero, so using v^2 = u^2 - 2gh gives h = u^2 / (2g)."
+    },
+    {
+      "number": 8,
+      "answer": "A",
+      "explanation": "Simple pendulum theory assumes a light, inextensible string, a point-mass bob, and a small angle of oscillation."
+    },
+    {
+      "number": 9,
+      "answer": "C",
+      "explanation": "The uniform rule's centre of gravity is at the 50 cm mark, 5 cm from the pivot at 45 cm from Q. Taking moments: M * 5 = 10 * 35, giving M = 70 g."
+    },
+    {
+      "number": 10,
+      "answer": "C",
+      "explanation": "In equilibrium F3 balances the resultant of F1 and F2: F3 = sqrt(10^2 + 5^2 + 2*10*5*cos60) = sqrt(175) = 13.2 N."
+    },
+    {
+      "number": 11,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 12,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 13,
+      "answer": "B",
+      "explanation": "Using v^2 = u^2 + 2as, acceleration a = 500^2 / (2 * 50) = 2500 m/s^2. Thus F = ma = 0.04 * 2500 = 100.0 N."
+    },
+    {
+      "number": 14,
+      "answer": "A",
+      "explanation": "Hydrostatic pressure P = rho*g*h = 1000 * 10 * 2 = 20000 N/m^2. Force F = P * Area = 20000 * 12 = 2.4 x 10^5 N."
+    },
+    {
+      "number": 15,
+      "answer": "C",
+      "explanation": "For downward acceleration, mg - T = ma, so T = m(g - a) = 1000 * (10.0 - 1.0) = 9000.0 N."
+    },
+    {
+      "number": 16,
+      "answer": "A",
+      "explanation": "When the string breaks, centripetal force vanishes and the ball moves along the tangent at P in the anticlockwise direction."
+    },
+    {
+      "number": 17,
+      "answer": "B",
+      "explanation": "Radiation transfers heat via electromagnetic waves and requires no material medium."
+    },
+    {
+      "number": 18,
+      "answer": "A",
+      "explanation": "Thermal expansion increases the radius of a watch's balance wheel, increasing its moment of inertia and making the watch lose time."
+    },
+    {
+      "number": 19,
+      "answer": "C",
+      "explanation": "The flat horizontal plateau at 80 degrees C shows solidification at constant temperature, which equals the melting point."
+    },
+    {
+      "number": 20,
+      "answer": "C",
+      "explanation": "Specific latent heat of fusion is the heat required to change a unit mass of a solid to liquid at its melting point without temperature change."
+    },
+    {
+      "number": 21,
+      "answer": "C",
+      "explanation": "Both evaporation and boiling involve a change of state from liquid to vapour and absorb latent heat."
+    },
+    {
+      "number": 22,
+      "answer": "C",
+      "explanation": "Mercury's high density (about 13.6 times water) allows atmospheric pressure to be supported by a short, convenient column height."
+    },
+    {
+      "number": 23,
+      "answer": "B",
+      "explanation": "Metals are good conductors of heat, allowing heat from the source to transfer rapidly and evenly to the food."
+    },
+    {
+      "number": 24,
+      "answer": "C",
+      "explanation": "By Charles' law V1 / T1 = V2 / T2 using Kelvin temperatures: V2 = 300 * (327 / 300) = 327 cm^3."
+    },
+    {
+      "number": 25,
+      "answer": "C",
+      "explanation": "Since Q = mc*dT is equal for both, (m_P / m_Q) * (c_P / c_Q) * (dT_P / dT_Q) = 1, so (1/2) * (c_P / c_Q) * 2 = 1, giving 1:1."
+    },
+    {
+      "number": 26,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 27,
+      "answer": "A",
+      "explanation": "Since reflected and refracted rays are perpendicular, i + r = 90 degrees, so r = 30 degrees. By Brewster's law, n = tan(60) = 1.73."
+    },
+    {
+      "number": 28,
+      "answer": "B",
+      "explanation": "For an upright virtual image (m = +3), v = -3u. Using 1/u + 1/v = 1/f gives 1/u - 1/(3u) = 1/12, so u = 8 cm, v = -24 cm, and distance |v| - u = 16.0 cm."
+    },
+    {
+      "number": 29,
+      "answer": "B",
+      "explanation": "In order of increasing wavelength, the electromagnetic spectrum runs from gamma rays to X-rays, infrared rays, and radio waves."
+    },
+    {
+      "number": 30,
+      "answer": "B",
+      "explanation": "At the critical angle c, sin(c) = 1 / n = 1 / 1.5 = 2/3, so c = sin^-1(2/3)."
+    },
+    {
+      "number": 31,
+      "answer": "A",
+      "explanation": "For a virtual image (m = 4, u = 2.0 cm), v = -8.0 cm. Using 1/f = 1/2 - 1/8 = 3/8 gives f = 8/3 cm, so radius r = 2f = 5.3 cm."
+    },
+    {
+      "number": 32,
+      "answer": "A",
+      "explanation": "A larger pinhole allows overlapping cones of light from each object point to reach the screen, producing a blurred image."
+    },
+    {
+      "number": 33,
+      "answer": "D",
+      "explanation": "An object placed between the pole and principal focus of a concave mirror produces a virtual, erect, and enlarged image."
+    },
+    {
+      "number": 34,
+      "answer": "A",
+      "explanation": "Wavelength lambda = v / f = 20 / 10 = 2.0 cm, and the distance between adjacent nodes is lambda / 2 = 1.0 cm."
+    },
+    {
+      "number": 35,
+      "answer": "B",
+      "explanation": "For a closed pipe, first resonance occurs at l = lambda / 4 and second resonance occurs at l = 3 * lambda / 4."
+    },
+    {
+      "number": 36,
+      "answer": "A",
+      "explanation": "Loudness depends on sound intensity, which is proportional to the square of the amplitude of vibration."
+    },
+    {
+      "number": 37,
+      "answer": "A",
+      "explanation": "Echo travel time t = 2d / v = (2 * 160) / 320 = 1 s, so the clapping frequency is f = 1 / t = 1 Hz."
+    },
+    {
+      "number": 38,
+      "answer": "C",
+      "explanation": "A flute is a wind instrument that produces sound through the vibration of an enclosed air column."
+    },
+    {
+      "number": 39,
+      "answer": "D",
+      "explanation": "A transformer operates on alternating current and is not a component of a d.c. electric motor."
+    },
+    {
+      "number": 40,
+      "answer": "B",
+      "explanation": "Connecting two 1 ohm resistors in parallel gives 0.5 ohm, and adding the third 1 ohm resistor in series gives 1.5 ohms (diagram B)."
+    },
+    {
+      "number": 41,
+      "answer": "D",
+      "explanation": "A dry Leclanche cell stores chemical energy and converts it into electrical energy when connected in a circuit."
+    },
+    {
+      "number": 42,
+      "answer": "C",
+      "explanation": "The parallel 5 ohm and 20 ohm resistors give 4 ohms, making total resistance 5 + 4 = 9 ohms. Total current I = 9.0 / 9 = 1.0 A."
+    },
+    {
+      "number": 43,
+      "answer": "D",
+      "explanation": "Total resistance R_total = V / I = 12 / 2 = 6 ohms, so the parallel combination is 6 - 3 = 3 ohms. Solving (6R)/(6 + R) = 3 gives R = 6 ohms."
+    },
+    {
+      "number": 44,
+      "answer": "A",
+      "explanation": "Magnetic field strength is strongest at the poles near the ends of a bar magnet, so iron filings cling mainly there."
+    },
+    {
+      "number": 45,
+      "answer": "D",
+      "explanation": "The angle between the magnetic meridian and the true geographic meridian at a locality is the angle of declination."
+    },
+    {
+      "number": 46,
+      "answer": "A",
+      "explanation": "A charged electroscope identifies the sign of a charge by whether its leaf divergence increases (same sign) or decreases (opposite sign)."
+    },
+    {
+      "number": 47,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 48,
+      "answer": "B",
+      "explanation": "Magnetic inclination (dip) is the angle the earth's resultant magnetic field makes with the horizontal; 70 degrees S means the south pole dips downward."
+    },
+    {
+      "number": 49,
+      "answer": "D",
+      "explanation": "Frequency f = c / lambda = (3 x 10^8) / (400 x 10^-9) = 7.5 x 10^14 Hz."
+    },
+    {
+      "number": 50,
+      "answer": "C",
+      "explanation": "Beta particles have a much smaller mass and higher charge-to-mass ratio than alpha particles, so they are deflected most strongly by a magnetic field."
+    }
+  ]
+}

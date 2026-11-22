@@ -1,0 +1,255 @@
+{
+  "year": 1988,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "C",
+      "explanation": "Using s = ut + 1/2 a t^2 with u = 0, a = 0.5 m/s^2, and t = 10 s gives s = 0.5 * 0.5 * 100 = 25.0 m."
+    },
+    {
+      "number": 2,
+      "answer": "D",
+      "explanation": "The SI unit of force is the newton (N) and of power is the watt (W), whereas torque is Nm and momentum is kg m/s."
+    },
+    {
+      "number": 3,
+      "answer": "B",
+      "explanation": "The 4 km east and 4 km west displacements cancel out, leaving a net northward displacement of 10 km - 6 km = 4 km north."
+    },
+    {
+      "number": 4,
+      "answer": "D",
+      "explanation": "For perpendicular components, the force making 30 degrees with the 100 N resultant has magnitude F = 100 * cos(30 deg) = 86.6 N."
+    },
+    {
+      "number": 5,
+      "answer": "D",
+      "explanation": "Electrical potential and kinetic energy have magnitude only and are scalars, whereas torque and momentum are vector quantities."
+    },
+    {
+      "number": 6,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 7,
+      "answer": "C",
+      "explanation": "By impulse-momentum theorem, F*t = m*v, so v = (30.0 * 0.05) / 0.075 = 20.00 m/s."
+    },
+    {
+      "number": 8,
+      "answer": "B",
+      "explanation": "Gear ratio gives N1*w1 = N2*w2, so the 60-toothed wheel rotates at w2 = (20 * 120) / 60 = 40 rev/s."
+    },
+    {
+      "number": 9,
+      "answer": "B",
+      "explanation": "Velocity is the slope of a displacement-time graph; graph 1 is horizontal, giving zero slope and zero velocity."
+    },
+    {
+      "number": 10,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 11,
+      "answer": "D",
+      "explanation": "Power P = mgh/t gives t = (60 * 10 * 22) / 250 = 52.8 s."
+    },
+    {
+      "number": 12,
+      "answer": "B",
+      "explanation": "Using F - u*m*g = m*a gives 10 - u*(10*10) = 10*0.2, so 100*u = 8 and u = 0.08."
+    },
+    {
+      "number": 13,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 14,
+      "answer": "B",
+      "explanation": "For a body just floating completely immersed, density of liquid equals density of body: rho = m/V = 2 kg / (500 * 10^-6 m^3) = 4.0 * 10^3 kg/m^3."
+    },
+    {
+      "number": 15,
+      "answer": "D",
+      "explanation": "The gas supports atmospheric pressure plus the mercury height difference (13.4 cm - 3.5 cm = 9.9 cm), giving P = 76.0 + 9.9 = 85.9 cm Hg."
+    },
+    {
+      "number": 16,
+      "answer": "C",
+      "explanation": "PV has units (N/m^2) * m^3 = N m = J, which is the SI unit of energy or work."
+    },
+    {
+      "number": 17,
+      "answer": "B",
+      "explanation": "Heat capacity is the heat energy required to raise the temperature of the entire body (10 kg) by 1 K."
+    },
+    {
+      "number": 18,
+      "answer": "C",
+      "explanation": "By heat balance m_c * c * (40 - 25) = m_h * c * (75 - 40), giving 15 m_c = 35 m_h and m_c : m_h = 7 : 3."
+    },
+    {
+      "number": 19,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 20,
+      "answer": "C",
+      "explanation": "Heat transfer through a solid metal rod occurs via vibration and collision of molecules, which is conduction."
+    },
+    {
+      "number": 21,
+      "answer": "D",
+      "explanation": "Sound waves are mechanical waves and can propagate through all material media: gases (air), liquids, and solids."
+    },
+    {
+      "number": 22,
+      "answer": "D",
+      "explanation": "Neglecting light travel time, distance d = v * t = 340 m/s * 2 s = 680 m."
+    },
+    {
+      "number": 23,
+      "answer": "D",
+      "explanation": "All wave types exhibit reflection, refraction, diffraction, and interference."
+    },
+    {
+      "number": 24,
+      "answer": "A",
+      "explanation": "Linear density mu = 0.01 / 0.5 = 0.02 kg/m; fundamental frequency f = (1 / 2L) * sqrt(T / mu) = 1 * sqrt(800 / 0.02) = 200 Hz."
+    },
+    {
+      "number": 25,
+      "answer": "A",
+      "explanation": "An octave above a musical note has exactly twice the fundamental frequency of that note."
+    },
+    {
+      "number": 26,
+      "answer": "A",
+      "explanation": "The speed of sound in air depends on temperature (v proportional to sqrt(T)) and is independent of pressure and frequency."
+    },
+    {
+      "number": 27,
+      "answer": "D",
+      "explanation": "Wave X shows 1 cycle at 30 Hz while wave Y shows 2.5 cycles in the same interval, giving f_Y = 2.5 * 30 = 75 Hz."
+    },
+    {
+      "number": 28,
+      "answer": "C",
+      "explanation": "Adding wax or loading a tuning fork increases its inertia, which lowers its frequency of vibration."
+    },
+    {
+      "number": 29,
+      "answer": "D",
+      "explanation": "At constant length and tension, frequency is inversely proportional to sqrt(mass), so m1/m2 = (f2/f1)^2 = (1/4)^2 = 1:16."
+    },
+    {
+      "number": 30,
+      "answer": "C",
+      "explanation": "For a real image with m = 2.5 and f = 0.20 m (misprinted 10.20m), u = f*(1 + 1/m) = 0.20 * 1.4 = 0.28 m."
+    },
+    {
+      "number": 31,
+      "answer": "D",
+      "explanation": "The ray reflects off M1 at 60 degrees to its horizontal normal, striking perpendicular mirror M2 at 30 degrees to its vertical normal."
+    },
+    {
+      "number": 32,
+      "answer": "A",
+      "explanation": "Using 1/f = 1/u + 1/v with f = 15 cm and u = 10 cm gives 1/v = 1/15 - 1/10 = -1/30, so v = -30 cm (virtual)."
+    },
+    {
+      "number": 33,
+      "answer": "A",
+      "explanation": "A mirage is caused by refraction through air layers of varying refractive index followed by total internal reflection."
+    },
+    {
+      "number": 34,
+      "answer": "C",
+      "explanation": "Violet light has the shortest wavelength and highest refractive index in glass, causing it to deviate the most."
+    },
+    {
+      "number": 35,
+      "answer": "B",
+      "explanation": "Ultraviolet rays have shorter wavelengths than visible and infrared rays and cause certain substances to fluoresce."
+    },
+    {
+      "number": 36,
+      "answer": "C",
+      "explanation": "Yellow passes red and green, red passes only red, and cyan (blue + green) blocks red, so no light reaches the eye (black)."
+    },
+    {
+      "number": 37,
+      "answer": "C",
+      "explanation": "By the right-hand grip rule, a current into the page creates a clockwise magnetic field that points northward at point 3."
+    },
+    {
+      "number": 38,
+      "answer": "C",
+      "explanation": "An impure spectrum occurs when the different coloured images of the slit overlap on the screen."
+    },
+    {
+      "number": 39,
+      "answer": "D",
+      "explanation": "Efficiency = R / (R + r) = 6 / (6 + 2) = 0.75 or 75.0%."
+    },
+    {
+      "number": 40,
+      "answer": "B",
+      "explanation": "Terminal voltage V = E*R / (R + r) = (2/3)E gives 3R = 2R + 2r, so r = 1/2 R."
+    },
+    {
+      "number": 41,
+      "answer": "A",
+      "explanation": "Equating E = I*(R + X) gives 3*(5 + X) = 6*(2 + X), so 15 + 3X = 12 + 6X, giving 3X = 3 and X = 1 ohm."
+    },
+    {
+      "number": 42,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 43,
+      "answer": "A",
+      "explanation": "Energy = P * t = 0.2 kW * (20 * 24 h) = 96 kWh; at 5 kobo per kWh, cost = 96 * 5 = 480 kobo = N4.80."
+    },
+    {
+      "number": 44,
+      "answer": "C",
+      "explanation": "Using I = P/V gives: iron = 4 A, TV = 0.5 A, torch = 30/6 = 5 A, heater = 500/110 = 4.55 A; torch consumes highest current."
+    },
+    {
+      "number": 45,
+      "answer": "B",
+      "explanation": "Moving-iron and hot-wire ammeters depend on I^2 and measure both a.c. and d.c., whereas moving-coil works only for d.c."
+    },
+    {
+      "number": 46,
+      "answer": "C",
+      "explanation": "An induction coil operates on electromagnetic induction, which is governed by Faraday's law."
+    },
+    {
+      "number": 47,
+      "answer": "A",
+      "explanation": "A dynamo is an electrical generator that converts mechanical energy into electrical energy."
+    },
+    {
+      "number": 48,
+      "answer": "C",
+      "explanation": "Balancing mass and atomic numbers in 2H + 3H -> 4He + X gives mass 1 and atomic number 0, which is a neutron."
+    },
+    {
+      "number": 49,
+      "answer": "D",
+      "explanation": "An atom with 22 electrons has atomic number 22 and mass number 22 + 43 = 65, written as 65_22 X."
+    },
+    {
+      "number": 50,
+      "answer": null,
+      "explanation": null
+    }
+  ]
+}
