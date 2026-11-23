@@ -1,0 +1,915 @@
+[
+ {
+  "id": "government-1988-1",
+  "subject": "government",
+  "year": 1988,
+  "number": 1,
+  "question": "The right to direct and command people is",
+  "options": {
+   "A": "authority",
+   "B": "power",
+   "C": "opinion",
+   "D": "obedience"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-2",
+  "subject": "government",
+  "year": 1988,
+  "number": 2,
+  "question": "The application of the rule of law can be hindered by",
+  "options": {
+   "A": "independence of the judiciary",
+   "B": "irresponsible press",
+   "C": "unequal distribution of wealth",
+   "D": "free access to education"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-3",
+  "subject": "government",
+  "year": 1988,
+  "number": 3,
+  "question": "When sovereignty reast with component states in a political system, the constitution is referred to as",
+  "options": {
+   "A": "flexible",
+   "B": "unitary",
+   "C": "confederal",
+   "D": "federal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-4",
+  "subject": "government",
+  "year": 1988,
+  "number": 4,
+  "question": "Constitutions originate from a belief that there is need for",
+  "options": {
+   "A": "limited government",
+   "B": "freedom of worship",
+   "C": "full employment",
+   "D": "judicial independence"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-5",
+  "subject": "government",
+  "year": 1988,
+  "number": 5,
+  "question": "In a parliamentary system of government, the offices sof head of states and head of government are",
+  "options": {
+   "A": "fused",
+   "B": "separated",
+   "C": "not defined",
+   "D": "indistinguishable"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-6",
+  "subject": "government",
+  "year": 1988,
+  "number": 6,
+  "question": "Citizenship may be changed by",
+  "options": {
+   "A": "renunciation",
+   "B": "remarriage"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-7",
+  "subject": "government",
+  "year": 1988,
+  "number": 7,
+  "question": "Fascism emphasises",
+  "options": {
+   "A": "individualism",
+   "B": "equality",
+   "C": "nationalism",
+   "D": "collectivism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-8",
+  "subject": "government",
+  "year": 1988,
+  "number": 8,
+  "question": "Government by the few is",
+  "options": {
+   "A": "dictatorship",
+   "B": "monarchy",
+   "C": "oligarchy",
+   "D": "autocracy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-9",
+  "subject": "government",
+  "year": 1988,
+  "number": 9,
+  "question": "The doctrine of separation of powers is associated with",
+  "options": {
+   "A": "Montesquieu",
+   "B": "Locke",
+   "C": "Marx",
+   "D": "Hobbes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-10",
+  "subject": "government",
+  "year": 1988,
+  "number": 10,
+  "question": "The primary function of the judiciary is to",
+  "options": {
+   "A": "make laws",
+   "B": "protect the citizens",
+   "C": "interpret laws",
+   "D": "execute laws"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-11",
+  "subject": "government",
+  "year": 1988,
+  "number": 11,
+  "question": "Which of the following nations operates an unwriten constitution?",
+  "options": {
+   "A": "U.S.A",
+   "B": "Canada",
+   "C": "Australia",
+   "D": "Great Britain"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-12",
+  "subject": "government",
+  "year": 1988,
+  "number": 12,
+  "question": "Which of the following encourages capitalism?",
+  "options": {
+   "A": "Public ownership of all forms of enterprise",
+   "B": "Even distribution of wealth",
+   "C": "Private ownership of the means of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-13",
+  "subject": "government",
+  "year": 1988,
+  "number": 13,
+  "question": "The principle of collective responsibility means that ministers",
+  "options": {
+   "A": "are collectively responsible to the Head of State B . are collectively responsible for cabinet decisions",
+   "C": "are heads of their respective departments",
+   "D": "must always show a sense of responsibility to their fellow ministers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-14",
+  "subject": "government",
+  "year": 1988,
+  "number": 14,
+  "question": "One of the important advantages of federalism is that",
+  "options": {
+   "A": "any component state can secede at any time",
+   "B": "each state can develop at its own pace",
+   "C": "each state can only spend money allocated to it by the centre D. citizens cannot be taxed by both state and federal governments"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-15",
+  "subject": "government",
+  "year": 1988,
+  "number": 15,
+  "question": "A major difference between power and authority is that authority is",
+  "options": {
+   "A": "popularly acquired",
+   "B": "more costly to exercise C. less dependent on force",
+   "D": "exercise more frequently"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-16",
+  "subject": "government",
+  "year": 1988,
+  "number": 16,
+  "question": "In simple plurality electoral system, the winner receives",
+  "options": {
+   "A": "more that half of the votes cast",
+   "B": "overwhelming majority of all votes cast",
+   "C": "more votes than those for all other",
+   "D": "the highest vote cast in favour of any candidate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-17",
+  "subject": "government",
+  "year": 1988,
+  "number": 17,
+  "question": "A major weakness of unicameral legislature is that it",
+  "options": {
+   "A": "delays legislation",
+   "B": "is unsuitable for a unitary state C. breeds struggle for power D. does not provide a check against hasty legislation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-18",
+  "subject": "government",
+  "year": 1988,
+  "number": 18,
+  "question": "An essential feature of democracy is",
+  "options": {
+   "A": "rigid constitution",
+   "B": "people’s consent",
+   "C": "supremacy of parliament",
+   "D": "bicameral legislature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-19",
+  "subject": "government",
+  "year": 1988,
+  "number": 19,
+  "question": "A characteristic feature of communism is",
+  "options": {
+   "A": "free enterprise",
+   "B": "liberal democracy",
+   "C": "dictatorship",
+   "D": "multi-partysystem"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-20",
+  "subject": "government",
+  "year": 1988,
+  "number": 20,
+  "question": "Which of the following is NOT a mode of constitu tional change?",
+  "options": {
+   "A": "Party manifesto",
+   "B": "Formalamendment",
+   "C": "Judicial decision",
+   "D": "Staturoty revision"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-21",
+  "subject": "government",
+  "year": 1988,
+  "number": 21,
+  "question": "A tax is a",
+  "options": {
+   "A": "private bill",
+   "B": "speaker’s bill",
+   "C": "public bill",
+   "D": "judicial bill"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-22",
+  "subject": "government",
+  "year": 1988,
+  "number": 22,
+  "question": "Attempts to influence legislation by persuading legislators are known as",
+  "options": {
+   "A": "socialization",
+   "B": "gerrymandering",
+   "C": "lobbying",
+   "D": "electioneering"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-23",
+  "subject": "government",
+  "year": 1988,
+  "number": 23,
+  "question": "One main feature of government in many pre-colonial societies in Nigeria was",
+  "options": {
+   "A": "age-grade organization",
+   "B": "grade union",
+   "C": "student’s organization",
+   "D": "council of obas"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-24",
+  "subject": "government",
+  "year": 1988,
+  "number": 24,
+  "question": "The Nigerian Nationalist Movement was greatly assisted by the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-25",
+  "subject": "government",
+  "year": 1988,
+  "number": 25,
+  "question": "Which of the following groups are all public corporations?",
+  "options": {
+   "A": "UAC, NNPC, NPA, NEPA",
+   "B": "NITEL, NAA, NUC, NTC",
+   "C": "NEPA, NNPC, NITEL, NAA",
+   "D": "UAC, NTC, NTC, NPA, NAA"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-26",
+  "subject": "government",
+  "year": 1988,
+  "number": 26,
+  "question": "The Public Complaints Commission is enpowered to investigate compliaints and",
+  "options": {
+   "A": "prosecute false complainants`",
+   "B": "report findings to appropriate authorities for action",
+   "C": "reprimand authorities against whom com plaints are made D. refer complaints to traditional rulers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-27",
+  "subject": "government",
+  "year": 1988,
+  "number": 27,
+  "question": "The basic unit of government in pre-colonial Yoruba land was the",
+  "options": {
+   "A": "town",
+   "B": "empire",
+   "C": "palace",
+   "D": "ward"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-28",
+  "subject": "government",
+  "year": 1988,
+  "number": 28,
+  "question": "The ruling system in pre-colonial Hausa-Fulani societies where rulers were both religious and political heads was referred to as",
+  "options": {
+   "A": "meritocracy",
+   "B": "oligarchy",
+   "C": "Theocracy",
+   "D": "aristocracy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-29",
+  "subject": "government",
+  "year": 1988,
+  "number": 29,
+  "question": "Which of the following governors of Nigeria opposed the demands of the National Congress of British West Africa?",
+  "options": {
+   "A": "Lord Frederick Lugard",
+   "B": "Sir Arthur Richards",
+   "C": "Sir Hugh Clifford",
+   "D": "Sir Alan Burns 30 The major change effected by the government of Major-General J.T.UAguiyi-Ironsi was the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-31",
+  "subject": "government",
+  "year": 1988,
+  "number": 31,
+  "question": "Which of the following principal officials was NOT a member of the state House of Assembly?",
+  "options": {
+   "A": "The leader of the house",
+   "B": "The speaker",
+   "C": "The deputy speaker",
+   "D": "The clerk of the House"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-32",
+  "subject": "government",
+  "year": 1988,
+  "number": 32,
+  "question": "According to the 1976 Local Government Reforms, the chief executive of a local government council is the",
+  "options": {
+   "A": "supervisory councilor",
+   "B": "chairman of the local government council",
+   "C": "governor of the state",
+   "D": "secretary of the local government council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-33",
+  "subject": "government",
+  "year": 1988,
+  "number": 33,
+  "question": "One of the major features of the constitution opera tive in the British West African colonies during the 1920’s was the",
+  "options": {
+   "A": "introduction of the elective principle",
+   "B": "removal of colonial governors by colonial legislative councils",
+   "C": "introduction of universal adult suffrage",
+   "D": "abolition of the local governments"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-34",
+  "subject": "government",
+  "year": 1988,
+  "number": 34,
+  "question": "The principle of regionalism was introduced into",
+  "options": {
+   "C": "Richards constitution",
+   "D": "Clifford constitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-35",
+  "subject": "government",
+  "year": 1988,
+  "number": 35,
+  "question": "The Nigeria Council was created by",
+  "options": {
+   "A": "Hugh Clifford",
+   "B": "Arthur Richards",
+   "C": "Federick Lugard",
+   "D": "Graeme Thompson"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-36",
+  "subject": "government",
+  "year": 1988,
+  "number": 36,
+  "question": "A landmark of the Lyttleton constitution was",
+  "options": {
+   "A": "creation of the post Prime Minister",
+   "B": "creation of the second chamber at the centre",
+   "C": "creation of the position of speaker of the House of Representatives",
+   "D": "removal of the governor-general as chairman of the Federal Cabinet"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-37",
+  "subject": "government",
+  "year": 1988,
+  "number": 37,
+  "question": "Acommon provision in he 1963 and 1979 constitution is the A . registration of political parties by FEDECO",
+  "options": {
+   "B": "financing of local governments by the Federal Government",
+   "C": "Judicail Service Commission",
+   "D": "bicameral legislaturefor thecentral government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-38",
+  "subject": "government",
+  "year": 1988,
+  "number": 38,
+  "question": "Africans were first elected to the legislative council in British West Africa in",
+  "options": {
+   "A": "Ghana",
+   "B": "Sierra Leone",
+   "C": "The Gambia",
+   "D": "Nigeria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-39",
+  "subject": "government",
+  "year": 1988,
+  "number": 39,
+  "question": "Under the independence constitution, the head of government was the",
+  "options": {
+   "A": "governor-general",
+   "B": "president",
+   "C": "prime minister",
+   "D": "premier"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-40",
+  "subject": "government",
+  "year": 1988,
+  "number": 40,
+  "question": "The Nigerian National Alliance of the first Republic was made up of",
+  "options": {
+   "A": "NCNC and N NDP",
+   "B": "NPC and AG",
+   "C": "NPC and NNDP",
+   "D": "NCNC and AG"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-41",
+  "subject": "government",
+  "year": 1988,
+  "number": 41,
+  "question": "When did the Federal Military Government abolish the four regions in Nigeria?",
+  "options": {
+   "A": "1963",
+   "B": "1966",
+   "C": "1970",
+   "D": "1976"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-42",
+  "subject": "government",
+  "year": 1988,
+  "number": 42,
+  "question": "The headquaters of the Economic Commission of Africa is located in",
+  "options": {
+   "A": "Ghana",
+   "B": "Kenya",
+   "C": "Nigeria",
+   "D": "Ethiopia"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-43",
+  "subject": "government",
+  "year": 1988,
+  "number": 43,
+  "question": "Thefollowing aremembersof thecommonwealth EXCEPT",
+  "options": {
+   "A": "Lesotho",
+   "B": "Jamaica",
+   "C": "Kenya",
+   "D": "Gabon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-44",
+  "subject": "government",
+  "year": 1988,
+  "number": 44,
+  "question": "One of the functions of the Minstry of External affairs is the",
+  "options": {
+   "A": "deportation of illegal aliens",
+   "B": "issuance of passports",
+   "C": "defence of the country’s borders",
+   "D": "promotion of national interest"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-45",
+  "subject": "government",
+  "year": 1988,
+  "number": 45,
+  "question": "The five permanent members of thew United nations Security Council are",
+  "options": {
+   "A": "China, U.K, U.S.S.R, U.S.A. and France",
+   "B": "U.S.S.R, Germany, Canada, India and China",
+   "C": "U.K, France, U.S.A, Brazil and Ethiopia",
+   "D": "U.S.A, China, Liberia, U.S.S.R and Italy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-46",
+  "subject": "government",
+  "year": 1988,
+  "number": 46,
+  "question": "Before the O.A.U. was formed in 1963, Nigeria was a member of the",
+  "options": {
+   "A": "Monrovia Bloc",
+   "B": "Afro-Arab Bloc",
+   "C": "Casablanca Powers",
+   "D": "Brazzavile Group"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-47",
+  "subject": "government",
+  "year": 1988,
+  "number": 47,
+  "question": "Which of the following has NOT been a Secretary- General of the O.A.U",
+  "options": {
+   "A": "Adebayo Adedeji",
+   "B": "Ide Oumaro",
+   "C": "Diallo Telhi D Edem Kodjo"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-48",
+  "subject": "government",
+  "year": 1988,
+  "number": 48,
+  "question": "The appointment of the Secretary-General of the O.A.U is made by the",
+  "options": {
+   "A": "Economic Commission of Africa",
+   "B": "O.A.U. Secretariat",
+   "C": "Council of the Foreign Ministers",
+   "D": "Assembly of Heads of State and Government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-49",
+  "subject": "government",
+  "year": 1988,
+  "number": 49,
+  "question": "Nigeria is a member of",
+  "options": {
+   "A": "OPEC, NATO and ECOWAS",
+   "B": "O.A.U, U.N.O & ECOWAS",
+   "C": "ECOWAS, NATO & OAU",
+   "D": "The Commonwealth of Nations, OPEC and the O.A.S."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-50",
+  "subject": "government",
+  "year": 1988,
+  "number": 50,
+  "question": "Which ofthe following pairs are members of ECOWAS?",
+  "options": {
+   "A": "Nigeria and Cameroon",
+   "B": "Liberia and Congo",
+   "C": "Senegal and Zaire",
+   "D": "Cape Verde and Burkina Faso"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

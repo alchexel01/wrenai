@@ -1,0 +1,960 @@
+[
+ {
+  "id": "government-1985-1",
+  "subject": "government",
+  "year": 1985,
+  "number": 1,
+  "question": "Public opinion is important because it",
+  "options": {
+   "A": "tells government what action it must take",
+   "B": "lets government know what the people want",
+   "C": "allows the police to determine trouble makers",
+   "D": "protects minorities",
+   "E": "guarantees a free press"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-2",
+  "subject": "government",
+  "year": 1985,
+  "number": 2,
+  "question": "Which branch of government is responsible for implementing laws? The",
+  "options": {
+   "A": "Executive",
+   "B": "Legislature",
+   "C": "Judiciary",
+   "D": "Police",
+   "E": "Civil Service."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-3",
+  "subject": "government",
+  "year": 1985,
+  "number": 3,
+  "question": "Universal Adult Suffrage means all",
+  "options": {
+   "A": "adult citizens can vote",
+   "B": "citizens can vote",
+   "C": "qualified citizens can vote",
+   "D": "literate citizens can vote",
+   "E": "males can vote"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-4",
+  "subject": "government",
+  "year": 1985,
+  "number": 4,
+  "question": "In a democarcy, sovereignty is vested in A the community B. public officials",
+  "options": {
+   "C": "judges",
+   "D": "the Head of State",
+   "E": "the legislature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-5",
+  "subject": "government",
+  "year": 1985,
+  "number": 5,
+  "question": "A bill that applies to the whole population and is intended to promote the general welfare is called",
+  "options": {
+   "A": "a privatebill",
+   "B": "a decree",
+   "C": "an appropriaione bill",
+   "D": "a public deal",
+   "E": "an eddict."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-7",
+  "subject": "government",
+  "year": 1985,
+  "number": 7,
+  "question": "The rule of law implies",
+  "options": {
+   "A": "the rule by lawyers",
+   "B": "that only the Head of State is above the law",
+   "C": "the absence of a military government",
+   "D": "that no one is above the law",
+   "E": "that onlythe National Assembly can make laws"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-8",
+  "subject": "government",
+  "year": 1985,
+  "number": 8,
+  "question": "A one party system of government",
+  "options": {
+   "A": "is found in Africa",
+   "B": "allows no official opposition",
+   "C": "does not provide for a legislature",
+   "D": "is practised only where the citizens share identical views about policy",
+   "E": "does not accept the doctrine of separation of powers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-9",
+  "subject": "government",
+  "year": 1985,
+  "number": 9,
+  "question": "A constitution is classified as unwritten because it",
+  "options": {
+   "A": "is used in Britain",
+   "B": "has nowritten records",
+   "C": "makes no provision for a clear cut separation of powers.",
+   "D": "does not emanate from the legislature",
+   "E": "is not contained in any one document."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-10",
+  "subject": "government",
+  "year": 1985,
+  "number": 10,
+  "question": "Delegated legislation is the power to make laws by",
+  "options": {
+   "A": "local councils when parliament is recess",
+   "B": "bodies other than parliament",
+   "C": "the International Law Commission",
+   "D": "military rulers",
+   "E": "parliament."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-11",
+  "subject": "government",
+  "year": 1985,
+  "number": 11,
+  "question": "In a unitary system of government",
+  "options": {
+   "A": "political power is diffused",
+   "B": "there is a high degree of centralization",
+   "C": "there is no separation of powers",
+   "D": "parliament is very weak",
+   "E": "legislative powers cannot be delegated to local councils."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-12",
+  "subject": "government",
+  "year": 1985,
+  "number": 12,
+  "question": "Case-laws are made by the",
+  "options": {
+   "A": "Legislature",
+   "B": "Executive",
+   "C": "Judiciary",
+   "D": "Attorney General and Minister of Justice",
+   "E": "President"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-13",
+  "subject": "government",
+  "year": 1985,
+  "number": 13,
+  "question": "The theory of separation of powers was for the first time clearly formulated by",
+  "options": {
+   "A": "Jean Bodin",
+   "B": "Jean Austin",
+   "C": "Baron de Montesquieu",
+   "D": "Lord Bryce",
+   "E": "A.V. Dicey"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-14",
+  "subject": "government",
+  "year": 1985,
+  "number": 14,
+  "question": "The deliberate tampering with the delimitation of constituencies in order to win more seat is called",
+  "options": {
+   "A": "gerontocracy",
+   "B": "gerrymandering",
+   "C": "delimitation",
+   "D": "bureaucracy",
+   "E": "devolution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-15",
+  "subject": "government",
+  "year": 1985,
+  "number": 15,
+  "question": "Fascism developed in",
+  "options": {
+   "A": "France",
+   "B": "Germany",
+   "C": "Italy",
+   "D": "Soviet Union",
+   "E": "China"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-16",
+  "subject": "government",
+  "year": 1985,
+  "number": 16,
+  "question": "Which of the following is a good example of a confederal state?",
+  "options": {
+   "A": "Nigeria",
+   "B": "Switzerland",
+   "C": "U.S.A.",
+   "D": "Ghana",
+   "E": "ECOWAS"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-17",
+  "subject": "government",
+  "year": 1985,
+  "number": 17,
+  "question": "In a simple majority electoral system, the candidate that wins is the one who",
+  "options": {
+   "A": "obtains the greatest number of votes cast",
+   "B": "has spent the most amount of money",
+   "C": "has travelled most widely in the country",
+   "D": "is endorsed by the traditional rulers",
+   "E": "has most support among labour union leaders"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-18",
+  "subject": "government",
+  "year": 1985,
+  "number": 18,
+  "question": "An election conducted to fill a vacant post in a legislature is known as",
+  "options": {
+   "A": "a primary election",
+   "B": "a general election",
+   "C": "a by-election",
+   "E": "an indirect election"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-19",
+  "subject": "government",
+  "year": 1985,
+  "number": 19,
+  "question": "Constitutionalism means",
+  "options": {
+   "A": "the constitution is largely made up of conventions B. the constitution is not easy to amend",
+   "C": "the provisions of the constitution are strictly adhered to D. there is a constitutional Head of State",
+   "E": "there is parliamentary supremacy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-20",
+  "subject": "government",
+  "year": 1985,
+  "number": 20,
+  "question": "Which of these is NOT a member of the Judiciary?",
+  "options": {
+   "A": "The chief justice",
+   "B": "A high court judge",
+   "C": "A magistrate",
+   "D": "A lawyer",
+   "E": "A grand khadi"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-21",
+  "subject": "government",
+  "year": 1985,
+  "number": 21,
+  "question": "A person who is disenfranchised is",
+  "options": {
+   "A": "allowed to be voted for",
+   "B": "allowed to excersie his voting right",
+   "C": "not permitted to vote",
+   "D": "allowed to nominate a candidate",
+   "E": "a prohibited immigrant"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-22",
+  "subject": "government",
+  "year": 1985,
+  "number": 22,
+  "question": "The head of the executive branch in a parliamentary system is called the",
+  "options": {
+   "A": "prime minster",
+   "B": "president",
+   "C": "majority leader",
+   "D": "senate president",
+   "E": "governor-general."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-23",
+  "subject": "government",
+  "year": 1985,
+  "number": 23,
+  "question": "Thepolitical neutrality of civil servants implies that they",
+  "options": {
+   "A": "are not allowed to join any organization or group B. have no dealings with politicians",
+   "C": "are not allowed to be involved in partisan politics",
+   "D": "have permanent tenure",
+   "E": "are not allowed to vote"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-24",
+  "subject": "government",
+  "year": 1985,
+  "number": 24,
+  "question": "The supreme power of a state to make and enforce laws within its jurisdiction is called",
+  "options": {
+   "A": "decolonization",
+   "B": "independence",
+   "C": "nationalism",
+   "D": "sovereignty",
+   "E": "enfrachisement"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-25",
+  "subject": "government",
+  "year": 1985,
+  "number": 25,
+  "question": "Ceremonial and executive powers are usually fused in a A unitary system of government",
+  "options": {
+   "B": "federal government",
+   "C": "democratic system D. presidential system of government E. parliamentary system of government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-26",
+  "subject": "government",
+  "year": 1985,
+  "number": 26,
+  "question": "The members of the Nigerian Constituent Assembly were elected in 1983 by",
+  "options": {
+   "A": "bye-election",
+   "B": "a general election",
+   "C": "electoral colleges",
+   "D": "referenda",
+   "E": "indirect election"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-27",
+  "subject": "government",
+  "year": 1985,
+  "number": 27,
+  "question": "The name of the president of the Nigerian Labour Congress elected in 1983 is D Dr. Lasisi Osunde E. Alhaji Ali Chiroma",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-28",
+  "subject": "government",
+  "year": 1985,
+  "number": 28,
+  "question": "Under the 1979 Nigeria Constitution, the supreme court judges were appointed by the",
+  "options": {
+   "A": "judicial services commission",
+   "B": "President",
+   "C": "honourable chief justice D. senate",
+   "E": "national assembly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-29",
+  "subject": "government",
+  "year": 1985,
+  "number": 29,
+  "question": "The annual budget of the O.A.U. is approved by the",
+  "options": {
+   "A": "Assembly of Heads of State and Government",
+   "B": "Council of Ministers",
+   "C": "Secretary-General",
+   "D": "General Assembly",
+   "E": "Economic Commission for Africa."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-30",
+  "subject": "government",
+  "year": 1985,
+  "number": 30,
+  "question": "Lagos was first amalgamated with the Western Region as a result of the",
+  "options": {
+   "A": "Clifford Constituion (1922)",
+   "B": "Richards Constitution (1946)",
+   "C": "Macpherson Constitution (1951)",
+   "D": "Lyttleton Constitution (1954)",
+   "E": "Independence Constitution (1960)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-31",
+  "subject": "government",
+  "year": 1985,
+  "number": 31,
+  "question": "One of the non-permanent members of the United Nations Security Council is",
+  "options": {
+   "A": "Britain",
+   "B": "U.S.S.R",
+   "C": "U.S.A.",
+   "D": "China",
+   "E": "Nigeria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-32",
+  "subject": "government",
+  "year": 1985,
+  "number": 32,
+  "question": "Local government in Nigeria are created in order to",
+  "options": {
+   "A": "create more civil service jobs",
+   "B": "encourage competitions and rivalry among groups",
+   "C": "bring the government nearer to the people",
+   "D": "prevdent the creation of more states.",
+   "E": "levy import duties."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-33",
+  "subject": "government",
+  "year": 1985,
+  "number": 33,
+  "question": "The amalgamation of the Northern and Southern Protectorates of Nigeria was in",
+  "options": {
+   "A": "1914",
+   "B": "1922",
+   "C": "1951",
+   "D": "1953",
+   "E": "1960"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-34",
+  "subject": "government",
+  "year": 1985,
+  "number": 34,
+  "question": "ECOWAS is",
+  "options": {
+   "A": "an international military/defence organization",
+   "B": "a regional economic organization",
+   "C": "a trans-national religious group",
+   "D": "a WestAfrican English-speaking organization",
+   "E": "an international organ of the United Nations."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-35",
+  "subject": "government",
+  "year": 1985,
+  "number": 35,
+  "question": "Which of the following is NOT a member of ECOWAS A Nigeria B. Togo C. Ghana",
+  "options": {
+   "D": "Bourkina Fasso",
+   "E": "Cameroun"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-36",
+  "subject": "government",
+  "year": 1985,
+  "number": 36,
+  "question": "The Lyttleton Constitution is important because it",
+  "options": {
+   "A": "confirmed that Nigeria would be independent in 1960",
+   "B": "confirmed Nigeria’s federal structure",
+   "C": "introduced franchise into Nigeria n politics",
+   "D": "made Nigeria sovereign"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-37",
+  "subject": "government",
+  "year": 1985,
+  "number": 37,
+  "question": "The Macpherson Constitution of Nigeia created a",
+  "options": {
+   "A": "bicameral legislature for Eastern Nigeria",
+   "B": "bicameral legislature for the Central government",
+   "C": "unicameral legislature for Western Nigeria",
+   "D": "bicamenral legislature for Western Nigeria.",
+   "E": "unicameral legislature for Northern Nigeria."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-38",
+  "subject": "government",
+  "year": 1985,
+  "number": 38,
+  "question": "TheArthur Richardsconstitution introduced into Nigeria",
+  "options": {
+   "A": "federalism",
+   "B": "republicanism",
+   "C": "regionalism",
+   "D": "the multi-party system",
+   "E": "the office of Prime Minister"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-39",
+  "subject": "government",
+  "year": 1985,
+  "number": 39,
+  "question": "In 1966, the Militaryintervened in Nigeria politics because",
+  "options": {
+   "A": "the country was not operating a presidential system of government",
+   "B": "the number of legislature was too large",
+   "C": "crude oil had been discovered in the country",
+   "D": "there was a high level of corruption in the country",
+   "E": "the political processes had broken down"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-40",
+  "subject": "government",
+  "year": 1985,
+  "number": 40,
+  "question": "The Nigerian National Democratic Party (NNDP) of the pre-independence era",
+  "options": {
+   "A": "dominated the political scene in Lagos",
+   "B": "was formed to replace the Action Group as the ruling party in the Western Region",
+   "C": "had branches all over the country",
+   "D": "was warmly supported by traditional rulers",
+   "E": "was not opposed to indirect rule"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-41",
+  "subject": "government",
+  "year": 1985,
+  "number": 41,
+  "question": "The Clifford Constitution",
+  "options": {
+   "A": "provided for universal adult suffrage",
+   "B": "made Governor dependent on the Executive Council",
+   "C": "provided for an unofficial majority membership of the Legislature Council D. provided for African representation on the Executive Council",
+   "E": "introduced theelective principle into Nigerian politics."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-42",
+  "subject": "government",
+  "year": 1985,
+  "number": 42,
+  "question": "Under the Independence Constitution",
+  "options": {
+   "A": "the governor-general could appoint any member of the House of Representatives as a prime minister",
+   "B": "a bicameral legislature was introduced in the country",
+   "C": "forty-four members were elected into the Senate",
+   "D": "higher education was made the exclusive responsiblity of the federal government",
+   "E": "the supreme court of Nigeria was made the highest judicial authority in the country."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-43",
+  "subject": "government",
+  "year": 1985,
+  "number": 43,
+  "question": "Which of the following nations does not have veto power in the Secuirty Council of the UNO?",
+  "options": {
+   "A": "Britain",
+   "B": "China",
+   "C": "France",
+   "D": "Germany",
+   "E": "U.SA."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-44",
+  "subject": "government",
+  "year": 1985,
+  "number": 44,
+  "question": "Public corporations are established mainly to",
+  "options": {
+   "A": "cater for the welfare of their board members",
+   "B": "give advice to the government on commerce",
+   "C": "co-ordinate the affairs of several amenities on a commercial basis",
+   "E": "develop the rural areas."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-45",
+  "subject": "government",
+  "year": 1985,
+  "number": 45,
+  "question": "The first military coup d’etat in Nigeria occurred on",
+  "options": {
+   "A": "October 1, 1960",
+   "B": "October 1, 1963",
+   "C": "January 15, 1966",
+   "D": "January 15, 1967",
+   "E": "December 31, 1983"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-46",
+  "subject": "government",
+  "year": 1985,
+  "number": 46,
+  "question": "Nigeria adopted a republican constitution on",
+  "options": {
+   "A": "October 1, 1960",
+   "B": "October 1, 1963",
+   "C": "October 1, 1966",
+   "D": "May 1, 1967",
+   "E": "October 1, 1979"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-47",
+  "subject": "government",
+  "year": 1985,
+  "number": 47,
+  "question": "The folowing six political parties were registered for the 1983 elections",
+  "options": {
+   "A": "NCNC, UPN, NPP, NNDP,UMBC, NAP",
+   "B": "NPN, NAP, NPP, PRP, GNPP, UPN",
+   "C": "NPN, NNA, PPP, PRP, PPA, UPN",
+   "D": "NPP, Chop Chop, PPP, PPA, UPN, PRP",
+   "E": "UPN, AG, NNDP, PRP, NAP, PPA."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-48",
+  "subject": "government",
+  "year": 1985,
+  "number": 48,
+  "question": "In Nigeria, the office of Prime Minister wasfirst created in",
+  "options": {
+   "A": "1954",
+   "B": "1957",
+   "C": "1958",
+   "D": "1959",
+   "E": "1960."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-49",
+  "subject": "government",
+  "year": 1985,
+  "number": 49,
+  "question": "The non-permanent members of the Security Council of the United Nations Organisations (UNO) are elected for",
+  "options": {
+   "A": "5 year terms",
+   "B": "4 year terms",
+   "C": "3 year terms",
+   "D": "2 year terms",
+   "E": "1 year term."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1985-50",
+  "subject": "government",
+  "year": 1985,
+  "number": 50,
+  "question": "The Economic Commission for Africa is an organ of",
+  "options": {
+   "A": "O.A.U.",
+   "B": "ECOWAS",
+   "C": "U.N.O.",
+   "D": "E.E.C.",
+   "E": "UNESCO"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,897 @@
+[
+ {
+  "id": "government-1986-1",
+  "subject": "government",
+  "year": 1986,
+  "number": 1,
+  "question": "Aristocracy is the system of government in which the few rule for",
+  "options": {
+   "A": "their own benefit",
+   "B": "the benefit of all",
+   "C": "the benefit of their friends",
+   "D": "the benefit of a few"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-2",
+  "subject": "government",
+  "year": 1986,
+  "number": 2,
+  "question": "The two primary elements in politics are",
+  "options": {
+   "A": "war and peace",
+   "B": "order and conflict"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-3",
+  "subject": "government",
+  "year": 1986,
+  "number": 3,
+  "question": "A nation state is synonymous with a",
+  "options": {
+   "A": "sovereign state",
+   "B": "dependent territory",
+   "C": "nation",
+   "D": "political community"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-4",
+  "subject": "government",
+  "year": 1986,
+  "number": 4,
+  "question": "Legislative supremacy exists in",
+  "options": {
+   "A": "Britain",
+   "B": "France",
+   "C": "Soviet Union",
+   "D": "Nigeria. excercises actual executive powers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-6",
+  "subject": "government",
+  "year": 1986,
+  "number": 6,
+  "question": "The main function of the upper chamber in a parlia mentary system of government is to",
+  "options": {
+   "A": "initiate new legislation",
+   "B": "Executive laws",
+   "C": "acts as a check on the lower chamber",
+   "D": "direct the activities of the lower chamber"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-7",
+  "subject": "government",
+  "year": 1986,
+  "number": 7,
+  "question": "The federal constitution which concedes to the components units the right to secede is that of",
+  "options": {
+   "A": "the United States B Australia",
+   "C": "Brazil",
+   "D": "the Soviet Union"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-8",
+  "subject": "government",
+  "year": 1986,
+  "number": 8,
+  "question": "The principle of two levels of government in a country is called",
+  "options": {
+   "A": "the parliamentary system",
+   "B": "dictatorship",
+   "C": "nationalism",
+   "D": "federalism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-9",
+  "subject": "government",
+  "year": 1986,
+  "number": 9,
+  "question": "In a cabinet system, the executive is appointed from the",
+  "options": {
+   "A": "legislature",
+   "B": "opposition",
+   "C": "upper house",
+   "D": "weaker partyin thecoalition"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-10",
+  "subject": "government",
+  "year": 1986,
+  "number": 10,
+  "question": "An important advantage of creating more constituents units in a federal state is to",
+  "options": {
+   "A": "enhance the people’s participation in government B. enable ambitious politicians gain political power",
+   "C": "make the state gain more power.",
+   "D": "curb the powers of the federal government."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-11",
+  "subject": "government",
+  "year": 1986,
+  "number": 11,
+  "question": "Under the presidential system",
+  "options": {
+   "A": "the party with the majority of seats forms the Executive",
+   "B": "there is the principle of collective responsi bility",
+   "C": "the president may come from any of the parties D. the constitution must be unwritten"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-12",
+  "subject": "government",
+  "year": 1986,
+  "number": 12,
+  "question": "The major function of the legislative assembly is to",
+  "options": {
+   "A": "debate on committee reports",
+   "B": "represent the people",
+   "C": "make laws D vote on bills"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-13",
+  "subject": "government",
+  "year": 1986,
+  "number": 13,
+  "question": "In a parliamentary system who ensures that members are in the House to vote on major issues? The",
+  "options": {
+   "A": "party leader",
+   "B": "speaker of the house",
+   "C": "clerk of the House",
+   "D": "Whip"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-14",
+  "subject": "government",
+  "year": 1986,
+  "number": 14,
+  "question": "A system in which no single person serves as the chief executive is known as",
+  "options": {
+   "A": "repbulican",
+   "B": "revolutionary",
+   "C": "Collegial",
+   "D": "parliamentary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-15",
+  "subject": "government",
+  "year": 1986,
+  "number": 15,
+  "question": "The idea of democracy was first associated with the",
+  "options": {
+   "A": "Romans",
+   "B": "Persians",
+   "C": "Greeks",
+   "D": "Egyptians"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-16",
+  "subject": "government",
+  "year": 1986,
+  "number": 16,
+  "question": "According to Marxist theory, those who live by selling their labour are referred to as the A bourgeoisie B. proletariats",
+  "options": {
+   "C": "feudal lords",
+   "D": "slaves"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-17",
+  "subject": "government",
+  "year": 1986,
+  "number": 17,
+  "question": "A social system in which power is derived from control over land is called",
+  "options": {
+   "A": "oligarchy B Feudalism",
+   "C": "socialsim",
+   "D": "presidentialism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-18",
+  "subject": "government",
+  "year": 1986,
+  "number": 18,
+  "question": "A system of government in which power derives from total control of the instruments of force is called",
+  "options": {
+   "A": "monarchy",
+   "B": "oligarchy",
+   "C": "capitalism",
+   "D": "fascism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-19",
+  "subject": "government",
+  "year": 1986,
+  "number": 19,
+  "question": "Which of the following ideologies emphasizes the abolition of goverment and law?",
+  "options": {
+   "A": "Totalitarianism",
+   "B": "Communism",
+   "C": "Anarchism",
+   "D": "socialism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-20",
+  "subject": "government",
+  "year": 1986,
+  "number": 20,
+  "question": "The writ of habeas corpus is applied to secure the A right to personal liberty B. indepen dence of the judiciary C. freedom of the press D. right to own private property.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-21",
+  "subject": "government",
+  "year": 1986,
+  "number": 21,
+  "question": "Which of the following is NOT a fundamental human right in Nigeria?",
+  "options": {
+   "A": "Right to education",
+   "B": "Right to personal liberty",
+   "C": "Freedom of thought",
+   "D": "Freedom of conscience"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-22",
+  "subject": "government",
+  "year": 1986,
+  "number": 22,
+  "question": "Proportional representation is recommended because it",
+  "options": {
+   "A": "favours small parties",
+   "B": "is simple to operate",
+   "C": "leads to liberal democracy",
+   "D": "preserves the party system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-23",
+  "subject": "government",
+  "year": 1986,
+  "number": 23,
+  "question": "A system of voting in which the voters are asked a ‘yes’ or ‘no’ question on a major issue is called A ‘first past the post’",
+  "options": {
+   "B": "a referedum",
+   "C": "an absolute majority",
+   "D": "an indirect election."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-24",
+  "subject": "government",
+  "year": 1986,
+  "number": 24,
+  "question": "A political manifesto is a document which outlines A a country’s development",
+  "options": {
+   "B": "a partys programme",
+   "C": "the national policy",
+   "D": "anethnic interest"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-25",
+  "subject": "government",
+  "year": 1986,
+  "number": 25,
+  "question": "One argument against a multi-party system is the",
+  "options": {
+   "A": "inability to develop the nation",
+   "B": "encouragement of diverse opinion and opposition C. ability to attract foreign investment D. banning of pressure groups."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-26",
+  "subject": "government",
+  "year": 1986,
+  "number": 26,
+  "question": "Pre-colonial Igbo society was",
+  "options": {
+   "A": "centralized",
+   "B": "acephalous",
+   "C": "feudal",
+   "D": "capitalist"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-27",
+  "subject": "government",
+  "year": 1986,
+  "number": 27,
+  "question": "Which of the following ethnic groups had centralised",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-28",
+  "subject": "government",
+  "year": 1986,
+  "number": 28,
+  "question": "In which of the following ethnic groups was pre- colonial political structure NOT infuenced by the Islamic culture?",
+  "options": {
+   "A": "Kanuri",
+   "B": "Nupe",
+   "C": "Tiv",
+   "D": "Fulani"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-29",
+  "subject": "government",
+  "year": 1986,
+  "number": 29,
+  "question": "The British Government revoked the charter of the Royal Niger Company and took over the direct administration of Nigeria in",
+  "options": {
+   "A": "1861",
+   "B": "1900",
+   "C": "1906",
+   "D": "1914"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-30",
+  "subject": "government",
+  "year": 1986,
+  "number": 30,
+  "question": "The Minorities Commission appointed in 1957 was headed by",
+  "options": {
+   "A": "Sir Henry Willink",
+   "B": "Justice Udo Udoma",
+   "C": "Chief Festus Okotie-Eboh",
+   "D": "Sir Allan Lennox-Boyd"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-31",
+  "subject": "government",
+  "year": 1986,
+  "number": 31,
+  "question": "The Zikist Movement was popular for its",
+  "options": {
+   "A": "philosophy of non-violence",
+   "B": "promotion of mass literacy",
+   "C": "militant nationalism",
+   "D": "encouragement of multi-party system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-32",
+  "subject": "government",
+  "year": 1986,
+  "number": 32,
+  "question": "Which of the following sets of factors contrbuted to the development of nationalism in Nigeria?",
+  "options": {
+   "A": "Racial discrimination and oppression",
+   "B": "Corruption and ethnicity",
+   "C": "Parternalism and indirect rule",
+   "D": "Election malpractices and party differences"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-33",
+  "subject": "government",
+  "year": 1986,
+  "number": 33,
+  "question": "Which constitution was created to legislate for the Lagos Colony and the Southern Provinces?",
+  "options": {
+   "A": "The Richards Consittution",
+   "B": "The Clifford Constitution",
+   "C": "The Lyttleton Constitution",
+   "D": "The Macpherson Constitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-34",
+  "subject": "government",
+  "year": 1986,
+  "number": 34,
+  "question": "Judges in Nigeria enjoys security of tenure",
+  "options": {
+   "A": "if they are appointed by the president",
+   "B": "if they have the support of the Nigerian Bar Association",
+   "C": "if they are of good behaviour",
+   "D": "during the life of the government which appoints them."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-35",
+  "subject": "government",
+  "year": 1986,
+  "number": 35,
+  "question": "Before the 1963 Constitution, the highest court of appeal for Nigeria was the",
+  "options": {
+   "A": "Supreme Court",
+   "B": "Federal High Court of Appeal C. Privy Council D Federal High Court"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-36",
+  "subject": "government",
+  "year": 1986,
+  "number": 36,
+  "question": "Which of the following is NOT a function of the Police Force in Nigeria?",
+  "options": {
+   "A": "Traffic control",
+   "B": "Arrest of criminals",
+   "C": "Making of laws",
+   "D": "Prosecution of criminals"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-37",
+  "subject": "government",
+  "year": 1986,
+  "number": 37,
+  "question": "In Nigeria, the highest court for muslims is the",
+  "options": {
+   "A": "Alkali Court",
+   "B": "Sharia Court of Appeal",
+   "C": "Supreme Court",
+   "D": "Upper Area Court"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-38",
+  "subject": "government",
+  "year": 1986,
+  "number": 38,
+  "question": "Who was appointed by the federal government of Nigeria as the administrator of western region in 1962?",
+  "options": {
+   "A": "Dr. M.A. Majekodunmi",
+   "B": "Chief Odeleye"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-39",
+  "subject": "government",
+  "year": 1986,
+  "number": 39,
+  "question": "The head of state in the first republic of Nigeria was",
+  "options": {
+   "A": "an executive president",
+   "B": "a nominal president C. a party leader",
+   "D": "a nominee of the whole country."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-40",
+  "subject": "government",
+  "year": 1986,
+  "number": 40,
+  "question": "Which of the folowing parties formed the opposition in the House of Representatives during Nigerian first republic",
+  "options": {
+   "A": "NCNC and NEPU",
+   "B": "AG and UMBC",
+   "C": "NPC and NNPC",
+   "D": "NCNC and MDF"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-41",
+  "subject": "government",
+  "year": 1986,
+  "number": 41,
+  "question": "The main objectives of the Public Service Review Commission headed by Chief Jerome Udoji was to make the Nigerian public service",
+  "options": {
+   "A": "less corrupt",
+   "B": "more attactive financially",
+   "C": "more efficient and result-oriented",
+   "D": "superior to the private sector."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-42",
+  "subject": "government",
+  "year": 1986,
+  "number": 42,
+  "question": "Local governments in Nigeria receive the bulk of their financial resources from",
+  "options": {
+   "A": "the state government",
+   "B": "the federal government C. rates and taxes",
+   "D": "local investment projects."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-43",
+  "subject": "government",
+  "year": 1986,
+  "number": 43,
+  "question": "Theterm ‘Chief-in-Council,’ in Nigeria meansthat theChief",
+  "options": {
+   "A": "is elected by the council",
+   "B": "is superior to the council C. cannot oppose the decision of the council D. is nominated by the government."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-44",
+  "subject": "government",
+  "year": 1986,
+  "number": 44,
+  "question": "Traditional rulers under the 1976 Local Government Reforms had A executive powers B. Chief-in-council status",
+  "options": {
+   "C": "limited powers",
+   "D": "legislative powers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-45",
+  "subject": "government",
+  "year": 1986,
+  "number": 45,
+  "question": "Nigeria is NOT a member of",
+  "options": {
+   "A": "the Commonweath",
+   "B": "OPEC",
+   "C": "ECOWAS",
+   "D": "NATO"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-46",
+  "subject": "government",
+  "year": 1986,
+  "number": 46,
+  "question": "The greatest achievement of nationalist movement in Africa is the",
+  "options": {
+   "A": "Unity of Africa States",
+   "B": "love and peace among African STates",
+   "C": "sovereignty of most African States",
+   "D": "economic independence of African States."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-47",
+  "subject": "government",
+  "year": 1986,
+  "number": 47,
+  "question": "The administrative headquarters of O.A.U. is in",
+  "options": {
+   "A": "Addis Ababa",
+   "B": "Lagos",
+   "C": "Accra",
+   "D": "Nairobi"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-48",
+  "subject": "government",
+  "year": 1986,
+  "number": 48,
+  "question": "The World Health Organisation is an agency of",
+  "options": {
+   "A": "The E.E.C.",
+   "B": "NATO",
+   "C": "ECOWAS",
+   "D": "The U.N.O."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-49",
+  "subject": "government",
+  "year": 1986,
+  "number": 49,
+  "question": "The organ of the United Nations primarily responsible for maintaining international peace and security is the",
+  "options": {
+   "A": "General Assembly",
+   "B": "Security Council",
+   "C": "International Court of Justice",
+   "D": "Economic and Social Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1986-50",
+  "subject": "government",
+  "year": 1986,
+  "number": 50,
+  "question": "Which of these groups of African leaders is closely associated with the formation of the O.A.U.?",
+  "options": {
+   "A": "Haile Selassie, Abubakar Tafwa Balewa, William Tubman B. Abubakar Tafawa Balewa, Jean"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,894 @@
+[
+ {
+  "id": "government-1987-1",
+  "subject": "government",
+  "year": 1987,
+  "number": 1,
+  "question": "A confederal system of government means",
+  "options": {
+   "A": "strong regional governments and a weak central authority B. a strong central authority and weak regional governments",
+   "C": "a strong central authority and strong regional governments D. a weak central authority and weak regional governments"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-2",
+  "subject": "government",
+  "year": 1987,
+  "number": 2,
+  "question": "The organs of government which are normally fused in a military regime are the",
+  "options": {
+   "A": "Civil service and parastatals",
+   "B": "Legisla ture and the Executive C. Executive and the Judiciary D. Judiciaryand the Legislature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-3",
+  "subject": "government",
+  "year": 1987,
+  "number": 3,
+  "question": "In a monarchical form of Government, sovereignty resides with",
+  "options": {
+   "A": "the council of ministers",
+   "B": "royality",
+   "C": "peasantry",
+   "D": "the entire citizenry"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-4",
+  "subject": "government",
+  "year": 1987,
+  "number": 4,
+  "question": "A constitution is rigid if it",
+  "options": {
+   "A": "cannot be amended",
+   "B": "is found only in one written document C. requires special procedures for amendment",
+   "D": "is changed only by judicial interpretation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-5",
+  "subject": "government",
+  "year": 1987,
+  "number": 5,
+  "question": "In a unitary state, power is concentrated in the",
+  "options": {
+   "A": "local government",
+   "B": "constituent units of the state",
+   "C": "major ethnic groups",
+   "D": "national government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-6",
+  "subject": "government",
+  "year": 1987,
+  "number": 6,
+  "question": "Fundamental rights are best guaranteed by",
+  "options": {
+   "A": "independent judiciary",
+   "B": "good leadership",
+   "C": "effective legislature",
+   "D": "efficient civil service"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-7",
+  "subject": "government",
+  "year": 1987,
+  "number": 7,
+  "question": "The main objective of pressure groups is to",
+  "options": {
+   "A": "win political power",
+   "B": "conduct free and fair elections",
+   "C": "mobilize support on behalf of governmen",
+   "D": "protect the interests of its members"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-8",
+  "subject": "government",
+  "year": 1987,
+  "number": 8,
+  "question": "Franchise means",
+  "options": {
+   "A": "resident aliens can vote",
+   "B": "French people can vote C. right to vote D. executive order"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-9",
+  "subject": "government",
+  "year": 1987,
+  "number": 9,
+  "question": "A parliamentary system of government is charcterized by",
+  "options": {
+   "A": "separation of powers",
+   "B": "fusion of powers",
+   "C": "delegated legislation",
+   "D": "legislative supremacy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-10",
+  "subject": "government",
+  "year": 1987,
+  "number": 10,
+  "question": "Under proportional representation, elections are won on the basis of",
+  "options": {
+   "A": "simple majority of votes cast",
+   "B": "absolute majority of votes cast",
+   "C": "two-thirds majority of votes cast",
+   "D": "votes received relative to those of other parties"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-11",
+  "subject": "government",
+  "year": 1987,
+  "number": 11,
+  "question": "A special election organised to decide on a political issue is",
+  "options": {
+   "A": "plebiscite",
+   "B": "by-election",
+   "C": "general election",
+   "D": "primary election"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-12",
+  "subject": "government",
+  "year": 1987,
+  "number": 12,
+  "question": "The electorate means",
+  "options": {
+   "A": "elected members of the Assembly",
+   "B": "candidates for election",
+   "C": "electoral officers",
+   "D": "citizens qualified to vote"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-13",
+  "subject": "government",
+  "year": 1987,
+  "number": 13,
+  "question": "The term ‘Rule of Law’ refers to situations in which",
+  "options": {
+   "A": "lawyers are the rulers",
+   "B": "laws are supreme",
+   "C": "the judiciary is independent",
+   "D": "parliament makes laws"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-14",
+  "subject": "government",
+  "year": 1987,
+  "number": 14,
+  "question": "Which of the following is NOT a unique feature of federal constitution?",
+  "options": {
+   "A": "Division of power",
+   "B": "At least two levels of government C. Supremacy of the constitution D. Independence of the judiciary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-15",
+  "subject": "government",
+  "year": 1987,
+  "number": 15,
+  "question": "An important principle of the civil service is",
+  "options": {
+   "A": "authoritarianism",
+   "B": "anonymity",
+   "C": "nepotism",
+   "D": "partisanship"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-16",
+  "subject": "government",
+  "year": 1987,
+  "number": 16,
+  "question": "Which of the following is NOT necessarily a charac teristic feature of a state?",
+  "options": {
+   "A": "A territory",
+   "B": "An army",
+   "C": "A government",
+   "D": "A system of laws"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-17",
+  "subject": "government",
+  "year": 1987,
+  "number": 17,
+  "question": "In a federal system of government",
+  "options": {
+   "A": "the central government shares powers equally with the state governments",
+   "B": "all the states of the federation are equal in size and population C. state courts control federal couts D. the central government has exclusive power over defence and foreign affairs"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-18",
+  "subject": "government",
+  "year": 1987,
+  "number": 18,
+  "question": "Bicameral legislature exists",
+  "options": {
+   "A": "where cameramen are allowed to cover the proceedings of the legislature B. to prevent the concentration of power in one legislative house",
+   "C": "to provide jobs for more politicians",
+   "D": "to ensure that just laws are passed"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-19",
+  "subject": "government",
+  "year": 1987,
+  "number": 19,
+  "question": "Socialism is associated with",
+  "options": {
+   "A": "Karl Marx",
+   "B": "Nicolo Machiavelli",
+   "C": "Aristotle",
+   "D": "Plato"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-20",
+  "subject": "government",
+  "year": 1987,
+  "number": 20,
+  "question": "The body that selects the head of government following a general election is the",
+  "options": {
+   "A": "senate",
+   "B": "electoral college",
+   "C": "electoral committee",
+   "D": "supreme court"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-22",
+  "subject": "government",
+  "year": 1987,
+  "number": 22,
+  "question": "A major feature of the presidental system of government is that the",
+  "options": {
+   "A": "president is not responsible for his ministers mistakes",
+   "B": "ministers are not collectively responsible to the president",
+   "C": "president does not need the legislature to pass laws",
+   "D": "president is not a member of the legislature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-23",
+  "subject": "government",
+  "year": 1987,
+  "number": 23,
+  "question": "The termination of a session of a legislature by proclamation issued by the head of states is called",
+  "options": {
+   "A": "prorogation",
+   "B": "dissolution",
+   "C": "plebiscite",
+   "D": "summons"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-24",
+  "subject": "government",
+  "year": 1987,
+  "number": 24,
+  "question": "The forceful domination of one country by another is called",
+  "options": {
+   "A": "nationalism",
+   "B": "totalitarianism",
+   "C": "dictatorship",
+   "D": "colonization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-25",
+  "subject": "government",
+  "year": 1987,
+  "number": 25,
+  "question": "Which of the following traditional political systems was republican?",
+  "options": {
+   "A": "Igbo",
+   "B": "Yoruba",
+   "C": "Fulani",
+   "D": "Bini"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-26",
+  "subject": "government",
+  "year": 1987,
+  "number": 26,
+  "question": "Which of the following is a function of the local government in Nigeria?",
+  "options": {
+   "A": "Collection of radio and television licence fees",
+   "B": "Collection of company tax",
+   "C": "Appointment of customary court judges",
+   "D": "Appointment of traditional rulers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-27",
+  "subject": "government",
+  "year": 1987,
+  "number": 27,
+  "question": "An important factor that brought about the introduction of federalism in Nigeria was the",
+  "options": {
+   "A": "existence of three regions",
+   "B": "division of governments C. diversity and complexity in social and cultural patterns",
+   "D": "existence of cultural and bicameral legislature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-28",
+  "subject": "government",
+  "year": 1987,
+  "number": 28,
+  "question": "When did Nigeria adopt the nineteen-state structure?",
+  "options": {
+   "A": "1960",
+   "B": "1966",
+   "C": "1976",
+   "D": "1979"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-29",
+  "subject": "government",
+  "year": 1987,
+  "number": 29,
+  "question": "Who was the architect of the British rule in Nigeria?",
+  "options": {
+   "A": "George Tubman Goldie",
+   "B": "Frederick Lugard",
+   "C": "Hugh Clifford",
+   "D": "Arthur Richards"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-30",
+  "subject": "government",
+  "year": 1987,
+  "number": 30,
+  "question": "The head of thefirst militarygovernment in Nigeria was?",
+  "options": {
+   "A": "General Muritala Muhammed",
+   "B": "General Yakubu Gowon",
+   "C": "General Johnson Aguiyi-Ironsi",
+   "D": "General Olusegun Obasanjo"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-31",
+  "subject": "government",
+  "year": 1987,
+  "number": 31,
+  "question": "Herbert Macaulay was the first president of",
+  "options": {
+   "A": "NCNC",
+   "B": "AG",
+   "C": "UMBC",
+   "D": "NEPU"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-32",
+  "subject": "government",
+  "year": 1987,
+  "number": 32,
+  "question": "The Nigerian Youth Movement was formed to",
+  "options": {
+   "A": "fight for greater participation of Nigerians in"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-33",
+  "subject": "government",
+  "year": 1987,
+  "number": 33,
+  "question": "Under the indirect rule system",
+  "options": {
+   "A": "chiefs were allowed to govern their people",
+   "B": "colonial administators shared power equally with traditional rulers C. traditional rulers were encouraged to adopt the British system of government D. colonial adminis trators increased the powers of traditional rulers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-34",
+  "subject": "government",
+  "year": 1987,
+  "number": 34,
+  "question": "The fundamental Objectives and Directive principles of State Policy in the 1979 constitution do not include",
+  "options": {
+   "A": "democracy and social justice",
+   "B": "federal character and inequality",
+   "C": "concentration of wealth and provision of maximum welfare",
+   "D": "national integration and ethnic loyality"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-35",
+  "subject": "government",
+  "year": 1987,
+  "number": 35,
+  "question": "Nigerian federalism before 1966 was bedevilled by",
+  "options": {
+   "A": "amendment clauses of the constitution",
+   "B": "large number of local government areas",
+   "C": "lack of unifomity of the civil service",
+   "D": "uneven sizes of the constituent regions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-36",
+  "subject": "government",
+  "year": 1987,
+  "number": 36,
+  "question": "Nigeria attained independence in 1960 through",
+  "options": {
+   "A": "negotiation between the British government and Nigerian nationalists",
+   "B": "armed struggle by Nigerian nationalists and traditional rulers",
+   "C": "negotiation between the British government and the United Nations",
+   "D": "negotiation between the British government and traditional rulers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-37",
+  "subject": "government",
+  "year": 1987,
+  "number": 37,
+  "question": "The Clifford constitution was notable for",
+  "options": {
+   "A": "amalgamating the Northern and Southern provinces B. introducing indirect rule",
+   "C": "establishing the legislative council",
+   "D": "creating a Northern majority in the legislative council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-38",
+  "subject": "government",
+  "year": 1987,
+  "number": 38,
+  "question": "Under the Macpherson Constitution, members of the central legislature were",
+  "options": {
+   "A": "appointed by the governor-general",
+   "B": "chosen from the regional legislature",
+   "C": "elected directly by the whole country",
+   "D": "appointed by the regional Lt-Governors"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-39",
+  "subject": "government",
+  "year": 1987,
+  "number": 39,
+  "question": "The founder of the Universal Negro Improvement Association was",
+  "options": {
+   "A": "Casely Hayford",
+   "B": "Herbert Macaulay",
+   "C": "Marcus Garvey",
+   "D": "W.E.B. Du Bois"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-40",
+  "subject": "government",
+  "year": 1987,
+  "number": 40,
+  "question": "The foremost nationalist leaders in pre-independent Nigeria were",
+  "options": {
+   "A": "Herbert Macaulay, Nnamdi Azikiwe, Obafemi Awolowo and Shehu Shagari",
+   "B": "Herbert Macaulay, Nnamdi Azikiwe, Obafemi Awolowo and Ahmadu Bello",
+   "C": "Herbert Macaulay, Nnamdi Azikiwe, Obafemi Awolowo and Muhammadu Ribadu",
+   "D": "Alvan Ikoku, Samuel Akintola, Herbert Macaulay and Ahmadu Bello"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-42",
+  "subject": "government",
+  "year": 1987,
+  "number": 42,
+  "question": "By-laws are",
+  "options": {
+   "A": "enactment by the legislature",
+   "B": "regulations enacted by local governments",
+   "C": "fundamental judicial statements",
+   "D": "private bills"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-43",
+  "subject": "government",
+  "year": 1987,
+  "number": 43,
+  "question": "One of the objectives of the OAU is to ensure",
+  "options": {
+   "A": "mutual assistance of member states in suppressing domestic uprising",
+   "B": "non-interference in internal affairs of member state C.constant read justment of territorial boundaries of member states",
+   "D": "unification of liberation movements in Southern Africa"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-44",
+  "subject": "government",
+  "year": 1987,
+  "number": 44,
+  "question": "The administrative headquaters of ECOWAS is in",
+  "options": {
+   "A": "Lome",
+   "B": "Cotonou",
+   "C": "Dakar",
+   "D": "Lagos"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-45",
+  "subject": "government",
+  "year": 1987,
+  "number": 45,
+  "question": "The UNO was founded in 1945 to replace the",
+  "options": {
+   "A": "OAU",
+   "B": "NATO",
+   "C": "Commonwealth of Nations",
+   "D": "League of Nations"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-46",
+  "subject": "government",
+  "year": 1987,
+  "number": 46,
+  "question": "The UNO charter aims at",
+  "options": {
+   "A": "ensuring economic equality among nations",
+   "B": "protecting the right of refugees",
+   "C": "ensuring world peace and security",
+   "D": "ensuring fair treatment for prisoners of war"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-47",
+  "subject": "government",
+  "year": 1987,
+  "number": 47,
+  "question": "The commonwealth of Nations is made up of",
+  "options": {
+   "A": "African and Asian States",
+   "B": "Britain and some of her former colonies",
+   "C": "France and some of her former colonies",
+   "D": "French and English speaking African countries"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-48",
+  "subject": "government",
+  "year": 1987,
+  "number": 48,
+  "question": "Which of the following countries belonged to the Casablanca Group?",
+  "options": {
+   "A": "Liberia",
+   "B": "Tunisia",
+   "C": "Mali",
+   "D": "Cote d’Ivoire"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-49",
+  "subject": "government",
+  "year": 1987,
+  "number": 49,
+  "question": "Public corporations are set up to",
+  "options": {
+   "A": "make profit",
+   "B": "compete with private sector",
+   "C": "cater for those businesses that cannot be left entirely to private enterprise",
+   "D": "enhance the prestige of government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1987-50",
+  "subject": "government",
+  "year": 1987,
+  "number": 50,
+  "question": "In Nigeria, the institution that preserves civil libertyis the",
+  "options": {
+   "A": "Public Complaints Commission",
+   "B": "law court",
+   "C": "Civil Service Commission",
+   "D": "police commission"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

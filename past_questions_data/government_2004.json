@@ -1,0 +1,922 @@
+[
+ {
+  "id": "government-2004-1",
+  "subject": "government",
+  "year": 2004,
+  "number": 1,
+  "question": "In a democracy, sovereign authority is exercised by the",
+  "options": {
+   "A": "people",
+   "B": "executive",
+   "C": "electorate",
+   "D": "legislature."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-2",
+  "subject": "government",
+  "year": 2004,
+  "number": 2,
+  "question": "The agent through which the state undertakes political socialization is the",
+  "options": {
+   "A": "school",
+   "B": "family",
+   "C": "peer group",
+   "D": "pressure group"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-3",
+  "subject": "government",
+  "year": 2004,
+  "number": 3,
+  "question": "Unicameral legislature is a common feature of",
+  "options": {
+   "A": "presidentialism",
+   "B": "parliamentarism",
+   "C": "unitarism",
+   "D": "federalism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-5",
+  "subject": "government",
+  "year": 2004,
+  "number": 5,
+  "question": "In a unitary system of government, power is concen trated at the centre",
+  "options": {
+   "A": "without devolution",
+   "B": "with devolution",
+   "C": "with residual functions",
+   "D": "without residual functions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-6",
+  "subject": "government",
+  "year": 2004,
+  "number": 6,
+  "question": "In a confederation, the constituency that a member of legislature represents is a",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-7",
+  "subject": "government",
+  "year": 2004,
+  "number": 7,
+  "question": "In a constitutional monarchy, the authority to remove the head of state is exercised by the",
+  "options": {
+   "A": "legislature",
+   "B": "head of goverment",
+   "C": "cabinet",
+   "D": "primeminister"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-8",
+  "subject": "government",
+  "year": 2004,
+  "number": 8,
+  "question": "In a parliamentary system of government, a vote of no confidence leads to the resignation of",
+  "options": {
+   "A": "the entire cabinet",
+   "B": "an individual minister",
+   "C": "the entire parliament",
+   "D": "the prime miniser"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-9",
+  "subject": "government",
+  "year": 2004,
+  "number": 9,
+  "question": "In a presidential system of government, the president checks the legislature through",
+  "options": {
+   "A": "executive order",
+   "B": "executive review",
+   "C": "exercise of power",
+   "D": "legislative order"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-10",
+  "subject": "government",
+  "year": 2004,
+  "number": 10,
+  "question": "The economic basis of feudalism is",
+  "options": {
+   "A": "capital",
+   "B": "agriculture",
+   "C": "slavery",
+   "D": "trade."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-11",
+  "subject": "government",
+  "year": 2004,
+  "number": 11,
+  "question": "The creation of a classless society is the ultimate aim of",
+  "options": {
+   "A": "communism",
+   "B": "capitalism",
+   "C": "socialism",
+   "D": "fascism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-12",
+  "subject": "government",
+  "year": 2004,
+  "number": 12,
+  "question": "One of the sources of a constitution is",
+  "options": {
+   "A": "constitutional law",
+   "B": "common law",
+   "C": "corporate law",
+   "D": "statutory law"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-13",
+  "subject": "government",
+  "year": 2004,
+  "number": 13,
+  "question": "The fundamental assumption on which the idea of the rule of law is based is",
+  "options": {
+   "A": "rationality of human beings",
+   "B": "equality of human beings",
+   "C": "love for social justice",
+   "D": "supremacy of the constitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-14",
+  "subject": "government",
+  "year": 2004,
+  "number": 14,
+  "question": "The principle of separation of power was made popular by",
+  "options": {
+   "A": "John Locke",
+   "B": "Baron de Montesquieu",
+   "C": "Thomas Hobbes",
+   "D": "Niccolo Machiavelli"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-15",
+  "subject": "government",
+  "year": 2004,
+  "number": 15,
+  "question": "Delegated legislation refers to the laws made by",
+  "options": {
+   "A": "the legislature",
+   "B": "military governments",
+   "C": "civilian governments",
+   "D": "non-legisla tive bodies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-16",
+  "subject": "government",
+  "year": 2004,
+  "number": 16,
+  "question": "Law made by state governments are known as",
+  "options": {
+   "A": "edicts",
+   "B": "acts",
+   "C": "decrees",
+   "D": "bye-laws"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-17",
+  "subject": "government",
+  "year": 2004,
+  "number": 17,
+  "question": "The law of libel limits a citizen’s right freedom of",
+  "options": {
+   "A": "association",
+   "B": "movement",
+   "C": "worship",
+   "D": "expression"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-18",
+  "subject": "government",
+  "year": 2004,
+  "number": 18,
+  "question": "The first franchise in the history of the democratic process is",
+  "options": {
+   "A": "female franchise",
+   "B": "male franchise",
+   "C": "universal franchise",
+   "D": "property franchise"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-19",
+  "subject": "government",
+  "year": 2004,
+  "number": 19,
+  "question": "An interest group that admits members and conducts",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-20",
+  "subject": "government",
+  "year": 2004,
+  "number": 20,
+  "question": "Amajor influence on theformulation of public opinion is",
+  "options": {
+   "A": "public journals",
+   "B": "peer groups",
+   "C": "the family",
+   "D": "the mass media"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-21",
+  "subject": "government",
+  "year": 2004,
+  "number": 21,
+  "question": "The highes grade in the civil service is know as the",
+  "options": {
+   "A": "technical cadre",
+   "B": "administrative cadre",
+   "C": "executive cadre",
+   "D": "clerical cadre"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-22",
+  "subject": "government",
+  "year": 2004,
+  "number": 22,
+  "question": "The pre-colonial Yoruba political system as a whole can best be described as a",
+  "options": {
+   "A": "confederation of monarchies and chiefdoms",
+   "B": "federation of chiefdoms and localities",
+   "C": "highly contralized kingdom",
+   "D": "confederation of chiefdoms and localities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-23",
+  "subject": "government",
+  "year": 2004,
+  "number": 23,
+  "question": "The major motivation of British colonization of Nigeria was to",
+  "options": {
+   "A": "spread religion",
+   "B": "satisfy British economic interests",
+   "C": "westernize Nigerians",
+   "D": "protect Nigeria from external attack"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-24",
+  "subject": "government",
+  "year": 2004,
+  "number": 24,
+  "question": "The Native Authority system was most effective and successful in",
+  "options": {
+   "A": "Western Nigeria",
+   "B": "Mid-Western Nigeria",
+   "C": "Northern Nigeria",
+   "D": "Eastren Nigeria."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-25",
+  "subject": "government",
+  "year": 2004,
+  "number": 25,
+  "question": "The process of nationalism was accelerated by",
+  "options": {
+   "A": "rapid economic development",
+   "B": "the coming of Christian missionaries",
+   "C": "the signing of the Atlantic Charter",
+   "D": "improvement in warfare tactics"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-26",
+  "subject": "government",
+  "year": 2004,
+  "number": 26,
+  "question": "A common feature of the earlier political parties in Nigeria was that they",
+  "options": {
+   "A": "started as socio-cultural organizations",
+   "B": "were formed by the government",
+   "C": "were non-elitist in nature",
+   "D": "were backed by the colonialists."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-27",
+  "subject": "government",
+  "year": 2004,
+  "number": 27,
+  "question": "Under the 1999 Constitution, the power to declare war is vested in the",
+  "options": {
+   "A": "legislature",
+   "B": "executive",
+   "C": "National Council of States",
+   "D": "National Security Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-28",
+  "subject": "government",
+  "year": 2004,
+  "number": 28,
+  "question": "A distinguishing feature of the 1979 Constitution was the",
+  "options": {
+   "A": "departure from the parliamentary to the presidential system",
+   "B": "preservation and entrenchment of republi canism",
+   "C": "introduction of unicameralism into Nigeria",
+   "D": "introduction of a federal structure."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-29",
+  "subject": "government",
+  "year": 2004,
+  "number": 29,
+  "question": "The two chambers of elected national representative in Nigeria are called",
+  "options": {
+   "A": "the parliament",
+   "B": "the senate",
+   "C": "House of Assembly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-30",
+  "subject": "government",
+  "year": 2004,
+  "number": 30,
+  "question": "Judicial administration in respect of national code of conduct lies with the",
+  "options": {
+   "A": "Judicial Service Commission",
+   "B": "Code of Conduct Tribunal",
+   "C": "Public Complaints Commission",
+   "D": "Code of Conduct Bureau"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-31",
+  "subject": "government",
+  "year": 2004,
+  "number": 31,
+  "question": "In the Second Republic, the ruling National Party of Nigeria formed an alliance with the",
+  "options": {
+   "A": "Unity Party of Nigeria",
+   "B": "Nigeria People’s Party",
+   "C": "Great Nigeria People’s Party",
+   "D": "Nigeria Advance Party"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-32",
+  "subject": "government",
+  "year": 2004,
+  "number": 32,
+  "question": "The relationship between the tiers of government in Nigeria can be described as one of",
+  "options": {
+   "A": "independent co-existence",
+   "B": "coordinate and independent jurisdiction",
+   "C": "voluntary subordination",
+   "D": "superior-subordinate co-existence"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-33",
+  "subject": "government",
+  "year": 2004,
+  "number": 33,
+  "question": "The 1976 Local Government Reforms in Nigeria transformed the relationship between states and local government into one of",
+  "options": {
+   "A": "master and servant",
+   "B": "partnership and cooperation",
+   "C": "equality",
+   "D": "subordination"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-34",
+  "subject": "government",
+  "year": 2004,
+  "number": 34,
+  "question": "Government-owned companies operating in the economic sector are referred to as",
+  "options": {
+   "A": "public utilities",
+   "B": "public enterprises",
+   "C": "public investments",
+   "D": "public services."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-35",
+  "subject": "government",
+  "year": 2004,
+  "number": 35,
+  "question": "The difference between commercialized and privatized companies is that in the former",
+  "options": {
+   "A": "private ownership is dominant",
+   "B": "public ownership is dominant",
+   "C": "government subsidizes costs",
+   "D": "profit motive is recessive"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-36",
+  "subject": "government",
+  "year": 2004,
+  "number": 36,
+  "question": "The body responsible for running the personnel affairs of senior local government staff in Nigeria is the",
+  "options": {
+   "A": "Local Government Council",
+   "B": "State Civil Service Commission",
+   "C": "Senior Staff Commission",
+   "D": "Local Government Service Commission"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-37",
+  "subject": "government",
+  "year": 2004,
+  "number": 37,
+  "question": "The immediate cause of the January 15 1996 military coup in Nigeria was the",
+  "options": {
+   "A": "Kano Riots",
+   "B": "Tiv Riots",
+   "C": "election crisis in the Western Region",
+   "D": "crisis over the population census."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-38",
+  "subject": "government",
+  "year": 2004,
+  "number": 38,
+  "question": "Nigeria demonstrated her commitment to the policy of non-alignment during the regime of",
+  "options": {
+   "A": "Muhammadu Buhari",
+   "B": "Johnson Aguiyi-Ironsi",
+   "C": "Murtala Muhammed",
+   "D": "Ibrahim Babangida"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-39",
+  "subject": "government",
+  "year": 2004,
+  "number": 39,
+  "question": "Nigeria’s support for the South-South Cooperation is based on her desire to",
+  "options": {
+   "A": "promote economic understanding in the Third World",
+   "B": "counter the political and military domination by major powers",
+   "C": "assert her leadership role in Africa",
+   "D": "promote her non-aligned policy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-40",
+  "subject": "government",
+  "year": 2004,
+  "number": 40,
+  "question": "Nigeria’s relation with black political communities outside Africa is built on",
+  "options": {
+   "A": "economic considerations",
+   "B": "shared political aspirations",
+   "C": "perceived cultural affinities",
+   "D": "expectations of political support from them"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-41",
+  "subject": "government",
+  "year": 2004,
+  "number": 41,
+  "question": "The one-time president of the United Nations General Assembly was",
+  "options": {
+   "A": "Maitama Sule",
+   "B": "Joseph Garba",
+   "C": "Ibrahim Gambari",
+   "D": "Arthur Mbanefo"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-42",
+  "subject": "government",
+  "year": 2004,
+  "number": 42,
+  "question": "The leaders who spearheaded the transformation of the Organization of African Unity into the African Union are from",
+  "options": {
+   "A": "South Africa, Libya and Zambia",
+   "B": "Nigeria, Libya and South Africa",
+   "C": "Nigeria Liberia and Kenya",
+   "D": "Algeria, Libya and Morocco"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-43",
+  "subject": "government",
+  "year": 2004,
+  "number": 43,
+  "question": "The countries in which Nigeria participated in the ECOMOG peace-keeping operations were",
+  "options": {
+   "A": "Liberia and Guinea",
+   "B": "Sierra Leone and Coted’Ivoire",
+   "C": "Senegal and Coted’Ivoire",
+   "D": "Liberia and Sierra Leone"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-44",
+  "subject": "government",
+  "year": 2004,
+  "number": 44,
+  "question": "The permanent member of the Security Council of the United Nations are",
+  "options": {
+   "A": "Britain, Japan, Australia, Germay and the United State",
+   "B": "Germany, France, Poland, Hungaryand China",
+   "C": "the United States, Russia, France, Britain and China",
+   "D": "the United States, Russia, France, Britain and Japan"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-45",
+  "subject": "government",
+  "year": 2004,
+  "number": 45,
+  "question": "A specialized agency of the United Nations Organiza tion is the",
+  "options": {
+   "A": "World Health Organization",
+   "B": "General Assembly",
+   "C": "International Court of Justice",
+   "D": "International Olympic Committee"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-46",
+  "subject": "government",
+  "year": 2004,
+  "number": 46,
+  "question": "With the admission of Asian and African countries to the Commonwealth, the Queen of England bcame the",
+  "options": {
+   "A": "head of state of these countries",
+   "B": "head of government of these countries",
+   "C": "patron of the Commonwealth",
+   "D": "chairperson of the Commonwealth"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-47",
+  "subject": "government",
+  "year": 2004,
+  "number": 47,
+  "question": "A major problem of the defunct Organization of Africa Unity was",
+  "options": {
+   "A": "ideological differences",
+   "B": "Language barrier",
+   "C": "inadequate resources",
+   "D": "cultural diversity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-48",
+  "subject": "government",
+  "year": 2004,
+  "number": 48,
+  "question": "The Lagos Treaty of May 28th 1975 led to the formation of the",
+  "options": {
+   "A": "Economic Commission for Africa",
+   "B": "Economic Community of West African States",
+   "C": "Lagos Plan of Action",
+   "D": "African Economic Summit"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-49",
+  "subject": "government",
+  "year": 2004,
+  "number": 49,
+  "question": "The current Executive Secretary of the ECOWAS is",
+  "options": {
+   "A": "Lansans Kouyate",
+   "B": "Abubakar Qattara",
+   "C": "Mohammed Ibn Chambers",
+   "D": "Abbas Bundu"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2004-50",
+  "subject": "government",
+  "year": 2004,
+  "number": 50,
+  "question": "The responsibility for admitting new members to the OPEC rests with the",
+  "options": {
+   "A": "Board of Governors",
+   "B": "Conference",
+   "C": "Secretariat",
+   "D": "Summit."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,937 @@
+[
+ {
+  "id": "government-1984-1",
+  "subject": "government",
+  "year": 1984,
+  "number": 1,
+  "question": "In a presidential system of government the Executive",
+  "options": {
+   "A": "executes its own laws only",
+   "B": "legislates all binding laws",
+   "C": "makes laws for the National Assembly",
+   "D": "forms the government",
+   "E": "executes all anti-government plotters."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-2",
+  "subject": "government",
+  "year": 1984,
+  "number": 2,
+  "question": "A Constitution is a legal document",
+  "options": {
+   "A": "drawn up by lawyers",
+   "B": "enacted by military decree",
+   "C": "forming the basis upon which a government rules the country",
+   "D": "which must not be altered by any succeeding government",
+   "E": "only likely to suceed in a country where there is union government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-3",
+  "subject": "government",
+  "year": 1984,
+  "number": 3,
+  "question": "One features of a totalitarian State is the existence of",
+  "options": {
+   "A": "a single recognised party",
+   "B": "pressure groups",
+   "C": "opposition groups",
+   "D": "a colonial power",
+   "E": "fierce political rivalry"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-4",
+  "subject": "government",
+  "year": 1984,
+  "number": 4,
+  "question": "A system in which a few powerful and rich nobles own land which is hired out to the poor people to farm is called",
+  "options": {
+   "A": "feudalism",
+   "B": "co-operatives",
+   "C": "socialism",
+   "D": "communism",
+   "E": "communalism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-5",
+  "subject": "government",
+  "year": 1984,
+  "number": 5,
+  "question": "The principle of check and balances is necessary becauseit A prevents government from becoming dictatorial",
+  "options": {
+   "B": "prevents the Executives from funtioning",
+   "C": "makes the Execuives stronger than the other organs",
+   "D": "makes the three organs hate each other",
+   "E": "leaves each organ of government independent of the Judiciary."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-6",
+  "subject": "government",
+  "year": 1984,
+  "number": 6,
+  "question": "When a constitution is difficult to amend we say it is A federal B. unitary",
+  "options": {
+   "C": "written",
+   "D": "fragile",
+   "E": "rigid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-7",
+  "subject": "government",
+  "year": 1984,
+  "number": 7,
+  "question": "A politcal authority which maintains sovereign power over a specific geographical area is termed",
+  "options": {
+   "A": "the nation",
+   "B": "the nation-state",
+   "C": "the state",
+   "D": "nationalism",
+   "E": "imperisalism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-8",
+  "subject": "government",
+  "year": 1984,
+  "number": 8,
+  "question": "A government in which control of ultimate power is by a few who rule in their own selfish interests is classified as",
+  "options": {
+   "A": "a democracy",
+   "B": "a dictatorship",
+   "C": "an aristocracy",
+   "D": "a monarchy",
+   "E": "an oligarchy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-9",
+  "subject": "government",
+  "year": 1984,
+  "number": 9,
+  "question": "The most basic property of pressure groups which differentiates them from political parties is that they",
+  "options": {
+   "A": "are not as interested in politics",
+   "B": "do not have permanent organisations",
+   "C": "do not seek to influence public opinion",
+   "D": "do not support candidates in elections",
+   "E": "do not nominate candidates as their own official representatives"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-10",
+  "subject": "government",
+  "year": 1984,
+  "number": 10,
+  "question": "In a presidential system of government, ministers are",
+  "options": {
+   "A": "collectively responsible to the Senate",
+   "B": "collectively responsible to the president C individually responsible to the president",
+   "D": "individually responsible to no one",
+   "E": "individually and collectively responsible to the electorate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-11",
+  "subject": "government",
+  "year": 1984,
+  "number": 11,
+  "question": "The three principal organs of government are the",
+  "options": {
+   "A": "Legistlature, the Public Service and Judiciary",
+   "B": "Political Parties, the Executive and the Judiciary",
+   "C": "Executive, the Legislature and the Public Corporation",
+   "D": "Legislature the Executive and the judiciary",
+   "E": "Judiciary, the Local Government and the legislature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-12",
+  "subject": "government",
+  "year": 1984,
+  "number": 12,
+  "question": "The three FUNDAMENTAL rights of citizens are A salvation, property, freedom of thoughts",
+  "options": {
+   "B": "employment, property and social security",
+   "C": "life, liberty and property",
+   "D": "free education, peaceable assembly and freedom of thought",
+   "E": "freedom of movement, association and religion"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-13",
+  "subject": "government",
+  "year": 1984,
+  "number": 13,
+  "question": "In a democracy, franchise is given to all",
+  "options": {
+   "A": "resident adults",
+   "B": "citizens",
+   "C": "citizens except members of the armed forces",
+   "D": "loyal party members",
+   "E": "qualified adult citizens."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-14",
+  "subject": "government",
+  "year": 1984,
+  "number": 14,
+  "question": "The citizenship of a country may be acquired by an individual through",
+  "options": {
+   "A": "decolonization",
+   "B": "nomination",
+   "C": "nationalization",
+   "D": "neutralization",
+   "E": "naturalization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-15",
+  "subject": "government",
+  "year": 1984,
+  "number": 15,
+  "question": "Which of the following is NOT a public corporation in Nigeria? A Joint Admissions and Matriculation Board",
+  "options": {
+   "B": "Nigerian Steel Development Authority",
+   "C": "Nigerian National Oil Corporation",
+   "D": "Nigeria National Shipping Line",
+   "E": "Nigerian Railway Corporation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-16",
+  "subject": "government",
+  "year": 1984,
+  "number": 16,
+  "question": "Government means the machinery established by a State to manage the affairs of the A rulers B. aliens",
+  "options": {
+   "C": "civil servant D workers and peasants E. people"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-17",
+  "subject": "government",
+  "year": 1984,
+  "number": 17,
+  "question": "The judicial organ of government is the body which",
+  "options": {
+   "A": "implements the law",
+   "B": "makes thelaw",
+   "C": "punishes law makers",
+   "D": "interprets the law",
+   "E": "rewards law makers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-18",
+  "subject": "government",
+  "year": 1984,
+  "number": 18,
+  "question": "A constitutionally defined set of individual rights which governments are obliged to protect constitutes",
+  "options": {
+   "A": "statutory rights",
+   "B": "equity rights",
+   "C": "customary rights",
+   "D": "civil rights",
+   "E": "natural rights."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-19",
+  "subject": "government",
+  "year": 1984,
+  "number": 19,
+  "question": "An electoral districts is a",
+  "options": {
+   "A": "polling booth",
+   "B": "constituency",
+   "C": "ward",
+   "D": "local government area",
+   "E": "subsidiary of the state."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-20",
+  "subject": "government",
+  "year": 1984,
+  "number": 20,
+  "question": "In a parliamentary system of government, ministers are",
+  "options": {
+   "A": "collectively responsible to parliament",
+   "B": "not members of the legislature",
+   "C": "appointed by a two-thirds majority of of the legislature",
+   "D": "representative of various interests in the country",
+   "E": "chosen from the Upper House."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-21",
+  "subject": "government",
+  "year": 1984,
+  "number": 21,
+  "question": "A fascist regime is both",
+  "options": {
+   "A": "fair and legitimate",
+   "B": "response and responsible",
+   "C": "representative and accountable",
+   "D": "democratic and constitutional",
+   "E": "authoritarian and totalitarian."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-22",
+  "subject": "government",
+  "year": 1984,
+  "number": 22,
+  "question": "Capitalism often encourages",
+  "options": {
+   "A": "public ownership of all forms of enterprises",
+   "B": "a centrally planned economy",
+   "C": "private ownership of the means of production",
+   "D": "anarchy",
+   "E": "deconcentration of political and economic powers in the same hands"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-23",
+  "subject": "government",
+  "year": 1984,
+  "number": 23,
+  "question": "Citizens legally qualified to vote for parliamentary candidates form",
+  "options": {
+   "A": "a ward",
+   "B": "the electorate",
+   "C": "members of the House of Assembly",
+   "D": "a Trade Union Congress",
+   "E": "political parties."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-24",
+  "subject": "government",
+  "year": 1984,
+  "number": 24,
+  "question": "Elections among candidates from the same party before the final elections are called",
+  "options": {
+   "A": "running mates",
+   "B": "electoral colleges",
+   "C": "party conventions",
+   "D": "primaries",
+   "E": "second ballots."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-25",
+  "subject": "government",
+  "year": 1984,
+  "number": 25,
+  "question": "With whom is fascism associated?",
+  "options": {
+   "A": "Adolf Hitler",
+   "B": "Karl Marx",
+   "E": "Joseph Stalin"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-26",
+  "subject": "government",
+  "year": 1984,
+  "number": 26,
+  "question": "Which of the following was NOT the responsiblitiy of the Federal Electoral Commission in Nigeria?",
+  "options": {
+   "A": "supervision of polling",
+   "B": "compilation of Electoral register",
+   "C": "delimitation of constituencies",
+   "D": "counting and publication of election results",
+   "E": "swearing in of members of the Houses of Assembly."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-27",
+  "subject": "government",
+  "year": 1984,
+  "number": 27,
+  "question": "Which of the following is NOT a civic obligations of every Nigerian citizen? A Freedom of conscience and religion",
+  "options": {
+   "B": "Obedience to laws",
+   "C": "Payment of taxes",
+   "D": "Voting by adults",
+   "E": "Respect for the national flag and anthems."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-28",
+  "subject": "government",
+  "year": 1984,
+  "number": 28,
+  "question": "The main deliberative organ of the U.N.O. is the",
+  "options": {
+   "A": "Security Council",
+   "B": "General Assembly",
+   "C": "Economic and Social Council",
+   "D": "Secretariat",
+   "E": "International Court of Justice."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-29",
+  "subject": "government",
+  "year": 1984,
+  "number": 29,
+  "question": "The first black African State to gain political indepen dence from a colonial power was",
+  "options": {
+   "A": "Nigeria",
+   "B": "Liberia",
+   "C": "Ghana",
+   "D": "Ethiopia",
+   "E": "Guinea"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-30",
+  "subject": "government",
+  "year": 1984,
+  "number": 30,
+  "question": "The major conflict that threatened the existence of the O.A.U. as an international organization from 1982-3 was the conflict",
+  "options": {
+   "A": "in Chad",
+   "B": "between Namibia and South Africa",
+   "C": "between the Polisario Front and Morrocco",
+   "D": "in Angola",
+   "E": "between Somalia and Ethiopia."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-31",
+  "subject": "government",
+  "year": 1984,
+  "number": 31,
+  "question": "Voting first started in Nigeria in 1923 because the Clifford Constitution of 1922 granted",
+  "options": {
+   "A": "independence",
+   "B": "self-government",
+   "C": "dominion status",
+   "D": "elective principle",
+   "E": "decolonization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-32",
+  "subject": "government",
+  "year": 1984,
+  "number": 32,
+  "question": "Which organ of the U.N.O. can impose mandatory sanctions on any of its members?",
+  "options": {
+   "A": "The General Assembly",
+   "B": "The Security Council",
+   "C": "The Secretariat",
+   "D": "The Economic and Social Council",
+   "E": "The International Court of Justice."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-33",
+  "subject": "government",
+  "year": 1984,
+  "number": 33,
+  "question": "A historic feature of the Legislative Council that met in 1923 was that for the first time it",
+  "options": {
+   "A": "included official members who were Nigerians",
+   "B": "included only British officials",
+   "C": "acted in a deliberative capacity",
+   "D": "included elected African members",
+   "E": "legislated for the whole country members of the Legislative Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-35",
+  "subject": "government",
+  "year": 1984,
+  "number": 35,
+  "question": "The military was last in power in Nigeria between A 1954 and 1960 B. 1960 and 1966",
+  "options": {
+   "C": "1966 and 1975",
+   "D": "1966 and 1979",
+   "E": "1979 and 1983."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-36",
+  "subject": "government",
+  "year": 1984,
+  "number": 36,
+  "question": "Which of the following was NOT established by the 1979 Nigerian Constitution?",
+  "options": {
+   "A": "Police Service Commission",
+   "B": "National Universities Commission",
+   "C": "Federal Electoral Commission",
+   "D": "National Population Commission",
+   "E": "National Economic Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-37",
+  "subject": "government",
+  "year": 1984,
+  "number": 37,
+  "question": "To which of these groups did Nigeria belong before the formation of the O.A.U?",
+  "options": {
+   "A": "The Brazaville group",
+   "B": "The Monrovia group",
+   "C": "The Casablanca group",
+   "D": "The West Africa group",
+   "E": "The O.P.E.C group"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-38",
+  "subject": "government",
+  "year": 1984,
+  "number": 38,
+  "question": "The international organization formed after the Second World War to guarantee international peace and security is called",
+  "options": {
+   "A": "The European Common Market",
+   "B": "The British Commonwealth of Nations C The League of Nations D The United Nations Organization E The World Bank"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-39",
+  "subject": "government",
+  "year": 1984,
+  "number": 39,
+  "question": "The two parties which formed the coalition govern ment in 1959 were the",
+  "options": {
+   "A": "N.C.N.C. and the A. G.",
+   "B": "N.P.C. and the N.C.N.C.",
+   "C": "N.P.C. and the G.A.",
+   "D": "P.R.P and the U.P.G.A",
+   "E": "N.P.C. and the N.N.A. 40 The 1953 motion that Nigeria should become indepen dent in 1956 was moved by"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-41",
+  "subject": "government",
+  "year": 1984,
+  "number": 41,
+  "question": "Southern Nigeria was divided into Eastern and Western Provinces for administrative purposes in",
+  "options": {
+   "A": "1935",
+   "B": "1937",
+   "C": "1939",
+   "D": "1941",
+   "E": "1945"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-42",
+  "subject": "government",
+  "year": 1984,
+  "number": 42,
+  "question": "Under what constitution did the Supreme Court",
+  "options": {
+   "B": "Clifford’s Constitution",
+   "C": "Richard’s Constitution",
+   "D": "The 1963 Constitution",
+   "E": "The 1979 Consittution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-43",
+  "subject": "government",
+  "year": 1984,
+  "number": 43,
+  "question": "The Constitution which introduced the ministerial system into the Nigerian Political system is the",
+  "options": {
+   "A": "Richard’s Constitution",
+   "B": "Lyttleton Constitution",
+   "C": "Macpherson constitution",
+   "D": "Independence Constitution",
+   "E": "Republican constitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-44",
+  "subject": "government",
+  "year": 1984,
+  "number": 44,
+  "question": "The Minorities Commission appointed in Nigeria in 1957 recommended that",
+  "options": {
+   "A": "more states should be created in the Federation",
+   "B": "no more states should be created before independence C Nigeria should revert to a unitary structure ofgovernment",
+   "D": "the Federal Legislature should legislate for the minority areas",
+   "E": "all the minority areas should constitute one state."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-45",
+  "subject": "government",
+  "year": 1984,
+  "number": 45,
+  "question": "The second military coup d’etat in Nigeria took place on",
+  "options": {
+   "A": "January 15, 1966",
+   "B": "October 1, 1966",
+   "C": "July, 29, 1966",
+   "D": "July 29, 1975",
+   "E": "February 13, 1976."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-46",
+  "subject": "government",
+  "year": 1984,
+  "number": 46,
+  "question": "To be elected President of Nigeria, the 1979 Constitu tion states that one must have attained the age of",
+  "options": {
+   "A": "21 years",
+   "B": "35 years",
+   "C": "50 years",
+   "D": "60 years",
+   "E": "65 years"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-47",
+  "subject": "government",
+  "year": 1984,
+  "number": 47,
+  "question": "Which of the following international organisations was in exisitence before the outbrteak of the Second World War?",
+  "options": {
+   "A": "The O.A.U.",
+   "B": "The League of Nations",
+   "C": "The UNO",
+   "D": "The Commonwealth of Nations",
+   "E": "ECOWAS"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-48",
+  "subject": "government",
+  "year": 1984,
+  "number": 48,
+  "question": "Rates are generally collected in Nigeria by",
+  "options": {
+   "A": "the State Ministry of Finance",
+   "B": "the Department of Inland Revenue",
+   "C": "the Emirate or Traditional Council",
+   "D": "the Local Government Council",
+   "E": "Presidential Liaison officers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-49",
+  "subject": "government",
+  "year": 1984,
+  "number": 49,
+  "question": "An electoral district for a local government election is a A constituency B. local government area",
+  "options": {
+   "C": "polling booth",
+   "D": "ward",
+   "E": "market"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-50",
+  "subject": "government",
+  "year": 1984,
+  "number": 50,
+  "question": "All the following are organs of the O.A.U. EXCEPT",
+  "options": {
+   "A": "The commission on Mediation, Conciliation and Arbitration",
+   "B": "The Council of Ministers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

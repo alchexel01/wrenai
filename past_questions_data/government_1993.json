@@ -1,0 +1,874 @@
+[
+ {
+  "id": "government-1993-1",
+  "subject": "government",
+  "year": 1993,
+  "number": 1,
+  "question": "Political authority refers to the",
+  "options": {
+   "A": "ability to effect political action",
+   "B": "capacity to produce desired political results",
+   "C": "capacity to reshape the political behaviour of citizens",
+   "D": "recognized right to excercise political power"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-2",
+  "subject": "government",
+  "year": 1993,
+  "number": 2,
+  "question": "The sovereignty of a state is determined by",
+  "options": {
+   "A": "economic and legal aspects",
+   "B": "social and political aspects",
+   "C": "political and legal aspect",
+   "D": "economic and political aspects"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-3",
+  "subject": "government",
+  "year": 1993,
+  "number": 3,
+  "question": "The civil service belongs to the organ or government called the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-4",
+  "subject": "government",
+  "year": 1993,
+  "number": 4,
+  "question": "Ultimate power in a confederal state is",
+  "options": {
+   "A": "concentrated in the central government",
+   "B": "consittutionally divided between the centre and the units",
+   "C": "exercised by the larger units",
+   "D": "vested in the constituents units."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-5",
+  "subject": "government",
+  "year": 1993,
+  "number": 5,
+  "question": "Federalism is a constitutional arrangement in which",
+  "options": {
+   "A": "the national and regional governments derive their powers from the constitution",
+   "B": "the national goverrment acts only through the regional governments",
+   "C": "regional and local authorities exist at the pleasure of the national government",
+   "D": "the national government does not reach"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-6",
+  "subject": "government",
+  "year": 1993,
+  "number": 6,
+  "question": "A written constitution is one that",
+  "options": {
+   "A": "cannot be modified or amended B.can only be ammended by the highest legislative body",
+   "C": "is contained in a single document",
+   "D": "is drawn up by draftsmen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-7",
+  "subject": "government",
+  "year": 1993,
+  "number": 7,
+  "question": "A federal system of govenment can exist without",
+  "options": {
+   "A": "decision of powers",
+   "B": "supremacy of the ritten constitution C. an executive presidential system",
+   "D": "a rigid ammendment procedure"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-8",
+  "subject": "government",
+  "year": 1993,
+  "number": 8,
+  "question": "As a political ideology, communism seeks to",
+  "options": {
+   "A": "concentrate national wealth in the hands of a few",
+   "B": "abolish collective ownership of property",
+   "C": "provide adequate opportunities for citizens to make profits D. eliminate all forms of socio economic inequality"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-9",
+  "subject": "government",
+  "year": 1993,
+  "number": 9,
+  "question": "Nazism as a doctrine was proposed by",
+  "options": {
+   "A": "Benito Mussolini",
+   "B": "Adolf Hitler",
+   "C": "Karl Marx",
+   "D": "Joseph Stalin"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-10",
+  "subject": "government",
+  "year": 1993,
+  "number": 10,
+  "question": "Despite the doctrine of separation of powers the legislature plays quasi-judicial role as a result of its",
+  "options": {
+   "A": "investigative powers",
+   "B": "financial powers",
+   "C": "emergency powers",
+   "D": "appropriation powers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-11",
+  "subject": "government",
+  "year": 1993,
+  "number": 11,
+  "question": "In the presidential system of government, the president is",
+  "options": {
+   "A": "elected only through the electoral college",
+   "B": "empowered to dissolve the legislature",
+   "C": "Head of State and Head of Government",
+   "D": "vested with absolute powers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-12",
+  "subject": "government",
+  "year": 1993,
+  "number": 12,
+  "question": "In the Westminster system of government, formal legislation can take the following forms EXCEPT",
+  "options": {
+   "A": "royal proclamations",
+   "B": "orders in council",
+   "C": "acts of parliament",
+   "D": "ministerial pronouncement"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-13",
+  "subject": "government",
+  "year": 1993,
+  "number": 13,
+  "question": "Delegated legislation is disadvantageous because it A erodes the principle of separation of powers",
+  "options": {
+   "B": "makes hasty review of legislation possible",
+   "C": "disallows quick action during emergencies",
+   "D": "increases the work of the legislature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-14",
+  "subject": "government",
+  "year": 1993,
+  "number": 14,
+  "question": "The principle of the rule of law stipulates that",
+  "options": {
+   "A": "only judges interpretes the law",
+   "B": "law makers are above the law",
+   "C": "everybody is equal before the law",
+   "D": "lawyers make laws"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-15",
+  "subject": "government",
+  "year": 1993,
+  "number": 15,
+  "question": "Gerrymandering means",
+  "options": {
+   "A": "the second ballot system",
+   "B": "single transferable vote",
+   "C": "the manipulation of constituency boundaries",
+   "D": "the tyranny of the majority."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-16",
+  "subject": "government",
+  "year": 1993,
+  "number": 16,
+  "question": "Another term for an colonialismn electoral district is a A ward B. local government area",
+  "options": {
+   "C": "politically demarcated area",
+   "D": "consituency"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-18",
+  "subject": "government",
+  "year": 1993,
+  "number": 18,
+  "question": "Free and fair elections do NOT accommodate",
+  "options": {
+   "A": "obedience to the rules of the game",
+   "B": "equality of all votes",
+   "C": "freedom of choice by voters.",
+   "D": "partial electoral administration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-19",
+  "subject": "government",
+  "year": 1993,
+  "number": 19,
+  "question": "Proportional representation is often criticized because it",
+  "options": {
+   "A": "tends to preserve the multi-party system",
+   "B": "is too simple to operate",
+   "C": "ensures that each party has a minister",
+   "D": "provides that each states is represented according to its population"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-20",
+  "subject": "government",
+  "year": 1993,
+  "number": 20,
+  "question": "Interest groups are important to democracies because they",
+  "options": {
+   "A": "reperesent the masses",
+   "B": "do not allow misrule",
+   "C": "represent groups who otherwise would be left out",
+   "D": "provide a forum for confronting the government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-21",
+  "subject": "government",
+  "year": 1993,
+  "number": 21,
+  "question": "In the Habe political system, the Sarki was assisted in performing his executive functions by the",
+  "options": {
+   "A": "alkali",
+   "B": "khadi",
+   "C": "ulama",
+   "D": "galadima"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-22",
+  "subject": "government",
+  "year": 1993,
+  "number": 22,
+  "question": "In the Oyo empire, the Alaafin was",
+  "options": {
+   "A": "an absolute monarch",
+   "B": "popularly elected",
+   "C": "a constitutional monarch",
+   "D": "worshipped as a deity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-23",
+  "subject": "government",
+  "year": 1993,
+  "number": 23,
+  "question": "Which of these sets represents the disadvantages of colonialism?",
+  "options": {
+   "A": "Exposure to western education, cultural imperialism and external trade relations",
+   "B": "Cultural imperialism and external manipulate and foreign control of domestic economy",
+   "C": "External manipulation, civil service evoultion and liberal democracy",
+   "D": "Liberal democracy, foreign domination and cultrual imperialism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-24",
+  "subject": "government",
+  "year": 1993,
+  "number": 24,
+  "question": "Imperialism was adopted by Europe to",
+  "options": {
+   "A": "expand its economic and political base",
+   "B": "develop the economies of the colonies",
+   "C": "establish a democratic society similar to that of Europe",
+   "D": "end ethnic rivalries in the colonies."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-25",
+  "subject": "government",
+  "year": 1993,
+  "number": 25,
+  "question": "The Lagos Colony and the Southern Protectorate of Nigeria were joined in the year",
+  "options": {
+   "A": "1904",
+   "B": "1906",
+   "C": "1910",
+   "D": "1914."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-26",
+  "subject": "government",
+  "year": 1993,
+  "number": 26,
+  "question": "Tubman Goldie was famous for the",
+  "options": {
+   "A": "suppression of local rulers",
+   "B": "merger of British companies into the United African Company C. Akassa Raid",
+   "D": "treaty of friendship and the race of Nikki"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-27",
+  "subject": "government",
+  "year": 1993,
+  "number": 27,
+  "question": "Which of the following internal factors did NOT affect the development of nationalist movements in colonial",
+  "options": {
+   "A": "Denial of equal opportunities to Nigerian vis-a-vis their European counterparts.",
+   "B": "The establishment of political parties and newspaper",
+   "C": "the influx of West Indian and American intellectuals",
+   "D": "The development of modern education"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-28",
+  "subject": "government",
+  "year": 1993,
+  "number": 28,
+  "question": "One significant aspect of the Legislative Council of 1922 was that",
+  "options": {
+   "A": "Africans were in the majority",
+   "B": "it made laws only for the southern Provinces",
+   "C": "the Colony of Lagos and the Protectorate of Southern Nigeria were merged",
+   "D": "laws governing land ownership in the north were extended to the south."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-29",
+  "subject": "government",
+  "year": 1993,
+  "number": 29,
+  "question": "The 1960 Independence Constitution could be described as written A monarchical and parliamentary",
+  "options": {
+   "B": "republican and parliamentary",
+   "C": "monarchichal and presidential",
+   "D": "federal and republican"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-30",
+  "subject": "government",
+  "year": 1993,
+  "number": 30,
+  "question": "The governor-general of Nigeria at the time of political independence was",
+  "options": {
+   "A": "Lord Frederick Lugard",
+   "B": "Sir John Macpherson C. Sir Arthur Richards",
+   "D": "Sir James Robertson"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-31",
+  "subject": "government",
+  "year": 1993,
+  "number": 31,
+  "question": "Before the collapse of Nigeria’s first republic in 1966, the prime minister was both",
+  "options": {
+   "A": "the head of government and a law maker",
+   "B": "the head of state and Commander-in-Chief of the armed forces",
+   "C": "Commander-in-Chief of the armed forces and party leader",
+   "D": "Head of State and party leader."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-32",
+  "subject": "government",
+  "year": 1993,
+  "number": 32,
+  "question": "In Nigeria, the function of the Council of states is",
+  "options": {
+   "A": "judicial",
+   "B": "investigative",
+   "C": "legislative",
+   "D": "advisory"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-33",
+  "subject": "government",
+  "year": 1993,
+  "number": 33,
+  "question": "Under the military administrration, supreme court decision are subject to review by",
+  "options": {
+   "A": "Sharia Court of Appeal",
+   "B": "no other court of law C. Federal Court of Appeal",
+   "D": "Judicial tribunal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-34",
+  "subject": "government",
+  "year": 1993,
+  "number": 34,
+  "question": "Public Commissions established under the 1979 constitution were expected to be",
+  "options": {
+   "A": "independent of the executive",
+   "B": "part of executive",
+   "C": "advisory to the exective",
+   "D": "advisory to the legislature."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-35",
+  "subject": "government",
+  "year": 1993,
+  "number": 35,
+  "question": "Which ofthe following was an ad hoc Revenue Allocation Commission?",
+  "options": {
+   "A": "Ashby Commission",
+   "B": "Adedeji Commission C Udoji Commission D. Phillipson Commission",
+   "C": "Murtala/ Obansanjo regime D. Buhari regime"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-37",
+  "subject": "government",
+  "year": 1993,
+  "number": 37,
+  "question": "In Nigeria, public corporations are also know as",
+  "options": {
+   "A": "multinational corporations",
+   "B": "private enterpises",
+   "C": "parastatals",
+   "D": "co-operative societies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-38",
+  "subject": "government",
+  "year": 1993,
+  "number": 38,
+  "question": "The local governement is an example of",
+  "options": {
+   "A": "concentration of power",
+   "B": "separation of power",
+   "C": "devolution of power",
+   "D": "delega tion of power"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-39",
+  "subject": "government",
+  "year": 1993,
+  "number": 39,
+  "question": "The body responsible for exercising the functions of local governments in the 1976 reforms was the",
+  "options": {
+   "A": "local government commission",
+   "B": "local government council C. local government committee D. committee of chairmen and supervisory councillors"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-40",
+  "subject": "government",
+  "year": 1993,
+  "number": 40,
+  "question": "Diarchy refers to the",
+  "options": {
+   "A": "rule by the government and the opposition parties B. mixture of parliamentary and presidential systems",
+   "C": "rule of political and economics elites",
+   "D": "rule by the military and civilians"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-41",
+  "subject": "government",
+  "year": 1993,
+  "number": 41,
+  "question": "Nigeria’s relations with other nations is determined byher",
+  "options": {
+   "A": "political culture",
+   "B": "political socializatio",
+   "C": "national interest",
+   "D": "national consciousness"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-42",
+  "subject": "government",
+  "year": 1993,
+  "number": 42,
+  "question": "The foreign policy of Nigeria is centred on Africa because of her",
+  "options": {
+   "A": "membership of O.A.U",
+   "B": "membership of ECOWAS C. concern for and attention of African problems D. commitment to end colonization in Africa"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-43",
+  "subject": "government",
+  "year": 1993,
+  "number": 43,
+  "question": "Themajor organization through which Nigeria pursues her economic, political and social interest in West Africa is",
+  "options": {
+   "A": "ECOWAS",
+   "B": "A.D.B.",
+   "C": "E.C.A",
+   "D": "O.A.U"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-44",
+  "subject": "government",
+  "year": 1993,
+  "number": 44,
+  "question": "A state is admitted into the United Nations on the",
+  "options": {
+   "A": "recommendation of the secretary-general to the security council",
+   "B": "concurrent vote of the Security Council and the General Assembly",
+   "C": "enabling action of the General Assembly",
+   "D": "sponsorship of any member of the organization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-45",
+  "subject": "government",
+  "year": 1993,
+  "number": 45,
+  "question": "The highest policy making body of the O.A.U. is the",
+  "options": {
+   "A": "the Economic and Social Commission",
+   "B": "Council of Ministers",
+   "C": "General Secretariat D. Assembly of Heads of States and Governments",
+   "D": "Pan African Union"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-47",
+  "subject": "government",
+  "year": 1993,
+  "number": 47,
+  "question": "Who was the first Nigerian to be appointed President of the International Court of Justice at the Hague?",
+  "options": {
+   "A": "Justice Taslim Elias",
+   "B": "Justice Bola Ajibola",
+   "C": "Justice Daddy Onyeama",
+   "D": "Justice DanleyAlexander"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-48",
+  "subject": "government",
+  "year": 1993,
+  "number": 48,
+  "question": "An agency of the United Nations which specialize in the welfare of children is the",
+  "options": {
+   "A": "W.H.O",
+   "B": "U.N.E.S.C.O.",
+   "C": "U.N.I.C.E.F",
+   "D": "U.N.D.P."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-49",
+  "subject": "government",
+  "year": 1993,
+  "number": 49,
+  "question": "Financial contributions to the liberation movements in Southern Africa by African governments were chanelled through the",
+  "options": {
+   "A": "E.C.A",
+   "B": "ECOWAS",
+   "C": "O.A.U.",
+   "D": "U.N.O."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1993-50",
+  "subject": "government",
+  "year": 1993,
+  "number": 50,
+  "question": "Prior to 1991, veto power was exercised in the United Nations Security Council by",
+  "options": {
+   "A": "France, Germany, the Soviet Union, Italy and Japan",
+   "B": "Japan, the United States, Italy, Germany and France",
+   "C": "the soviet Union, People Republic of China, Great Britain, France and the United States",
+   "D": "Italy, the United States, the Soviet Union, Germany and France"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

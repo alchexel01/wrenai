@@ -1,0 +1,902 @@
+[
+ {
+  "id": "government-2003-1",
+  "subject": "government",
+  "year": 2003,
+  "number": 1,
+  "question": "One of the duties of the legislature is to",
+  "options": {
+   "A": "exercise oversight",
+   "B": "implements laws",
+   "C": "promulgate decrees",
+   "D": "adjudicate disputes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-2",
+  "subject": "government",
+  "year": 2003,
+  "number": 2,
+  "question": "The best form of government for a heterogeneous society is a",
+  "options": {
+   "A": "quasi-federal system",
+   "B": "confederal system",
+   "C": "unitary system",
+   "D": "federal system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-3",
+  "subject": "government",
+  "year": 2003,
+  "number": 3,
+  "question": "Removal by impeachment applies to the position of a",
+  "options": {
+   "A": "chief judge",
+   "B": "president",
+   "C": "prime minister",
+   "D": "cabinet minister"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-4",
+  "subject": "government",
+  "year": 2003,
+  "number": 4,
+  "question": "Government by the wealthy is known as",
+  "options": {
+   "A": "oligarchy",
+   "B": "aristocracy",
+   "C": "plutocracy",
+   "D": "democracy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-5",
+  "subject": "government",
+  "year": 2003,
+  "number": 5,
+  "question": "The independence of the judiciary can be undermined through the",
+  "options": {
+   "A": "payment of the salaries of judicial officers by government.",
+   "B": "appointment of the minister of justice as the Attorney-General",
+   "C": "politicization of the appointments of judges",
+   "D": "confirmation of the appointment of judges by the legislature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-6",
+  "subject": "government",
+  "year": 2003,
+  "number": 6,
+  "question": "The unrestrained power of the state over its citizens is underlined by",
+  "options": {
+   "A": "self-determination",
+   "B": "patriotism",
+   "C": "sovereignty",
+   "D": "nationalism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-7",
+  "subject": "government",
+  "year": 2003,
+  "number": 7,
+  "question": "In a parliamentary system, the functions of the head of state and the head of government are vested in",
+  "options": {
+   "A": "the ministerial council",
+   "B": "an individual",
+   "C": "the inner cabinet"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-8",
+  "subject": "government",
+  "year": 2003,
+  "number": 8,
+  "question": "A collegial executive is a government in which power is vested in a",
+  "options": {
+   "A": "committee",
+   "B": "monarch",
+   "C": "parliament",
+   "D": "president"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-9",
+  "subject": "government",
+  "year": 2003,
+  "number": 9,
+  "question": "A common feature of government is",
+  "options": {
+   "A": "the making of public policy",
+   "B": "the separation of powers",
+   "C": "the independence of the judiciary",
+   "D": "a written constitution."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-10",
+  "subject": "government",
+  "year": 2003,
+  "number": 10,
+  "question": "A meeting of the legislature is usually brought to an end with",
+  "options": {
+   "A": "a prorogation",
+   "B": "a dissolution",
+   "C": "suspension",
+   "D": "an adjourment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-11",
+  "subject": "government",
+  "year": 2003,
+  "number": 11,
+  "question": "The civil service embraces all workers in",
+  "options": {
+   "A": "public and private companies",
+   "B": "all private corporations",
+   "C": "public corporations",
+   "D": "government ministers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-12",
+  "subject": "government",
+  "year": 2003,
+  "number": 12,
+  "question": "The citizenship of a country could be acquired through",
+  "options": {
+   "A": "registration and arbitration",
+   "B": "presidential proclamation",
+   "C": "birth and naturalization",
+   "D": "parliamentary legislation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-13",
+  "subject": "government",
+  "year": 2003,
+  "number": 13,
+  "question": "What distinguishes a political party from other social institution is the desire to",
+  "options": {
+   "A": "promote the interest of party members",
+   "B": "influence the internatinal community on local issues",
+   "C": "influence government policies in certain directions",
+   "D": "win elections and form a government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-14",
+  "subject": "government",
+  "year": 2003,
+  "number": 14,
+  "question": "Capitalism is a system of economic organization based on",
+  "options": {
+   "A": "very fair distribution of the means of production B. a mixed economy that takes all interest into consideration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-15",
+  "subject": "government",
+  "year": 2003,
+  "number": 15,
+  "question": "Socialism is a mode of production based on",
+  "options": {
+   "A": "national ownership of the means of production",
+   "B": "mixed ownership of the means of production.",
+   "C": "state ownership of the means of production",
+   "D": "collective ownership of the means of production"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-16",
+  "subject": "government",
+  "year": 2003,
+  "number": 16,
+  "question": "Constitutional disputes in states with written consti tutions are resolved by the",
+  "options": {
+   "A": "legislature",
+   "B": "ombudsman",
+   "C": "electorate",
+   "D": "judiciary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-17",
+  "subject": "government",
+  "year": 2003,
+  "number": 17,
+  "question": "Election as a political proces is significant because it",
+  "options": {
+   "A": "facilitates constitutional change of government",
+   "B": "is associated with campaigns for public office",
+   "C": "facilitates the recall process",
+   "D": "enables citizens to vote"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-18",
+  "subject": "government",
+  "year": 2003,
+  "number": 18,
+  "question": "Public opinion becomes politically relevant when it",
+  "options": {
+   "A": "aggregates view and interests",
+   "B": "is in support of government",
+   "C": "influences the decision of government",
+   "D": "criticizes people in power"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-19",
+  "subject": "government",
+  "year": 2003,
+  "number": 19,
+  "question": "The operation of the rule of law is undermined by the",
+  "options": {
+   "A": "conspiracy by the two house of the legislature to impeach the president",
+   "B": "inability of the press to discharge its responsibilities",
+   "C": "unfriendly attitude of pressuregoups",
+   "D": "existence of administrative tribunals and special immunities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-20",
+  "subject": "government",
+  "year": 2003,
+  "number": 20,
+  "question": "Associations whose main interest is to influence public policies without having to capture power are",
+  "options": {
+   "A": "political parties",
+   "B": "communal groups",
+   "C": "pressure groups",
+   "D": "trade unions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-21",
+  "subject": "government",
+  "year": 2003,
+  "number": 21,
+  "question": "One of the legacies of pre-colonial Nigeria destroyed by the British was the",
+  "options": {
+   "A": "peace and harmony in the land",
+   "B": "nation’s farmland",
+   "C": "education of the local people",
+   "D": "indigenous cultures of the people"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-22",
+  "subject": "government",
+  "year": 2003,
+  "number": 22,
+  "question": "The smooth operation of the civil service in Nigeria is mostly hampered by",
+  "options": {
+   "A": "debt burden and redundancy",
+   "B": "poor infrastructure",
+   "C": "inadequate training of personnel",
+   "D": "corruption and inefficeincy."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-23",
+  "subject": "government",
+  "year": 2003,
+  "number": 23,
+  "question": "The type of government operated in Nigeria between October 1st 1979 and December 31st 1983 is called",
+  "options": {
+   "A": "presidential system of government",
+   "B": "collegial system of government",
+   "C": "unitary system of government",
+   "D": "parliamentary system of government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-24",
+  "subject": "government",
+  "year": 2003,
+  "number": 24,
+  "question": "In the pre-colonial Igbo society, the maintenance of",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-25",
+  "subject": "government",
+  "year": 2003,
+  "number": 25,
+  "question": "The expenditure of public funds by the executive in Nigeria is controlled by the",
+  "options": {
+   "A": "president",
+   "B": "ministryof finance",
+   "C": "judiciary",
+   "D": "legislature. 26 The 1979 Constitution established the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-27",
+  "subject": "government",
+  "year": 2003,
+  "number": 27,
+  "question": "The Eastern and Western regions of Nigeria achieved the status of self government in",
+  "options": {
+   "A": "1959",
+   "B": "1950",
+   "C": "1955",
+   "D": "1957"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-28",
+  "subject": "government",
+  "year": 2003,
+  "number": 28,
+  "question": "The Arthur Richards Constitution was designed to last for",
+  "options": {
+   "A": "six years",
+   "B": "twelve year",
+   "C": "five years",
+   "D": "nine years"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-29",
+  "subject": "government",
+  "year": 2003,
+  "number": 29,
+  "question": "The 1976 reforms have been most beneficial to the",
+  "options": {
+   "A": "Nigeria Police",
+   "B": "civil service",
+   "C": "federal government",
+   "D": "local government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-30",
+  "subject": "government",
+  "year": 2003,
+  "number": 30,
+  "question": "A problem of Nigerian federalism that was resolved by the Supreme Court between federal government and the littoral states centred on resources.",
+  "options": {
+   "A": "maximization",
+   "B": "control",
+   "C": "derivation",
+   "D": "generation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-31",
+  "subject": "government",
+  "year": 2003,
+  "number": 31,
+  "question": "One of the reasons advanced for the overthrow of the Gowon Regime was its failure to",
+  "options": {
+   "A": "promote some officers of the armed forces",
+   "B": "honour the promise to hand over power",
+   "C": "create new state",
+   "D": "try politicians in detention"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-32",
+  "subject": "government",
+  "year": 2003,
+  "number": 32,
+  "question": "In the first republic, politics in the Northern region was dominated by the",
+  "options": {
+   "A": "NPC",
+   "B": "NCNC",
+   "C": "NEPU",
+   "D": "UMBC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-33",
+  "subject": "government",
+  "year": 2003,
+  "number": 33,
+  "question": "The Bureau for Public Enterprises is charge with the responsibility for",
+  "options": {
+   "A": "eradicating poverty",
+   "B": "generating opportunities",
+   "C": "providing employment opportunites",
+   "D": "privatization and commercialization."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-34",
+  "subject": "government",
+  "year": 2003,
+  "number": 34,
+  "question": "Themilitary head of state during the Third Republicwas",
+  "options": {
+   "A": "General Ibrahim Babangida",
+   "B": "General Murtala Muhammed",
+   "C": "General Sani Abacha",
+   "D": "General Olusegun Obasanjo"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-35",
+  "subject": "government",
+  "year": 2003,
+  "number": 35,
+  "question": "The most important challlenge facing the Fourth Republic is",
+  "options": {
+   "A": "the need to develop Nigeria",
+   "B": "how to develop Nigeria’s social institution",
+   "C": "how to deal with the military"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-36",
+  "subject": "government",
+  "year": 2003,
+  "number": 36,
+  "question": "Financial allocation to local government by the federal or the state government to supplement the cost of a project is called.",
+  "options": {
+   "A": "revenue allocation",
+   "B": "matching grant",
+   "C": "statutory allocation",
+   "D": "reimbursement"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-37",
+  "subject": "government",
+  "year": 2003,
+  "number": 37,
+  "question": "Nigeria’s influence in OPEC is determined by the",
+  "options": {
+   "A": "sizes of her refineries",
+   "B": "accessibility of her oil fields",
+   "C": "low sulpur content of her crude",
+   "D": "volume of her oil reserve"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-38",
+  "subject": "government",
+  "year": 2003,
+  "number": 38,
+  "question": "The activities of Nigeria in the international commu nity are primarily influenced by",
+  "options": {
+   "A": "military power",
+   "B": "diplomacy",
+   "C": "propaganda",
+   "D": "national interest"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-39",
+  "subject": "government",
+  "year": 2003,
+  "number": 39,
+  "question": "The dispute between Nigeria and Cameroon is over",
+  "options": {
+   "A": "trade",
+   "B": "exploration rights",
+   "C": "fishing rights",
+   "D": "territory"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-40",
+  "subject": "government",
+  "year": 2003,
+  "number": 40,
+  "question": "Nigeria’s high standing in the UN General Assembly is underscored by her",
+  "options": {
+   "A": "financial contribution",
+   "B": "military strength . C successes in UN elective offices",
+   "D": "contribution to global peace 41 Nigeria’s Non-Alignment policy is constrained by her",
+   "C": "members of ECOWAS"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-42",
+  "subject": "government",
+  "year": 2003,
+  "number": 42,
+  "question": "The main constraint on Nigeria Francophone West African cooperation is",
+  "options": {
+   "A": "ideological differences",
+   "B": "cultural differ ences C. poor road network",
+   "D": "economic dependence."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-43",
+  "subject": "government",
+  "year": 2003,
+  "number": 43,
+  "question": "Nigeria’s relations with Britain were at a very low ebb under the",
+  "options": {
+   "A": "Buhari Regime",
+   "B": "Gowon Regime",
+   "C": "Shagari Regime",
+   "D": "Babangida Regime"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-44",
+  "subject": "government",
+  "year": 2003,
+  "number": 44,
+  "question": "The ECOWAS Treaty was reviewed in 1991 to",
+  "options": {
+   "A": "accommodate the interest of France",
+   "B": "mobilize ECOMOG",
+   "C": "accommodate extra sub-regional interest",
+   "D": "make it responsive to new challenges"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-45",
+  "subject": "government",
+  "year": 2003,
+  "number": 45,
+  "question": "The headquarters of the International Court of Justice is in",
+  "options": {
+   "A": "Paris",
+   "B": "The Hague",
+   "C": "London",
+   "D": "Washington DC."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-46",
+  "subject": "government",
+  "year": 2003,
+  "number": 46,
+  "question": "The independent African countries that signed the OAU Charter on May 25, 1963 were",
+  "options": {
+   "A": "Morocco and Angola",
+   "B": "Togo and Sierra Leone C. Chad and the Gambia",
+   "D": "Togo and Morocco"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-47",
+  "subject": "government",
+  "year": 2003,
+  "number": 47,
+  "question": "The tenure of the President of the UN Security Council",
+  "options": {
+   "A": "two years",
+   "B": "one year",
+   "C": "one month",
+   "D": "six months"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-48",
+  "subject": "government",
+  "year": 2003,
+  "number": 48,
+  "question": "The majority of the OPEC members are from",
+  "options": {
+   "A": "Asia",
+   "B": "Latin America",
+   "C": "the Middle East",
+   "D": "Africa"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-49",
+  "subject": "government",
+  "year": 2003,
+  "number": 49,
+  "question": "The non-British colony which is a member of the Commonwealth is",
+  "options": {
+   "A": "Guinea-Bissau",
+   "B": "Mozambique",
+   "C": "Rwanda",
+   "D": "Eritrea"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-50",
+  "subject": "government",
+  "year": 2003,
+  "number": 50,
+  "question": "The major problem of the ECOWAS is lack of",
+  "options": {
+   "A": "a common Customs Union",
+   "B": "a ideology",
+   "C": "uniform ideology",
+   "D": "commitment by members."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,892 @@
+[
+ {
+  "id": "government-1990-1",
+  "subject": "government",
+  "year": 1990,
+  "number": 1,
+  "question": "Which of the following functions is performed by both political parties and pressure groups?",
+  "options": {
+   "A": "Contesting election",
+   "B": "Interest articulation",
+   "C": "Formal opposition to government",
+   "D": "Working for the interest of their members"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-2",
+  "subject": "government",
+  "year": 1990,
+  "number": 2,
+  "question": "The excercise of political power involves",
+  "options": {
+   "A": "winning elections",
+   "B": "using the police",
+   "C": "deciding cases",
+   "D": "Allocating values"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-3",
+  "subject": "government",
+  "year": 1990,
+  "number": 3,
+  "question": "Sovereignty is limited by",
+  "options": {
+   "A": "the criminal case",
+   "B": "decrees",
+   "C": "the legal system",
+   "D": "international law"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-4",
+  "subject": "government",
+  "year": 1990,
+  "number": 4,
+  "question": "The pronouncenent of judges which have the force of law are called",
+  "options": {
+   "A": "judgement",
+   "B": "judicial oaths",
+   "C": "orders- in-council",
+   "D": "judicial precedents"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-5",
+  "subject": "government",
+  "year": 1990,
+  "number": 5,
+  "question": "Constitutional disputes between states in a federation can only be settled by",
+  "options": {
+   "A": "parliament",
+   "B": "the Supreme Court",
+   "C": "a tribunal",
+   "D": "the Court ofAppeal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-6",
+  "subject": "government",
+  "year": 1990,
+  "number": 6,
+  "question": "The second ballot is based on the principle that a successful candidate must obtain",
+  "options": {
+   "A": "absolute majority",
+   "B": "simple majority",
+   "C": "forty percent of the votes",
+   "D": "fifty percent of the votes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-7",
+  "subject": "government",
+  "year": 1990,
+  "number": 7,
+  "question": "Which of the following is the least democratic selection process?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-8",
+  "subject": "government",
+  "year": 1990,
+  "number": 8,
+  "question": "An indispensable aspect of the constitution of a democratic state is",
+  "options": {
+   "A": "press censorship",
+   "B": "presidentialism",
+   "C": "fundamental human rights",
+   "D": "socialism ideology"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-9",
+  "subject": "government",
+  "year": 1990,
+  "number": 9,
+  "question": "A good democratic constitution should aspire to evolve the following EXCEPT",
+  "options": {
+   "A": "a judiciary dependent on the executive",
+   "B": "genuine and truly national politcal parties",
+   "C": "a free and fair electoral system",
+   "D": "the establishment of the principle of accountablity for public officers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-10",
+  "subject": "government",
+  "year": 1990,
+  "number": 10,
+  "question": "Which of the following is NOT characteristic of democracy?",
+  "options": {
+   "A": "Popular sovereignty",
+   "B": "Regular elections",
+   "C": "Majority rule",
+   "D": "Limited franchise"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-11",
+  "subject": "government",
+  "year": 1990,
+  "number": 11,
+  "question": "The principle of separation of powers is fundamental to the",
+  "options": {
+   "A": "parliamentary system",
+   "B": "presidential system",
+   "C": "totalitarian system",
+   "D": "federal system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-12",
+  "subject": "government",
+  "year": 1990,
+  "number": 12,
+  "question": "Under socialism, the control of power resides with the",
+  "options": {
+   "A": "peasants",
+   "B": "bourgeoise",
+   "C": "nobles",
+   "D": "proletariat"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-13",
+  "subject": "government",
+  "year": 1990,
+  "number": 13,
+  "question": "Marxism is directed against",
+  "options": {
+   "A": "state ownership of the means of production",
+   "B": "materialsim",
+   "C": "the proletariat",
+   "D": "socialism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-14",
+  "subject": "government",
+  "year": 1990,
+  "number": 14,
+  "question": "The rule of law implies that",
+  "options": {
+   "A": "judges interpret the law"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-15",
+  "subject": "government",
+  "year": 1990,
+  "number": 15,
+  "question": "A by-law is made by",
+  "options": {
+   "A": "parliament",
+   "B": "congress",
+   "C": "an electoral college",
+   "D": "the local government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-16",
+  "subject": "government",
+  "year": 1990,
+  "number": 16,
+  "question": "The notion of ‘carpet-crossing’ in a parliamentary democracy involves",
+  "options": {
+   "A": "crossing from the Lower house to the Upper house",
+   "B": "changing party allegiance after election",
+   "C": "opposing party discipline in parliament",
+   "D": "resigning from parliament."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-17",
+  "subject": "government",
+  "year": 1990,
+  "number": 17,
+  "question": "In a parliament, the most extensive amendment to a bill takes place at the",
+  "options": {
+   "A": "first reading",
+   "B": "committee stage",
+   "C": "second reading"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-18",
+  "subject": "government",
+  "year": 1990,
+  "number": 18,
+  "question": "A set of internalized norms which guides political action is called A power B. value C. law D. symbol",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-19",
+  "subject": "government",
+  "year": 1990,
+  "number": 19,
+  "question": "Freedom of speech in a democratic state is limited by",
+  "options": {
+   "A": "law of sedition",
+   "B": "law of trespass",
+   "C": "press censorship",
+   "D": "martial law"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-20",
+  "subject": "government",
+  "year": 1990,
+  "number": 20,
+  "question": "Habeas corpus is an essential process for safeguard ing the right of citizens to",
+  "options": {
+   "A": "vote",
+   "B": "personal liberty",
+   "C": "own property",
+   "D": "freedom of speech"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-21",
+  "subject": "government",
+  "year": 1990,
+  "number": 21,
+  "question": "The most effective wayof monitoring public opinion is",
+  "options": {
+   "A": "by examining the questions asked by journalists",
+   "B": "by the frequency of the press releases of pressure groups C. by referendum D. through opinion poll."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-22",
+  "subject": "government",
+  "year": 1990,
+  "number": 22,
+  "question": "In a true democracy, franchise can be limited by",
+  "options": {
+   "A": "sex",
+   "B": "education",
+   "C": "age",
+   "D": "wealth"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-23",
+  "subject": "government",
+  "year": 1990,
+  "number": 23,
+  "question": "Liberalism is a philosophy underlying",
+  "options": {
+   "A": "socialism",
+   "B": "capitalism",
+   "C": "feudalism",
+   "D": "nazism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-24",
+  "subject": "government",
+  "year": 1990,
+  "number": 24,
+  "question": "Which of the following served as the electoral college during the election into the Constituent Asssembly in 1978?",
+  "options": {
+   "A": "Local communities",
+   "B": "local government council",
+   "C": "the Federal Electoral Commission",
+   "D": "Traditional councils"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-25",
+  "subject": "government",
+  "year": 1990,
+  "number": 25,
+  "question": "Traditional rulers in Nigeria exercised the greatest political powers under",
+  "options": {
+   "A": "the military administrations",
+   "B": "the second republic",
+   "C": "the first republic",
+   "D": "indirect rule."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-26",
+  "subject": "government",
+  "year": 1990,
+  "number": 26,
+  "question": "During the second republic, some local government councils were created by",
+  "options": {
+   "A": "state governments",
+   "B": "the federal government",
+   "C": "the national assembly",
+   "D": "the judiciary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-27",
+  "subject": "government",
+  "year": 1990,
+  "number": 27,
+  "question": "The principal objective of British colonial policy in",
+  "options": {
+   "C": "promote missionary activities",
+   "D": "exploit and expropriate Nigeria resources for British interests. 28 Which of the following factors contributed most to cash crop production during the colonial administra tion in Nigeria?",
+   "A": "Education",
+   "B": "Pacification"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-29",
+  "subject": "government",
+  "year": 1990,
+  "number": 29,
+  "question": "Under the military regime in Nigeria, state enactment are known as",
+  "options": {
+   "A": "Laws",
+   "B": "decrees",
+   "C": "edicts",
+   "D": "promulgations"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-30",
+  "subject": "government",
+  "year": 1990,
+  "number": 30,
+  "question": "The military normally belongs to the arm(s) of government known as",
+  "options": {
+   "A": "the legislature and the judiciary",
+   "B": "the executive",
+   "C": "the judiciary",
+   "D": "the judiciary and the executive"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-31",
+  "subject": "government",
+  "year": 1990,
+  "number": 31,
+  "question": "The first policital party in Nigeria was the",
+  "options": {
+   "A": "Nigerian National Democratic Party",
+   "B": "Nigeria Youth Movement",
+   "C": "Action Group",
+   "D": "National Councils of Nigeria and the Cameroons"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-32",
+  "subject": "government",
+  "year": 1990,
+  "number": 32,
+  "question": "The major problem of the Nigerian federal strucutre in the first republic was",
+  "options": {
+   "A": "ethnicity",
+   "B": "politicization of the military",
+   "C": "lopsided size of the component units",
+   "D": "rigging of elections"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-33",
+  "subject": "government",
+  "year": 1990,
+  "number": 33,
+  "question": "The legislative organ of the Federal Government in the first republic was the",
+  "options": {
+   "A": "parliament",
+   "B": "judiciary",
+   "C": "legislature Council",
+   "D": "national assembly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-34",
+  "subject": "government",
+  "year": 1990,
+  "number": 34,
+  "question": "Which of the following is an autonomous governmental agency?",
+  "options": {
+   "A": "The Civil Service Commision",
+   "B": "The National Security Council",
+   "C": "The Manpower Advisory Committee",
+   "D": "The National Emergency Relief Agency"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-35",
+  "subject": "government",
+  "year": 1990,
+  "number": 35,
+  "question": "Which of the following was the LEAST important rationale for Nigerian federalism?",
+  "options": {
+   "A": "The vastness of the territory and the size of the population B. Diverse cultures C. Economic benefits",
+   "D": "Bicameral legislature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-36",
+  "subject": "government",
+  "year": 1990,
+  "number": 36,
+  "question": "One of the agreements of the 1957 constitutional conference was that",
+  "options": {
+   "A": "Southern Camerouns should constitute a separate region",
+   "B": "a House of Chiefs was to be created in the Western Region",
+   "C": "the office of the speaker of the House of Representatives was to be created",
+   "D": "the police was to be regionalized"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-37",
+  "subject": "government",
+  "year": 1990,
+  "number": 37,
+  "question": "The two nationalist leaders who led the tour of Northern Nigeria in 1946 to campaign against the",
+  "options": {
+   "C": "Ahmadu Bello and Samuel Ladoke Akintola",
+   "D": "Herbert Macaulay and Nnamdi Azikiwe"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-38",
+  "subject": "government",
+  "year": 1990,
+  "number": 38,
+  "question": "Indirect election was first introduced in Nigeria by the",
+  "options": {
+   "A": "Lyttleton Constitution",
+   "B": "Macpherson constitu tions C. Richards Constitutions",
+   "D": "Clifford consititution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-39",
+  "subject": "government",
+  "year": 1990,
+  "number": 39,
+  "question": "The motion of self government was moved in 1953 bythe",
+  "options": {
+   "A": "Northern People’s Congress",
+   "B": "Action Group",
+   "C": "National Council of Nigerian and the Cameroon",
+   "D": "Northern Elements Progressive Union"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-40",
+  "subject": "government",
+  "year": 1990,
+  "number": 40,
+  "question": "Which of the following had a centralized administra tion in pre-colonial Nigeria?",
+  "options": {
+   "A": "The Igbos",
+   "B": "The Tivs",
+   "C": "The Ibibios",
+   "D": "The Yorubas."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-41",
+  "subject": "government",
+  "year": 1990,
+  "number": 41,
+  "question": "In which of the following states was the governor impeached during the second republic?",
+  "options": {
+   "A": "Borno",
+   "B": "Bendel",
+   "C": "Kaduna",
+   "D": "Anambra"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-42",
+  "subject": "government",
+  "year": 1990,
+  "number": 42,
+  "question": "The ECOWAS trade liberalization programme excluded trade in",
+  "options": {
+   "A": "unprocessed goods",
+   "B": "crude oil",
+   "C": "traditional crafts",
+   "D": "Industrial products"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-43",
+  "subject": "government",
+  "year": 1990,
+  "number": 43,
+  "question": "The Economic Commission for Africa is an agency of",
+  "options": {
+   "A": "The OAU",
+   "B": "ECOWAS",
+   "C": "The E.E.C.",
+   "D": "The U.N.O. 44 Which of the following pairs of countries were trust territories of the United Nations"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-45",
+  "subject": "government",
+  "year": 1990,
+  "number": 45,
+  "question": "The headquarters of the O.A.U. Liberation Committee is located in",
+  "options": {
+   "A": "Lagos",
+   "B": "Addis ABaba",
+   "C": "Dar-es-Salam",
+   "D": "Harare"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-46",
+  "subject": "government",
+  "year": 1990,
+  "number": 46,
+  "question": "Which of the following groups advocated for political union of Africa States?",
+  "options": {
+   "A": "The Congo Group",
+   "B": "The BrazzavilleGroup",
+   "C": "The Casablanca Group",
+   "D": "Th e Monrovia Group"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-47",
+  "subject": "government",
+  "year": 1990,
+  "number": 47,
+  "question": "Nigeria’s first external affairs minister was",
+  "options": {
+   "A": "Alhaji Nuhu Ramali",
+   "B": "Prof. Ishaya Audu",
+   "C": "Dr. Okoi Arikpo",
+   "D": "Jaja Wachukwu"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-48",
+  "subject": "government",
+  "year": 1990,
+  "number": 48,
+  "question": "The first conference of the Non-Aligned Movement was held in",
+  "options": {
+   "A": "Belgrade",
+   "B": "Bandung",
+   "C": "Havana D.Harare"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-49",
+  "subject": "government",
+  "year": 1990,
+  "number": 49,
+  "question": "Which of these countries is NOT a member of the Commonwealth of Nations?",
+  "options": {
+   "A": "Papua New Guinea",
+   "B": "Sri-Lanka",
+   "C": "Grenada",
+   "D": "Ruwanda"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-50",
+  "subject": "government",
+  "year": 1990,
+  "number": 50,
+  "question": "In international relations, countries have a right to",
+  "options": {
+   "A": "export oil",
+   "B": "create more states",
+   "C": "diplomatic immunity of their envoys",
+   "D": "own a police force."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

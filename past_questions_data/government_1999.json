@@ -1,0 +1,897 @@
+[
+ {
+  "id": "government-1999-1",
+  "subject": "government",
+  "year": 1999,
+  "number": 1,
+  "question": "In a federal state, power is shared",
+  "options": {
+   "A": "between the central government and the local authorities",
+   "B": "among the states of the federation",
+   "C": "among the major regions of the country",
+   "D": "between the central government and other co-ordicnate units"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-2",
+  "subject": "government",
+  "year": 1999,
+  "number": 2,
+  "question": "In a federal system of government the centre is",
+  "options": {
+   "A": "superior to the other components",
+   "B": "inferior to the other components",
+   "C": "equal to the other components",
+   "D": "of-unlimited jurisdiction"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-3",
+  "subject": "government",
+  "year": 1999,
+  "number": 3,
+  "question": "In a presidential system of government, ministers are",
+  "options": {
+   "A": "individually responsible to the president",
+   "B": "individually responsible to the senate",
+   "C": "collectively responsible to the president",
+   "D": "collectively responsible to the electorate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-4",
+  "subject": "government",
+  "year": 1999,
+  "number": 4,
+  "question": "The principle of collective responsibility implies that",
+  "options": {
+   "A": "individual views cannot be expressed",
+   "B": "decisions taken are defended in spite of individual opinions",
+   "C": "those who hold different views must acquiesce",
+   "D": "government cannot be personalized"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-5",
+  "subject": "government",
+  "year": 1999,
+  "number": 5,
+  "question": "A government controlled by a few people for their own interests is said to be",
+  "options": {
+   "A": "an autocracy",
+   "B": "a tyranny",
+   "C": "an oligarchy",
+   "D": "a meritocracy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-6",
+  "subject": "government",
+  "year": 1999,
+  "number": 6,
+  "question": "In the parliamentary system of government, formal legislation can take the following forms except",
+  "options": {
+   "A": "royal proclamations",
+   "B": "order in council",
+   "C": "acts of parliament",
+   "D": "ministerial pronouncement"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-7",
+  "subject": "government",
+  "year": 1999,
+  "number": 7,
+  "question": "One of the distinctive features of democracy is that it",
+  "options": {
+   "A": "connotes civil rule",
+   "B": "facilitates popular participation",
+   "C": "provides for a unicameral legislature",
+   "D": "is not associated with one party system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-8",
+  "subject": "government",
+  "year": 1999,
+  "number": 8,
+  "question": "A hereditary system of government is",
+  "options": {
+   "A": "an oligarchy",
+   "B": "a gerontocracy",
+   "C": "an aristocracy",
+   "D": "a monarchy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-9",
+  "subject": "government",
+  "year": 1999,
+  "number": 9,
+  "question": "The separation of judicial, legislative and executive functions is designed to",
+  "options": {
+   "A": "promote freedom",
+   "B": "prevent tyranny",
+   "C": "promote peace",
+   "D": "prevent anarchy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-10",
+  "subject": "government",
+  "year": 1999,
+  "number": 10,
+  "question": "Bicameral legislatures are a common feature of",
+  "options": {
+   "A": "monarchical systems",
+   "B": "confederal systems",
+   "C": "federal systems",
+   "D": "unitary systems"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-11",
+  "subject": "government",
+  "year": 1999,
+  "number": 11,
+  "question": "In a federal constitutional legislative powers that are",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-12",
+  "subject": "government",
+  "year": 1999,
+  "number": 12,
+  "question": "The most important function of the executive organ of government is to",
+  "options": {
+   "A": "formulate policies",
+   "B": "give assent to bills",
+   "C": "control foreign policy",
+   "D": "enforce laws"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-13",
+  "subject": "government",
+  "year": 1999,
+  "number": 13,
+  "question": "The process of learning the norms and values associated with a political system is referred to as political",
+  "options": {
+   "A": "socialization",
+   "B": "indoctrination",
+   "C": "culture",
+   "D": "participation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-14",
+  "subject": "government",
+  "year": 1999,
+  "number": 14,
+  "question": "Which of the following best decribes the role of the civil service?",
+  "options": {
+   "A": "promoting the interest of civil servants",
+   "B": "advising government and implementing its policies",
+   "C": "keeping records for government",
+   "D": "providing information on government and its agencies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-15",
+  "subject": "government",
+  "year": 1999,
+  "number": 15,
+  "question": "One instrument for safeguarding the rights of citizen is",
+  "options": {
+   "A": "judicial interpretation",
+   "B": "presidential pardon",
+   "C": "legislative intervention D. writ of habeas corpus"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-16",
+  "subject": "government",
+  "year": 1999,
+  "number": 16,
+  "question": "Legislative control over delegated legislation can be performed through",
+  "options": {
+   "A": "withdrawal of delegated powers by the judiciary",
+   "B": "nulification of unconstitutional legislation",
+   "C": "investigation into the exercise of delegated power",
+   "D": "approval of legislation by the Chief Justice"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-17",
+  "subject": "government",
+  "year": 1999,
+  "number": 17,
+  "question": "The feature which best differentiates pressure groups from political parties is that they do not",
+  "options": {
+   "A": "have interest in politics",
+   "B": "seek to influence public opinion",
+   "C": "have permanent organization",
+   "D": "nominate ministers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-18",
+  "subject": "government",
+  "year": 1999,
+  "number": 18,
+  "question": "The notion of equality before the law is the same as the principle of",
+  "options": {
+   "A": "supremacy of the constitution",
+   "B": "rule of law",
+   "C": "independence of the judiciary",
+   "D": "social equality"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-19",
+  "subject": "government",
+  "year": 1999,
+  "number": 19,
+  "question": "A constitution is classified as unwritten when it",
+  "options": {
+   "A": "does not emanate from the legislature",
+   "B": "provides for separation to powers",
+   "C": "originates from Britain",
+   "D": "is not cotained in any single document"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-20",
+  "subject": "government",
+  "year": 1999,
+  "number": 20,
+  "question": "A state is said to be fascist when",
+  "options": {
+   "A": "its leader is patriotic but the citizen are not",
+   "B": "all rights all liberties are subordinated to"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-21",
+  "subject": "government",
+  "year": 1999,
+  "number": 21,
+  "question": "A dominant two-party system is operated in",
+  "options": {
+   "A": "the United Kingdom and the United States",
+   "B": "India and Pakistan",
+   "C": "France and Germany",
+   "D": "South Africa and Senegal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-22",
+  "subject": "government",
+  "year": 1999,
+  "number": 22,
+  "question": "Indirect legislation can be achieved by",
+  "options": {
+   "A": "judicial interpretation and precedent",
+   "B": "passing of bills and making of decrees",
+   "C": "passing a private member’s bill",
+   "D": "the two legislative chambers considering a bill"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-23",
+  "subject": "government",
+  "year": 1999,
+  "number": 23,
+  "question": "Naturalization is a process of acquiring citizenship by",
+  "options": {
+   "A": "persons of dual nationality",
+   "B": "foreign visitors to a country",
+   "C": "resident foreigners of good character",
+   "D": "persons born abroad"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-24",
+  "subject": "government",
+  "year": 1999,
+  "number": 24,
+  "question": "The ideology which states that each person is the best judge of what is in his self-interest is",
+  "options": {
+   "A": "liberalism",
+   "B": "socialism",
+   "C": "fascism",
+   "D": "feudalism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-25",
+  "subject": "government",
+  "year": 1999,
+  "number": 25,
+  "question": "The Code of Conduct Bureau was established essen tially to",
+  "options": {
+   "A": "ensure the independence of the public service",
+   "B": "enhance probity and accountability in public service C. protect the right of the public",
+   "D": "reduce corruption in public life"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-26",
+  "subject": "government",
+  "year": 1999,
+  "number": 26,
+  "question": "The British government revoked the charter of the Royal Niger Company and took over the administra tion of Nigeria in",
+  "options": {
+   "A": "1861",
+   "B": "1885",
+   "C": "1900",
+   "D": "1914"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-27",
+  "subject": "government",
+  "year": 1999,
+  "number": 27,
+  "question": "The Independence Constitution can be described as",
+  "options": {
+   "A": "monarchical and presidental",
+   "B": "republican and parliamentary",
+   "C": "monarchical and parliamentay D federal and republican"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-28",
+  "subject": "government",
+  "year": 1999,
+  "number": 28,
+  "question": "Which of the following parties formed the opposition in the House of Representatives during Nigeria’s First Republic?",
+  "options": {
+   "A": "AG and UMBC",
+   "B": "NCNC and NEPU",
+   "C": "NPC and NNDP",
+   "D": "NCNC and AG"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-29",
+  "subject": "government",
+  "year": 1999,
+  "number": 29,
+  "question": "Thefirst Head of Government in independent Nigeria was",
+  "options": {
+   "A": "Nnamdi Azikiwe",
+   "B": "Ahmadu Bello",
+   "C": "Tafawa Balewa",
+   "D": "Herbert Macaulay"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-30",
+  "subject": "government",
+  "year": 1999,
+  "number": 30,
+  "question": "A feature common to the 1963, 1979 and 1989 consti tutions of Nigeria was that they provided for a",
+  "options": {
+   "A": "republican system",
+   "B": "Prime Minister",
+   "C": "ceremonial head of states",
+   "D": "president as head of government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-31",
+  "subject": "government",
+  "year": 1999,
+  "number": 31,
+  "question": "The Lagos colony and Protectorate was amalgamated",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-32",
+  "subject": "government",
+  "year": 1999,
+  "number": 32,
+  "question": "During the 1957 constitutional conference, the Willink Commission was set up to",
+  "options": {
+   "A": "recommend a date for independence",
+   "B": "suggest an equitable revenue allocation formula",
+   "C": "create new regions in Nigeria",
+   "D": "recommend solutions to the problem of the minorities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-33",
+  "subject": "government",
+  "year": 1999,
+  "number": 33,
+  "question": "The duty of an Alkali under the Hausa-Fulani political system is to",
+  "options": {
+   "A": "adjudicate under islamic laws",
+   "B": "make islamic laws",
+   "C": "execute islamic laws",
+   "D": "make treaties under Islamic laws"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-34",
+  "subject": "government",
+  "year": 1999,
+  "number": 34,
+  "question": "The motion for self-government in Nigeria proposed by Chief Anthony Enahoro in",
+  "options": {
+   "A": "1950",
+   "B": "1953",
+   "C": "1956",
+   "D": "1958"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-35",
+  "subject": "government",
+  "year": 1999,
+  "number": 35,
+  "question": "The legislative functions of the government of Benin kingdom were performed by the Oba and a council of chiefs known as",
+  "options": {
+   "A": "Esama",
+   "B": "Ndichie",
+   "C": "Uzama",
+   "D": "Enogie"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-36",
+  "subject": "government",
+  "year": 1999,
+  "number": 36,
+  "question": "The highest ruling body under the Murtala/Obasanjo regime differed remarkably from that of the Gowon Administration because of the",
+  "options": {
+   "A": "inclusion of civilians as members",
+   "B": "exclusion of military governors from the council",
+   "C": "inclusion of the Chief Justice as a member",
+   "D": "exclusion of the Inspector General of Police from the council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-37",
+  "subject": "government",
+  "year": 1999,
+  "number": 37,
+  "question": "Decree No34 of May 1966 is also known as the",
+  "options": {
+   "A": "State Security Decree",
+   "B": "Suspension and Modification Decree",
+   "C": "Public Order Decreee",
+   "D": "Unification decree"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-38",
+  "subject": "government",
+  "year": 1999,
+  "number": 38,
+  "question": "In 1979, the Unity Party of Nigeria contested and won gubernational elections in",
+  "options": {
+   "A": "Lagos, Ogun, Imo, Oyo and Bendel",
+   "B": "Lagos, Kwara, Oyo, Ogun and Benue",
+   "C": "Lagos Ogun, Oyo, Ondo and Bendel",
+   "D": "Lagos, Kwara, Ogun, Oyo and Ondo"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-39",
+  "subject": "government",
+  "year": 1999,
+  "number": 39,
+  "question": "Rates are usually collected in Nigeria by",
+  "options": {
+   "A": "minister of commerce in the states",
+   "B": "local government councils",
+   "C": "the department of inland revenue",
+   "D": "the traditional rulers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-40",
+  "subject": "government",
+  "year": 1999,
+  "number": 40,
+  "question": "One of the main reason for the creation of more local goverments in Nigeria is to",
+  "options": {
+   "A": "make them more responsive to people’s needs",
+   "B": "weaken the powers of traditional authorities",
+   "C": "make them morereceptive to traditional rulers",
+   "D": "establish them as the third tier in the federal structure"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-42",
+  "subject": "government",
+  "year": 1999,
+  "number": 42,
+  "question": "Nigeria’s role in ECOMOG isessentiallyinformed byher",
+  "options": {
+   "A": "desire for peace and stability",
+   "B": "chairmanship of ECOWAS",
+   "C": "desire to establish democracy",
+   "D": "membership of ECOWAS"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-43",
+  "subject": "government",
+  "year": 1999,
+  "number": 43,
+  "question": "The annual budget of the OAU is approved by the",
+  "options": {
+   "A": "council of ministers",
+   "B": "secretary general",
+   "C": "assembly of heads of state and government",
+   "D": "General assembly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-44",
+  "subject": "government",
+  "year": 1999,
+  "number": 44,
+  "question": "The major strategy used by OPEC to influence oil price is by",
+  "options": {
+   "A": "allocating production quotas to members B influencing buyers at the international market to buy at high price",
+   "C": "allowing member countries to produce at their discretion",
+   "D": "increasing the supply of the commodity"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-45",
+  "subject": "government",
+  "year": 1999,
+  "number": 45,
+  "question": "Nigeria was suspended from the Commonwealth because of her",
+  "options": {
+   "A": "tacit approval of military dictatorship",
+   "B": "negative position towards other nations",
+   "C": "complete negligence of freedom of the press",
+   "D": "violation of fundamental human rights"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-46",
+  "subject": "government",
+  "year": 1999,
+  "number": 46,
+  "question": "Nigeria’s non aligned policy means that she will",
+  "options": {
+   "A": "have nothing to do with the super-powers",
+   "B": "not take sides in international issues based on ideological considerations",
+   "C": "avoid having any dealing with any country with ideological leanings",
+   "D": "relate only with member countries of the Non-Aligned Movement"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-47",
+  "subject": "government",
+  "year": 1999,
+  "number": 47,
+  "question": "One of the underlying principles of Nigerian foreign policy is",
+  "options": {
+   "A": "encouragement of peace keeping operations in African B. interference in the internal activities of other countries",
+   "C": "non- commitment towards African unity",
+   "D": "respect for sovereign equality of all states"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-48",
+  "subject": "government",
+  "year": 1999,
+  "number": 48,
+  "question": "Before a new member is admitted to the United Nations Organization, its application much be approved by all",
+  "options": {
+   "A": "permanent members of the Security Council",
+   "B": "members of the General Assembly",
+   "C": "members of the Economic and Social Council",
+   "D": "members of the International Court of Justice"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-49",
+  "subject": "government",
+  "year": 1999,
+  "number": 49,
+  "question": "Which of the following international organizations was in existence before the outbreak of the Second World War?",
+  "options": {
+   "A": "the OAU",
+   "B": "The League Nations",
+   "C": "The UNO",
+   "D": "The ECOWAS 50 The organ of the United Nation Organization respon sible for the former colonies of defeated world war ii powers is the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,922 @@
+[
+ {
+  "id": "government-2001-1",
+  "subject": "government",
+  "year": 2001,
+  "number": 1,
+  "question": "Power differs from influence in that it is",
+  "options": {
+   "A": "persuasive while influence is directive",
+   "B": "coercive while influence is harmful",
+   "C": "coercive while influence is persuasive",
+   "D": "arrogant while influence is corruptible"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-2",
+  "subject": "government",
+  "year": 2001,
+  "number": 2,
+  "question": "The standing committee of legislature is one",
+  "options": {
+   "A": "whose members stand while deliberating",
+   "B": "that has statutory responsibilities",
+   "C": "that performs ad hoc functions",
+   "D": "that has all legislators as members"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-3",
+  "subject": "government",
+  "year": 2001,
+  "number": 3,
+  "question": "Where the constitution is supreme, unconstitutional facts of the executive and the legislature can be hecked by the courts through",
+  "options": {
+   "A": "recall",
+   "B": "judicial review",
+   "C": "vote of no confidence",
+   "D": "impeachment"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-4",
+  "subject": "government",
+  "year": 2001,
+  "number": 4,
+  "question": "The central decision-making organ of a confederation is made up of",
+  "options": {
+   "A": "technocrats appointed by the units",
+   "B": "politicians elected from the confederal constituencies",
+   "C": "politicians nominated by governments of member states",
+   "D": "representatives of pressure groups"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-5",
+  "subject": "government",
+  "year": 2001,
+  "number": 5,
+  "question": "Which of the following is true of a parliamentary system of government?",
+  "options": {
+   "A": "clear separation of government organs",
+   "B": "strict operation of bicamerals legislature",
+   "C": "removal of government by impeachment",
+   "D": "Adherence to majority rule"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-6",
+  "subject": "government",
+  "year": 2001,
+  "number": 6,
+  "question": "Amajor feature of authoritarianism is that government is",
+  "options": {
+   "A": "consensual",
+   "B": "personalized",
+   "C": "centralized",
+   "D": "decentralized"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-7",
+  "subject": "government",
+  "year": 2001,
+  "number": 7,
+  "question": "The central point of capitalism, as expounded by Karl Marx, is that",
+  "options": {
+   "A": "capitalists’ profit is the surplus value obtained from workers labour",
+   "B": "workers are inherently incapable of being owners of their labour",
+   "C": "capitalists shall always increase workers earning capacity through wages",
+   "D": "capitalists shall always readily consent to workers’ welfare demands"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-8",
+  "subject": "government",
+  "year": 2001,
+  "number": 8,
+  "question": "A constitution that requires a plebiscite or a referendum to be amended is",
+  "options": {
+   "A": "rigid",
+   "B": "unwritten",
+   "C": "flexible",
+   "D": "written"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-9",
+  "subject": "government",
+  "year": 2001,
+  "number": 9,
+  "question": "An important function of a constitution is that it",
+  "options": {
+   "A": "provides a framework for the study of",
+   "C": "serves as the fountain head of authority for the exercise of power",
+   "D": "promotes citizen participation in government and administration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-10",
+  "subject": "government",
+  "year": 2001,
+  "number": 10,
+  "question": "When a bill passed by the legislature is vetoed by the executive, the action underscores the principle of",
+  "options": {
+   "A": "probity and accountability",
+   "B": "separation of power",
+   "C": "collective responsibility",
+   "D": "checks and balances"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-11",
+  "subject": "government",
+  "year": 2001,
+  "number": 11,
+  "question": "In the legislative process, a bill is a",
+  "options": {
+   "A": "motion accepted for debate",
+   "B": "motion rejected after debate",
+   "C": "proposal before the legislature",
+   "D": "law passed by the legislature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-12",
+  "subject": "government",
+  "year": 2001,
+  "number": 12,
+  "question": "One of the advantages of bicameral over unicameral legislature is that it",
+  "options": {
+   "A": "is cheap to maintain",
+   "B": "promotes social equality",
+   "C": "takes less time for bills to be passed",
+   "D": "prevents the passage of ill-considered bills"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-13",
+  "subject": "government",
+  "year": 2001,
+  "number": 13,
+  "question": "The fundamental rights of citizens include rights to",
+  "options": {
+   "A": "free education, employment and freedom of thought",
+   "B": "life, speech and association",
+   "C": "life, liberty and property",
+   "D": "association, property and social security"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-14",
+  "subject": "government",
+  "year": 2001,
+  "number": 14,
+  "question": "The manipulation of boundaries of constituencies in order to win more seats is called",
+  "options": {
+   "A": "devolution",
+   "B": "rigging",
+   "C": "gerry-mandering",
+   "D": "delimitaion"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-15",
+  "subject": "government",
+  "year": 2001,
+  "number": 15,
+  "question": "One argument against a multi-party system is the",
+  "options": {
+   "A": "encouragement of opposition and instability",
+   "B": "banning of interest groups",
+   "C": "inability to attract foreign assistance",
+   "D": "high cost of conducting elections."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-16",
+  "subject": "government",
+  "year": 2001,
+  "number": 16,
+  "question": "Associational interest groups are organized to",
+  "options": {
+   "A": "further the interests of members",
+   "B": "specifically lobby the government",
+   "C": "support the government",
+   "D": "achieve goals affecting other associations"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-17",
+  "subject": "government",
+  "year": 2001,
+  "number": 17,
+  "question": "Public opinion is view that is",
+  "options": {
+   "A": "held by the majority",
+   "B": "active in the public realm",
+   "C": "widely publicized",
+   "D": "no longer a secret"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-18",
+  "subject": "government",
+  "year": 2001,
+  "number": 18,
+  "question": "Thepolitical neutrality of civil servants implies that they",
+  "options": {
+   "A": "are not allowed to join any organization or group"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-19",
+  "subject": "government",
+  "year": 2001,
+  "number": 19,
+  "question": "The idea of making the civil service permanent, neutral and anonymous is to",
+  "options": {
+   "A": "enhance efficiency in administration",
+   "B": "ensure loyalty and support",
+   "C": "prevent opposition to government",
+   "D": "make civil servants a funtional elite."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-20",
+  "subject": "government",
+  "year": 2001,
+  "number": 20,
+  "question": "The western zone of the Sokoto caliphate was administered from",
+  "options": {
+   "A": "Kebbi",
+   "B": "Ilorin",
+   "C": "Bida",
+   "D": "Gwandu"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-21",
+  "subject": "government",
+  "year": 2001,
+  "number": 21,
+  "question": "Some pre-colonial Nigerian societies are described as, stateless because",
+  "options": {
+   "A": "they had no formal governmental institutions",
+   "B": "they had no definite political boundaries",
+   "C": "their population was too small",
+   "D": "they were not independent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-22",
+  "subject": "government",
+  "year": 2001,
+  "number": 22,
+  "question": "The method used by the British to facilitates the administration of Southern Nigeria was",
+  "options": {
+   "A": "persuasion",
+   "B": "dialogue",
+   "C": "divide and rule",
+   "D": "trade concession"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-23",
+  "subject": "government",
+  "year": 2001,
+  "number": 23,
+  "question": "A major function of the Warrant chiefs was to",
+  "options": {
+   "A": "prevent tribal wars",
+   "B": "supervise native courts and markets",
+   "C": "stop ritual killings",
+   "D": "take charge of local government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-24",
+  "subject": "government",
+  "year": 2001,
+  "number": 24,
+  "question": "After 1945, the demand of African nationalists changed from reform to independence because",
+  "options": {
+   "A": "colonial rule became less opperessive",
+   "B": "colonial rule was in disarray",
+   "C": "the second world war boosted their morale",
+   "D": "the second world war enhanced colonial rule"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-25",
+  "subject": "government",
+  "year": 2001,
+  "number": 25,
+  "question": "When Nigeria achieved independence in 1960, the Head of State was the",
+  "options": {
+   "A": "President",
+   "B": "Prime minister",
+   "C": "Governor-General",
+   "D": "Queen of England"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-26",
+  "subject": "government",
+  "year": 2001,
+  "number": 26,
+  "question": "The central legislature of Nigeria became bicameral in",
+  "options": {
+   "A": "1945",
+   "B": "1951",
+   "C": "1959",
+   "D": "1963"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-27",
+  "subject": "government",
+  "year": 2001,
+  "number": 27,
+  "question": "Which of these constitution, recognized local government as a third tier of government in Nigeria?",
+  "options": {
+   "A": "1946 constitution",
+   "B": "1960 constitution",
+   "C": "1963 constitution",
+   "D": "1979 constitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-28",
+  "subject": "government",
+  "year": 2001,
+  "number": 28,
+  "question": "Under the 1963 constitution, item not listed in the exclusive and concurrent lists were within the exclusive competence of the",
+  "options": {
+   "A": "Executive",
+   "B": "Federal parliaments",
+   "C": "Regional legislature",
+   "D": "Judiciary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-29",
+  "subject": "government",
+  "year": 2001,
+  "number": 29,
+  "question": "Before Nigeria became a republic, the highest body charged with the administration of justice was the",
+  "options": {
+   "A": "Privy Council",
+   "B": "High Court"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-30",
+  "subject": "government",
+  "year": 2001,
+  "number": 30,
+  "question": "The equivalent of a commissioner at the local government level is the",
+  "options": {
+   "A": "executive chairman",
+   "B": "secretary",
+   "C": "councilor",
+   "D": "supervisory councillor"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-31",
+  "subject": "government",
+  "year": 2001,
+  "number": 31,
+  "question": "The Independent National Electoral Commission has the power to prepare and maintain the register of",
+  "options": {
+   "A": "political parties",
+   "B": "constituencies",
+   "C": "voters",
+   "D": "electoral candidates"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-32",
+  "subject": "government",
+  "year": 2001,
+  "number": 32,
+  "question": "The President of Nigeria is advised on the sover eignty and territorial integrity of the country by the",
+  "options": {
+   "A": "National Security Council",
+   "B": "National Defence Council",
+   "C": "Council of State",
+   "D": "Federal Executive Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-33",
+  "subject": "government",
+  "year": 2001,
+  "number": 33,
+  "question": "The Nigeria Youth Movement collapsed as a result of",
+  "options": {
+   "A": "its failure to win election",
+   "B": "shortage of funds to run its affairs",
+   "C": "the harassments of its leadership by government D. the breakup of its leadership"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-34",
+  "subject": "government",
+  "year": 2001,
+  "number": 34,
+  "question": "The first restructuring of the Nigeria Federation took place with the",
+  "options": {
+   "A": "creation of the Mid-West Region in 1963",
+   "B": "abolition of federalism in 1966",
+   "C": "military counter-coup of 1966",
+   "D": "creation of state in 1967"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-35",
+  "subject": "government",
+  "year": 2001,
+  "number": 35,
+  "question": "The land use decree of 1978 vested the ownership of land in Nigeria in the",
+  "options": {
+   "A": "local chiefs",
+   "B": "local governments",
+   "C": "state governments",
+   "D": "federal government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-36",
+  "subject": "government",
+  "year": 2001,
+  "number": 36,
+  "question": "The main source of financing local government in Nigeria is",
+  "options": {
+   "A": "internal revenue generation",
+   "B": "statutory revenue allocation",
+   "C": "special state grants",
+   "D": "grants-in-aid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-37",
+  "subject": "government",
+  "year": 2001,
+  "number": 37,
+  "question": "The most remarkable legacy of the 1976 Local Govern ment Reforming Nigeria was the introduction of",
+  "options": {
+   "A": "the office of sole administrators",
+   "B": "caretaker management commitees",
+   "C": "uniformity in structure and functions",
+   "D": "the third tier of government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-38",
+  "subject": "government",
+  "year": 2001,
+  "number": 38,
+  "question": "The Murtala/Obasanjo regime in Nigeria increased the number of states from",
+  "options": {
+   "A": "4 to 12",
+   "B": "12 to 19",
+   "C": "19 to 21",
+   "D": "30 to 36"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-39",
+  "subject": "government",
+  "year": 2001,
+  "number": 39,
+  "question": "A major factor that influenced the formulation of Nigeria foreign policy in the First Republic was",
+  "options": {
+   "A": "geographical location",
+   "B": "the colonial legacy C. economic consideration",
+   "D": "the parliamentary system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-40",
+  "subject": "government",
+  "year": 2001,
+  "number": 40,
+  "question": "Nigeria departure from pro-west policy during the Murtala Muhammed regime was as a result of",
+  "options": {
+   "A": "the economic interests of the west in Nigeria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-41",
+  "subject": "government",
+  "year": 2001,
+  "number": 41,
+  "question": "During the Civil War, the major power that expressed moral support for Biafra’s self-determination was",
+  "options": {
+   "A": "France",
+   "B": "China",
+   "C": "the United States",
+   "D": "Great Britain"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-42",
+  "subject": "government",
+  "year": 2001,
+  "number": 42,
+  "question": "The Barclays Bank and the British Petroleum Com pany in Nigeria were nationalized in the late 1970s for transacting business with",
+  "options": {
+   "A": "France",
+   "B": "South Africa",
+   "C": "Portugal",
+   "D": "Libya"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-43",
+  "subject": "government",
+  "year": 2001,
+  "number": 43,
+  "question": "South-South cooperation is a major policy plan on which Nigeria bases her relations with",
+  "options": {
+   "A": "developed countries",
+   "B": "countries of the southern hemisphere",
+   "C": "developing countries",
+   "D": "member countries of OAU"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-44",
+  "subject": "government",
+  "year": 2001,
+  "number": 44,
+  "question": "Nigeria’s recongnition of the Popular Movement for the Liberation of Angola to lead the country was made under",
+  "options": {
+   "A": "General Yakubu Gowon",
+   "B": "General Murtala Muhammed",
+   "C": "General Muhammadu Buhari",
+   "D": "General Ibrahim Babangida"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-45",
+  "subject": "government",
+  "year": 2001,
+  "number": 45,
+  "question": "The first Nigeria permanent Representative to the United Nation was",
+  "options": {
+   "A": "Alhaji Yusuf Maitama Sule",
+   "B": "General Joseph Garba",
+   "C": "Professor Ibrahim Gambari",
+   "D": "Chief Simeon Adebo"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-46",
+  "subject": "government",
+  "year": 2001,
+  "number": 46,
+  "question": "In 1981, Nigeria participated in an Organization of African Unity peace-keeping force to replace Libyan force in",
+  "options": {
+   "A": "Somalia",
+   "B": "Chad",
+   "C": "Ethiopia",
+   "D": "Zaire"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-47",
+  "subject": "government",
+  "year": 2001,
+  "number": 47,
+  "question": "Nigeria’s withdrawal from the Edinburgh Common wealth Games in July 1986 wasin protest against British",
+  "options": {
+   "A": "support to UNITA rebels in Angola",
+   "B": "supply of arms to Rhodesia",
+   "C": "failure to impose sanctions on South Africa",
+   "D": "negative utterances on Nigeria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-48",
+  "subject": "government",
+  "year": 2001,
+  "number": 48,
+  "question": "The major demand of the Third world countries on the United Nations in the recent times is the",
+  "options": {
+   "A": "expansion of the permanent membership of the Security Council",
+   "B": "post of the Secretary-General ofthe organization",
+   "C": "withdrawal of the veto power from the Security council",
+   "D": "enforcement of resolutions on the superpowers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-49",
+  "subject": "government",
+  "year": 2001,
+  "number": 49,
+  "question": "Which of the following is the function of the Council of Ministers of the O.A.U.?",
+  "options": {
+   "A": "Co-ordinating the general policy of the organization",
+   "B": "Directing thefinances of the organization",
+   "C": "Preparing the agenda of the organization’s meetings",
+   "D": "Reviewing the functions and activities of other organs of the organization. 50 The Economic Community of West African States has made impressive progress in the area of"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

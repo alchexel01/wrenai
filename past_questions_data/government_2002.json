@@ -1,0 +1,843 @@
+[
+ {
+  "id": "government-2002-1",
+  "subject": "government",
+  "year": 2002,
+  "number": 1,
+  "question": "Delegated legislation becomes unavoidable when",
+  "options": {
+   "A": "legislators cannot reach a consensus",
+   "B": "issues under consideration are personal",
+   "C": "issues under consideration are technical",
+   "D": "legislators have to proceed on a recess"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-2",
+  "subject": "government",
+  "year": 2002,
+  "number": 2,
+  "question": "One major disadvantage of public opinion is that",
+  "options": {
+   "A": "the critics of government policies are always harassed B. a vocal minority claims to represent the majority",
+   "C": "gossip and rumours thrive",
+   "D": "leaders are unnecessarilly criticized"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-3",
+  "subject": "government",
+  "year": 2002,
+  "number": 3,
+  "question": "Citizenship in a modern state expresses the status of a person who possesses",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-4",
+  "subject": "government",
+  "year": 2002,
+  "number": 4,
+  "question": "Communism is a system which recognizes",
+  "options": {
+   "A": "class stratification",
+   "B": "the existence of the state",
+   "C": "the existence of the individual",
+   "D": "the ability of the individual"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-5",
+  "subject": "government",
+  "year": 2002,
+  "number": 5,
+  "question": "The delineation of constituencies is a major duty of the",
+  "options": {
+   "A": "national assembly",
+   "B": "political parties",
+   "C": "boundary commission",
+   "D": "electoral commission"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-6",
+  "subject": "government",
+  "year": 2002,
+  "number": 6,
+  "question": "The structure of the civil service is based on",
+  "options": {
+   "A": "lateral organization",
+   "B": "merit system",
+   "C": "patronage system",
+   "D": "hierarchical organization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-8",
+  "subject": "government",
+  "year": 2002,
+  "number": 8,
+  "question": "To qualify for absorption into the administrative cadre of the civil service in Nigeria, an applicant must be",
+  "options": {
+   "A": "knowledgeable in civil service rules",
+   "B": "holder of a first university degree",
+   "C": "specifically trained in public administration",
+   "D": "a senior civil servant"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-9",
+  "subject": "government",
+  "year": 2002,
+  "number": 9,
+  "question": "The final interpretation of the provisions of a federal constitution is vested in the",
+  "options": {
+   "A": "head of state",
+   "B": "council of state",
+   "C": "highest legislative body",
+   "D": "highest court of the land."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-10",
+  "subject": "government",
+  "year": 2002,
+  "number": 10,
+  "question": "A major issue that distinguishes pressure groups from political parties is",
+  "options": {
+   "A": "membership drive",
+   "B": "the objective",
+   "C": "the voting pattern",
+   "D": "ideology"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-11",
+  "subject": "government",
+  "year": 2002,
+  "number": 11,
+  "question": "Proportional representation is a system of allocating seats in the legislature based on",
+  "options": {
+   "A": "gender participation in politics",
+   "B": "an area’s involvement in politics",
+   "C": "contribution to the national economy",
+   "D": "total votes in an election"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-12",
+  "subject": "government",
+  "year": 2002,
+  "number": 12,
+  "question": "The application of the principle of separation of powers seems impracticable because power is",
+  "options": {
+   "A": "delegated",
+   "B": "centralized",
+   "C": "fused",
+   "D": "separated"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-13",
+  "subject": "government",
+  "year": 2002,
+  "number": 13,
+  "question": "One major factor that differentiates the presidential from the parliamentary system is",
+  "options": {
+   "A": "separation of powers",
+   "B": "judicial independence C. passage of bills",
+   "D": "party system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-14",
+  "subject": "government",
+  "year": 2002,
+  "number": 14,
+  "question": "A major consequence of proportional representation is that it",
+  "options": {
+   "A": "reduces the chances of political instability",
+   "B": "favours the developements of a two-party system",
+   "C": "discourages voting along ethnic lines",
+   "D": "encourages the proliferation of parties"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-15",
+  "subject": "government",
+  "year": 2002,
+  "number": 15,
+  "question": "Oligarchy is a form of government which",
+  "options": {
+   "A": "enhances the interest of the ruling few",
+   "B": "enhances the electoral chances of the majority",
+   "C": "disregards the views of the minority",
+   "D": "protects the interest of the common people"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-16",
+  "subject": "government",
+  "year": 2002,
+  "number": 16,
+  "question": "The absence of the rule of law is government will bring about",
+  "options": {
+   "A": "human rights abuse",
+   "B": "treasonable offences C. corrupt practices",
+   "D": "political apathy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-18",
+  "subject": "government",
+  "year": 2002,
+  "number": 18,
+  "question": "A law passed by the legislature and assented to by the executive is",
+  "options": {
+   "A": "an act",
+   "B": "a presidential proclamation",
+   "C": "a decree",
+   "D": "a legislative order"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-19",
+  "subject": "government",
+  "year": 2002,
+  "number": 19,
+  "question": "One of the features of a sovereign state is that it",
+  "options": {
+   "A": "has the capacity to defend itself from external aggression",
+   "B": "has a large number of soldiers",
+   "C": "practices the presidential system of government",
+   "D": "is not indebted to other countries"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-20",
+  "subject": "government",
+  "year": 2002,
+  "number": 20,
+  "question": "A major way of maintaining confidence in the electoral process is by ensuring that",
+  "options": {
+   "A": "electoral officers are regularly trained",
+   "B": "elections are conducted in a free and fair atmosphere",
+   "C": "unlimited franchise is observed",
+   "D": "elections are conducted as and when due."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-21",
+  "subject": "government",
+  "year": 2002,
+  "number": 21,
+  "question": "The principle of checks and balances reinforces separation of power in order to",
+  "options": {
+   "A": "protect the powers of the executive",
+   "B": "make the legislature more powerful",
+   "C": "prevent an unconstitutional change of government",
+   "D": "prevent the emergence of dictatorship"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-22",
+  "subject": "government",
+  "year": 2002,
+  "number": 22,
+  "question": "Legislative control of public corporation in Nigeria is effected through",
+  "options": {
+   "A": "the dissolution of their managements",
+   "B": "the reorganization of their boards",
+   "C": "acts of the National Assembly",
+   "D": "bye-laws."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-23",
+  "subject": "government",
+  "year": 2002,
+  "number": 23,
+  "question": "The Ibadan Conference of 1950 was convened to discuss the provision of the",
+  "options": {
+   "A": "Macpherson Constitution",
+   "B": "Clifford Constitution",
+   "C": "Lyttelton Constitution",
+   "D": "Richards Constitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-24",
+  "subject": "government",
+  "year": 2002,
+  "number": 24,
+  "question": "The fees collected by local governments at motor parks represent",
+  "options": {
+   "A": "levies",
+   "B": "fines",
+   "C": "income tax",
+   "D": "user charge"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-25",
+  "subject": "government",
+  "year": 2002,
+  "number": 25,
+  "question": "The first Nigerian constitution to provide for the fundamental objectives and derivative principles of state policy was the",
+  "options": {
+   "A": "1979 Constitution",
+   "B": "1989 Constitution",
+   "C": "1999 Constitution",
+   "D": "1960 Constitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-26",
+  "subject": "government",
+  "year": 2002,
+  "number": 26,
+  "question": "Under the 1999 Constitution of Nigeria, the power to create local government is vested in the",
+  "options": {
+   "A": "state assembly",
+   "B": "office of the deputy governor C. presidency",
+   "D": "national assembly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-27",
+  "subject": "government",
+  "year": 2002,
+  "number": 27,
+  "question": "The body set up to review the revenue allocation",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-28",
+  "subject": "government",
+  "year": 2002,
+  "number": 28,
+  "question": "In pre-colonial Igbo society, decisions on public issues were reached mainly through",
+  "options": {
+   "A": "the oracles",
+   "B": "consensus",
+   "C": "imposition",
+   "D": "majority votes"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-29",
+  "subject": "government",
+  "year": 2002,
+  "number": 29,
+  "question": "The main duty of the Local Government Service Commission is to",
+  "options": {
+   "A": "supervise and manage the affairs of the local governments",
+   "B": "create job opportunities at the local level",
+   "C": "handle request for the creation of more local governments.",
+   "D": "conduct elections into local councils."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-30",
+  "subject": "government",
+  "year": 2002,
+  "number": 30,
+  "question": "The constitution that introduced restricted franchise into Nigeria politics was the",
+  "options": {
+   "A": "Independence Constitution",
+   "B": "Lyttelton Constitution",
+   "C": "Richard Constitution",
+   "D": "Clifford Constitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-31",
+  "subject": "government",
+  "year": 2002,
+  "number": 31,
+  "question": "In Nigeria, the Council of State was first created by",
+  "options": {
+   "A": "General Murtala Muhammed",
+   "B": "General Olusegun Obasanjo",
+   "C": "Major-General Aguyi Ironsi",
+   "D": "General Yakubu Gowon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-32",
+  "subject": "government",
+  "year": 2002,
+  "number": 32,
+  "question": "The leading agent in the expansion of British influ ence in Northern Nigeria in the 1890s was the",
+  "options": {
+   "A": "British Consul in Calabar",
+   "B": "Royal West African Frontier Force",
+   "C": "British Consul in Lagos",
+   "D": "Royal Nigeria Company."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-33",
+  "subject": "government",
+  "year": 2002,
+  "number": 33,
+  "question": "The two military coups that toppled Civilian regimes in Nigeria were those of",
+  "options": {
+   "A": "January 1996 and December 1983",
+   "B": "July 1966 and August 1985",
+   "C": "January 1966 and July 1975",
+   "D": "February 1966 and December 1983."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-34",
+  "subject": "government",
+  "year": 2002,
+  "number": 34,
+  "question": "The main function of the Code of Conduct Bureau is to",
+  "options": {
+   "A": "ensure accountability in government business",
+   "B": "give the judiciary more power to discipline e rring judge",
+   "C": "protect public officers from the press",
+   "D": "give the police more powers to make arrests."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-35",
+  "subject": "government",
+  "year": 2002,
+  "number": 35,
+  "question": "The emirate system ofadministration can be likened to a",
+  "options": {
+   "A": "confederal system of government",
+   "B": "unitary system of government",
+   "C": "federal system of government",
+   "D": "constitutional monarchy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-36",
+  "subject": "government",
+  "year": 2002,
+  "number": 36,
+  "question": "The abolition of the state ministries of local govern ment in 1989 entails that local governments",
+  "options": {
+   "A": "are equal to the states",
+   "B": "have more control over their funds",
+   "C": "no longer have anything to do with state governments 37 The main legislative body in Nigeria between 1966 and 1975 was the A Supreme Military Council",
+   "D": "National Security Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-38",
+  "subject": "government",
+  "year": 2002,
+  "number": 38,
+  "question": "Nigeria formally became a federation in",
+  "options": {
+   "A": "1960",
+   "B": "1963",
+   "C": "1914",
+   "D": "1946"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-39",
+  "subject": "government",
+  "year": 2002,
+  "number": 39,
+  "question": "The United Nations charter is an instrument that",
+  "options": {
+   "A": "sets out the rights and obligations of member states",
+   "B": "provides for funding of member states",
+   "C": "facilitates the resolution of disputes among member state",
+   "D": "determines the admission of member states."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-40",
+  "subject": "government",
+  "year": 2002,
+  "number": 40,
+  "question": "The most active organ of the Economic Community of West African states is the",
+  "options": {
+   "A": "Tribunal of the Community",
+   "B": "Technical and Specialized Community",
+   "C": "Authority of Heads of States and Government",
+   "D": "Council of Ministers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-41",
+  "subject": "government",
+  "year": 2002,
+  "number": 41,
+  "question": "The group of states that conceived the idea of the United Nation Organization included",
+  "options": {
+   "A": "the USSR, Italy, the UK and China",
+   "B": "Italy, the UK ,France and Japan",
+   "C": "the USA, the USSR, the UK and China",
+   "D": "France, the USA, Canada and Japan 42 The action of the Commonwealth of Nation’s is felt most in the area of"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-43",
+  "subject": "government",
+  "year": 2002,
+  "number": 43,
+  "question": "The greatest criticism of the Security Council of the UNO is that",
+  "options": {
+   "A": "has no standing army",
+   "B": "is not representative enough",
+   "C": "undermines the General Assembly",
+   "D": "has exclusive veto power."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-44",
+  "subject": "government",
+  "year": 2002,
+  "number": 44,
+  "question": "Which of the following is a founding member of OPEC?",
+  "options": {
+   "A": "Nigeria",
+   "B": "Indonesia",
+   "C": "Venezuela",
+   "D": "Algeria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-45",
+  "subject": "government",
+  "year": 2002,
+  "number": 45,
+  "question": "Professor Ibrahim Gambari is the Special Assistant to the United Nation Secretary General on",
+  "options": {
+   "A": "African affairs",
+   "B": "political and social matters",
+   "C": "the Economic Commission of Africa",
+   "D": "security matters"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-46",
+  "subject": "government",
+  "year": 2002,
+  "number": 46,
+  "question": "Who among the following served as Secretary General of OPEC?",
+  "options": {
+   "A": "Jibril Aminu",
+   "B": "Aret Adams",
+   "C": "Dan Etete",
+   "D": "Rilwanu Lukman"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-48",
+  "subject": "government",
+  "year": 2002,
+  "number": 48,
+  "question": "Which of these internatinal agencies is Nigeria a member of?",
+  "options": {
+   "A": "London Club",
+   "B": "The Infrastructural Development Fund",
+   "C": "The Paris Club",
+   "D": "The International Monetary Fund."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-49",
+  "subject": "government",
+  "year": 2002,
+  "number": 49,
+  "question": "Nigeria’s membership of the ECOWAS is informed by her desire to",
+  "options": {
+   "A": "develop a market in the sub-region",
+   "B": "form sub-regional high command",
+   "C": "become a sub-regional power",
+   "D": "promote economic integration"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-50",
+  "subject": "government",
+  "year": 2002,
+  "number": 50,
+  "question": "An attribute that Nigeria shares with most non- aligned countries is",
+  "options": {
+   "A": "her large population",
+   "B": "the state of her economy",
+   "C": "her heterogeneous population",
+   "D": "her large size."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

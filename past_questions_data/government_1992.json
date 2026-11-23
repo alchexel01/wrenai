@@ -1,0 +1,937 @@
+[
+ {
+  "id": "government-1992-1",
+  "subject": "government",
+  "year": 1992,
+  "number": 1,
+  "question": "A political authority which exercises sovereign power over a specific geographical area is termed a",
+  "options": {
+   "A": "nation",
+   "B": "state",
+   "C": "dominion",
+   "D": "leviathan"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-2",
+  "subject": "government",
+  "year": 1992,
+  "number": 2,
+  "question": "The process by which political beliefs and values are transmitted from one generation to another is best known as political",
+  "options": {
+   "A": "socialization",
+   "B": "culture",
+   "C": "training",
+   "D": "decentralization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-3",
+  "subject": "government",
+  "year": 1992,
+  "number": 3,
+  "question": "The fusion of the executive and legislative organs of government is associated with",
+  "options": {
+   "A": "monarch",
+   "B": "the presidential system",
+   "C": "fascism",
+   "D": "the parliamentary system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-4",
+  "subject": "government",
+  "year": 1992,
+  "number": 4,
+  "question": "One criticism of delegated legislation is that it",
+  "options": {
+   "A": "subjects citizens to executive decrees",
+   "B": "makes laws too flexible",
+   "C": "makes laws too technical",
+   "D": "is not useful in emergency situation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-5",
+  "subject": "government",
+  "year": 1992,
+  "number": 5,
+  "question": "A system of government in which the central government is supreme over other levels is",
+  "options": {
+   "A": "totalitarian",
+   "B": "confederal",
+   "C": "federal",
+   "D": "unitary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-6",
+  "subject": "government",
+  "year": 1992,
+  "number": 6,
+  "question": "Which of the following defines a constitution?",
+  "options": {
+   "A": "Anywritten legal document",
+   "B": "Basic laws for the conduct of modern government",
+   "C": "Rules adopted in legislative proceedings",
+   "D": "The doctrine that limits the powers of government."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-7",
+  "subject": "government",
+  "year": 1992,
+  "number": 7,
+  "question": "Which of the following ideologies advocates governmental control over all sources of powers?",
+  "options": {
+   "A": "Totalitarian",
+   "B": "Feudalism",
+   "C": "Liberation",
+   "D": "Democracy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-8",
+  "subject": "government",
+  "year": 1992,
+  "number": 8,
+  "question": "Which of the following is NOT an acceptable means of achieving democracy?",
+  "options": {
+   "A": "Referendum",
+   "B": "Recall",
+   "C": "Initiative",
+   "D": "Riots"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-9",
+  "subject": "government",
+  "year": 1992,
+  "number": 9,
+  "question": "In the cabinet system of government, individual responsibility of minsiters means that",
+  "options": {
+   "A": "only ministers canbeheld responsiblefor errors.",
+   "B": "a minister must hold his surbordinates responsbile for his failures",
+   "C": "theprime minister can removean erring minister",
+   "D": "no individual can be held responsible for government decisions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-10",
+  "subject": "government",
+  "year": 1992,
+  "number": 10,
+  "question": "The principle of collective responsibility does not operate under the presidential system of government because",
+  "options": {
+   "A": "cabinet members are responsible people",
+   "B": "the legislative and the executive work together"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-11",
+  "subject": "government",
+  "year": 1992,
+  "number": 11,
+  "question": "Law making under military is done through",
+  "options": {
+   "A": "delegated legislation",
+   "B": "administrative enactment C . the promulgation of decrees",
+   "D": "the Ministry of Justice"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-12",
+  "subject": "government",
+  "year": 1992,
+  "number": 12,
+  "question": "The most critical debates on a bill and ammendments to it take place during the",
+  "options": {
+   "A": "first reading",
+   "B": "second reading",
+   "C": "third reading",
+   "D": "assent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-13",
+  "subject": "government",
+  "year": 1992,
+  "number": 13,
+  "question": "The fundamental rights of citizens include",
+  "options": {
+   "A": "social security and free speech",
+   "B": "religious freedom and collective agression",
+   "C": "immunity from libel and right to employment",
+   "D": "right to life and liberty."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-14",
+  "subject": "government",
+  "year": 1992,
+  "number": 14,
+  "question": "Electoral colleges have been criticized because they",
+  "options": {
+   "A": "are very expensive",
+   "B": "create more seats in the legislature C. make the legislature too responsible D. sometimes negate the wishes of the electorate."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-15",
+  "subject": "government",
+  "year": 1992,
+  "number": 15,
+  "question": "Universal adult suffrage is usually restricted in most political systems to",
+  "options": {
+   "A": "those with landed property",
+   "B": "literates",
+   "C": "citizens",
+   "D": "those not more than 70 years old"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-16",
+  "subject": "government",
+  "year": 1992,
+  "number": 16,
+  "question": "An election in which citizens are called upon to vote f or or against a specified issue is called a",
+  "options": {
+   "A": "mandate",
+   "B": "referendum",
+   "C": "by-election",
+   "D": "run-off election"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-17",
+  "subject": "government",
+  "year": 1992,
+  "number": 17,
+  "question": "The most important objective of political parties is to",
+  "options": {
+   "A": "elect their spokesmen",
+   "B": "lobby the government",
+   "C": "form effective national organisations",
+   "D": "control the government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-18",
+  "subject": "government",
+  "year": 1992,
+  "number": 18,
+  "question": "The primary function of a pressure group is to",
+  "options": {
+   "A": "win and control governmental power",
+   "B": "elect their officials",
+   "C": "influence government policy",
+   "D": "organise workers to confront government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-19",
+  "subject": "government",
+  "year": 1992,
+  "number": 19,
+  "question": "The biased presentation of information in order influence public opinion is refered to as",
+  "options": {
+   "A": "mobilization",
+   "B": "propaganda",
+   "C": "indoctrination",
+   "D": "distortion"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-20",
+  "subject": "government",
+  "year": 1992,
+  "number": 20,
+  "question": "Which of the following was a great military political power before the colonization of Nigeria",
+  "options": {
+   "A": "The Idoma Kingdom",
+   "B": "The Nupe kingdom",
+   "C": "The Kwararafa empire",
+   "D": "The Igala empire"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-21",
+  "subject": "government",
+  "year": 1992,
+  "number": 21,
+  "question": "The Yoruba traditional governmental system was",
+  "options": {
+   "A": "egalitarian",
+   "B": "republican"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-22",
+  "subject": "government",
+  "year": 1992,
+  "number": 22,
+  "question": "During the pre-colonial period in Eastern Nigeria autocratic rule was made difficult by the",
+  "options": {
+   "A": "activities of secret socieities",
+   "B": "rulers fear of detronement",
+   "C": "absence of a system of centralized authority",
+   "D": "demands of pressure groups."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-23",
+  "subject": "government",
+  "year": 1992,
+  "number": 23,
+  "question": "Vassalage as a political system was practised by the",
+  "options": {
+   "A": "Ibibio and Igala",
+   "B": "Tiv",
+   "C": "Hausa Fulani",
+   "D": "Igbo and Efik"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-24",
+  "subject": "government",
+  "year": 1992,
+  "number": 24,
+  "question": "Which of the following was NOT a feature of colonial administration in Nigeria?",
+  "options": {
+   "A": "Forced labour",
+   "B": "Low prices and exports",
+   "C": "Taxes on the population",
+   "D": "Education levy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-25",
+  "subject": "government",
+  "year": 1992,
+  "number": 25,
+  "question": "Dual mandate was proposed by",
+  "options": {
+   "A": "Hugh Clapperton",
+   "B": "Hugh Clifford",
+   "C": "Lord Lugard",
+   "D": "George Goldie"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-26",
+  "subject": "government",
+  "year": 1992,
+  "number": 26,
+  "question": "The Northern People’s Congress stand during the nationalist struggle for Nigeria’s independence was for",
+  "options": {
+   "A": "immediate independence for Nigeria",
+   "B": "Gradual evolution towards independence",
+   "C": "the continuation of British rule",
+   "D": "independence in 1956."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-27",
+  "subject": "government",
+  "year": 1992,
+  "number": 27,
+  "question": "The Aba women riot was caused by the attempt to introduce",
+  "options": {
+   "A": "indirect rule to Southern Nigeria",
+   "C": "direct taxes",
+   "D": "forced labour"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-28",
+  "subject": "government",
+  "year": 1992,
+  "number": 28,
+  "question": "One of the unique innovations of the 1951 constitution was the introduction of",
+  "options": {
+   "A": "regional premiers",
+   "B": "the office of the speaker",
+   "C": "the office of theprime minister",
+   "D": "regional executives"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-29",
+  "subject": "government",
+  "year": 1992,
+  "number": 29,
+  "question": "The Constituent Assembly of 1978 had the primary responsiblity of",
+  "options": {
+   "A": "drafting a constitution for the Second Republic",
+   "B": "deliberating on, debating and amending the draft constitution.",
+   "C": "passing the constitutio into law",
+   "D": "conducting a referendum on the draft constitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-30",
+  "subject": "government",
+  "year": 1992,
+  "number": 30,
+  "question": "To quality to be President of the Federal Republic of Nigeria under the 1979 Constitution a candidate must",
+  "options": {
+   "A": "be at least 40 years of age",
+   "B": "be a Nigerian by birth",
+   "C": "have the highest number of votes cast at the election",
+   "D": "have not less than 1/4 of the votes cast at the election in each of at leat 2/3 of all states in the federation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-31",
+  "subject": "government",
+  "year": 1992,
+  "number": 31,
+  "question": "By statute, the main responsibility of the armed forces of Nigeria is to",
+  "options": {
+   "A": "form a military government",
+   "B": "maintain law and order",
+   "C": "defend the sovereignty of the country"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-32",
+  "subject": "government",
+  "year": 1992,
+  "number": 32,
+  "question": "The highest court in Nigeria before 1963 was the",
+  "options": {
+   "A": "Supreme Court",
+   "B": "High Court",
+   "C": "Judical Committee of the Privy Council",
+   "D": "Court of Appeal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-33",
+  "subject": "government",
+  "year": 1992,
+  "number": 33,
+  "question": "The highest decision making body in Nigeria under the Buhari regime was the",
+  "options": {
+   "A": "Armed Forces Ruling Council",
+   "B": "Supreme Military Council",
+   "C": "National Council of States",
+   "D": "Federal Executive Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-34",
+  "subject": "government",
+  "year": 1992,
+  "number": 34,
+  "question": "Under the 1979 Constitution, the function of the Civil Service Commission include the",
+  "options": {
+   "A": "appointment of Civil Service Commissioners",
+   "B": "appointment, promotion and discipline of civil servants",
+   "C": "negotiating better conditions of service for civil servants."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-35",
+  "subject": "government",
+  "year": 1992,
+  "number": 35,
+  "question": "The primary factor which led to the formation of political parties in colonial Nigeria was",
+  "options": {
+   "A": "introduction of the elective principle and representative institutions",
+   "B": "increased wealth of the indigenous elites",
+   "C": "granting of self government by the colonial administration D. call byblack people all over theworld for a final assault on colonialism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-36",
+  "subject": "government",
+  "year": 1992,
+  "number": 36,
+  "question": "Three of the principles used in revenue allocation in Nigeria are A national interest, cultural ethnocentrism and national unity",
+  "options": {
+   "B": "land mass, primary school enrolment and geographical location",
+   "C": "derivation, equality and even development",
+   "D": "needs, derivation and relative stability"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-37",
+  "subject": "government",
+  "year": 1992,
+  "number": 37,
+  "question": "The results of the 1973 census in Nigeria were rejected because",
+  "options": {
+   "A": "the figures were unacceptable to the U.N.",
+   "B": "the figures were controversial",
+   "C": "Nigerians were contented with the existing population figures",
+   "D": "there were preparations for a fresh census"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-38",
+  "subject": "government",
+  "year": 1992,
+  "number": 38,
+  "question": "One of the advantages of privatization is that it",
+  "options": {
+   "A": "relieves government of its liquidity problem",
+   "B": "makes the poor to be richer",
+   "C": "gives private individuals control over public corporations",
+   "D": "makes public corporations more effective"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-39",
+  "subject": "government",
+  "year": 1992,
+  "number": 39,
+  "question": "The most important aspect ofthe 1976 Local Government Reforms was the",
+  "options": {
+   "A": "introduction of a uniform system of local government",
+   "B": "introduction of party politics at the local levels",
+   "C": "subordination off local government to the Federal and state Governments.",
+   "D": "recognition of local"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-40",
+  "subject": "government",
+  "year": 1992,
+  "number": 40,
+  "question": "Local governments were created in Nigeria mainly to",
+  "options": {
+   "A": "realise the objective of full employment",
+   "B": "bring government nearer to the people",
+   "C": "prevent the creation of more states",
+   "D": "encourage competition and rivalry amongst ethnic groups"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-41",
+  "subject": "government",
+  "year": 1992,
+  "number": 41,
+  "question": "The Nigeria Military Government launched the Second National Development plan in 1970 purposely",
+  "options": {
+   "A": "to develop all the disadvantaged states",
+   "B": "to accelerate the development of the country",
+   "C": "for rapid economic and social development of the country after the civil war",
+   "D": "to further the cause of a united, strong and self reliant nation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-42",
+  "subject": "government",
+  "year": 1992,
+  "number": 42,
+  "question": "A feature unique to General Murtala Muhammed’s Supreme Military Council as compared to that of General Yakubu Gowon was the",
+  "options": {
+   "A": "inclusion of civilians as members",
+   "B": "exclusion of military governors from the council",
+   "C": "inclusion of the Chief Justice as a member",
+   "D": "theexclusion ofthe Inspector-General of Police from the council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-43",
+  "subject": "government",
+  "year": 1992,
+  "number": 43,
+  "question": "A major problem of militarygovernments in Nigeria is the",
+  "options": {
+   "A": "absence of proper accountability",
+   "B": "abolition of the post of ombudsman",
+   "C": "absence of the rule of law",
+   "D": "encouragement of foreign investors."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-44",
+  "subject": "government",
+  "year": 1992,
+  "number": 44,
+  "question": "In 1973, following an O.A.U. resolution, Nigeria broke diplomatic relations with",
+  "options": {
+   "A": "South Africa",
+   "B": "France",
+   "C": "Israel",
+   "D": "Cuba"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-45",
+  "subject": "government",
+  "year": 1992,
+  "number": 45,
+  "question": "Nigeria’s foreign policy ofnon-alignment wasa reaction to",
+  "options": {
+   "A": "British imperialism",
+   "B": "East West ideological competition",
+   "C": "militarism of ex-colonial powers",
+   "D": "Third World poverty"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-46",
+  "subject": "government",
+  "year": 1992,
+  "number": 46,
+  "question": "Which of the following countries had a strained relationship with Nigeria over theAngolan crisis of 1975?",
+  "options": {
+   "A": "The Soviet Union",
+   "B": "Tanzania",
+   "C": "The United States of America",
+   "D": "South Africa"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-47",
+  "subject": "government",
+  "year": 1992,
+  "number": 47,
+  "question": "In the First Republic, Nigeria was very relunctant to have meaningful interaction with A Italy B. the Soviet Union",
+  "options": {
+   "C": "the United States of America",
+   "D": "Germany"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-48",
+  "subject": "government",
+  "year": 1992,
+  "number": 48,
+  "question": "The major liberation organisation which fought for Namibia’s independence was",
+  "options": {
+   "A": "SWAPO",
+   "B": "A.N.C.",
+   "C": "FRELIMO",
+   "D": "M.P.L.A."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-49",
+  "subject": "government",
+  "year": 1992,
+  "number": 49,
+  "question": "Which of these international organisations is the predesecessor of the United Nations?",
+  "options": {
+   "A": "The European Economic Commun ity",
+   "B": "The Organisation of American Sattes",
+   "C": "The League of Nations",
+   "D": "The North Atlatic Treaty Organisation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1992-50",
+  "subject": "government",
+  "year": 1992,
+  "number": 50,
+  "question": "The dramatic rise in the membership of the U. N. during late 1991 and early 1992 is best accounted for by the",
+  "options": {
+   "A": "admission of a large number of newly independent African States.",
+   "B": "appointement of the first African as Secretatry General. C break up of the Soviet Union into indepen dent Republics.",
+   "D": "expansion fo themembership of the Security Council."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,910 @@
+[
+ {
+  "id": "government-1998-1",
+  "subject": "government",
+  "year": 1998,
+  "number": 1,
+  "question": "Which of the following defines the concept of government?",
+  "options": {
+   "A": "The process of administering justice in a country",
+   "B": "The process of supervising the activities of legislature",
+   "C": "The orderly management andcontrol ofthe affairs of a country",
+   "D": "The orderly transfer of power to duly elected politicians"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-2",
+  "subject": "government",
+  "year": 1998,
+  "number": 2,
+  "question": "The most distinguishing characteristic of the state is",
+  "options": {
+   "A": "government",
+   "B": "population",
+   "C": "territory",
+   "D": "sovereignty"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-3",
+  "subject": "government",
+  "year": 1998,
+  "number": 3,
+  "question": "The judiciary assigns clear meaning to the laws by",
+  "options": {
+   "A": "interpretation",
+   "B": "enforcement",
+   "C": "adjudication",
+   "D": "revision"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-4",
+  "subject": "government",
+  "year": 1998,
+  "number": 4,
+  "question": "The structure of government implies the",
+  "options": {
+   "A": "law making process of government",
+   "B": "law enforcement process of government",
+   "C": "organization of power and functions of government",
+   "D": "method of revenue allocation by government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-5",
+  "subject": "government",
+  "year": 1998,
+  "number": 5,
+  "question": "If the central government has less power than the component units, the constitution is said to be",
+  "options": {
+   "A": "federal",
+   "B": "unitary",
+   "C": "confederal",
+   "D": "unwritten"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-6",
+  "subject": "government",
+  "year": 1998,
+  "number": 6,
+  "question": "In democracy, ultimate authority resides in the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-7",
+  "subject": "government",
+  "year": 1998,
+  "number": 7,
+  "question": "A major characteristic of the socialist system is its provision for",
+  "options": {
+   "A": "limited privacy",
+   "B": "public ownership",
+   "C": "unlimited privacy",
+   "D": "private ownership"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-8",
+  "subject": "government",
+  "year": 1998,
+  "number": 8,
+  "question": "In the presidential system of government, the chief executive is",
+  "options": {
+   "A": "elected by the entire electorate",
+   "B": "nominated by the legislators",
+   "C": "selected by the party with the majority of seats in the legislature",
+   "D": "appointed by an independent judiciary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-9",
+  "subject": "government",
+  "year": 1998,
+  "number": 9,
+  "question": "The resignation of the cabinet after a defeat in parliament is an expression of the principle of",
+  "options": {
+   "A": "political accountability",
+   "B": "collective responsibility",
+   "C": "checks and balances",
+   "D": "rule of law"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-10",
+  "subject": "government",
+  "year": 1998,
+  "number": 10,
+  "question": "Ceremonial and executive powers are fused in the",
+  "options": {
+   "A": "parliamentary system of government",
+   "B": "presidential system of government",
+   "C": "federal system of government",
+   "D": "unitary system of government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-11",
+  "subject": "government",
+  "year": 1998,
+  "number": 11,
+  "question": "The empowerment of the Police Service commission to make rules for the appointment, promotion and dismissal of its personnel, is an example of",
+  "options": {
+   "A": "a decree",
+   "B": "a penal law",
+   "C": "a delegated legislation",
+   "D": "an executive order"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-12",
+  "subject": "government",
+  "year": 1998,
+  "number": 12,
+  "question": "The principle by which both the governors and the",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-13",
+  "subject": "government",
+  "year": 1998,
+  "number": 13,
+  "question": "The rights of a citizen can be withdrawn by the state if the person",
+  "options": {
+   "A": "leaves the country",
+   "B": "is convicted by a court",
+   "C": "opposes the government",
+   "D": "is pronounced dead"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-14",
+  "subject": "government",
+  "year": 1998,
+  "number": 14,
+  "question": "In a democracy, franchise is given to all",
+  "options": {
+   "A": "adult citizens",
+   "B": "citizens",
+   "C": "loyal party members",
+   "D": "resident adults"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-15",
+  "subject": "government",
+  "year": 1998,
+  "number": 15,
+  "question": "The major advantage of secret balloting is that it A allow people to vote freely",
+  "options": {
+   "B": "ensures the anonymity of the voter",
+   "C": "extends the franchise to all adults",
+   "D": "is faster than the other systems"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-16",
+  "subject": "government",
+  "year": 1998,
+  "number": 16,
+  "question": "A candidate who wins an election by a simple majority, must have been voted for by",
+  "options": {
+   "A": "majority of the electorate",
+   "B": "most of the electorate",
+   "C": "a good number of the voters",
+   "D": "a majority of the voters"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-17",
+  "subject": "government",
+  "year": 1998,
+  "number": 17,
+  "question": "A party system can be defined by the",
+  "options": {
+   "A": "structure of political parties",
+   "B": "manner the government and the parties operate",
+   "C": "relationship between the parties and the voters",
+   "D": "number of political parties in a country"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-18",
+  "subject": "government",
+  "year": 1998,
+  "number": 18,
+  "question": "One major aim of a pressure group is to",
+  "options": {
+   "A": "capture political power",
+   "B": "influence the policies of the government",
+   "C": "install a government of its choice",
+   "D": "implement policies that will benefit its member"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-19",
+  "subject": "government",
+  "year": 1998,
+  "number": 19,
+  "question": "Which of the following is the commonest means of expressing public opinion?",
+  "options": {
+   "A": "Handbill",
+   "B": "Newspaper",
+   "C": "Radio",
+   "D": "Television"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-20",
+  "subject": "government",
+  "year": 1998,
+  "number": 20,
+  "question": "One effective way by which governments ascertain public support and reactions is through",
+  "options": {
+   "A": "the press",
+   "B": "social mobilization",
+   "C": "opinion leaders",
+   "D": "elections"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-21",
+  "subject": "government",
+  "year": 1998,
+  "number": 21,
+  "question": "An acephalous pre-colonial political system is best represented by the",
+  "options": {
+   "A": "Oyo empire",
+   "B": "Igbo political organization C. Ijaw political organization D. Benin empire"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-22",
+  "subject": "government",
+  "year": 1998,
+  "number": 22,
+  "question": "The administration of the capital of the emirate under the pre-colonial Hausa-Fulani political system was entrusted to the",
+  "options": {
+   "A": "Galadima",
+   "B": "Waziri",
+   "C": "Sarkin fada",
+   "D": "Sarkin pawa"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-23",
+  "subject": "government",
+  "year": 1998,
+  "number": 23,
+  "question": "In the pre-colonial Yoruba society, the power of the Oyomesi were checked by the",
+  "options": {
+   "A": "Baale",
+   "B": "Ogboni"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-24",
+  "subject": "government",
+  "year": 1998,
+  "number": 24,
+  "question": "The Aro system in Igboland was a",
+  "options": {
+   "A": "political organization",
+   "B": "commercial organization",
+   "C": "religious organization",
+   "D": "imperial organization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-25",
+  "subject": "government",
+  "year": 1998,
+  "number": 25,
+  "question": "In 1879, four British companies were merged to form the United African Company by",
+  "options": {
+   "A": "Frederick Lugard",
+   "B": "John Beecroft",
+   "C": "Tubman Goldie",
+   "D": "Macgregor Laid"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-26",
+  "subject": "government",
+  "year": 1998,
+  "number": 26,
+  "question": "Which of the following was a feature of the government of a British protectorate?",
+  "options": {
+   "A": "Legislative council",
+   "B": "Provincial authority C. Executive council",
+   "D": "Native Authority"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-27",
+  "subject": "government",
+  "year": 1998,
+  "number": 27,
+  "question": "Educated elites did not like the system of indirect rule in Nigeria because it",
+  "options": {
+   "A": "did not make provision for them",
+   "B": "was exploitative and cumbersome",
+   "C": "made traditional ruler too powerful",
+   "D": "was undemocratic and oppresive"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-28",
+  "subject": "government",
+  "year": 1998,
+  "number": 28,
+  "question": "The Nigerian Council was created by",
+  "options": {
+   "A": "Hugh Clifford",
+   "B": "Arthur Richard",
+   "C": "Frederick Lugard",
+   "D": "Bernard Bourdillon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-29",
+  "subject": "government",
+  "year": 1998,
+  "number": 29,
+  "question": "Nationalism in Nigeria was facillitated by",
+  "options": {
+   "A": "the actions of the veterans of the two world wars and traditional rulers",
+   "B": "the activities of Christian churches and missionaries",
+   "C": "education and urbanization",
+   "D": "rapid economic growth"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-30",
+  "subject": "government",
+  "year": 1998,
+  "number": 30,
+  "question": "The 1946 constitution was remarkable because it",
+  "options": {
+   "A": "created ministerial positions in Nigeria",
+   "B": "introduced regional governments in Nigeria",
+   "C": "introduced for thefirst time, the elective principle",
+   "D": "brought about self-government for Nigeria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-31",
+  "subject": "government",
+  "year": 1998,
+  "number": 31,
+  "question": "Which of the following statements is true about the 1963 and 19790 constitutions?",
+  "options": {
+   "A": "Both had provisions for the office of the president",
+   "B": "Both had provision for the office of a constitutional president",
+   "C": "Both provision for the office of the Prime Minister and president",
+   "D": "Both had provisions for the office of an executive president"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-32",
+  "subject": "government",
+  "year": 1998,
+  "number": 32,
+  "question": "The premier of Western Region immediately after independence was",
+  "options": {
+   "A": "Chief Obafemi Awolowo",
+   "B": "Chief Ladoke Akintola",
+   "C": "Dr. M.A. Majekodunmi",
+   "D": "Alhaji D.S. Adegbenro"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-33",
+  "subject": "government",
+  "year": 1998,
+  "number": 33,
+  "question": "During the period 1960 to 1966, Nigeria was governed under the",
+  "options": {
+   "A": "presidential system of government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-34",
+  "subject": "government",
+  "year": 1998,
+  "number": 34,
+  "question": "Which of the following was not established under the 1979 Nigerian constitution?",
+  "options": {
+   "A": "National Council on Education",
+   "B": "National Economic Council",
+   "C": "National Security Council",
+   "D": "National Defence Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-35",
+  "subject": "government",
+  "year": 1998,
+  "number": 35,
+  "question": "Federalism was adopted in Nigeria as a constitutional response to the problem of",
+  "options": {
+   "A": "educational imbalance",
+   "B": "national identity",
+   "C": "ethnic pluralism",
+   "D": "manpower and resources"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-36",
+  "subject": "government",
+  "year": 1998,
+  "number": 36,
+  "question": "In a federal system, the power allocated to both the central and the state governments is said to be",
+  "options": {
+   "A": "exclusive",
+   "B": "concurrent",
+   "C": "residual",
+   "D": "inherent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-37",
+  "subject": "government",
+  "year": 1998,
+  "number": 37,
+  "question": "In the botched Third Republic, the unit of representa tion in the House of Representatives was the",
+  "options": {
+   "A": "local goverment",
+   "B": "electoral ward",
+   "C": "senatorial district D entire state"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-38",
+  "subject": "government",
+  "year": 1998,
+  "number": 38,
+  "question": "Public corporations mainly differ from the ministries in that they",
+  "options": {
+   "A": "are not bureaucratic",
+   "B": "provide social services to the public",
+   "C": "require highly professional staff",
+   "D": "are organized as business enterprises"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-39",
+  "subject": "government",
+  "year": 1998,
+  "number": 39,
+  "question": "The privatization of public corporations is aimed at",
+  "options": {
+   "A": "making their goods and services available",
+   "B": "making them reliable",
+   "C": "making them more efficient",
+   "D": "allowing the public to control them"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-40",
+  "subject": "government",
+  "year": 1998,
+  "number": 40,
+  "question": "Onemajor democratic innovation in local government adminisration introduced bythe Babangida regime wasthe",
+  "options": {
+   "A": "appointment of portfolio councillors",
+   "B": "appointment of retired military officers as sole administrators",
+   "C": "selection of head of personnel management departments from the councillors",
+   "D": "separations of powers between the executive and legislative arms of the councillors"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-41",
+  "subject": "government",
+  "year": 1998,
+  "number": 41,
+  "question": "The change in the role of traditional rulers in local government administration in Nigeria can be attrib uted to the",
+  "options": {
+   "A": "1976 local government reforms",
+   "B": "involvement of the military in politics",
+   "C": "lack of support for the traditional rulers by the citizens D. 1988 civil service reforms"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-42",
+  "subject": "government",
+  "year": 1998,
+  "number": 42,
+  "question": "Which of the following factors was not responsible for the military intervention in Nigeria politics in 1966?",
+  "options": {
+   "A": "willingness of politicians to relinquish power",
+   "B": "the Western Regional election of 1965",
+   "C": "the Federal election of 1964",
+   "D": "ethnic politics and lawlessness"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-44",
+  "subject": "government",
+  "year": 1998,
+  "number": 44,
+  "question": "An exampleof Nigeria’s external cultural relations in her",
+  "options": {
+   "A": "establishment of diplomatic relations with other nations B. economic aid to neighbouring countries",
+   "C": "exchange of students with friendly nations",
+   "D": "trade interactions with developing countries"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-45",
+  "subject": "government",
+  "year": 1998,
+  "number": 45,
+  "question": "At independence in 1960, the permission to establish a diplomatic mission in Nigeria was not granted to",
+  "options": {
+   "A": "the United States of American",
+   "B": "Japan",
+   "C": "the United Kingdom",
+   "D": "the Union of Soviet Socialist Republics"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-46",
+  "subject": "government",
+  "year": 1998,
+  "number": 46,
+  "question": "The concept of Africa as the centre-piece of Nigerian foreign policy implies that Nigeria should",
+  "options": {
+   "A": "interfere in the internal affairs of other African States B. support seces sionist movement in Africa",
+   "C": "participate in any peace-keeping operation in Africa",
+   "D": "lay more emphasis on African issues"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-47",
+  "subject": "government",
+  "year": 1998,
+  "number": 47,
+  "question": "The organ responsible for the general adminstration of ECOWAS is the",
+  "options": {
+   "A": "Executive Secretariat",
+   "B": "Council of Ministers",
+   "C": "Authority of Heads of State and Government",
+   "D": "Tribunal of the Community"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-48",
+  "subject": "government",
+  "year": 1998,
+  "number": 48,
+  "question": "The first international organization Nigeria joined after independence is the",
+  "options": {
+   "A": "United Nations Organization",
+   "B": "Organization of African unity",
+   "C": "Commonwealth of Nation",
+   "D": "Organization ofPetroleum Exporting Countries"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-49",
+  "subject": "government",
+  "year": 1998,
+  "number": 49,
+  "question": "The Security Council of the United Nations Organiza tion is composed of",
+  "options": {
+   "A": "the Western industrial nations",
+   "B": "the five permanent members",
+   "C": "the five permanent members and other members periodically elected",
+   "D": "eleven member states elected by the General Assembly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1998-50",
+  "subject": "government",
+  "year": 1998,
+  "number": 50,
+  "question": "The headquaters of the Economic Commission for Africa is located in",
+  "options": {
+   "A": "Ghana",
+   "B": "Kenya",
+   "C": "Nigeria",
+   "D": "Ethiopia"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,872 @@
+[
+ {
+  "id": "government-1989-1",
+  "subject": "government",
+  "year": 1989,
+  "number": 1,
+  "question": "Proportional representation favours a",
+  "options": {
+   "A": "multi-party system",
+   "B": "three party system",
+   "C": "two party system",
+   "D": "one party system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-3",
+  "subject": "government",
+  "year": 1989,
+  "number": 3,
+  "question": "A country made up of semi autonomous units is",
+  "options": {
+   "A": "a confederation",
+   "B": "a federation",
+   "C": "a region",
+   "D": "unitary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-5",
+  "subject": "government",
+  "year": 1989,
+  "number": 5,
+  "question": "One of the factors that led to the decline of feudalism is",
+  "options": {
+   "A": "opposition to the system by the wealthy",
+   "B": "indulstryalization",
+   "C": "opposition to the sytem by the oppressed",
+   "D": "the discovery of new lands"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-6",
+  "subject": "government",
+  "year": 1989,
+  "number": 6,
+  "question": "The major advantage of the principle of separation of powers is that it provides for",
+  "options": {
+   "A": "an executive premier",
+   "B": "a powerful legislature C. a very strong executive D checks and balances"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-7",
+  "subject": "government",
+  "year": 1989,
+  "number": 7,
+  "question": "The cabinet can be described as a link between the",
+  "options": {
+   "A": "executive and the legislature",
+   "B": "legislature and the electorate",
+   "C": "executive and the judiciary",
+   "D": "legislature and the local government councils."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-8",
+  "subject": "government",
+  "year": 1989,
+  "number": 8,
+  "question": "Unicameral refers to",
+  "options": {
+   "A": "a two-chamber legislature",
+   "B": "the process of secret voting in the legislature",
+   "C": "the lower chamber in a legislature",
+   "D": "a one chamber legilsature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-9",
+  "subject": "government",
+  "year": 1989,
+  "number": 9,
+  "question": "While pressure groups aim at influencing government decisions the primary aim of political parties is to",
+  "options": {
+   "A": "promote the welfare of their members",
+   "B": "execute particular programmes",
+   "C": "influence legilsation in order to benefit their members D. control political powers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-10",
+  "subject": "government",
+  "year": 1989,
+  "number": 10,
+  "question": "Delegated legislation is justified by the",
+  "options": {
+   "A": "superior knowledge if issues by the executive",
+   "B": "fear that public debates in parliaments would endager national security",
+   "C": "slow and unwiedly process of decision making in legslative houses",
+   "D": "constitutional superiority of the executive over the legislative branch of government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-11",
+  "subject": "government",
+  "year": 1989,
+  "number": 11,
+  "question": "The obligation to pay taxes regularly is justified because",
+  "options": {
+   "A": "ciizens choose their own government",
+   "B": "citizens enjoy services provided by government",
+   "C": "government does not discriminate in its provision of services to different parts of the nations",
+   "D": "taxes are the only source of government revenue"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-12",
+  "subject": "government",
+  "year": 1989,
+  "number": 12,
+  "question": "An important function of the legislature is",
+  "options": {
+   "A": "judicial review",
+   "B": "review of executive policies and actions C. lobbying D. defending government policies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-13",
+  "subject": "government",
+  "year": 1989,
+  "number": 13,
+  "question": "A common means of influencing public opinion is",
+  "options": {
+   "A": "A public policy making",
+   "B": "legislation",
+   "C": "propaganda",
+   "D": "lobbying"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-14",
+  "subject": "government",
+  "year": 1989,
+  "number": 14,
+  "question": "An electoral system in which the candidate who receives the largest number of votes wins is",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-15",
+  "subject": "government",
+  "year": 1989,
+  "number": 15,
+  "question": "Which of the following is NOT usually associated with the activities of political parties?",
+  "options": {
+   "A": "providing political education",
+   "B": "selecting and supporting candidates for public office C. forming the government D. controlling the judiciary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-16",
+  "subject": "government",
+  "year": 1989,
+  "number": 16,
+  "question": "The political neutrality of civil servants is guaranteed by not allowing them to",
+  "options": {
+   "A": "vote",
+   "B": "be members of any interest group",
+   "C": "engage in partisan politics",
+   "D": "have dealings with politicians"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-17",
+  "subject": "government",
+  "year": 1989,
+  "number": 17,
+  "question": "An unwriten constitution is one which",
+  "options": {
+   "A": "embodies only trandition and customs",
+   "B": "relies on the memories of elders and priests",
+   "C": "codifies the basic laws in one document",
+   "D": "embodies the basic laws in more than one document"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-18",
+  "subject": "government",
+  "year": 1989,
+  "number": 18,
+  "question": "Fascism is a system of government which A encourage poitcal sissent and opposition",
+  "options": {
+   "B": "represses individual freedom opposition promotes equality",
+   "C": "promotes the international brotherhood of man"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-19",
+  "subject": "government",
+  "year": 1989,
+  "number": 19,
+  "question": "Representative democracy is characterized by",
+  "options": {
+   "A": "free elections and up-to-date register of voters",
+   "B": "properly delineated constituencies and a real choice of candidates",
+   "C": "a politically educated electorate",
+   "D": "rule by interest groups"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-20",
+  "subject": "government",
+  "year": 1989,
+  "number": 20,
+  "question": "In a modern democracy the ultimate source of sovereignty is the",
+  "options": {
+   "A": "legislature",
+   "B": "people",
+   "C": "supreme court",
+   "D": "armed forces."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-21",
+  "subject": "government",
+  "year": 1989,
+  "number": 21,
+  "question": "Which of these is a common feature oftotalitarian regime?",
+  "options": {
+   "A": "Existence of opposition groups",
+   "B": "Competing political parties",
+   "C": "A single recognized party",
+   "D": "Freedom of association"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-22",
+  "subject": "government",
+  "year": 1989,
+  "number": 22,
+  "question": "Which of the following according to Marx, is the correct order in which societies progress?",
+  "options": {
+   "A": "Capitalism, feudalism, communism",
+   "B": "Feudalsim, socialism, capitalsim, communism",
+   "C": "communsim, socialism, captialism, Feudalism",
+   "D": "Feudalism, capitalism, socialsim, communism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-23",
+  "subject": "government",
+  "year": 1989,
+  "number": 23,
+  "question": "Which of the following is NOT necessarily a charac teristics of a nation state?",
+  "options": {
+   "A": "Definite boundary",
+   "B": "Sovereignty",
+   "C": "Independence",
+   "D": "Common language"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-24",
+  "subject": "government",
+  "year": 1989,
+  "number": 24,
+  "question": "Public opinion refers to views and ideas expressed by",
+  "options": {
+   "A": "citizens regarding government policies or other issues",
+   "B": "government regarding the public interest",
+   "C": "elites about what the public wants"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-25",
+  "subject": "government",
+  "year": 1989,
+  "number": 25,
+  "question": "An issues over which both the centre and the state can excercise authority in a federal system is",
+  "options": {
+   "A": "Shared",
+   "B": "split",
+   "C": "exclusive",
+   "D": "concurrent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-26",
+  "subject": "government",
+  "year": 1989,
+  "number": 26,
+  "question": "In the traditional Hausa Fulani political system poltical authority was vested in the",
+  "options": {
+   "A": "Emir",
+   "B": "Talakawa",
+   "C": "Alkali",
+   "D": "Emirate council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-27",
+  "subject": "government",
+  "year": 1989,
+  "number": 27,
+  "question": "Which of the following pre independence organisation was formed in London in 1945?",
+  "options": {
+   "A": "The Jami’yyar Mutanen Arewa",
+   "B": "The Igbo State Union C. The Egbe Omo Oduduwa D. Urhobo Progressive Union"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-28",
+  "subject": "government",
+  "year": 1989,
+  "number": 28,
+  "question": "Igbo traditional system of government encouraged participation through",
+  "options": {
+   "A": "Ozo title",
+   "B": "segmentary kinship",
+   "C": "divine kingship",
+   "D": "town assembly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-29",
+  "subject": "government",
+  "year": 1989,
+  "number": 29,
+  "question": "In the 1950s the Northern Elements Progressive Union was notable in Nigeria politics be cause it",
+  "options": {
+   "A": "opposed Northern traditional rulers",
+   "B": "agitiated for the formation of a unitary form of government",
+   "C": "allied with the Northern People Congress to form the Regional Government",
+   "D": "won the election to the Nothern House of Assembly."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-30",
+  "subject": "government",
+  "year": 1989,
+  "number": 30,
+  "question": "The author of the famous book Renascent Africa which inspired African nationalism is",
+  "options": {
+   "A": "Obafemi Awolowo",
+   "B": "Duse MohammedAli",
+   "C": "Ernest Ikoli",
+   "D": "House of Assembly."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-31",
+  "subject": "government",
+  "year": 1989,
+  "number": 31,
+  "question": "The civil sevice was first regionalised by the",
+  "options": {
+   "A": "Richards Consittution",
+   "B": "Clifford Constitution",
+   "C": "Lyttleton Constitution",
+   "D": "Independence Constitu tion. 32 The motion by Anthony Enahoro demanding independence for Nigeria was moved in"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-33",
+  "subject": "government",
+  "year": 1989,
+  "number": 33,
+  "question": "The office of the Prime minister of Nigeria was first created by the",
+  "options": {
+   "A": "Ibadan consitional conference of 1950 B London constituional conference of 1953",
+   "C": "London constitutional conference of 1957",
+   "D": "London constitutional conference of 1958."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-34",
+  "subject": "government",
+  "year": 1989,
+  "number": 34,
+  "question": "Southern Nigeria was divided into Eastern and Western Provinces for administrative purposes in",
+  "options": {
+   "A": "1935",
+   "B": "1937",
+   "C": "1939",
+   "D": "1941"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-35",
+  "subject": "government",
+  "year": 1989,
+  "number": 35,
+  "question": "Which of the following aroused and promoted nationalistic feeling among Ngiera?",
+  "options": {
+   "A": "Slave trade, indirect rule and amalgamation",
+   "B": "Economic exploitation, racial discrimination and"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-36",
+  "subject": "government",
+  "year": 1989,
+  "number": 36,
+  "question": "The leader of the Northen People congress was",
+  "options": {
+   "A": "Yakubu Maitama Sule",
+   "B": "Abubakar Tafawa Balewa",
+   "C": "Aminu Kano",
+   "D": "Ahmadu Bello"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-37",
+  "subject": "government",
+  "year": 1989,
+  "number": 37,
+  "question": "The Queen of England ceased to be the head of state of Nigeria at",
+  "options": {
+   "A": "independence in October 1960",
+   "B": "the attainment of self-government byu the regions C. the adotpion of the Republican Constitiution in October 1963",
+   "D": "the inception of the presidential system in October, 1979"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-38",
+  "subject": "government",
+  "year": 1989,
+  "number": 38,
+  "question": "Under the 1963 Constituion, federal judges were appointed by the",
+  "options": {
+   "A": "pesidents on the advise of the prime minister",
+   "B": "Chief Justice of the Federation",
+   "C": "Prime Minister",
+   "D": "Judicial Service Commision"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-39",
+  "subject": "government",
+  "year": 1989,
+  "number": 39,
+  "question": "The 1963 Constitution of Nigeria was",
+  "options": {
+   "A": "written and flexible",
+   "B": "written and rigid",
+   "C": "flexible and unwritten and unwritten",
+   "D": "unitary and rigid."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-40",
+  "subject": "government",
+  "year": 1989,
+  "number": 40,
+  "question": "The major policital parties in Nigeria during the First Republic were",
+  "options": {
+   "A": "NPC, NCNC, AG",
+   "B": "UMBC, AG, NEPU",
+   "C": "NNDP, NEPU, NPC",
+   "D": "NPC, AG, NNDP"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-41",
+  "subject": "government",
+  "year": 1989,
+  "number": 41,
+  "question": "The main source of local government finance since the 1976 reforms has been",
+  "options": {
+   "A": "loal states",
+   "B": "levies",
+   "C": "revenue from courrt fines and licenses",
+   "D": "the federal governent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-42",
+  "subject": "government",
+  "year": 1989,
+  "number": 42,
+  "question": "Under the 1979 Constitution of Nigeria, the president of the federal republic could only be removed from the office by",
+  "options": {
+   "A": "the national assembly",
+   "B": "the senate",
+   "C": "the house of representatives",
+   "D": "a motion approved by at least two-thirds of all the state houses of assembly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-43",
+  "subject": "government",
+  "year": 1989,
+  "number": 43,
+  "question": "Under the 1979 Constitution of Nigeria, the head of the judiciary was the",
+  "options": {
+   "A": "Attorney-General and Minister of Justice",
+   "B": "Chief Justice of the Federation",
+   "C": "Solicitor-General and Permanent Secretary, Federal Ministry of Justice",
+   "D": "Chief Registrar of the Supreme Court."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-44",
+  "subject": "government",
+  "year": 1989,
+  "number": 44,
+  "question": "Ombudsman as an institution in Nigeria is known as the A Public Complaints Commission",
+  "options": {
+   "B": "Code of Conduct Bureau",
+   "C": "Public Service Commission"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-45",
+  "subject": "government",
+  "year": 1989,
+  "number": 45,
+  "question": "Which of the following sets of nations belongs to both the ECOWAS and the UNO?",
+  "options": {
+   "A": "Sierra Leone and Uganda",
+   "B": "Zimbabwe and Nigeria",
+   "C": "Cameroun and Burkina Faso",
+   "D": "Ghana and Mauritania"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-46",
+  "subject": "government",
+  "year": 1989,
+  "number": 46,
+  "question": "Fundamental human rights of citizens are provided for in",
+  "options": {
+   "A": "the United Nations Charter",
+   "B": "the OAU Charter",
+   "C": "the constitution of Amnesty Internation",
+   "D": "the 1979 Constituion of Nigeria."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-47",
+  "subject": "government",
+  "year": 1989,
+  "number": 47,
+  "question": "The head of Commonwealth of Nations is the",
+  "options": {
+   "A": "chairman of the conference of the Common- wealth Heads of Governments",
+   "B": "Queen of Great Britain",
+   "C": "Prime Minister of Great Britain",
+   "D": "Secretary-General of the Commonwealth"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-48",
+  "subject": "government",
+  "year": 1989,
+  "number": 48,
+  "question": "Which of the following principle does NOT govern Nigeria’s foregin policy?",
+  "options": {
+   "A": "National interest",
+   "B": "Non-alignment",
+   "C": "African intersts",
+   "D": "Inernational terrorism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-49",
+  "subject": "government",
+  "year": 1989,
+  "number": 49,
+  "question": "During the struggle for Angloan Independence Nigeria supported",
+  "options": {
+   "A": "UNITA,",
+   "B": "MPLA",
+   "C": "FNLA",
+   "D": "SWAPO"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-50",
+  "subject": "government",
+  "year": 1989,
+  "number": 50,
+  "question": "Within the United Nations, the veto power is excerse in",
+  "options": {
+   "A": "UNESCO,",
+   "B": "WHO",
+   "C": "the General Assembly",
+   "D": "the Security Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

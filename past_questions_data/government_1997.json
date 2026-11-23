@@ -1,0 +1,940 @@
+[
+ {
+  "id": "government-1997-1",
+  "subject": "government",
+  "year": 1997,
+  "number": 1,
+  "question": "Authority refers to the",
+  "options": {
+   "A": "might to secure compliance from other within a given social setting",
+   "B": "power to exercise might over others behaviour",
+   "C": "mandate to exercise power over others",
+   "D": "ability to compel others to act in a particular way"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-2",
+  "subject": "government",
+  "year": 1997,
+  "number": 2,
+  "question": "Government is different from other political organiza tions because",
+  "options": {
+   "A": "it has legitimate power over citizens",
+   "B": "its officials have fixed terms of office",
+   "C": "it can punish those who violate its rules",
+   "D": "it is made up of elected officials"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-3",
+  "subject": "government",
+  "year": 1997,
+  "number": 3,
+  "question": "Judicial independence in a modern democracy can be ensured by",
+  "options": {
+   "A": "the confirmation of the appointment of judges by the legislature",
+   "B": "the provision that judges can only be removed from office bythe president-in-council",
+   "C": "making judges independent of the ministry"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-4",
+  "subject": "government",
+  "year": 1997,
+  "number": 4,
+  "question": "The official report of proceedings in parliament is known as the",
+  "options": {
+   "A": "Hansard",
+   "B": "diary of events",
+   "C": "gazette",
+   "D": "summary of proceedings"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-5",
+  "subject": "government",
+  "year": 1997,
+  "number": 5,
+  "question": "An important feature of the federal system of government is the existence of a",
+  "options": {
+   "A": "strong national legislature",
+   "B": "President with veto power",
+   "C": "court system with impartial judges",
+   "D": "multiple tiers of government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-6",
+  "subject": "government",
+  "year": 1997,
+  "number": 6,
+  "question": "An important aspect of an unwritten constitution is that it",
+  "options": {
+   "A": "is easy to understand by everybody",
+   "B": "safeguards the monarchy",
+   "C": "contains customary laws and conventions",
+   "D": "is not easily amended"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-7",
+  "subject": "government",
+  "year": 1997,
+  "number": 7,
+  "question": "The ideology that advocates the complete control of the sources of power is",
+  "options": {
+   "A": "totalitarianism",
+   "B": "socialism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-8",
+  "subject": "government",
+  "year": 1997,
+  "number": 8,
+  "question": "Shadow cabinet is associated with the",
+  "options": {
+   "A": "communist system",
+   "B": "presidential system C. parliamentary system",
+   "D": "fascist system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-9",
+  "subject": "government",
+  "year": 1997,
+  "number": 9,
+  "question": "One basic characteristic of parliamentary system of government is that the",
+  "options": {
+   "A": "upper and lower houses of the legislature have equal powers",
+   "B": "cabinet is part of the legislature",
+   "C": "prime minister is usually a member of the upper house",
+   "D": "opposition party members are also included in the cabinet"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-10",
+  "subject": "government",
+  "year": 1997,
+  "number": 10,
+  "question": "In a presidential system, the theory of separation of power is not absolute because the president",
+  "options": {
+   "A": "can declare a state of emergency",
+   "B": "can be impeached by the court",
+   "C": "assents to bills",
+   "D": "can declare laws null and void"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-11",
+  "subject": "government",
+  "year": 1997,
+  "number": 11,
+  "question": "The principle ofchecks and balance is found mainly in",
+  "options": {
+   "A": "parliamentary system",
+   "B": "presi dential system C. monarchies",
+   "D": "oligarchies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-12",
+  "subject": "government",
+  "year": 1997,
+  "number": 12,
+  "question": "During the second republic in Nigeria, the branch of the legislature responsible for ratifying presidential nominees for appointments was the",
+  "options": {
+   "A": "Senate",
+   "B": "Council of states",
+   "C": "House of Rrepresentative",
+   "D": "Public Service Commissions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-13",
+  "subject": "government",
+  "year": 1997,
+  "number": 13,
+  "question": "A tax law originates from",
+  "options": {
+   "A": "a private member’sbill",
+   "B": "an education tax bill",
+   "C": "ajudicial bill",
+   "D": "a public bill"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-14",
+  "subject": "government",
+  "year": 1997,
+  "number": 14,
+  "question": "The order used by the court against unnecessary detention is",
+  "options": {
+   "A": "interlocutory injunction",
+   "B": "habeas corpus",
+   "C": "that of extradition",
+   "D": "mandamus"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-15",
+  "subject": "government",
+  "year": 1997,
+  "number": 15,
+  "question": "When school pupils sing the national anthem and salute the flag, they are",
+  "options": {
+   "A": "performing their obligations as citizen",
+   "B": "exercising their rights as citizens",
+   "C": "practicing to be leaders of tomorrow",
+   "D": "carrying out their responsibilities as citizens"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-16",
+  "subject": "government",
+  "year": 1997,
+  "number": 16,
+  "question": "A major duty of citizen is to",
+  "options": {
+   "A": "vote at elections",
+   "B": "associate freely",
+   "C": "pay taxes",
+   "D": "join political parties"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-17",
+  "subject": "government",
+  "year": 1997,
+  "number": 17,
+  "question": "The simple plurality electoral system is often criticized because",
+  "options": {
+   "A": "the ruling party may lose the election",
+   "B": "the winner may not poll an absolut majority",
+   "C": "it works against all opposition parties",
+   "D": "it is easy to rig"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-18",
+  "subject": "government",
+  "year": 1997,
+  "number": 18,
+  "question": "The process of dividing a country into electoral districts is known as",
+  "options": {
+   "A": "demarcation",
+   "B": "delineation",
+   "C": "delimitation",
+   "D": "distribution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-19",
+  "subject": "government",
+  "year": 1997,
+  "number": 19,
+  "question": "Political parties are formed essentially to",
+  "options": {
+   "A": "capture state power",
+   "B": "replace bad governments",
+   "C": "complete with the military for power",
+   "D": "satisfy the needs of members"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-20",
+  "subject": "government",
+  "year": 1997,
+  "number": 20,
+  "question": "A systematic effort to manipulate te beliefs, attitudes and actions of the public through the mass media and other means is called",
+  "options": {
+   "A": "political education",
+   "B": "public opinion",
+   "C": "propaganda",
+   "D": "brainstorming"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-21",
+  "subject": "government",
+  "year": 1997,
+  "number": 21,
+  "question": "In the Igbo political system, authority was shared among",
+  "options": {
+   "A": "men and women with ozo titles",
+   "B": "all age groups and warrant chiefs",
+   "C": "elders of the community and ofo title holders",
+   "D": "title holders and age groups"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-22",
+  "subject": "government",
+  "year": 1997,
+  "number": 22,
+  "question": "The crucial check on an autocratic Oba in the pre- colonial Yoruba political system was",
+  "options": {
+   "A": "presenting to him a suicide symbol",
+   "B": "avoiding the palace",
+   "C": "sending him a exile",
+   "D": "refusing to carry out his orders"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-23",
+  "subject": "government",
+  "year": 1997,
+  "number": 23,
+  "question": "A major feature of the system of government in the Sokoto Caliphate was that",
+  "options": {
+   "A": "it was based on customs and traditions",
+   "B": "it was theocratic",
+   "C": "it was democratic",
+   "D": "power was effectively decentralized"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-24",
+  "subject": "government",
+  "year": 1997,
+  "number": 24,
+  "question": "The people of Southern Nigeria first came in contact with Europeans through",
+  "options": {
+   "A": "military expeditions",
+   "B": "Church missions",
+   "C": "gunboat diplomacyD. peaceful trade"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-25",
+  "subject": "government",
+  "year": 1997,
+  "number": 25,
+  "question": "Nigeria’s first law making body after the amalgamation was know as the",
+  "options": {
+   "A": "Nigerian Council",
+   "B": "National Assembly",
+   "C": "Nigeria National Assembly",
+   "D": "Legislative Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-26",
+  "subject": "government",
+  "year": 1997,
+  "number": 26,
+  "question": "One major flaw of the British indirect rule in Nigeria was that the system",
+  "options": {
+   "A": "made use of traditional institution",
+   "B": "championed ethnocentrism",
+   "C": "encouraged the use of European administrators",
+   "D": "was not centralized"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-27",
+  "subject": "government",
+  "year": 1997,
+  "number": 27,
+  "question": "The nationalist organization formed in Nigerian in the late 1930s was the",
+  "options": {
+   "A": "National Council of Nigeria and the Cameroons",
+   "B": "Nigerian Youth Movement",
+   "C": "Nigerian National Democratic Party"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-28",
+  "subject": "government",
+  "year": 1997,
+  "number": 28,
+  "question": "In 1947, Dr. NnamdiAzikiwe led a delegation tothe British Colonial Office in London to protest against the",
+  "options": {
+   "A": "provisions of the Richards Constitution",
+   "B": "appointment of Bernar Bourdillon as Governor-General",
+   "C": "appointment of Oliver Lyttelton as colonial secretary",
+   "D": "provision of the Macpherson constitution"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-29",
+  "subject": "government",
+  "year": 1997,
+  "number": 29,
+  "question": "Under the 1922 Clifford constitution, franchise was granted in Calabar and Lagos to",
+  "options": {
+   "A": "all adults",
+   "B": "male adults",
+   "C": "persons with an annual income of at least 100",
+   "D": "male adults with an annual incomeof at least 100"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-30",
+  "subject": "government",
+  "year": 1997,
+  "number": 30,
+  "question": "Under the 1979 Constitution in Nigeria, each state of the federation",
+  "options": {
+   "A": "had a bicameral legislature",
+   "B": "had equal legislators in the House of Representatives",
+   "C": "had an equal number of senators",
+   "D": "was provided with a presidential liaison officer"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-31",
+  "subject": "government",
+  "year": 1997,
+  "number": 31,
+  "question": "Under he 1963 Republican Constitution, the power of judicial review was vested in the",
+  "options": {
+   "A": "supreme court",
+   "B": "parliament",
+   "C": "president",
+   "D": "the chief justice of the federation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-32",
+  "subject": "government",
+  "year": 1997,
+  "number": 32,
+  "question": "Between 1966 and 1975, the highest legislative body in Nigeria was the",
+  "options": {
+   "A": "Armed forces revolutionary council",
+   "B": "Supreme military council",
+   "C": "Armed forces ruling council",
+   "D": "Provisional ruling council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-33",
+  "subject": "government",
+  "year": 1997,
+  "number": 33,
+  "question": "Three important concepts associated with a well organized civil service are A .meritocracy, neutrality and bureaucracy",
+  "options": {
+   "B": "general orders, confidentialism and red-tapism",
+   "C": "neutrality, anonymity and impartiality",
+   "D": "bureaucracy, confidentialism and general orders"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-34",
+  "subject": "government",
+  "year": 1997,
+  "number": 34,
+  "question": "The public agency now mandated to register births and deaths in Nigeria is the",
+  "options": {
+   "A": "National Civil Registration Commission",
+   "B": "Civil Service Commission",
+   "C": "Ministry of Health",
+   "D": "National Population Commission"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-35",
+  "subject": "government",
+  "year": 1997,
+  "number": 35,
+  "question": "Under the Babangida administration, the political bureau recommended at the federal level,",
+  "options": {
+   "A": "unicameral legislature and multi-partysystem",
+   "B": "bicameral legislature and multi-party system",
+   "C": "unicameral legislature and two-party system",
+   "D": "bicameral legislature and two-party system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-36",
+  "subject": "government",
+  "year": 1997,
+  "number": 36,
+  "question": "The first political party that contested election in Nigeria after the Clifford Constitution was",
+  "options": {
+   "A": "Nigerian Youth Movement",
+   "B": "National Council of Nigeria and the Cameroons",
+   "C": "Northern People’s Congress"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-37",
+  "subject": "government",
+  "year": 1997,
+  "number": 37,
+  "question": "For pre-independence political parties in Nigeria included the",
+  "options": {
+   "A": "AG, NCNC, NNDP, and NYM",
+   "B": "NNDP, NCNC, NPC and AG",
+   "C": "NNDP, NCNC, NPC and UMBC",
+   "D": "NYM, NCNC, NPC and NNDP"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-38",
+  "subject": "government",
+  "year": 1997,
+  "number": 38,
+  "question": "In Nigeria, functions shared by the central and state governments include",
+  "options": {
+   "A": "external representation, education and provision of water",
+   "B": "construction of roads, defence and health",
+   "C": "control of ports, health and education D education, provision of water and construction of roads"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-39",
+  "subject": "government",
+  "year": 1997,
+  "number": 39,
+  "question": "The creation of more states in Nigeria has",
+  "options": {
+   "A": "eliminated ethnic and religious conflicts",
+   "B": "reduced the gap between rich and poor states",
+   "C": "increased the powers of the federal government",
+   "D": "increased the power of the states and local governments"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-40",
+  "subject": "government",
+  "year": 1997,
+  "number": 40,
+  "question": "After the botched coup of January 1966, power was handed over to General Johnson Aguiyi-Ironsi by the",
+  "options": {
+   "A": "senate",
+   "B": "president",
+   "C": "house of representatives",
+   "D": "council of ministers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-41",
+  "subject": "government",
+  "year": 1997,
+  "number": 41,
+  "question": "Nigeria’s major export commodities in the early years of her independence were",
+  "options": {
+   "A": "cocoa, groundnut and ginger",
+   "B": "cocoa, rubber and benniseed",
+   "C": "cocoa, palm oil and groundnut",
+   "D": "rubber, kolanut and cotton"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-42",
+  "subject": "government",
+  "year": 1997,
+  "number": 42,
+  "question": "The foreign affairs minister who introduced economic diplomacy as a foreign policy intiative was",
+  "options": {
+   "A": "Prof. Bolaji Akinyemi",
+   "B": "Major-General Ike Nwachukwu",
+   "C": "Prof. Ibrahim Gambari",
+   "D": "Major-General Joseph Garba"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-43",
+  "subject": "government",
+  "year": 1997,
+  "number": 43,
+  "question": "Non-alignment is no longer relevant in Nigeria foreign policy because",
+  "options": {
+   "A": "she is seen as the leader of Africa",
+   "B": "her focus is now on Africa",
+   "C": "of the formation of the ECOWAS",
+   "D": "the cold war has ended"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-44",
+  "subject": "government",
+  "year": 1997,
+  "number": 44,
+  "question": "In 1978, the Obasanjo Administration nationalized the assets of the British Petroleum and the Barclays Bank in Nigeria in reaction to the British",
+  "options": {
+   "A": "monopoly of Nigeria’s oil markets",
+   "B": "occupation of the Falkland Islands",
+   "C": "continued trade links with South Africa",
+   "D": "reluctance to write off Nigeria’s debts"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-45",
+  "subject": "government",
+  "year": 1997,
+  "number": 45,
+  "question": "Nigeria broke diplomatic relations with France in 1961 because of",
+  "options": {
+   "C": "General de-Gaulle’s negative attitude towards her",
+   "D": "France’s diplomatic relations with Israel"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-46",
+  "subject": "government",
+  "year": 1997,
+  "number": 46,
+  "question": "In 1993, Nigeria troops were on peace-keeping assignment to",
+  "options": {
+   "A": "Liberia and Burundi",
+   "B": "Rwanda and Liberia",
+   "C": "Chad and Liberia",
+   "D": "Liberia and somalia"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-47",
+  "subject": "government",
+  "year": 1997,
+  "number": 47,
+  "question": "Nigeria established a trust fund for other African countries with the",
+  "options": {
+   "A": "International Bank for Reconstruction and Development",
+   "B": "Nigerian Industrial Development Bank",
+   "C": "African Development Bank",
+   "D": "Economic Commission for Africa"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-48",
+  "subject": "government",
+  "year": 1997,
+  "number": 48,
+  "question": "Nations join international organizations so that they could",
+  "options": {
+   "A": "advance their interests",
+   "B": "get foreign aid",
+   "C": "form alliances",
+   "D": "become more developed"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-49",
+  "subject": "government",
+  "year": 1997,
+  "number": 49,
+  "question": "The organ of the U.N.O. with full representation is the",
+  "options": {
+   "A": "Security Council",
+   "B": "General Assembly",
+   "C": "Trusteeship Council",
+   "D": "International Court of Justice"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1997-50",
+  "subject": "government",
+  "year": 1997,
+  "number": 50,
+  "question": "Which of the following was the last to win indepen dence from colonial rule?",
+  "options": {
+   "A": "Cote d’Ivoire",
+   "B": "Algeria",
+   "C": "Tanzania",
+   "D": "Angola"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
