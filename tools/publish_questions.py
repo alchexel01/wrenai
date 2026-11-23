@@ -49,6 +49,7 @@ import re
 import shutil
 import subprocess
 import sys
+import time
 
 HERE = pathlib.Path(__file__).resolve().parent
 READER = HERE / "pdf_to_text.py"
@@ -147,6 +148,38 @@ def in_data(path):
     return path.startswith(DATA_DIR + "/") and not path.startswith(DATA_DIR + "/raw/")
 
 
+def backup_work(label):
+    """Copy every locally changed or conflicted file (except the question data this
+    script manages) into .publish_backups/<time>/ so nothing can ever be lost.
+    Returns the backup folder, or None if there was nothing to copy."""
+    out = git_out("-c", "core.quotepath=false", "status", "--porcelain", "-z")
+    paths = []
+    for ent in out.split("\0"):
+        if len(ent) > 3 and ent[:2] != "??" and ent[:2].strip() != "D":
+            paths.append(ent[3:])
+    paths = [p for p in paths if not in_data(p) and pathlib.Path(p).is_file()]
+    if not paths:
+        return None
+    dest = pathlib.Path(".publish_backups") / (time.strftime("%Y%m%d-%H%M%S") + "-" + label)
+    for p in paths:
+        try:
+            t = dest / p
+            t.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(p, t)
+        except OSError:
+            pass
+    try:                                     # keep backups out of git, forever
+        ex = pathlib.Path(git_out("rev-parse", "--git-dir").strip()) / "info" / "exclude"
+        cur = ex.read_text(encoding="utf-8") if ex.exists() else ""
+        if ".publish_backups/" not in cur:
+            ex.parent.mkdir(parents=True, exist_ok=True)
+            ex.write_text(cur.rstrip("\n") + "\n.publish_backups/\n", encoding="utf-8")
+    except OSError:
+        pass
+    print(f"  Safety copy of your {len(paths)} edited file(s) saved in {dest}")
+    return dest
+
+
 def preflight():
     """Check the repo is healthy and is the right one, fixing the safe things.
     Returns the current branch name. Never touches textbooks/ or backend files."""
@@ -168,38 +201,54 @@ def preflight():
 
     gitdir = pathlib.Path(git_out("rev-parse", "--git-dir").strip())
 
-    # a half-finished rebase / merge left over from an earlier problem
+    # a half-finished rebase / merge left over from an earlier problem.
+    # Your files are copied to .publish_backups first, and a merge is cleared with
+    # 'git reset' (which never touches the files on disk).
     for op, marks, abort in (
             ("rebase", ("rebase-merge", "rebase-apply"), ["rebase", "--abort"]),
-            ("merge", ("MERGE_HEAD",), ["merge", "--abort"]),
-            ("cherry-pick", ("CHERRY_PICK_HEAD",), ["cherry-pick", "--abort"]),
-            ("revert", ("REVERT_HEAD",), ["revert", "--abort"])):
+            ("merge", ("MERGE_HEAD",), None),
+            ("cherry-pick", ("CHERRY_PICK_HEAD",), None),
+            ("revert", ("REVERT_HEAD",), None)):
         if any((gitdir / m).exists() for m in marks):
             print(f"\nA {op} was left half-finished in this repo.")
-            if not yes_no(f"Cancel it? (puts the repo back to how it was before the {op})", True):
+            backup_work(op)
+            if not yes_no(f"Clear it so uploading can continue? (your files are not deleted)", True):
                 sys.exit("Stopped. Finish or cancel it, then run this again.")
-            if git(*abort).returncode != 0:
-                sys.exit(f"Could not cancel the {op}. Run 'git status' and send me what it says.")
-            print(f"  {op} cancelled.")
+            if abort:
+                ok = git(*abort).returncode == 0
+            else:
+                ok = git("reset", "-q").returncode == 0
+                for m in marks:                      # leftover state files, if any
+                    try:
+                        (gitdir / m).unlink()
+                    except OSError:
+                        pass
+            if not ok:
+                sys.exit(f"Could not clear the {op}. Your files are safe in .publish_backups. "
+                         "Run 'git status' and send me what it says.")
+            print(f"  {op} cleared.")
 
-    # files stuck in an unresolved conflict (the 'U' in git status)
+    # files flagged as conflicted (the '!' in VS Code). They are NOT reverted: the
+    # script only uploads question data, so their contents do not matter here. We
+    # copy them aside, then un-flag them with 'git reset' (files on disk untouched).
     un = [p for p in git_out("-c", "core.quotepath=false", "diff", "--name-only",
                              "--diff-filter=U").splitlines() if p]
     if un:
-        print("\nThese files are stuck in an unresolved conflict:")
+        print("\nThese files are flagged as an unresolved conflict:")
         for p in un:
             print("  " + p)
-        if not yes_no("Put them back to the last saved version? (a copy of each current "
-                      "file is kept as <name>.conflict_backup)", True):
-            sys.exit("Stopped. Resolve the conflict, then run this again.")
+        backup_work("conflict")
+        if git("reset", "-q").returncode != 0:
+            sys.exit("Could not clear the conflict flags. Your files are safe in "
+                     ".publish_backups. Run 'git status' and send me what it says.")
+        print("  Flags cleared. Your files on disk were NOT changed or reverted.")
         for p in un:
             try:
-                shutil.copy2(p, p + ".conflict_backup")
+                if "<<<<<<< " in pathlib.Path(p).read_text(encoding="utf-8", errors="ignore"):
+                    print(f"  WARNING: {p} still has <<<<<<< conflict markers inside it. "
+                          "Search for them and fix them before you run the app.")
             except OSError:
                 pass
-            if git("checkout", "HEAD", "--", p).returncode != 0:
-                sys.exit(f"Could not restore {p}. Run 'git status' and send me what it says.")
-        print("  conflicts cleared.")
 
     # a stale lock left by a crashed git
     lock = gitdir / "index.lock"
@@ -290,8 +339,11 @@ def unpushed_count(branch):
 
 
 def recover_rejected(branch):
-    """GitHub has newer commits. Combine them only if that is clearly safe."""
-    print("\nGitHub has newer changes than this PC. Checking it is safe to combine them...")
+    """GitHub has newer commits. Put our question commits on top of them in a
+    separate temporary folder, so your working files (main.py etc.) are never
+    stashed, rebased, merged or conflicted."""
+    print("\nGitHub has newer changes than this PC. Combining them in a separate "
+          "temporary folder (your files are not touched)...")
     r = git("fetch", "origin")
     if r.returncode != 0:
         if not explain(r.stderr):
@@ -299,18 +351,39 @@ def recover_rejected(branch):
         return False
     if not refuse_if_unsafe(branch):
         return False
-    theirs = git_out("diff", "--name-only", f"HEAD...origin/{branch}").splitlines()
-    print(f"  Combining {len(theirs)} changed file(s) from GitHub with your question files.")
-    code, text = run_live(["git", "rebase", "--autostash", f"origin/{branch}"])
-    if code != 0:
-        git("rebase", "--abort")                 # also restores anything it set aside
-        print("\nCould not combine them automatically, so I put everything back as it was.")
-        print("Send me the lines above and I will sort it out. Nothing was pushed.")
+    backup_work("before-sync")
+    gitdir = pathlib.Path(git_out("rev-parse", "--git-dir").strip()).resolve()
+    tmp = gitdir / "publish_tmp_worktree"
+    git("worktree", "prune")
+    if tmp.exists():
+        git("worktree", "remove", "--force", str(tmp))
+        shutil.rmtree(tmp, ignore_errors=True)
+    if git("worktree", "add", "--detach", str(tmp), f"origin/{branch}").returncode != 0:
+        print("Could not make the temporary folder. Nothing was pushed.")
         return False
-    if git_out("diff", "--name-only", "--diff-filter=U").strip():
-        print("\nNOTE: your commit is fine, but a leftover local edit now conflicts. It does not "
-              "affect GitHub. Run 'git status' to see which file.")
-    return True
+    ok = False
+    try:
+        commits = git_out("rev-list", "--reverse", f"origin/{branch}..HEAD").split()
+        code, _ = run_live(["git", "-C", str(tmp), "cherry-pick", *commits])
+        if code != 0:
+            git("-C", str(tmp), "cherry-pick", "--abort")
+            print("\nCould not combine automatically (the same question file changed on "
+                  "GitHub too). Nothing was pushed and your files are untouched.")
+            print("Send me the lines above and I will sort it out.")
+            return False
+        code, _ = run_live(["git", "-C", str(tmp), "push", "origin", f"HEAD:{branch}"])
+        ok = code == 0
+    finally:
+        git("worktree", "remove", "--force", str(tmp))
+        shutil.rmtree(tmp, ignore_errors=True)
+        git("worktree", "prune")
+    if ok:
+        # point this PC's history at GitHub's. --mixed never touches files on disk.
+        git("fetch", "origin")
+        git("reset", "--mixed", "-q", f"origin/{branch}")
+        # bring in the other question files GitHub had (question data only)
+        git("checkout", "HEAD", "--", DATA_DIR)
+    return ok
 
 
 def refuse_if_unsafe(branch):
