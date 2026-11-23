@@ -107,6 +107,14 @@ FULL_BOOK_IDLE_STOP = float(os.environ.get("TEXTBOOKS_PRERENDER_IDLE_STOP", "900
 # Set to 0 to disable the cap (not recommended).
 MAX_WAITING = int(os.environ.get("TEXTBOOKS_MAX_WAITING", "24"))
 
+# When a student jumps (slider / fast scroll), their OWN queued requests for
+# pages more than this many pages away from the new one are cancelled: those
+# are the pages they flew past, and rendering them would delay the pages
+# around where they landed. Only the same student's requests are cancelled
+# (matched by the app's `sid`), so other readers of the same book are never
+# affected. 0 turns this off.
+JUMP_DROP_PAGES = int(os.environ.get("TEXTBOOKS_JUMP_DROP_PAGES", "12"))
+
 # A request that has waited this long gives up instead of hanging forever.
 REQUEST_TIMEOUT = float(os.environ.get("TEXTBOOKS_REQUEST_TIMEOUT", "20"))
 
@@ -379,9 +387,10 @@ _QUEUED, _RUNNING, _DONE = 0, 1, 2
 class _Job:
     """One page a student is waiting for. Any number of request threads can
     wait on the same job; each sleeps on the shared Event."""
-    __slots__ = ("book_id", "page", "seq", "state", "event", "error")
+    __slots__ = ("book_id", "page", "seq", "state", "event", "error", "student")
 
-    def __init__(self, book_id, page, seq):
+    def __init__(self, book_id, page, seq, student=""):
+        self.student = student
         self.book_id = book_id
         self.page = page
         self.seq = seq              # higher = requested more recently
@@ -422,14 +431,24 @@ def _drop(job: _Job):
     job.event.set()
 
 
-def _submit(book_id: str, page: int) -> _Job:
+def _submit(book_id: str, page: int, student: str = "") -> _Job:
     key = (book_id, page)
     with _cv:
         _note_request(book_id, page)
         _seq[0] += 1
         job = _jobs.get(key)
+        if student and JUMP_DROP_PAGES > 0:
+            # This student jumped: cancel THEIR queued requests for pages
+            # far from here (never a render that is already running).
+            for old in [j for j in _jobs.values()
+                        if j.state == _QUEUED and j.student == student
+                        and j.book_id == book_id and j is not job
+                        and abs(j.page - page) > JUMP_DROP_PAGES]:
+                _log(f"user {old.book_id[:6]} p{old.page}: "
+                     f"cancelled (student jumped to p{page})")
+                _drop(old)
         if job is None:
-            job = _Job(book_id, page, _seq[0])
+            job = _Job(book_id, page, _seq[0], student)
             _jobs[key] = job
             if MAX_WAITING > 0:
                 queued = [j for j in _jobs.values() if j.state == _QUEUED]
@@ -643,10 +662,35 @@ def list_textbooks():
     return out
 
 
-def get_page_path(book_id: str, page: int) -> Path:
+def ready_pages(book_id: str):
+    """Page numbers of this book that are already rendered and waiting on
+    disk, sorted. Cheap (one folder listing) and never renders anything, so
+    the app can poll it to download pages the moment they are ready."""
+    if not _scan_books().get(book_id) and not _scan_books(force=True).get(book_id):
+        raise TextbookNotFound(book_id)
+    out = []
+    try:
+        for n in os.listdir(CACHE_DIR / book_id):
+            if n.startswith("page_") and n.endswith(".jpg"):
+                try:
+                    out.append(int(n[5:-4]))
+                except ValueError:
+                    pass
+    except FileNotFoundError:
+        pass
+    out.sort()
+    return out
+
+
+def get_page_path(book_id: str, page: int, track: bool = True,
+                  student: str = "") -> Path:
     """Returns the local path to `page` (1-indexed) of the given textbook,
     rendering and caching it first if needed. Raises TextbookNotFound /
-    PageOutOfRange (main.py turns those into 404s)."""
+    PageOutOfRange (main.py turns those into 404s).
+
+    track=False is for the app's background downloader: it only ever gets
+    pages that are already rendered, never triggers a render, and does not
+    move the "where is the student" marker the background rendering follows."""
     _ensure_worker()
 
     meta = _scan_books().get(book_id)
@@ -667,12 +711,15 @@ def get_page_path(book_id: str, page: int) -> Path:
 
     dest = _page_dest(book_id, page)
     if dest.exists():
-        _note_request(book_id, page)   # background work follows the student
-        _log(f"user {book_id[:6]} p{page}: cache hit")
+        if track:
+            _note_request(book_id, page)   # background work follows the student
+            _log(f"user {book_id[:6]} p{page}: cache hit")
         return dest
+    if not track:
+        raise PageSuperseded(page)         # not ready yet: don't render it
 
     t_req = time.perf_counter()
-    job = _submit(book_id, page)
+    job = _submit(book_id, page, student)
     _wait_for(job)
     if not dest.exists():
         raise PageOutOfRange(page)
