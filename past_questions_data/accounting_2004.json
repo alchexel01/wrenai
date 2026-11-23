@@ -1,0 +1,921 @@
+[
+ {
+  "id": "accounting-2004-1",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 1,
+  "question": "The accounting principle that is applied to check arbitrary actions on the part of accountants is",
+  "options": {
+   "A": "Consistency",
+   "B": "Materiality",
+   "C": "Objectivity",
+   "D": "Realization 2 The loss of equipment in a fire disaster results in"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-3",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 3,
+  "question": "A source document is used for verifying the",
+  "options": {
+   "A": "Amount due to creditors,",
+   "B": "Actual cost of an asset, C. Selling price of goods, D. Amount due from debtors"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-4",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 4,
+  "question": "The rule of accounting equation requires that account payable should be placed under",
+  "options": {
+   "A": "Liabilities,",
+   "B": "Equities",
+   "C": "Assets",
+   "D": "Capital Use the information below to answer questions 5 and 6 Cash Book N N Capital 6 600 Purchases 3.500 Sales 3 000 Stationery 1300 Debtors 2 500 Wages 2 700 The owner wishes to maintain an amount equal to ¹/₃ of capital as drawings"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-5",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 5,
+  "question": "The amount withdrawn is",
+  "options": {
+   "A": "N2,100,",
+   "B": "N2, 200,",
+   "C": "N4,400, D.N6,400"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-6",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 6,
+  "question": "The cash book closing balance will be",
+  "options": {
+   "A": "N900,",
+   "B": "N2,400,",
+   "C": "N4,200, D.N4,600"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-7",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 7,
+  "question": "A debit in the suspense account will appear in the balance sheet as",
+  "options": {
+   "A": "A current asset,",
+   "B": "A current liability",
+   "C": "Capital",
+   "D": "Drawings"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-8",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 8,
+  "question": "The recipient whose name appears on cheque is called a",
+  "options": {
+   "A": "Payer",
+   "B": "Drawer",
+   "C": "Drawee",
+   "D": "Payee"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-9",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 9,
+  "question": "The imprest account is subsidiary to the",
+  "options": {
+   "A": "ledger account,",
+   "B": "Bank account",
+   "C": "Cash book",
+   "D": "Petty cash"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-10",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 10,
+  "question": "The three-column cash book differs from the two-column cash book in",
+  "options": {
+   "A": "Cash column,",
+   "B": "Discount column"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-11",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 11,
+  "question": "Zakari started business in January 2000. He bought a shop costing N54,000 and stock worth N7,600. profit for the year amounted to N22,100. His closing capital was N73,800 Zakari’s personal drawings amounted to",
+  "options": {
+   "A": "N2,300,",
+   "B": "N9,900,",
+   "C": "N17,100, D.N19,500"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-12",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 12,
+  "question": "The balance on the provision for depreciation account is",
+  "options": {
+   "A": "added to fixed assets on the balance sheet",
+   "B": "deducted from fixed assets on the balance sheet",
+   "C": "deducted from the profit and loss account",
+   "D": "added to the current liabilities of the account"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-13",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 13,
+  "question": "Given: Rates paid during the year amount to N2,250 at N125 per month and N1,035 was paid for electricity in the same period an N115 per month Determine the amount of prepaid rates",
+  "options": {
+   "A": "N345,",
+   "B": "N750,",
+   "C": "N1,380 D.N1,500 Use the information below to answer questions 14 and 15 Date Receipt Issued (Units May 2 80 @ N3.00 - May 10 50 @ N3.20 - May 17 - 20 May 25 - 60 May 31 20 @ N2.90 -"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-14",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 14,
+  "question": "What is the value of raw materials issued on May 17th based ion the LIFO method?",
+  "options": {
+   "A": "N60,",
+   "B": "N61,",
+   "C": "N62,",
+   "D": "N64"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-15",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 15,
+  "question": "Based on the FIFO method of valuation, the total cost of raw materials issued is",
+  "options": {
+   "A": "N150,",
+   "B": "N160,",
+   "C": "N240,",
+   "D": "N250"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-16",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 16,
+  "question": "Where closing stock is undervalued, the effect is",
+  "options": {
+   "A": "an increase in gross profit,",
+   "B": "a decrease in gross profit,",
+   "C": "an increase in purchases,",
+   "D": "a decrease in purchases Use the information below to answer questions 17 and 18 Opening balance 10,640 Purchases 26,912 Returns inwards 492 Returns outwards 810 Cash discount received 1,348 Cash discount allowed 1,560 Cash paid to suppliers 20,808 At the year-end, the purchases ledger showed a"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-17",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 17,
+  "question": "The total on the debit side of the purchase ledger con- trol account will be:",
+  "options": {
+   "A": "N22,966",
+   "B": "N22,15",
+   "C": "N21,834,",
+   "D": "N21,054"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-18",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 18,
+  "question": "The balancing figure in the purchases ledger control account is",
+  "options": {
+   "A": "N15,828",
+   "B": "N15,720",
+   "C": "N14,940",
+   "D": "N14,694"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-19",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 19,
+  "question": "In a sales ledger, contra entry is found on the",
+  "options": {
+   "A": "debit side of the debtors’ control account",
+   "B": "debit side of the creditors’ control account",
+   "C": "credit side of the debtors’ control account",
+   "D": "credit side of the creditors’ control account"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-20",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 20,
+  "question": "The beginning and ending accounts receivable balances were N20,000 and N30,000 respectively. The collection from customers during the period was N70,000. What was the total sale on account?",
+  "options": {
+   "A": "N20,000",
+   "B": "N60,000",
+   "C": "N80,000",
+   "D": "N120,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-21",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 21,
+  "question": "Given : General expenses account Paid by cheque 671 Paid by cash 70 Acrued b/f 65 Acrued c/f 115 Determine how much to be charged profit and loss ac- count",
+  "options": {
+   "A": "N606,",
+   "B": "N786,",
+   "C": "N791, D.N856"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-22",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 22,
+  "question": "In converting single entry to final account, the balanc- ing figures on the income and expenses accounts are transferred to the",
+  "options": {
+   "A": "revenue and expenditure account",
+   "B": "receipts and payments account",
+   "C": "profit and loss appropriation account",
+   "D": "profit and loss account Use the information below to answer questions 23 and 24 Beginning inventory ? Purchases ? Ending inventory 4,800 Sales 12,800 Wages 1,040 Gross profit 5,900 The beginning inventory was estimated at 80% of sales."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-23",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 23,
+  "question": "Determine the amount for the beginning inventory",
+  "options": {
+   "A": "N20,140",
+   "B": "N10,240",
+   "C": "N8,140",
+   "D": "N7,240"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-24",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 24,
+  "question": "What is the figure for purchases?",
+  "options": {
+   "A": "N2,400,",
+   "B": "N2,500,",
+   "C": "N4,200, D.N5,200"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-25",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 25,
+  "question": "Cost classification in relation to charges is determine by the level of",
+  "options": {
+   "A": "raw materials",
+   "B": "labour",
+   "C": "activity",
+   "D": "profitability Use the information below to answer questions 26 and 27 Materials consumed 16,600 Direct cost 5,400 Factory rent 2,300 Factory lighting 1,200 Cost of production to be transferred at cost plus 20% mark-up"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-26",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 26,
+  "question": "The gross profit on manufacture is",
+  "options": {
+   "A": "N6,120",
+   "B": "N6, 100",
+   "C": "N5,100",
+   "D": "N5,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-27",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 27,
+  "question": "The market value of goods produced is",
+  "options": {
+   "A": "N30,500",
+   "B": "N30,600",
+   "C": "N31,600",
+   "D": "N31,620 Use the information below to answer questions 28 and 29 On January 1, 2000, a club’s assets and liabilities were as follows: N Club house 8000 Subscription in arrears 300 Cash 1000 Wages owed 100 The club has 50 members and annual subscription is N100 per member. Subscription received is N4,000 and this includes 1999 arrears of N200"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-28",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 28,
+  "question": "The accumulated fund is",
+  "options": {
+   "A": "N9,400",
+   "B": "N9,300",
+   "C": "N9,200",
+   "D": "N9,100"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-29",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 29,
+  "question": "In the balance sheet, the subscription in arrears will be",
+  "options": {
+   "A": "N200",
+   "B": "N300",
+   "C": "N1,200",
+   "D": "N1,300"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-30",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 30,
+  "question": "Where the debit side of the income and expenditure account is higher than the credit side, the difference is",
+  "options": {
+   "A": "Deficit",
+   "B": "surplus",
+   "C": "Gain",
+   "D": "loss"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-31",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 31,
+  "question": "In the balance sheet of a not-for profit making organization, subscription paid in advance is regarded as a",
+  "options": {
+   "A": "current asset",
+   "B": "current liability",
+   "C": "capital",
+   "D": "reserve"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-32",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 32,
+  "question": "A rapidly growing business organisation with multiple units that is interested in comparing the performances and weakness of each unit should adopt",
+  "options": {
+   "A": "manufacturing accounts",
+   "B": "consolidated accounts",
+   "C": "departmental accounts",
+   "D": "joint venture accounts Use the information below to answer questions 33 and 34 Dept. S Dept. T Total N N N Gross profit b/d 6,000 4,000 10,000 Less: salaries&wages 1,800 1,200 3,000 Electricity ? ? 2,000 Depreciation 60 ? 1,000 Net profit c/d ? 1,600 4,000 6,000 4,000 10,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-33",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 33,
+  "question": "What is the net profit by department S?",
+  "options": {
+   "A": "N3,600",
+   "B": "N3,000",
+   "C": "N2,400",
+   "D": "N2,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-34",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 34,
+  "question": "The depreciation to be charged to department T is",
+  "options": {
+   "A": "N300",
+   "B": "N400",
+   "C": "N500",
+   "D": "N600"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-35",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 35,
+  "question": "How are credit sales by a department treated?",
+  "options": {
+   "A": "the same was as normal debtors’ transactions",
+   "B": "in a different way from normal debtors’ transac- tions",
+   "C": "as an addition to the sales manager’s account",
+   "D": "as an addition to the production manager’s account"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-36",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 36,
+  "question": "Discounts granted to branch customers are treated as a debit to branch",
+  "options": {
+   "A": "stock account and a credit to branch debtors’ ac- count",
+   "B": "discount account and a credit to branch bank ac- count",
+   "C": "stock account and a credit to branch bank account",
+   "D": "discount account and a credit to branch debtors’ account"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-37",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 37,
+  "question": "Transfers from the head office to branches are best carried out at",
+  "options": {
+   "A": "cost price",
+   "B": "selling price",
+   "C": "cost plus mark-up",
+   "D": "market price"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-38",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 38,
+  "question": "On dissolution, the final distribution of cash to partners is based on",
+  "options": {
+   "A": "partnership agreement",
+   "B": "articles of association",
+   "C": "goodwill",
+   "D": "capital balances Use the information below to answer questions 39 and 40 Jumoke and Kunle have a original investment of N25,000 and N15,000 respectively in a partnership. The articles of partner- ship provide 3% interest on capital and salaries of N1,500 and N1,000 respectively for the PARTIES. The profit & loss are to be shared in the ration 3:2 miscellaneous expenses of N2,500 were incurred with gross profit of N6,500 during the financial year."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-39",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 39,
+  "question": "The balance of profit and loss account will be",
+  "options": {
+   "A": "N4,000",
+   "B": "N2,800",
+   "C": "N1,500",
+   "D": "N300"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-40",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 40,
+  "question": "What is Kunle’s share of the profit?",
+  "options": {
+   "A": "N600,",
+   "B": "N300,",
+   "C": "N180,",
+   "D": "N120"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-41",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 41,
+  "question": "When a new partner is admitted to a partnership there is a need to revolved the",
+  "options": {
+   "A": "capital of the business",
+   "B": "capital and liabilities of the business",
+   "C": "assets and capital of the business",
+   "D": "assets and liabilities of the business"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-42",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 42,
+  "question": "The accounting entry to record the premium on good- will is to debit",
+  "options": {
+   "A": "cash and credit old partners’ capita,",
+   "B": "goodwill and credit revaluation",
+   "C": "assets and credit capital",
+   "D": "capital and credit assets"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-43",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 43,
+  "question": "The expenses incurred in promoting a company are:",
+  "options": {
+   "A": "promoters’ expenses,",
+   "B": "floating expenses",
+   "C": "the board’s expenses"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-44",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 44,
+  "question": "Debentures can be redeemed out of",
+  "options": {
+   "A": "existing share capital reserve",
+   "B": "existing general reserve",
+   "C": "proceeds from new issue of shares",
+   "D": "withholding tax Use the information below to answer questions 45 and 46 Given: Share capital Issued 600,000 10% preference shares of N0.50 each - 600,000 ordinary shares of N1 each 500,000 Capital reserves 250,000 Revenue reserves 207,000 Long-term liabilities 400,000 1,357,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-45",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 45,
+  "question": "What is the value of the authorized share capital?",
+  "options": {
+   "A": "N500,000",
+   "B": "N600,000",
+   "C": "N750,000",
+   "D": "N1,200,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-46",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 46,
+  "question": "The value of the owner’s equity is",
+  "options": {
+   "A": "N400,000",
+   "B": "N900,000",
+   "D": "N1,357,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-47",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 47,
+  "question": "Share premium is an example of",
+  "options": {
+   "A": "revenue reserves",
+   "B": "capital reserves",
+   "C": "general reserves",
+   "D": "loan capital"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-48",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 48,
+  "question": "According to the provisions of the 1999 constitution, all revenue generated by the Federal Government must be paid into the",
+  "options": {
+   "A": "Consolidated revenue fund,",
+   "B": "Federation account",
+   "C": "revenue mobilization allocation and fiscal commission’s account,",
+   "D": "equalization fund"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-49",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 49,
+  "question": "The budget statement presented to the legislature by the Chief Executive is called",
+  "options": {
+   "A": "an appropriation act,",
+   "B": "a budget bill",
+   "C": "an appropriation bill",
+   "D": "a budget proposal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-2004-50",
+  "subject": "accounting",
+  "year": 2004,
+  "number": 50,
+  "question": "The statement of assets and liabilities in the public sector can be described as the",
+  "options": {
+   "A": "income and expenditure account of government",
+   "B": "appropriation account of government",
+   "C": "balance sheet of government",
+   "D": "funds flow statement of government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

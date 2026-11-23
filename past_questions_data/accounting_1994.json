@@ -1,0 +1,939 @@
+[
+ {
+  "id": "accounting-1994-1",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 1,
+  "question": "The term ‘accounting period’ is used to refer to the",
+  "options": {
+   "A": "time span during which taxes are paid to the Inland Revenue Board",
+   "B": "Budget period, usually one year, relied on by the accountant",
+   "C": "time span, usually one year covered by financial statement",
+   "D": "period within which debtors are expected to settle accounts."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-2",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 2,
+  "question": "Assigning revenues to the accounting period in which goods were sold or services rendered and expenses in- curred is known as",
+  "options": {
+   "A": "passing of entries",
+   "B": "consistency convention",
+   "C": "matching concept",
+   "D": "adjusting for revenue."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-3",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 3,
+  "question": "The accounting convention which states that ‘profit must not be recognized until realized while all losses should be adequately provided for’ is termed",
+  "options": {
+   "A": "materiality",
+   "B": "objectivity",
+   "C": "consistency",
+   "D": "conservatism."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-4",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 4,
+  "question": "Accounting information is used by investors and credi- tors of a company to predict",
+  "options": {
+   "A": "future cash flows of the company",
+   "B": "future tax payments of the company",
+   "C": "potential merger candidates for the company",
+   "D": "appropriate remuneration for the company’s staff."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-5",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 5,
+  "question": "Antics Electronics Company recently bought six genera- tors. Which of the following is the correct method of recording this transaction.",
+  "options": {
+   "A": "Debit generator account and credit cash account.",
+   "B": "Debit purchases account and credit cash account.",
+   "C": "Debit cash account and credit purchases account.",
+   "D": "Debit cash account and credit generator account."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-6",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 6,
+  "question": "When a business incurs labours cost in installing a fixed asset, the cost is treated as",
+  "options": {
+   "A": "additional cost to the asset",
+   "B": "business wages and salaries",
+   "C": "installation cost of the asset",
+   "D": "business cost of the asset."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-7",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 7,
+  "question": "What is the cardinal rule of the double entry system?",
+  "options": {
+   "A": "Debit the increasing account and credit the decreasing account.",
+   "B": "Debit the receiving account and credit the giving account.",
+   "C": "Debit the asset account and credit the liability account.",
+   "D": "Debit the revenue account and credit the expenditure account."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-8",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 8,
+  "question": "Malam Gambo bought a freezer for his shop costing N",
+  "options": {
+   "A": "Error of commission",
+   "B": "Error of reversal of entries. C. Error of principle. D. Compensation er- ror."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-9",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 9,
+  "question": "The use of the folio in the ledger is for",
+  "options": {
+   "A": "Referencing purposes",
+   "B": "Particulars of the transaction",
+   "C": "the account titles",
+   "D": "Only credit items."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-10",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 10,
+  "question": "Account of Tanko Nig Ltd. 000 Sales 10,000 15/10 Bank 6,500 What is the closing balance of the account shown above?",
+  "options": {
+   "A": "N 5,000",
+   "B": "N 6,500",
+   "C": "N 5,500",
+   "D": "N 15,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "accounting/1994_p2_1.png",
+  "images": [
+   "accounting/1994_p2_1.png"
+  ]
+ },
+ {
+  "id": "accounting-1994-11",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 11,
+  "question": "The suspense account is used to correct book keeping errors where the",
+  "options": {
+   "A": "amount involved is quite significant",
+   "B": "item involved is not material",
+   "C": "item involved is unknown",
+   "D": "error does not affect the agreement of the trial balance."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-12",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 12,
+  "question": "The discount column of a three column cashbook is not balanced off but periodically transferred to the discount accounts because discounts.",
+  "options": {
+   "A": "are not important in cash book",
+   "B": "are cash items only",
+   "C": "do not form part of double entry",
+   "D": "are used for bank reconciliation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-13",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 13,
+  "question": "When is a petty cash account debited?",
+  "options": {
+   "A": "When the fund is established and every time money is spent",
+   "B": "when the fund is established and every time it is replenished",
+   "C": "when the fund is established and when the size of the float is decreased",
+   "D": "Every time money is drawn from the petty cash."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-14",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 14,
+  "question": "When preparing a bank reconciliation statement, which of the following is deducted from the balance per bank statement?",
+  "options": {
+   "A": "Bank charges.",
+   "B": "Uncleared cheques",
+   "C": "returned cheques",
+   "D": "Unpresented cheques."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-15",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 15,
+  "question": "The financial position of an organization at a particular time can be ascertained from the",
+  "options": {
+   "A": "statement of sources and application of funds"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-16",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 16,
+  "question": "Given: Purchase 20,000 Sales 40,000 Carriage inwards 5,000 Carriage outwards 5,000 Opening stock 10,000 Closing stock 5,000 What is the cost of good sold?",
+  "options": {
+   "A": "N 30,000",
+   "B": "N 25,000",
+   "C": "N 20,000",
+   "D": "N 15,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-17",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 17,
+  "question": "The net profit or loss for the year is determined in the profit and loss account after",
+  "options": {
+   "A": "deducting purchases from sales",
+   "B": "deducting cost of goods sold from sales and adding administrative expenses",
+   "C": "adding commissions received to gross profit",
+   "D": "eliminating all expenses from gross profit and adding any other income. Use the table below to an swer question 18 and 19 Stock Cos t price Qty (units) Opening balance1/1/90 3.00 3,000 Purchases January 3.50 15,000 Purchases February 4.00 25,000 Sales January 4.50 13,000 Sales February 5.00 28,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-18",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 18,
+  "question": "Using LIFO, determine the value of clos ing stock.",
+  "options": {
+   "A": "N 9,600",
+   "B": "N 7,600",
+   "C": "N 6,000",
+   "D": "N 2,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-19",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 19,
+  "question": "What is the gross profit at the end of February, if the closing stock were valued at N 20,000?",
+  "options": {
+   "A": "N 65,000",
+   "B": "N 57,000",
+   "C": "N 48,000",
+   "D": "N 37,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-20",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 20,
+  "question": "A trial balance shows provision for doubtful debts, N 190 and debtors, N 6,000. It is required to write off further N320 as bad debts and maintain the provision at 2½% of debtors. To do this, the profit and loss should show a",
+  "options": {
+   "A": "credit of N 20 and a debit of N 100",
+   "B": "credit of N 28 and a debit of N 300",
+   "C": "credit of N 48",
+   "D": "debit entry of N 414"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-21",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 21,
+  "question": "If a bad debt previously written off is subsequently repaid, the amount collected is recorded as an",
+  "options": {
+   "A": "income in the profit and loss account",
+   "B": "income in the balance sheet",
+   "C": "addition cash in the profit and loss account",
+   "D": "expense in the balance sheet."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-22",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 22,
+  "question": "Beginning and ending accounts receivable balances were N 8,000 and N 15,000 respectively. If collections from customers during the period were N 36,000, them total",
+  "options": {
+   "A": "N 23,000",
+   "B": "N 29,000",
+   "C": "N 36,000",
+   "D": "N 43,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-23",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 23,
+  "question": "From which of the following sources are creditors con- trol account most likely to be posted?",
+  "options": {
+   "A": "Supplier’s invoices",
+   "B": "Cash disbursements journal",
+   "C": "Subsidiary debtor’s ledger",
+   "D": "Purchases journal. Use the information below to answer questions 24 and Chukwuma Okeke did not keep his books based on the double entry principle. On 1st January 1993, Cash in hand was N60, Bank overdraft N1,100, Debtor N7,240, Stock N27.450, Furnishings N2,000 and creditors N6,990. As at 31st December 1993, Cash in hand was N40, Cash at bank was N 1,050, Debtors N6,750, Stock N29, 180, Furnish- ings N2,000 and Creditors N 6,090."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-24",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 24,
+  "question": "Compute the capital as at 1st January 1993.",
+  "options": {
+   "A": "N29,800",
+   "B": "N28,900",
+   "C": "N26, 700",
+   "D": "N20,800."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-25",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 25,
+  "question": "Determine his net profit as at 31st December 1993.",
+  "options": {
+   "A": "N2,000",
+   "B": "N2,200",
+   "C": "N3,500",
+   "D": "N4,200."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-26",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 26,
+  "question": "Which of the following categories of labours cost will be classified as direct?",
+  "options": {
+   "A": "Accountant’s salary",
+   "B": "Factory workers’ salary",
+   "C": "Managing director’s salary",
+   "D": "Cashier’s salary. Use the information below to answer questions 27 and Unit Unit Total Unit Cost Cost Sold N N Begining inventory 20 6 120 Sale No. 1 18 Purchase No. 1 30 8 240 Sales No. 2 20 Purchase No 2 10 9 90 Total 60 38"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-27",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 27,
+  "question": "Using the FIFO method of stock valuation, the ending inventory cost is",
+  "options": {
+   "A": "N 146",
+   "B": "N 165",
+   "C": "N 186",
+   "D": "N 314"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-28",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 28,
+  "question": "Using the LIFO inventory procedures, the ending inventory cost is",
+  "options": {
+   "A": "N136",
+   "B": "N 176",
+   "C": "N 196",
+   "D": "N 264"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-29",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 29,
+  "question": "The major difference between the receipt and payment account and the income and expenditure ac- count is that while the former",
+  "options": {
+   "A": "is kept by the treasurer, the latter is not",
+   "B": "deals with all receipt and payments in the year regardless of the time it relates to the latter is for just that year"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-30",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 30,
+  "question": "The following information relates to a hockey club: Subscription owing at the beginning 40 Subscription owing at the end 35 Subscription received in the advance at the beginning 15 Subscription received During the period 2,560 The amount to be shown in the income and expenditure account would be",
+  "options": {
+   "A": "N 2,500",
+   "B": "N 2,540",
+   "C": "N 2,570",
+   "D": "N 2,590."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-31",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 31,
+  "question": "The net profit from the trading account of a non-profit making organization would be treated as income in the",
+  "options": {
+   "A": "income and expenditure account",
+   "B": "receipt and payment account",
+   "C": "balance sheet",
+   "D": "statement of affairs Use the information below to answer questions 32 and 33. Ada and Udo are lawyers who went into partnership as Ado & Co. Ada brought cash of N12,000, furnishing worth N18,000 and a motor vehicle worth N70, 000 Udo on the other hand brought in cash N10,000, his building valued at N05,000 and a personal computer worth N135,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-32",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 32,
+  "question": "What is the capital of Ado & Co.?",
+  "options": {
+   "A": "N22,000",
+   "B": "N100,000",
+   "C": "N 150,000",
+   "D": "N 250,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-33",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 33,
+  "question": "What is the profit sharing ratio if it is based on capital contributed by Ada and Udo?",
+  "options": {
+   "A": "2:1",
+   "B": "3:2",
+   "C": "2:3",
+   "D": "1:2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-34",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 34,
+  "question": "The major distinguishing element between the final ac- counts of a partnership and a sole trader is the",
+  "options": {
+   "A": "drawings account",
+   "B": "appropriation account",
+   "C": "capital account",
+   "D": "creditors account."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-35",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 35,
+  "question": "Good will appears in the books of a business only if it has been",
+  "options": {
+   "A": "purchased at a certain price",
+   "B": "raised in connection with the admission of a new partner",
+   "C": "raised to account for the true value of a business on the death of a partner",
+   "D": "raised in order to prevent the balance sheet showing that the business is insolvent."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-36",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 36,
+  "question": "Kayode, Akpan and Kachalla are in partnership. Their respective capital accounts had the following balances: N40,000 N50,000 and N70,000. The partners agree to ad- mit Wamo as a new partner with a one-fifth interest in the partnership capital in exchange for N50,000 cash. Wamo’s equity in the resulting partnership is",
+  "options": {
+   "A": "N32,000",
+   "B": "N50,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-37",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 37,
+  "question": "Under which of the following conditions is a partnership dissolved?",
+  "options": {
+   "A": "Change of the partnership’s head office.",
+   "B": "Admission of a new partner.",
+   "C": "Purchase of a large quatity of fixed assets.",
+   "D": "Retirement of a manager who is not a partner."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-38",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 38,
+  "question": "When shares issued are paid for the accounting entry required is",
+  "options": {
+   "A": "debit bank or cash account and credit share capital and/or premium account",
+   "B": "credit bank or cash account and debit shares capital and/or premium account",
+   "C": "debit shares account and credit capital account",
+   "D": "credit shares account and debit capital account. Use the information below to answer questions 39 and A limited liability company has an authorized share capi- tal of N 50 million split into 100 million shares. 80 million shares were offered for subscription at 60k per share payable in full on application. These have been fully subscribed and issued."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-39",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 39,
+  "question": "What is the nominal value of each share?",
+  "options": {
+   "A": "N2",
+   "B": "N0.80 C.N0.60",
+   "D": "N0.50"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-40",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 40,
+  "question": "What is the issued capital?",
+  "options": {
+   "A": "N40 million",
+   "B": "N48 million",
+   "C": "N50 million",
+   "D": "N80 million."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-41",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 41,
+  "question": "The document setting out theregulations regarding shares, meetings and internal organization of a company is known as",
+  "options": {
+   "A": "memorandum of association",
+   "B": "articles of association",
+   "C": "prospectus",
+   "D": "company law."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-42",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 42,
+  "question": "An advantage of using accounting ratio is that they",
+  "options": {
+   "A": "can be easily calculated",
+   "B": "facilitate decision-making",
+   "C": "are stipulated by law",
+   "D": "show errors and frauds."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-43",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 43,
+  "question": "The accounts of Buba (Nig.) Plc showed the following for the year ended December 31, 1993: Gross sales 219,900 Sales returns and allowances 4,900 Net sales 215,000 Accounts receivable (net): 1/1/93 20,000 31/12/93 30,000 The turnover of accounts receivable is A. 6.14 times per",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-44",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 44,
+  "question": "Given: Sales N20,000 Costs of sales N15,000 The gross profit margin would be",
+  "options": {
+   "A": "33.33%",
+   "B": "25.00%",
+   "C": "20.00%",
+   "D": "14.28% Use the information below to answer questions 45 and Perebeni Enterprises has two departments A and B, with following information A B N N Open. Stock 5,000 1,500 Purchases 26,000 3,000 Close. Stock 7,000 2,500 Sales 45,000 4,000 The following expenses are to be shared in the ratio 4:1 Rent N 8,300 General Expenses N 3,200"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-45",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 45,
+  "question": "What are the company’s gross profit for the year?",
+  "options": {
+   "A": "N11,500",
+   "B": "N12,500",
+   "C": "N20,000",
+   "D": "N23,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-46",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 46,
+  "question": "What is the net profit (or loss) contributed by depart- ment B?",
+  "options": {
+   "A": "N 2,000",
+   "B": "(N2,000)",
+   "C": "(N 300)",
+   "D": "N300."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-47",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 47,
+  "question": "The expenditure on a good or service which is consumed either immediately or within a current accounting period is called",
+  "options": {
+   "A": "fixed expenditure",
+   "B": "capital expenditure",
+   "C": "annual expenditure",
+   "D": "recurrent expenditure"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-48",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 48,
+  "question": "The receipts from a special tax levy to pay maturing inter- est obligation are recorded in",
+  "options": {
+   "A": "Capital Project Fund",
+   "B": "Debt Service Fund",
+   "C": "Tax Assessment Fund",
+   "D": "Special Revenue Fund."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-49",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 49,
+  "question": "The cash basis of accounting requires the recognition of revenue only when they are",
+  "options": {
+   "A": "due",
+   "B": "earned",
+   "C": "paid",
+   "D": "received."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "accounting-1994-50",
+  "subject": "accounting",
+  "year": 1994,
+  "number": 50,
+  "question": "The amount for individual items on a government budget is called a",
+  "options": {
+   "A": "vote",
+   "B": "deposit",
+   "C": "loan",
+   "D": "grant."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
