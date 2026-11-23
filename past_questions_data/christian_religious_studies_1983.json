@@ -1,0 +1,991 @@
+[
+ {
+  "id": "christian-religious-studies-1983-1",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 1,
+  "question": "Who said this, ‘there shall be neither dew nor rain these years except by my word?’",
+  "options": {
+   "A": "Elisha",
+   "B": "Ezekiel",
+   "C": "Elijah",
+   "D": "Obadiah",
+   "E": "Nehemiah"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-2",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 2,
+  "question": "In the case before Solomon over the dead and the living child, the mother of the dead child supported",
+  "options": {
+   "A": "giving the living child to her opponent.",
+   "B": "killing the living child",
+   "C": "joint ownership of the loving child.",
+   "D": "king Solomon having the living child.",
+   "E": "state ownership of the living child."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-3",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 3,
+  "question": "Before Moses died, God appointed ... to succeed him.",
+  "options": {
+   "A": "Joshua",
+   "B": "Aaron",
+   "C": "Eleazar",
+   "D": "Balaam",
+   "E": "Manasseh"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-4",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 4,
+  "question": "The treatment for those bitten by the fiery serpent was",
+  "options": {
+   "A": "drink from the Red Sea",
+   "B": "look at the bronze serpent",
+   "C": "fast for seven days",
+   "D": "call upon the Lord",
+   "E": "repent"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-5",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 5,
+  "question": "In order that Benjamin might be brought to Egypt, Joseph detained",
+  "options": {
+   "A": "Reuben",
+   "B": "Levi",
+   "C": "Judah",
+   "D": "Simeon",
+   "E": "Zebulon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-6",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 6,
+  "question": "When Joseph’s brother came to him in Egypt, he said to them, ‘You are...’",
+  "options": {
+   "A": "spies",
+   "B": "robbers",
+   "C": "traitors",
+   "D": "sinners",
+   "E": "war-mongers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-7",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 7,
+  "question": "Sarah gave birth to...in her old age.",
+  "options": {
+   "A": "Joseph",
+   "B": "Isaac",
+   "C": "Jacob",
+   "D": "Simeon",
+   "E": "Benjamin"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-8",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 8,
+  "question": "As a condition of his covenant with God, Abraham had to",
+  "options": {
+   "A": "circumcise every male",
+   "B": "sacrifice to God every month",
+   "C": "keep the Sabbath",
+   "D": "pray to God daily",
+   "E": "recite the Shema."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-9",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 9,
+  "question": "What was the condition of the earth before the creation of the world?",
+  "options": {
+   "A": "The earth was without form and void.",
+   "B": "There was a firmament above the earth.",
+   "C": "Light infrequently penetrated the earth.",
+   "D": "The heaven was very close to the earth.",
+   "E": "The earth was inhabited by angels and spirits."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-10",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 10,
+  "question": "God wanted to destroy the world because",
+  "options": {
+   "A": "Adam and Eve disobeyed him.",
+   "B": "Cain killed Abel his brother.",
+   "C": "the sons of God were taking the daughters of men as wives.",
+   "D": "the people made a tower of Babel to get to"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-11",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 11,
+  "question": "What did Adonijah do to show that he feared Solomon? He",
+  "options": {
+   "A": "begged Solomon for forgiveness.",
+   "B": "promised Solomon loyal support.",
+   "C": "caught hold of the horns of the altar.",
+   "D": "ran into the Temple.",
+   "E": "sent messengers to Solomon asking for a place of honour."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-12",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 12,
+  "question": "Where did Solomon get the timber for his building?",
+  "options": {
+   "A": "Egypt.",
+   "B": "Jerusalem",
+   "C": "Phoenicia",
+   "D": "Lebanon",
+   "E": "Beersheba."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-13",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 13,
+  "question": "According to Jeremiah’s prophecy, the domination of nations by Nebuchadnezzar was",
+  "options": {
+   "A": "against the wish of God.",
+   "B": "part of the divine purpose.",
+   "C": "the result of his military might.",
+   "D": "the result of the wickedness of nations.",
+   "E": "the result of his righteousness and belief in God."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-14",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 14,
+  "question": "Ezekiel was ordered to eat... and then go to speak to the house of Israel.",
+  "options": {
+   "A": "honey",
+   "B": "locusts",
+   "C": "bread",
+   "D": "fish",
+   "E": "a scroll"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-15",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 15,
+  "question": "The place where Abraham was asked to sacrifice Isaac was",
+  "options": {
+   "A": "Moriah",
+   "B": "Sinai",
+   "C": "Bethel",
+   "D": "Tabor",
+   "E": "Zion"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-16",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 16,
+  "question": "The one who was to be the wife of Isaac was known",
+  "options": {
+   "A": "by her coming to the well to draw water.",
+   "B": "because she was a descendant of Abraham’s brother.",
+   "C": "because she said ‘Drink, and I will water your camels’.",
+   "D": "because her name was Rebecca.",
+   "E": "By her height and beauty."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-17",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 17,
+  "question": "Achan was",
+  "options": {
+   "A": "one of the spies who visited Rahab in Jericho.",
+   "B": "one of the two men who prophesied in the camp in the wilderness.",
+   "C": "one of the judges of Israel.",
+   "D": "the one who took some of the devoted things when Jericho fell.",
+   "E": "the king of the Amalekites whom Samuel hewed into pieces."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-18",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 18,
+  "question": "How is it you were not afraid to put forth your hand to destroy the Lord’s anointed? was said by",
+  "options": {
+   "A": "Elijah to Ahab when Ahab sought to kill him.",
+   "B": "David to the Amalekite who claimed to have killed Saul.",
+   "C": "Joab to Absalom when the latter rebelled against David.",
+   "D": "David to Saul when Saul attacked him with a"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-19",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 19,
+  "question": "The prophet regularly addressed as ‘son of man’ was",
+  "options": {
+   "A": "Jeremiah",
+   "B": "Ezekiel",
+   "C": "Isaiah",
+   "D": "Amos",
+   "E": "Hosea."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-20",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 20,
+  "question": "What was the last miracle God performed before the Israelites were released from Egypt?",
+  "options": {
+   "A": "Thick darkness brought about by the hot wind ‘Khamisin’.",
+   "B": "The pollution of the Nile.",
+   "C": "The slaughter of all the male children.",
+   "D": "The plague of locusts.",
+   "E": "The slaughter of the first born."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-21",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 21,
+  "question": "Who was the prophet who proved on Mount Carmel that Yahweh is greater than Baal?",
+  "options": {
+   "A": "Elijah",
+   "B": "Elisha",
+   "C": "Nathan",
+   "D": "Hosea",
+   "E": "Amos."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-22",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 22,
+  "question": "On the third day of creation God made",
+  "options": {
+   "A": "light.",
+   "B": "the firmament.",
+   "C": "the earth.",
+   "D": "animals.",
+   "E": "man."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-23",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 23,
+  "question": "The Lord said to Moses: Cut two tablets of stone like the first; and I will write upon the tablets the words that were upon the first tablets which you broke. On what occasion was this said?",
+  "options": {
+   "A": "At the renewal of the Covenant.",
+   "B": "During the election of Aaron.",
+   "C": "Just before the election of Joshua.",
+   "D": "After the first fall of Manna from heaven.",
+   "E": "Shortly before the conquest of Jericho."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-24",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 24,
+  "question": "The city of Jericho was captured by the Israelites",
+  "options": {
+   "A": "after a fierce battle lasting seven days.",
+   "B": "because the army of the city was betrayed by some of its soldiers.",
+   "C": "because the defence system was very weak.",
+   "D": "at the blast of the trumpets of the priests.",
+   "E": "because famine had broken out in the city and the inhabitants surrendered because of hunger."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-25",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 25,
+  "question": "The call of Isaiah took place",
+  "options": {
+   "A": "on the return from the Babaylonian captivity.",
+   "B": "in the year of the death of King Uzziah.",
+   "C": "during the dedication of the temple by king Solomon.",
+   "D": "shortly before the rise of the Maccabees.",
+   "E": "after David had completely defeated the Philistines."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-26",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 26,
+  "question": "When Zechariah doubted the announcement of the birth of John he",
+  "options": {
+   "A": "fell down and fainted.",
+   "B": "was struck dumb.",
+   "C": "rebuked the angel Gabriel.",
+   "D": "knelt down and prayed.",
+   "E": "told his wife about it."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-27",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 27,
+  "question": "Herod wanted to kill the child Jesus because",
+  "options": {
+   "A": "he thought he would became a prophet.",
+   "B": "he learnt that he was born king of the Jews.",
+   "C": "the wise men worshipped Jesus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-28",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 28,
+  "question": "What is the main lesson of the parable of the prodigal son?",
+  "options": {
+   "A": "Parents must not be partial.",
+   "B": "A son should always obey his father.",
+   "C": "God forgives those who sincerely repent.",
+   "D": "One should not be wasteful.",
+   "E": "Brothers should love each other."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-29",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 29,
+  "question": "‘These men who have turned the world upside down have come here also, and Jason has received them. Which town is referred to here?",
+  "options": {
+   "A": "Tarsus",
+   "B": "Ephesus",
+   "C": "Corinth",
+   "D": "Thessalonica",
+   "E": "Athens."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-30",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 30,
+  "question": "‘And you, child, will be called the prophet of the Most High’, refers to",
+  "options": {
+   "A": "Samuel.",
+   "B": "Jesus.",
+   "C": "Jeremiah.",
+   "D": "John the Baptist.",
+   "E": "Moses."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-31",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 31,
+  "question": "The parable of the mustard seed teaches that",
+  "options": {
+   "A": "the kingdom of God is invisible.",
+   "B": "although the kingdom of God is for all, very few enter it.",
+   "C": "the kingdom of God will expand world-wide from what appears to be an insignificant beginning.",
+   "D": "It is not certain when the kingdom of God will come.",
+   "E": "The kingdom of God is within us."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-32",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 32,
+  "question": "When the women got to the tomb of Jesus they found the stone rolled away and",
+  "options": {
+   "A": "saw Jesus coming out of the tomb.",
+   "B": "Jesus was no longer in the tomb.",
+   "C": "Jesus was sitting in the tomb.",
+   "D": "immediately saw a vision of Jesus.",
+   "E": "saw an angel singing hallelujah."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-33",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 33,
+  "question": "‘You shall be my witnesses in Jerusalem and in all Judea and ... and to the end of the earth.",
+  "options": {
+   "A": "Rome.",
+   "B": "Antioch.",
+   "C": "Damascus.",
+   "D": "Samaria",
+   "E": "Israel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-34",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 34,
+  "question": "Paul was first arrested in Jerusalem because he",
+  "options": {
+   "A": "brought Greeks into the temple.",
+   "B": "became a Christian.",
+   "C": "preached Christ in the temple.",
+   "D": "spoke against the temple.",
+   "E": "preached against circumcision."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-35",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 35,
+  "question": "Which country in Africa provided Jesus with a refuge when Herod sought to destroy him?",
+  "options": {
+   "A": "Algeria.",
+   "B": "Egypt.",
+   "C": "Morocco.",
+   "D": "Ethiopia.",
+   "E": "Libya."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-36",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 36,
+  "question": "‘After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and untie’. Who said this?",
+  "options": {
+   "A": "Jesus Christ.",
+   "B": "Mary Magdalene.",
+   "C": "Mark",
+   "D": "John the Baptist",
+   "E": "The annuciation angel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-37",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 37,
+  "question": "Who addressed Jesus at Jericho, saying, ‘Jesus, son of David, have mercy on me?’",
+  "options": {
+   "D": "James the son of Zebedee.",
+   "E": "Peter the Apostle."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-38",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 38,
+  "question": "By whom did the Lord heal the blindness of Paul?",
+  "options": {
+   "A": "Ananias",
+   "B": "Cephas",
+   "C": "John Mark",
+   "D": "Silas",
+   "E": "Timothy."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-39",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 39,
+  "question": "Who insisted in his speech that God does not dwell in houses made with hands and that it was wrong for Solomon to have built a house for Him?",
+  "options": {
+   "A": "Peter.",
+   "B": "James.",
+   "C": "Paul.",
+   "D": "Matthew.",
+   "E": "Stephen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-40",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 40,
+  "question": "‘The Holy Spirit will come upon you and the power of the Most High will overshadow you; therefore the child to be born will be called holy, the Son of God’. This was said by the angel Gabriel to",
+  "options": {
+   "A": "ElizabethB. Zechariah C Mary D. Joseph E. The Shepherds."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-41",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 41,
+  "question": "‘But I say to you that hear, love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you’. Jesus said this",
+  "options": {
+   "A": "on the road to Calvary.",
+   "B": "on the road to Emmaus.",
+   "C": "on the road to Jerusalem.",
+   "D": "during the Transfiguration.",
+   "E": "During the Sermon on the Mount."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-42",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 42,
+  "question": "What did the Apostles do when complaints were made to them that some sections of the new Christian community were not being supplied with their needs for sustenance? They",
+  "options": {
+   "A": "gave out more money for buying food.",
+   "B": "said that they had neither gold nor silver.",
+   "C": "appointed seven deacons to undertake the care of the new Christians.",
+   "D": "appointed the Apostles: James, Peter and John to oversee the supply of provisions to the new Christians.",
+   "E": "decided to call a council in Jerusalem to look into the matter."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-43",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 43,
+  "question": "When Paul came to Rome, the first set of people to whom he preached were the",
+  "options": {
+   "A": "Romans",
+   "B": "Jews",
+   "C": "Greeks",
+   "D": "Samaritans",
+   "E": "Corinthians."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-44",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 44,
+  "question": "‘Blessed are you among women and blessed is the fruit of your womb’. This was said by",
+  "options": {
+   "A": "the angel Gabriel",
+   "B": "Simeon",
+   "C": "Anna",
+   "D": "Elizabeth",
+   "E": "Zechariah."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-45",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 45,
+  "question": "Jesus was led into the wilderness by",
+  "options": {
+   "A": "the devil",
+   "B": "the Holy Spirit",
+   "C": "Satan",
+   "D": "hunger",
+   "E": "the angel Gabriel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-46",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 46,
+  "question": "And he came to ... where he had been brought up; and, as his custom was, he went into the synagogue on the Sabbath Day, and stood up to read. Identify the missing place into he above text.",
+  "options": {
+   "A": "Jerusalem.",
+   "B": "Bethlehem.",
+   "C": "Nazareth.",
+   "D": "Capernaum.",
+   "E": "Bethany."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-47",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 47,
+  "question": "‘Therefore in the resurrection whose wife shall she be of the seven for they all had her? This question was put to Jesus by the",
+  "options": {
+   "A": "Pharisees.",
+   "B": "Scribes.",
+   "C": "Chief Priests.",
+   "D": "Sadducees.",
+   "E": "Sanhedrin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-48",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 48,
+  "question": "Pilate gave Jesus to the Jews to be crucified because",
+  "options": {
+   "A": "he found Jesus guilty of the charges.",
+   "B": "Jesus refused to defend himself.",
+   "C": "the Jews gave him money.",
+   "D": "Jesus did not answer him.",
+   "E": "the Jews brought pressure upon him."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-49",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 49,
+  "question": "Paul was converted so that he might",
+  "options": {
+   "A": "stop persecuting the Apostles.",
+   "B": "help Peter in the work.",
+   "C": "not be killed for his sins.",
+   "D": "bear the name of the Lord before the Gentiles.",
+   "E": "see visions."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1983-50",
+  "subject": "christian_religious_studies",
+  "year": 1983,
+  "number": 50,
+  "question": "Paul and Silas were imprisoned at",
+  "options": {
+   "A": "Athens.",
+   "B": "Philippi",
+   "C": "Antioch",
+   "D": "Corinth",
+   "E": "Ephesus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

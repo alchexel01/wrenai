@@ -1,0 +1,887 @@
+[
+ {
+  "id": "christian-religious-studies-1994-1",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 1,
+  "question": "When Elijah escaped to the brook Cherith, he was fed",
+  "options": {
+   "A": "angels",
+   "B": "doves",
+   "C": "ravens",
+   "D": "sparrows,"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-2",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 2,
+  "question": "The contest on Mount Caronel was to prove that",
+  "options": {
+   "A": "Baal was the god of Israel"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-3",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 3,
+  "question": "Naboth did not agree to release his vineyard to Ahab because",
+  "options": {
+   "A": "the amount offered for it was too small",
+   "B": "it was his major source of income",
+   "C": "it was his only vineyard",
+   "D": "it was the inheritance of his fathers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-5",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 5,
+  "question": "The greatest achievement of King Josiah of Judah was his",
+  "options": {
+   "A": "rebuilding the Temple",
+   "B": "sweeping reforms of the religious life of his people",
+   "C": "curtailing the Assyrian aggressions",
+   "D": "training a worthy successor before his death."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-6",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 6,
+  "question": "Jerusalem fell in 586 B.C. to the Babylonian King called",
+  "options": {
+   "A": "Nebuchadnezzar",
+   "B": "Nabopolassa",
+   "C": "Asshurbanapal",
+   "D": "Psammetichus I."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-7",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 7,
+  "question": "And the King (Artaxerxes) said to me, “Why is your face sad, seeing you are not sick? This is nothing else but sadness of the heat” Why was the addressee sad?",
+  "options": {
+   "A": "The condition of Jerusalem was deplorable",
+   "B": "He was fasting because of Jerusalem",
+   "C": "Enemies of Jerusalem were laughing at him",
+   "D": "He was in exile in Babylon."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-8",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 8,
+  "question": "Although Shadrach, Meshach and Abednego were cast into the Fiery furnace, King Nebuchadnezzar was astonished to see four men in the furnace. He said the fourth man was like",
+  "options": {
+   "A": "a prophet",
+   "B": "an angel of the LORD",
+   "C": "a son of the gods",
+   "D": "a priest"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-9",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 9,
+  "question": "In the belly of the fish Jonah prayed to God to",
+  "options": {
+   "A": "punish the people of Nineveh",
+   "B": "forgive him",
+   "C": "stop the tempest",
+   "D": "deliver him."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-10",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 10,
+  "question": "The sins of Nineveh notwithstanding, God spared the inhabitants because",
+  "options": {
+   "A": "Jonah was reluctant to deliver the message to them",
+   "B": "the people responded positively to God’s mercy",
+   "C": "Nineveh was made up of a large population which did not know its right from its left",
+   "D": "Nineveh was a great and prosperous city with one hundred and twenty thousand inhabitants."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-11",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 11,
+  "question": "Daniel was distinguished above all other satraps and presidents because he",
+  "options": {
+   "A": "worshipped only one God",
+   "B": "had an excellent spirit in him",
+   "C": "refused to worship the golden image",
+   "D": "interpreted the king’s dream."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-12",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 12,
+  "question": "Daniel could not be harmed by the lions because",
+  "options": {
+   "A": "an angel shut the mouths of the lions",
+   "B": "The lions were not hungry",
+   "C": "a pillar of cloud separated Daniel from the lions",
+   "D": "Daniel understood their language."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-13",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 13,
+  "question": "The Israelites did evil in the eyes of the LORD in the days of the Judges by",
+  "options": {
+   "A": "serving the Philistines"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-14",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 14,
+  "question": "Selling the needy for a pair of shoes in Amos means",
+  "options": {
+   "A": "exchanging the needy for shoes",
+   "B": "equating human beings with material things",
+   "C": "trade by barter",
+   "D": "oppressing the needy."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-15",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 15,
+  "question": "‘Thus says the LORD: “For three transgressions of Israel and for four, I will not revoke the punishment…”. In the latter part of this prophecy, Amos condemned Israel for",
+  "options": {
+   "A": "not remembering the covenant of brotherhood",
+   "B": "fighting and destroying Gilead",
+   "C": "completely neglecting social justice",
+   "D": "rejecting the laws and statutes of the LORD."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-16",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 16,
+  "question": "From Hosea’s teaching, we learn that God",
+  "options": {
+   "A": "will pour His Spirit on all flesh",
+   "B": "will create a new heart in His people",
+   "C": "prefers steadfast love to sacrifice",
+   "D": "prefers steadfast love to sacrifice"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-17",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 17,
+  "question": "The central theme of Isaiah’s teachings is that",
+  "options": {
+   "A": "no sinner can be saved",
+   "B": "every sinner will be saved",
+   "C": "no sinner is beyond redemption",
+   "D": "the vilest sinner will not be redeemed,"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-18",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 18,
+  "question": "“Whom shall I send, and who will go for us? Then I said,” Here am I! Send me.” Why did Isaiah offer himself to be God’s messenger",
+  "options": {
+   "A": "Because the king had died and he needed another job",
+   "B": "Having been cleansed of his sins, he saw the need to warn others.",
+   "C": "Because he had seen the beauty of heaven and wanted to work for God",
+   "D": "There were no other prophets"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-19",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 19,
+  "question": "Who, according to Ezekiel, did the exiles blame for their plight",
+  "options": {
+   "A": "Moses and Aaron",
+   "B": "The Egyptians",
+   "C": "Their fathers",
+   "D": "Their enemies."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-20",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 20,
+  "question": "God told Jeremiah that He would give Jerusalem into the hands of the Chaldeans because the Israelites",
+  "options": {
+   "A": "had provoked God to anger",
+   "B": "were few in number",
+   "C": "did not prepare adequately for war",
+   "D": "were engaged in merry-making"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-21",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 21,
+  "question": "The expression ‘dry bones’ in Ezekiel refers to",
+  "options": {
+   "A": "an Israelite proverb",
+   "B": "the whole house of Israel",
+   "C": "the slain in the valley",
+   "D": "sinful Israelites and Judeans,"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-22",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 22,
+  "question": "According to Paul, the law and the prophets bear witness to the",
+  "options": {
+   "A": "righteousness of God",
+   "B": "covenant with Israel",
+   "C": "crucifixion of Christ",
+   "D": "wickedness of the Jews"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-24",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 24,
+  "question": "The function of the law to believers before the coming of Christ was that of a",
+  "options": {
+   "A": "custodian",
+   "B": "Judge",
+   "C": "servant",
+   "D": "father."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-25",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 25,
+  "question": "Justification by grace shows that work is",
+  "options": {
+   "A": "not required for salvation",
+   "B": "complementary to grace",
+   "C": "the primary requisite for salvation",
+   "D": "opposed to salvation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-26",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 26,
+  "question": "All Christians who have been baptized into Christ Jesus were baptized",
+  "options": {
+   "A": "Into his death",
+   "B": "by fire",
+   "C": "under the law",
+   "D": "by his disciples"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-27",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 27,
+  "question": "In what way did God condemn sin in the flesh?",
+  "options": {
+   "A": "He allowed Jesus to be crucified",
+   "B": "Repentance was made possible for the forgiveness of sin",
+   "C": "Resurrection of the flesh rendered sin ineffective",
+   "D": "He sent His own Son in the likeness of man."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-28",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 28,
+  "question": "‘But you are not in darkness brethren, for that day to surprise you like a thief. That ‘day’ refers to the",
+  "options": {
+   "A": "Pentecost",
+   "B": "resurrection of Christ",
+   "C": "coming of the LORD",
+   "D": "ascension"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-29",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 29,
+  "question": "The main aim of the teaching of Christ’s humility in Paul’s Letter to the Philippians is that every Christian should",
+  "options": {
+   "A": "regard himself as equal to Jesus because He came in human form",
+   "B": "confess that Jesus Christ is LORD to the glory of God the Father",
+   "C": "work out his own salvation with fear and trembling",
+   "D": "look into the interest of others and do nothing from selfishness."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-30",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 30,
+  "question": "According to Paul’s Letter to the Philippians, God exalted Jesus and gave Him a name which is above all names because He",
+  "options": {
+   "A": "was His Son",
+   "B": "was humble and obedient unto death",
+   "C": "never committed any sin",
+   "D": "was the greatest man ever born."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-31",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 31,
+  "question": "In the Letter to the Galatians, Christians are encouraged to bear one another’s burdens in order to",
+  "options": {
+   "A": "enter the kingdom to God",
+   "B": "be children of God",
+   "C": "be rewarded in heaven",
+   "D": "fulfill the law of Christ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-32",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 32,
+  "question": "‘Be angry but do not sin means that anger",
+  "options": {
+   "A": "is not a serious sin",
+   "B": "it is not a sin at all",
+   "C": "is an unforgivable sin",
+   "D": "Could be an occasion for sin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-33",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 33,
+  "question": "There are varieties of gifts and so different people have different gifts. Who gives all these gifts?",
+  "options": {
+   "A": "Angels",
+   "B": "The Holy Spirit",
+   "C": "The apostles",
+   "D": "The disciplines,"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-34",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 34,
+  "question": "The overriding principle in the use of spiritual gifts is",
+  "options": {
+   "A": "decency and order",
+   "B": "growth and power",
+   "C": "faith and love",
+   "D": "Zeal and power"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-35",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 35,
+  "question": "For the administration of the churches, Paul directed that Christians should",
+  "options": {
+   "A": "surrender all they have to the church",
+   "B": "regularly contribute to the church",
+   "C": "donate when it is convenient",
+   "D": "live a communal life."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-36",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 36,
+  "question": "Contribution of relief materials for the needy in the church according to Paul, must be",
+  "options": {
+   "A": "enforced",
+   "B": "specified",
+   "C": "with cheerfulness",
+   "D": "witnessed by two other Christians."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-37",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 37,
+  "question": "Paul teaches that we should obey governing authorities in order to avoid",
+  "options": {
+   "A": "imprisonment and execution",
+   "B": "ridicule and punishment",
+   "C": "unemployment and hunger",
+   "D": "God’s wrath and a bad conscience,"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-38",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 38,
+  "question": "When Paul says if anyone will not work, let him not eat, he is saying that",
+  "options": {
+   "A": "the unemployed should not eat",
+   "B": "the lazy person must eat only a little",
+   "C": "everyone should toil and labour with his hands",
+   "D": "every person should seek lucrative job."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-39",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 39,
+  "question": "Paul worked harder than any of the apostles because",
+  "options": {
+   "A": "he had the strength to do so",
+   "B": "of the grace of God that was with him",
+   "C": "Jesus personally revealed Himself to him",
+   "D": "he was formerly a persecutor of the church."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-40",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 40,
+  "question": "Christian wives are to be subject to their husbands",
+  "options": {
+   "A": "since their husbands take care of them B because it is fitting in the LORD",
+   "C": "because it is the natural thing to do",
+   "D": "since women are not expected to be heard."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-41",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 41,
+  "question": "On being revealed at the coming of Christ, the lawless will be slain by the",
+  "options": {
+   "A": "sword of God",
+   "B": "gospel message",
+   "C": "Power from aboveD. breath of His mouth,"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-42",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 42,
+  "question": "An important feature of the second coming of Jesus as taught by Paul is the",
+  "options": {
+   "A": "outbreak of a world war",
+   "B": "establishment of a world government under Christ",
+   "C": "reign of the lawless one",
+   "D": "resurrection of the dead"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-44",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 44,
+  "question": "Paul’s experience as recorded in his second Letter to the Corinthians, teaches that the attitude of Christians to suffering should be that of",
+  "options": {
+   "A": "obedience",
+   "B": "perseverance",
+   "C": "rebellion",
+   "D": "rejection."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-45",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 45,
+  "question": "In the Letter to the Hebrews, it is found that despite the victory through faith in God of the men of old, they did not receive what was promised. What was this promise?",
+  "options": {
+   "A": "Jesus Christ",
+   "B": "They Holy Spirit",
+   "C": "The Law",
+   "D": "Reward."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-46",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 46,
+  "question": "Abraham’s faith and works were better illustrated when",
+  "options": {
+   "A": "took lot with him to Canaan",
+   "B": "offered his son, Isaac, on the altar",
+   "C": "parted ways with Lot",
+   "D": "spoke with angels."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-47",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 47,
+  "question": "‘Now faith is the assurance of things hoped fo ... For by it the men of old received divine approval. Who are the men of old mentioned as examples of faith in the Letter to the Hebrews?",
+  "options": {
+   "A": "Elijah, Ezekiel and Job",
+   "B": "Solomon, Rehoboam and Hezekiah",
+   "C": "Amos, Hosea and Joel",
+   "D": "Abel, Abraham and Rahab."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-48",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 48,
+  "question": "According to James, effective prayer is that which is offered",
+  "options": {
+   "A": "loudly",
+   "B": "silently",
+   "C": "in faith",
+   "D": "with emotion."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-49",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 49,
+  "question": "According to Peter, Christians living among non-Christians should",
+  "options": {
+   "A": "maintain good condition",
+   "B": "live like them",
+   "C": "be suspicious of them",
+   "D": "avoid them."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1994-50",
+  "subject": "christian_religious_studies",
+  "year": 1994,
+  "number": 50,
+  "question": "Peter enjoins Christians to be good citizens by",
+  "options": {
+   "A": "using their freedom to fight for their right",
+   "B": "not taking part in politics",
+   "C": "submitting to civil authorities",
+   "D": "fighting non-Christians in the society."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

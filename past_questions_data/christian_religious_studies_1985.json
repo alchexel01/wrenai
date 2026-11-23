@@ -1,0 +1,969 @@
+[
+ {
+  "id": "christian-religious-studies-1985-1",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 1,
+  "question": "According to Genesis Chapter 1, on the 6th day, God created",
+  "options": {
+   "A": "the firmament",
+   "B": "light",
+   "C": "dry land and sea",
+   "D": "man and living creature",
+   "E": "the sun, moon and stars."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-2",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 2,
+  "question": "The flood lasted while Noah was in the ark, for",
+  "options": {
+   "A": "two weeks",
+   "B": "ten weeks",
+   "C": "ten days",
+   "D": "a hundred days",
+   "E": "a hundred and fifty days"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-3",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 3,
+  "question": "‘Walk before me, and be blameless.’ How old was the addressee when this voice came?",
+  "options": {
+   "A": "75 years",
+   "B": "91 years",
+   "C": "99 years",
+   "D": "105 years",
+   "E": "120 years"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-4",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 4,
+  "question": "‘You would bring down my grey hairs with sorrow to Sheol.’ Jacob said this to his children because",
+  "options": {
+   "A": "Joseph was unjustly imprisoned",
+   "B": "Joseph had been reported killed",
+   "C": "the famine was very sever",
+   "D": "the Ishmaelites had bought Joseph and had resold him to Potiphar",
+   "E": "He feared that Benjamin would be lost to him like Joseph."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-5",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 5,
+  "question": "And the magician said to Pharaoh, ‘ This is the finger of God’. This statement was made after the plague of",
+  "options": {
+   "A": "frogs",
+   "B": "blood",
+   "C": "locusts",
+   "D": "boils"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-6",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 6,
+  "question": "The father of Moses was of the tribe of",
+  "options": {
+   "A": "Levi",
+   "B": "Benjamin",
+   "C": "Zebulun",
+   "D": "Gad",
+   "E": "Judah"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-7",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 7,
+  "question": "When did the Israelites say ‘All that the Lord has spoken we will do’?",
+  "options": {
+   "A": "After Joshua’s farewell speech",
+   "B": "At Mount Sinai",
+   "C": "When Moses spoke to them before his death",
+   "D": "After the incident of the golden calf",
+   "E": "When God asked them to gather manna from heaven"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-8",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 8,
+  "question": "The 5th of the Ten Commandments is a warning",
+  "options": {
+   "A": "not to bow down to idols",
+   "B": "not to kill",
+   "C": "to avoid adultery",
+   "D": "not to bear false witness",
+   "E": "to honour one’s father and mother."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-9",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 9,
+  "question": "Hear now, you rebels: shall we bring forth water for you out of this rock? Was spoken by Moses",
+  "options": {
+   "A": "in the valley of Moab",
+   "B": "at Mount Hor",
+   "C": "in the wilderness of Zin",
+   "D": "at Mount Nebo",
+   "E": "in the wilderness of Paran"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-10",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 10,
+  "question": "The spies sent out into the land of Canaan were NOT required to find out whether the",
+  "options": {
+   "A": "people who dwelt in it were few or many",
+   "B": "land they dwelt in was good or bad",
+   "C": "cities they dwelt in were camps or strongholds",
+   "D": "land was flowing with milk and honey",
+   "E": "land was forested"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-11",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 11,
+  "question": "Who was chosen to lead the Israelites after Moses’ death?",
+  "options": {
+   "A": "Deborah",
+   "B": "Abimelech",
+   "C": "Samuel",
+   "D": "Joshua",
+   "E": "Caleb"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-12",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 12,
+  "question": "Joshua’ first victory was in",
+  "options": {
+   "A": "Ai",
+   "B": "Gibeon",
+   "C": "Jordan",
+   "D": "Gilgal",
+   "E": "Jericho"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-13",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 13,
+  "question": "Sisera was put to death by",
+  "options": {
+   "A": "Barak",
+   "B": "Deborah",
+   "C": "Joshua",
+   "D": "Jael",
+   "E": "Abinoam"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-14",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 14,
+  "question": "‘But I will be with you and you will smite the Midianites as one man’ was said by God to",
+  "options": {
+   "A": "Moses",
+   "B": "Joshua",
+   "C": "Deborah",
+   "D": "Gideon",
+   "E": "Joash"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-15",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 15,
+  "question": "The name ‘Samuel’ means",
+  "options": {
+   "A": "the Strength of God",
+   "B": "the Child of Tears",
+   "C": "I have asked him of the Lord",
+   "D": "The fruit of my tears",
+   "E": "The future prophet of the Lord."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-16",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 16,
+  "question": "Samuel’s sons were rejected as judges because",
+  "options": {
+   "A": "they were wicked",
+   "B": "they were not from the royal family",
+   "E": "the Israelites wanted to be like other people who had kings"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-17",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 17,
+  "question": "God took the Kingdom from Saul because he",
+  "options": {
+   "A": "was not strong enough",
+   "B": "did not offer sacrifices to the Lord",
+   "C": "disobeyed the Lord by offering burnt sacrifices himself",
+   "D": "was arrogant",
+   "E": "had consulted soothesayers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-18",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 18,
+  "question": "How was Saul killed?",
+  "options": {
+   "A": "He was killed by Jonathan.",
+   "B": "He took his own sword and fell upon it.",
+   "C": "His armour-bearer killed him.",
+   "D": "The Philistines killed him.",
+   "E": "An Amalekite killed him."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-19",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 19,
+  "question": "The commander of David’s army was",
+  "options": {
+   "A": "Abner",
+   "B": "Joab",
+   "C": "Abiathar",
+   "D": "Zadok",
+   "E": "Adonijah."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-20",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 20,
+  "question": "King David committed adultery with",
+  "options": {
+   "A": "Michal",
+   "B": "Bathsheba",
+   "C": "Jezebel D Merab",
+   "E": "Athaliah."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-21",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 21,
+  "question": "Which prophet encouraged Jeroboam I to revolt at the initial stage?",
+  "options": {
+   "A": "Micaiah.",
+   "B": "Jeremiah.",
+   "C": "Nathan.",
+   "D": "Ahija.",
+   "E": "Joel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-22",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 22,
+  "question": "The city of Samaria was built by",
+  "options": {
+   "A": "Omri",
+   "B": "Jeroboam",
+   "C": "Shemmer",
+   "D": "Jehu",
+   "E": "Ahab"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-23",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 23,
+  "question": "The prophet from Tekoa was",
+  "options": {
+   "A": "Isaiah",
+   "B": "Jeremiah",
+   "C": "Joel",
+   "D": "Hosea",
+   "E": "Amos."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-24",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 24,
+  "question": "Which king reigned after Hezekiah?",
+  "options": {
+   "A": "Josiah",
+   "B": "Amon",
+   "C": "Jehoiakim",
+   "D": "Jehoahaz",
+   "E": "Manasseh"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-25",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 25,
+  "question": "Which was NOT a complaint of the people when Nahemiah was rebuilding Jerusalem?",
+  "options": {
+   "A": "Let us get grain; that we may eat and keep alive.",
+   "B": "We are mortgaging our fields, our vineyards and our houses.",
+   "C": "We have borrowed money for the King’s tax.",
+   "D": "The strength of the burden-bearers is failing.",
+   "E": "We are forcing our sons and daughters to be slaves."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-26",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 26,
+  "question": "Jesus was said to be ‘of Nazareth’ because",
+  "options": {
+   "A": "he took a Nazarene vow",
+   "B": "his ancestor David lived in Nazareth",
+   "C": "he was brought up in the city of Nazareth",
+   "D": "he made Nazareth his preaching headquarters.",
+   "E": "Copied from one of the evangelists."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-28",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 28,
+  "question": "‘You brood of vipers! Who warned you to flee from the wrath to come?’ was part of the Preaching of",
+  "options": {
+   "A": "Jesus Christ",
+   "B": "Zechariah",
+   "C": "Paul",
+   "D": "John the Baptist",
+   "E": "Barnabas."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-29",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 29,
+  "question": "Which of these statements is correct?",
+  "options": {
+   "A": "The order in which Jesus was tempted Varies in Matthew and Luke but the tests remain the same.",
+   "B": "Matthew follows Luke’s order in which Jesus was tempted.",
+   "C": "The temptation story of Jesus is found in Mark only.",
+   "D": "Only Luke gives us the story of Jesus temptation.",
+   "E": "The story of Jesus’ temptation is found in Luke and John only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-30",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 30,
+  "question": "Who of these was NOT one of the twelve?",
+  "options": {
+   "A": "Peter",
+   "B": "Andrew",
+   "C": "Luke",
+   "D": "James",
+   "E": "John."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-31",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 31,
+  "question": "Who said ‘I am not worthy to have you come under my roof?",
+  "options": {
+   "A": "The Syrophoenician woman",
+   "B": "Jairus",
+   "C": "The Centurion at Capernaum",
+   "D": "Zacchaeus",
+   "E": "Peter"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-32",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 32,
+  "question": "‘The Kingdom of heaven is like treasure hidden in field’. This parable teaches about the",
+  "options": {
+   "A": "hidden nature of the Kingdom",
+   "B": "cleverness of the land speculator",
+   "C": "urgency of entry into the Kingdom",
+   "D": "growth of the Kingdom",
+   "E": "preciousness of the Kingdom."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-33",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 33,
+  "question": "The renowned interpreters of the Mosaic Law in the time of Jesus were the",
+  "options": {
+   "A": "Sadducees",
+   "B": "Scribes",
+   "C": "Zealots",
+   "D": "Herodians",
+   "E": "Pharisees"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-34",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 34,
+  "question": "‘This is my beloved son: listen to him’, was said",
+  "options": {
+   "A": "in Gethsemane",
+   "B": "at the Transfiguration",
+   "C": "at Jesus’ Baptism",
+   "D": "at the Birth of Jesus",
+   "E": "at the Crucifixion"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-35",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 35,
+  "question": "‘The Kingdom of heaven may be compared to a man who sowed good seeds in his field; but while men were sleeping his enemy came and sowed weeds amongst the wheat, and went away.’ The owner of the field was",
+  "options": {
+   "A": "the devilB. a son of the Kingdom",
+   "C": "an angle",
+   "D": "the son of man",
+   "E": "a son of the evil one."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-36",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 36,
+  "question": "When Herod the Tetrarch heard of the fame of Jesus, he thought that He was",
+  "options": {
+   "E": "Stephen raised from the dead."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-37",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 37,
+  "question": "‘Grant us to sit, one at your right hand and one at your, left, in your glory.’ The petitioners were",
+  "options": {
+   "A": "Peter and Andrew",
+   "B": "James and Andrew",
+   "C": "John and Peter",
+   "D": "James and John",
+   "E": "James and Peter."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-38",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 38,
+  "question": "Today salvation has come to this house, for this is also a son of Abraham. This was said of",
+  "options": {
+   "A": "Levi",
+   "B": "Stephen",
+   "C": "Zacchaeus",
+   "D": "Lazarus E.Simon the lepers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-39",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 39,
+  "question": "In the parable of the ten maidens, the five were called foolish they",
+  "options": {
+   "A": "were sleeping before the marriage feast",
+   "B": "forgot their lamps",
+   "C": "had no wedding dresses",
+   "D": "did not go out of meet the bridegroom",
+   "E": "did not take additional oil with them."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-40",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 40,
+  "question": "‘I find no crime in this man. ‘Who made this statement?",
+  "options": {
+   "A": "Caiaphas",
+   "B": "Annas",
+   "C": "Herod",
+   "D": "Caesar",
+   "E": "Pilate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-41",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 41,
+  "question": "Concerning the events that will precede the end of the world, Jesus asked his followers to pray that it would not happen",
+  "options": {
+   "A": "Yet",
+   "B": "Suddenly",
+   "C": "In winter",
+   "D": "At night",
+   "E": "In spring"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-42",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 42,
+  "question": "Theophillus was",
+  "options": {
+   "A": "One of the twelve apostles",
+   "B": "The one for whom the Act of the Apostle was written",
+   "C": "The centurion converted by Peter in Ceasarea",
+   "D": "One of the seven deacons",
+   "E": "A governor of Judea"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-43",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 43,
+  "question": "And the angel said to him, ‘Dress yourself and put on your sandal’. The addressee was",
+  "options": {
+   "A": "John",
+   "B": "Paul",
+   "C": "Peter",
+   "D": "Silas",
+   "E": "James"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-44",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 44,
+  "question": "On the road to Gaza, Philip converted and Baptized a",
+  "options": {
+   "A": "Minister of the Candace",
+   "B": "Roman Officer",
+   "C": "Centurion",
+   "D": "Samaritan",
+   "E": "Hellenist"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-45",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 45,
+  "question": "After his conversion Paul first went to",
+  "options": {
+   "A": "Damascus",
+   "B": "Jerusalem",
+   "C": "Tarsus",
+   "D": "Antioch",
+   "E": "Caesarea"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-46",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 46,
+  "question": "An eloquent Jew from Alexandria, well versed in the Scriptures, was",
+  "options": {
+   "A": "Aquila",
+   "B": "Cornelius",
+   "C": "ClaudiusD. Apollos",
+   "E": "Silas"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-47",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 47,
+  "question": "The ecumenical Council of 49 A.D held in Jerusalem was mainly to discuss the",
+  "options": {
+   "A": "persecution of the early Christians",
+   "B": "roles of Paul the apostle",
+   "C": "leadership of Peter"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-48",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 48,
+  "question": "An alter was set up to the Unknown God in the Greek town of",
+  "options": {
+   "A": "Athens",
+   "B": "Thebes",
+   "C": "Ephesus",
+   "D": "Macedonia",
+   "E": "Sparta"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-49",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 49,
+  "question": "‘You have appealed to Caesar: To Caesar then you shall go. This statement was made to Paul by",
+  "options": {
+   "A": "Agrippa",
+   "B": "Festus",
+   "C": "Claudius Lysias",
+   "D": "Publius",
+   "E": "Felix"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "christian-religious-studies-1985-50",
+  "subject": "christian_religious_studies",
+  "year": 1985,
+  "number": 50,
+  "question": "The people of Malta thought that Paul must be a murderer because he",
+  "options": {
+   "A": "was bitten by a poisonous snake",
+   "B": "told them about hell",
+   "C": "was being taken to Rome as a prisoner",
+   "D": "preached to them about the crucifixion of Jesus",
+   "E": "was going to answer charges before Caesar."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
