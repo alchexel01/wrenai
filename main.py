@@ -1060,11 +1060,17 @@ def get_textbooks(req: Request, x_app_secret: str = Header(default="")):
 
 @app.get("/textbooks/{book_id}/page/{page}")
 def get_textbook_page(book_id: str, page: int, req: Request,
+                       bg: int = 0, sid: str = "",
                        x_app_secret: str = Header(default="")):
+    # bg=1: the app's background downloader — only ever returns a page that
+    #       is already rendered (404 otherwise), never triggers a render.
+    # sid : short random id of the app session, so a student jumping to a far
+    #       page cancels only THEIR OWN stale queued requests.
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
     try:
-        path = textbooks_api.get_page_path(book_id, page)
+        path = textbooks_api.get_page_path(book_id, page, track=(bg == 0),
+                                           student=sid[:32])
     except textbooks_api.TextbookNotFound:
         log.warning(f"[{rid}] /textbooks/{book_id}/page/{page}: unknown textbook")
         raise HTTPException(status_code=404,
@@ -1080,6 +1086,21 @@ def get_textbook_page(book_id: str, page: int, req: Request,
                                      "request_id": rid,
                                      "detail": str(e)})
     return FileResponse(path, media_type="image/jpeg", headers={"X-Request-ID": rid})
+
+
+@app.get("/textbooks/{book_id}/ready")
+def get_textbook_ready(book_id: str, req: Request,
+                        x_app_secret: str = Header(default="")):
+    """Page numbers already rendered on the server (cheap folder listing,
+    never renders). The app polls this and downloads only those pages."""
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    try:
+        return {"pages": textbooks_api.ready_pages(book_id)}
+    except textbooks_api.TextbookNotFound:
+        log.warning(f"[{rid}] /textbooks/{book_id}/ready: unknown textbook")
+        raise HTTPException(status_code=404,
+                             detail={"error": "textbook not found", "request_id": rid})
 
 
 # ── Scholarships ─────────────────────────────────────────────────────────
