@@ -67,6 +67,7 @@ import premium
 import premium_google
 import auth
 import auth_email
+import auth_review
 import chat_history
 import textbooks_api
 import scholarships
@@ -558,6 +559,19 @@ async def auth_email_verify_route(payload: auth_email.EmailVerifyRequest, req: R
     rid = req.state.rid
     _check_app_secret(x_app_secret, rid)
     return await auth_email.email_verify(payload, rid)
+
+
+# ── Google Play review login (fixed account + password kept on Render) ───
+# See auth_review.py. Off unless REVIEW_PASSWORD is set on Render.
+
+@app.post("/auth/review/login", response_model=auth_review.ReviewLoginResponse)
+async def auth_review_login_route(payload: auth_review.ReviewLoginRequest, req: Request,
+                                  x_app_secret: str = Header(default="")):
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+    res = await auth_review.review_login(payload, rid)
+    _PREMIUM_CACHE.pop(res.email, None)     # usage gate must see Pro at once
+    return res
 
 
 # ── Chat history (email-scoped sync) ─────────────────────────────────────
