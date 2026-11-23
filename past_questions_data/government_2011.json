@@ -1,0 +1,700 @@
+[
+ {
+  "id": "government-2011-1",
+  "subject": "government",
+  "year": 2011,
+  "number": 1,
+  "question": "Which Government Question Paper Type is given to you?",
+  "options": {
+   "A": "Type A",
+   "B": "Type B",
+   "C": "Type C",
+   "D": "Type D"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-2",
+  "subject": "government",
+  "year": 2011,
+  "number": 2,
+  "question": "The development of attitudes and beliefs about a political system is----",
+  "options": {
+   "A": "political emancipation",
+   "B": "political socialization",
+   "C": "political participation",
+   "D": "political orientation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-3",
+  "subject": "government",
+  "year": 2011,
+  "number": 3,
+  "question": "Political behavior is governed by",
+  "options": {
+   "A": "political socialization",
+   "B": "political ideology",
+   "C": "political economy",
+   "D": "political culture"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-4",
+  "subject": "government",
+  "year": 2011,
+  "number": 4,
+  "question": "In a nation, sovereignty is vested in the--",
+  "options": {
+   "A": "community",
+   "B": "state",
+   "C": "elite",
+   "D": "electorate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-5",
+  "subject": "government",
+  "year": 2011,
+  "number": 5,
+  "question": "Which of the following is a feature of democracy?",
+  "options": {
+   "A": "interdependence of states",
+   "B": "state responsibilities to society",
+   "C": "power vested in minority parties",
+   "D": "popular consultation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-6",
+  "subject": "government",
+  "year": 2011,
+  "number": 6,
+  "question": "Private ownership of the means of production is central to",
+  "options": {
+   "A": "fascism",
+   "B": "feudalism",
+   "C": "capitalism",
+   "D": "communism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-7",
+  "subject": "government",
+  "year": 2011,
+  "number": 7,
+  "question": "A system based on hierarchies of land ownership is--",
+  "options": {
+   "A": "feudalism",
+   "B": "totalitarianism",
+   "C": "communism",
+   "D": "fascism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-8",
+  "subject": "government",
+  "year": 2011,
+  "number": 8,
+  "question": "Which of the following performs quasi- legislative functions?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-9",
+  "subject": "government",
+  "year": 2011,
+  "number": 9,
+  "question": "A major weakness of confederation is",
+  "options": {
+   "A": "over-concentration of authority",
+   "B": "tendency towards secession",
+   "C": "lack of local independence",
+   "D": "lack of common currency 10.Members of a parliament are required to report the proceedings of the house to their ---"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-11",
+  "subject": "government",
+  "year": 2011,
+  "number": 11,
+  "question": "Which of the following Country is a unitary state?",
+  "options": {
+   "A": "Nigeria",
+   "B": "India",
+   "C": "United States of America",
+   "D": "Ghana"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-12",
+  "subject": "government",
+  "year": 2011,
+  "number": 12,
+  "question": "Ending a session of parliament by royal proclamation means the",
+  "options": {
+   "A": "expiration of parliament",
+   "B": "prorogation of parliament",
+   "C": "adjournment of parliament",
+   "D": "dissolution of parliament"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-13",
+  "subject": "government",
+  "year": 2011,
+  "number": 13,
+  "question": "A main feature of the parliamentary system is that",
+  "options": {
+   "A": "the executive consists of all-party members",
+   "B": "judges are drawn from the ruling party",
+   "C": "electoral commissioners leave at the end of their tenure",
+   "D": "the executive is appointed by the legislature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-14",
+  "subject": "government",
+  "year": 2011,
+  "number": 14,
+  "question": "In a socialist economy, private accumulation of wealth is",
+  "options": {
+   "A": "prohibited",
+   "B": "regulated",
+   "C": "limited",
+   "D": "encouraged"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-15",
+  "subject": "government",
+  "year": 2011,
+  "number": 15,
+  "question": "The earliest classification of constitutions was the work of",
+  "options": {
+   "A": "Aristotle",
+   "B": "J.J. Rouseau",
+   "C": "the process of operating a constitution",
+   "D": "strict adherence to a constitution 17.An advantage of delegated legislation is that"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-18",
+  "subject": "government",
+  "year": 2011,
+  "number": 18,
+  "question": "One essential duty of a citizen to his state is to",
+  "options": {
+   "A": "support the government in power",
+   "B": "recite the pledge",
+   "C": "pay his tax",
+   "D": "encourage other citizens 19.Franchise in an electoral process means the –"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-21",
+  "subject": "government",
+  "year": 2011,
+  "number": 21,
+  "question": "Pressure groups harmonize different individual concerns through",
+  "options": {
+   "A": "interest formulation",
+   "B": "interest manipulation",
+   "C": "people's expectations from the government",
+   "D": "feelings of people about particular issues and policies"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-23",
+  "subject": "government",
+  "year": 2011,
+  "number": 23,
+  "question": "In pre-colonial Igboland, autocratic rule was made difficult by the ---",
+  "options": {
+   "A": "fear of dethronement",
+   "B": "absence of a centralized system of authority",
+   "C": "pressure from age grades",
+   "D": "activities of cult societies 24.The Yoruba traditional system of government was—"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-25",
+  "subject": "government",
+  "year": 2011,
+  "number": 25,
+  "question": "Under the pre-colonial Sokoto Caliphate system, the next in command to the sultan was the",
+  "options": {
+   "A": "Alkali",
+   "B": "Galadima",
+   "C": "Madaki",
+   "D": "Waziri"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-26",
+  "subject": "government",
+  "year": 2011,
+  "number": 26,
+  "question": "Which of the following societies was classified as acephalous?",
+  "options": {
+   "A": "Benin",
+   "B": "Ibibio",
+   "C": "Igbo",
+   "D": "Ijaw"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-27",
+  "subject": "government",
+  "year": 2011,
+  "number": 27,
+  "question": "Indirect rule encouraged",
+  "options": {
+   "A": "communal integration",
+   "B": "exploitation and oppression",
+   "C": "inter-communal cooperation",
+   "D": "the rise of nationalism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-28",
+  "subject": "government",
+  "year": 2011,
+  "number": 28,
+  "question": "The main achievement of the nationalists in Nigeria was",
+  "options": {
+   "A": "registration of political parties",
+   "B": "economic liberation of the nation",
+   "C": "political liberation of the nation",
+   "D": "Anti-apartheid Movement 30.The presidential system of government was introduced in Nigeria with the Constitution of"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-31",
+  "subject": "government",
+  "year": 2011,
+  "number": 31,
+  "question": "The Action Group crisis of 1963 led to the formation of",
+  "options": {
+   "A": "UPP",
+   "B": "NEPU",
+   "C": "NPC",
+   "D": "NCNC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-32",
+  "subject": "government",
+  "year": 2011,
+  "number": 32,
+  "question": "Under the 1963 Republican Constitution, the power of judicial review was vested in the",
+  "options": {
+   "A": "President",
+   "B": "Chief Justice",
+   "C": "Supreme Court",
+   "D": "Parliament"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-33",
+  "subject": "government",
+  "year": 2011,
+  "number": 33,
+  "question": "The rules and regulations of the civil service are called?",
+  "options": {
+   "A": "General Order",
+   "B": "Bureaucratic Order",
+   "C": "Service Order",
+   "D": "Administrative Order"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-34",
+  "subject": "government",
+  "year": 2011,
+  "number": 34,
+  "question": "The Code of Conduct Bureau was essentially established to",
+  "options": {
+   "A": "reduce corruption in public life",
+   "B": "protect the rights of public servants",
+   "C": "enhance probity and accountability in public service",
+   "D": "ensure the independence of the public service"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-35",
+  "subject": "government",
+  "year": 2011,
+  "number": 35,
+  "question": "Which of the following political parties was the first to be formed when the ban on politics was lifted in 1978?",
+  "options": {
+   "A": "NPP",
+   "B": "PRP",
+   "C": "NPN",
+   "D": "UPN"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-36",
+  "subject": "government",
+  "year": 2011,
+  "number": 36,
+  "question": "The principle of federal character was adopted in order to promote equitable",
+  "options": {
+   "A": "positions and appointments among people of various regions",
+   "B": "appointments between the North and the South",
+   "C": "opportunities between the males and females",
+   "D": "revenue between groups in the country"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-37",
+  "subject": "government",
+  "year": 2011,
+  "number": 37,
+  "question": "The component units of the Nigerian Federation comprise",
+  "options": {
+   "A": "national assembly, military, police and civil service",
+   "B": "constituency, ward, emirate and chiefdom",
+   "C": "federal, state, local government and federal capital territory",
+   "D": "federal capital territory, national assembly, supreme court and civil service"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-38",
+  "subject": "government",
+  "year": 2011,
+  "number": 38,
+  "question": "In Nigeria, privatization and commercialization policies were introduced to",
+  "options": {
+   "A": "hand over the control of commercial ventures to citizens",
+   "B": "increase the asset base of government",
+   "C": "divest government major control of commercial ventures",
+   "D": "allow government control of the private sector"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-39",
+  "subject": "government",
+  "year": 2011,
+  "number": 39,
+  "question": "An example of a public corporation in Nigeria is",
+  "options": {
+   "A": "National Universities Commission",
+   "B": "Nigerian Television Authority",
+   "C": "National Population Commission",
+   "D": "First Bank of Nigeria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-40",
+  "subject": "government",
+  "year": 2011,
+  "number": 40,
+  "question": "Following the reform of the Native Authority system in Northern Nigeria, traditional rulers became",
+  "options": {
+   "A": "Council",
+   "B": "Chief-and-Council",
+   "C": "Prefects",
+   "D": "Chief-in-Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-41",
+  "subject": "government",
+  "year": 2011,
+  "number": 41,
+  "question": "Under whose regime were Akwa-Ibom and Katsina States created?",
+  "options": {
+   "A": "Gen Murtala Muhammed",
+   "B": "Gen Ibrahim Babangida",
+   "D": "Gen Yakubu Gowon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-42",
+  "subject": "government",
+  "year": 2011,
+  "number": 42,
+  "question": "Under the 1999 Constitutions of the Federal Republic of Nigeria, the appointment and posting of members of election tribunal on the elections conducted by INEC is the responsibility of the",
+  "options": {
+   "A": "Chairman, Independent National Electoral Commission",
+   "B": "President of Nigeria",
+   "C": "Chief Justice of Nigeria",
+   "D": "President, Court of Appeal 43.Rhodesia was the former name of"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-44",
+  "subject": "government",
+  "year": 2011,
+  "number": 44,
+  "question": "The adoption of non-alignment as a principle of Nigeria's foreign policy was aimed at",
+  "options": {
+   "A": "promoting Nigeria's leadership aspiration in Africa",
+   "B": "attaining equal status with the world powers",
+   "C": "fulfilling a basic requirement for acceptance in the UN Security Council",
+   "D": "insulating Nigeria against having to take side in the Cold War"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-45",
+  "subject": "government",
+  "year": 2011,
+  "number": 45,
+  "question": "In 1979, the non-aligned member states were",
+  "options": {
+   "A": "21",
+   "B": "27",
+   "C": "37",
+   "D": "19",
+   "E": "none of the above 46.Which of the following was the secretary general of OPEC?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-48",
+  "subject": "government",
+  "year": 2011,
+  "number": 48,
+  "question": "Which of the following international organizations were in existence before the Second World War?",
+  "options": {
+   "A": "The UNO",
+   "B": "The OAU",
+   "C": "The League of Nations",
+   "D": "The ECOWAS"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-49",
+  "subject": "government",
+  "year": 2011,
+  "number": 49,
+  "question": "The organ of the United Nations responsible for the approval of its annual budget is the",
+  "options": {
+   "A": "Secretariat",
+   "B": "Security Council",
+   "C": "General Assembly",
+   "D": "Economic and Social Council 50.Each member state is represented on the Board of Governors of OPEC for a period of"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

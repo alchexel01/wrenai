@@ -1,0 +1,949 @@
+[
+ {
+  "id": "government-2010-1",
+  "subject": "government",
+  "year": 2010,
+  "number": 1,
+  "question": "Which Government Question Paper Type is given to you?",
+  "options": {
+   "A": "Type A",
+   "B": "Type B",
+   "C": "Type",
+   "D": "Type D"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-2",
+  "subject": "government",
+  "year": 2010,
+  "number": 2,
+  "question": "Nation-state is synonymous with ----",
+  "options": {
+   "A": "self-actualization",
+   "B": "sovereignty",
+   "C": "liberation",
+   "D": "nationalism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-3",
+  "subject": "government",
+  "year": 2010,
+  "number": 3,
+  "question": "A fundamental component of political culture is ---------",
+  "options": {
+   "A": "social values",
+   "B": "family values",
+   "C": "community structure",
+   "D": "economic values."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-4",
+  "subject": "government",
+  "year": 2010,
+  "number": 4,
+  "question": "A form of oligarchy in which gifted people are at the helm of affairs is -----",
+  "options": {
+   "A": "aristocracy.",
+   "B": "theocracy",
+   "C": "plutocracy",
+   "D": "gerontocracy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-5",
+  "subject": "government",
+  "year": 2010,
+  "number": 5,
+  "question": "A state that is ruled by an elected citizen is ---------------",
+  "options": {
+   "A": "a monarchy",
+   "B": "a plutocracy",
+   "C": "a republic",
+   "D": "an empire"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-6",
+  "subject": "government",
+  "year": 2010,
+  "number": 6,
+  "question": "A true democracy in the modern sense exists where the –",
+  "options": {
+   "A": "elected representatives rule",
+   "B": "majority of the people rule",
+   "C": "majority of the people vote",
+   "D": "elite rules"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-7",
+  "subject": "government",
+  "year": 2010,
+  "number": 7,
+  "question": "In a parliamentary system, when the legislature passes a vote of no confidence on the executive, it means that the ---",
+  "options": {
+   "A": "executive is expected to go on suspension",
+   "B": "legislature ceases to trust",
+   "C": "executive is required to resign",
+   "D": "legislature commences legal proceeding against the executive"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-8",
+  "subject": "government",
+  "year": 2010,
+  "number": 8,
+  "question": "The legislative body of the United States of America is the ----",
+  "options": {
+   "A": "Parliament",
+   "B": "National Assembly",
+   "C": "Congress",
+   "D": "Council."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-9",
+  "subject": "government",
+  "year": 2010,
+  "number": 9,
+  "question": "Unicameralism is a feature of the legislature in ---",
+  "options": {
+   "A": "Israel",
+   "B": "the United States",
+   "C": "the United Kingdom",
+   "D": "Ghana."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-10",
+  "subject": "government",
+  "year": 2010,
+  "number": 10,
+  "question": "The upper house in most federal systems is created to –",
+  "options": {
+   "A": "ensure equality of federating units",
+   "B": "prevent excesses of the executive",
+   "C": "oversee and check the lower house",
+   "D": "enable experienced elders make inputs to governance."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-11",
+  "subject": "government",
+  "year": 2010,
+  "number": 11,
+  "question": "In which of the following systems is the power of the component units more than that of the central government?",
+  "options": {
+   "A": "Monarchical.",
+   "B": "Federal.",
+   "C": "Unitary.",
+   "D": "Confederal."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-12",
+  "subject": "government",
+  "year": 2010,
+  "number": 12,
+  "question": "One of the general tenets of fascist doctrine is that the leader is –",
+  "options": {
+   "A": "supreme relative to the constitution",
+   "B": "weak relative to the constitution",
+   "C": "subordinate to the laws of the state",
+   "D": "subordinate to the norms of the society."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-13",
+  "subject": "government",
+  "year": 2010,
+  "number": 13,
+  "question": "In a cabinet system of government, executive power is exercised by the",
+  "options": {
+   "A": "head of government",
+   "B": "monarch",
+   "C": "president",
+   "D": "dominant party"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-14",
+  "subject": "government",
+  "year": 2010,
+  "number": 14,
+  "question": "The principle of separation of powers is",
+  "options": {
+   "A": "presidential system",
+   "B": "parliamentary system",
+   "C": "monarchical system",
+   "D": "feudal system"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-15",
+  "subject": "government",
+  "year": 2010,
+  "number": 15,
+  "question": "A typical form of delegated legislation is",
+  "options": {
+   "A": "an act",
+   "B": "a bill",
+   "C": "a decree",
+   "D": "a bye-law"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-16",
+  "subject": "government",
+  "year": 2010,
+  "number": 16,
+  "question": "The rights of a citizen can be withdrawn by the state if the person",
+  "options": {
+   "A": "opposes the government violently",
+   "B": "leaves the country permanently",
+   "C": "is convicted of a serious crime",
+   "D": "is pronounced dead."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-17",
+  "subject": "government",
+  "year": 2010,
+  "number": 17,
+  "question": "An electoral process in which candidates are selected for elective offices by party members is ----",
+  "options": {
+   "A": "primary election",
+   "B": "electoral college",
+   "C": "bye election",
+   "D": "general election"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-18",
+  "subject": "government",
+  "year": 2010,
+  "number": 18,
+  "question": "In theory one major advantage of the one-party system is that it –",
+  "options": {
+   "A": "eliminates intra-party conflict",
+   "B": "serves as an instrument of national integration",
+   "C": "promotes greater mass participation in government",
+   "D": "guarantees social justice"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-19",
+  "subject": "government",
+  "year": 2010,
+  "number": 19,
+  "question": "A tactic employed by pressure groups to achieve their objectives is---",
+  "options": {
+   "A": "memorandum",
+   "B": "electioneering campaign",
+   "C": "propaganda",
+   "D": "lobbying"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-20",
+  "subject": "government",
+  "year": 2010,
+  "number": 20,
+  "question": "Public opinion can be measured through",
+  "options": {
+   "A": "negotiation",
+   "B": "referendum",
+   "C": "strike action",
+   "D": "rumour."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-21",
+  "subject": "government",
+  "year": 2010,
+  "number": 21,
+  "question": "Which of the following is the main function of the civil service?",
+  "options": {
+   "B": "Allocating resources to the federating units",
+   "C": "Supporting the party in power",
+   "D": "Mobilizing grass root support for government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-22",
+  "subject": "government",
+  "year": 2010,
+  "number": 22,
+  "question": "Who was the political head of the Old Oyo Empire?",
+  "options": {
+   "A": "Bashorun",
+   "B": "Oyomesi",
+   "C": "Aremo",
+   "D": "Alaafin"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-23",
+  "subject": "government",
+  "year": 2010,
+  "number": 23,
+  "question": "The lgbo political system was based on -",
+  "options": {
+   "A": "age grades",
+   "B": "Umunna",
+   "C": "family ties",
+   "D": "Umuada."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-24",
+  "subject": "government",
+  "year": 2010,
+  "number": 24,
+  "question": "The Aro age-grade system in lgbo land was",
+  "options": {
+   "A": "a religious organization",
+   "B": "a political organization",
+   "C": "a commercial organization",
+   "D": "an imperial organization."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-25",
+  "subject": "government",
+  "year": 2010,
+  "number": 25,
+  "question": "France introduced the policy of assimilation in her colonies primarily to",
+  "options": {
+   "A": "teach them the art of leadership",
+   "B": "give them a sound education",
+   "C": "change their way of life",
+   "D": "discourage them from ritual killings."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-26",
+  "subject": "government",
+  "year": 2010,
+  "number": 26,
+  "question": "The foremost British trading company on the West African coast was",
+  "options": {
+   "A": "Royal Niger Company",
+   "B": "United African Company",
+   "C": "Lever Brothers",
+   "D": "John Holt and Sons"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-27",
+  "subject": "government",
+  "year": 2010,
+  "number": 27,
+  "question": "Which of these rulers resisted colonial rule and was deported to Calabar?",
+  "options": {
+   "A": "King Kosoko.",
+   "B": "King Dosunmu",
+   "C": "Oba Ovonramwen",
+   "D": "King Jaja"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-28",
+  "subject": "government",
+  "year": 2010,
+  "number": 28,
+  "question": "Nigerian nationalism was described as two-phased by",
+  "options": {
+   "A": "John Payne Jackson",
+   "C": "James S. Coleman",
+   "D": "David Ricardo"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-29",
+  "subject": "government",
+  "year": 2010,
+  "number": 29,
+  "question": "One major weakness of the Independence Constitution is that it",
+  "options": {
+   "A": "failed to provide the country with full sovereignty.",
+   "B": "gave total independence to Nigeria",
+   "C": "gave full powers to the Supreme Court in Nigeria.",
+   "D": "empowered Britain to continue to rule."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-30",
+  "subject": "government",
+  "year": 2010,
+  "number": 30,
+  "question": "The first law-making body in Nigeria after amalgamation was",
+  "options": {
+   "A": "Nigerian Council",
+   "B": "National Assembly",
+   "C": "Legislative Council",
+   "D": "Regional Assembly"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-31",
+  "subject": "government",
+  "year": 2010,
+  "number": 31,
+  "question": "The designation of ministers as chief executives and accounting officers was recommended by a commission headed",
+  "options": {
+   "A": "Jerome Udoji",
+   "B": "S.J. Cookey",
+   "C": "Simeon Adebo",
+   "D": "Dotun Philips"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-32",
+  "subject": "government",
+  "year": 2010,
+  "number": 32,
+  "question": "A major shortcoming of the Ombudsman is",
+  "options": {
+   "A": "lack of adequate resources",
+   "B": "Lack of clear-cut mandate",
+   "C": "its inability to restrain bureaucratic excesses",
+   "D": "lack of executive power to enforce decisions."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-33",
+  "subject": "government",
+  "year": 2010,
+  "number": 33,
+  "question": "One of the strong points of the multi- party Nigeria's Fourth Republic",
+  "options": {
+   "A": "the provision for a bicameral legislature",
+   "B": "wider political participation",
+   "C": "government interference",
+   "D": "wider anti-democracy campaign."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-34",
+  "subject": "government",
+  "year": 2010,
+  "number": 34,
+  "question": "In which of the following is the ceremonial and executive powers fused?",
+  "options": {
+   "A": "Presidential system of government",
+   "B": "parliamentary system of government.",
+   "C": "Federal system of government.",
+   "D": "Unitary system of government"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-35",
+  "subject": "government",
+  "year": 2010,
+  "number": 35,
+  "question": "A major contentious issue confronting Nigerian federalism is",
+  "options": {
+   "A": "poverty",
+   "B": "education",
+   "C": "health care delivery",
+   "D": "revenue allocation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-36",
+  "subject": "government",
+  "year": 2010,
+  "number": 36,
+  "question": "The main purpose of establishing public enterprises in Nigeria is to",
+  "options": {
+   "A": "increase government revenue",
+   "B": "provide essential services",
+   "C": "enrich the elite",
+   "D": "compete with the private sector."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-37",
+  "subject": "government",
+  "year": 2010,
+  "number": 37,
+  "question": "Parastatals are established to",
+  "options": {
+   "A": "enhance entrepreneurial skills",
+   "B": "maximize government profits",
+   "C": "expand business transactions",
+   "D": "render social services."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-38",
+  "subject": "government",
+  "year": 2010,
+  "number": 38,
+  "question": "The General-Purpose Committee of the local government is the",
+  "options": {
+   "A": "cabinet or the local government",
+   "B": "local government public relations unit",
+   "C": "body responsible for supervising self- help projects",
+   "D": "body for awarding contracts"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-39",
+  "subject": "government",
+  "year": 2010,
+  "number": 39,
+  "question": "The highest organ of the state during the Babangida Regime was the",
+  "options": {
+   "A": "Provisional Ruling Council",
+   "B": "Supreme Military Council",
+   "C": "Armed Forces Ruling Council",
+   "D": "Federal Executive Council."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-40",
+  "subject": "government",
+  "year": 2010,
+  "number": 40,
+  "question": "Decree 34 of 1966 was unacceptable to many Nigerians because it was",
+  "options": {
+   "A": "seen as an instrument of impoverishment",
+   "B": "perceived to abolish the federal system",
+   "C": "promulgated without consultation with the people",
+   "D": "considered as alien."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-41",
+  "subject": "government",
+  "year": 2010,
+  "number": 41,
+  "question": "Nigeria broke diplomatic relations with France in 1961 because of",
+  "options": {
+   "A": "France's.atomic test in the Sahara Desert",
+   "B": "General de-Gaulle's negative attitude towards her",
+   "C": "her poor relations with the Francophone countries",
+   "D": "France's diplomatic relations with Israel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-42",
+  "subject": "government",
+  "year": 2010,
+  "number": 42,
+  "question": "An attribute that Nigeria shares with most non-aligned countries is",
+  "options": {
+   "A": "the state of her economy",
+   "B": "her heterogeneous population",
+   "C": "her large population",
+   "D": "her large size."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-43",
+  "subject": "government",
+  "year": 2010,
+  "number": 43,
+  "question": "Nigeria spearheaded the formation of ECOWAS during the regime of—",
+  "options": {
+   "A": "Olusegun Obasanjo",
+   "B": "Yakubu Gowon",
+   "C": "Murtala Muhammed",
+   "D": "Ibrahim Babangida"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-44",
+  "subject": "government",
+  "year": 2010,
+  "number": 44,
+  "question": "Nigeria was classified as a frontline state for",
+  "options": {
+   "A": "participating in peacekeeping in the Congo",
+   "B": "supporting the Lim liberation efforts in Southern Africa",
+   "C": "spearheading the formation of African",
+   "D": "helping to end the crisis in"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-45",
+  "subject": "government",
+  "year": 2010,
+  "number": 45,
+  "question": "The prominent role Nigeria played in the UN in the 70's earned her",
+  "options": {
+   "A": "non-permanent membership position Liberia.",
+   "B": "membership of the Security Council",
+   "C": "permanent representation at the UN",
+   "D": "chairmanship of the General"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-46",
+  "subject": "government",
+  "year": 2010,
+  "number": 46,
+  "question": "The head of Nigeria's foreign mission in a Commonwealth nation is known as A . high commissioner",
+  "options": {
+   "B": "charge d’affaires",
+   "C": "ambassador",
+   "D": "attaché."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-47",
+  "subject": "government",
+  "year": 2010,
+  "number": 47,
+  "question": "One major function of the Authority of Heads of State and Government of ECOWAS is",
+  "options": {
+   "A": "organizing international conferences",
+   "B": "appointing the Executive Secretary",
+   "C": "appointing staff of the Secretariat",
+   "D": "preparing the budget of the Community"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-48",
+  "subject": "government",
+  "year": 2010,
+  "number": 48,
+  "question": "The tenure of non-permanent members of the Security Council is",
+  "options": {
+   "A": "5 years",
+   "B": "2 years",
+   "C": "4 years",
+   "D": "6 years"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-49",
+  "subject": "government",
+  "year": 2010,
+  "number": 49,
+  "question": "The Secretary -General of the United Nations is appointed by the",
+  "options": {
+   "A": "Security council acting alone",
+   "B": "General Assembly on the recommendation of the Security Council",
+   "C": "Permanent members of the Security Council on the recommendation of the General Assembly",
+   "D": "General Assembly in plenary session"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2010-50",
+  "subject": "government",
+  "year": 2010,
+  "number": 50,
+  "question": "The approval of treaties and agreements of the Economic Community of West African States is the responsibility of the",
+  "options": {
+   "A": "secretariat",
+   "B": "ECOWAS Tribunal",
+   "C": "Council of Ministers",
+   "D": "Assembly of Heads of State and Government. ANSWERS TO JAMB 2010 GOVERNMENT 1. B 2. B 3. A 4. A 5. C 6. A 7. C 8. C 9. A 10. A 11. D 12. A 13. A 14. A 15. D 16. C 17. A 18. B 19. D 20. B 21. A 22. D 23. A 24. A 25. C 26. A 27. D 28. B 29. A 30. A 31. D 32. D 33. B 34. A 35. D 36. B 37. D 38. C 39. A 40. C 41. A 42. A 43. B 44. B 45. D 46. A 47. B 48. B 49. C 50. D"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,722 @@
+[
+ {
+  "id": "government-2012-1",
+  "subject": "government",
+  "year": 2012,
+  "number": 1,
+  "question": "Which Questions Paper Type of Government as indicated above is given to you?",
+  "options": {
+   "A": "Type Green",
+   "B": "Type Purple",
+   "C": "Type Red",
+   "D": "Type Yellow"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-2",
+  "subject": "government",
+  "year": 2012,
+  "number": 2,
+  "question": "The distinctive attribute of a state is the monopoly of",
+  "options": {
+   "A": "control",
+   "B": "power",
+   "C": "violence",
+   "D": "justice"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-3",
+  "subject": "government",
+  "year": 2012,
+  "number": 3,
+  "question": "State as a political entity refers to",
+  "options": {
+   "A": "An organized group within a definite territory",
+   "B": "An association of men in a given society",
+   "C": "A branch of a nation",
+   "D": "A geographical location"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-4",
+  "subject": "government",
+  "year": 2012,
+  "number": 4,
+  "question": "Political values are acquired in any given society through",
+  "options": {
+   "A": "political re-orientation",
+   "B": "political campaign",
+   "C": "political socialization",
+   "D": "political indoctrination"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-5",
+  "subject": "government",
+  "year": 2012,
+  "number": 5,
+  "question": "In a democratic government, political sovereignty is vested in the",
+  "options": {
+   "A": "legislature",
+   "B": "elite",
+   "C": "executive",
+   "D": "electorate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-6",
+  "subject": "government",
+  "year": 2012,
+  "number": 6,
+  "question": "One judicial function performed by the executive is",
+  "options": {
+   "A": "Granting of amnesty",
+   "B": "Implementing judicial orders",
+   "C": "Ensuring obedience to the law",
+   "D": "Appointing judges"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-7",
+  "subject": "government",
+  "year": 2012,
+  "number": 7,
+  "question": "A governmental system in which constitutional supremacy resides in the center is",
+  "options": {
+   "A": "federal",
+   "C": "unitary",
+   "D": "parliamentary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-8",
+  "subject": "government",
+  "year": 2012,
+  "number": 8,
+  "question": "A political system which empowers the leader with the ultimate responsibility to execute laws is",
+  "options": {
+   "A": "parliamentarianism",
+   "B": "presidentialism",
+   "C": "dictatorship",
+   "D": "autocracy"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-9",
+  "subject": "government",
+  "year": 2012,
+  "number": 9,
+  "question": "A bill is a draft which is awaiting the consideration of the",
+  "options": {
+   "A": "executive",
+   "B": "party caucus",
+   "C": "legislature",
+   "D": "judiciary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-10",
+  "subject": "government",
+  "year": 2012,
+  "number": 10,
+  "question": "The private ownership of the means of production is a feature of",
+  "options": {
+   "A": "capitalism",
+   "B": "socialism",
+   "C": "communalism",
+   "D": "communism"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-11",
+  "subject": "government",
+  "year": 2012,
+  "number": 11,
+  "question": "In a feudal system, the two major classes are the serfs and the",
+  "options": {
+   "A": "masses",
+   "B": "vassals",
+   "C": "lords",
+   "D": "elite"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-12",
+  "subject": "government",
+  "year": 2012,
+  "number": 12,
+  "question": "An example of a country with a flexible constitution is",
+  "options": {
+   "A": "South Africa",
+   "B": "Britain",
+   "C": "Benin Republic",
+   "D": "the United States of America"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-13",
+  "subject": "government",
+  "year": 2012,
+  "number": 13,
+  "question": "The rule of law is negation of",
+  "options": {
+   "A": "equality before the law",
+   "B": "supremacy of the law",
+   "C": "Limited power",
+   "D": "absolute power"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-14",
+  "subject": "government",
+  "year": 2012,
+  "number": 14,
+  "question": "To ensure the rights and freedom of citizens, the powers of the arms of government must be",
+  "options": {
+   "A": "fused",
+   "B": "incorporated",
+   "C": "separated"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-15",
+  "subject": "government",
+  "year": 2012,
+  "number": 15,
+  "question": "Delegated legislation is made by bodies others than the",
+  "options": {
+   "A": "president",
+   "B": "governor",
+   "C": "parliament",
+   "D": "judiciary"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-16",
+  "subject": "government",
+  "year": 2012,
+  "number": 16,
+  "question": "The bringing of a session of a parliament to an end through royal proclamation is known as",
+  "options": {
+   "A": "political impasse",
+   "B": "dissolution of parliament",
+   "C": "vote of no confidence",
+   "D": "prorogation of parliament"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-17",
+  "subject": "government",
+  "year": 2012,
+  "number": 17,
+  "question": "The right of citizens to participate in the affairs of government of their country is called",
+  "options": {
+   "A": "economic right",
+   "B": "civil right",
+   "C": "political right",
+   "D": "social right"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-18",
+  "subject": "government",
+  "year": 2012,
+  "number": 18,
+  "question": "The commission charged with the conduct of federal elections in Nigeria is",
+  "options": {
+   "A": "NEC",
+   "B": "FEDECO",
+   "C": "INEC",
+   "D": "NECON"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-19",
+  "subject": "government",
+  "year": 2012,
+  "number": 19,
+  "question": "An electoral system in which parties are assigned seats in the parliament commensurate to the number of votes polled is",
+  "options": {
+   "A": "Absolute majority",
+   "B": "Simple majority",
+   "C": "proportional representation",
+   "D": "indirect election"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-20",
+  "subject": "government",
+  "year": 2012,
+  "number": 20,
+  "question": "An intra-party activity for the selection of candidates for elective positions known as",
+  "options": {
+   "A": "primary election",
+   "B": "general election",
+   "C": "mid-term election",
+   "D": "bye-election"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-21",
+  "subject": "government",
+  "year": 2012,
+  "number": 21,
+  "question": "The primary aim of pressure groups is to",
+  "options": {
+   "A": "Attract people's attention",
+   "B": "protects the interest of members",
+   "C": "captured political power",
+   "D": "fight corrupt officials"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-22",
+  "subject": "government",
+  "year": 2012,
+  "number": 22,
+  "question": "Which of the following is used in gauging public opinion?",
+  "options": {
+   "A": "constitution",
+   "B": "educational institution",
+   "C": "mass media",
+   "D": "electoral college"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-23",
+  "subject": "government",
+  "year": 2012,
+  "number": 23,
+  "question": "A permanent structure that facilitates continuity and guarantees orderly conduct in governance is",
+  "options": {
+   "A": "Bureaucracy",
+   "B": "public corporation",
+   "C": "ombudsman",
+   "D": "political party"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-24",
+  "subject": "government",
+  "year": 2012,
+  "number": 24,
+  "question": "In the Hausa pre- colonial political system, a district was headed by",
+  "options": {
+   "A": "A hakimi",
+   "B": "a dagaci",
+   "C": "an alkali",
+   "D": "a waziri"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-25",
+  "subject": "government",
+  "year": 2012,
+  "number": 25,
+  "question": "Which of the following ensured the practice of democracy in the pre- colonial Yoruba political system?",
+  "options": {
+   "A": "Checks and balances",
+   "B": "Fusion of power",
+   "C": "individual responsibility",
+   "D": "the rule of law"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-26",
+  "subject": "government",
+  "year": 2012,
+  "number": 26,
+  "question": "Colonization of Africa was mainly motivated by",
+  "options": {
+   "A": "security considerations",
+   "B": "economic reasons",
+   "C": "religious reasons",
+   "D": "cultural factors"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-27",
+  "subject": "government",
+  "year": 2012,
+  "number": 27,
+  "question": "The French colonial system was underlined by the policy of",
+  "options": {
+   "A": "assimilation",
+   "B": "paternalism",
+   "C": "socialism",
+   "D": "indirect rule"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-28",
+  "subject": "government",
+  "year": 2012,
+  "number": 28,
+  "question": "Radical nationalism in Nigeria is generally attributed to the influence of",
+  "options": {
+   "A": "Aminu Kano",
+   "B": "Herbert Marcaulay",
+   "C": "Nnamdi Azikiwe",
+   "D": "Mbonu Ojike"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-29",
+  "subject": "government",
+  "year": 2012,
+  "number": 29,
+  "question": "Two foreigners that directly aroused nationalist feelings among Nigerians are",
+  "options": {
+   "A": "Edward Blyden and Payne Jackson",
+   "B": "Casely Hayford and James Horton",
+   "C": "W.E du Boise and H.O Davies",
+   "D": "Marcus Garvey and Casely Hayford"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-30",
+  "subject": "government",
+  "year": 2012,
+  "number": 30,
+  "question": "Members of the Senate in Nigeria's First Republic were",
+  "options": {
+   "A": "Elected directly by the people",
+   "B": "Elected by electoral college",
+   "C": "Nominated by regional and federal governments",
+   "D": "Nominated by the president of the house"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-31",
+  "subject": "government",
+  "year": 2012,
+  "number": 31,
+  "question": "In Nigeria, the agency mainly responsible for the maintenance of internal peace and security is the",
+  "options": {
+   "A": "Army",
+   "B": "Navy",
+   "C": "Civil Defence Corps",
+   "D": "Police"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-32",
+  "subject": "government",
+  "year": 2012,
+  "number": 32,
+  "question": "The National Assembly in Nigeria is primarily responsible for",
+  "options": {
+   "A": "Executing laws",
+   "B": "interpreting laws",
+   "C": "Ratifying appointments",
+   "D": "Making laws"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-33",
+  "subject": "government",
+  "year": 2012,
+  "number": 33,
+  "question": "The major factor militating against the efficient operation of electoral commissions in Nigeria is",
+  "options": {
+   "A": "Inadequate public support",
+   "B": "Population size",
+   "C": "Inadequate skilled manpower",
+   "D": "Excessive political interference"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-34",
+  "subject": "government",
+  "year": 2012,
+  "number": 34,
+  "question": "A major objective of the public Complaints Commission is",
+  "options": {
+   "A": "Training and promotion of public servants",
+   "B": "Settlement of disputes among individuals",
+   "C": "Addressing the grievances of individuals and groups",
+   "D": "Fighting corruption and indiscipline"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-35",
+  "subject": "government",
+  "year": 2012,
+  "number": 35,
+  "question": "The three registered political parties at the inception of Nigeria’s Fourth Republic were",
+  "options": {
+   "A": "PDP, DPP and PPA",
+   "B": "PDP, AD and APP",
+   "C": "PDP, AD and PPA",
+   "D": "PDP, app and AC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-36",
+  "subject": "government",
+  "year": 2012,
+  "number": 36,
+  "question": "The Sharia legal system was first introduced in the Fourth Republic in",
+  "options": {
+   "A": "Kano State",
+   "B": "Katsina State",
+   "C": "Zamfara State",
+   "D": "Sokoto State"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-37",
+  "subject": "government",
+  "year": 2012,
+  "number": 37,
+  "question": "Quota system and federal character principles were entrenched in the 1979 constitution to ensure",
+  "options": {
+   "A": "loyalty",
+   "B": "Economic empowerment",
+   "C": "Equity",
+   "D": "Even development"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-38",
+  "subject": "government",
+  "year": 2012,
+  "number": 38,
+  "question": "Workers in the public corporations are known as",
+  "options": {
+   "A": "civil servants",
+   "B": "private employees",
+   "C": "public servants",
+   "D": "professional employees 39.The central objective of privatization in Nigeria is to"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

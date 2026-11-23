@@ -1,0 +1,949 @@
+[
+ {
+  "id": "government-2013-1",
+  "subject": "government",
+  "year": 2013,
+  "number": 1,
+  "question": "Which Question Paper Type of Government is given to you?",
+  "options": {
+   "A": "Type D",
+   "B": "Type I",
+   "C": "Type B",
+   "D": "Type U"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-2",
+  "subject": "government",
+  "year": 2013,
+  "number": 2,
+  "question": "Power that is delegated is exercised",
+  "options": {
+   "A": "By devolution",
+   "B": "Directly",
+   "C": "By coercion",
+   "D": "Indirect"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-3",
+  "subject": "government",
+  "year": 2013,
+  "number": 3,
+  "question": "De Jure sovereign is acquired through",
+  "options": {
+   "A": "Law",
+   "B": "Grant",
+   "C": "Treaty",
+   "D": "Force"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-4",
+  "subject": "government",
+  "year": 2013,
+  "number": 4,
+  "question": "A group of people who live together under a common law within a definite territory is a",
+  "options": {
+   "A": "Community",
+   "B": "Nation - State",
+   "C": "Nation",
+   "D": "State"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-5",
+  "subject": "government",
+  "year": 2013,
+  "number": 5,
+  "question": "Political socialization is associated with",
+  "options": {
+   "A": "Military take-over of civilian government",
+   "B": "The transmission of political values",
+   "C": "Political transition",
+   "D": "Free choice of party programmes"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-6",
+  "subject": "government",
+  "year": 2013,
+  "number": 6,
+  "question": "According to Aristotle, a form of government in which the few rule for the benefit of all is",
+  "options": {
+   "A": "Diarchy",
+   "B": "Aristocracy",
+   "C": "Autocracy",
+   "D": "polyarch"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-7",
+  "subject": "government",
+  "year": 2013,
+  "number": 7,
+  "question": "Rule by the old people is known as",
+  "options": {
+   "A": "Monarchy",
+   "B": "Gerontocracy",
+   "D": "Theocracy"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-8",
+  "subject": "government",
+  "year": 2013,
+  "number": 8,
+  "question": "As an executive, the commissioner is charged with the responsibility of",
+  "options": {
+   "A": "Implementing laws",
+   "B": "Writing laws",
+   "C": "Giving loans",
+   "D": "Making laws"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-9",
+  "subject": "government",
+  "year": 2013,
+  "number": 9,
+  "question": "Rules adjudication is a primary function of the",
+  "options": {
+   "A": "Judiciary",
+   "B": "Executive",
+   "C": "Government",
+   "D": "Legislature"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-10",
+  "subject": "government",
+  "year": 2013,
+  "number": 10,
+  "question": "The judiciary controls the executive in federal state through",
+  "options": {
+   "A": "Delegated legislation",
+   "B": "Judicial overview",
+   "C": "Judicial review",
+   "D": "Motions"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-11",
+  "subject": "government",
+  "year": 2013,
+  "number": 11,
+  "question": "One major advantage of the unitary system is that it tends of make government",
+  "options": {
+   "A": "Free of controversy",
+   "B": "Distant from the people",
+   "C": "Popular among the masses",
+   "D": "Strong and stable"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-12",
+  "subject": "government",
+  "year": 2013,
+  "number": 12,
+  "question": "The presidential system differs from the parliamentary system of government in that",
+  "options": {
+   "A": "The principle of collective responsibility applies",
+   "B": "Executive and legislative powers are fused",
+   "C": "Powers of the three arms of government are merged",
+   "D": "The tenure of office of the president is limited"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-13",
+  "subject": "government",
+  "year": 2013,
+  "number": 13,
+  "question": "Which of the following advocates equitable distribution of wealth?",
+  "options": {
+   "A": "Capitalism",
+   "B": "Aristocracy",
+   "C": "Socialism",
+   "D": "Plutocracy"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-14",
+  "subject": "government",
+  "year": 2013,
+  "number": 14,
+  "question": "A constitution that is difficult to amend is",
+  "options": {
+   "A": "Rigid",
+   "B": "Written",
+   "C": "Unwritten",
+   "D": "Flexible"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-15",
+  "subject": "government",
+  "year": 2013,
+  "number": 15,
+  "question": "Which of the following constitutions is more suitable for centralization of political power?",
+  "options": {
+   "A": "Unwritten constitution",
+   "B": "Rigid constitution",
+   "C": "Written constitution",
+   "D": "Flexible constitution"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-16",
+  "subject": "government",
+  "year": 2013,
+  "number": 16,
+  "question": "The act of transferring autonomous powers to subordinate agencies is",
+  "options": {
+   "A": "Concentration",
+   "B": "Deconcentration",
+   "C": "Delegation",
+   "D": "Devolution"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-17",
+  "subject": "government",
+  "year": 2013,
+  "number": 17,
+  "question": "Which of the following types of citizenship cannot be withdrawn?",
+  "options": {
+   "A": "Citizenship by conquest",
+   "B": "Citizenship by birth",
+   "C": "Honorary citizenship",
+   "D": "Citizenship by naturalization"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-18",
+  "subject": "government",
+  "year": 2013,
+  "number": 18,
+  "question": "The right of citizens to vote is",
+  "options": {
+   "A": "Universal suffrage",
+   "B": "Nationality suffrage",
+   "C": "Electoral suffrage",
+   "D": "Adult suffrage"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-19",
+  "subject": "government",
+  "year": 2013,
+  "number": 19,
+  "question": "A political party is different from a pressure group in its",
+  "options": {
+   "A": "Objective",
+   "B": "Organization",
+   "D": "Source of finance"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-20",
+  "subject": "government",
+  "year": 2013,
+  "number": 20,
+  "question": "One of the functions of pressure groups is",
+  "options": {
+   "A": "Nominate the president",
+   "B": "Prepare the budget",
+   "C": "Articulate the opinion of their members",
+   "D": "Contest elections to serve the people"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-21",
+  "subject": "government",
+  "year": 2013,
+  "number": 21,
+  "question": "Public opinion refers to the",
+  "options": {
+   "A": "Aggregate views of groups on particular government activities",
+   "B": "views held by the president of a country",
+   "C": "views of the chief justice of a country",
+   "D": "Aggregate of attitudes held by members of the national assembly"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-22",
+  "subject": "government",
+  "year": 2013,
+  "number": 22,
+  "question": "The class that oversees the implementation of government decisions and policies is the",
+  "options": {
+   "A": "Executive",
+   "B": "Clerical",
+   "C": "Technical",
+   "D": "Administrative"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-23",
+  "subject": "government",
+  "year": 2013,
+  "number": 23,
+  "question": "The performance of ritual rites in the Yoruba empire is the responsibility of the",
+  "options": {
+   "A": "Aare-Onakakanfo",
+   "B": "Oba",
+   "C": "Ogboni",
+   "D": "Oyo mesi"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-24",
+  "subject": "government",
+  "year": 2013,
+  "number": 24,
+  "question": "Under the emirate system, the commander of the army is the",
+  "options": {
+   "A": "Hakimi",
+   "B": "Sarkin fada",
+   "C": "Madawaki",
+   "D": "Alkali"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-25",
+  "subject": "government",
+  "year": 2013,
+  "number": 25,
+  "question": "The indirect rule system of administration was more successful in the Northern Nigeria because",
+  "options": {
+   "A": "Of the existence of an organized",
+   "B": "the Europeans ensures that the farmlands",
+   "C": "The natives show little or no resistance",
+   "D": "The people were mainly interested in being governed indirectly"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-26",
+  "subject": "government",
+  "year": 2013,
+  "number": 26,
+  "question": "The earliest nationalist activities in Nigeria were spearheaded by",
+  "options": {
+   "A": "Trade unions",
+   "B": "Traditional rulers",
+   "C": "Political parties",
+   "D": "Educated elite"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-27",
+  "subject": "government",
+  "year": 2013,
+  "number": 27,
+  "question": "The first notable nationalist movement in west Africa was the",
+  "options": {
+   "A": "West African student union",
+   "B": "Nigeria youth movement",
+   "C": "Aborigines rights protection society",
+   "D": "National congress of British West Africa"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-28",
+  "subject": "government",
+  "year": 2013,
+  "number": 28,
+  "question": "In Nigeria’s first republic, the prime minister was both the",
+  "options": {
+   "A": "Head of state and commander-in-chief of the armed forces",
+   "B": "Commander-in-chief of the armed forces and party leader",
+   "C": "Head of state and party leader",
+   "D": "Head of government and a lawmaker"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-29",
+  "subject": "government",
+  "year": 2013,
+  "number": 29,
+  "question": "Under the 1979 Constitution, statutory allocation of revenue to local government councils is the responsibility of the",
+  "options": {
+   "A": "House of Assembly",
+   "B": "National Economic Council",
+   "C": "Federal Legislature",
+   "D": "Council of State"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-30",
+  "subject": "government",
+  "year": 2013,
+  "number": 30,
+  "question": "Under Nigeria's Second Republic, the Senate was under the leadership of",
+  "options": {
+   "A": "J.S. Tarka",
+   "B": "Joseph Wayas",
+   "C": "Godwin Ume-Ezeoke",
+   "D": "John Wash Pam"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-31",
+  "subject": "government",
+  "year": 2013,
+  "number": 31,
+  "question": "The Revenue Mobilization, Allocation and Fiscal Commission is statutorily empowered to determine the remuneration of",
+  "options": {
+   "A": "Only elected representatives",
+   "B": "Political office holders",
+   "C": "Employees of public corporations",
+   "D": "All civil servants"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-32",
+  "subject": "government",
+  "year": 2013,
+  "number": 32,
+  "question": "The primary function of the Code of Conduct Bureau is to",
+  "options": {
+   "A": "Ensure minimum standard of morality",
+   "B": "Retain custody of declarations",
+   "C": "Receive declaration of assets",
+   "D": "Ensure due process by public officers"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-33",
+  "subject": "government",
+  "year": 2013,
+  "number": 33,
+  "question": "The party system practiced in Nigeria's Third Republic was",
+  "options": {
+   "A": "Two-party",
+   "B": "Zero-party",
+   "C": "One-party",
+   "D": "Multi-party"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-34",
+  "subject": "government",
+  "year": 2013,
+  "number": 34,
+  "question": "Nigeria adopted the federal system of government because of",
+  "options": {
+   "A": "Uneven development",
+   "B": "The availability of limited resources",
+   "C": "The adoption of a stat religion",
+   "D": "The fear of domination of minorities"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-35",
+  "subject": "government",
+  "year": 2013,
+  "number": 35,
+  "question": "The highest policy the making body under the Gowon Regime was",
+  "options": {
+   "A": "Armed Forces Ruling Council",
+   "B": "Provisional Ruling Council",
+   "C": "Supreme Military Council",
+   "D": "Federal Executive Council"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-36",
+  "subject": "government",
+  "year": 2013,
+  "number": 36,
+  "question": "Nigeria became a federation of thirty-six state during the era of",
+  "options": {
+   "A": "Abdulsalami Abubakar",
+   "B": "Yakubu Gowon",
+   "C": "Ibrahim Babangida",
+   "D": "Sani Abacha"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-37",
+  "subject": "government",
+  "year": 2013,
+  "number": 37,
+  "question": "Which of the following headed the committee that recommended the suitability of Abuja as a new federal city?",
+  "options": {
+   "A": "Justice Baba Ardo",
+   "B": "Justice Atanda Fatai Williams",
+   "C": "Justice Udo Udoma",
+   "D": "Justice Akinola Aguda"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-38",
+  "subject": "government",
+  "year": 2013,
+  "number": 38,
+  "question": "A public corporation is managed by",
+  "options": {
+   "A": "A minister",
+   "B": "A general manager",
+   "C": "The board of governors",
+   "D": "The board of directors"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-39",
+  "subject": "government",
+  "year": 2013,
+  "number": 39,
+  "question": "A major source of revenue in the post - 1976 local government in Nigeria is",
+  "options": {
+   "A": "Internally generated revenue",
+   "B": "the federation account",
+   "C": "Grants and loans",
+   "D": "The joint state-local government account"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-40",
+  "subject": "government",
+  "year": 2013,
+  "number": 40,
+  "question": "The provisional Ruling Council was the highest ruling body during the regime of",
+  "options": {
+   "A": "Muhammadu Buhari",
+   "B": "Ibrahim Babangida",
+   "C": "Murtala Muhammed",
+   "D": "Sani Abacha"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-41",
+  "subject": "government",
+  "year": 2013,
+  "number": 41,
+  "question": "Nigeria's non-alignment policy in the sixties lacked real substance because of her",
+  "options": {
+   "A": "Afrocentric policy",
+   "B": "Poor economic potential",
+   "C": "Partnership with Asian countries",
+   "D": "Close ties with Britain"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-42",
+  "subject": "government",
+  "year": 2013,
+  "number": 42,
+  "question": "Under the Technical Aid Corps, Nigerian experts are deployed to",
+  "options": {
+   "A": "African, the pacific and the Caribbean",
+   "B": "Europe, South America and Asia",
+   "C": "The pacific, the Caribbean and Europe",
+   "D": "Asia, Africa and the pacific"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-43",
+  "subject": "government",
+  "year": 2013,
+  "number": 43,
+  "question": "The centre-piece of Nigeria's foreign policy covers only",
+  "options": {
+   "A": "Europe",
+   "B": "Africa",
+   "C": "Latin America",
+   "D": "Asia"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-44",
+  "subject": "government",
+  "year": 2013,
+  "number": 44,
+  "question": "Which of the following countries pioneered the establishment of ECOWAS alongside Nigeria?",
+  "options": {
+   "A": "Ghana",
+   "B": "Togo",
+   "C": "Algeria",
+   "D": "Cameroun"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-45",
+  "subject": "government",
+  "year": 2013,
+  "number": 45,
+  "question": "Nigeria's role in the African Union was most prominent during the regime of",
+  "options": {
+   "A": "President Olusegun Obasanjo",
+   "B": "President Shehu Shagari",
+   "C": "President Umaru Yar'adua",
+   "D": "President Ibrahim Babangida"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-46",
+  "subject": "government",
+  "year": 2013,
+  "number": 46,
+  "question": "A representative of a Commonwealth country in another member state is known as",
+  "options": {
+   "A": "Consul-General",
+   "B": "Ambassador",
+   "C": "Attache",
+   "D": "High Commissioner"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-47",
+  "subject": "government",
+  "year": 2013,
+  "number": 47,
+  "question": "The organ of UN that promotes voluntary co-operation among member states in diverse areas is the",
+  "options": {
+   "A": "International Court of Justice",
+   "B": "General Assembly",
+   "C": "Economic and Social Council",
+   "D": "Security Council"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-48",
+  "subject": "government",
+  "year": 2013,
+  "number": 48,
+  "question": "The main representative body of the United Nations is the",
+  "options": {
+   "A": "Security Council",
+   "B": "General Assembly",
+   "C": "Trusteeship Council"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-49",
+  "subject": "government",
+  "year": 2013,
+  "number": 49,
+  "question": "The AU differs from the OAU in having",
+  "options": {
+   "A": "Effective tools for decision enforcement",
+   "B": "No permanent headquarters",
+   "C": "A minimum of divergent viewpoints",
+   "D": "No assembly of Heads of State"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2013-50",
+  "subject": "government",
+  "year": 2013,
+  "number": 50,
+  "question": "OPEC has strong influence with the",
+  "options": {
+   "A": "EU",
+   "B": "ADB",
+   "C": "AU",
+   "D": "IMF"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

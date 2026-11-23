@@ -1,0 +1,932 @@
+[
+ {
+  "id": "government-2014-1",
+  "subject": "government",
+  "year": 2014,
+  "number": 1,
+  "question": "Which Question Paper Type of Government is given to you?",
+  "options": {
+   "A": "Type F",
+   "B": "Type E",
+   "C": "Type L",
+   "D": "D Type"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-2",
+  "subject": "government",
+  "year": 2014,
+  "number": 2,
+  "question": "The necessary attributes of a state are",
+  "options": {
+   "A": "police, army, sovereignty and custom",
+   "B": "resources, population, sovereignty and government",
+   "C": "sovereignty, police, army and immigration",
+   "D": "definite territory, population, sovereignty and government"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-3",
+  "subject": "government",
+  "year": 2014,
+  "number": 3,
+  "question": "The process of taking part in political and public affairs can be termed political",
+  "options": {
+   "A": "socialization",
+   "B": "recognition",
+   "C": "culture",
+   "D": "participation"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-4",
+  "subject": "government",
+  "year": 2014,
+  "number": 4,
+  "question": "Membership of a society is",
+  "options": {
+   "A": "constitutional",
+   "B": "conventional",
+   "C": "mandatory",
+   "D": "voluntary"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-5",
+  "subject": "government",
+  "year": 2014,
+  "number": 5,
+  "question": "In a democratic political system, the political sovereign is usually the",
+  "options": {
+   "A": "legislature",
+   "B": "constitution",
+   "C": "political parties",
+   "D": "electorate"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-6",
+  "subject": "government",
+  "year": 2014,
+  "number": 6,
+  "question": "One basic feature of a monarchical form of government is that",
+  "options": {
+   "A": "the ruler has a fixed tenure powers is absolute",
+   "B": "separation of powers is absolute",
+   "C": "members of the executive are elected",
+   "D": "succession is through heredity"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-7",
+  "subject": "government",
+  "year": 2014,
+  "number": 7,
+  "question": "One main advantage of bicameral legislature is that it",
+  "options": {
+   "A": "is not easy to manipulate hills",
+   "B": "makes for quick deliberation during emergencies",
+   "C": "makes passage of bills easy"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-8",
+  "subject": "government",
+  "year": 2014,
+  "number": 8,
+  "question": "The court that has ultimate power to interpret the constitution is the",
+  "options": {
+   "A": "Court of Appeal",
+   "B": "Supreme Court",
+   "C": "Magistrate Court",
+   "D": "High Court"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-9",
+  "subject": "government",
+  "year": 2014,
+  "number": 9,
+  "question": "Unitary system of government is more suitable to a country",
+  "options": {
+   "A": "with a relatively small area and a homogenous population",
+   "B": "that is sparsely populated",
+   "C": "that possesses a strong and modern army",
+   "D": "with a robust and dynamic economy"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-10",
+  "subject": "government",
+  "year": 2014,
+  "number": 10,
+  "question": "An example of a country ruled by a constitutional monarch is",
+  "options": {
+   "A": "Libya",
+   "B": "Uganda",
+   "C": "Morocco",
+   "D": "Italy"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-11",
+  "subject": "government",
+  "year": 2014,
+  "number": 11,
+  "question": "The development of a classless society is the goal of",
+  "options": {
+   "A": "marxism",
+   "B": "conservation",
+   "C": "feudalism",
+   "D": "liberalism"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-12",
+  "subject": "government",
+  "year": 2014,
+  "number": 12,
+  "question": "A flexible constitution is one which is",
+  "options": {
+   "A": "written by the parliament",
+   "B": "easily amended",
+   "C": "popular with the legislators",
+   "D": "known to all the citizens"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-13",
+  "subject": "government",
+  "year": 2014,
+  "number": 13,
+  "question": "Which of the following is a feature of checks and balances?",
+  "options": {
+   "A": "Code of conduct",
+   "B": "Judicial precedent",
+   "C": "Judicial immunity",
+   "D": "Judicial review"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-14",
+  "subject": "government",
+  "year": 2014,
+  "number": 14,
+  "question": "Laws made by military governments at the state level are called",
+  "options": {
+   "A": "acts",
+   "B": "decrees",
+   "C": "bye-laws",
+   "D": "edicts"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-15",
+  "subject": "government",
+  "year": 2014,
+  "number": 15,
+  "question": "Citizenship is acquired by an alien through",
+  "options": {
+   "A": "naturalization",
+   "B": "registration",
+   "C": "birth",
+   "D": "conferment"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-16",
+  "subject": "government",
+  "year": 2014,
+  "number": 16,
+  "question": "The officer responsible for announcing the result of an election is known as",
+  "options": {
+   "A": "electoral officer",
+   "B": "ballot officer",
+   "C": "presiding officer",
+   "D": "returning officer"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-17",
+  "subject": "government",
+  "year": 2014,
+  "number": 17,
+  "question": "The ultimate aim of political parties is to",
+  "options": {
+   "A": "formulate and implement policies",
+   "B": "implement people-oriented programmes",
+   "C": "acquire and exercise power",
+   "D": "increase the political awareness of the electorate"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-18",
+  "subject": "government",
+  "year": 2014,
+  "number": 18,
+  "question": "The main objective of pressure groups is to",
+  "options": {
+   "A": "serve as opposition to the government",
+   "B": "promote the interest of political parties",
+   "C": "influence legislation for the benefit of their members",
+   "D": "protect the interest of the country against foreigners"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-19",
+  "subject": "government",
+  "year": 2014,
+  "number": 19,
+  "question": "Which of the following is not a dimension of public opinion?",
+  "options": {
+   "A": "Substance",
+   "B": "Polling",
+   "C": "Orientation",
+   "D": "Intensity"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-20",
+  "subject": "government",
+  "year": 2014,
+  "number": 20,
+  "question": "The body that is responsible for the appointment, discipline, promotion and dismissal of civil servants is the",
+  "options": {
+   "A": "Ministry of Labour and Productivity",
+   "B": "Ministry of Establishment",
+   "C": "Bureau for Public Service Reforms",
+   "D": "Civil Service Commission"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-21",
+  "subject": "government",
+  "year": 2014,
+  "number": 21,
+  "question": "In the pre-colonial Hausa political system, the Madawaki performed the-function of",
+  "options": {
+   "A": "Minister of Works",
+   "B": "Minister of Education",
+   "C": "Minister of Defence",
+   "D": "Minister of Interior"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-23",
+  "subject": "government",
+  "year": 2014,
+  "number": 23,
+  "question": "The General Strike of 1945 was caused primarily by the",
+  "options": {
+   "A": "disparity in the criteria for employment",
+   "B": "harshness in trade laws as it concerns the Africans",
+   "C": "government's rejection of a demand for an increase of 50 percent in the cost of living allowance",
+   "D": "persistent implementation of discriminatory laws"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-24",
+  "subject": "government",
+  "year": 2014,
+  "number": 24,
+  "question": "Before 1945, the component units of Nigeria were",
+  "options": {
+   "A": "regions",
+   "B": "districts",
+   "C": "provinces",
+   "D": "states"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-25",
+  "subject": "government",
+  "year": 2014,
+  "number": 25,
+  "question": "National agitation began in Nigeria with the",
+  "options": {
+   "A": "formation of West African Youth League",
+   "B": "Lagos protest against water rate in 1908",
+   "C": "introduction of indirect rule",
+   "D": "annexation of Lagos in 1861"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-26",
+  "subject": "government",
+  "year": 2014,
+  "number": 26,
+  "question": "The emergence of nationalism was essentially the result of the ills of",
+  "options": {
+   "A": "imperialism",
+   "B": "independence",
+   "C": "slavery",
+   "D": "colonialism"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-27",
+  "subject": "government",
+  "year": 2014,
+  "number": 27,
+  "question": "Which of the following nationalists was the founder of Nigeria's first political party?",
+  "options": {
+   "A": "Herbert Macaulay",
+   "B": "Abubakar Tafawa Balewa",
+   "C": "Ahmadu Bello",
+   "D": "Nnamdi Azikiwe"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-28",
+  "subject": "government",
+  "year": 2014,
+  "number": 28,
+  "question": "The division of powers between the federal and regional governments into exclusive, concurrent and residual lists was done by the",
+  "options": {
+   "A": "1979 Constitution",
+   "B": "1999 Constitution",
+   "C": "Independence Constitution",
+   "D": "Republican"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-29",
+  "subject": "government",
+  "year": 2014,
+  "number": 29,
+  "question": "The Nigerian Independence Constitution was modified by the",
+  "options": {
+   "A": "1979 Constitution",
+   "B": "1963 Constitution",
+   "C": "1999 Constitution",
+   "D": "1989 Constitution"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-30",
+  "subject": "government",
+  "year": 2014,
+  "number": 30,
+  "question": "The President of Nigeria was indirectly elected through secret ballot for a period of five years by the senate in",
+  "options": {
+   "A": "A.1979",
+   "B": "1983",
+   "C": "1960",
+   "D": "1963"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-31",
+  "subject": "government",
+  "year": 2014,
+  "number": 31,
+  "question": "The main function of the Federal Character Commission in Nigeria is",
+  "options": {
+   "A": "providing free social services to the citizens",
+   "B": "ensuring fair representation of all states in the public service",
+   "C": "reviewing unfair administrative decisions",
+   "D": "settling disputes among societies"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-32",
+  "subject": "government",
+  "year": 2014,
+  "number": 32,
+  "question": "The power of appointing the chairman of the Independent National Electoral Commission is vested in the",
+  "options": {
+   "A": "Senate",
+   "B": "Judicial Council",
+   "C": "Council of State",
+   "D": "President"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-33",
+  "subject": "government",
+  "year": 2014,
+  "number": 33,
+  "question": "The NCNC and the NPC facilitated the creation of the",
+  "options": {
+   "A": "Eastern Region",
+   "B": "Mid-west Region",
+   "C": "Northern Region",
+   "D": "Western Region"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-34",
+  "subject": "government",
+  "year": 2014,
+  "number": 34,
+  "question": "One of the major problems of Nigerian federalism is",
+  "options": {
+   "A": "pre-colonial administrative structure among the units of federation",
+   "B": "lack of revenue to cater for the demands of the federation",
+   "C": "inadequate manpower to fill vacancies",
+   "D": "imbalance in the structure and sizes of units of federation"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-35",
+  "subject": "government",
+  "year": 2014,
+  "number": 35,
+  "question": "Which of the following was done during the Gowon administration to reduce regional structural imbalance in the federation?",
+  "options": {
+   "A": "Formation of political parties",
+   "B": "Appointment of ministers",
+   "C": "Creation of states",
+   "D": "Increase in revenue allocation"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-36",
+  "subject": "government",
+  "year": 2014,
+  "number": 36,
+  "question": "A problem of public corporations in Nigeria",
+  "options": {
+   "A": "wastage of resources",
+   "B": "choice of leadership",
+   "C": "public control",
+   "D": "emphasis on subsidies"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-37",
+  "subject": "government",
+  "year": 2014,
+  "number": 37,
+  "question": "One feature of public corporations that was weakened by privatization is",
+  "options": {
+   "A": "government control",
+   "B": "social control",
+   "C": "national integration",
+   "D": "social harmony"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-38",
+  "subject": "government",
+  "year": 2014,
+  "number": 38,
+  "question": "One of the main duties of the Local Government Service Commission is to",
+  "options": {
+   "A": "handle requests for the creation of more local governments",
+   "B": "supervise and manage the personnel a local government",
+   "C": "conduct election into Local Council",
+   "D": "create an enabling working environment for council workers"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-39",
+  "subject": "government",
+  "year": 2014,
+  "number": 39,
+  "question": "The option A4 model was used in the conduct of the",
+  "options": {
+   "A": "1999 elections",
+   "B": "2007 elections",
+   "C": "1983 elections",
+   "D": "1993 elections"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-40",
+  "subject": "government",
+  "year": 2014,
+  "number": 40,
+  "question": "The review of Nigerian foreign policy under the Murtala-Obasanjo regime was done by",
+  "options": {
+   "A": "Phillips Commission",
+   "B": "Udoji Committee",
+   "C": "Aboyade Committee",
+   "D": "Adedeji Committee"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-41",
+  "subject": "government",
+  "year": 2014,
+  "number": 41,
+  "question": "Which of the following is a guiding principle of Nigeria's foreign policy?",
+  "options": {
+   "A": "Decolonisation of all African states",
+   "B": "Total opposition to the Cold War",
+   "C": "Posting of only carrier diplomats as envoys",
+   "D": "interference in the affairs of African countries"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-42",
+  "subject": "government",
+  "year": 2014,
+  "number": 42,
+  "question": "The technical Aids Corps was established during the regime of",
+  "options": {
+   "A": "A Muhammadu Buhari",
+   "B": "Olusegun Obasanjo",
+   "C": "Sani Abacha",
+   "D": "Ibrahim Babangida"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-43",
+  "subject": "government",
+  "year": 2014,
+  "number": 43,
+  "question": "The granting of asylum to Charles Taylor by Nigeria was to",
+  "options": {
+   "A": "control Liberia",
+   "B": "protect Nigerians in Liberia",
+   "C": "promote peace in Liberia",
+   "D": "defy he western powers"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-44",
+  "subject": "government",
+  "year": 2014,
+  "number": 44,
+  "question": "Nigeria is regarded as a frontline state because she",
+  "options": {
+   "A": "sent troops for peacekeeping in Somalia",
+   "B": "sent policemen for peacekeeping in Namibia",
+   "C": "assisted the liberation struggle in Southern Africa",
+   "D": "assisted ECOMOG troops in Liberia."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-45",
+  "subject": "government",
+  "year": 2014,
+  "number": 45,
+  "question": "The reason behind Nigeria's suspension from the Commonwealth in 1995 was",
+  "options": {
+   "A": "socio-cultural",
+   "B": "legal",
+   "C": "political",
+   "D": "economic"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-46",
+  "subject": "government",
+  "year": 2014,
+  "number": 46,
+  "question": "Commonwealth nations are represented in other member nation by",
+  "options": {
+   "A": "attaches",
+   "B": "charged affaires",
+   "C": "ambassadors",
+   "D": "high commissioners"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-47",
+  "subject": "government",
+  "year": 2014,
+  "number": 47,
+  "question": "The UN succeeded the",
+  "options": {
+   "A": "League of Nations",
+   "B": "Warsaw Pact",
+   "C": "NATO",
+   "D": "SEATO"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-48",
+  "subject": "government",
+  "year": 2014,
+  "number": 48,
+  "question": "The number of permanent members of the UN Security Council is",
+  "options": {
+   "A": "seven",
+   "B": "eight",
+   "C": "five",
+   "D": "six"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-49",
+  "subject": "government",
+  "year": 2014,
+  "number": 49,
+  "question": "The Secretary General of the OAU holds office for a renewable period of",
+  "options": {
+   "A": "five years",
+   "B": "six years",
+   "C": "three years",
+   "D": "four years"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2014-50",
+  "subject": "government",
+  "year": 2014,
+  "number": 50,
+  "question": "Former colonies of Britain belong to the association known as",
+  "options": {
+   "A": "Commonwealth",
+   "B": "OECD",
+   "C": "NATO",
+   "D": "European Union."
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

@@ -1,0 +1,948 @@
+[
+ {
+  "id": "government-2015-1",
+  "subject": "government",
+  "year": 2015,
+  "number": 1,
+  "question": "The tenure of an elected chairman of local government is determined by the",
+  "options": {
+   "A": "Federal Executive Council",
+   "B": "National Union of Local Government Employees",
+   "C": "National Assembly",
+   "D": "State House of Assembly"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-2",
+  "subject": "government",
+  "year": 2015,
+  "number": 2,
+  "question": "The 1976 Reforms made the local government the",
+  "options": {
+   "A": "Second-tier of government",
+   "B": "first-tier of government",
+   "C": "fourth-tier of government",
+   "D": "Third-tier of government"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-3",
+  "subject": "government",
+  "year": 2015,
+  "number": 3,
+  "question": "Decision making in the traditional lgbo political system was conferred on the basis of",
+  "options": {
+   "A": "Privilege",
+   "B": "age",
+   "C": "gender",
+   "D": "Status"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-4",
+  "subject": "government",
+  "year": 2015,
+  "number": 4,
+  "question": "The political party that originated from Jamiyyar Mutanem Arewa was",
+  "options": {
+   "A": "UMBC",
+   "B": "BYM",
+   "C": "NEPU",
+   "D": "NPC"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-5",
+  "subject": "government",
+  "year": 2015,
+  "number": 5,
+  "question": "A major consequence of colonialism on Nigeria is",
+  "options": {
+   "A": "Economic dependence",
+   "B": "the attainment of equal status with Europe",
+   "C": "suppression of state structures",
+   "D": "The up-liftment of its image"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-6",
+  "subject": "government",
+  "year": 2015,
+  "number": 6,
+  "question": "The judiciary contributes to the development of constitutions through",
+  "options": {
+   "A": "Judicial review",
+   "B": "historical records",
+   "C": "bye-laws",
+   "D": "Acts of parliament"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-7",
+  "subject": "government",
+  "year": 2015,
+  "number": 7,
+  "question": "The upper house of the legislature is responsible for the",
+  "options": {
+   "A": "Assent to bill",
+   "B": "signing of treaties",
+   "C": "approval declaration"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-8",
+  "subject": "government",
+  "year": 2015,
+  "number": 8,
+  "question": "Which of the following political parties contested the 1993 Presidential Election?",
+  "options": {
+   "A": "NRC and SDP",
+   "B": "AD and APP",
+   "C": "UNCP and NDP",
+   "D": "PRP and DPP"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-9",
+  "subject": "government",
+  "year": 2015,
+  "number": 9,
+  "question": "A mode of production in which the resources of a community are pooled together for the general well-being of the people is called",
+  "options": {
+   "A": "Communism",
+   "B": "communalism",
+   "C": "socialism",
+   "D": "Capitalism"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-10",
+  "subject": "government",
+  "year": 2015,
+  "number": 10,
+  "question": "Which of these international organizations was Nigeria a founding member?",
+  "options": {
+   "A": "UNO",
+   "B": "The Commonwealth",
+   "C": "NATO",
+   "D": "ECOWAS"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-11",
+  "subject": "government",
+  "year": 2015,
+  "number": 11,
+  "question": "Nigeria's role in ECOWAS was significant in dispute resolution in",
+  "options": {
+   "A": "Liberia",
+   "B": "Nigeria",
+   "C": "the Gambia",
+   "D": "Senegal"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-12",
+  "subject": "government",
+  "year": 2015,
+  "number": 12,
+  "question": "An example of civil right of a citizen is the right to",
+  "options": {
+   "A": "be voted for",
+   "B": "property and justice",
+   "C": "peaceful assembly",
+   "D": "Vote"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-13",
+  "subject": "government",
+  "year": 2015,
+  "number": 13,
+  "question": "In the judicial parlance, writ means",
+  "options": {
+   "A": "Restraining order",
+   "B": "prohibitive order",
+   "C": "acquitting order",
+   "D": "Sentencing order"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-14",
+  "subject": "government",
+  "year": 2015,
+  "number": 14,
+  "question": "Public corporations are controlled by the legislature through",
+  "options": {
+   "A": "Daily monitoring of their activities",
+   "B": "discipline of staff",
+   "C": "approval of their annual budgets",
+   "D": "Recruitment of staff"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-15",
+  "subject": "government",
+  "year": 2015,
+  "number": 15,
+  "question": "One of the reasons for the adoption of Africa as the centre piece of Nigeria's foreign policy is to",
+  "options": {
+   "A": "Encourage rivalry in Africa",
+   "B": "monopolize African economies",
+   "C": "protect her domestic environment",
+   "D": "Challenge the major powers"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-16",
+  "subject": "government",
+  "year": 2015,
+  "number": 16,
+  "question": "Elective principle was first introduced in Nigeria by the",
+  "options": {
+   "A": "Lyttleton Constitution",
+   "B": "Richards Constitution",
+   "C": "Clifford Constitution"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-17",
+  "subject": "government",
+  "year": 2015,
+  "number": 17,
+  "question": "The type of pressure group that champions the interest and the right of the under privileged is known as the",
+  "options": {
+   "A": "Professional pressure groups",
+   "B": "promotional interest groups",
+   "C": "economic interest groups",
+   "D": "Educational pressure groups"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-18",
+  "subject": "government",
+  "year": 2015,
+  "number": 18,
+  "question": "A major innovation of the 1979 Constitution was the",
+  "options": {
+   "A": "Increase in constitutional power of elected officials",
+   "B": "creation of more state",
+   "C": "prohibition of cross-carpeting",
+   "D": "Introduction of presidential system"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-19",
+  "subject": "government",
+  "year": 2015,
+  "number": 19,
+  "question": "The organ of the AU that prepares for the meeting of the Assembly of Heads of State and Government is the",
+  "options": {
+   "A": "Commission of Mediation, Conciliation and Arbitration",
+   "B": "African Parliament",
+   "C": "Council of Ministers",
+   "D": "General Secretariat"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-20",
+  "subject": "government",
+  "year": 2015,
+  "number": 20,
+  "question": "One of the features of a fascist government is that",
+  "options": {
+   "A": "Political power is decentralized",
+   "B": "it gives room for opposition",
+   "C": "the state defines the rights of individuals",
+   "D": "Sovereignty is identified with landed property"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-21",
+  "subject": "government",
+  "year": 2015,
+  "number": 21,
+  "question": "Promotion and discipline of civil servants is the responsibility of the",
+  "options": {
+   "A": "Federal Character Commission",
+   "C": "Civil Service Commission",
+   "D": "Public Complaints Commission"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-22",
+  "subject": "government",
+  "year": 2015,
+  "number": 22,
+  "question": "Under the unitary arrangement, the centre is vested with",
+  "options": {
+   "A": "Limited power over the constituent units",
+   "B": "equal power with the constituent units",
+   "C": "insignificant power",
+   "D": "Absolute power"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-23",
+  "subject": "government",
+  "year": 2015,
+  "number": 23,
+  "question": "Which of these international organizations is Nigeria a member majorly because of her economic interest?",
+  "options": {
+   "A": "UN",
+   "B": "Commonwealth",
+   "C": "AU",
+   "D": "OEC"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-24",
+  "subject": "government",
+  "year": 2015,
+  "number": 24,
+  "question": "Abolition of civil liberty is an attribute of",
+  "options": {
+   "A": "Presidential government",
+   "B": "parliamentary government",
+   "C": "military government",
+   "D": "Republic government"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-25",
+  "subject": "government",
+  "year": 2015,
+  "number": 25,
+  "question": "One of the agencies introduced by the military to promote national interest was the",
+  "options": {
+   "A": "National Youth Service Corps",
+   "B": "Directorate of Mass Mobilization for Social and Economic Reconstruction",
+   "C": "Directorate of Food, Roads and Rural Infrastructure",
+   "D": "National Directorate for Employment"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-26",
+  "subject": "government",
+  "year": 2015,
+  "number": 26,
+  "question": "One of the main objectives of OPEC is to",
+  "options": {
+   "A": "Assist multinational companies to monopolize market",
+   "B": "protect the interest of multinational companies",
+   "C": "stabilize the income of developing nations",
+   "D": "Fix and allocate production to member nations"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-27",
+  "subject": "government",
+  "year": 2015,
+  "number": 27,
+  "question": "Nigeria's foreign relation with Britain was strained during the Buhari Regime because",
+  "options": {
+   "A": "Britain tested atomic bomb in the Sahara-desert",
+   "B": "Britain refused to recognize the regime",
+   "C": "Nigeria refused to export crude oil to Britain",
+   "D": "Nigeria wanted to forcefully extradite Alhaji Umar Dikko from Britain"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-28",
+  "subject": "government",
+  "year": 2015,
+  "number": 28,
+  "question": "The Babangida Regime differed from Buhari Regime because in the former",
+  "options": {
+   "A": "Governors were assisted by commissioners",
+   "B": "ministers executed government policies",
+   "C": "governors were members of the National Council of State",
+   "D": "The post of Chairman, Joint Chiefs of Staff was created"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-29",
+  "subject": "government",
+  "year": 2015,
+  "number": 29,
+  "question": "A feature of the presidential system is that",
+  "options": {
+   "A": "The president has an indefinite term of office",
+   "B": "there is a separate election for the executive and the legislature",
+   "C": "the president is a member of the legislature",
+   "D": "The cabinet is collectively accountable to the legislature"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-30",
+  "subject": "government",
+  "year": 2015,
+  "number": 30,
+  "question": "The Chairman of the Federal Character Commission is appointed by the",
+  "options": {
+   "A": "Secretary to the Government of the Federation",
+   "B": "National Assembly",
+   "C": "Minister of Labour and Productivity",
+   "D": "President"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-31",
+  "subject": "government",
+  "year": 2015,
+  "number": 31,
+  "question": "A form of government in which the sovereign power to rule is vested in a small number of people considered as the best qualified to rule is",
+  "options": {
+   "A": "Autocracy",
+   "B": "theocracy",
+   "C": "gerontocracy",
+   "D": "Aristocracy"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-32",
+  "subject": "government",
+  "year": 2015,
+  "number": 32,
+  "question": "One of the major shortcomings of ECOWAS",
+  "options": {
+   "A": "Expansion of market",
+   "B": "Trade liberalization",
+   "C": "curbing smuggling",
+   "D": "Fostering of unity"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-33",
+  "subject": "government",
+  "year": 2015,
+  "number": 33,
+  "question": "The party that formed a coalition with the NPC in the First Republic was",
+  "options": {
+   "A": "AG",
+   "C": "NEPU",
+   "D": "NCNC"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-34",
+  "subject": "government",
+  "year": 2015,
+  "number": 34,
+  "question": "Personal authority is synonymous with",
+  "options": {
+   "A": "Charismatic authority",
+   "B": "instruments; authority",
+   "C": "sacred authority",
+   "D": "Legal authority"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-35",
+  "subject": "government",
+  "year": 2015,
+  "number": 35,
+  "question": "The administrative system used by the British in her colonies was",
+  "options": {
+   "A": "Indignant system",
+   "B": "direct rule",
+   "C": "indirect rule",
+   "D": "Policy of assimilation"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-36",
+  "subject": "government",
+  "year": 2015,
+  "number": 36,
+  "question": "An electoral system in which a candidate with the highest number of votes in a constituency is declared winner is",
+  "options": {
+   "A": "Alternative vote system",
+   "B": "second ballot system",
+   "C": "absolute majority system",
+   "D": "Simple majority system"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-37",
+  "subject": "government",
+  "year": 2015,
+  "number": 37,
+  "question": "Which of the following belongs to the administrative cadre in the civil service?",
+  "options": {
+   "A": "Executive Officers",
+   "B": "Surveyors",
+   "C": "Medical Director",
+   "D": "Deputy Director"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-38",
+  "subject": "government",
+  "year": 2015,
+  "number": 38,
+  "question": "Aristocracy is described as a form of government in which",
+  "options": {
+   "A": "Popular citizens rule",
+   "B": "the clergy rules",
+   "C": "few citizens rule",
+   "D": "Best citizens rule"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-39",
+  "subject": "government",
+  "year": 2015,
+  "number": 39,
+  "question": "The head of the Old Oyo Empire was the",
+  "options": {
+   "A": "Alaafin",
+   "B": "Bashorun",
+   "C": "Ooni",
+   "D": "Are-Ona-kakanfo"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-40",
+  "subject": "government",
+  "year": 2015,
+  "number": 40,
+  "question": "The Babangida Regime re-established diplomatic ties with",
+  "options": {
+   "A": "France",
+   "B": "Germany",
+   "C": "Israel",
+   "D": "Britain"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-41",
+  "subject": "government",
+  "year": 2015,
+  "number": 41,
+  "question": "The remote cause of the Action Group Crisis of 1962 was the",
+  "options": {
+   "A": "Fear of domination",
+   "B": "abolition of federalism",
+   "C": "personality clash among its leaders",
+   "D": "Issue of self-government"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-42",
+  "subject": "government",
+  "year": 2015,
+  "number": 42,
+  "question": "Fixed tenure of office is associated with the",
+  "options": {
+   "A": "Parliamentary system",
+   "B": "monarchical system",
+   "C": "republican system",
+   "D": "Presidential"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-43",
+  "subject": "government",
+  "year": 2015,
+  "number": 43,
+  "question": "Which of the following was a Revenue Allocation Commission?",
+  "options": {
+   "A": "Udoji Commission",
+   "B": "Raisman Commission",
+   "C": "Aboyade Commission",
+   "D": "Williams Commission"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-44",
+  "subject": "government",
+  "year": 2015,
+  "number": 44,
+  "question": "Election can be used to measure the effectiveness of",
+  "options": {
+   "A": "Pressure groups",
+   "B": "political propaganda",
+   "C": "political opinion",
+   "D": "Public opinion"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-45",
+  "subject": "government",
+  "year": 2015,
+  "number": 45,
+  "question": "A feature of communalism is that",
+  "options": {
+   "A": "Ownership of land is vested in the community",
+   "B": "a landowner can employ landless men",
+   "C": "landless men have no privileges as citizens",
+   "D": "Sovereignty is identified with landed property"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-46",
+  "subject": "government",
+  "year": 2015,
+  "number": 46,
+  "question": "In the Hausa pre-colonial system, the officer in charge of fishing activities was the",
+  "options": {
+   "A": "Sarkin Noma",
+   "B": "Sarkin Dogarai",
+   "C": "Sarkin Ruwa",
+   "D": "Sarkin Pawa"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-47",
+  "subject": "government",
+  "year": 2015,
+  "number": 47,
+  "question": "The social and Cultural Affairs Commission is a specializes agency of the",
+  "options": {
+   "A": "OPEC",
+   "B": "Commonwealth",
+   "C": "UN",
+   "D": "ECOWAS"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-48",
+  "subject": "government",
+  "year": 2015,
+  "number": 48,
+  "question": "Which of the following assists the president in the formulation of foreign policies)?",
+  "options": {
+   "A": "Ministry of Foreign Affair",
+   "B": "Ministry of Interior",
+   "C": "Ministry of Defence",
+   "D": "Ministry of justice"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-49",
+  "subject": "government",
+  "year": 2015,
+  "number": 49,
+  "question": "Rule by divine right is a basis of",
+  "options": {
+   "A": "Absolute monarchy",
+   "B": "representative democracy",
+   "C": "the republican system",
+   "D": "the feudal system"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2015-50",
+  "subject": "government",
+  "year": 2015,
+  "number": 50,
+  "question": "An important ingredient of the civil service",
+  "options": {
+   "A": "Hierarchy",
+   "B": "imbalance",
+   "C": "nepotism",
+   "D": "Partisanship"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
