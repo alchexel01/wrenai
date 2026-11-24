@@ -1,0 +1,255 @@
+{
+  "year": 1997,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "B",
+      "explanation": "Force = mass × acceleration, so its dimensions are M L T^-2; hence X = 1, Y = 1 and Z = -2."
+    },
+    {
+      "number": 2,
+      "answer": "C",
+      "explanation": "The displacement is x(5) − x(2) = 310 − 58 = 252 m. Average speed = 252/3 = 84 m/s."
+    },
+    {
+      "number": 3,
+      "answer": "A",
+      "explanation": "On a smooth plane, acceleration down the slope is g sin 30° = 10 × 0.5 = 5.0 m/s^2."
+    },
+    {
+      "number": 4,
+      "answer": "D",
+      "explanation": "By conservation of momentum, the common velocity is (0.1 × 15)/(0.1 + 0.4) = 3.0 m/s."
+    },
+    {
+      "number": 5,
+      "answer": "A",
+      "explanation": "Projectile range is proportional to sin 2θ. Since sin 60° = sin 120°, both ranges are equal."
+    },
+    {
+      "number": 6,
+      "answer": "D",
+      "explanation": "In simple harmonic motion, force and acceleration are both proportional to displacement and point in the same direction relative to the restoring displacement."
+    },
+    {
+      "number": 7,
+      "answer": "C",
+      "explanation": "The upward acceleration is (40 − 10)/4 = 7.5 m/s^2. The applied force is m(a + g) = 2(7.5 + 10) = 35 N."
+    },
+    {
+      "number": 8,
+      "answer": "B",
+      "explanation": "Gravitational force is proportional to m/r^2. The ratio is 1 : (10/4) = 2 : 5."
+    },
+    {
+      "number": 9,
+      "answer": "D",
+      "explanation": "For equilibrium, the 12 N force has a vertical component of 6 N and a horizontal component of 6√3 N. Thus cos Q = 6/12 = 1/2, giving Q = 60°."
+    },
+    {
+      "number": 10,
+      "answer": "B",
+      "explanation": "Along the inclined plane, the component of weight is mg sin Q and friction acts opposite the sliding motion."
+    },
+    {
+      "number": 11,
+      "answer": "D",
+      "explanation": "Taking moments about the hinge X: T sin 30° × 20 = F × 50. Therefore T = 5F."
+    },
+    {
+      "number": 12,
+      "answer": "C",
+      "explanation": "Using energy conservation, initial kinetic energy is ½mv^2 + mgh = ½(0.1)(20^2) + (0.1)(10)(10) = 30 J."
+    },
+    {
+      "number": 13,
+      "answer": "C",
+      "explanation": "Useful output power = mgh/t = (200 × 10 × 6)/10 = 1200 W. Efficiency = 1200/1500 × 100% = 80%."
+    },
+    {
+      "number": 14,
+      "answer": "A",
+      "explanation": "At the limiting condition, the tangent of the angle of friction equals the coefficient of static friction."
+    },
+    {
+      "number": 15,
+      "answer": "B",
+      "explanation": "Young's modulus = FL/(AΔL) = (20 × 3)/(8 × 10^-7 × 10^-4) = 7.5 × 10^11 N/m^2."
+    },
+    {
+      "number": 16,
+      "answer": "D",
+      "explanation": "Upthrust = ρgV = 1000 × 10 × (0.1)^3 = 10 N."
+    },
+    {
+      "number": 17,
+      "answer": "C",
+      "explanation": "Surface tension makes the water surface behave like an elastic thin skin that can support the wire gauze."
+    },
+    {
+      "number": 18,
+      "answer": "D",
+      "explanation": "The liquid density is 1000/(2.5 × 2 × 4) = 50 kg/m^3. At 2 m depth, pressure = ρgh = 1000 N/m^2."
+    },
+    {
+      "number": 19,
+      "answer": "D",
+      "explanation": "A 60-litre tank holds 0.06 m^3. Fuel mass = 0.72 × 1000 × 0.06 = 43.2 kg; adding the 10 kg tank gives 53.2 kg."
+    },
+    {
+      "number": 20,
+      "answer": "C",
+      "explanation": "The temperature is (174 − 25)/(225 − 25) × 100 = 74.5°C, approximately 75.0°C."
+    },
+    {
+      "number": 21,
+      "answer": "A",
+      "explanation": "For equal masses losing heat under comparable conditions, copper cools faster because its specific heat capacity is lower than rubber's."
+    },
+    {
+      "number": 22,
+      "answer": "D",
+      "explanation": "At constant volume, P/T is constant. T2 = 300 × (4/3) = 400 K = 127°C."
+    },
+    {
+      "number": 23,
+      "answer": "B",
+      "explanation": "For the 30°C and 70°C liquids mixed to 45°C, heat balance gives cold-to-hot mass ratio = (70 − 45):(45 − 30) = 5:3."
+    },
+    {
+      "number": 24,
+      "answer": "D",
+      "explanation": "Time = mL/P = (0.5 × 2.3 × 10^6)/1000 = 1.15 × 10^3 s."
+    },
+    {
+      "number": 25,
+      "answer": "A",
+      "explanation": "Melting absorbs latent heat while mass remains constant; water occupies less volume than the same mass of ice."
+    },
+    {
+      "number": 26,
+      "answer": "D",
+      "explanation": "A molten substance cools, remains at constant temperature during solidification, and then cools further as a solid."
+    },
+    {
+      "number": 27,
+      "answer": "C",
+      "explanation": "During isothermal expansion, pressure decreases while temperature and hence the total kinetic energy of the molecules remain constant; the gas's total momentum remains unchanged."
+    },
+    {
+      "number": 28,
+      "answer": "B",
+      "explanation": "Both water ripples and light waves exhibit refraction and diffraction."
+    },
+    {
+      "number": 29,
+      "answer": "A",
+      "explanation": "For a stretched string at fixed tension and linear density, frequency is inversely proportional to length. L2 = 0.90 × 500/150 = 3 m."
+    },
+    {
+      "number": 30,
+      "answer": "B",
+      "explanation": "The colours in thin oil films and soap bubbles arise from interference between light waves reflected from different surfaces."
+    },
+    {
+      "number": 31,
+      "answer": "C",
+      "explanation": "The two waveforms are in phase, so they interfere constructively and produce a resultant wave with larger amplitude."
+    },
+    {
+      "number": 32,
+      "answer": "A",
+      "explanation": "Immersing the load reduces its apparent weight and the wire tension. Since frequency is proportional to 1/length, shortening the wire restores the original frequency."
+    },
+    {
+      "number": 33,
+      "answer": "A",
+      "explanation": "The indicated point lies in the penumbra of the Moon's shadow, where only part of the Sun is obscured."
+    },
+    {
+      "number": 34,
+      "answer": "B",
+      "explanation": "A concave mirror forms an erect, magnified virtual image when the object is between the pole and the principal focus."
+    },
+    {
+      "number": 35,
+      "answer": "D",
+      "explanation": "Refractive index n = speed in vacuum/speed in material = (3.0 × 10^8)/(2.4 × 10^8) = 1.25."
+    },
+    {
+      "number": 36,
+      "answer": "D",
+      "explanation": "For an object at 25 cm to form a virtual image at the 150 cm distinct-vision distance, 1/f = 1/25 − 1/150, giving f = 30 cm."
+    },
+    {
+      "number": 37,
+      "answer": "D",
+      "explanation": "Infrared radiation is readily emitted and absorbed in association with temperature changes."
+    },
+    {
+      "number": 38,
+      "answer": "B",
+      "explanation": "The angle of deviation is the angle between the incident ray produced and the emergent ray; this is labelled Q2 in the diagram."
+    },
+    {
+      "number": 39,
+      "answer": "C",
+      "explanation": "For an isolated charged hollow conductor, excess charge resides on its external surface; the spherical surface carries the charge uniformly."
+    },
+    {
+      "number": 40,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 41,
+      "answer": "B",
+      "explanation": "The total voltmeter resistance is V/I = 10/0.005 = 2000 Ω. The required series resistance is 2000 − 50 = 1950 Ω."
+    },
+    {
+      "number": 42,
+      "answer": "C",
+      "explanation": "Potential difference V = W/Q = (8 × 10^-2)/(100 × 10^-6) = 8.0 × 10^2 V."
+    },
+    {
+      "number": 43,
+      "answer": "B",
+      "explanation": "For a metre bridge, 2/3 = l/(100 − l). Solving gives l = 40 cm from the left end."
+    },
+    {
+      "number": 44,
+      "answer": "B",
+      "explanation": "Two 50 μF capacitors in series give 25 μF. Charge Q = CV = 25 × 10^-6 × 100 = 2.50 × 10^-3 C."
+    },
+    {
+      "number": 45,
+      "answer": "C",
+      "explanation": "Electrical energy = Pt = 1000 × 5 × 3600 = 1.8 × 10^7 J."
+    },
+    {
+      "number": 46,
+      "answer": "A",
+      "explanation": "Real power in an AC circuit is VI cos φ = 5 × 10 × cos 60° = 25 W."
+    },
+    {
+      "number": 47,
+      "answer": "A",
+      "explanation": "The angular frequency is 314.2 rad/s, so f = ω/(2π) = 314.2/(2 × 3.142) = 50 Hz."
+    },
+    {
+      "number": 48,
+      "answer": "A",
+      "explanation": "In a purely inductive circuit, current lags the voltage by 90°."
+    },
+    {
+      "number": 49,
+      "answer": "B",
+      "explanation": "Neutrons released during fission can trigger further fission events, producing a chain reaction."
+    },
+    {
+      "number": 50,
+      "answer": "C",
+      "explanation": "Graphite acts as a moderator, slowing down fast neutrons to increase the likelihood of further fission."
+    }
+  ]
+}
