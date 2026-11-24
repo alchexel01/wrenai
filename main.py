@@ -1254,7 +1254,13 @@ async def download_model(key: str, req: Request, x_app_secret: str = Header(defa
         raise HTTPException(status_code=500,
                              detail={"error": "server missing HF_ACCESS_TOKEN", "request_id": rid})
 
-    client = httpx.AsyncClient(timeout=httpx.Timeout(30, read=120))
+    # follow_redirects is essential: huggingface.co/.../resolve/main/<file> answers
+    # with a 302 to a CDN host. httpx does NOT follow redirects by default, so
+    # without this the 302 was treated as an error and passed to the app as
+    # "Server returned status 302". httpx drops the Authorization header on
+    # the cross-host hop, so the HF token is never sent to the CDN.
+    client = httpx.AsyncClient(timeout=httpx.Timeout(30, read=120),
+                               follow_redirects=True)
     try:
         upstream_req = client.build_request(
             "GET", meta["url"],
