@@ -1,0 +1,255 @@
+{
+ "year": 2003,
+ "answers": [
+  {
+   "number": 1,
+   "answer": "D",
+   "explanation": "2KClO3 gives 3O2, so 2 mol of KClO3 gives 3 mol of O2, which is 3 x 22.4 = 67.2 dm3 at s.t.p."
+  },
+  {
+   "number": 2,
+   "answer": "B",
+   "explanation": "Freezing ice-cream changes the state of water without forming any new substance, so it is a physical change."
+  },
+  {
+   "number": 3,
+   "answer": "D",
+   "explanation": "Al2(SO4)3.2H2O has molar mass 378, of which oxygen is 224, giving 224/378 = 59.25%."
+  },
+  {
+   "number": 4,
+   "answer": "B",
+   "explanation": "The filter in a cigarette removes nicotine by adsorption onto its porous surface."
+  },
+  {
+   "number": 5,
+   "answer": "D",
+   "explanation": "Balancing hydrogen gives p = 8, and balancing nitrogen then gives x = 8 - 6 = 2."
+  },
+  {
+   "number": 6,
+   "answer": "A",
+   "explanation": "An oxide ion O2- has 8 + 2 = 10 electrons, the same as neon, so it matches the neon atom."
+  },
+  {
+   "number": 7,
+   "answer": "A",
+   "explanation": "Noble gases are inactive because they already have a stable octet of electrons in their outer shell."
+  },
+  {
+   "number": 8,
+   "answer": "B",
+   "explanation": "Raising the temperature increases the average kinetic energy of the particles."
+  },
+  {
+   "number": 9,
+   "answer": "A",
+   "explanation": "Hydrogen (one unpaired electron) and nitrogen (three unpaired electrons) are both paramagnetic, so pair I and II is correct."
+  },
+  {
+   "number": 10,
+   "answer": "D",
+   "explanation": "Gas pressure arises from molecules colliding with the walls of their container."
+  },
+  {
+   "number": 11,
+   "answer": "A",
+   "explanation": "Cathode rays are streams of electrons, which are negatively charged, so they are deflected toward the positive plate."
+  },
+  {
+   "number": 12,
+   "answer": "D",
+   "explanation": "Van der Waals forces are the weakest intermolecular attractions."
+  },
+  {
+   "number": 13,
+   "answer": "D",
+   "explanation": "Global warming raises sea levels by melting ice, which leads to flooding."
+  },
+  {
+   "number": 14,
+   "answer": "D",
+   "explanation": "The hydronium ion H3O+ releases protons in water, so it is acidic."
+  },
+  {
+   "number": 15,
+   "answer": "A",
+   "explanation": "The sulphonate group -SO3- Na+ makes detergents more soluble in water than soap, which has a carboxylate group."
+  },
+  {
+   "number": 16,
+   "answer": "C",
+   "explanation": "Kerosene is a non-polar hydrocarbon solvent, so it dissolves fats."
+  },
+  {
+   "number": 17,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 18,
+   "answer": "B",
+   "explanation": "Aerobic bacteria break down crude oil into harmless products, so they decontaminate farmland."
+  },
+  {
+   "number": 19,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 20,
+   "answer": "C",
+   "explanation": "A temperature change alters the solubility, which disturbs the equilibrium between dissolved and undissolved solute."
+  },
+  {
+   "number": 21,
+   "answer": "A",
+   "explanation": "For an endothermic reaction with positive delta H, raising the temperature favours the forward reaction."
+  },
+  {
+   "number": 22,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 23,
+   "answer": "B",
+   "explanation": "Oxidation always occurs at the anode in electrolysis."
+  },
+  {
+   "number": 24,
+   "answer": "A",
+   "explanation": "A catalyst lowers the activation energy of the reaction."
+  },
+  {
+   "number": 25,
+   "answer": "B",
+   "explanation": "If Y is an oxidising agent it gains electrons and is reduced."
+  },
+  {
+   "number": 26,
+   "answer": "A",
+   "explanation": "2SO2 + O2 gives 2SO3, so the side with fewer gas molecules is on the right, and higher pressure shifts the equilibrium right."
+  },
+  {
+   "number": 27,
+   "answer": "D",
+   "explanation": "At the cathode H+ is reduced to hydrogen, and at the anode chloride ions are oxidised to chlorine in concentrated brine."
+  },
+  {
+   "number": 28,
+   "answer": "B",
+   "explanation": "Delta H = (-394 + 0) - (-110 + -242) = -42 kJ/mol."
+  },
+  {
+   "number": 29,
+   "answer": "A",
+   "explanation": "Dissolving sugar disperses it randomly through the water, which increases entropy."
+  },
+  {
+   "number": 30,
+   "answer": "B",
+   "explanation": "Sodium acetate dissolves in water to give ions, so its solution conducts electricity."
+  },
+  {
+   "number": 31,
+   "answer": "A",
+   "explanation": "Concentrated hydrochloric acid reacts with solid manganese(IV) oxide on heating to produce chlorine."
+  },
+  {
+   "number": 32,
+   "answer": "C",
+   "explanation": "Transition metals have partially filled d orbitals, which gives them their special properties."
+  },
+  {
+   "number": 33,
+   "answer": "D",
+   "explanation": "Tin reacts with hot alkaline solution to release hydrogen, unlike the other metals listed."
+  },
+  {
+   "number": 34,
+   "answer": "C",
+   "explanation": "Sulphur(IV) oxide is an acidic oxide that dissolves in water and is classed as an acid anhydride."
+  },
+  {
+   "number": 35,
+   "answer": "B",
+   "explanation": "Copper(II) hydroxide precipitates and then dissolves in excess ammonia to form a soluble complex."
+  },
+  {
+   "number": 36,
+   "answer": "C",
+   "explanation": "Calcium reacts with cold water to produce hydrogen bubbles, while the other metals react more vigorously or not at all."
+  },
+  {
+   "number": 37,
+   "answer": "D",
+   "explanation": "Chlorine oxidises iodide ions to iodine, which turns starch-iodide paper dark blue."
+  },
+  {
+   "number": 38,
+   "answer": "B",
+   "explanation": "Modern steel is made by oxidising impurities such as carbon from molten iron in a basic oxygen furnace."
+  },
+  {
+   "number": 39,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 40,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 41,
+   "answer": "C",
+   "explanation": "Carbohydrates have the general formula Cn(H2O)n, giving a C : H : O ratio of 1 : 2 : 1."
+  },
+  {
+   "number": 42,
+   "answer": "D",
+   "explanation": "Pentane has three structural isomers: pentane, 2-methylbutane and 2,2-dimethylpropane."
+  },
+  {
+   "number": 43,
+   "answer": null,
+   "explanation": null
+  },
+  {
+   "number": 44,
+   "answer": "A",
+   "explanation": "Ethyl butanoate is formed from butanoic acid (C3H7COOH) and ethanol, giving C3H7COOC2H5."
+  },
+  {
+   "number": 45,
+   "answer": "D",
+   "explanation": "Benzene characteristically undergoes substitution reactions rather than addition, because the ring stays intact."
+  },
+  {
+   "number": 46,
+   "answer": "D",
+   "explanation": "Excess acidified dichromate oxidises ethanol fully to ethanoic acid."
+  },
+  {
+   "number": 47,
+   "answer": "C",
+   "explanation": "Empirical formula CH2O has mass 30, and 180/30 = 6, giving C6H12O6."
+  },
+  {
+   "number": 48,
+   "answer": "D",
+   "explanation": "Reforming rearranges the atoms of hydrocarbons into branched and cyclic structures to improve petrol quality."
+  },
+  {
+   "number": 49,
+   "answer": "B",
+   "explanation": "Cotton is a natural polymer made of cellulose."
+  },
+  {
+   "number": 50,
+   "answer": "A",
+   "explanation": "Methane is the principal constituent of natural gas."
+  }
+ ]
+}
