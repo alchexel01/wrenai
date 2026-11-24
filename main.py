@@ -1011,9 +1011,10 @@ async def transcribe(
 #                          "nsfw". Pollinations documents `safe` as a
 #                          comma-separated list of: privacy, secrets, sexual,
 #                          violence, shield, true, nsfw.
-#   POLLINATIONS_IMAGE_MODEL (optional) default "black-forest-labs/flux.1-schnell"
-#                          (FLUX Schnell: cheap and fast). Needs to be a model
-#                          your key is allowed to use.
+#   POLLINATIONS_IMAGE_MODEL (optional) default "zimage". Needs to be a model
+#                          your key is allowed to use. (To pin the exact model
+#                          instead of the alias, Pollinations' docs list it as
+#                          "tongyi-mai/z-image-turbo".)
 #   IMAGE_GUARD_ENABLED    (optional)  "0" turns the Llama Guard check off
 #   IMAGE_GUARD_MODEL      (optional)  default "meta-llama/llama-guard-4-12b"
 #   IMAGE_RATE_MAX / IMAGE_RATE_WINDOW_SECS (optional) default 12 per 600s
@@ -1021,9 +1022,8 @@ async def transcribe(
 POLLINATIONS_IMAGE_URL = "https://gen.pollinations.ai/image/"
 POLLINATIONS_API_KEY = os.environ.get("POLLINATIONS_API_KEY", "").strip()
 POLLINATIONS_SAFE = os.environ.get("POLLINATIONS_SAFE", "nsfw").strip() or "nsfw"
-POLLINATIONS_IMAGE_MODEL = (os.environ.get("POLLINATIONS_IMAGE_MODEL",
-                                           "black-forest-labs/flux.1-schnell").strip()
-                            or "black-forest-labs/flux.1-schnell")
+POLLINATIONS_IMAGE_MODEL = (os.environ.get("POLLINATIONS_IMAGE_MODEL", "zimage").strip()
+                            or "zimage")
 IMAGE_GUARD_ENABLED = os.environ.get("IMAGE_GUARD_ENABLED", "1").strip() != "0"
 IMAGE_GUARD_MODEL = (os.environ.get("IMAGE_GUARD_MODEL", "meta-llama/llama-guard-4-12b").strip()
                      or "meta-llama/llama-guard-4-12b")
