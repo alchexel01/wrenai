@@ -1,0 +1,255 @@
+{
+  "year": 1987,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "D",
+      "explanation": "Chromatography separates the different dissolved components of an ink mixture."
+    },
+    {
+      "number": 2,
+      "answer": "B",
+      "explanation": "Sea-water contains water and dissolved salts, so it is a mixture."
+    },
+    {
+      "number": 3,
+      "answer": "C",
+      "explanation": "0.2 dm3 of 1 M HCl is 0.2 mol, which reacts with 0.1 mol CaCO3 to form 0.1 mol CO2, or 6.02 x 10^22 molecules."
+    },
+    {
+      "number": 4,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 5,
+      "answer": "C",
+      "explanation": "At constant volume and temperature, pressure is proportional to the amount of gas; halving the oxygen halves 0.825 atm to about 0.413 atm."
+    },
+    {
+      "number": 6,
+      "answer": "D",
+      "explanation": "Ethanal has the lowest relative molecular mass (44), so it has the lowest vapour density."
+    },
+    {
+      "number": 7,
+      "answer": "A",
+      "explanation": "Graham's law gives the rate of diffusion as inversely proportional to the square root of gas density: r = k/sqrt(d)."
+    },
+    {
+      "number": 8,
+      "answer": "C",
+      "explanation": "Neutrons equal mass number minus atomic number: 36 - 17 = 19; the atom has 17 protons."
+    },
+    {
+      "number": 9,
+      "answer": "A",
+      "explanation": "Magnesium (atomic number 12) transfers electrons to fluorine (atomic number 9), forming an ionic compound."
+    },
+    {
+      "number": 10,
+      "answer": "B",
+      "explanation": "The weighted mean is (0.90 x 16) + (0.10 x 18) = 16.2."
+    },
+    {
+      "number": 11,
+      "answer": "B",
+      "explanation": "A larger electronegativity difference produces a greater separation of charge and hence greater bond polarity."
+    },
+    {
+      "number": 12,
+      "answer": "C",
+      "explanation": "KOH removes carbon dioxide, hot copper removes oxygen, and fused calcium chloride removes water vapour, leaving nitrogen and inert gases."
+    },
+    {
+      "number": 13,
+      "answer": "D",
+      "explanation": "Alum acts as a coagulant, causing fine suspended mud particles to clump together for removal."
+    },
+    {
+      "number": 14,
+      "answer": "A",
+      "explanation": "Boiling does not remove permanent hardness, so this sample retains the greatest concentration of calcium ions among the listed treated samples."
+    },
+    {
+      "number": 15,
+      "answer": "B",
+      "explanation": "Detergent disperses an oil slick into smaller droplets, helping its removal from the water surface."
+    },
+    {
+      "number": 16,
+      "answer": "D",
+      "explanation": "The hydrate contains 208 g of Na3AsO4 per 424 g; 38.9 g hydrate therefore supplies about 19.1 g salt in 138.9 g solution, or 13.7%."
+    },
+    {
+      "number": 17,
+      "answer": "A",
+      "explanation": "The acid in lime juice reacts with NaHCO3 to release carbon dioxide; ethanol does not produce gas in this test."
+    },
+    {
+      "number": 18,
+      "answer": "C",
+      "explanation": "The decreasing acidity order is hydrochloric acid, ethanoic acid, sodium chloride, milk of magnesia, then sodium hydroxide."
+    },
+    {
+      "number": 19,
+      "answer": "D",
+      "explanation": "H3PO4 has three replaceable hydrogen ions, so its basicity is 3."
+    },
+    {
+      "number": 20,
+      "answer": "A",
+      "explanation": "For the 1:1 neutralization, M(HCl) = (0.15 x 24.83)/39.45 = 0.0944 M."
+    },
+    {
+      "number": 21,
+      "answer": "D",
+      "explanation": "The same charge deposits masses in proportion to equivalent masses: 3.6 x (27/3)/108 = 0.3 g of aluminium."
+    },
+    {
+      "number": 22,
+      "answer": "B",
+      "explanation": "At the anode, water is oxidized to produce hydrogen ions, increasing acidity and decreasing the pH."
+    },
+    {
+      "number": 23,
+      "answer": "C",
+      "explanation": "The charge passed is 2 x 9000 = 18000 C; Faraday's law gives 2.24 g of magnesium."
+    },
+    {
+      "number": 24,
+      "answer": "C",
+      "explanation": "Each Cu2+ ion gains two electrons; one mole of copper therefore involves 2 moles of electrons, about 1.2 x 10^24 electrons."
+    },
+    {
+      "number": 25,
+      "answer": "D",
+      "explanation": "Oxalic acid is oxidized by acidified permanganate, releasing carbon dioxide."
+    },
+    {
+      "number": 26,
+      "answer": "B",
+      "explanation": "Five grams of NH4NO3 is 5/80 = 0.0625 mol; 1.6 kJ absorbed gives a heat of solution of +25.6 kJ mol-1."
+    },
+    {
+      "number": 27,
+      "answer": "B",
+      "explanation": "By Hess's law, ΔH = -811 - [(-395) + (-286)] = -130 kJ mol-1."
+    },
+    {
+      "number": 28,
+      "answer": "A",
+      "explanation": "The time halves for each 10°C rise, so the reaction rate, which is inversely proportional to time, doubles."
+    },
+    {
+      "number": 29,
+      "answer": "C",
+      "explanation": "The forward reaction is exothermic, so lowering the reaction temperature shifts equilibrium toward SO3."
+    },
+    {
+      "number": 30,
+      "answer": "B",
+      "explanation": "Hot concentrated alkali disproportionates chlorine to chloride and chlorate: 3Cl2 + 6OH- -> ClO3- + 5Cl- + 3H2O."
+    },
+    {
+      "number": 31,
+      "answer": "A",
+      "explanation": "Magnesium burns in nitrogen to form magnesium nitride, which reacts with water to release ammonia; ammonia gives dense white fumes with HCl."
+    },
+    {
+      "number": 32,
+      "answer": "A",
+      "explanation": "The immediate treatment for concentrated acid on skin is thorough washing with plenty of cold running water."
+    },
+    {
+      "number": 33,
+      "answer": "D",
+      "explanation": "Both oxygen and sulphur have allotropes, including O2/O3 and rhombic/monoclinic sulphur."
+    },
+    {
+      "number": 34,
+      "answer": "C",
+      "explanation": "Ammonia and hydrogen chloride are highly soluble in water and can produce the fountain effect."
+    },
+    {
+      "number": 35,
+      "answer": "C",
+      "explanation": "The ammonia produced is dried by passing it directly over quicklime (calcium oxide), which does not react with it."
+    },
+    {
+      "number": 36,
+      "answer": "D",
+      "explanation": "Manganese forms an amphoteric oxide that reacts with both acids and alkalis to form salts."
+    },
+    {
+      "number": 37,
+      "answer": "C",
+      "explanation": "Stainless steel is principally an alloy of iron, carbon and chromium."
+    },
+    {
+      "number": 38,
+      "answer": "D",
+      "explanation": "Alloys are commonly formed by melting the constituent elements together and cooling the molten mixture."
+    },
+    {
+      "number": 39,
+      "answer": "B",
+      "explanation": "Electropositive metals readily lose electrons and are susceptible to oxidation, which causes corrosion."
+    },
+    {
+      "number": 40,
+      "answer": "C",
+      "explanation": "The 2s and three 2p orbitals hybridize to form four equivalent sp3 orbitals, giving carbon four bonding orbitals."
+    },
+    {
+      "number": 41,
+      "answer": "C",
+      "explanation": "A terminal alkyne forms an insoluble copper acetylide precipitate with ammoniacal copper(I) chloride."
+    },
+    {
+      "number": 42,
+      "answer": "A",
+      "explanation": "Branched-chain alkanes have higher octane ratings and resist knocking in high-compression engines."
+    },
+    {
+      "number": 43,
+      "answer": "A",
+      "explanation": "Yeast ferments glucose anaerobically to ethanol and carbon dioxide: C6H12O6 -> 2C2H5OH + 2CO2."
+    },
+    {
+      "number": 44,
+      "answer": "B",
+      "explanation": "Ethanol gives the yellow iodoform precipitate, triiodomethane (CHI3), in the iodoform test."
+    },
+    {
+      "number": 45,
+      "answer": "D",
+      "explanation": "The most volatile petroleum fraction consists mainly of the light gases methane, ethane and propane."
+    },
+    {
+      "number": 46,
+      "answer": "C",
+      "explanation": "The ash extract supplies alkaline substances that react with fats during soap making."
+    },
+    {
+      "number": 47,
+      "answer": "A",
+      "explanation": "Synthetic rubber (polyisoprene) is made by polymerizing 2-methylbuta-1,3-diene."
+    },
+    {
+      "number": 48,
+      "answer": "D",
+      "explanation": "Complete oxidation of the primary alcohol propan-1-ol produces propanoic acid."
+    },
+    {
+      "number": 49,
+      "answer": "C",
+      "explanation": "Calcium carbide reacts with water to produce acetylene, which burns in oxygen in an oxyacetylene flame."
+    },
+    {
+      "number": 50,
+      "answer": null,
+      "explanation": null
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "year": 1991,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "A",
+      "explanation": "Fractional distillation separates miscible liquids with close boiling points, such as liquid air components."
+    },
+    {
+      "number": 2,
+      "answer": "A",
+      "explanation": "Petroleum, rubber latex, and vulcanizer's solution are mixtures, whereas carbon disulphide is a pure compound."
+    },
+    {
+      "number": 3,
+      "answer": "B",
+      "explanation": "80 kg of ore with 70% Fe2O3 gives 56 kg Fe2O3 (molar mass 160), yielding (112/160) * 56 = 39.2 kg of iron."
+    },
+    {
+      "number": 4,
+      "answer": "A",
+      "explanation": "Fixed mass of metal X (0.20 g and 0.40 g) combines with chlorine in a simple ratio (0.36:0.355), illustrating multiple proportions."
+    },
+    {
+      "number": 5,
+      "answer": "A",
+      "explanation": "Using P1V1 = P2V2 at constant T, (10 * 0.030 dm^3) / 20 dm^3 = 0.015 atm (note: given options A=6.7 atm, B=15.0 atm, C=6.0 atm, D=66.0 atm)."
+    },
+    {
+      "number": 6,
+      "answer": "B",
+      "explanation": "At constant temperature, P1V1 = P2V2 gives V2 = 228 * (750 / 760) = 225 cm^3."
+    },
+    {
+      "number": 7,
+      "answer": "C",
+      "explanation": "2KHCO3 -> K2CO3 + H2O + CO2; 1000 g KHCO3 (100 g/mol) is 10 mol, giving 5 mol CO2 or 5 * 22.4 = 112 dm^3 at STP."
+    },
+    {
+      "number": 8,
+      "answer": "A",
+      "explanation": "Using n = PV / RT, (8.2 * 2.93) / (0.082 * 293) = 1.00 mole."
+    },
+    {
+      "number": 9,
+      "answer": "A",
+      "explanation": "X (group 2) forms X^2+ and Y (group 7) forms Y^-, giving an ionic compound of formula XY2, not XY."
+    },
+    {
+      "number": 10,
+      "answer": "B",
+      "explanation": "X^- with 10 electrons has 9 protons (fluorine), and Y^+ with 10 electrons has 11 protons (sodium)."
+    },
+    {
+      "number": 11,
+      "answer": "C",
+      "explanation": "The 3p^3 subshell has three half-filled orbitals, so there are 3 unpaired electrons."
+    },
+    {
+      "number": 12,
+      "answer": "C",
+      "explanation": "Ammonium chloride (NH4Cl) contains ionic bonding between NH4+ and Cl-, plus a dative covalent bond in NH4+."
+    },
+    {
+      "number": 13,
+      "answer": "B",
+      "explanation": "Electronegativity increases across a period from left to right: Na < Mg < Al < P < Cl."
+    },
+    {
+      "number": 14,
+      "answer": "D",
+      "explanation": "Alkaline pyrogallol absorbs oxygen gas, increasing its mass."
+    },
+    {
+      "number": 15,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 16,
+      "answer": "B",
+      "explanation": "Mercury(II) ions (Hg^2+) are toxic heavy metal pollutants even in trace amounts in drinking water."
+    },
+    {
+      "number": 17,
+      "answer": "D",
+      "explanation": "50 g saturated solution at 100 C (75 g solute per 175 g solution) has 21.43 g salt and 28.57 g water; at 30 C only 7.14 g dissolves, leaving 14.3 g."
+    },
+    {
+      "number": 18,
+      "answer": "B",
+      "explanation": "Passing excess carbon(IV) oxide into lime water forms soluble calcium hydrogentrioxocarbonate(IV), causing temporary hardness."
+    },
+    {
+      "number": 19,
+      "answer": "A",
+      "explanation": "Colloidal dispersions scatter light (the Tyndall effect), whereas true solutions do not."
+    },
+    {
+      "number": 20,
+      "answer": "C",
+      "explanation": "Ammonia and hydrogen chloride are extremely soluble in water, making them ideal for the fountain experiment."
+    },
+    {
+      "number": 21,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 22,
+      "answer": "C",
+      "explanation": "10 cm^3 of 0.1 M Na2CO3 is 0.001 mol, which reacts with excess acid to give 0.001 mol CO2 = 22.4 cm^3 at STP (text shows 224.0 cm^3 due to print typo)."
+    },
+    {
+      "number": 23,
+      "answer": "D",
+      "explanation": "Charge Q = 1.5 * 14400 = 21600 C (0.2238 F); 13.3/118.7 = 0.112 mol Sn, so n = 0.2238 / 0.112 = 2 or 4 depending on printed value."
+    },
+    {
+      "number": 24,
+      "answer": "C",
+      "explanation": "Na2CO3 and CH3COONa hydrolyze in water to give alkaline solutions with pH greater than 7."
+    },
+    {
+      "number": 25,
+      "answer": "D",
+      "explanation": "Mn in MnO4^- (+7) is reduced to Mn^2+ (+2), requiring n = 5 electrons."
+    },
+    {
+      "number": 26,
+      "answer": "B",
+      "explanation": "Sulphur in SO2 (+4) is reduced to S (0) while S in H2S (-2) is oxidized to S (0), so SO2 is the oxidant and H2S is the reductant."
+    },
+    {
+      "number": 27,
+      "answer": "D",
+      "explanation": "Manganese(IV) oxide acts as a catalyst, lowering the activation energy for hydrogen peroxide decomposition."
+    },
+    {
+      "number": 28,
+      "answer": "A",
+      "explanation": "1.1 g CaCl2 (111 g/mol) is 0.01 mol; heat released is 50 * 4.18 * 34 = 7106 J (7.11 kJ), or -711 kJ/mol (option A prints -71.1)."
+    },
+    {
+      "number": 29,
+      "answer": "A",
+      "explanation": "The reaction is exothermic (delta H = -89.3 kJ) and decreases gas moles (2 to 1.5), so low temperature and high pressure favour products."
+    },
+    {
+      "number": 30,
+      "answer": "B",
+      "explanation": "H2(g) + I2(g) <-> 2HI(g) has equal moles of gas on both sides (2 mol), so pressure change has no net effect."
+    },
+    {
+      "number": 31,
+      "answer": "C",
+      "explanation": "Doubling [NO] from 0.001 to 0.002 increases the rate from 3.0e-5 to 1.2e-4, which is a factor of four."
+    },
+    {
+      "number": 32,
+      "answer": "C",
+      "explanation": "Dinitrogen oxide (N2O) decomposes on heating to give oxygen-rich gas that rekindles a glowing splint."
+    },
+    {
+      "number": 33,
+      "answer": "A",
+      "explanation": "Sodium trioxocarbonate(IV) (Na2CO3) is thermally stable and melts without decomposing."
+    },
+    {
+      "number": 34,
+      "answer": "C",
+      "explanation": "Heating potassium trioxonitrate(V) (KNO3) decomposes it to potassium dioxonitrate(III) and oxygen gas."
+    },
+    {
+      "number": 35,
+      "answer": "C",
+      "explanation": "Hydrogen sulphide (H2S) turns moist lead(II) trioxonitrate(V) paper black due to lead(II) sulphide formation."
+    },
+    {
+      "number": 36,
+      "answer": "C",
+      "explanation": "Zn^2+ forms white Zn(OH)2 with aqueous ammonia that dissolves in excess ammonia to form [Zn(NH3)4]^2+."
+    },
+    {
+      "number": 37,
+      "answer": "C",
+      "explanation": "Bubbling CO2 briefly into clear lime water, Ca(OH)2, forms a white precipitate of insoluble CaCO3."
+    },
+    {
+      "number": 38,
+      "answer": "B",
+      "explanation": "Copper(II) tetraoxosulphate(VI) is widely used as a fungicide and in agriculture."
+    },
+    {
+      "number": 39,
+      "answer": "C",
+      "explanation": "Nitrates of mercury and silver decompose on heating to yield the free metal, nitrogen(IV) oxide, and oxygen."
+    },
+    {
+      "number": 40,
+      "answer": "B",
+      "explanation": "But-2-ene has a symmetrical internal double bond (CH3CH=CHCH3) and exhibits cis-trans geometric isomerism."
+    },
+    {
+      "number": 41,
+      "answer": "B",
+      "explanation": "Butyl bromide (C4H9Br) has four structural isomers: 1-bromobutane, 2-bromobutane, 1-bromo-2-methylpropane, and 2-bromo-2-methylpropane."
+    },
+    {
+      "number": 42,
+      "answer": "C",
+      "explanation": "In the presence of ultraviolet light, alkanes undergo free-radical substitution with chlorine up to tetrachloromethane (CCl4)."
+    },
+    {
+      "number": 43,
+      "answer": "D",
+      "explanation": "10 g propyne (C3H4, 40 g/mol) is 0.25 mol and adds 2 mol Br2 per mole (0.5 mol Br2 = 80 g)."
+    },
+    {
+      "number": 44,
+      "answer": "A",
+      "explanation": "Ethene is absorbed in concentrated H2SO4 to form ethyl hydrogensulphate, which on dilution and warming yields ethanol."
+    },
+    {
+      "number": 45,
+      "answer": "C",
+      "explanation": "Detergents form soluble calcium and magnesium salts and do not form scum in hard water."
+    },
+    {
+      "number": 46,
+      "answer": "B",
+      "explanation": "Alcoholic KOH removes H and Br from 2-bromobutane (dehydrohalogenation/elimination) to form but-2-ene."
+    },
+    {
+      "number": 47,
+      "answer": "D",
+      "explanation": "Propane-1,2,3-triol (glycerol) is a viscous, sweet, non-toxic, hygroscopic liquid miscible with water."
+    },
+    {
+      "number": 48,
+      "answer": "B",
+      "explanation": "The compound is 1-chloro-2-methylpropane, containing a three-carbon main chain with a methyl at C-2 and chloro at C-1."
+    },
+    {
+      "number": 49,
+      "answer": "A",
+      "explanation": "Complete alkaline hydrolysis of one mole of a triacylglycerol (glyceride) requires 3 moles of NaOH."
+    },
+    {
+      "number": 50,
+      "answer": "A",
+      "explanation": "Chlorination of ethanoic acid in sunlight substitutes an alpha-hydrogen to yield chloroethanoic acid (ClCH2COOH) and HCl."
+    }
+  ]
+}

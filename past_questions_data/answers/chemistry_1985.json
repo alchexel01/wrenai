@@ -1,0 +1,255 @@
+{
+  "year": 1985,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "D",
+      "explanation": "The labelled P, Q and R positions lie in the right-hand p-block of the periodic table."
+    },
+    {
+      "number": 2,
+      "answer": "B",
+      "explanation": "Graphite conducts electricity because each carbon atom has a delocalized electron that can move through the layers."
+    },
+    {
+      "number": 3,
+      "answer": "D",
+      "explanation": "The mole ratio is C:H:O = 72/12:12/1:16/16 = 6:12:1, giving C6H12O."
+    },
+    {
+      "number": 4,
+      "answer": "D",
+      "explanation": "The water lost is 0.153 g and the anhydrous CuSO4 is 0.346 g; their mole ratio is approximately 4:1."
+    },
+    {
+      "number": 5,
+      "answer": "C",
+      "explanation": "A mixture generally melts over a range of temperatures rather than at one sharp, fixed melting point."
+    },
+    {
+      "number": 6,
+      "answer": "E",
+      "explanation": "By Graham's law, the relative diffusion rate is the square root of 32/2, so hydrogen diffuses four times as fast as oxygen."
+    },
+    {
+      "number": 7,
+      "answer": "C",
+      "explanation": "Fe2O3 has molar mass 2(56) + 3(16) = 160 g/mol; 1000/160 = 6.25 mol."
+    },
+    {
+      "number": 8,
+      "answer": "E",
+      "explanation": "The acid titre corresponds to 0.002 mol K2CO3 in 25 cm3, or 0.020 mol in the flask; this is 2.76 g, about 92% of the mixture."
+    },
+    {
+      "number": 9,
+      "answer": "A",
+      "explanation": "At 300 K, the graph shows Y has approximately twice the solubility of X."
+    },
+    {
+      "number": 10,
+      "answer": "C",
+      "explanation": "At 353 K the graph gives solubilities of about 70 g for X and 64 g for Y per 100 g water, leaving 10 g and 16 g undissolved."
+    },
+    {
+      "number": 11,
+      "answer": "C",
+      "explanation": "The graph gives about 54 g of X dissolved at 343 K; 54/36 = 1.5 mol."
+    },
+    {
+      "number": 12,
+      "answer": "B",
+      "explanation": "A sour taste and pH below 7 are not alkaline properties; the other listed properties are characteristic of alkalis."
+    },
+    {
+      "number": 13,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 14,
+      "answer": "B",
+      "explanation": "Nitric acid is an oxidizing acid; hydrogen formed during its reaction with zinc is oxidized to water."
+    },
+    {
+      "number": 15,
+      "answer": "C",
+      "explanation": "Ethanol has the lowest boiling point, so it has the highest vapour pressure at the same temperature."
+    },
+    {
+      "number": 16,
+      "answer": "B",
+      "explanation": "Nitrogen prepared from air retains traces of argon, making it slightly denser than nitrogen obtained by the chemical method."
+    },
+    {
+      "number": 17,
+      "answer": "A",
+      "explanation": "Q = It = 0.193 × 7200 C; using m = QAr/(2F) gives approximately 0.457 g of copper."
+    },
+    {
+      "number": 18,
+      "answer": "B",
+      "explanation": "A catalyst increases the rates of both forward and reverse reactions, so the concentrations change more rapidly without changing equilibrium composition."
+    },
+    {
+      "number": 19,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 20,
+      "answer": "D",
+      "explanation": "Automobile exhaust contributes nitrogen oxides and lead compounds, coal combustion contributes carbon monoxide, and biological decomposition produces methane."
+    },
+    {
+      "number": 21,
+      "answer": "A",
+      "explanation": "The correct order places magnesium before aluminium in the electrochemical series, so Al and Mg must be interchanged."
+    },
+    {
+      "number": 22,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 23,
+      "answer": "D",
+      "explanation": "Permanganate ions accept electrons and are reduced to Mn2+, so MnO4- is the oxidizing agent."
+    },
+    {
+      "number": 24,
+      "answer": "A",
+      "explanation": "Adding an inert gas at constant volume does not change the partial pressures of the reacting gases and therefore does not shift equilibrium."
+    },
+    {
+      "number": 25,
+      "answer": "D",
+      "explanation": "Zinc is more reactive than iron and displaces iron from iron(II) salt solution."
+    },
+    {
+      "number": 26,
+      "answer": "E",
+      "explanation": "Complete hydrogenation adds two moles of hydrogen to ethyne, producing ethane."
+    },
+    {
+      "number": 27,
+      "answer": "B",
+      "explanation": "Bleaching powder is manufactured by passing chlorine over dry slaked lime."
+    },
+    {
+      "number": 28,
+      "answer": "D",
+      "explanation": "The empirical formula is C5H7NO2 with formula mass 113; this equals twice the vapour density of 56.5."
+    },
+    {
+      "number": 29,
+      "answer": "E",
+      "explanation": "The irregular motion of pollen grains is caused by continuous bombardment by water molecules."
+    },
+    {
+      "number": 30,
+      "answer": "C",
+      "explanation": "Using formation enthalpies, ΔH = -393 - (-110.4) = approximately -282.9 kJ/mol."
+    },
+    {
+      "number": 31,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 32,
+      "answer": "A",
+      "explanation": "Nitrogen(IV) oxide reacts with alkali by disproportionation to form nitrite and nitrate salts."
+    },
+    {
+      "number": 33,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 34,
+      "answer": "B",
+      "explanation": "Sulfate ions are confirmed by a white barium sulfate precipitate formed with acidified barium chloride."
+    },
+    {
+      "number": 35,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 36,
+      "answer": "E",
+      "explanation": "Barium ions combine with carbonate ions to form insoluble white barium carbonate."
+    },
+    {
+      "number": 37,
+      "answer": "C",
+      "explanation": "An alkene decolorizes acidified potassium manganate(VII) but does not give the silver precipitate test for terminal alkynes."
+    },
+    {
+      "number": 38,
+      "answer": "C",
+      "explanation": "Sodium hydroxide absorbs carbon dioxide from air to form sodium carbonate."
+    },
+    {
+      "number": 39,
+      "answer": "D",
+      "explanation": "The carboxylic acid functional group is -COOH."
+    },
+    {
+      "number": 40,
+      "answer": "E",
+      "explanation": "Hydrogen is the most abundant element in the universe."
+    },
+    {
+      "number": 41,
+      "answer": "B",
+      "explanation": "X is an alkane because it does not decolorize bromine; complete combustion produces carbon dioxide and water."
+    },
+    {
+      "number": 42,
+      "answer": "D",
+      "explanation": "Carbon dioxide turns limewater milky, while water turns anhydrous copper(II) sulfate blue."
+    },
+    {
+      "number": 43,
+      "answer": "B",
+      "explanation": "Sodium heated in air commonly forms sodium peroxide, Na2O2, rather than the listed sodium oxide, Na2O."
+    },
+    {
+      "number": 44,
+      "answer": "C",
+      "explanation": "The ion X2+ has 18 electrons; the neutral atom therefore has 20 electrons and atomic number 20."
+    },
+    {
+      "number": 45,
+      "answer": "E",
+      "explanation": "Heating calcium carbonate gives calcium oxide, which reacts with water to form calcium hydroxide."
+    },
+    {
+      "number": 46,
+      "answer": "C",
+      "explanation": "Acidified thiosulfate produces yellow sulfur and sulfur dioxide, which reduces dichromate paper to green chromium(III)."
+    },
+    {
+      "number": 47,
+      "answer": "A",
+      "explanation": "Hydrogenation adds hydrogen to the unsaturated bonds in vegetable oils, converting them into harder fats used for margarine."
+    },
+    {
+      "number": 48,
+      "answer": "D",
+      "explanation": "Aluminium hydroxide is a white precipitate that dissolves in excess sodium hydroxide but not in excess aqueous ammonia."
+    },
+    {
+      "number": 49,
+      "answer": "D",
+      "explanation": "Sodium chloride salts out the soap, separating it from the glycerol-containing aqueous mixture."
+    },
+    {
+      "number": 50,
+      "answer": "C",
+      "explanation": "Sulfur forms cross-links between rubber polymer chains, improving strength and elasticity."
+    }
+  ]
+}

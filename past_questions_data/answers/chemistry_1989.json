@@ -1,0 +1,250 @@
+{
+  "year": 1989,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "C",
+      "explanation": "A pure substance has a sharp melting point, whereas a mixture melts over a range; the 300°C to 375°C range indicates a mixture."
+    },
+    {
+      "number": 2,
+      "answer": "B",
+      "explanation": "At STP, 32 cm3 is 0.032/22.4 mol; 0.12 g therefore gives a molar mass of 84 g/mol, corresponding to C6H12."
+    },
+    {
+      "number": 3,
+      "answer": "C",
+      "explanation": "The vapour-pressure curve with the lowest vapour pressure at a given temperature has the highest boiling point; curve III is the lowest."
+    },
+    {
+      "number": 4,
+      "answer": "B",
+      "explanation": "20 cm3 contains 0.001 mol Na2CO3; it reacts 1:1 with H2SO4, so 0.001 mol acid in 25 cm3 gives 0.04 mol/dm3."
+    },
+    {
+      "number": 5,
+      "answer": "B",
+      "explanation": "CO consumes half its volume of oxygen and H2 consumes half its volume; 10 cm3 CO and 15 cm3 H2 require 5 + 7.5 = 12.5 cm3 O2."
+    },
+    {
+      "number": 6,
+      "answer": "A",
+      "explanation": "The hydrogen partial pressure is total pressure minus water vapour pressure: 760 - 23 = 737 mmHg."
+    },
+    {
+      "number": 7,
+      "answer": "C",
+      "explanation": "At the same temperature, diffusion rate is inversely proportional to the square root of molar mass; CO travels fastest, followed by H2S, NO2 and SO2."
+    },
+    {
+      "number": 8,
+      "answer": "C",
+      "explanation": "For an ideal gas, PV is constant as pressure changes at fixed temperature; this is the horizontal curve Y."
+    },
+    {
+      "number": 9,
+      "answer": "D",
+      "explanation": "S has 19 protons and 20 neutrons, giving mass number 39; potassium has an odd atomic number and forms K+ ions."
+    },
+    {
+      "number": 10,
+      "answer": "B",
+      "explanation": "Valence is the combining capacity of an atom and indicates the number of bonds it can form."
+    },
+    {
+      "number": 11,
+      "answer": "A",
+      "explanation": "The diagram represents removal of an electron from a gaseous atom, which requires ionization energy."
+    },
+    {
+      "number": 13,
+      "answer": "B",
+      "explanation": "The apparatus uses potassium trioxocarbonate(IV) to remove carbon dioxide and alkaline pyrogallol to absorb oxygen."
+    },
+    {
+      "number": 14,
+      "answer": "C",
+      "explanation": "Sulphur(IV) oxide is produced during the smelting of copper sulphide ores."
+    },
+    {
+      "number": 15,
+      "answer": "B",
+      "explanation": "Calcium hydroxide assists coagulation by helping suspended organic particles clump together."
+    },
+    {
+      "number": 16,
+      "answer": "C",
+      "explanation": "Water is 45.3% of the hydrate, so 18x/(152 + 18x) = 0.453, giving x approximately 7; option C."
+    },
+    {
+      "number": 17,
+      "answer": "B",
+      "explanation": "The graph gives a solubility decrease of about 14.9 g per dm3 on cooling from 80°C to 0°C."
+    },
+    {
+      "number": 18,
+      "answer": "C",
+      "explanation": "The reaction is 2KOH + H2SO4 -> K2SO4 + 2H2O; 50 cm3 of 1 M KOH requires 25 cm3 of 1 M acid."
+    },
+    {
+      "number": 19,
+      "answer": "B",
+      "explanation": "CaBr2 has molar mass 200 g/mol; 20 g/dm3 is 0.1 M CaBr2 and supplies 0.2 M Br- ions."
+    },
+    {
+      "number": 20,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 21,
+      "answer": "B",
+      "explanation": "A conjugate acid and its conjugate base differ by one proton (H+)."
+    },
+    {
+      "number": 22,
+      "answer": "B",
+      "explanation": "For the same charge, deposited mass is proportional to equivalent mass; silver to copper is (108/1)/(63.5/2), giving about 3.4 g Ag."
+    },
+    {
+      "number": 23,
+      "answer": "A",
+      "explanation": "At the cathode, Cu2+ ions are preferentially reduced to copper metal in aqueous copper(II) sulphate."
+    },
+    {
+      "number": 24,
+      "answer": "C",
+      "explanation": "The six cyanide ions contribute -6; with Z at +2, the complex charge is -4, so y = -4 (option C)."
+    },
+    {
+      "number": 25,
+      "answer": "D",
+      "explanation": "CaCO3 decomposes into CaO and CO2 without a change in oxidation states, so reaction IV is not redox."
+    },
+    {
+      "number": 26,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 27,
+      "answer": "C",
+      "explanation": "Using the combustion enthalpy and formation enthalpy of water, the formation enthalpy of ethane is approximately -64 kJ/mol."
+    },
+    {
+      "number": 28,
+      "answer": "D",
+      "explanation": "Low pressure favours the side with more gas molecules, and excess steam drives the equilibrium toward hydrogen."
+    },
+    {
+      "number": 29,
+      "answer": "A",
+      "explanation": "The solid-liquid equilibrium occurs on the first horizontal plateau of the heating curve, labelled T."
+    },
+    {
+      "number": 30,
+      "answer": "B",
+      "explanation": "Copper with concentrated nitric acid forms copper(II) nitrate, nitrogen dioxide and water: Cu + 4HNO3 -> Cu(NO3)2 + 2NO2 + 2H2O."
+    },
+    {
+      "number": 31,
+      "answer": "C",
+      "explanation": "Vanadium(V) oxide is the catalyst used to oxidize sulphur dioxide to sulphur trioxide in the contact process."
+    },
+    {
+      "number": 32,
+      "answer": "D",
+      "explanation": "Destructive distillation of coal produces coke and ammonia liquor, among other products."
+    },
+    {
+      "number": 33,
+      "answer": "A",
+      "explanation": "Potassium trioxonitrate(V) supplies oxygen and acts as the oxidizing agent in gunpowder."
+    },
+    {
+      "number": 34,
+      "answer": "B",
+      "explanation": "Bromine can displace iodine from iodide, while the other listed halogen displacement reactions are not feasible as written."
+    },
+    {
+      "number": 35,
+      "answer": "C",
+      "explanation": "Carbon dioxide in air reacts with bleaching powder, causing loss of available chlorine and deterioration."
+    },
+    {
+      "number": 36,
+      "answer": "D",
+      "explanation": "On heating, ammonium trioxonitrate(V) decomposes to nitrous oxide and water."
+    },
+    {
+      "number": 37,
+      "answer": "B",
+      "explanation": "Copper is less susceptible to corrosion than iron, so the coating protects the iron balance pan."
+    },
+    {
+      "number": 38,
+      "answer": "D",
+      "explanation": "Sodium is obtained by electrolysis of molten sodium chloride and is reactive enough to displace lead from its salt solution."
+    },
+    {
+      "number": 39,
+      "answer": "E",
+      "explanation": "Mortar is unsuitable underwater because flowing water can wash it away before it sets."
+    },
+    {
+      "number": 40,
+      "answer": "D",
+      "explanation": "Metal extraction uses reduction processes; oxidation with an oxidizing agent is not a general extraction method."
+    },
+    {
+      "number": 41,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 42,
+      "answer": "A",
+      "explanation": "Chlorine adds across the ethene double bond to form 1,2-dichloroethane."
+    },
+    {
+      "number": 43,
+      "answer": "C",
+      "explanation": "Vulcanization introduces sulphur cross-links by chemically combining sulphur with rubber."
+    },
+    {
+      "number": 44,
+      "answer": "B",
+      "explanation": "Ethanoic acid reacts with sodium hydroxide in an acid-base neutralization reaction."
+    },
+    {
+      "number": 45,
+      "answer": "D",
+      "explanation": "Two ethanoic acid molecules associate through intermolecular hydrogen bonds in the liquid state."
+    },
+    {
+      "number": 46,
+      "answer": "D",
+      "explanation": "Alkaline hydrolysis of fats produces soap and propane-1,2,3-triol (glycerol)."
+    },
+    {
+      "number": 47,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 48,
+      "answer": "C",
+      "explanation": "The longest chain containing the double bond is prop-1-ene, with methyl at carbon 2 and chloro at carbon 3: 3-chloro-2-methylprop-1-ene."
+    },
+    {
+      "number": 49,
+      "answer": "D",
+      "explanation": "Methane is the principal component of firedamp and is responsible for many fatal coal-mine explosions."
+    },
+    {
+      "number": 50,
+      "answer": "A",
+      "explanation": "Aromatic hydrocarbons burn with sooty flames and do not decolourize bromine water; X and Z therefore fit the aromatic behaviour described."
+    }
+  ]
+}

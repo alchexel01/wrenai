@@ -1,0 +1,255 @@
+{
+  "year": 1992,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "C",
+      "explanation": "Flood water contains suspended soil and debris, making it a heterogeneous mixture."
+    },
+    {
+      "number": 2,
+      "answer": "C",
+      "explanation": "Metallic bonding stays largely intact on melting and breaks only upon boiling, giving a wide liquid range."
+    },
+    {
+      "number": 3,
+      "answer": "B",
+      "explanation": "Each mole of H2SO4 yields 2 moles of H+, so 1 dm^3 of 0.5 M H2SO4 contains 1.0 mole of H+."
+    },
+    {
+      "number": 4,
+      "answer": "C",
+      "explanation": "Balancing 3H2SO4 + 2Al(OH)3 -> 6H2O + Al2(SO4)3 gives w = 3, x = 2, y = 6, and z = 1."
+    },
+    {
+      "number": 5,
+      "answer": "D",
+      "explanation": "By Charles's law at constant pressure, doubling volume from 2 dm^3 to 4 dm^3 doubles Kelvin temperature to 600 K."
+    },
+    {
+      "number": 6,
+      "answer": "B",
+      "explanation": "By Graham's law, t(H2) = 50 * sqrt(2 / 32) = 50 * 0.25 = 12.5 seconds."
+    },
+    {
+      "number": 7,
+      "answer": "D",
+      "explanation": "Temperature is directly proportional to the average kinetic energy of gas molecules."
+    },
+    {
+      "number": 8,
+      "answer": "D",
+      "explanation": "Higher temperature increases molecular speed and collision frequency with the container walls, raising pressure."
+    },
+    {
+      "number": 9,
+      "answer": "B",
+      "explanation": "Tritium (H-3) has 1 proton, 2 neutrons, and 1 electron in a neutral atom."
+    },
+    {
+      "number": 10,
+      "answer": "B",
+      "explanation": "Oxygen in H2O shares two electrons and retains two lone pairs on the central atom."
+    },
+    {
+      "number": 11,
+      "answer": "B",
+      "explanation": "Balancing mass and atomic numbers (14 + 4 = 17 + 1 and 7 + 2 = 8 + 1) shows X is a helium-4 nucleus/atom."
+    },
+    {
+      "number": 12,
+      "answer": "D",
+      "explanation": "Element S has 7 valence electrons (a halogen/non-metal), whereas P, Q, and R have 1, 2, and 3 valence electrons."
+    },
+    {
+      "number": 13,
+      "answer": "A",
+      "explanation": "Industrial emissions commonly release H2S, SO2, and nitrogen oxides into the air."
+    },
+    {
+      "number": 14,
+      "answer": "D",
+      "explanation": "Sulphur(IV) oxide (SO2) dissolves in rainwater to form sulphurous/sulphuric acid, causing acid rain."
+    },
+    {
+      "number": 15,
+      "answer": "B",
+      "explanation": "Chlorination kills harmful bacteria and microorganisms in municipal water supplies."
+    },
+    {
+      "number": 16,
+      "answer": "A",
+      "explanation": "Gas solubility in a liquid depends on the nature of solute and solvent, temperature, and pressure."
+    },
+    {
+      "number": 17,
+      "answer": "B",
+      "explanation": "An emulsion consists of tiny liquid droplets dispersed throughout another immiscible liquid."
+    },
+    {
+      "number": 18,
+      "answer": "B",
+      "explanation": "Since pOH = 14 - 3.80 = 10.20, [OH-] = 10^(-10.20), which equals 6.3 x 10^-11 mol/dm^3."
+    },
+    {
+      "number": 19,
+      "answer": "B",
+      "explanation": "Toluene (C6H5CH3) is non-conducting, CH3COOH is a weak electrolyte, and HCl is a strong electrolyte."
+    },
+    {
+      "number": 20,
+      "answer": "C",
+      "explanation": "Sodium hydrogensulphide (NaHS) contains a replaceable hydrogen atom and is an acid salt."
+    },
+    {
+      "number": 21,
+      "answer": "B",
+      "explanation": "Moles = 6.00 * 0.175 = 1.05 mol; 1.05 * 98.06 g/mol gives about 103.0 g of H2SO4."
+    },
+    {
+      "number": 22,
+      "answer": "B",
+      "explanation": "Electrolysis of aqueous CuSO4 with carbon electrodes liberates oxygen at the anode and copper at the cathode."
+    },
+    {
+      "number": 23,
+      "answer": "B",
+      "explanation": "Q = 500 * 86400 = 4.32e7 C; mass Mg = (24 * 4.32e7) / (2 * 96500) = 5372 g, or about 5.4 kg."
+    },
+    {
+      "number": 24,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 25,
+      "answer": "B",
+      "explanation": "Iodine (I2, oxidation state 0) gains electrons to become I- (-1), acting as the oxidizing agent."
+    },
+    {
+      "number": 26,
+      "answer": "A",
+      "explanation": "Vaporization of liquid water to steam increases disorder, giving a positive entropy change."
+    },
+    {
+      "number": 27,
+      "answer": "B",
+      "explanation": "The equilibrium constant of a reverse reaction is the reciprocal of the forward one, so their product is 1."
+    },
+    {
+      "number": 28,
+      "answer": "A",
+      "explanation": "H2(g) + I2(g) <-> 2HI(g) has equal moles of gas on both sides, so volume decrease causes no net shift."
+    },
+    {
+      "number": 29,
+      "answer": "C",
+      "explanation": "The equilibrium constant expression puts product concentrations raised to their coefficients over reactant ones."
+    },
+    {
+      "number": 30,
+      "answer": "D",
+      "explanation": "Burning magnesium in carbon(IV) oxide reduces CO2 to carbon while forming magnesium oxide."
+    },
+    {
+      "number": 31,
+      "answer": "C",
+      "explanation": "Heating ammonium trioxonitrate(V) and sodium chloride or a nitrate salt setup produces nitrogen(I) oxide (N2O)."
+    },
+    {
+      "number": 32,
+      "answer": "A",
+      "explanation": "Oxy-ethyne and oxy-hydrogen flames produce high temperatures used for welding and cutting metals."
+    },
+    {
+      "number": 33,
+      "answer": "B",
+      "explanation": "Nitrogen(II) oxide (NO) is readily oxidized by oxygen in air to form brown nitrogen(IV) oxide (NO2)."
+    },
+    {
+      "number": 34,
+      "answer": "D",
+      "explanation": "Heating an ammonium salt such as NH4NO3 with sodium hydroxide liberates ammonia gas."
+    },
+    {
+      "number": 35,
+      "answer": "A",
+      "explanation": "Safety match heads typically use potassium trioxochlorate(V) (KClO3) as an oxidizing agent with sulphur/antimony."
+    },
+    {
+      "number": 36,
+      "answer": "B",
+      "explanation": "Barium chloride gives a white precipitate of barium trioxosulphate/carbonate with carbonate or sulphate ions (carbonate here)."
+    },
+    {
+      "number": 37,
+      "answer": "D",
+      "explanation": "Copper does not react with sodium hydroxide, whereas lead, zinc, and aluminium react with alkalis."
+    },
+    {
+      "number": 38,
+      "answer": "D",
+      "explanation": "The Solvay process uses NaCl, CaCO3, and NH3 as raw materials; Na2CO3 is the product."
+    },
+    {
+      "number": 39,
+      "answer": "D",
+      "explanation": "Duralumin is an alloy of aluminium with small amounts of copper, magnesium, and manganese."
+    },
+    {
+      "number": 40,
+      "answer": "B",
+      "explanation": "Adding water to quicklime (CaO) to form calcium hydroxide is called slaking."
+    },
+    {
+      "number": 41,
+      "answer": "A",
+      "explanation": "Each carbon atom in ethane has four single sigma bonds and is sp^3 hybridized."
+    },
+    {
+      "number": 42,
+      "answer": "B",
+      "explanation": "The longest chain containing the double bond has six carbons with methyl groups at C-2 and C-5, giving 2,5-dimethylhex-2-ene."
+    },
+    {
+      "number": 43,
+      "answer": "C",
+      "explanation": "A secondary alkanol has the -OH group attached to a carbon bonded to two other carbons, as in butan-2-ol."
+    },
+    {
+      "number": 44,
+      "answer": "C",
+      "explanation": "Terminal alkynes such as propyne react with sodium and form copper/silver acetylides."
+    },
+    {
+      "number": 45,
+      "answer": "A",
+      "explanation": "Ethanol and dimethyl ether share the molecular formula C2H6O and are functional group isomers."
+    },
+    {
+      "number": 46,
+      "answer": "D",
+      "explanation": "Carboxylic acids contain the carboxyl (-COOH) group, which liberates CO2 from NaHCO3."
+    },
+    {
+      "number": 47,
+      "answer": "C",
+      "explanation": "Aldehydes and ketones (carbonyl compounds) characteristically undergo nucleophilic addition reactions."
+    },
+    {
+      "number": 48,
+      "answer": "C",
+      "explanation": "40.1% C (3.34 mol), 6.67% H (6.67 mol), and 53.23% O (3.33 mol) give the empirical formula CH2O."
+    },
+    {
+      "number": 49,
+      "answer": "D",
+      "explanation": "Tollen's reagent oxidizes alkanals to give a silver mirror, whereas alkanones do not react."
+    },
+    {
+      "number": 50,
+      "answer": "D",
+      "explanation": "Starch is a polysaccharide made of many linked glucose units."
+    }
+  ]
+}

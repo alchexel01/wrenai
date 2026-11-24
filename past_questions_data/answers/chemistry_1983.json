@@ -1,0 +1,255 @@
+{
+  "year": 1983,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "C",
+      "explanation": "Sodium hydrogen sulfate is acidic and releases carbon dioxide with carbonate; its sulfate ion forms a white barium sulfate precipitate insoluble in dilute hydrochloric acid."
+    },
+    {
+      "number": 2,
+      "answer": "B",
+      "explanation": "Glycerol is obtained as a by-product when fats and oils are hydrolysed in soap manufacture."
+    },
+    {
+      "number": 3,
+      "answer": "D",
+      "explanation": "An oxy-acetylene flame reaches the high temperature required for welding and cutting metals."
+    },
+    {
+      "number": 4,
+      "answer": "B",
+      "explanation": "Successive members of an alkane homologous series differ by one -CH2- unit."
+    },
+    {
+      "number": 5,
+      "answer": "D",
+      "explanation": "The outer configuration is 3s2 3p2, placing the element in the p-block."
+    },
+    {
+      "number": 6,
+      "answer": "D",
+      "explanation": "The sample lost 1.44 g of water; this corresponds to approximately four moles of water per mole of copper sulfate."
+    },
+    {
+      "number": 7,
+      "answer": "D",
+      "explanation": "Methane has four bonding pairs arranged tetrahedrally around the carbon atom."
+    },
+    {
+      "number": 8,
+      "answer": "D",
+      "explanation": "Fermentation produces ethanol, which reacts with ethanoic acid to form a sweet-smelling ester."
+    },
+    {
+      "number": 9,
+      "answer": "B",
+      "explanation": "The empirical ratio is CH2O and the molecular mass is 180, giving C6H12O6."
+    },
+    {
+      "number": 10,
+      "answer": "C",
+      "explanation": "Yeast ferments glucose to ethanol, a process used in the brewing industry."
+    },
+    {
+      "number": 11,
+      "answer": "C",
+      "explanation": "Ammonium chloride is removed by sublimation first; water then dissolves sodium chloride, leaving insoluble barium sulfate for filtration."
+    },
+    {
+      "number": 12,
+      "answer": "B",
+      "explanation": "For a fixed amount of ideal gas, the gas law gives P proportional to T/V."
+    },
+    {
+      "number": 13,
+      "answer": "D",
+      "explanation": "Ammonia diffuses faster than hydrogen chloride, so it reaches the damp litmus first and turns it blue."
+    },
+    {
+      "number": 14,
+      "answer": "C",
+      "explanation": "Calcium ions impart a characteristic brick-red colour to a flame."
+    },
+    {
+      "number": 15,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 16,
+      "answer": "D",
+      "explanation": "Iron is oxidized from Fe to Fe2+ in reaction 1 and from Fe2+ to Fe3+ in reaction 3."
+    },
+    {
+      "number": 17,
+      "answer": "D",
+      "explanation": "For the same charge, deposited mass is proportional to equivalent mass; silver deposits at 108/31.5 times the copper mass, giving 2.16 g."
+    },
+    {
+      "number": 18,
+      "answer": "E",
+      "explanation": "Iron is above copper in the electrochemical series and therefore displaces copper from its ions."
+    },
+    {
+      "number": 19,
+      "answer": "A",
+      "explanation": "The longest chain containing the double bond has four carbons, with a methyl substituent at carbon 2 and the double bond at carbon 1."
+    },
+    {
+      "number": 20,
+      "answer": "D",
+      "explanation": "C3H6Br2 has four positional structural isomers: 1,1-, 1,2-, 1,3- and 2,2-dibromopropane."
+    },
+    {
+      "number": 21,
+      "answer": "C",
+      "explanation": "Sulfur burns in oxygen to form sulfur dioxide, which dissolves in water to produce trioxosulphate(IV) acid."
+    },
+    {
+      "number": 22,
+      "answer": "A",
+      "explanation": "Washing soda loses its water of crystallization on exposure to air; this is efflorescence."
+    },
+    {
+      "number": 23,
+      "answer": "E",
+      "explanation": "At the anode in molten sodium chloride, chloride ions lose electrons and are oxidized to chlorine."
+    },
+    {
+      "number": 24,
+      "answer": "D",
+      "explanation": "Detergents help disperse oil films on water, allowing the petroleum pollutant to be removed more readily."
+    },
+    {
+      "number": 25,
+      "answer": "D",
+      "explanation": "An electronegative element has a tendency to attract or gain electrons."
+    },
+    {
+      "number": 26,
+      "answer": "E",
+      "explanation": "A solution with pH 9 is basic and is therefore the least acidic of the three solutions."
+    },
+    {
+      "number": 27,
+      "answer": "C",
+      "explanation": "The enthalpy change for reaction II is more negative, so reaction I evolves less heat."
+    },
+    {
+      "number": 28,
+      "answer": "C",
+      "explanation": "Magnesium, iron and lead are above hydrogen in the reactivity series and dissolve in dilute hydrochloric acid; copper does not."
+    },
+    {
+      "number": 29,
+      "answer": "B",
+      "explanation": "Stainless steel is an alloy based mainly on iron, with chromium and carbon."
+    },
+    {
+      "number": 30,
+      "answer": "A",
+      "explanation": "The NaOH amount is 0.020 × 0.1 = 0.002 mol; 0.001 mol H2SO4 is required, which is 2.0 cm3 of 0.50 M acid."
+    },
+    {
+      "number": 31,
+      "answer": "C",
+      "explanation": "Nitrogen dioxide and sulfur trioxide are already oxides and do not undergo further oxidation by oxygen under the stated conditions."
+    },
+    {
+      "number": 32,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 33,
+      "answer": "A",
+      "explanation": "Copper(II) nitrate must be prepared using nitric acid; sulfuric acid would produce copper(II) sulfate instead."
+    },
+    {
+      "number": 34,
+      "answer": "C",
+      "explanation": "Fractional distillation followed by a dehydrating agent removes water and can produce ethanol above 95% purity."
+    },
+    {
+      "number": 35,
+      "answer": "D",
+      "explanation": "At a fixed temperature, compressing a gas into a smaller volume increases its density."
+    },
+    {
+      "number": 36,
+      "answer": "D",
+      "explanation": "The water lost is 0.37 g; comparing its moles with 2.13/208 mol of anhydrous salt gives approximately two waters per formula unit."
+    },
+    {
+      "number": 37,
+      "answer": "C",
+      "explanation": "The molar mass of KClO3 is 122.5 g/mol; 3.06 g in 0.010 dm3 gives approximately 2.5 mol/dm3."
+    },
+    {
+      "number": 38,
+      "answer": "C",
+      "explanation": "Cracking converts heavier petroleum fractions into smaller, more useful molecules, increasing the yield of engine fuels."
+    },
+    {
+      "number": 39,
+      "answer": "C",
+      "explanation": "Sulfur dioxide reduces chlorine to chloride and oxidizes hydrogen sulfide to sulfur, so it can act in both roles."
+    },
+    {
+      "number": 40,
+      "answer": "B",
+      "explanation": "Copper sulfate gives a white barium sulfate precipitate with barium chloride and copper produces a blue-green flame colour."
+    },
+    {
+      "number": 41,
+      "answer": "D",
+      "explanation": "Nearly all atomic mass is concentrated in the nucleus, so it is determined by the total number of protons and neutrons."
+    },
+    {
+      "number": 42,
+      "answer": "E",
+      "explanation": "Nitric acid reacts with potassium hydroxide in an acid-base neutralization to form potassium nitrate and water."
+    },
+    {
+      "number": 43,
+      "answer": "D",
+      "explanation": "One mole of ethane forms three moles of water; retaining 5,400 kg of water from 3,000 kg of ethane gives a net gain of 2,400 kg."
+    },
+    {
+      "number": 44,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 45,
+      "answer": "B",
+      "explanation": "Sodium reacts with water to produce hydrogen gas, not oxygen."
+    },
+    {
+      "number": 46,
+      "answer": "B",
+      "explanation": "The dissolution of sodium nitrite in water is endothermic."
+    },
+    {
+      "number": 47,
+      "answer": "B",
+      "explanation": "The forward reaction is exothermic, so lowering the temperature shifts equilibrium toward copper(II) chloride."
+    },
+    {
+      "number": 48,
+      "answer": "A",
+      "explanation": "Powdered zinc has a larger exposed surface area, increasing the frequency of effective collisions with the acid."
+    },
+    {
+      "number": 49,
+      "answer": "A",
+      "explanation": "The acid is 0.010 mol and consumes 0.010 mol zinc, or 0.65 g; therefore 2.00 - 0.65 = 1.35 g remains."
+    },
+    {
+      "number": 50,
+      "answer": "C",
+      "explanation": "Aluminium nitrate requires three moles of hydroxide per mole; 0.003 mol requires 0.009 mol NaOH, leaving 0.006 mol or 40 cm3 in excess."
+    }
+  ]
+}

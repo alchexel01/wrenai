@@ -1,0 +1,250 @@
+{
+  "year": 1986,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "C",
+      "explanation": "Evaporation is the escape of liquid molecules from the liquid surface into the gaseous phase."
+    },
+    {
+      "number": 2,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 3,
+      "answer": "C",
+      "explanation": "The volume ratio is 2:1:1, so 10 cm3 HF reacts with 5 cm3 N2F2 to form 10 cm3 N2H2F4."
+    },
+    {
+      "number": 4,
+      "answer": "A",
+      "explanation": "5.85 g NaCl is 0.1 mol, containing 0.1 mol of chlorine atoms; this is 6.02 x 10^22 atoms."
+    },
+    {
+      "number": 5,
+      "answer": "B",
+      "explanation": "The reaction is Mg + 2HCl -> MgCl2 + H2; 0.125 mol HCl requires 0.0625 mol Mg, or 1.5 g."
+    },
+    {
+      "number": 6,
+      "answer": "C",
+      "explanation": "By Graham's law, methane diffuses at sqrt(32/16) times the oxygen rate; 80 cm3 therefore takes about 14 seconds."
+    },
+    {
+      "number": 7,
+      "answer": "D",
+      "explanation": "Graham's law gives gas molecular speed proportional to the inverse square root of its relative molecular mass."
+    },
+    {
+      "number": 8,
+      "answer": "B",
+      "explanation": "Atomic number 12 is magnesium, which loses two electrons to form Mg2+ and has valency 2."
+    },
+    {
+      "number": 9,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 10,
+      "answer": "D",
+      "explanation": "34.2 g sugar is 0.1 mol in 50 cm3; the concentration is 0.1/0.050 = 2.0 mol/dm3."
+    },
+    {
+      "number": 11,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 12,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 13,
+      "answer": "A",
+      "explanation": "NaHSO4 is an acid salt because it retains replaceable hydrogen from sulfuric acid."
+    },
+    {
+      "number": 14,
+      "answer": "D",
+      "explanation": "Sugar is a non-electrolyte and its aqueous solution does not ionize to conduct electricity."
+    },
+    {
+      "number": 15,
+      "answer": "A",
+      "explanation": "Anions migrate to the anode; sulfate ions and hydroxide ions are the anions present in aqueous potassium sulfate."
+    },
+    {
+      "number": 16,
+      "answer": "D",
+      "explanation": "Charge Q = It = 6.5 x 3600 = 2.34 x 10^4 coulombs."
+    },
+    {
+      "number": 17,
+      "answer": "D",
+      "explanation": "Zinc is oxidized to Zn2+ while hydrogen ions are reduced to hydrogen gas, so the reaction is redox."
+    },
+    {
+      "number": 18,
+      "answer": "A",
+      "explanation": "Manganese changes from +4 in MnO2 to +2 in MnCl2, gaining two electrons per manganese atom."
+    },
+    {
+      "number": 19,
+      "answer": "A",
+      "explanation": "0.002 mol of NH4OH releases 102 J, so the molar heat is 51 kJ/mol; neutralization is exothermic."
+    },
+    {
+      "number": 20,
+      "answer": "C",
+      "explanation": "There is one mole of gas on each side, so changing pressure does not shift the equilibrium."
+    },
+    {
+      "number": 21,
+      "answer": "C",
+      "explanation": "Air contains approximately 20% oxygen; 10 cm3 oxygen is present in about 50 cm3 of air."
+    },
+    {
+      "number": 22,
+      "answer": "E",
+      "explanation": "Magnesium reacts with steam to form magnesium oxide and hydrogen."
+    },
+    {
+      "number": 23,
+      "answer": "C",
+      "explanation": "Steam reacts with red-hot carbon to produce carbon monoxide and hydrogen, the water gas mixture."
+    },
+    {
+      "number": 24,
+      "answer": "C",
+      "explanation": "Na2CO3.10H2O is efflorescent, FeCl3 is deliquescent, and concentrated H2SO4 is hygroscopic."
+    },
+    {
+      "number": 25,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 26,
+      "answer": "B",
+      "explanation": "Combustion of petrol produces carbon monoxide, while sulfur in high-sulfur fuel is oxidized mainly to sulfur dioxide."
+    },
+    {
+      "number": 27,
+      "answer": "A",
+      "explanation": "Oxygen-demanding wastes consume dissolved oxygen during decomposition, depriving aquatic organisms of oxygen."
+    },
+    {
+      "number": 28,
+      "answer": "C",
+      "explanation": "Nitric oxide and sulfur dioxide can be further oxidized to nitrogen dioxide and sulfur trioxide respectively."
+    },
+    {
+      "number": 29,
+      "answer": "A",
+      "explanation": "Hydrogen sulfide contains hydrogen and sulfur and blackens lead ethanoate; chlorine bleaches moist litmus."
+    },
+    {
+      "number": 30,
+      "answer": "C",
+      "explanation": "Copper(II) sulfide is insoluble in dilute hydrochloric acid."
+    },
+    {
+      "number": 31,
+      "answer": "C",
+      "explanation": "Sunlight decomposes hypochlorous acid formed in chlorine water, releasing oxygen gas."
+    },
+    {
+      "number": 32,
+      "answer": "B",
+      "explanation": "Aluminium does not form a stable trioxocarbonate(IV) because its highly charged ion hydrolyses carbonate."
+    },
+    {
+      "number": 33,
+      "answer": "A",
+      "explanation": "NaHS reacts with NaOH to form sodium sulfide and water; acidification releases H2S, which reduces concentrated sulfuric acid to sulfur."
+    },
+    {
+      "number": 34,
+      "answer": "B",
+      "explanation": "Quicklime is used to dry ammonia because it removes water without reacting with the gas."
+    },
+    {
+      "number": 35,
+      "answer": "B",
+      "explanation": "Balancing gives 3Cu + 8HNO3 -> 3Cu(NO3)2 + 4H2O + 2NO."
+    },
+    {
+      "number": 36,
+      "answer": "B",
+      "explanation": "Alumina dissolves in aqueous sodium hydroxide while iron(III) oxide remains insoluble and can be filtered off."
+    },
+    {
+      "number": 38,
+      "answer": "C",
+      "explanation": "Zinc oxide is yellow when hot and white when cold."
+    },
+    {
+      "number": 39,
+      "answer": "C",
+      "explanation": "Potassium gives a lilac flame and sulfate ions form a white precipitate with acidified barium chloride."
+    },
+    {
+      "number": 40,
+      "answer": "D",
+      "explanation": "A highly reactive metal is extracted by electrolysis of its fused molten salt."
+    },
+    {
+      "number": 41,
+      "answer": "B",
+      "explanation": "The stated immediate colour discharge by glucose with the named chromate reagent is not the expected observation under the stated cold conditions."
+    },
+    {
+      "number": 42,
+      "answer": "B",
+      "explanation": "Lead tetraethyl was formerly used as an anti-knock additive in petrol."
+    },
+    {
+      "number": 43,
+      "answer": "B",
+      "explanation": "Palm oil reacts with potash to form soap and glycerol by saponification."
+    },
+    {
+      "number": 44,
+      "answer": "B",
+      "explanation": "C3H8O has three structural isomers: propan-1-ol, propan-2-ol and methoxyethane."
+    },
+    {
+      "number": 45,
+      "answer": "B",
+      "explanation": "Pent-2-enoic acid has the structure CH3CH2CH=CHCOOH, with the double bond between carbons 2 and 3 when numbered from the carboxyl carbon."
+    },
+    {
+      "number": 46,
+      "answer": "C",
+      "explanation": "Excess concentrated sulfuric acid dehydrates ethanol to ethene."
+    },
+    {
+      "number": 47,
+      "answer": "B",
+      "explanation": "Chlorination of methane produces chloromethane and progressively more chlorinated methanes, not ethyl chloride."
+    },
+    {
+      "number": 48,
+      "answer": "B",
+      "explanation": "An alkyl halide has the general formula CnH2n+1X."
+    },
+    {
+      "number": 49,
+      "answer": "B",
+      "explanation": "Nylon and rubber are both produced by polymerization."
+    },
+    {
+      "number": 50,
+      "answer": "B",
+      "explanation": "Starch is hydrolysed to sugars, which yeast ferments to produce ethyl alcohol."
+    }
+  ]
+}

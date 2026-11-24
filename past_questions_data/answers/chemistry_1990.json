@@ -1,0 +1,255 @@
+{
+  "year": 1990,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "C",
+      "explanation": "Dissolving sodium chloride in water does not form a new substance and is reversible by evaporation."
+    },
+    {
+      "number": 2,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 3,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 4,
+      "answer": "C",
+      "explanation": "One mole of any substance contains Avogadro's number of particles; 32 g of O2 equals 1 mole."
+    },
+    {
+      "number": 5,
+      "answer": "A",
+      "explanation": "Using V2 = V1 * (P1/P2) * (T2/T1), 146 * 0.971 * (273/291) gives 133 cm^3."
+    },
+    {
+      "number": 6,
+      "answer": "D",
+      "explanation": "Molar mass equals mass times (22400 / volume in cm^3), which gives 1.58 * 44.8 = 71."
+    },
+    {
+      "number": 7,
+      "answer": "D",
+      "explanation": "By Graham's law, lighter gases diffuse faster, so CO (28), H2S (34), NO2 (46), then SO2 (64)."
+    },
+    {
+      "number": 8,
+      "answer": "A",
+      "explanation": "Kinetic theory assumes gas molecules move in straight lines with perfectly elastic collisions and no net kinetic energy loss."
+    },
+    {
+      "number": 9,
+      "answer": "D",
+      "explanation": "Atom S has 19 protons and 20 neutrons (mass 39, between 30 and 40), odd atomic number 19, and forms a +1 ion."
+    },
+    {
+      "number": 10,
+      "answer": "B",
+      "explanation": "Valence indicates the combining capacity or number of bonds an atom can form."
+    },
+    {
+      "number": 11,
+      "answer": "A",
+      "explanation": "Ionization energy is the energy required to remove an electron from a gaseous atom to form a unipositive ion."
+    },
+    {
+      "number": 12,
+      "answer": "B",
+      "explanation": "Letting x be the fraction of Cl-37, 35(1 - x) + 37x = 35.5 gives x = 0.25, or 25%."
+    },
+    {
+      "number": 13,
+      "answer": "C",
+      "explanation": "5.02 g PbS (molar mass 239 g/mol) is 0.021 mol H2S or 0.47 dm^3 at STP, which is 4.70% of 10.0 dm^3."
+    },
+    {
+      "number": 14,
+      "answer": "B",
+      "explanation": "A hygroscopic solid absorbs moisture from the air and increases in mass without dissolving into a liquid."
+    },
+    {
+      "number": 15,
+      "answer": "C",
+      "explanation": "Using a mercury cathode in brine electrolysis can introduce mercury or mercury(II) chloride into the effluent."
+    },
+    {
+      "number": 16,
+      "answer": "C",
+      "explanation": "20 g CuSO4 (159.5 g/mol) is 0.1254 mol in 0.1 dm^3 of water, giving a solubility of about 1.25 mol/dm^3."
+    },
+    {
+      "number": 17,
+      "answer": "B",
+      "explanation": "Smoke is an aerosol consisting of fine solid or liquid particles dispersed in a gas."
+    },
+    {
+      "number": 18,
+      "answer": "B",
+      "explanation": "1.9 g Na2C2O4 (134 g/mol) is 0.0142 mol, requiring 0.0142 / 0.1 = 0.142 dm^3 or about 1.40 x 10^2 cm^3 of 0.1 M solution."
+    },
+    {
+      "number": 19,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 20,
+      "answer": "A",
+      "explanation": "[H+] = 10^(-pH) = 10^(-4.398), which equals 4.0 x 10^-5 mol/dm^3."
+    },
+    {
+      "number": 21,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 22,
+      "answer": "B",
+      "explanation": "10.8 g Ag is 0.1 mol (1 Faraday), which liberates 0.25 mol O2 or 5.6 dm^3 at STP (closest option is 5.50 dm^3)."
+    },
+    {
+      "number": 23,
+      "answer": "A",
+      "explanation": "0.4 F is four times 0.1 F, depositing 4 * 2.95 = 11.8 g of Ni, which is 11.8 / 58.7 = 0.20 mol."
+    },
+    {
+      "number": 24,
+      "answer": "B",
+      "explanation": "In dichromate (Cr2O7^2-), chromium has an oxidation state of +6 and is reduced to +3 in Cr^3+."
+    },
+    {
+      "number": 25,
+      "answer": "C",
+      "explanation": "Iodate (IO3^-) contains iodine in the +5 state which is reduced to 0 in I2, so IO3^- acts as the oxidizing agent."
+    },
+    {
+      "number": 26,
+      "answer": "C",
+      "explanation": "Enthalpy change is products minus reactants: -1670 - (-822) = -848 kJ."
+    },
+    {
+      "number": 27,
+      "answer": "A",
+      "explanation": "Zinc has a higher oxidation potential than iron and corrodes preferentially to protect the iron cathodically."
+    },
+    {
+      "number": 28,
+      "answer": "D",
+      "explanation": "Higher temperature (50 C) and powdered solid (larger surface area) both increase the rate of reaction."
+    },
+    {
+      "number": 29,
+      "answer": "B",
+      "explanation": "Since delta H is positive (+10 kJ), the reaction is endothermic and raising temperature shifts equilibrium forward to make more I2."
+    },
+    {
+      "number": 30,
+      "answer": "D",
+      "explanation": "Chlorine (molar mass 71 g/mol) is denser than air and is collected by upward displacement of air."
+    },
+    {
+      "number": 31,
+      "answer": "C",
+      "explanation": "Heating trioxonitrate(V) acid decomposes it to give NO2, O2, and H2O."
+    },
+    {
+      "number": 32,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 33,
+      "answer": "C",
+      "explanation": "Finely divided iron is used as the catalyst in the Haber process for manufacturing ammonia."
+    },
+    {
+      "number": 34,
+      "answer": "B",
+      "explanation": "An amphoteric oxide reacts with both acids and bases to form a salt and water only."
+    },
+    {
+      "number": 35,
+      "answer": "B",
+      "explanation": "Iron lies above hydrogen in the reactivity series and displaces hydrogen from steam or dilute acids."
+    },
+    {
+      "number": 36,
+      "answer": "C",
+      "explanation": "Incomplete combustion of coal in poor ventilation produces poisonous carbon monoxide (CO), causing suffocation."
+    },
+    {
+      "number": 37,
+      "answer": "D",
+      "explanation": "In iron extraction, calcium oxide combines with silica to form slag, mainly calcium trioxosilicate."
+    },
+    {
+      "number": 38,
+      "answer": "A",
+      "explanation": "Sodium hydroxide readily absorbs water vapour from the atmosphere."
+    },
+    {
+      "number": 39,
+      "answer": "D",
+      "explanation": "Copper compounds form coloured silicates used to impart colour to glass."
+    },
+    {
+      "number": 40,
+      "answer": "B",
+      "explanation": "Zinc carbonate decomposes to ZnO (yellow when hot, white when cold), which gives a white precipitate soluble in excess NaOH."
+    },
+    {
+      "number": 41,
+      "answer": "D",
+      "explanation": "There are four structural cycloalkane isomers with formula C5H10."
+    },
+    {
+      "number": 42,
+      "answer": "B",
+      "explanation": "Cis-2-butene has both methyl groups on the same side of the C=C double bond."
+    },
+    {
+      "number": 43,
+      "answer": "C",
+      "explanation": "Numbering the six-carbon chain to give the double bond the lowest locant gives 2,4-dimethylhex-3-ene."
+    },
+    {
+      "number": 44,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 45,
+      "answer": "C",
+      "explanation": "Alkanols are neutral to litmus and react with sodium metal to liberate hydrogen gas."
+    },
+    {
+      "number": 46,
+      "answer": "B",
+      "explanation": "A carboxylic acid reacting with NaOH to form a salt and water is a neutralization reaction."
+    },
+    {
+      "number": 47,
+      "answer": "D",
+      "explanation": "Alkanoic acids form dimers via two hydrogen bonds, making them less volatile than alkanols."
+    },
+    {
+      "number": 48,
+      "answer": "B",
+      "explanation": "The octane rating equals the percentage of iso-octane in the reference mixture, which is 55."
+    },
+    {
+      "number": 49,
+      "answer": "C",
+      "explanation": "Concentrated tetraoxosulphate(VI) acid dehydrates maltose, leaving black carbon (charcoal)."
+    },
+    {
+      "number": 50,
+      "answer": "A",
+      "explanation": "Trimerization/polymerization of ethyne yields benzene."
+    }
+  ]
+}

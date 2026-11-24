@@ -1,0 +1,250 @@
+{
+  "year": 1984,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "D",
+      "explanation": "Evaporation removes water from brine, leaving sodium chloride crystals."
+    },
+    {
+      "number": 2,
+      "answer": "D",
+      "explanation": "Hydrogen is the limiting gas: 20 cm3 H2 consumes 10 cm3 O2, leaving 10 cm3 oxygen after the water condenses."
+    },
+    {
+      "number": 3,
+      "answer": "D",
+      "explanation": "NH4NO2 has molar mass 64 g/mol; 3.20 g is 0.05 mol, producing 0.05 mol N2 or 1.12 dm3 at STP."
+    },
+    {
+      "number": 4,
+      "answer": "C",
+      "explanation": "Balancing gives MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O, so x = 4 and y = 2."
+    },
+    {
+      "number": 5,
+      "answer": "B",
+      "explanation": "One mole of NaOH is 40 g; dissolving this amount in approximately 1 dm3 of water gives a 1 M solution as intended by the option."
+    },
+    {
+      "number": 6,
+      "answer": "B",
+      "explanation": "Oxygen and copper do not react with water or steam under the stated conditions; zinc reacts with steam and bromine reacts with water."
+    },
+    {
+      "number": 7,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 8,
+      "answer": "E",
+      "explanation": "At the melting point, naphthalene molecules become mobile as the intermolecular forces holding the solid structure are overcome."
+    },
+    {
+      "number": 9,
+      "answer": "B",
+      "explanation": "Two grams of H2 and 16 g of O2 are each 1 mole, so they contain equal numbers of molecules."
+    },
+    {
+      "number": 10,
+      "answer": "B",
+      "explanation": "Lowering activation energy, raising temperature and powdering a solid reactant increase reaction rate."
+    },
+    {
+      "number": 11,
+      "answer": "D",
+      "explanation": "The balanced equation is 3H2SO4 + 2Al(OH)3 -> Al2(SO4)3 + 6H2O."
+    },
+    {
+      "number": 12,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 13,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 14,
+      "answer": "D",
+      "explanation": "Hydrogen peroxide reduces PbO2 to Pb2+ and is itself oxidized to oxygen, so it acts as the reducing agent."
+    },
+    {
+      "number": 15,
+      "answer": "C",
+      "explanation": "Iodide ions lose electrons to form iodine; this is oxidation."
+    },
+    {
+      "number": 16,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 17,
+      "answer": "D",
+      "explanation": "Neutralization of one mole of sulfuric acid by two moles of sodium hydroxide forms two moles of water, releasing about 114.6 kJ."
+    },
+    {
+      "number": 18,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 19,
+      "answer": "C",
+      "explanation": "Laboratory nitric acid is prepared by heating a nitrate such as sodium nitrate with concentrated sulfuric acid."
+    },
+    {
+      "number": 20,
+      "answer": "A",
+      "explanation": "Limewater is an aqueous solution of calcium hydroxide, Ca(OH)2."
+    },
+    {
+      "number": 21,
+      "answer": "E",
+      "explanation": "The existence of an element in different structural forms with similar chemical properties is allotropy."
+    },
+    {
+      "number": 22,
+      "answer": "C",
+      "explanation": "Sulfur burns in air with a characteristic blue flame."
+    },
+    {
+      "number": 23,
+      "answer": "B",
+      "explanation": "Carbon monoxide is not readily oxidized by air at room temperature; the reaction requires suitable conditions."
+    },
+    {
+      "number": 24,
+      "answer": "D",
+      "explanation": "Zinc oxide reacts with both an acid oxide and a basic oxide, showing that it is amphoteric."
+    },
+    {
+      "number": 25,
+      "answer": "D",
+      "explanation": "Carbon monoxide is a neutral oxide because it is neither acidic nor basic."
+    },
+    {
+      "number": 26,
+      "answer": "A",
+      "explanation": "Ammonia is oxidized to nitrogen while chlorine is reduced to chloride, so ammonia acts as the reducing agent."
+    },
+    {
+      "number": 27,
+      "answer": "C",
+      "explanation": "Finely divided iron increases the rate of the Haber process without changing its equilibrium position; it is a catalyst."
+    },
+    {
+      "number": 28,
+      "answer": "D",
+      "explanation": "The empirical formula from the percentage composition is C5H7NO2, whose molar mass is 113, twice the vapour density of 56.5."
+    },
+    {
+      "number": 29,
+      "answer": "D",
+      "explanation": "Each carbon atom in ethyne forms two regions of electron density and is sp-hybridized."
+    },
+    {
+      "number": 30,
+      "answer": "D",
+      "explanation": "Cracking breaks larger hydrocarbon molecules into smaller, lower-boiling molecules."
+    },
+    {
+      "number": 31,
+      "answer": "E",
+      "explanation": "The displayed structure is CH3CH2COOH, which is propanoic acid."
+    },
+    {
+      "number": 32,
+      "answer": "B",
+      "explanation": "Alkaline hydrolysis of fats and oils produces soap salts and glycerol."
+    },
+    {
+      "number": 33,
+      "answer": "A",
+      "explanation": "A carboxylic acid contains the -COOH functional group, represented by RCOOH."
+    },
+    {
+      "number": 34,
+      "answer": "E",
+      "explanation": "Calcium carbide reacts with water to produce ethyne specifically, not any alkyne."
+    },
+    {
+      "number": 35,
+      "answer": "E",
+      "explanation": "Nitric acid is an oxidizing acid and does not generally liberate hydrogen when it reacts with magnesium."
+    },
+    {
+      "number": 36,
+      "answer": "D",
+      "explanation": "Charge required is proportional to valency divided by molar mass; depositing 10 g Al costs 10 × (3/27)/(2/24) × N5 = N66.67."
+    },
+    {
+      "number": 37,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 38,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 39,
+      "answer": "D",
+      "explanation": "Heated phosphorus removes oxygen by reacting with it to form phosphorus oxide, leaving nitrogen."
+    },
+    {
+      "number": 40,
+      "answer": "C",
+      "explanation": "Hard water reacts with soap to form an insoluble scum, mainly calcium or magnesium salts of fatty acids."
+    },
+    {
+      "number": 41,
+      "answer": "A",
+      "explanation": "Sodium hydroxide pellets absorb moisture and eventually dissolve in it, so they are deliquescent."
+    },
+    {
+      "number": 42,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 43,
+      "answer": "B",
+      "explanation": "Alkanols have the general molecular formula CnH2n+2O."
+    },
+    {
+      "number": 44,
+      "answer": "D",
+      "explanation": "Alkanes react with chlorine in bright sunlight by substitution of hydrogen atoms by chlorine atoms."
+    },
+    {
+      "number": 45,
+      "answer": "C",
+      "explanation": "Concentrated sulfuric acid catalyses the acid-catalysed esterification of ethanoic acid with ethanol."
+    },
+    {
+      "number": 46,
+      "answer": "C",
+      "explanation": "A sea shell contains calcium carbonate, which reacts with hydrochloric acid to release carbon dioxide."
+    },
+    {
+      "number": 48,
+      "answer": "A",
+      "explanation": "Zn2+ forms a white hydroxide precipitate that dissolves in excess sodium hydroxide and excess ammonia."
+    },
+    {
+      "number": 49,
+      "answer": "D",
+      "explanation": "The longest chain has four carbon atoms with a methyl substituent at carbon 2, giving 2-methylbutane."
+    },
+    {
+      "number": 50,
+      "answer": "B",
+      "explanation": "0.500 dm3 of 0.5 M H2SO4 is 0.25 mol and produces 0.50 mol H2, equivalent to 11.2 dm3 at STP."
+    }
+  ]
+}
