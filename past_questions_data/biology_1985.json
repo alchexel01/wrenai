@@ -478,16 +478,14 @@
    "B": "Liver",
    "C": "Pancreas",
    "D": "Spleen",
-   "E": "Stomach. Use thediagrambelow to answer questions 26 and27"
+   "E": "Stomach."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1985_p9_1.png",
-  "images": [
-   "biology/1985_p9_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1985-26",
@@ -504,10 +502,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1985_p9_1.png",
+  "images": [
+   "biology/1985_p9_1.png"
+  ]
  },
  {
   "id": "biology-1985-27",
@@ -524,10 +524,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1985_p9_1.png",
+  "images": [
+   "biology/1985_p9_1.png"
+  ]
  },
  {
   "id": "biology-1985-28",

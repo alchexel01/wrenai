@@ -566,16 +566,14 @@
    "A": "response to light stimulus",
    "B": "non-directional",
    "C": "directional",
-   "D": "response to internal stimulus Use the figure below to answer questions 34 to 36 Vertical section of a maize grain"
+   "D": "response to internal stimulus"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1986_p11_1.png",
-  "images": [
-   "biology/1986_p11_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1986-34",
@@ -591,10 +589,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1986_p11_1.png",
+  "images": [
+   "biology/1986_p11_1.png"
+  ]
  },
  {
   "id": "biology-1986-35",
@@ -610,10 +610,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1986_p11_1.png",
+  "images": [
+   "biology/1986_p11_1.png"
+  ]
  },
  {
   "id": "biology-1986-36",
@@ -629,10 +631,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1986_p11_1.png",
+  "images": [
+   "biology/1986_p11_1.png"
+  ]
  },
  {
   "id": "biology-1986-37",

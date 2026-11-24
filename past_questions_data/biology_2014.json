@@ -86,16 +86,14 @@
   "options": {
    "A": "Heart",
    "C": "Euglena",
-   "D": "Hydra Use the diagram below to answer questions 6 and 7"
+   "D": "Hydra"
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2014_p26_2.png",
-  "images": [
-   "biology/2014_p26_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2014-6",
@@ -111,10 +109,12 @@
   },
   "answer": "A",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2014_p26_2.png",
+  "images": [
+   "biology/2014_p26_2.png"
+  ]
  },
  {
   "id": "biology-2014-7",
@@ -130,10 +130,12 @@
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2014_p26_2.png",
+  "images": [
+   "biology/2014_p26_2.png"
+  ]
  },
  {
   "id": "biology-2014-8",
@@ -202,16 +204,14 @@
    "A": "Elephant",
    "B": "Fish",
    "C": "Antelope",
-   "D": "Bird Use the diagram below to answer questions 12 and 13"
+   "D": "Bird"
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2014_p27_1.png",
-  "images": [
-   "biology/2014_p27_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2014-12",
@@ -227,10 +227,12 @@
   },
   "answer": "C",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2014_p27_1.png",
+  "images": [
+   "biology/2014_p27_1.png"
+  ]
  },
  {
   "id": "biology-2014-13",
@@ -246,10 +248,12 @@
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2014_p27_1.png",
+  "images": [
+   "biology/2014_p27_1.png"
+  ]
  },
  {
   "id": "biology-2014-14",

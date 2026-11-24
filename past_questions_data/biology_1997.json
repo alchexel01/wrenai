@@ -206,16 +206,14 @@
   "options": {
    "A": "formation of pigments and enzymes B . production of energy and hormones",
    "C": "manufacture of carbohydrates",
-   "D": "manufacture of proteins. Use the diagram below to answer questions 14 and 15."
+   "D": "manufacture of proteins."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1997_p36_1.png",
-  "images": [
-   "biology/1997_p36_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1997-14",
@@ -226,10 +224,12 @@
   "options": {},
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1997_p36_1.png",
+  "images": [
+   "biology/1997_p36_1.png"
+  ]
  },
  {
   "id": "biology-1997-16",
@@ -388,16 +388,14 @@
    "A": "Mammals",
    "B": "Fishes.",
    "C": "Amphibians.",
-   "D": "Reptiles. Use the diagram below to answer questions 26 and 27."
+   "D": "Reptiles."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1997_p36_2.png",
-  "images": [
-   "biology/1997_p36_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1997-26",
@@ -412,10 +410,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1997_p36_2.png",
+  "images": [
+   "biology/1997_p36_2.png"
+  ]
  },
  {
   "id": "biology-1997-28",

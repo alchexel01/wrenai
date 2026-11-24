@@ -9,16 +9,14 @@
    "A": "Type Green",
    "B": "Type Purple",
    "C": "Type Red",
-   "D": "Type Yellow Use the diagram below to answer question 2 and 3"
+   "D": "Type Yellow"
   },
   "answer": "C",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2012_p14_1.png",
-  "images": [
-   "biology/2012_p14_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2012-2",
@@ -34,10 +32,12 @@
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2012_p14_1.png",
+  "images": [
+   "biology/2012_p14_1.png"
+  ]
  },
  {
   "id": "biology-2012-3",
@@ -53,10 +53,12 @@
   },
   "answer": "C",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2012_p14_1.png",
+  "images": [
+   "biology/2012_p14_1.png"
+  ]
  },
  {
   "id": "biology-2012-4",
@@ -315,16 +317,14 @@
    "A": "Glucose",
    "B": "Sucrose",
    "C": "Maltose",
-   "D": "Cellulose Use the diagram below to answer this question 19 and 20."
+   "D": "Cellulose"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2012_p15_1.png",
-  "images": [
-   "biology/2012_p15_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2012-19",
@@ -340,10 +340,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2012_p15_1.png",
+  "images": [
+   "biology/2012_p15_1.png"
+  ]
  },
  {
   "id": "biology-2012-20",
@@ -359,10 +361,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2012_p15_1.png",
+  "images": [
+   "biology/2012_p15_1.png"
+  ]
  },
  {
   "id": "biology-2012-21",
@@ -677,16 +681,14 @@
    "A": "gonorrhoea and poliomyelitis",
    "B": "typhoid and syphilis",
    "C": "tuberculosis and cholera",
-   "D": "typhoid and cholera Use the diagram below to answer question 38 and 39."
+   "D": "typhoid and cholera"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2012_p17_1.png",
-  "images": [
-   "biology/2012_p17_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2012-38",
@@ -702,10 +704,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2012_p17_1.png",
+  "images": [
+   "biology/2012_p17_1.png"
+  ]
  },
  {
   "id": "biology-2012-39",
@@ -721,10 +725,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2012_p17_1.png",
+  "images": [
+   "biology/2012_p17_1.png"
+  ]
  },
  {
   "id": "biology-2012-40",
@@ -774,16 +780,14 @@
    "A": "adenine → thymine and guanine → cytosine",
    "B": "adenine → guanine and thymine → cytosine",
    "C": "adenine → cytosine and guanine → thymine",
-   "D": "adenine → adenine and cytosine → cytosine Use the diagram above to answer this question 44 and 45"
+   "D": "adenine → adenine and cytosine → cytosine"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2012_p17_2.png",
-  "images": [
-   "biology/2012_p17_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2012-44",
@@ -799,10 +803,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2012_p17_2.png",
+  "images": [
+   "biology/2012_p17_2.png"
+  ]
  },
  {
   "id": "biology-2012-45",
@@ -817,10 +823,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2012_p17_2.png",
+  "images": [
+   "biology/2012_p17_2.png"
+  ]
  },
  {
   "id": "biology-2012-46",

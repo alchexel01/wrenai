@@ -123,16 +123,14 @@
    "A": "Paramecium",
    "B": "Volvox",
    "C": "Amoeba",
-   "D": "Chlamydomonas Use the diagram below to answer questions 10 and 11"
+   "D": "Chlamydomonas"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2001_p46_2.png",
-  "images": [
-   "biology/2001_p46_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2001-10",
@@ -146,10 +144,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2001_p46_2.png",
+  "images": [
+   "biology/2001_p46_2.png"
+  ]
  },
  {
   "id": "biology-2001-11",
@@ -165,10 +165,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2001_p46_2.png",
+  "images": [
+   "biology/2001_p46_2.png"
+  ]
  },
  {
   "id": "biology-2001-12",
@@ -199,16 +201,14 @@
    "A": "heart",
    "B": "liver",
    "C": "lung",
-   "D": "kidney Use the diagram below to answer questions 14 and 15"
+   "D": "kidney"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2001_p46_1.png",
-  "images": [
-   "biology/2001_p46_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2001-14",
@@ -224,10 +224,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2001_p46_1.png",
+  "images": [
+   "biology/2001_p46_1.png"
+  ]
  },
  {
   "id": "biology-2001-15",
@@ -243,10 +245,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2001_p46_1.png",
+  "images": [
+   "biology/2001_p46_1.png"
+  ]
  },
  {
   "id": "biology-2001-16",
@@ -334,16 +338,14 @@
    "A": "vascular bundles",
    "B": "cambium cells",
    "C": "palisade tissue",
-   "D": "spongy mesophyll Use the diagram below to answer questions 22 and 23"
+   "D": "spongy mesophyll"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2001_p46_3.png",
-  "images": [
-   "biology/2001_p46_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2001-22",
@@ -359,10 +361,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2001_p46_3.png",
+  "images": [
+   "biology/2001_p46_3.png"
+  ]
  },
  {
   "id": "biology-2001-23",
@@ -378,10 +382,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2001_p46_3.png",
+  "images": [
+   "biology/2001_p46_3.png"
+  ]
  },
  {
   "id": "biology-2001-24",
@@ -393,16 +399,14 @@
    "A": "Galactose",
    "B": "Starch",
    "C": "Sucrose",
-   "D": "Glucose Use the diagram below to answer question 25 and 26"
+   "D": "Glucose"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2001_p46_4.png",
-  "images": [
-   "biology/2001_p46_4.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2001-25",
@@ -418,10 +422,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2001_p46_4.png",
+  "images": [
+   "biology/2001_p46_4.png"
+  ]
  },
  {
   "id": "biology-2001-26",
@@ -437,10 +443,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2001_p46_4.png",
+  "images": [
+   "biology/2001_p46_4.png"
+  ]
  },
  {
   "id": "biology-2001-28",

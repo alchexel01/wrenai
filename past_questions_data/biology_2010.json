@@ -85,16 +85,14 @@
    "A": "toads",
    "B": "snails",
    "C": "earthworms",
-   "D": "birds Use the diagram above to answer this question 6 and 7"
+   "D": "birds"
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2010_p2_1.png",
-  "images": [
-   "biology/2010_p2_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2010-6",
@@ -110,10 +108,12 @@
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2010_p2_1.png",
+  "images": [
+   "biology/2010_p2_1.png"
+  ]
  },
  {
   "id": "biology-2010-7",
@@ -129,10 +129,12 @@
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2010_p2_1.png",
+  "images": [
+   "biology/2010_p2_1.png"
+  ]
  },
  {
   "id": "biology-2010-8",
@@ -144,16 +146,14 @@
    "A": "algae",
    "B": "monera",
    "C": "fungi",
-   "D": "viruses Use the diagram below to answer this question 9 and 10."
+   "D": "viruses"
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2010_p2_2.png",
-  "images": [
-   "biology/2010_p2_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2010-9",
@@ -169,10 +169,12 @@
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2010_p2_2.png",
+  "images": [
+   "biology/2010_p2_2.png"
+  ]
  },
  {
   "id": "biology-2010-10",
@@ -187,10 +189,12 @@
   },
   "answer": "A",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2010_p2_2.png",
+  "images": [
+   "biology/2010_p2_2.png"
+  ]
  },
  {
   "id": "biology-2010-11",
@@ -202,16 +206,14 @@
    "A": "the epidermis is completely encircled by the cortex",
    "B": "the xylem is more interiorly located than the phloem",
    "C": "the cambium lies between the cortex and the vascular bundles",
-   "D": "the vascular bundles are randomly scattered within the cortex Use the diagram above to answer this question 12 and 13"
+   "D": "the vascular bundles are randomly scattered within the cortex"
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2010_p3_1.png",
-  "images": [
-   "biology/2010_p3_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2010-12",
@@ -227,10 +229,12 @@
   },
   "answer": "A",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2010_p3_1.png",
+  "images": [
+   "biology/2010_p3_1.png"
+  ]
  },
  {
   "id": "biology-2010-13",
@@ -246,10 +250,12 @@
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2010_p3_1.png",
+  "images": [
+   "biology/2010_p3_1.png"
+  ]
  },
  {
   "id": "biology-2010-14",
@@ -770,16 +776,14 @@
    "A": "taste bud variation",
    "B": "discontinuous variation",
    "C": "morphological variation",
-   "D": "continuous variation Use the diagram below to answer questions 42 and 43"
+   "D": "continuous variation"
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2010_p5_1.png",
-  "images": [
-   "biology/2010_p5_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2010-42",
@@ -795,10 +799,12 @@
   },
   "answer": "A",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2010_p5_1.png",
+  "images": [
+   "biology/2010_p5_1.png"
+  ]
  },
  {
   "id": "biology-2010-43",
@@ -814,10 +820,12 @@
   },
   "answer": "A",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2010_p5_1.png",
+  "images": [
+   "biology/2010_p5_1.png"
+  ]
  },
  {
   "id": "biology-2010-44",

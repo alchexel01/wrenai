@@ -47,16 +47,14 @@
    "A": "regulates the amount of energy in the cell",
    "B": "suspends all cell organelles",
    "C": "is the outermost part of the cell",
-   "D": "is solely responsible for cell division Use the diagram below to answer question 4 to 6"
+   "D": "is solely responsible for cell division"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2018_p49_1.png",
-  "images": [
-   "biology/2018_p49_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2018-4",
@@ -72,10 +70,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2018_p49_1.png",
+  "images": [
+   "biology/2018_p49_1.png"
+  ]
  },
  {
   "id": "biology-2018-5",
@@ -91,10 +91,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2018_p49_1.png",
+  "images": [
+   "biology/2018_p49_1.png"
+  ]
  },
  {
   "id": "biology-2018-6",
@@ -110,10 +112,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2018_p49_1.png",
+  "images": [
+   "biology/2018_p49_1.png"
+  ]
  },
  {
   "id": "biology-2018-7",
@@ -258,16 +262,14 @@
    "A": "possess values at internals throughout their length.",
    "B": "have thick muscular and elastic walls",
    "C": "carry blood away from the heart",
-   "D": "transport oxygenated blood with the exception of the pulmonary artery. The graph below shows the results of a laboratory investigation which measured the body temperatures of a lizard and a bird under changing artificial conditions. Use to answer questions 15 and 16."
+   "D": "transport oxygenated blood with the exception of the pulmonary artery. The graph below shows the results of a laboratory investigation which measured the body temperatures of a lizard and a bird under changing artificial conditions."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2018_p50_1.png",
-  "images": [
-   "biology/2018_p50_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2018-15",
@@ -283,10 +285,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2018_p50_1.png",
+  "images": [
+   "biology/2018_p50_1.png"
+  ]
  },
  {
   "id": "biology-2018-16",
@@ -302,10 +306,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2018_p50_1.png",
+  "images": [
+   "biology/2018_p50_1.png"
+  ]
  },
  {
   "id": "biology-2018-17",
@@ -619,16 +625,14 @@
    "A": "fossil records",
    "B": "comparative anatomy",
    "C": "mutation of genes",
-   "D": "geographical distribution of organisms Use the diagram below to answer question 36 and 37."
+   "D": "geographical distribution of organisms"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2018_p52_1.png",
-  "images": [
-   "biology/2018_p52_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2018-36",
@@ -644,10 +648,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2018_p52_1.png",
+  "images": [
+   "biology/2018_p52_1.png"
+  ]
  },
  {
   "id": "biology-2018-37",
@@ -663,10 +669,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2018_p52_1.png",
+  "images": [
+   "biology/2018_p52_1.png"
+  ]
  },
  {
   "id": "biology-2018-38",

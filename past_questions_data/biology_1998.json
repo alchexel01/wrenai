@@ -64,16 +64,14 @@
    "A": "radula",
    "B": "ctendium",
    "C": "pneumostome",
-   "D": "mantle Use the diagram below to answer questions 5 and 6."
+   "D": "mantle"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1998_p38_1.png",
-  "images": [
-   "biology/1998_p38_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1998-5",
@@ -89,10 +87,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1998_p38_1.png",
+  "images": [
+   "biology/1998_p38_1.png"
+  ]
  },
  {
   "id": "biology-1998-6",
@@ -108,10 +108,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1998_p38_1.png",
+  "images": [
+   "biology/1998_p38_1.png"
+  ]
  },
  {
   "id": "biology-1998-7",
@@ -359,16 +361,14 @@
    "A": "Protection",
    "B": "Respiration",
    "C": "Transportation",
-   "D": "Support. Use the diagram below to answer question 23 and 22."
+   "D": "Support."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1998_p39_1.png",
-  "images": [
-   "biology/1998_p39_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1998-22",
@@ -384,10 +384,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1998_p39_1.png",
+  "images": [
+   "biology/1998_p39_1.png"
+  ]
  },
  {
   "id": "biology-1998-23",
@@ -403,10 +405,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1998_p39_1.png",
+  "images": [
+   "biology/1998_p39_1.png"
+  ]
  },
  {
   "id": "biology-1998-24",
@@ -639,16 +643,14 @@
   "options": {
    "A": "white blood cells from two individuals meet",
    "B": "two different antibodies meet",
-   "C": "two different antigens meet D. contrasting antigens and antibodies meet. Use the diagram below to answer question 37 and 38. The alternate depletion patterns of mineral resources over time."
+   "C": "two different antigens meet D. contrasting antigens and antibodies meet."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1998_p39_2.png",
-  "images": [
-   "biology/1998_p39_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1998-37",
@@ -659,10 +661,12 @@
   "options": {},
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1998_p39_2.png",
+  "images": [
+   "biology/1998_p39_2.png"
+  ]
  },
  {
   "id": "biology-1998-38",
@@ -678,10 +682,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1998_p39_2.png",
+  "images": [
+   "biology/1998_p39_2.png"
+  ]
  },
  {
   "id": "biology-1998-39",
@@ -782,16 +788,14 @@
   "question": "The group of insects that have mouth parts adapted for both piercing and sucking is",
   "options": {
    "A": "cockroaches, aphids and mosquitoes",
-   "B": "aphids, houseflies and moths C. mosquitoes, tsetse flies and aphids D. aphids, beetles and grasshoppers. Use the diagram below to answer questions 45 and 46."
+   "B": "aphids, houseflies and moths C. mosquitoes, tsetse flies and aphids D. aphids, beetles and grasshoppers."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1998_p40_1.png",
-  "images": [
-   "biology/1998_p40_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1998-45",
@@ -802,10 +806,12 @@
   "options": {},
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1998_p40_1.png",
+  "images": [
+   "biology/1998_p40_1.png"
+  ]
  },
  {
   "id": "biology-1998-46",
@@ -821,10 +827,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1998_p40_1.png",
+  "images": [
+   "biology/1998_p40_1.png"
+  ]
  },
  {
   "id": "biology-1998-47",

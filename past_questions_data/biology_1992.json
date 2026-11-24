@@ -99,16 +99,14 @@
   "question": "The flowering period of plants in a habitat is determined by the",
   "options": {
    "A": "duration of sunlight",
-   "B": "intensity and duration of Use the figure below to answer question 7 and 8."
+   "B": "intensity and duration of"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1992_p25_1.png",
-  "images": [
-   "biology/1992_p25_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1992-7",
@@ -124,10 +122,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1992_p25_1.png",
+  "images": [
+   "biology/1992_p25_1.png"
+  ]
  },
  {
   "id": "biology-1992-8",
@@ -143,10 +143,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1992_p25_1.png",
+  "images": [
+   "biology/1992_p25_1.png"
+  ]
  },
  {
   "id": "biology-1992-9",
@@ -402,16 +404,14 @@
   "question": "Which enzymes are contained in the pancreatic juice?",
   "options": {
    "A": "Ptyalin, lipase and pepsin",
-   "B": "Maltase, erepsin and trypsin. C. Rennin, surcrase and lipase D. Amylase., lipase and trypsin. Use the figure below to answer questions 23 and 24."
+   "B": "Maltase, erepsin and trypsin. C. Rennin, surcrase and lipase D. Amylase., lipase and trypsin."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1992_p25_2.png",
-  "images": [
-   "biology/1992_p25_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1992-23",
@@ -427,10 +427,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1992_p25_2.png",
+  "images": [
+   "biology/1992_p25_2.png"
+  ]
  },
  {
   "id": "biology-1992-24",
@@ -444,10 +446,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1992_p25_2.png",
+  "images": [
+   "biology/1992_p25_2.png"
+  ]
  },
  {
   "id": "biology-1992-25",
@@ -511,16 +515,14 @@
    "A": "false",
    "B": "multiple",
    "C": "aggregate",
-   "D": "parthenocarpic. Use the figure below to answer question 29 and 30"
+   "D": "parthenocarpic."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1992_p26_1.png",
-  "images": [
-   "biology/1992_p26_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1992-29",
@@ -536,10 +538,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1992_p26_1.png",
+  "images": [
+   "biology/1992_p26_1.png"
+  ]
  },
  {
   "id": "biology-1992-30",
@@ -555,10 +559,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1992_p26_1.png",
+  "images": [
+   "biology/1992_p26_1.png"
+  ]
  },
  {
   "id": "biology-1992-31",
@@ -627,16 +633,14 @@
    "A": "smaller and more numerous along the food chain",
    "B": "equal in number and size along the food chain",
    "C": "larger and fewer along the food chain",
-   "D": "parasitized along the food chain as consumers get bigger. Use the figure below to answer questions 35 and 36."
+   "D": "parasitized along the food chain as consumers get bigger."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1992_p26_2.png",
-  "images": [
-   "biology/1992_p26_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1992-35",
@@ -652,10 +656,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1992_p26_2.png",
+  "images": [
+   "biology/1992_p26_2.png"
+  ]
  },
  {
   "id": "biology-1992-36",
@@ -666,10 +672,12 @@
   "options": {},
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1992_p26_2.png",
+  "images": [
+   "biology/1992_p26_2.png"
+  ]
  },
  {
   "id": "biology-1992-37",

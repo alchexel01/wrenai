@@ -80,16 +80,14 @@
    "A": "Bacteria ferns algae mosses seed plant.",
    "B": "Bacteria ferns mosses algae seed plants",
    "C": "Bacteria algae mosses ferns seed plants",
-   "D": "Bacteria mosses algae ferns seed plants. Use the diagram below to answer questions 7 and 8. Head of a cockroach"
+   "D": "Bacteria mosses algae ferns seed plants."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1994_p31_2.png",
-  "images": [
-   "biology/1994_p31_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1994-7",
@@ -105,10 +103,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1994_p31_2.png",
+  "images": [
+   "biology/1994_p31_2.png"
+  ]
  },
  {
   "id": "biology-1994-8",
@@ -124,10 +124,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1994_p31_2.png",
+  "images": [
+   "biology/1994_p31_2.png"
+  ]
  },
  {
   "id": "biology-1994-9",
@@ -158,16 +160,14 @@
    "A": "The possession of a streamlined shape",
    "B": "The presence of overlapping scales",
    "C": "The covering of the body by thin film of shine.",
-   "D": "The possession of a caudalfin. Use the diagram below to answer questions 11 and 12"
+   "D": "The possession of a caudalfin."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1994_p31_1.png",
-  "images": [
-   "biology/1994_p31_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1994-11",
@@ -183,10 +183,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1994_p31_1.png",
+  "images": [
+   "biology/1994_p31_1.png"
+  ]
  },
  {
   "id": "biology-1994-12",
@@ -197,10 +199,12 @@
   "options": {},
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1994_p31_1.png",
+  "images": [
+   "biology/1994_p31_1.png"
+  ]
  },
  {
   "id": "biology-1994-13",
@@ -306,16 +310,14 @@
    "A": "osmosis",
    "B": "plasmolysis",
    "C": "turgidity",
-   "D": "haemolysis. Use the diagram below to answer questions 19 and 20."
+   "D": "haemolysis."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1994_p31_3.png",
-  "images": [
-   "biology/1994_p31_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1994-19",
@@ -329,10 +331,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1994_p31_3.png",
+  "images": [
+   "biology/1994_p31_3.png"
+  ]
  },
  {
   "id": "biology-1994-20",
@@ -348,10 +352,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1994_p31_3.png",
+  "images": [
+   "biology/1994_p31_3.png"
+  ]
  },
  {
   "id": "biology-1994-21",
@@ -382,16 +388,14 @@
    "A": "Carbondioxide",
    "B": "Alkaloids.",
    "C": "Tannins",
-   "D": "Anthocyanins. Use the diagram below to answer questions 23 and 24."
+   "D": "Anthocyanins."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1994_p32_2.png",
-  "images": [
-   "biology/1994_p32_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1994-23",
@@ -407,10 +411,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1994_p32_2.png",
+  "images": [
+   "biology/1994_p32_2.png"
+  ]
  },
  {
   "id": "biology-1994-24",
@@ -426,10 +432,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1994_p32_2.png",
+  "images": [
+   "biology/1994_p32_2.png"
+  ]
  },
  {
   "id": "biology-1994-25",

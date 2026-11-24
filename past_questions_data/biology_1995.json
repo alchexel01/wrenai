@@ -44,16 +44,14 @@
   "question": "One common characteristic of fungi, algae, mosses and ferns is that they",
   "options": {
    "A": "show alternation of generations",
-   "B": "reproduce sexually by conjugation C. produce spores that are dispersed D. possess chlorophyll II in their tissues. Use the diagram below to answer question 4 and 5"
+   "B": "reproduce sexually by conjugation C. produce spores that are dispersed D. possess chlorophyll II in their tissues."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1995_p33_1.png",
-  "images": [
-   "biology/1995_p33_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1995-4",
@@ -68,10 +66,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1995_p33_1.png",
+  "images": [
+   "biology/1995_p33_1.png"
+  ]
  },
  {
   "id": "biology-1995-5",
@@ -87,10 +87,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1995_p33_1.png",
+  "images": [
+   "biology/1995_p33_1.png"
+  ]
  },
  {
   "id": "biology-1995-6",
@@ -365,16 +367,14 @@
   "options": {
    "A": "non-illuminated side of the shoot",
    "B": "illuminated side of the shoot",
-   "C": "upper side of the shoot D. lower side of the shoot. Use the diagram below to answer questions 21 and 22."
+   "C": "upper side of the shoot D. lower side of the shoot."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1995_p34_1.png",
-  "images": [
-   "biology/1995_p34_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1995-21",
@@ -390,10 +390,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1995_p34_1.png",
+  "images": [
+   "biology/1995_p34_1.png"
+  ]
  },
  {
   "id": "biology-1995-23",
@@ -479,16 +481,14 @@
    "A": "adrenal gland",
    "B": "thyroid gland",
    "C": "mammary gland",
-   "D": "parathyroid gland. Use the diagram below to answer questions 28 and 29"
+   "D": "parathyroid gland."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1995_p34_2.png",
-  "images": [
-   "biology/1995_p34_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1995-28",
@@ -504,10 +504,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1995_p34_2.png",
+  "images": [
+   "biology/1995_p34_2.png"
+  ]
  },
  {
   "id": "biology-1995-29",
@@ -523,10 +525,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1995_p34_2.png",
+  "images": [
+   "biology/1995_p34_2.png"
+  ]
  },
  {
   "id": "biology-1995-30",

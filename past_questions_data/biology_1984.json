@@ -393,16 +393,14 @@
    "B": "hooks and suckers",
    "C": "rostellum and suckers",
    "D": "young proglottis and neck",
-   "E": "rostellum, hooks and suckers. Use Fig 2 to answer questions 24 - 25 Fig 2. transverse section of a fowl’s egg"
+   "E": "rostellum, hooks and suckers."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1984_p6_2.png",
-  "images": [
-   "biology/1984_p6_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1984-24",
@@ -419,10 +417,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1984_p6_2.png",
+  "images": [
+   "biology/1984_p6_2.png"
+  ]
  },
  {
   "id": "biology-1984-25",
@@ -439,10 +439,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1984_p6_2.png",
+  "images": [
+   "biology/1984_p6_2.png"
+  ]
  },
  {
   "id": "biology-1984-26",

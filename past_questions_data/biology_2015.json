@@ -617,16 +617,14 @@
    "A": "IV",
    "B": "I",
    "C": "II",
-   "D": "III Use the diagram below to answer questions 35 and 36."
+   "D": "III"
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2015_p35_1.png",
-  "images": [
-   "biology/2015_p35_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2015-35",
@@ -642,10 +640,12 @@
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2015_p35_1.png",
+  "images": [
+   "biology/2015_p35_1.png"
+  ]
  },
  {
   "id": "biology-2015-36",
@@ -665,7 +665,8 @@
   "options_are_images": false,
   "image": "biology/2015_p35_2.png",
   "images": [
-   "biology/2015_p35_2.png"
+   "biology/2015_p35_2.png",
+   "biology/2015_p35_1.png"
   ]
  },
  {
@@ -718,16 +719,14 @@
    "A": "IV",
    "B": "I",
    "C": "II",
-   "D": "III Use the diagram below to answer questions 41 and 42."
+   "D": "III"
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2015_p35_3.png",
-  "images": [
-   "biology/2015_p35_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2015-41",
@@ -743,10 +742,12 @@
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2015_p35_3.png",
+  "images": [
+   "biology/2015_p35_3.png"
+  ]
  },
  {
   "id": "biology-2015-42",
@@ -766,7 +767,8 @@
   "options_are_images": false,
   "image": "biology/2015_p36_1.png",
   "images": [
-   "biology/2015_p36_1.png"
+   "biology/2015_p36_1.png",
+   "biology/2015_p35_3.png"
   ]
  },
  {
@@ -855,16 +857,14 @@
    "A": "I",
    "B": "IV",
    "C": "III",
-   "D": "II Use the diagram below to answer questions 48 and 49."
+   "D": "II"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2015_p36_2.png",
-  "images": [
-   "biology/2015_p36_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2015-48",
@@ -880,10 +880,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2015_p36_2.png",
+  "images": [
+   "biology/2015_p36_2.png"
+  ]
  },
  {
   "id": "biology-2015-49",
@@ -899,9 +901,11 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2015_p36_2.png",
+  "images": [
+   "biology/2015_p36_2.png"
+  ]
  }
 ]

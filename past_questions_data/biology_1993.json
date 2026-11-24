@@ -159,16 +159,14 @@
    "A": "water",
    "B": "wind",
    "C": "insects",
-   "D": "explosive mechanism. Use the figures below to answer questions 10 and 11"
+   "D": "explosive mechanism."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1993_p27_1.png",
-  "images": [
-   "biology/1993_p27_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1993-10",
@@ -182,10 +180,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1993_p27_1.png",
+  "images": [
+   "biology/1993_p27_1.png"
+  ]
  },
  {
   "id": "biology-1993-11",
@@ -200,10 +200,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1993_p27_1.png",
+  "images": [
+   "biology/1993_p27_1.png"
+  ]
  },
  {
   "id": "biology-1993-12",
@@ -330,16 +332,14 @@
    "A": "maltose and fatty acids",
    "B": "amino acids and glucose",
    "C": "fatty acids and fructose",
-   "D": "fatty acids and glycerin. Use the diagram below to answer questions 19 and 20 The mammalian heart"
+   "D": "fatty acids and glycerin."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1993_p29_1.png",
-  "images": [
-   "biology/1993_p29_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1993-19",
@@ -354,10 +354,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1993_p29_1.png",
+  "images": [
+   "biology/1993_p29_1.png"
+  ]
  },
  {
   "id": "biology-1993-20",
@@ -373,10 +375,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1993_p29_1.png",
+  "images": [
+   "biology/1993_p29_1.png"
+  ]
  },
  {
   "id": "biology-1993-21",
@@ -511,16 +515,14 @@
    "A": "sympathetic and parasympathetic systems.",
    "B": "brain and spinal nerves",
    "C": "brain and cranial nerves",
-   "D": "spinal cord and spinal nerves. Use the diagram below to answer questions 29 and 30"
+   "D": "spinal cord and spinal nerves."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1993_p29_2.png",
-  "images": [
-   "biology/1993_p29_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1993-29",
@@ -535,10 +537,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1993_p29_2.png",
+  "images": [
+   "biology/1993_p29_2.png"
+  ]
  },
  {
   "id": "biology-1993-30",
@@ -554,10 +558,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1993_p29_2.png",
+  "images": [
+   "biology/1993_p29_2.png"
+  ]
  },
  {
   "id": "biology-1993-31",

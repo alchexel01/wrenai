@@ -27,16 +27,14 @@
   "options": {
    "A": "presence of guard cells",
    "B": "decrease in solute concentration in the guard cells C. increase in solute concentration in the guard cells",
-   "D": "presence of a pore. Use the diagram below to answer questions 3 and 4"
+   "D": "presence of a pore."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2004_p53_1.png",
-  "images": [
-   "biology/2004_p53_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2004-3",
@@ -51,10 +49,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2004_p53_1.png",
+  "images": [
+   "biology/2004_p53_1.png"
+  ]
  },
  {
   "id": "biology-2004-4",
@@ -69,10 +69,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2004_p53_1.png",
+  "images": [
+   "biology/2004_p53_1.png"
+  ]
  },
  {
   "id": "biology-2004-5",
@@ -120,16 +122,14 @@
    "A": "testosterone",
    "B": "thyroxin",
    "C": "insulin",
-   "D": "prolactin Use the diagram below to answer questions 8 and 9"
+   "D": "prolactin"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2004_p53_2.png",
-  "images": [
-   "biology/2004_p53_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2004-8",
@@ -140,10 +140,12 @@
   "options": {},
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2004_p53_2.png",
+  "images": [
+   "biology/2004_p53_2.png"
+  ]
  },
  {
   "id": "biology-2004-9",
@@ -158,10 +160,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2004_p53_2.png",
+  "images": [
+   "biology/2004_p53_2.png"
+  ]
  },
  {
   "id": "biology-2004-10",
@@ -192,16 +196,14 @@
    "A": "Mg² and K⁺",
    "B": "Na⁺ and Fe²⁺",
    "C": "Fe²⁺ and Mg²⁺",
-   "D": "Na⁺ and K ⁺ Use the diagram below to answer questions 12 and 13"
+   "D": "Na⁺ and K ⁺"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2004_p53_4.png",
-  "images": [
-   "biology/2004_p53_4.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2004-12",
@@ -217,10 +219,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2004_p53_4.png",
+  "images": [
+   "biology/2004_p53_4.png"
+  ]
  },
  {
   "id": "biology-2004-13",
@@ -236,10 +240,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2004_p53_4.png",
+  "images": [
+   "biology/2004_p53_4.png"
+  ]
  },
  {
   "id": "biology-2004-14",
@@ -251,16 +257,14 @@
    "A": "pyruvic acid and alcohol",
    "B": "38 ATP molecules",
    "C": "water and carbon (IV) oxide",
-   "D": "2ATP molecules and alcohol Use the diagram below to answer questions 15 and 16"
+   "D": "2ATP molecules and alcohol"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2004_p53_3.png",
-  "images": [
-   "biology/2004_p53_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2004-15",
@@ -275,10 +279,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2004_p53_3.png",
+  "images": [
+   "biology/2004_p53_3.png"
+  ]
  },
  {
   "id": "biology-2004-17",
@@ -530,16 +536,14 @@
    "A": "cell-like partitions formed by cross-walls",
    "B": "cell-like compartments with one nucleus each",
    "C": "a multicellular mycelium in the substrate",
-   "D": "cell walls that are both rigid and chitinous Use the diagram below to answer question 32 and 33."
+   "D": "cell walls that are both rigid and chitinous"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2004_p54_1.png",
-  "images": [
-   "biology/2004_p54_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2004-32",
@@ -552,10 +556,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2004_p54_1.png",
+  "images": [
+   "biology/2004_p54_1.png"
+  ]
  },
  {
   "id": "biology-2004-33",
@@ -571,10 +577,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2004_p54_1.png",
+  "images": [
+   "biology/2004_p54_1.png"
+  ]
  },
  {
   "id": "biology-2004-34",
@@ -742,16 +750,14 @@
    "A": "sandy",
    "B": "loamy",
    "C": "silty",
-   "D": "clayey Use the table below to answer questions 44 and 45"
+   "D": "clayey"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2004_p55_1.png",
-  "images": [
-   "biology/2004_p55_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2004-44",
@@ -767,10 +773,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2004_p55_1.png",
+  "images": [
+   "biology/2004_p55_1.png"
+  ]
  },
  {
   "id": "biology-2004-45",
@@ -786,10 +794,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2004_p55_1.png",
+  "images": [
+   "biology/2004_p55_1.png"
+  ]
  },
  {
   "id": "biology-2004-46",

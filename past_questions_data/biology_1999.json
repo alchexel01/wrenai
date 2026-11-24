@@ -85,16 +85,14 @@
    "A": "guard cell",
    "B": "liver",
    "C": "xylem bundle",
-   "D": "blood Use the diagram below to answer questions 7 and 8"
+   "D": "blood"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1999_p40_2.png",
-  "images": [
-   "biology/1999_p40_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1999-7",
@@ -110,10 +108,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1999_p40_2.png",
+  "images": [
+   "biology/1999_p40_2.png"
+  ]
  },
  {
   "id": "biology-1999-8",
@@ -129,10 +129,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1999_p40_2.png",
+  "images": [
+   "biology/1999_p40_2.png"
+  ]
  },
  {
   "id": "biology-1999-9",
@@ -498,16 +500,14 @@
    "A": "chemicals olfactory nerve endings brain",
    "B": "dissolved chemicals  nasal sensorycell brain",
    "C": "chemicals mucus membrane  sensorycells  brain",
-   "D": "dissolved chemicals  sensory cells olfactory nerve  brain Use the diagram below to answer questions 29 and 30"
+   "D": "dissolved chemicals  sensory cells olfactory nerve  brain"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1999_p41_1.png",
-  "images": [
-   "biology/1999_p41_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1999-29",
@@ -523,10 +523,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1999_p41_1.png",
+  "images": [
+   "biology/1999_p41_1.png"
+  ]
  },
  {
   "id": "biology-1999-30",
@@ -542,10 +544,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1999_p41_1.png",
+  "images": [
+   "biology/1999_p41_1.png"
+  ]
  },
  {
   "id": "biology-1999-31",
@@ -576,16 +580,14 @@
    "A": "calcium compounds",
    "B": "organic salts",
    "C": "lipids",
-   "D": "proteins Use the diagram below to answer questions 33 and 34"
+   "D": "proteins"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1999_p42_1.png",
-  "images": [
-   "biology/1999_p42_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1999-33",
@@ -601,10 +603,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1999_p42_1.png",
+  "images": [
+   "biology/1999_p42_1.png"
+  ]
  },
  {
   "id": "biology-1999-34",
@@ -620,10 +624,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1999_p42_1.png",
+  "images": [
+   "biology/1999_p42_1.png"
+  ]
  },
  {
   "id": "biology-1999-35",
@@ -711,16 +717,14 @@
    "A": "predation",
    "B": "commensalism",
    "C": "parasitism",
-   "D": "competition Use the diagram below to answer questions 40 and 41"
+   "D": "competition"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1999_p42_2.png",
-  "images": [
-   "biology/1999_p42_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1999-40",
@@ -736,10 +740,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1999_p42_2.png",
+  "images": [
+   "biology/1999_p42_2.png"
+  ]
  },
  {
   "id": "biology-1999-41",
@@ -755,10 +761,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1999_p42_2.png",
+  "images": [
+   "biology/1999_p42_2.png"
+  ]
  },
  {
   "id": "biology-1999-42",

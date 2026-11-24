@@ -156,16 +156,14 @@
    "A": "head region",
    "B": "waist region",
    "C": "neck region",
-   "D": "gonads Use the diagram below to answer questions 10 and 11"
+   "D": "gonads"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2000_p43_3.png",
-  "images": [
-   "biology/2000_p43_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2000-10",
@@ -181,10 +179,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2000_p43_3.png",
+  "images": [
+   "biology/2000_p43_3.png"
+  ]
  },
  {
   "id": "biology-2000-11",
@@ -200,10 +200,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2000_p43_3.png",
+  "images": [
+   "biology/2000_p43_3.png"
+  ]
  },
  {
   "id": "biology-2000-12",
@@ -234,16 +236,14 @@
    "A": "leaf",
    "B": "petiole",
    "C": "steam",
-   "D": "root Use the diagram below to answer questions 14 and 15"
+   "D": "root"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2000_p43_2.png",
-  "images": [
-   "biology/2000_p43_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2000-15",
@@ -258,10 +258,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2000_p43_2.png",
+  "images": [
+   "biology/2000_p43_2.png"
+  ]
  },
  {
   "id": "biology-2000-16",
@@ -538,16 +540,14 @@
    "A": "II and III",
    "B": "I and III",
    "C": "I and IV",
-   "D": "I and II Use the graph below to answer questions 31 and 32."
+   "D": "I and II"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2000_p44_2.png",
-  "images": [
-   "biology/2000_p44_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2000-31",
@@ -563,10 +563,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2000_p44_2.png",
+  "images": [
+   "biology/2000_p44_2.png"
+  ]
  },
  {
   "id": "biology-2000-32",
@@ -582,10 +584,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2000_p44_2.png",
+  "images": [
+   "biology/2000_p44_2.png"
+  ]
  },
  {
   "id": "biology-2000-33",

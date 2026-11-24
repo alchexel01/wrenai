@@ -210,16 +210,14 @@
   "question": "The body of a snail is divided into head",
   "options": {
    "A": "thorax and abdomen",
-   "B": "visceral mass and abdomen C. thorax and foot D. visceral mass and foot. Use the diagram below to answer questions 13 to 14"
+   "B": "visceral mass and abdomen C. thorax and foot D. visceral mass and foot."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1989_p17_3.png",
-  "images": [
-   "biology/1989_p17_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1989-13",
@@ -235,10 +233,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1989_p17_3.png",
+  "images": [
+   "biology/1989_p17_3.png"
+  ]
  },
  {
   "id": "biology-1989-14",
@@ -254,10 +254,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1989_p17_3.png",
+  "images": [
+   "biology/1989_p17_3.png"
+  ]
  },
  {
   "id": "biology-1989-15",
@@ -269,16 +271,14 @@
    "A": "endodermal cell",
    "B": "xylem vessel",
    "C": "sieve tube",
-   "D": "pericyclic fibre. Use the diagram below to answer questions 16 to 17"
+   "D": "pericyclic fibre."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1989_p17_2.png",
-  "images": [
-   "biology/1989_p17_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1989-16",
@@ -294,10 +294,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1989_p17_2.png",
+  "images": [
+   "biology/1989_p17_2.png"
+  ]
  },
  {
   "id": "biology-1989-17",
@@ -308,10 +310,12 @@
   "options": {},
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1989_p17_2.png",
+  "images": [
+   "biology/1989_p17_2.png"
+  ]
  },
  {
   "id": "biology-1989-18",
@@ -396,16 +400,14 @@
    "A": "GroupA serum mixes with Group Aerythrocytes",
    "B": "Group A serum mixes with Group B erythrocytes",
    "C": "Group AB serum mixes with Group Oerythrocytes",
-   "D": "Group B serum mixes with Group B erythrocytes. Use the figure below to answer questions 24 to 26"
+   "D": "Group B serum mixes with Group B erythrocytes."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1989_p18_1.png",
-  "images": [
-   "biology/1989_p18_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1989-23",
@@ -438,10 +440,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1989_p18_1.png",
+  "images": [
+   "biology/1989_p18_1.png"
+  ]
  },
  {
   "id": "biology-1989-25",
@@ -455,10 +459,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1989_p18_1.png",
+  "images": [
+   "biology/1989_p18_1.png"
+  ]
  },
  {
   "id": "biology-1989-26",
@@ -474,10 +480,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1989_p18_1.png",
+  "images": [
+   "biology/1989_p18_1.png"
+  ]
  },
  {
   "id": "biology-1989-27",

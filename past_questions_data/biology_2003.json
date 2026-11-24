@@ -9,16 +9,14 @@
    "A": "mycelium",
    "B": "basidium",
    "C": "pileus",
-   "D": "stipe Use the diagram above to answer question 2 and 3."
+   "D": "stipe"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2003_p50_3.png",
-  "images": [
-   "biology/2003_p50_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2003-2",
@@ -29,10 +27,12 @@
   "options": {},
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2003_p50_3.png",
+  "images": [
+   "biology/2003_p50_3.png"
+  ]
  },
  {
   "id": "biology-2003-3",
@@ -48,10 +48,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2003_p50_3.png",
+  "images": [
+   "biology/2003_p50_3.png"
+  ]
  },
  {
   "id": "biology-2003-4",
@@ -193,16 +195,14 @@
    "A": "butterfly",
    "B": "mosquito",
    "C": "blackfly",
-   "D": "tsetsefly Use the diagram below to answer question 12 and 13."
+   "D": "tsetsefly"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2003_p51_1.png",
-  "images": [
-   "biology/2003_p51_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2003-12",
@@ -216,10 +216,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2003_p51_1.png",
+  "images": [
+   "biology/2003_p51_1.png"
+  ]
  },
  {
   "id": "biology-2003-13",
@@ -235,10 +237,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2003_p51_1.png",
+  "images": [
+   "biology/2003_p51_1.png"
+  ]
  },
  {
   "id": "biology-2003-14",
@@ -286,16 +290,14 @@
    "A": "III",
    "B": "IV",
    "C": "II",
-   "D": "I Use the diagram below to answer questions 17 and 18"
+   "D": "I"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2003_p51_3.png",
-  "images": [
-   "biology/2003_p51_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2003-17",
@@ -310,10 +312,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2003_p51_3.png",
+  "images": [
+   "biology/2003_p51_3.png"
+  ]
  },
  {
   "id": "biology-2003-18",
@@ -329,10 +333,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2003_p51_3.png",
+  "images": [
+   "biology/2003_p51_3.png"
+  ]
  },
  {
   "id": "biology-2003-19",

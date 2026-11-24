@@ -10,16 +10,14 @@
    "B": "epidermis of roots",
    "C": "vascular bundles",
    "D": "endodermis",
-   "E": "pericycle Use Fig. 1 to answer questions 2-4 Fig 1 represents a cross-section of a part of a dicot plant."
+   "E": "pericycle Use Fig. 1 to"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1983_p2_1.png",
-  "images": [
-   "biology/1983_p2_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1983-2",
@@ -36,10 +34,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1983_p2_1.png",
+  "images": [
+   "biology/1983_p2_1.png"
+  ]
  },
  {
   "id": "biology-1983-3",
@@ -56,10 +56,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1983_p2_1.png",
+  "images": [
+   "biology/1983_p2_1.png"
+  ]
  },
  {
   "id": "biology-1983-4",
@@ -76,10 +78,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1983_p2_1.png",
+  "images": [
+   "biology/1983_p2_1.png"
+  ]
  },
  {
   "id": "biology-1983-5",

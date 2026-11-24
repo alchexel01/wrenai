@@ -85,16 +85,14 @@
    "A": "Reptilia",
    "B": "Amphibia",
    "C": "Aves",
-   "D": "Mammalia Use the Diagrams below to answer questions 6 to 8"
+   "D": "Mammalia"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2011_p8_1.png",
-  "images": [
-   "biology/2011_p8_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2011-6",
@@ -110,10 +108,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2011_p8_1.png",
+  "images": [
+   "biology/2011_p8_1.png"
+  ]
  },
  {
   "id": "biology-2011-7",
@@ -129,10 +129,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2011_p8_1.png",
+  "images": [
+   "biology/2011_p8_1.png"
+  ]
  },
  {
   "id": "biology-2011-8",
@@ -148,10 +150,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2011_p8_1.png",
+  "images": [
+   "biology/2011_p8_1.png"
+  ]
  },
  {
   "id": "biology-2011-9",
@@ -163,16 +167,14 @@
    "A": "disperse the reproductives in order to establish new colonies",
    "B": "provide abundant food for birds and other animals during the early rains",
    "C": "ensure cross-breeding between members of one colony and another",
-   "D": "expel the reproductives so as to provide enough food for other members Use the diagram below to answer question 10 and 11"
+   "D": "expel the reproductives so as to provide enough food for other members"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/2011_p9_1.png",
-  "images": [
-   "biology/2011_p9_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2011-10",
@@ -188,10 +190,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2011_p9_1.png",
+  "images": [
+   "biology/2011_p9_1.png"
+  ]
  },
  {
   "id": "biology-2011-11",
@@ -207,10 +211,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2011_p9_1.png",
+  "images": [
+   "biology/2011_p9_1.png"
+  ]
  },
  {
   "id": "biology-2011-12",

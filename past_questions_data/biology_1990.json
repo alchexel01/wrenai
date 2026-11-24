@@ -98,16 +98,14 @@
    "A": "gametophyte",
    "B": "rhizoid",
    "C": "protonema",
-   "D": "sporophyte Use the figure below to answer questions 8 and 9"
+   "D": "sporophyte"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1990_p20_1.png",
-  "images": [
-   "biology/1990_p20_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1990-8",
@@ -123,10 +121,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1990_p20_1.png",
+  "images": [
+   "biology/1990_p20_1.png"
+  ]
  },
  {
   "id": "biology-1990-9",
@@ -142,10 +142,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1990_p20_1.png",
+  "images": [
+   "biology/1990_p20_1.png"
+  ]
  },
  {
   "id": "biology-1990-10",
@@ -451,16 +453,14 @@
    "A": "ligaments",
    "B": "membranes",
    "C": "tendons",
-   "D": "sultures. Use the figure below to answer questions 27 and 28."
+   "D": "sultures."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1990_p20_2.png",
-  "images": [
-   "biology/1990_p20_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1990-27",
@@ -474,10 +474,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1990_p20_2.png",
+  "images": [
+   "biology/1990_p20_2.png"
+  ]
  },
  {
   "id": "biology-1990-28",
@@ -493,10 +495,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1990_p20_2.png",
+  "images": [
+   "biology/1990_p20_2.png"
+  ]
  },
  {
   "id": "biology-1990-29",
@@ -740,16 +744,14 @@
   "options": {
    "A": "legumes, temperature and sandy soil",
    "B": "water, temperature and soil",
-   "C": "minerals, oxygen and reptile D. water, soil and grasses. Use the figure below to answer questions 42 and 43."
+   "C": "minerals, oxygen and reptile D. water, soil and grasses."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "biology/1990_p21_4.png",
-  "images": [
-   "biology/1990_p21_4.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-1990-42",
@@ -765,10 +767,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1990_p21_4.png",
+  "images": [
+   "biology/1990_p21_4.png"
+  ]
  },
  {
   "id": "biology-1990-43",
@@ -784,10 +788,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/1990_p21_4.png",
+  "images": [
+   "biology/1990_p21_4.png"
+  ]
  },
  {
   "id": "biology-1990-44",
