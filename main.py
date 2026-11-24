@@ -1229,6 +1229,13 @@ async def image(
     if resp.status_code in (400, 403, 422) and any(
             w in low for w in ("safe", "safety", "policy", "moderat", "nsfw", "content")):
         raise _policy_error(rid)
+    if resp.status_code == 402:
+        # Out of Pollen credits / key budget used up. Users just see "busy";
+        # this line is for you: top up at enter.pollinations.ai.
+        log.error(f"[{rid}] /image: Pollinations returned 402 - the API key is out of "
+                  f"credits or over budget. Top up at enter.pollinations.ai")
+        raise HTTPException(status_code=429,
+                            detail={"error": "image_busy", "request_id": rid})
     if resp.status_code == 429:
         raise HTTPException(status_code=429,
                             detail={"error": "image_busy", "request_id": rid})
