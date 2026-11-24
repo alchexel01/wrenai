@@ -1,0 +1,210 @@
+{
+  "year": 1999,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "A",
+      "explanation": "Average power is the gain in kinetic energy per time: (½ × 800 × 25²)/20 = 1.25 × 10^4 W."
+    },
+    {
+      "number": 2,
+      "answer": "A",
+      "explanation": "Momentum is conserved; the combined mass moves at 0.05 × 200/1.00 = 10 m/s, giving kinetic energy ½ × 1 × 10² = 50 J."
+    },
+    {
+      "number": 3,
+      "answer": "C",
+      "explanation": "Total mechanical energy is conserved: ½mv² + mgh = ½ × 0.1 × 10² + 0.1 × 10 × 10 = 15 J."
+    },
+    {
+      "number": 4,
+      "answer": "B",
+      "explanation": "The movable pulley is supported by two equal rope tensions, so 2W = 40 N and W = 20 N."
+    },
+    {
+      "number": 5,
+      "answer": "A",
+      "explanation": "A body topples when the vertical line through its centre of gravity falls outside its base of support."
+    },
+    {
+      "number": 6,
+      "answer": "C",
+      "explanation": "Force is proportional to mass × acceleration; the ratio is (3 × 2):(1 × 9) = 2:3."
+    },
+    {
+      "number": 7,
+      "answer": "C",
+      "explanation": "Acceleration = 80/20 = 4 m/s²; retardation = 80/(90 − 50) = 2 m/s²."
+    },
+    {
+      "number": 8,
+      "answer": "B",
+      "explanation": "Centripetal force = mrω² = 0.01 × 0.2 × 100² = 20 N."
+    },
+    {
+      "number": 9,
+      "answer": "D",
+      "explanation": "The internal diameter of a small test tube is measured accurately with vernier calipers."
+    },
+    {
+      "number": 10,
+      "answer": "D",
+      "explanation": "At constant temperature Boyle's law gives P₁V₁ = P₂V₂; reducing volume to one-fifth makes pressure 5P₀."
+    },
+    {
+      "number": 11,
+      "answer": "B",
+      "explanation": "Equating lost gravitational potential energy to heat, mgh = mcΔT; ΔT = gh/c = 10 × 20/450 = 4/9 °C."
+    },
+    {
+      "number": 12,
+      "answer": "B",
+      "explanation": "On the downward stroke, the piston valve P opens to let water pass above the piston, while lower valve Q closes."
+    },
+    {
+      "number": 13,
+      "answer": "B",
+      "explanation": "The added 15 cm Hg raises the trapped-air pressure from 75 to 90 cm Hg; Boyle's law gives V₂ = 30 × 75/90 = 25 cm³."
+    },
+    {
+      "number": 14,
+      "answer": "D",
+      "explanation": "Strain = (10.05 − 10.00)/10.00 = 0.005; Young's modulus = 10^7/0.005 = 2.0 × 10^9 N/m²."
+    },
+    {
+      "number": 15,
+      "answer": "C",
+      "explanation": "Upthrusts are 4 N in water and 3 N in liquid X; relative density = 3/4."
+    },
+    {
+      "number": 16,
+      "answer": "A",
+      "explanation": "Boiling occurs when saturated vapour pressure equals external pressure; solutes and increased external pressure raise the boiling point. I, II and III are correct."
+    },
+    {
+      "number": 17,
+      "answer": "A",
+      "explanation": "Surface tension decreases as the temperature of a liquid increases."
+    },
+    {
+      "number": 18,
+      "answer": "D",
+      "explanation": "During braking, friction acts opposite the car's motion and helps bring it to rest, so it is an advantage."
+    },
+    {
+      "number": 19,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 20,
+      "answer": "C",
+      "explanation": "The mirror is 3 m from the man after moving; the image is 3 m behind it, so the man-image distance is 6 m."
+    },
+    {
+      "number": 21,
+      "answer": "A",
+      "explanation": "Sound speed increases in hotter air while frequency remains constant; since λ = v/f, wavelength increases."
+    },
+    {
+      "number": 22,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 23,
+      "answer": "C",
+      "explanation": "In y = A sin(500t − 0.025x), the angular frequency is the coefficient of t, 500 rad/s."
+    },
+    {
+      "number": 24,
+      "answer": "A",
+      "explanation": "Copper releases Q = mcΔT = 2 × 400 × 100 = 80000 J; melted ice mass = 80000/(3.3 × 10^5) = 8/33 kg."
+    },
+    {
+      "number": 25,
+      "answer": "D",
+      "explanation": "The diagram shows three complete wavelengths in 0.3 m, so λ = 0.1 m and f = v/λ = 3.0 × 10^9 Hz."
+    },
+    {
+      "number": 27,
+      "answer": "B",
+      "explanation": "Temperature gradient = (80 − 20)/0.02 = 3.0 × 10^3 K/m."
+    },
+    {
+      "number": 28,
+      "answer": "C",
+      "explanation": "As the south pole moves from P towards Q, induction makes P a south pole and Q a north pole."
+    },
+    {
+      "number": 29,
+      "answer": "D",
+      "explanation": "Identical cells in parallel retain an e.m.f. of 1.5 V and have equivalent internal resistance 4/4 = 1 Ω."
+    },
+    {
+      "number": 30,
+      "answer": "D",
+      "explanation": "The same emf gives 5(8 + X) = 7(5 + X); solving yields X = 2.5 Ω."
+    },
+    {
+      "number": 31,
+      "answer": "D",
+      "explanation": "A telescope is in normal adjustment when its final image is at infinity."
+    },
+    {
+      "number": 32,
+      "answer": "D",
+      "explanation": "Steel has greater retentivity than iron, so it retains magnetism more strongly and is suitable for permanent magnets."
+    },
+    {
+      "number": 33,
+      "answer": "C",
+      "explanation": "The prism arrangement shown is used in a periscope to redirect the line of sight."
+    },
+    {
+      "number": 34,
+      "answer": "D",
+      "explanation": "Snell's law gives sin i = (3.0/2.0) sin 30° = 0.75."
+    },
+    {
+      "number": 35,
+      "answer": "B",
+      "explanation": "The resistor and inductor voltage drops are at right angles; supply voltage = √(6² + 8²) = 10 V."
+    },
+    {
+      "number": 36,
+      "answer": "D",
+      "explanation": "Laminating the transformer core reduces eddy currents and therefore reduces the heat they produce."
+    },
+    {
+      "number": 37,
+      "answer": "A",
+      "explanation": "In Fleming's right-hand rule, the thumb indicates motion, the forefinger the magnetic field, and the middle finger induced current."
+    },
+    {
+      "number": 38,
+      "answer": "C",
+      "explanation": "The capacitors are in parallel, so Ctotal = 2 + 3 = 5 μF; energy = ½CV² = ½ × 5 × 10^-6 × 100² = 2.5 × 10^-2 J."
+    },
+    {
+      "number": 39,
+      "answer": "C",
+      "explanation": "Inductive reactance XL = 2πfL; f = 2000/(2π × 10) = 100/π Hz."
+    },
+    {
+      "number": 40,
+      "answer": "D",
+      "explanation": "The cooker current is I = P/V = 3000/200 = 15 A; the suitable listed fuse is 20 A."
+    },
+    {
+      "number": 42,
+      "answer": "C",
+      "explanation": "The galvanometer current is the shunt current multiplied by Rs/Rg: 2 × 0.05/5 = 0.02 A = 20 mA."
+    },
+    {
+      "number": 42,
+      "answer": "A",
+      "explanation": "Both resistors have the same potential difference; P₁/P₂ = (V²/R₁)/(V²/R₂) = R₂/R₁."
+    }
+  ]
+}
