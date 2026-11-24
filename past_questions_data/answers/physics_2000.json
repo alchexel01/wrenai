@@ -1,0 +1,255 @@
+{
+  "year": 2000,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "B",
+      "explanation": "The elastic potential energy becomes the stone's kinetic energy: ½Fx = ½mv². Thus F = mv²/x = 0.5 × 40²/0.20 = 4.0 × 10³ N."
+    },
+    {
+      "number": 2,
+      "answer": "B",
+      "explanation": "The vertical components of the two equal handle forces support the bag: 2T cos 60° = 162 N, so T = 162 N."
+    },
+    {
+      "number": 3,
+      "answer": "A",
+      "explanation": "For sliding friction, it is independent of apparent contact area, depends on the nature of the surfaces, and is proportional to the normal reaction. I, II and IV are correct."
+    },
+    {
+      "number": 4,
+      "answer": "C",
+      "explanation": "Fresh water is less dense than salt water, so the ship must displace a greater volume and sits lower; the volume above the water surface decreases."
+    },
+    {
+      "number": 5,
+      "answer": "B",
+      "explanation": "Since T is proportional to √L, halving the period makes the new length one-quarter of the original. L − L/4 = 1.5 m, giving L = 2.0 m."
+    },
+    {
+      "number": 6,
+      "answer": "A",
+      "explanation": "At a point in a stationary liquid, pressure is equal in all directions (Pascal's principle)."
+    },
+    {
+      "number": 7,
+      "answer": "D",
+      "explanation": "In uniform circular motion, no work is done by the centripetal force and the centripetal force is directed towards the centre. II and IV are correct."
+    },
+    {
+      "number": 8,
+      "answer": "C",
+      "explanation": "Acceleration is dv/dt. For v = 10 + 2t², a = 4t; at t = 5 s, a = 20 m/s²."
+    },
+    {
+      "number": 9,
+      "answer": "C",
+      "explanation": "Power P = Fv. Halving both force and velocity reduces power to one-quarter."
+    },
+    {
+      "number": 10,
+      "answer": "B",
+      "explanation": "Efficiency = MA/VR, so MA = 0.75 × 5 = 3.75. Effort = load/MA = 150/3.75 = 40 N."
+    },
+    {
+      "number": 11,
+      "answer": "A",
+      "explanation": "Acceleration = (4 − 0)/8 = 0.5 m/s². T − mg = ma, so T = 10(10 + 0.5) = 105 N."
+    },
+    {
+      "number": 12,
+      "answer": "D",
+      "explanation": "Resolving the boat's velocity relative to the water and the stream gives the boat speed as 0.75/sin 30° = 1.50 m/s."
+    },
+    {
+      "number": 13,
+      "answer": "A",
+      "explanation": "Stable interference fringes require coherent sources of the same frequency (and hence the same wavelength). I, II and III is the intended combination."
+    },
+    {
+      "number": 14,
+      "answer": "D",
+      "explanation": "For reflection in a plane mirror, deviation = 2i. Thus i = 120°/2 = 60°."
+    },
+    {
+      "number": 15,
+      "answer": "A",
+      "explanation": "The wet- and dry-bulb differences fall from 8°C to 7°C to 4°C, indicating that relative humidity increases steadily."
+    },
+    {
+      "number": 16,
+      "answer": "C",
+      "explanation": "Total internal reflection occurs when light travels from a denser medium to a less dense medium and strikes the boundary above the critical angle."
+    },
+    {
+      "number": 17,
+      "answer": "A",
+      "explanation": "The waves on the wire are reflected at the fixed end and superpose with the incoming waves to form stationary transverse waves."
+    },
+    {
+      "number": 18,
+      "answer": "D",
+      "explanation": "For a sonometer wire, f is proportional to the square root of tension. Doubling tension gives a new frequency of √2 f₀."
+    },
+    {
+      "number": 19,
+      "answer": "A",
+      "explanation": "Apparent depth = real depth/refractive index ≈ 6.0/1.33 = 4.5 m."
+    },
+    {
+      "number": 20,
+      "answer": "B",
+      "explanation": "Heat gained by the calorimeter and water is (80 + 420) × 10 = 5000 J. Equating this to 0.5c × 75 gives c ≈ 133 J kg⁻¹ K⁻¹."
+    },
+    {
+      "number": 21,
+      "answer": "C",
+      "explanation": "The diagram is the maximum-minimum thermometer arrangement: P and R contain mercury indices, while Q contains alcohol."
+    },
+    {
+      "number": 22,
+      "answer": "D",
+      "explanation": "An airtight cover prevents air circulation through the neck, reducing heat loss by convection."
+    },
+    {
+      "number": 23,
+      "answer": "A",
+      "explanation": "The wave speed is fλ = 550 × 0.01 = 5.5 m/s and k = 2π/λ = 200π rad/m. Thus y = 0.15 sin[200π(x − 5.5t)]."
+    },
+    {
+      "number": 24,
+      "answer": "C",
+      "explanation": "Wave speed v = √(T/μ) = √(12/(3 × 10⁻²)) = 20 m/s."
+    },
+    {
+      "number": 25,
+      "answer": "B",
+      "explanation": "Water has maximum density at about 4°C; as it is heated from 0°C to 30°C, its density first rises and then falls."
+    },
+    {
+      "number": 26,
+      "answer": "D",
+      "explanation": "The process in which pressure causes ice to melt beneath the wire and the water refreezes behind it is regelation."
+    },
+    {
+      "number": 27,
+      "answer": "B",
+      "explanation": "A potentiometer can measure a small cell internal resistance accurately by comparing potential differences without drawing appreciable current."
+    },
+    {
+      "number": 28,
+      "answer": "D",
+      "explanation": "The electron's kinetic energy is ½mv² = ½ × 9.1 × 10⁻³¹ × (4 × 10⁷)². Dividing by e gives a potential difference of about 4.55 × 10³ V."
+    },
+    {
+      "number": 29,
+      "answer": "A",
+      "explanation": "In a rare-to-dense transition, blue light is deviated most and red least. The rays a, b and c are therefore blue, yellow and red."
+    },
+    {
+      "number": 30,
+      "answer": "B",
+      "explanation": "The capacitors are in parallel, so each has 20 V across it. QP = 5 μF × 20 V = 100 μC and QQ = 10 μF × 20 V = 200 μC."
+    },
+    {
+      "number": 31,
+      "answer": "C",
+      "explanation": "An astronomical telescope uses an objective lens of long focal length and an eyepiece of short focal length, matching 500 cm and 5 cm."
+    },
+    {
+      "number": 32,
+      "answer": "A",
+      "explanation": "For an ion passing undeflected through crossed electric and magnetic fields, qE = qvB, so v = E/B."
+    },
+    {
+      "number": 33,
+      "answer": "D",
+      "explanation": "The series current is 2/(3 + 2 + 1) = 1/3 A. The p.d. across 3 Ω is 1 V and across 2 Ω is 2/3 V."
+    },
+    {
+      "number": 34,
+      "answer": "C",
+      "explanation": "Magnification v/u = 24. With image distance v = 72 m, the slide distance u = 72/24 = 3.0 m."
+    },
+    {
+      "number": 35,
+      "answer": "D",
+      "explanation": "Six cells aid and two oppose, giving a net of (6 − 2) × 2.0 V = 8 V."
+    },
+    {
+      "number": 36,
+      "answer": "A",
+      "explanation": "For an inductor, XL = 2πfL. With f = 50/π Hz and L = 2 H, XL = 200 Ω."
+    },
+    {
+      "number": 37,
+      "answer": "C",
+      "explanation": "1/64 = (1/2)⁶, so 120 years represents six half-lives. The half-life is 120/6 = 20 years."
+    },
+    {
+      "number": 38,
+      "answer": "B",
+      "explanation": "Beta particles are charged and are deflected by both electric and magnetic fields."
+    },
+    {
+      "number": 39,
+      "answer": "A",
+      "explanation": "In a pure semiconductor, each excited electron leaves a hole; the number of conduction electrons equals the number of holes."
+    },
+    {
+      "number": 40,
+      "answer": "A",
+      "explanation": "Cell efficiency = external resistance/(external resistance + internal resistance) = 3/(3 + 1) = 75%."
+    },
+    {
+      "number": 41,
+      "answer": "C",
+      "explanation": "The maximum electron kinetic energy is 5 eV − 3 eV = 2 eV, so the stopping potential is 2.0 V."
+    },
+    {
+      "number": 42,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 43,
+      "answer": "B",
+      "explanation": "By Faraday's law, induced e.m.f. = N(dΦ/dt) = 200 × 0.08 = 16 V."
+    },
+    {
+      "number": 44,
+      "answer": "B",
+      "explanation": "For the emitted x-ray photon, eV = hf. Thus V = (6.63 × 10⁻³⁴ × 1.6 × 10¹⁶)/(1.6 × 10⁻¹⁹) ≈ 66.3 V."
+    },
+    {
+      "number": 45,
+      "answer": "C",
+      "explanation": "A fuse must be connected in the live wire; in the diagram this is position P."
+    },
+    {
+      "number": 46,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 47,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 48,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 49,
+      "answer": "D",
+      "explanation": "The generator current is I = P/V = 3000/1500 = 2 A. Cable power loss = I²R = 2² × 20 = 80 W."
+    },
+    {
+      "number": 50,
+      "answer": "C",
+      "explanation": "The maximum magnetic force is F = BIL = 0.5 × 0.8 × 2 = 0.8 N."
+    }
+  ]
+}

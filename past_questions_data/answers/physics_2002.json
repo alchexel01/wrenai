@@ -1,0 +1,255 @@
+{
+  "year": 2002,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "B",
+      "explanation": "A steel ball falling through a viscous fluid accelerates initially, then approaches terminal velocity; its velocity-time graph rises and levels off."
+    },
+    {
+      "number": 2,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 3,
+      "answer": "D",
+      "explanation": "Upthrust in oil = 0.25 − 0.17 = 0.08 N; in water = 0.25 − 0.15 = 0.10 N. The ratio is 0.08:0.10 = 4:5."
+    },
+    {
+      "number": 4,
+      "answer": "A",
+      "explanation": "Using ΔP = ρgh, h = 1.65 × 10⁴/(1.1 × 10³ × 10) = 1.5 m."
+    },
+    {
+      "number": 5,
+      "answer": "A",
+      "explanation": "If the resultant force is zero, momentum is conserved and remains constant."
+    },
+    {
+      "number": 6,
+      "answer": "D",
+      "explanation": "At terminal velocity, acceleration is zero and the weight is balanced by the total retarding force."
+    },
+    {
+      "number": 7,
+      "answer": "B",
+      "explanation": "The energy stored is the area under the force-extension graph from E to F: the trapezium area is ½(0.1 + 0.2)(0.05) = 7.5 × 10⁻³ J."
+    },
+    {
+      "number": 8,
+      "answer": "A",
+      "explanation": "Gravitational force varies inversely as the square of separation. Tripling the distance reduces the force to 1/9."
+    },
+    {
+      "number": 9,
+      "answer": "A",
+      "explanation": "Mechanical advantage = 500/250 = 2; velocity ratio = 0.4/0.1 = 4. Efficiency = (2/4) × 100% = 50%."
+    },
+    {
+      "number": 10,
+      "answer": "C",
+      "explanation": "Work done is the area under the force-distance graph. The graph is triangular, so W = ½Fx."
+    },
+    {
+      "number": 11,
+      "answer": "A",
+      "explanation": "The mass is 80/10 = 8 kg. The upward reaction is N = mg + ma = 80 + 8 × 5 = 120 N."
+    },
+    {
+      "number": 12,
+      "answer": "C",
+      "explanation": "The resultant of two perpendicular 10 N forces is √(10² + 10²) = 10√2 N, directed 45° east of north."
+    },
+    {
+      "number": 13,
+      "answer": "B",
+      "explanation": "At normal incidence, the ray passes through the slab without deviation or lateral displacement, but travels more slowly in glass."
+    },
+    {
+      "number": 14,
+      "answer": "B",
+      "explanation": "Stationary waves are formed by two identical waves travelling in opposite directions and superposing."
+    },
+    {
+      "number": 15,
+      "answer": "D",
+      "explanation": "Astigmatism is corrected using a cylindrical lens."
+    },
+    {
+      "number": 16,
+      "answer": "D",
+      "explanation": "A travelling wave transfers energy from one point to another."
+    },
+    {
+      "number": 17,
+      "answer": "C",
+      "explanation": "The radius is 40 cm, so f = 20 cm. For a real image twice the object size, v = 2u. The mirror formula gives u = 30 cm."
+    },
+    {
+      "number": 18,
+      "answer": "A",
+      "explanation": "For the fundamental mode, λ = 2L = 1.2 m. Wave speed v = fλ = 220 × 1.2 = 264 m/s."
+    },
+    {
+      "number": 19,
+      "answer": "D",
+      "explanation": "The radiator is cooled mainly by convection."
+    },
+    {
+      "number": 20,
+      "answer": "B",
+      "explanation": "Apparent depth = 9/1.5 = 6 cm. Apparent displacement = 9 − 6 = 3 cm."
+    },
+    {
+      "number": 21,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 22,
+      "answer": "C",
+      "explanation": "From the ideal gas equation, P = nRT/V = (3 × 8.3 × 300)/(10⁻³) = 7.47 × 10⁶ N/m²."
+    },
+    {
+      "number": 23,
+      "answer": "A",
+      "explanation": "A concave mirror produces an enlarged, erect virtual image when the object is between the principal focus and the pole."
+    },
+    {
+      "number": 24,
+      "answer": "C",
+      "explanation": "Soap-bubble colours arise from interference of light reflected at the two surfaces of the thin film."
+    },
+    {
+      "number": 25,
+      "answer": "A",
+      "explanation": "Persistence of sound after the source is removed is reverberation."
+    },
+    {
+      "number": 26,
+      "answer": "A",
+      "explanation": "A longitudinal wave cannot be polarized; polarization is a property of transverse waves."
+    },
+    {
+      "number": 27,
+      "answer": "B",
+      "explanation": "The velocity of sound in air depends on temperature and the density of the air; pitch does not determine its speed."
+    },
+    {
+      "number": 28,
+      "answer": "A",
+      "explanation": "Water wets glass, so it does not form a clear, well-defined meniscus in an ordinary glass thermometer."
+    },
+    {
+      "number": 29,
+      "answer": "B",
+      "explanation": "Newton's law of cooling states that the rate of heat loss is proportional to the temperature difference between the body and its surroundings."
+    },
+    {
+      "number": 30,
+      "answer": "D",
+      "explanation": "R = V²/P = 230²/1000 = 52.9 Ω."
+    },
+    {
+      "number": 31,
+      "answer": "B",
+      "explanation": "Electric field lines originate from positive charges and terminate on negative charges. The arrows indicate X positive and Y negative."
+    },
+    {
+      "number": 32,
+      "answer": "A",
+      "explanation": "The iris adjusts the size of the pupil and controls the amount of light reaching the retina."
+    },
+    {
+      "number": 33,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 34,
+      "answer": "B",
+      "explanation": "The current is I = P/V = 1000/250 = 4 A, so the appropriate fuse rating is 4 A."
+    },
+    {
+      "number": 35,
+      "answer": "D",
+      "explanation": "Infrared radiation is readily absorbed and produces a heating effect."
+    },
+    {
+      "number": 36,
+      "answer": "A",
+      "explanation": "Energy stored = Q²/(2C) = (100 × 10⁻⁶)²/[2 × (10 × 10⁻⁶)] = 5 × 10⁻⁴ J."
+    },
+    {
+      "number": 37,
+      "answer": "A",
+      "explanation": "The total circuit resistance is 12/2 = 6 Ω. The parallel section is 6 − 2 − 1.5 = 2.5 Ω. Thus 3X/(3 + X) = 2.5, giving X = 15 Ω."
+    },
+    {
+      "number": 38,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 39,
+      "answer": "B",
+      "explanation": "Neutrons initiate nuclear fission in a reactor because they have no electric charge and can enter the nucleus."
+    },
+    {
+      "number": 40,
+      "answer": "A",
+      "explanation": "Using Xc = 1/(2πfC), f = 1/[2π × 250 × 2.5 × 10⁻⁶] ≈ 255 Hz; the closest listed option is 200 Hz."
+    },
+    {
+      "number": 41,
+      "answer": "B",
+      "explanation": "After five half-lives, the remaining fraction is (1/2)⁵ = 1/32 ≈ 3.1%, closest to 3%."
+    },
+    {
+      "number": 42,
+      "answer": "D",
+      "explanation": "The deposited mass is proportional to charge It. The new charge is 1.5 × 1, equal to the original 0.5 × 3, so the deposited mass remains 2 g."
+    },
+    {
+      "number": 43,
+      "answer": "A",
+      "explanation": "Balancing mass and atomic numbers in ²³₁₁Na + X → ²⁰₉F + ⁴₂He gives X = ¹₀n, a neutron."
+    },
+    {
+      "number": 44,
+      "answer": "B",
+      "explanation": "A transistor amplifies signals by controlling the current through it."
+    },
+    {
+      "number": 45,
+      "answer": "B",
+      "explanation": "A moving-coil galvanometer uses a strong permanent magnet to provide a high magnetic field and hence a useful deflecting torque."
+    },
+    {
+      "number": 46,
+      "answer": "B",
+      "explanation": "Adding trivalent impurity atoms to pure silicon creates a p-type semiconductor."
+    },
+    {
+      "number": 47,
+      "answer": "A",
+      "explanation": "High-voltage transmission reduces current for a given power, thereby reducing I²R heating losses in the transmission coils/wires."
+    },
+    {
+      "number": 48,
+      "answer": "C",
+      "explanation": "In a series RL circuit, the resistor voltage is in phase with current while the inductor voltage leads current by 90°; the corresponding vector diagram is C."
+    },
+    {
+      "number": 49,
+      "answer": "B",
+      "explanation": "Photon energy E = hf = 6.63 × 10⁻³⁴ × 3 × 10⁵ ≈ 2.0 × 10⁻²⁸ J."
+    },
+    {
+      "number": 50,
+      "answer": "D",
+      "explanation": "A carbon-granule microphone works by changing the resistance of the carbon granules as sound pressure varies."
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "year": 2001,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "C",
+      "explanation": "A pendulum resonates with another pendulum of the same length. From the diagram, R and T have the same length as P."
+    },
+    {
+      "number": 2,
+      "answer": "B",
+      "explanation": "The source's simplified atmospheric-pressure model gives a decrease of 190 mmHg over 20 km: 760 − 190 = 570 mmHg."
+    },
+    {
+      "number": 3,
+      "answer": "D",
+      "explanation": "After falling 5 m, the stone has lost half of its initial gravitational potential energy; this equals its kinetic energy at that point."
+    },
+    {
+      "number": 4,
+      "answer": "B",
+      "explanation": "The block-and-tackle diagram has six supporting rope segments, so VR = 6. MA = 240/80 = 3; efficiency = (3/6) × 100% = 50%."
+    },
+    {
+      "number": 5,
+      "answer": "D",
+      "explanation": "The bob displaces water equal to its volume: (4/3)π(3³) = πr²(1). Thus r² = 36 and the cylinder radius is 6 cm."
+    },
+    {
+      "number": 6,
+      "answer": "B",
+      "explanation": "The resultant of two forces is greatest when they act in the same direction, so the angle between them is 0°."
+    },
+    {
+      "number": 7,
+      "answer": "A",
+      "explanation": "Weight varies with the Earth's shape, latitude/longitude, rotation and density distribution. All four listed factors apply."
+    },
+    {
+      "number": 8,
+      "answer": "D",
+      "explanation": "Efficiency = MA/VR. Since useful output is less than input, MA is less than VR."
+    },
+    {
+      "number": 9,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 10,
+      "answer": "C",
+      "explanation": "The water is cooled by conduction at the ice-water interface and by convection within the water."
+    },
+    {
+      "number": 11,
+      "answer": "D",
+      "explanation": "A mirror rotation of 10° rotates the reflected ray by 20°."
+    },
+    {
+      "number": 12,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 13,
+      "answer": "D",
+      "explanation": "The extra lens in a terrestrial telescope erects the image."
+    },
+    {
+      "number": 14,
+      "answer": "D",
+      "explanation": "For a convex driving mirror, f = R/2 = 0.5 m. Using 1/f = 1/u + 1/v with u = 4 m gives v = 4/7 m behind the mirror."
+    },
+    {
+      "number": 15,
+      "answer": "A",
+      "explanation": "The angle of incidence is measured from the normal; with α measured from the surface, sin i = cos α. Hence n = cos α/sin β."
+    },
+    {
+      "number": 16,
+      "answer": "B",
+      "explanation": "Using P₁V₁/T₁ = P₂V₂/T₂, with temperatures 400 K and 200 K, V₂/V₁ = (300/120)(200/400) = 5/4."
+    },
+    {
+      "number": 17,
+      "answer": "C",
+      "explanation": "The wavelength is v/f = 342/85.5 = 4 m. The first displacement antinode from a rigid wall is one-quarter wavelength away, i.e. 1 m."
+    },
+    {
+      "number": 18,
+      "answer": "B",
+      "explanation": "The second overtone is the third harmonic. For a string fixed at both ends, λ₃ = 2L/3 = 2 × 24/3 = 16 cm."
+    },
+    {
+      "number": 19,
+      "answer": "A",
+      "explanation": "Work done at constant pressure is PΔV = 2 × 10⁵ × (12 × 10⁻⁶ − 2 × 10⁻⁶) = 2.0 J."
+    },
+    {
+      "number": 20,
+      "answer": "C",
+      "explanation": "Helium is the thermometric substance used in an absolute gas thermometer."
+    },
+    {
+      "number": 21,
+      "answer": "D",
+      "explanation": "Efficiency = R/(R + r) = 0.75. With R = 6 Ω, r = 2 Ω."
+    },
+    {
+      "number": 22,
+      "answer": "B",
+      "explanation": "The top 10 Ω and 5 Ω resistors are in parallel (equivalent 10/3 Ω), in series with 3 Ω and 1 Ω. Total resistance = 22/3 Ω, so I = 6/(22/3) = 9/11 A."
+    },
+    {
+      "number": 23,
+      "answer": "D",
+      "explanation": "The capacitors are connected in parallel and have the same voltage. Stored energy is proportional to capacitance, so E_P:E_Q = 2:4 = 1:2."
+    },
+    {
+      "number": 24,
+      "answer": "A",
+      "explanation": "Terminal voltage V = E R/(R + r) = 3E/5. With r = 2 Ω, 5R = 3(R + 2), giving R = 3 Ω."
+    },
+    {
+      "number": 25,
+      "answer": "D",
+      "explanation": "The three capacitors are in series, so they carry equal charge. Their voltage drops are inversely proportional to capacitance: 6 V, 2 V and 4 V respectively."
+    },
+    {
+      "number": 26,
+      "answer": "B",
+      "explanation": "Electric field strength = potential difference/distance = 10⁷/4 = 2.5 × 10⁶ N/C."
+    },
+    {
+      "number": 27,
+      "answer": "A",
+      "explanation": "Input power = VI = 250 × 1.5 = 375 W. Output power = 0.8 × 375 = 300 W."
+    },
+    {
+      "number": 28,
+      "answer": "D",
+      "explanation": "Total power = 5 × 60 + 4 × 100 = 700 W = 0.7 kW. Energy for 20 h = 14 kWh; cost = 14 × ₦10 = ₦140."
+    },
+    {
+      "number": 29,
+      "answer": "A",
+      "explanation": "In a Daniell cell, the depolarizer is copper sulphate, the positive electrode is copper and the negative electrode is zinc."
+    },
+    {
+      "number": 30,
+      "answer": "D",
+      "explanation": "The net electric flux through a closed surface in a uniform field with no enclosed charge is zero (Gauss's law)."
+    },
+    {
+      "number": 31,
+      "answer": "A",
+      "explanation": "Energy = VIt = 240 × 4 × 60 = 5.76 × 10⁴ J."
+    },
+    {
+      "number": 32,
+      "answer": "C",
+      "explanation": "The two readings satisfy E(1/5 + 1/X) = 3 and E(1/2 + 1/X) = 6. Dividing and solving gives X = 10 Ω."
+    },
+    {
+      "number": 33,
+      "answer": "A",
+      "explanation": "Inserting a dielectric glass block increases the capacitance of a parallel-plate capacitor."
+    },
+    {
+      "number": 34,
+      "answer": "A",
+      "explanation": "The ratio is FE/FG = [e²/(4πε₀d²)]/[Gm²/d²] = e²/(4πε₀Gm²)."
+    },
+    {
+      "number": 35,
+      "answer": "B",
+      "explanation": "The angle of dip at the magnetic equator is 0°."
+    },
+    {
+      "number": 36,
+      "answer": "A",
+      "explanation": "Using E = I(R + r): 0.4(4 + r) = 0.2(10 + r), giving r = 2 Ω."
+    },
+    {
+      "number": 37,
+      "answer": "C",
+      "explanation": "Faraday's law gives deposited mass proportional to charge, and at constant current charge is proportional to time. The graph is a straight line through the origin."
+    },
+    {
+      "number": 38,
+      "answer": "B",
+      "explanation": "Impedance Z = √(4² + 3²) = 5 Ω. The r.m.s. current is 240/5 = 48 A."
+    },
+    {
+      "number": 39,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 40,
+      "answer": "E",
+      "explanation": "For i = 2 sin ωt, the r.m.s. (d.c. equivalent heating) current is I₀/√2 = 2/√2 = √2 A."
+    },
+    {
+      "number": 41,
+      "answer": "B",
+      "explanation": "Electrical conduction through a gas is facilitated by low pressure and a high potential difference: I and III only."
+    },
+    {
+      "number": 42,
+      "answer": "D",
+      "explanation": "Lead is highly effective at shielding against ionizing radiation because of its high density and atomic number."
+    },
+    {
+      "number": 43,
+      "answer": "B",
+      "explanation": "For an ideal transformer, Np/Ns = Vp/Vs. Thus N/1000 = 120/1200, so N = 100 turns."
+    },
+    {
+      "number": 44,
+      "answer": "B",
+      "explanation": "The Sun produces energy primarily by nuclear fusion."
+    },
+    {
+      "number": 45,
+      "answer": "C",
+      "explanation": "At resonance, inductive and capacitive reactances cancel, so voltage and current are in phase and the phase angle is 0°."
+    },
+    {
+      "number": 46,
+      "answer": "D",
+      "explanation": "The magnetic force F = BIL sin θ is maximum when the conductor is at right angles to the magnetic field."
+    },
+    {
+      "number": 47,
+      "answer": "A",
+      "explanation": "A transistor is commonly used as an electronic switch and as an amplifier."
+    },
+    {
+      "number": 48,
+      "answer": "D",
+      "explanation": "Using high-resistance core material reduces eddy currents and the associated energy loss."
+    },
+    {
+      "number": 49,
+      "answer": null,
+      "explanation": null
+    }
+  ]
+}

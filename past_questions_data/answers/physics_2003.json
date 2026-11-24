@@ -1,0 +1,255 @@
+{
+  "year": 2003,
+  "answers": [
+    {
+      "number": 1,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 2,
+      "answer": "A",
+      "explanation": "At the point of impending motion on an inclined plane, μ = tan θ = tan 30° = 1/√3."
+    },
+    {
+      "number": 3,
+      "answer": "B",
+      "explanation": "A satellite in a parking orbit has the same orbital period as the Earth’s rotation."
+    },
+    {
+      "number": 4,
+      "answer": "C",
+      "explanation": "Surface tension across the closely woven silk prevents water from passing through the umbrella unless the inside is touched."
+    },
+    {
+      "number": 5,
+      "answer": "A",
+      "explanation": "Work done against friction = μmgd = 0.1 × 0.01 × 10 × 0.2 = 2 × 10⁻³ J."
+    },
+    {
+      "number": 6,
+      "answer": "A",
+      "explanation": "Pressure = force/area = 0.77/[π(10⁻⁵)²] ≈ 2.45 × 10⁹ N/m²."
+    },
+    {
+      "number": 7,
+      "answer": "A",
+      "explanation": "When the string breaks, the stone continues in the direction of its instantaneous velocity, which is tangential to the circular path."
+    },
+    {
+      "number": 8,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 9,
+      "answer": "B",
+      "explanation": "The tube floats when its weight equals the weight of displaced water. h = m/(ρπr²) = 0.0088/[1000 × π × (0.01)²] ≈ 0.028 m = 2.8 cm."
+    },
+    {
+      "number": 10,
+      "answer": "A",
+      "explanation": "Taking moments about the centre of gravity: 30 × 30 = F × 45, so F = 20 N."
+    },
+    {
+      "number": 11,
+      "answer": "A",
+      "explanation": "Spring energy = ½kx² = ½ × 500 × 0.02² = 0.1 J. Equating to mgh gives h = 0.1/(0.005 × 10) = 2 m."
+    },
+    {
+      "number": 12,
+      "answer": "A",
+      "explanation": "Volume discharged = area × speed × time = 0.5 × 60 × 20 = 600 m³."
+    },
+    {
+      "number": 13,
+      "answer": "A",
+      "explanation": "Impulse = Ft = mv, so v = 100 × 0.8/0.8 = 100 m/s."
+    },
+    {
+      "number": 14,
+      "answer": "A",
+      "explanation": "Water droplets combining with dust particles in air and reducing visibility is fog."
+    },
+    {
+      "number": 15,
+      "answer": "B",
+      "explanation": "The speed of sound in a solid bar is v = √(Y/ρ) = √(7.0 × 10¹⁰/2.7 × 10³) ≈ 5.1 × 10³ m/s."
+    },
+    {
+      "number": 16,
+      "answer": "C",
+      "explanation": "Thermal equilibrium exists when the two objects have the same temperature."
+    },
+    {
+      "number": 17,
+      "answer": "B",
+      "explanation": "Sound intensity varies inversely as the square of distance. Doubling the distance reduces intensity to 1/4."
+    },
+    {
+      "number": 18,
+      "answer": "D",
+      "explanation": "Two parallel plane mirrors facing each other produce an infinite number of images."
+    },
+    {
+      "number": 19,
+      "answer": "D",
+      "explanation": "Heat supplied = Pt = 2000 × 600 = 1.2 × 10⁶ J. Heat capacity = Q/ΔT = 1.2 × 10⁶/30 = 4.0 × 10⁴ J/°C."
+    },
+    {
+      "number": 20,
+      "answer": "A",
+      "explanation": "Linear magnification = image distance/object distance = 25/10 = 2.5."
+    },
+    {
+      "number": 21,
+      "answer": "D",
+      "explanation": "Using linear expansion, ΔL = αLΔT. With α ≈ 1.0 × 10⁻⁵ °C⁻¹, ΔL = 0.004 m; new length = 20.004 m."
+    },
+    {
+      "number": 22,
+      "answer": "B",
+      "explanation": "Using Q/t = kA(ΔT/L), A = (1.2 × 10⁶)/(400 × 30) = 100 m²."
+    },
+    {
+      "number": 23,
+      "answer": "A",
+      "explanation": "Relative humidity = (actual vapour pressure/saturated vapour pressure) × 100 = (10/17.5) × 100 ≈ 57%."
+    },
+    {
+      "number": 24,
+      "answer": "D",
+      "explanation": "An object placed at the principal focus of a concave mirror forms its image at infinity."
+    },
+    {
+      "number": 25,
+      "answer": "D",
+      "explanation": "For a pipe closed at one end, the fundamental wavelength is 4l; therefore f = v/(4l)."
+    },
+    {
+      "number": 26,
+      "answer": "B",
+      "explanation": "The wavelength is v/f = 340/340 = 1 m. At the first resonance, the air-column length is λ/4 = 0.25 m; with tube height 1.2 m, the water height is 1.2 − 0.25 = 0.95 m."
+    },
+    {
+      "number": 27,
+      "answer": "A",
+      "explanation": "R = ρL/A. Doubling length and halving area makes the resistance four times the original: 4 × 5 = 20 Ω."
+    },
+    {
+      "number": 28,
+      "answer": "C",
+      "explanation": "At minimum deviation in a prism, the angle of incidence equals the angle of emergence."
+    },
+    {
+      "number": 29,
+      "answer": "B",
+      "explanation": "The two 2 Ω resistors in parallel have equivalent resistance 1 Ω, in series with 2 Ω. The series resistor limits the current to 3 A at 18 W; each parallel resistor then dissipates 4.5 W, giving total power 18 + 4.5 + 4.5 = 27 W."
+    },
+    {
+      "number": 30,
+      "answer": "D",
+      "explanation": "Iron is preferred for electromagnets because it is more easily magnetized and more easily demagnetized than steel: II and III only."
+    },
+    {
+      "number": 31,
+      "answer": "D",
+      "explanation": "Blue and red are at opposite ends of the visible spectrum and have the widest separation among the listed pairs."
+    },
+    {
+      "number": 32,
+      "answer": "D",
+      "explanation": "Adding a resistor in parallel decreases the effective resistance, so the current drawn from the source increases."
+    },
+    {
+      "number": 33,
+      "answer": "A",
+      "explanation": "At minimum deviation, n = sin[(A + δ)/2]/sin(A/2). With n = 1.5 and A = 60°, δ = 2 sin⁻¹(1.5 × 0.5) − 60° ≈ 37.2°."
+    },
+    {
+      "number": 34,
+      "answer": "D",
+      "explanation": "A Leclanché cell is suitable for the short, intermittent current demands of an electric bell."
+    },
+    {
+      "number": 35,
+      "answer": "A",
+      "explanation": "The electron gains kinetic energy eV, so V = 4.8 × 10⁻¹⁷/(1.6 × 10⁻¹⁹) = 300 V."
+    },
+    {
+      "number": 36,
+      "answer": "C",
+      "explanation": "A magnetic field is indicated by a force on a moving charge at the point."
+    },
+    {
+      "number": 37,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 38,
+      "answer": "C",
+      "explanation": "With the positively charged rod held near the sphere, touching the sphere to earth allows electrons to flow onto it. Removing the finger first leaves the sphere negatively charged."
+    },
+    {
+      "number": 39,
+      "answer": "A",
+      "explanation": "Forward bias reduces the potential barrier and narrows the depletion layer."
+    },
+    {
+      "number": 40,
+      "answer": "D",
+      "explanation": "The energy equivalent of the mass defect of a nucleus is its binding energy."
+    },
+    {
+      "number": 41,
+      "answer": "C",
+      "explanation": "The emitted photon energy is E = hf = 6.6 × 10⁻³⁴ × 8.0 × 10¹⁴ = 5.28 × 10⁻¹⁹ J."
+    },
+    {
+      "number": 42,
+      "answer": "D",
+      "explanation": "A 0.01% mass decrease from 1.0 g is 1.0 × 10⁻⁷ kg. E = mc² = 1.0 × 10⁻⁷ × (3.0 × 10⁸)² = 9.0 × 10⁹ J."
+    },
+    {
+      "number": 43,
+      "answer": "A",
+      "explanation": "The peak induced voltage is NBAω = 50 × 0.4 × 0.4 × 10 = 80 V."
+    },
+    {
+      "number": 44,
+      "answer": "C",
+      "explanation": "For I = 10 sin(120πt), Irms = 10/√2 A. Power = Irms²R = (100/2) × 12 = 600 W."
+    },
+    {
+      "number": 45,
+      "answer": "A",
+      "explanation": "A pure metal's resistance generally increases with temperature, whereas a semiconductor's resistance generally decreases."
+    },
+    {
+      "number": 46,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 47,
+      "answer": "A",
+      "explanation": "The actual current is I = m/(Zt) = 0.990/[3.3 × 10⁻⁴ × (40 × 60)] = 1.25 A. Correction = 1.25 − 1.20 = +0.05 A."
+    },
+    {
+      "number": 48,
+      "answer": "C",
+      "explanation": "The stopping potential equals the maximum photoelectron kinetic energy per unit charge: 0.34 eV corresponds to 0.34 V."
+    },
+    {
+      "number": 49,
+      "answer": "D",
+      "explanation": "Magnetic force F = qvB sin θ. If it is half the maximum, sin θ = 1/2, so θ = 30°."
+    },
+    {
+      "number": 50,
+      "answer": "A",
+      "explanation": "Sixteen days is four half-lives. Count rate = 800 × (1/2)⁴ = 50 counts/min."
+    }
+  ]
+}

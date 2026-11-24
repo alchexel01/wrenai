@@ -1,0 +1,250 @@
+{
+  "year": 2004,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "D",
+      "explanation": "The incident ray makes 30° with the surface, so its angle of incidence is 60° to the normal. The refracted ray makes 60° with the surface, so its angle of refraction is 30°. Thus n = sin 60°/sin 30° = √3."
+    },
+    {
+      "number": 2,
+      "answer": "B",
+      "explanation": "A parabolic mirror reflects rays from a source at its focus into a parallel beam, as used in car headlamps."
+    },
+    {
+      "number": 3,
+      "answer": "A",
+      "explanation": "A concave (diverging) lens corrects short-sightedness, allowing a person whose far point is 200 cm to see distant objects clearly."
+    },
+    {
+      "number": 4,
+      "answer": "C",
+      "explanation": "Sound generally travels fastest in solids; among the listed media, it travels fastest in metal."
+    },
+    {
+      "number": 5,
+      "answer": "A",
+      "explanation": "For an equilateral prism, A = 60°. At minimum deviation, n = sin[(A + δ)/2]/sin(A/2). Hence δ = 2sin⁻¹(1.4 × 0.5) − 60° ≈ 29°."
+    },
+    {
+      "number": 6,
+      "answer": "B",
+      "explanation": "The rays in an ideal parallel beam remain parallel and meet only at infinity."
+    },
+    {
+      "number": 7,
+      "answer": "C",
+      "explanation": "Linear magnification m = v/u. From 1/f = 1/u + 1/v, rearranging gives v/u = v/f − 1."
+    },
+    {
+      "number": 8,
+      "answer": "A",
+      "explanation": "The angle of incidence is measured from the normal: i = 90° − 35° = 55°. The angle of reflection is also 55°."
+    },
+    {
+      "number": 9,
+      "answer": "D",
+      "explanation": "Pitch depends on the frequency of the sound wave."
+    },
+    {
+      "number": 10,
+      "answer": "B",
+      "explanation": "Two vectors with an angle of 0° between them act in the same direction and are parallel."
+    },
+    {
+      "number": 11,
+      "answer": "D",
+      "explanation": "Efficiency = MA/VR, so MA = 0.60 × 5 = 3. The load is 3 × 500 = 1500 N."
+    },
+    {
+      "number": 12,
+      "answer": "A",
+      "explanation": "Acceleration = F/m = 12/4 = 3 m/s². Starting from rest, v = at = 9 m/s; kinetic energy = ½ × 4 × 9² = 162 J."
+    },
+    {
+      "number": 13,
+      "answer": "D",
+      "explanation": "The viscosity of a fluid generally increases as pressure increases."
+    },
+    {
+      "number": 14,
+      "answer": "A",
+      "explanation": "All four examples involve action and reaction pairs and are applications of Newton's third law."
+    },
+    {
+      "number": 15,
+      "answer": "B",
+      "explanation": "By Pascal's principle, F₁/A₁ = F₂/A₂. Therefore A₂ = 400 × 0.4/40 = 4 m²."
+    },
+    {
+      "number": 16,
+      "answer": "A",
+      "explanation": "Uniform velocity means the applied force balances friction. The normal reaction is mg = 100 × 10 = 1000 N, so μ = 500/1000 = 0.5."
+    },
+    {
+      "number": 17,
+      "answer": "B",
+      "explanation": "Since g ∝ M/R², Mₑ/Mₘ = (gₑ/gₘ)(Rₑ/Rₘ)² = 80 × 4² = 1280. Thus the moon-to-earth mass ratio is 1:1280."
+    },
+    {
+      "number": 18,
+      "answer": "D",
+      "explanation": "The horizontal components to the right are 10 + 8cos60° + 6cos60° = 17 N. Subtracting the 4 N force to the left gives a net horizontal force of 13 N to the right."
+    },
+    {
+      "number": 19,
+      "answer": "C",
+      "explanation": "The average life is the reciprocal of the decay constant: τ = 1/λ = 1/(10⁻⁷) = 1.00 × 10⁷ s."
+    },
+    {
+      "number": 20,
+      "answer": "A",
+      "explanation": "Sensitivity = deflection/current = 30°/3 A = 10° A⁻¹."
+    },
+    {
+      "number": 21,
+      "answer": "B",
+      "explanation": "The mass defect is approximately 2(1.00783) + 2(1.00867) − 4.0015 ≈ 0.033 u, matching option B."
+    },
+    {
+      "number": 22,
+      "answer": "C",
+      "explanation": "At resonance in a series RLC circuit, the inductive and capacitive reactances are equal: Xᴸ = Xᶜ."
+    },
+    {
+      "number": 23,
+      "answer": "A",
+      "explanation": "The de Broglie relation, λ = h/p, demonstrates the wave nature of matter."
+    },
+    {
+      "number": 24,
+      "answer": "D",
+      "explanation": "A negative temperature coefficient means that semiconductor resistance decreases as temperature increases."
+    },
+    {
+      "number": 25,
+      "answer": "B",
+      "explanation": "In a fluorescent tube, the gas is excited by electrical discharge and produces light."
+    },
+    {
+      "number": 26,
+      "answer": "C",
+      "explanation": "In reverse bias, the small current is due to minority charge carriers."
+    },
+    {
+      "number": 27,
+      "answer": "D",
+      "explanation": "Energy stored in an inductor is ½LI² = ½ × 5 × 10⁻³ × 6² = 9.0 × 10⁻² J."
+    },
+    {
+      "number": 28,
+      "answer": "A",
+      "explanation": "X-rays are useful for studying crystal structures because their wavelengths are comparable to the spacing between atoms in crystals."
+    },
+    {
+      "number": 29,
+      "answer": "C",
+      "explanation": "The net reactance is 16 − 10 = 6 Ω. The impedance is √(8² + 6²) = 10 Ω, so I = 12/10 = 1.2 A."
+    },
+    {
+      "number": 30,
+      "answer": "A",
+      "explanation": "A d.c. dynamo uses a commutator. Replacing it with slip rings converts the arrangement to an a.c. dynamo."
+    },
+    {
+      "number": 31,
+      "answer": "B",
+      "explanation": "Polarization distinguishes transverse waves from longitudinal waves."
+    },
+    {
+      "number": 32,
+      "answer": "D",
+      "explanation": "Water expands on freezing, increasing its volume and causing a full bottle to crack."
+    },
+    {
+      "number": 34,
+      "answer": "A",
+      "explanation": "The ice volume is 450/900 = 0.50 m³. After melting, the water volume is 450/1000 = 0.45 m³. The decrease is 0.05 m³."
+    },
+    {
+      "number": 35,
+      "answer": "C",
+      "explanation": "For the same wire, force is proportional to extension. Increasing extension from 0.01 m to 0.05 m requires 5 × 50 = 250 N."
+    },
+    {
+      "number": 36,
+      "answer": "B",
+      "explanation": "A shiny silver coating is a poor emitter and absorber of thermal radiation, so it reduces heat loss by radiation."
+    },
+    {
+      "number": 37,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 38,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 39,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 40,
+      "answer": "D",
+      "explanation": "Waves are characterized by wavelength, wave velocity and frequency: I, III and IV."
+    },
+    {
+      "number": 41,
+      "answer": "B",
+      "explanation": "An electrophorus is used to obtain repeated charges by electrostatic induction."
+    },
+    {
+      "number": 42,
+      "answer": "C",
+      "explanation": "The energy associated with the back e.m.f. is E = VIt = 3 × 2 × 0.4 = 2.4 J."
+    },
+    {
+      "number": 43,
+      "answer": "B",
+      "explanation": "The charge transported is Q = It = 0.016 × 1 = 0.016 C. The number of electrons is Q/e = 0.016/(1.6 × 10⁻¹⁹) = 1.00 × 10¹⁷."
+    },
+    {
+      "number": 44,
+      "answer": "A",
+      "explanation": "X-rays arise from energy changes involving atomic electrons, whereas gamma rays originate from changes in the nucleus."
+    },
+    {
+      "number": 45,
+      "answer": "B",
+      "explanation": "The resistors are in parallel and have the same voltage. Since P = V²/R, P₆:P₃ = 1/6:1/3 = 1:2."
+    },
+    {
+      "number": 46,
+      "answer": "D",
+      "explanation": "A soft-iron ring provides a low-reluctance path that shields the protected material from an external magnetic field."
+    },
+    {
+      "number": 47,
+      "answer": "A",
+      "explanation": "Grape juice contains ions and conducts electricity, so it is an electrolyte."
+    },
+    {
+      "number": 48,
+      "answer": "B",
+      "explanation": "Earthing provides a low-resistance path for fault current, helping prevent a person touching the appliance from receiving an electric shock."
+    },
+    {
+      "number": 49,
+      "answer": "D",
+      "explanation": "The lost voltage is the voltage across the internal resistance: V = Ir = 4 × 0.5 = 2.0 V."
+    },
+    {
+      "number": 50,
+      "answer": "C",
+      "explanation": "The minimum capacitance is obtained by connecting all three capacitors in series: 1/C = 1/0.3 + 1/0.5 + 1/0.2, giving C ≈ 0.097 μF ≈ 0.1 μF."
+    }
+  ]
+}
