@@ -1,0 +1,255 @@
+{
+  "year": 1998,
+  "answers": [
+    {
+      "number": 1,
+      "answer": "B",
+      "explanation": "Impulse has dimensions force × time, M L T^-1, the same as momentum."
+    },
+    {
+      "number": 2,
+      "answer": "D",
+      "explanation": "The horizontal velocity component is 18 cos 60° = 9 m/s."
+    },
+    {
+      "number": 3,
+      "answer": "B",
+      "explanation": "The eastward component is 10 cos 60° = 5 N, so 5 N westward cancels it."
+    },
+    {
+      "number": 4,
+      "answer": "A",
+      "explanation": "Free-fall time depends on height and gravitational acceleration, not mass; both take 5 s."
+    },
+    {
+      "number": 5,
+      "answer": "C",
+      "explanation": "If the ball stops at the wall, impulse = mv = 0.15 × 50 = 7.5 N s."
+    },
+    {
+      "number": 6,
+      "answer": "D",
+      "explanation": "Gravitational force varies inversely as distance squared; reducing distance threefold increases force ninefold to 9.0 × 10^-4 N."
+    },
+    {
+      "number": 7,
+      "answer": "A",
+      "explanation": "For constant force, a = F/m; acceleration varies inversely with m and directly with 1/m. Graphs III and IV fit."
+    },
+    {
+      "number": 8,
+      "answer": "D",
+      "explanation": "The weight's moment is 0.5 × 20 = 10 N cm; a 2 N force balances it at 5 cm."
+    },
+    {
+      "number": 9,
+      "answer": "C",
+      "explanation": "Fs = 7.5 × 10^3 × 0.15 = 1125 J = ½mv², giving v = 300 m/s."
+    },
+    {
+      "number": 10,
+      "answer": "D",
+      "explanation": "h = Pt/(mg) = (120 × 20)/(80 × 10) = 3.0 m."
+    },
+    {
+      "number": 11,
+      "answer": "D",
+      "explanation": "At terminal velocity, upward viscous drag plus upthrust balances the weight."
+    },
+    {
+      "number": 12,
+      "answer": "B",
+      "explanation": "Velocity ratio = 40/8 = 5; efficiency 0.8 gives mechanical advantage 4, so effort = 100/4 = 25 N."
+    },
+    {
+      "number": 13,
+      "answer": "C",
+      "explanation": "Strain = extension/length = 2.0 × 10^-5/0.01 = 2 × 10^-3."
+    },
+    {
+      "number": 14,
+      "answer": "B",
+      "explanation": "Liquid pressure acts in all directions, increases with depth, and at equal depths is proportional to density: I, II and IV."
+    },
+    {
+      "number": 15,
+      "answer": "B",
+      "explanation": "Total pressure = 1.3 × 10^6 + ρgh = 1.3 × 10^6 + 1.0 × 10^5 = 1.4 × 10^6 N/m^2."
+    },
+    {
+      "number": 16,
+      "answer": "C",
+      "explanation": "Upthrust is proportional to density; in water it is 0.210/0.875 = 0.240 N."
+    },
+    {
+      "number": 17,
+      "answer": "B",
+      "explanation": "Resistance varies linearly: (6 − 3)/(8 − 3) × 100 = 60°C."
+    },
+    {
+      "number": 18,
+      "answer": "C",
+      "explanation": "Cubical expansivity = 3α = 6 × 10^-5 °C^-1; V = 15[1 + (6 × 10^-5 × 100)] = 15.09 cm^3."
+    },
+    {
+      "number": 19,
+      "answer": "C",
+      "explanation": "At constant pressure V/T is constant: T2 = 300 × 120/100 = 360 K = 87°C."
+    },
+    {
+      "number": 20,
+      "answer": "B",
+      "explanation": "Using t ∝ mcΔT/P, t1/t2 = [(0.6 × 75)/500]/[(0.2 × 90)/1000] = 5."
+    },
+    {
+      "number": 21,
+      "answer": "A",
+      "explanation": "Melting needs 0.042 × 3.4 × 10^5 = 14280 J; cooling water by 17°C supplies this from 0.20 kg, or 200 g."
+    },
+    {
+      "number": 22,
+      "answer": "B",
+      "explanation": "Saturated vapour is in dynamic equilibrium with its liquid: evaporation and condensation rates are equal."
+    },
+    {
+      "number": 23,
+      "answer": "D",
+      "explanation": "The kinetic theory assumes gas molecules are identical and very small compared with the container."
+    },
+    {
+      "number": 24,
+      "answer": "A",
+      "explanation": "Sound waves exhibit reflection and diffraction; sound in air is longitudinal and cannot be polarized."
+    },
+    {
+      "number": 25,
+      "answer": "C",
+      "explanation": "v is proportional to √T: v2 = 360√(400/300) = 240√3 m/s."
+    },
+    {
+      "number": 26,
+      "answer": "B",
+      "explanation": "A closed organ pipe has a displacement antinode at its open end."
+    },
+    {
+      "number": 27,
+      "answer": "C",
+      "explanation": "For the fundamental, λ = 2L; v = fλ = 200 × 1.0 = 200 m/s."
+    },
+    {
+      "number": 28,
+      "answer": "C",
+      "explanation": "The third overtone is the fourth harmonic: 4 × 280 = 1120 Hz."
+    },
+    {
+      "number": 29,
+      "answer": "B",
+      "explanation": "An object inside the focal length of a concave mirror forms a virtual, erect, magnified image."
+    },
+    {
+      "number": 30,
+      "answer": "B",
+      "explanation": "For 7 images, θ = 360°/(7 + 1) = 45°."
+    },
+    {
+      "number": 31,
+      "answer": "D",
+      "explanation": "A parabolic mirror sends rays from its focus out as a parallel beam, suitable for a searchlight."
+    },
+    {
+      "number": 32,
+      "answer": "C",
+      "explanation": "Apparent displacement through a glass block is d = t(1 − 1/n)."
+    },
+    {
+      "number": 33,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 34,
+      "answer": "C",
+      "explanation": "For a convex lens of focal length 30 cm to form a virtual image at 25 cm, the object distance is 150 cm."
+    },
+    {
+      "number": 35,
+      "answer": "B",
+      "explanation": "Infra-red is invisible, called heat radiation, and transverse; its frequency is lower than blue light. I, II and IV are true."
+    },
+    {
+      "number": 36,
+      "answer": "C",
+      "explanation": "Coulomb's law gives F = 9 × 10^9 × 5 × 10^-6 × 8 × 10^-6/(0.02)^2 = 9.0 × 10^2 N."
+    },
+    {
+      "number": 37,
+      "answer": "A",
+      "explanation": "Ebonite rubbed with fur becomes negative and glass rubbed with silk becomes positive; opposite charges attract."
+    },
+    {
+      "number": 38,
+      "answer": null,
+      "explanation": null
+    },
+    {
+      "number": 39,
+      "answer": "B",
+      "explanation": "Pure zinc as the negative pole reduces local action by minimizing impurities that form local cells."
+    },
+    {
+      "number": 40,
+      "answer": "C",
+      "explanation": "The right branch is 2 + 2 + 2 = 6 Ω; 6 Ω parallel with 3 Ω gives 2 Ω, plus the two 1 Ω series resistors = 4 Ω."
+    },
+    {
+      "number": 41,
+      "answer": "D",
+      "explanation": "Work done W = QV = 2 × 100 = 200 J."
+    },
+    {
+      "number": 42,
+      "answer": "C",
+      "explanation": "C = ε0A/d = 8.85 × 10^-12 × 5 × 10^-8/(2 × 10^-3) ≈ 2.25 × 10^-16 F."
+    },
+    {
+      "number": 43,
+      "answer": "A",
+      "explanation": "Laminating the iron core reduces eddy currents and the energy they dissipate."
+    },
+    {
+      "number": 44,
+      "answer": "D",
+      "explanation": "Heat dissipated = I²Rt = 100² × 0.5 × 3600 = 1.8 × 10^7 J."
+    },
+    {
+      "number": 45,
+      "answer": "D",
+      "explanation": "At resonance f = 1/(2π√LC); for 8 mH and 5 μF this is 2500/π Hz."
+    },
+    {
+      "number": 46,
+      "answer": "A",
+      "explanation": "Efficiency = VsIs/(VpIp), so Ip = (8 × 15)/(0.80 × 240) = 0.625 A."
+    },
+    {
+      "number": 47,
+      "answer": "D",
+      "explanation": "Deposited mass = ZQ = 1.3 × 10^-7 × 2.0 × 10^4 = 2.6 × 10^-3 kg."
+    },
+    {
+      "number": 48,
+      "answer": "A",
+      "explanation": "320 days is four half-lives; remaining atoms = 6.0 × 10^10/16 = 3.75 × 10^9."
+    },
+    {
+      "number": 49,
+      "answer": "D",
+      "explanation": "E = mc² = 1.0 × 10^-6 × (3.0 × 10^8)² = 9.0 × 10^10 J."
+    },
+    {
+      "number": 50,
+      "answer": "A",
+      "explanation": "Photoelectric emission occurs when each photon has energy greater than the metal's work function."
+    }
+  ]
+}
