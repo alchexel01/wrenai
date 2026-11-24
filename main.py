@@ -34,6 +34,7 @@ Endpoints:
     GET  /admin/feedback             — read feedback (needs admin key)
     POST /chat                       — proxies to Groq chat completions
     POST /transcribe                 — proxies to Groq Whisper transcription
+    POST /image                      — safe image generation (filters the prompt, proxies to Pollinations)
     GET  /model/{key}                — streams an offline model file from HF
     GET  /scholarships               — scholarships from the repo's scholarships/ folder
     GET  /scholarships/{id}          — one scholarship
@@ -57,7 +58,7 @@ import asyncio
 import logging
 import traceback
 from fastapi import FastAPI, Header, HTTPException, Request, UploadFile, File, Form
-from fastapi.responses import StreamingResponse, PlainTextResponse, JSONResponse, FileResponse
+from fastapi.responses import StreamingResponse, PlainTextResponse, JSONResponse, FileResponse, Response
 from pydantic import BaseModel
 from typing import Optional
 import httpx
@@ -987,6 +988,253 @@ async def transcribe(
         status_code=last_status if last_status not in (429, 401, 403) else 429,
         detail={"error": last_body_text, "source": "groq", "request_id": rid},
     )
+
+
+
+# ═══════════════════════════════════════════════════════════════════════
+#  POST /image — safe image generation (Pollinations, gen.pollinations.ai)
+# ═══════════════════════════════════════════════════════════════════════
+# The app no longer talks to Pollinations directly. It sends the prompt
+# here, and this route:
+#   1. checks the app secret,
+#   2. refuses sexual / graphic prompts with a keyword filter (same rules
+#      as the app's, but this copy can't be bypassed by editing the APK),
+#   3. rate-limits per user so nobody can burn your Pollinations credits,
+#   4. asks a Groq safety model (Llama Guard) to review the prompt,
+#   5. generates the image with the Pollinations key kept server-side and
+#      Pollinations' own safety filter switched on, and
+#   6. streams the image bytes back.
+#
+# Render environment variables:
+#   POLLINATIONS_API_KEY   (required)  secret key from enter.pollinations.ai
+#   POLLINATIONS_SAFE      (optional)  value for the `safe` parameter. Default
+#                          "nsfw". Pollinations documents `safe` as a
+#                          comma-separated list of: privacy, secrets, sexual,
+#                          violence, shield, true, nsfw.
+#   POLLINATIONS_IMAGE_MODEL (optional) default "black-forest-labs/flux.1-schnell"
+#                          (FLUX Schnell: cheap and fast). Needs to be a model
+#                          your key is allowed to use.
+#   IMAGE_GUARD_ENABLED    (optional)  "0" turns the Llama Guard check off
+#   IMAGE_GUARD_MODEL      (optional)  default "meta-llama/llama-guard-4-12b"
+#   IMAGE_RATE_MAX / IMAGE_RATE_WINDOW_SECS (optional) default 12 per 600s
+
+POLLINATIONS_IMAGE_URL = "https://gen.pollinations.ai/image/"
+POLLINATIONS_API_KEY = os.environ.get("POLLINATIONS_API_KEY", "").strip()
+POLLINATIONS_SAFE = os.environ.get("POLLINATIONS_SAFE", "nsfw").strip() or "nsfw"
+POLLINATIONS_IMAGE_MODEL = (os.environ.get("POLLINATIONS_IMAGE_MODEL",
+                                           "black-forest-labs/flux.1-schnell").strip()
+                            or "black-forest-labs/flux.1-schnell")
+IMAGE_GUARD_ENABLED = os.environ.get("IMAGE_GUARD_ENABLED", "1").strip() != "0"
+IMAGE_GUARD_MODEL = (os.environ.get("IMAGE_GUARD_MODEL", "meta-llama/llama-guard-4-12b").strip()
+                     or "meta-llama/llama-guard-4-12b")
+IMAGE_MAX_PROMPT_CHARS = 500
+
+
+def _env_int(name: str, default: int) -> int:
+    try:
+        return int(os.environ.get(name, "").strip() or default)
+    except ValueError:
+        return default
+
+
+IMAGE_RATE_MAX = _env_int("IMAGE_RATE_MAX", 12)
+IMAGE_RATE_WINDOW_SECS = _env_int("IMAGE_RATE_WINDOW_SECS", 600)
+
+# The Pollinations key is sent in an Authorization header (never in the URL),
+# and httpx's request logging is kept quiet as a second safeguard.
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("httpcore").setLevel(logging.WARNING)
+
+log.info(f"[startup] /image: pollinations key {'set' if POLLINATIONS_API_KEY else 'MISSING'}, "
+         f"safe={POLLINATIONS_SAFE!r}, guard={'on' if IMAGE_GUARD_ENABLED else 'off'} ({IMAGE_GUARD_MODEL})")
+
+import re
+import unicodedata
+import urllib.parse as _urlparse
+
+_IMG_BLOCK_ALWAYS = re.compile(
+    r"\b(?:porn\w*|nsfw|xxx|hentai|erotic\w*|nude[sd]?|nudity|naked|"
+    r"topless|bottomless|undress\w*|strip(?:ping|per|tease)?|lingerie|"
+    r"sexy|sexual\w*|sex\s*(?:scene|act|position|toy)s?|having\s+sex|"
+    r"intercourse|orgasm\w*|masturbat\w*|fetish\w*|bdsm|"
+    r"onlyfans|lewd|smut|explicit|boudoir|"
+    r"loli\w*|shota|underage|child\s*(?:porn|abuse)|"
+    r"gore|gory|bloodbath|dismember\w*|decapitat\w*|behead\w*|"
+    r"mutilat\w*|disembowel\w*|eviscerat\w*|torture[sd]?|torturing|"
+    r"snuff|massacre|slaughter(?:ed|ing)?\s+(?:people|humans?|children|kids)|"
+    r"rape[sd]?|raping|molest\w*|self[\s-]*harm|"
+    r"suicide|hanging\s+(?:himself|herself|themself|body)|"
+    r"slit(?:ting)?\s+(?:my|his|her|their)?\s*wrists?|"
+    r"(?:dead|mangled|bloody|burnt|burned)\s+(?:bod(?:y|ies)|corpses?|babies|baby|children|child)|"
+    r"graphic\s+(?:violence|injur\w*|death)|bleeding\s+out|"
+    r"dead|deceased|death|corpses?|lifeless|graveyards?|cemeter(?:y|ies)|"
+    r"graves?|gravestones?|tombstones?|coffins?|morgue|murder\w*)\b")
+_IMG_BLOCK_ANATOMY = re.compile(
+    r"\b(?:penis|vagina|vulva|genitals?|genitalia|breasts?|boobs?|"
+    r"nipples?|butt|buttocks|anus|testicles?|scrotum|clitoris|pussy|"
+    r"cock|dick|ass)\b")
+_IMG_EDU_CONTEXT = re.compile(
+    r"\b(?:anatomy|anatomical|diagram|labell?ed|labelling|cross[\s-]*section|"
+    r"histolog\w*|physiolog\w*|biolog\w*|medical|textbook|pharmac\w*|"
+    r"reproductive\s+system|urinary\s+system|mammary|cancer|"
+    r"examination|lactation|breastfeeding|tissue|cell|organ)\b")
+_IMG_LEET = str.maketrans({"0": "o", "1": "i", "3": "e", "4": "a",
+                           "5": "s", "7": "t", "@": "a", "$": "s", "!": "i"})
+
+
+def _image_prompt_blocked(msg: str) -> bool:
+    """True if an image request is sexual / graphic. Normalises common
+    evasions (leetspeak, spaced-out letters, stretched letters) first."""
+    try:
+        t = (msg or "").lower()
+        t = "".join(c for c in unicodedata.normalize("NFKD", t) if not unicodedata.combining(c))
+        t = t.translate(_IMG_LEET)
+        t = re.sub(r"\b(?:[a-z][\s._\-*]){2,}[a-z]\b",
+                   lambda m: re.sub(r"[\s._\-*]", "", m.group(0)), t)
+        t = re.sub(r"([a-z])\1{2,}", r"\1", t)
+        if _IMG_BLOCK_ALWAYS.search(t):
+            return True
+        if _IMG_BLOCK_ANATOMY.search(t) and not _IMG_EDU_CONTEXT.search(t):
+            return True
+    except Exception:
+        pass
+    return False
+
+
+_IMG_RATE: dict = {}   # user_key -> list of recent request timestamps
+
+
+def _image_rate_check(user_key: str):
+    """Returns 0 if allowed (and records the request), else seconds to wait."""
+    now = time.time()
+    hits = [t for t in _IMG_RATE.get(user_key, []) if now - t < IMAGE_RATE_WINDOW_SECS]
+    if len(hits) >= IMAGE_RATE_MAX:
+        _IMG_RATE[user_key] = hits
+        return max(1, int(IMAGE_RATE_WINDOW_SECS - (now - hits[0])))
+    hits.append(now)
+    _IMG_RATE[user_key] = hits
+    if len(_IMG_RATE) > 5000:          # keep memory bounded
+        for k in [k for k, v in _IMG_RATE.items() if not v or now - v[-1] > IMAGE_RATE_WINDOW_SECS]:
+            _IMG_RATE.pop(k, None)
+    return 0
+
+
+async def _image_guard_unsafe(prompt: str, rid: str) -> bool:
+    """Second opinion from a Groq safety model. Returns True only on a clear
+    'unsafe' verdict. If the model is unavailable or errors, this returns
+    False (the keyword filter above has already run, and Pollinations
+    applies its own filter) and the problem is logged."""
+    if not IMAGE_GUARD_ENABLED or not len(groq_pool):
+        return False
+    try:
+        key = await groq_pool.current()
+        async with httpx.AsyncClient(timeout=8) as client:
+            resp = await client.post(
+                GROQ_CHAT_URL,
+                headers={"Authorization": f"Bearer {key}"},
+                json={"model": IMAGE_GUARD_MODEL,
+                      "messages": [{"role": "user",
+                                    "content": f"Image generation request: {prompt}"}],
+                      "max_tokens": 20, "temperature": 0},
+            )
+        if resp.status_code != 200:
+            log.warning(f"[{rid}] /image: guard model HTTP {resp.status_code}: {resp.text[:200]}")
+            return False
+        verdict = (resp.json()["choices"][0]["message"]["content"] or "").strip().lower()
+        return verdict.startswith("unsafe")
+    except Exception as e:
+        log.warning(f"[{rid}] /image: guard check failed ({e!r}); continuing without it")
+        return False
+
+
+class ImageRequest(BaseModel):
+    prompt: str
+
+
+def _policy_error(rid: str) -> HTTPException:
+    # 451, not 422: FastAPI already uses 422 for malformed request bodies.
+    return HTTPException(status_code=451,
+                         detail={"error": "content_policy", "request_id": rid})
+
+
+@app.post("/image")
+async def image(
+    body: ImageRequest,
+    req: Request,
+    x_app_secret: str = Header(default=""),
+    x_auth_token: str = Header(default=""),
+    x_user_email: str = Header(default=""),
+    x_device_id: str = Header(default=""),
+):
+    rid = req.state.rid
+    _check_app_secret(x_app_secret, rid)
+
+    prompt = (body.prompt or "").strip()
+    if not prompt:
+        raise HTTPException(status_code=400, detail={"error": "empty_prompt", "request_id": rid})
+    if len(prompt) > IMAGE_MAX_PROMPT_CHARS:
+        raise HTTPException(status_code=400, detail={"error": "prompt_too_long", "request_id": rid})
+
+    # 1. Keyword filter (free, instant).
+    if _image_prompt_blocked(prompt):
+        log.info(f"[{rid}] /image: refused by keyword filter (len={len(prompt)})")
+        raise _policy_error(rid)
+
+    if not POLLINATIONS_API_KEY:
+        log.error(f"[{rid}] /image: POLLINATIONS_API_KEY is not set")
+        raise HTTPException(status_code=503,
+                            detail={"error": "image_service_not_configured", "request_id": rid})
+
+    # 2. Per-user rate limit (protects your Pollinations credits).
+    user_key, _email, _is_prem = await _usage_identity(x_user_email, x_auth_token, x_device_id, rid)
+    wait = _image_rate_check(user_key)
+    if wait:
+        log.info(f"[{rid}] /image: {user_key} rate limited, retry in {wait}s")
+        raise HTTPException(status_code=429,
+                            detail={"error": "image_rate_limited", "retry_after": wait,
+                                    "request_id": rid},
+                            headers={"Retry-After": str(wait)})
+
+    # 3. Llama Guard second opinion.
+    if await _image_guard_unsafe(prompt, rid):
+        log.info(f"[{rid}] /image: refused by guard model (len={len(prompt)})")
+        raise _policy_error(rid)
+
+    # 4. Generate with Pollinations (safety filter on).
+    # A short, neutral suffix nudges the model toward school-appropriate output
+    # without forcing every picture into a textbook-diagram style.
+    gen_prompt = prompt + ". Safe for school, family-friendly, fully clothed if people are shown."
+    url = POLLINATIONS_IMAGE_URL + _urlparse.quote(gen_prompt, safe="")
+    params = {"model": POLLINATIONS_IMAGE_MODEL, "width": 512, "height": 512,
+              "nologo": "true", "safe": POLLINATIONS_SAFE}
+    try:
+        async with httpx.AsyncClient(timeout=90, follow_redirects=True) as client:
+            resp = await client.get(
+                url, params=params,
+                headers={"Authorization": f"Bearer {POLLINATIONS_API_KEY}"})
+    except httpx.RequestError as e:
+        log.error(f"[{rid}] /image: Pollinations unreachable: {type(e).__name__}")
+        raise HTTPException(status_code=502,
+                            detail={"error": "image_upstream_unreachable", "request_id": rid})
+
+    ctype = (resp.headers.get("content-type") or "").split(";")[0].strip().lower()
+    if resp.status_code == 200 and ctype.startswith("image/") and len(resp.content) > 1000:
+        return Response(content=resp.content, media_type=ctype,
+                        headers={"Cache-Control": "no-store"})
+
+    body_text = (resp.text or "")[:300] if not ctype.startswith("image/") else ""
+    log.warning(f"[{rid}] /image: Pollinations HTTP {resp.status_code} ctype={ctype!r} "
+                f"body={body_text!r}")
+    low = body_text.lower()
+    if resp.status_code in (400, 403, 422) and any(
+            w in low for w in ("safe", "safety", "policy", "moderat", "nsfw", "content")):
+        raise _policy_error(rid)
+    if resp.status_code == 429:
+        raise HTTPException(status_code=429,
+                            detail={"error": "image_busy", "request_id": rid})
+    # 401/402/other: key or credits problem on our side. Never leak details.
+    raise HTTPException(status_code=502,
+                        detail={"error": "image_service_unavailable", "request_id": rid})
 
 
 @app.get("/model/{key}")
