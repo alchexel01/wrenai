@@ -1,0 +1,941 @@
+[
+ {
+  "id": "crk-1988-1",
+  "subject": "crk",
+  "year": 1988,
+  "number": 1,
+  "question": "The reference in Genesis chapter 6 to the union between the ‘Sons of God’ and the ‘Daughters of Men’ explains the origin of",
+  "options": {
+   "A": "hermaphrodites",
+   "B": "mighty men of renown",
+   "C": "gods and goddesses",
+   "D": "dwarfs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-2",
+  "subject": "crk",
+  "year": 1988,
+  "number": 2,
+  "question": "‘Two nation’s in Rebekah’s womb refers to the",
+  "options": {
+   "A": "Ammonites and Moabites",
+   "B": "Moabites and Edomites",
+   "C": "Edomites and Israelites",
+   "D": "Israelites and Ishmaelites."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-3",
+  "subject": "crk",
+  "year": 1988,
+  "number": 3,
+  "question": "Joseph’s rough treatment of his brothers was to",
+  "options": {
+   "A": "revenge on them",
+   "B": "prolong their starvation",
+   "C": "assure himself that they were not spies",
+   "D": "prove their sincere contrition"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-4",
+  "subject": "crk",
+  "year": 1988,
+  "number": 4,
+  "question": "Which of the following BEST describes Abraham’s reaction to God’s promise of a son by Sarah?",
+  "options": {
+   "A": "Humility",
+   "B": "Optmism",
+   "C": "Generosity",
+   "D": "Faithlessness"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-5",
+  "subject": "crk",
+  "year": 1988,
+  "number": 5,
+  "question": "‘Mahanaic is so called becaused Jacob saw the angles",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-6",
+  "subject": "crk",
+  "year": 1988,
+  "number": 6,
+  "question": "‘I have sinned this time; the Lord is in the right, and I and my people are in the wrong; Pharaoh said this after the plague of the",
+  "options": {
+   "A": "hailstorm",
+   "B": "death of the first born",
+   "C": "locusts",
+   "D": "darkness"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-7",
+  "subject": "crk",
+  "year": 1988,
+  "number": 7,
+  "question": "The request of Moses that Israel should be allowed to go and worship God was interpreted by Pharaoh to mean",
+  "options": {
+   "A": "disobedience",
+   "B": "idleness",
+   "C": "lawlessness",
+   "D": "disloyalty"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-8",
+  "subject": "crk",
+  "year": 1988,
+  "number": 8,
+  "question": "The Passover lamb was to be kept until the fourteenth day of the first month when the whole assembly was to kill their lambs",
+  "options": {
+   "A": "in the morning",
+   "B": "at noon",
+   "C": "in the evening",
+   "D": "at midnight."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-9",
+  "subject": "crk",
+  "year": 1988,
+  "number": 9,
+  "question": "Pharaoh’s horsemen and his army overtook the fleeing Hebrews, encamped by the sea, at",
+  "options": {
+   "A": "Migdol",
+   "B": "Etham",
+   "C": "Succoth",
+   "D": "Pihahiroth."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-10",
+  "subject": "crk",
+  "year": 1988,
+  "number": 10,
+  "question": "The sin of the Israelites that led to the punishment by fiery serpents was",
+  "options": {
+   "A": "making the golden calf",
+   "B": "speaking against God and Moses",
+   "C": "planning to return to Egypt"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-11",
+  "subject": "crk",
+  "year": 1988,
+  "number": 11,
+  "question": "During the confirmation of the covenant, Moses was invited by the Lord along with",
+  "options": {
+   "A": "Aaron, Nadab and Abihu",
+   "B": "Aaron, Eleazar and Nadab",
+   "C": "Abihu, Eleazar and Nadab",
+   "D": "Eleazar, Aaron and Abihu."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-12",
+  "subject": "crk",
+  "year": 1988,
+  "number": 12,
+  "question": "‘Go into the hills, lest the pursuers meet you; and hide yourselves three days, until the pursurers have returned; then afterwards you may go your way’. Who gave this advice?",
+  "options": {
+   "A": "Deborah",
+   "B": "Rebekah",
+   "C": "Rahab",
+   "D": "Sihon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-13",
+  "subject": "crk",
+  "year": 1988,
+  "number": 13,
+  "question": "When Joshua burned Ai, he also put to death the king of Ai, by",
+  "options": {
+   "A": "burning",
+   "B": "stoning",
+   "C": "hanging",
+   "D": "shooting."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-14",
+  "subject": "crk",
+  "year": 1988,
+  "number": 14,
+  "question": "In Jothams’s parable of the trees, Abimelech is very much likened to the",
+  "options": {
+   "A": "fig",
+   "B": "bramble",
+   "C": "olive",
+   "D": "vine"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-15",
+  "subject": "crk",
+  "year": 1988,
+  "number": 15,
+  "question": "The preservation of the twelve stones by Joshua in Gilgal was to",
+  "options": {
+   "A": "constitute a museum",
+   "B": "found a place of worship",
+   "C": "remind Israel of the crossing of River Jordan",
+   "D": "indicate that the site was a quarry."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-16",
+  "subject": "crk",
+  "year": 1988,
+  "number": 16,
+  "question": "Samson, as a Nazarite, was required to avoid alcohol",
+  "options": {
+   "A": "women and dead lions",
+   "B": "unclean things and shacing",
+   "C": "shaving and swearing",
+   "D": "shaving and women."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-17",
+  "subject": "crk",
+  "year": 1988,
+  "number": 17,
+  "question": "Which city was captured by Joshua before the disaster at Ai?",
+  "options": {
+   "A": "Bethel",
+   "B": "Jericho",
+   "C": "Hebron",
+   "D": "Gilgal"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-18",
+  "subject": "crk",
+  "year": 1988,
+  "number": 18,
+  "question": "‘I have brought Agag the king of Amalek, and I have utterly destroyed the Amalekites.’ This declaration was made by",
+  "options": {
+   "A": "David",
+   "B": "Solomon",
+   "C": "Samuel",
+   "D": "Saul"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-19",
+  "subject": "crk",
+  "year": 1988,
+  "number": 19,
+  "question": "‘O Lord of hosts, if thou will ... give to thy maidservant a son, then I will give him to the Lord all the days of his life, and no razor shall touch his head’. Who said this?",
+  "options": {
+   "A": "Sarah",
+   "B": "Rachael",
+   "C": "Hannah",
+   "D": "Samson’s mother."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-20",
+  "subject": "crk",
+  "year": 1988,
+  "number": 20,
+  "question": "Eli fell down and died because of the",
+  "options": {
+   "A": "defeat of the Israelites",
+   "B": "behaviour of his delinquent children",
+   "C": "capture of the Ark of Covenant",
+   "D": "death of his two children"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-21",
+  "subject": "crk",
+  "year": 1988,
+  "number": 21,
+  "question": "“Then Saul fell at once full lenght upon the ground, filled with fear because of the words of Samuel; and there was no strenght in him ...” This happened when Samuel",
+  "options": {
+   "A": "rebuked Saul for sparing Agag",
+   "B": "told Saul that God had rejected him and had chosen David to be king",
+   "C": "condemned Saul for offering sacrifice before his"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-22",
+  "subject": "crk",
+  "year": 1988,
+  "number": 22,
+  "question": "arrival",
+  "options": {
+   "A": "the intrigues for succession to the throne",
+   "B": "David’s popularity",
+   "C": "the fame of Solomon’s wisdom",
+   "D": "David’s love for Uriah’s wife."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-23",
+  "subject": "crk",
+  "year": 1988,
+  "number": 23,
+  "question": "As David took to flight from Jerusalem on account of Absalom’s conspiracy, he was apprehensive of the role of",
+  "options": {
+   "A": "Ahitophel",
+   "B": "Ahijah",
+   "C": "Abiathar",
+   "D": "Shimel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-24",
+  "subject": "crk",
+  "year": 1988,
+  "number": 24,
+  "question": "To whom did God promise to give the kingdom after Solomon’s heart turned away from the Lord?",
+  "options": {
+   "A": "Rehoboam",
+   "B": "Ahijah",
+   "C": "Jeroboam",
+   "D": "Jehoram"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-25",
+  "subject": "crk",
+  "year": 1988,
+  "number": 25,
+  "question": "What did Solomon provide for Hiram in exhcnage for timber of cedar and cypress?",
+  "options": {
+   "A": "War equipment",
+   "B": "Food",
+   "C": "Wives",
+   "D": "Money."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-26",
+  "subject": "crk",
+  "year": 1988,
+  "number": 26,
+  "question": "The gift of gold to the infant, Jesus indicated his",
+  "options": {
+   "A": "royal status",
+   "B": "priestly status",
+   "C": "prophetic status D.messianic mission."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-27",
+  "subject": "crk",
+  "year": 1988,
+  "number": 27,
+  "question": "Herod ordered the killing of children when he",
+  "options": {
+   "A": "learnt that a king was born",
+   "B": "had been tricked by the wise men",
+   "C": "could not see the new baby",
+   "D": "searched in vain for the wise men."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-28",
+  "subject": "crk",
+  "year": 1988,
+  "number": 28,
+  "question": "‘And you, O Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for from you shall come a ruler who will govern my people Israel.’ This statement fulfills the prophesy of",
+  "options": {
+   "A": "Joel",
+   "B": "Micah",
+   "C": "Amos",
+   "D": "Nahum."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-29",
+  "subject": "crk",
+  "year": 1988,
+  "number": 29,
+  "question": "According to Mark, what were the disciples forbidden to take for their journey?",
+  "options": {
+   "A": "Gold, silver and bag",
+   "B": "Bread, bag and staff",
+   "C": "Sandals, staff and two tunics",
+   "D": "Bread, bag and money."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-30",
+  "subject": "crk",
+  "year": 1988,
+  "number": 30,
+  "question": "How many days elapsed between Peter’s confession and transfiguration?",
+  "options": {
+   "A": "Five",
+   "B": "Six",
+   "C": "Seven",
+   "D": "Eeight."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-31",
+  "subject": "crk",
+  "year": 1988,
+  "number": 31,
+  "question": "The young man who wanted to know from Jesus what good deed would qualify him for heaven, ‘went away sorrowful’ because he",
+  "options": {
+   "A": "hated the poor",
+   "B": "was uncertain about treasure in heaven",
+   "C": "had great possessions",
+   "D": "would realize little money from the sale of his goods."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-32",
+  "subject": "crk",
+  "year": 1988,
+  "number": 32,
+  "question": "In St. Matthew’s record of the ethnical teaching of Jesus (chapters 5-7), the most important divine demand that will enable a man inherit the kingdom of God is",
+  "options": {
+   "A": "doing the will of God",
+   "B": "practising charity",
+   "C": "prophesying",
+   "D": "perfoming miracles."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-33",
+  "subject": "crk",
+  "year": 1988,
+  "number": 33,
+  "question": "The answer ‘You are the Christ, the son of the living God’ was made by Peter in the neighbourhood of",
+  "options": {
+   "A": "Bethlehem in Judea"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-34",
+  "subject": "crk",
+  "year": 1988,
+  "number": 34,
+  "question": "‘You shall not tempt the Lord your God.’ To which temptation did Jesus give this reply?",
+  "options": {
+   "A": "Bowing down to the devil",
+   "B": "Turning stone into bread",
+   "C": "Jumping from the pinnacle",
+   "D": "breaking his long fast."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-35",
+  "subject": "crk",
+  "year": 1988,
+  "number": 35,
+  "question": "Which of these parables teaches about judgement and separation?",
+  "options": {
+   "A": "The Dragnet",
+   "B": "The Hidden Treasure",
+   "C": "The Sower",
+   "D": "The Leaven"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-36",
+  "subject": "crk",
+  "year": 1988,
+  "number": 36,
+  "question": "‘If anyone would be first, he must be last of all and servant of all’. What does this saying of Jesus teach?",
+  "options": {
+   "A": "Endurance",
+   "B": "Lack of ambition",
+   "C": "Humility",
+   "D": "Relaxation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-37",
+  "subject": "crk",
+  "year": 1988,
+  "number": 37,
+  "question": "The appearance of Elijah and Moses at the transfiguration indicates the significance of the",
+  "options": {
+   "A": "prophets and apostles",
+   "B": "prophets and the law",
+   "C": "Spirit and the word",
+   "D": "Kings and the judges"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-38",
+  "subject": "crk",
+  "year": 1988,
+  "number": 38,
+  "question": "One of the illustrations of Jesus on true greatness is",
+  "options": {
+   "A": "giving alms to the poor",
+   "B": "preaaching the gospel",
+   "C": "becomig like a child",
+   "D": "knowing how to pray."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-39",
+  "subject": "crk",
+  "year": 1988,
+  "number": 39,
+  "question": "From which town did Jesus send two of his diciples to make adequate preparation for the last entry into Jerusalem?",
+  "options": {
+   "A": "Bethphage",
+   "B": "Golgotha",
+   "C": "Jericho",
+   "D": "Bethany"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-40",
+  "subject": "crk",
+  "year": 1988,
+  "number": 40,
+  "question": "Which religious groups asked Jesus about payment of taxes to Ceasar?",
+  "options": {
+   "A": "Pharisees and Sadducces.",
+   "B": "Pharisees and Herodians",
+   "C": "Sadduccees and Herodians",
+   "D": "Herodians and Zealots."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-41",
+  "subject": "crk",
+  "year": 1988,
+  "number": 41,
+  "question": "When the Pharisees accused Jesus’ disciples of plucking heeds of grain on the Sabbath, Jesus reffered them to what David did during the high priesthood of",
+  "options": {
+   "A": "Nathan",
+   "B": "Zadok",
+   "C": "Ahimelech",
+   "D": "Abiathar."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-42",
+  "subject": "crk",
+  "year": 1988,
+  "number": 42,
+  "question": "‘Take heed and beware of the leaven Pharisees and Sadducees.’ This leaven is their",
+  "options": {
+   "A": "wealth",
+   "B": "hypocrisy",
+   "C": "wisdom",
+   "D": "teaching."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-43",
+  "subject": "crk",
+  "year": 1988,
+  "number": 43,
+  "question": "The three thousand converts on the day of Pentecost devoted themselves to",
+  "options": {
+   "A": "breaking of bread and the prayers",
+   "B": "speaking in tongues",
+   "C": "healing and preaching",
+   "D": "prophesying."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-44",
+  "subject": "crk",
+  "year": 1988,
+  "number": 44,
+  "question": "Two of the seven deacons are",
+  "options": {
+   "A": "Paramenas and Proselytus",
+   "B": "Simon and Stephen",
+   "C": "Nicanor and Nicolas",
+   "D": "Prochorus and Protus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-45",
+  "subject": "crk",
+  "year": 1988,
+  "number": 45,
+  "question": "According to the apostle’s speech before the Sanhedrin, the holy Spirit is given by God to",
+  "options": {
+   "A": "the followers of Christ",
+   "B": "the disciples of Jesus",
+   "C": "those who obey God",
+   "D": "those who fast and pray."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-46",
+  "subject": "crk",
+  "year": 1988,
+  "number": 46,
+  "question": "In his speech concerning the replacement of Judas Iscariot, Peter quoted from",
+  "options": {
+   "A": "Isaiah",
+   "B": "Jeremiah",
+   "C": "Joel",
+   "D": "the Psalms."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-47",
+  "subject": "crk",
+  "year": 1988,
+  "number": 47,
+  "question": "When Peter escaped from prison during the passover, the guards were",
+  "options": {
+   "A": "drunk",
+   "B": "struck dead",
+   "C": "transfixed",
+   "D": "fast asleep."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-48",
+  "subject": "crk",
+  "year": 1988,
+  "number": 48,
+  "question": "One of the seven Hellenists who preached the gospel in Samaria, and from Azotus to the Syrian capital, Caesarea, was",
+  "options": {
+   "A": "Stephen",
+   "B": "Prochorus",
+   "C": "Nicanor",
+   "D": "Philip."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-49",
+  "subject": "crk",
+  "year": 1988,
+  "number": 49,
+  "question": "Simon the magician was rebuked by Peter in Samaria because he",
+  "options": {
+   "A": "perverted the minds of the people",
+   "B": "opposed the teaching of the apostles",
+   "C": "Wanted to purchase spiritual power with money",
+   "D": "refused to be baptized."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1988-50",
+  "subject": "crk",
+  "year": 1988,
+  "number": 50,
+  "question": "The disciples were for the first time called Christians in",
+  "options": {
+   "A": "Tarsus",
+   "B": "Antioch",
+   "C": "Jerusalem",
+   "D": "Judea."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

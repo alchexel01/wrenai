@@ -845,7 +845,26 @@
    "A": "produce more food for the growing population",
    "B": "provide employment opportunities for the people",
    "C": "estimate a country's per capita income",
-   "D": "fast track industrial development 46.A major determinant of floating exchange rate is"
+   "D": "fast track industrial development"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2014-46",
+  "subject": "economics",
+  "year": 2014,
+  "number": 46,
+  "question": "A major determinant of floating exchange rate is",
+  "options": {
+   "A": "the highest denomination of the currency",
+   "B": "an Act of the parliament",
+   "C": "the system of government",
+   "D": "the forest of demand and supply"
   },
   "answer": "D",
   "explanation": null,

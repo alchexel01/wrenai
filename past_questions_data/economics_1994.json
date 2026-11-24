@@ -285,6 +285,25 @@
   "images": []
  },
  {
+  "id": "economics-1994-16",
+  "subject": "economics",
+  "year": 1994,
+  "number": 16,
+  "question": "",
+  "options": {
+   "A": "Always reflects the cost of labour",
+   "B": "Reflects the variable, but not the fixed cost f production",
+   "C": "Does not rise above variable costs",
+   "D": "Is determined by the cost of production and the current rate of inflation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "economics-1994-17",
   "subject": "economics",
   "year": 1994,

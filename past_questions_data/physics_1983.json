@@ -50,7 +50,7 @@
    "B": "II only",
    "C": "III only",
    "D": "II and III only",
-   "E": "I and III only Which of the following statements about friction it NOT correct?"
+   "E": "I and III only"
   },
   "answer": null,
   "explanation": null,
@@ -60,6 +60,26 @@
   "images": [
    "physics/1983_p2_1.png"
   ]
+ },
+ {
+  "id": "physics-1983-4",
+  "subject": "physics",
+  "year": 1983,
+  "number": 4,
+  "question": "Which of the following statements about friction it NOT correct?",
+  "options": {
+   "A": "The force of kinetic friction is less than the force of static friction.",
+   "B": "The force of kinetic friction between two surfaces is independent of the areas in contact provided the normal reaction is unchanged.",
+   "C": "The force of rolling friction between two surfaces is less than the force of sliding friction.",
+   "D": "The angle of friction is the angle between the normal reaction and the force friction.",
+   "E": "Friction may be reduced by lubrication."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  },
  {
   "id": "physics-1983-5",

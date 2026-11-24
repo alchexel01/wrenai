@@ -94,7 +94,7 @@
   "subject": "biology",
   "year": 1994,
   "number": 7,
-  "question": "The part used for feeling is labelled",
+  "question": "Use the diagram below to answer questions 7 and 8. Head of a cockroach The part used for feeling is labelled",
   "options": {
    "A": "1",
    "B": "J",
@@ -115,7 +115,7 @@
   "subject": "biology",
   "year": 1994,
   "number": 8,
-  "question": "The mouth part of the insect is adapted for",
+  "question": "Use the diagram below to answer questions 7 and 8. Head of a cockroach The mouth part of the insect is adapted for",
   "options": {
    "A": "biting and chewing",
    "B": "suckling and chewing",
@@ -174,7 +174,7 @@
   "subject": "biology",
   "year": 1994,
   "number": 11,
-  "question": "Which of the labeled part allows for efficient absorption of water and mineral?",
+  "question": "Use the diagram below to answer questions 11 and 12 Which of the labeled part allows for efficient absorption of water and mineral?",
   "options": {
    "A": "I.",
    "B": "II",
@@ -195,7 +195,7 @@
   "subject": "biology",
   "year": 1994,
   "number": 12,
-  "question": "Starch is usually stored in the part labelled",
+  "question": "Use the diagram below to answer questions 11 and 12 Starch is usually stored in the part labelled",
   "options": {},
   "answer": null,
   "explanation": null,
@@ -324,7 +324,7 @@
   "subject": "biology",
   "year": 1994,
   "number": 19,
-  "question": "The most appropriate title for the set up is",
+  "question": "Use the diagram below to answer questions 19 and 20. The most appropriate title for the set up is",
   "options": {
    "A": "quantitative measurement of respiration in plants and animals B. measurement of respiratory rates in living organisms C. comparison between photosynthesis and respiratory",
    "D": "comparison of respiratoryrates in plants and animals."
@@ -343,7 +343,7 @@
   "subject": "biology",
   "year": 1994,
   "number": 20,
-  "question": "The part labeled J is called",
+  "question": "Use the diagram below to answer questions 19 and 20. The part labeled J is called",
   "options": {
    "A": "porosimeter",
    "B": "porometer",
@@ -402,7 +402,7 @@
   "subject": "biology",
   "year": 1994,
   "number": 23,
-  "question": "The vertebra illustrated is",
+  "question": "Use the diagram below to answer questions 23 and 24. The vertebra illustrated is",
   "options": {
    "A": "lumbar",
    "B": "thoracic",
@@ -423,7 +423,7 @@
   "subject": "biology",
   "year": 1994,
   "number": 24,
-  "question": "The neural arch is labelled",
+  "question": "Use the diagram below to answer questions 23 and 24. The neural arch is labelled",
   "options": {
    "A": "I.",
    "B": "II",
@@ -616,7 +616,26 @@
    "A": "secondary consumers",
    "B": "tertiary consumers",
    "C": "primary producers",
-   "D": "primary consumers. Use the list of blomes below toanswer questions 35 and 36. 1. Desert 2. Rain forest 3. Southern Guinea savannah 4. Northern Guinea savannah. 35.. A biome with a low annual rainfall, few scattered trees within dense layer of grasses and found in Kano and Katsina States is"
+   "D": "primary consumers."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1994-35",
+  "subject": "biology",
+  "year": 1994,
+  "number": 35,
+  "question": "Use the list of blomes below toanswer questions 35 and 36. 1. Desert 2. Rain forest 3. Southern Guinea savannah 4. Northern Guinea savannah. 35.. A biome with a low annual rainfall, few scattered trees within dense layer of grasses and found in Kano and Katsina States is",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3.",
+   "D": "4"
   },
   "answer": null,
   "explanation": null,

@@ -37,7 +37,7 @@
   "subject": "chemistry",
   "year": 2001,
   "number": 3,
-  "question": "How long does it take all the solid to melt?",
+  "question": "Use the graph below to answer questions 3 and 4 How long does it take all the solid to melt?",
   "options": {
    "A": "6.0mins,",
    "B": "3.0mins,",
@@ -58,7 +58,7 @@
   "subject": "chemistry",
   "year": 2001,
   "number": 4,
-  "question": "If the gas is cooled, at what temperature will it start to condense?",
+  "question": "Use the graph below to answer questions 3 and 4 If the gas is cooled, at what temperature will it start to condense?",
   "options": {
    "A": "175oC,",
    "B": "250oC,",
@@ -104,7 +104,25 @@
   "options": {
    "A": "a metallic bond,",
    "B": "a covalent bond,",
-   "C": "an electrovalent bond. D a coordinate covalent bond with relative abundance of 10%. The value of m is",
+   "C": "an electrovalent bond."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-7",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 7,
+  "question": "D a coordinate covalent bond with relative abundance of 10%. The value of m is",
+  "options": {
+   "A": "14,",
+   "B": "12,",
+   "C": "18,",
    "D": "16"
   },
   "answer": null,
@@ -543,7 +561,26 @@
    "A": "Removing some S",
    "B": "Using a larger closed vessel",
    "C": "Adding a positive catalyst",
-   "D": "Increasing the temperature 31 Ethanoic acid is"
+   "D": "Increasing the temperature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-31",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 31,
+  "question": "31 Ethanoic acid is",
+  "options": {
+   "A": "tribasic",
+   "B": "unionizeable",
+   "C": "dibasic",
+   "D": "monobasic"
   },
   "answer": null,
   "explanation": null,
@@ -600,7 +637,26 @@
    "A": "Endothermic",
    "B": "Exothermic",
    "C": "Rerverisble",
-   "D": "Ionic. ethyne?"
+   "D": "Ionic."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2001-35",
+  "subject": "chemistry",
+  "year": 2001,
+  "number": 35,
+  "question": "ethyne?",
+  "options": {
+   "A": "sp",
+   "B": "sp³",
+   "C": "sp²d",
+   "D": "sp²"
   },
   "answer": null,
   "explanation": null,

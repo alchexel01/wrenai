@@ -661,7 +661,26 @@
    "A": "3 : 1: 1",
    "B": "2 : 1: 1",
    "C": "1 : 2: 1",
-   "D": "1 : 1: 1 42 How many isomers does pentane have?"
+   "D": "1 : 1: 1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2003-42",
+  "subject": "chemistry",
+  "year": 2003,
+  "number": 42,
+  "question": "42 How many isomers does pentane have?",
+  "options": {
+   "A": "6",
+   "B": "5",
+   "C": "4",
+   "D": "3"
   },
   "answer": null,
   "explanation": null,

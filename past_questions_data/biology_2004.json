@@ -41,7 +41,7 @@
   "subject": "biology",
   "year": 2004,
   "number": 3,
-  "question": "Yam is used in this set-up because it",
+  "question": "Use the diagram below to answer questions 3 and 4 Yam is used in this set-up because it",
   "options": {
    "A": "act as a semi-permeable membrane",
    "B": "act as a storage organ C. is permeable to the salt solution",
@@ -61,7 +61,7 @@
   "subject": "biology",
   "year": 2004,
   "number": 4,
-  "question": "Which of the following results is to be expected If the set-up is left for several hours?",
+  "question": "Use the diagram below to answer questions 3 and 4 Which of the following results is to be expected If the set-up is left for several hours?",
   "options": {
    "A": "Movement of water from the salt solution",
    "B": "Decrease in the size of the yam",
@@ -136,7 +136,7 @@
   "subject": "biology",
   "year": 2004,
   "number": 8,
-  "question": "The part",
+  "question": "Use the diagram below to answer questions 8 and 9 The part",
   "options": {},
   "answer": null,
   "explanation": null,
@@ -152,7 +152,7 @@
   "subject": "biology",
   "year": 2004,
   "number": 9,
-  "question": "The bones labelled II are called",
+  "question": "Use the diagram below to answer questions 8 and 9 The bones labelled II are called",
   "options": {
    "A": "thoracic vertebrae",
    "B": "lumbar vertebrae",
@@ -210,7 +210,7 @@
   "subject": "biology",
   "year": 2004,
   "number": 12,
-  "question": "The part labelled II is the",
+  "question": "Use the diagram below to answer questions 12 and 13 The part labelled II is the",
   "options": {
    "A": "anther",
    "B": "style",
@@ -231,7 +231,7 @@
   "subject": "biology",
   "year": 2004,
   "number": 13,
-  "question": "The process of pollination involves the transfer of pollens from",
+  "question": "Use the diagram below to answer questions 12 and 13 The process of pollination involves the transfer of pollens from",
   "options": {
    "A": "III to IV",
    "B": "IV to I",
@@ -271,7 +271,7 @@
   "subject": "biology",
   "year": 2004,
   "number": 15,
-  "question": "The function of the part labelled III is to",
+  "question": "Use the diagram below to answer questions 15 and 16 The function of the part labelled III is to",
   "options": {
    "A": "produce oil for the skin",
    "B": "carry blood and nitrogenous waste C. contract to pull the hair erect",
@@ -352,7 +352,25 @@
    "A": "capillaries",
    "B": "arteries",
    "C": "arterioles",
-   "D": "venules 21 Nervous control differs from hormonal control in that the former"
+   "D": "venules"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2004-21",
+  "subject": "biology",
+  "year": 2004,
+  "number": 21,
+  "question": "21 Nervous control differs from hormonal control in that the former",
+  "options": {
+   "A": "is a slower process",
+   "B": "involves only chemical transmission C. has no specific pathway",
+   "D": "produces short-term changes"
   },
   "answer": null,
   "explanation": null,
@@ -550,7 +568,7 @@
   "subject": "biology",
   "year": 2004,
   "number": 32,
-  "question": "The part labelled II is responsible for A respiration B. protein synthesis C. excretion",
+  "question": "Use the diagram below to answer question 32 and 33. The part labelled II is responsible for A respiration B. protein synthesis C. excretion",
   "options": {
    "D": "photosynthesis"
   },
@@ -568,7 +586,7 @@
   "subject": "biology",
   "year": 2004,
   "number": 33,
-  "question": "The endoplasmic reticulum is represented by the part labelled",
+  "question": "Use the diagram below to answer question 32 and 33. The endoplasmic reticulum is represented by the part labelled",
   "options": {
    "A": "III",
    "B": "VI",
@@ -764,7 +782,7 @@
   "subject": "biology",
   "year": 2004,
   "number": 44,
-  "question": "Which of the zones is likely to be a desert?",
+  "question": "Use the table below to answer questions 44 and 45 Which of the zones is likely to be a desert?",
   "options": {
    "A": "III",
    "B": "IV",
@@ -785,7 +803,7 @@
   "subject": "biology",
   "year": 2004,
   "number": 45,
-  "question": "High relative humidity will be expected in zones",
+  "question": "Use the table below to answer questions 44 and 45 High relative humidity will be expected in zones",
   "options": {
    "A": "II and III",
    "B": "II and IV",

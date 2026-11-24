@@ -227,7 +227,7 @@
    "B": "10",
    "C": "18",
    "D": "12",
-   "E": "28 13 The value of (0.303)³ – (0.02)³ is"
+   "E": "28"
   },
   "answer": null,
   "explanation": null,
@@ -237,6 +237,26 @@
   "images": [
    "mathematics/1983_p2_3.png"
   ]
+ },
+ {
+  "id": "mathematics-1983-13",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 13,
+  "question": "13 The value of (0.303)³ – (0.02)³ is",
+  "options": {
+   "A": "0.019",
+   "B": "0.0019",
+   "C": "0.00019",
+   "D": "0.000019",
+   "E": "0.000035"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  },
  {
   "id": "mathematics-1983-14",
@@ -950,7 +970,7 @@
    "B": "15₀",
    "C": "24 ₀",
    "D": "12⁰",
-   "E": "60⁰ 50 A man drove for 4hours at a certain speed, he then doubled his speed and drove for another 3 hours. Altogether he covered 600km. At what speed did he drive for the last 3 hours?"
+   "E": "60⁰ 50 A man drove for 4hours at a certain speed, he then doubled his speed and drove for another 3 hours."
   },
   "answer": null,
   "explanation": null,
@@ -960,5 +980,25 @@
   "images": [
    "mathematics/1983_p5_2.png"
   ]
+ },
+ {
+  "id": "mathematics-1983-50",
+  "subject": "mathematics",
+  "year": 1983,
+  "number": 50,
+  "question": "Altogether he covered 600km. At what speed did he drive for the last 3 hours?",
+  "options": {
+   "A": "120km/hr",
+   "B": "60km/hr",
+   "C": "600/7km/hr",
+   "D": "50km/hr",
+   "E": "100km/hr."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  }
 ]

@@ -154,7 +154,7 @@
   "subject": "chemistry",
   "year": 1995,
   "number": 9,
-  "question": "Which of the letters indicate an alkali metal and a noble gas respectively?",
+  "question": "Use the section of the periodic table below to answer questions 9 and 10. Which of the letters indicate an alkali metal and a noble gas respectively?",
   "options": {
    "A": "M and",
    "E": "",
@@ -176,7 +176,7 @@
   "subject": "chemistry",
   "year": 1995,
   "number": 10,
-  "question": "Which letter represents a non-metal that is a solid at room temperature?",
+  "question": "Use the section of the periodic table below to answer questions 9 and 10. Which letter represents a non-metal that is a solid at room temperature?",
   "options": {
    "A": "T",
    "B": "R.",
@@ -709,7 +709,26 @@
    "A": "NaCl",
    "B": "LiCl",
    "C": "CaCl₂",
-   "D": "MgCl . 40.. Group 1 A metals are not found free in nature because they"
+   "D": "MgCl ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-40",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 40,
+  "question": "40.. Group 1 A metals are not found free in nature because they",
+  "options": {
+   "A": "are of low melting and boiling points",
+   "B": "have weak metallic bonding",
+   "C": "conduct electricity and heat",
+   "D": "are very reactive. CₒₙcHSO"
   },
   "answer": null,
   "explanation": null,
@@ -728,7 +747,26 @@
    "A": "CH₃ COCH₃ and H₂O",
    "B": "CH₃ CH₂ COCH₂ and H₂O₂",
    "C": "CH₃ COOCH₂ CH₃ and H₂O₃",
-   "D": "CH₃CH₂ CHO and CH₄. 42 CHCl₃ + Cl₂ HCl + CCl₄. The reaction above is an example of"
+   "D": "CH₃CH₂ CHO and CH₄."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1995-42",
+  "subject": "chemistry",
+  "year": 1995,
+  "number": 42,
+  "question": "42 CHCl₃ + Cl₂ HCl + CCl₄. The reaction above is an example of",
+  "options": {
+   "A": "an addition reaction",
+   "B": "a substitution reaction",
+   "C": "chlorination reaction",
+   "D": "a condensation reaction."
   },
   "answer": null,
   "explanation": null,

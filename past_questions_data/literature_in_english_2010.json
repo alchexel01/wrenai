@@ -323,6 +323,25 @@
   "images": []
  },
  {
+  "id": "literature-in-english-2010-18",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 18,
+  "question": "",
+  "options": {
+   "A": "totalitarian dictatorship",
+   "B": "exploitation and cruelty",
+   "C": "retributive justice",
+   "D": "class segregation."
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "literature-in-english-2010-19",
   "subject": "literature_in_english",
   "year": 2010,
@@ -332,9 +351,28 @@
    "A": "By engaging in anti-party activities",
    "B": "By keeping a private diary",
    "C": "When he started a secret affair",
-   "D": "When he spied on the party. 20.The party seeks power for ."
+   "D": "When he spied on the party."
   },
   "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-20",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 20,
+  "question": "The party seeks power for .",
+  "options": {
+   "A": "the nation",
+   "B": "its own sake",
+   "C": "its members",
+   "D": "peoples' sake Questions 21 to 30 are based on selected poems from Ker, D. et al (eds.) New Poetry from African; Soyinka, (ed.) Poems of Black Africa; Senanu K.E. and Vincent T. (eds.): A selection of African Poetry; Umukoro, M et al (eds.) Exam Focus: literature in English; Eruvbetine, A.E. et al (eds.): Longman Examination Guides and Nwoga, D. I. (ed): West African Verse."
+  },
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -708,7 +746,7 @@
    "A": "epigram",
    "B": "synecdoche",
    "C": "irony",
-   "D": "onomatopoeia. Questions 41 to 50 are based on Literary Appreciation. Use the quotation below to answer questions 41 and 42."
+   "D": "onomatopoeia. Questions 41 to 50 are based on Literary Appreciation."
   },
   "answer": "C",
   "explanation": null,
@@ -722,7 +760,7 @@
   "subject": "literature_in_english",
   "year": 2010,
   "number": 41,
-  "question": "„Basha: You dumb skull of a bone head . . . you will face court martial for this. You look everywhere? You search inside toilet bowl? Wole Soyinka: King Baabu The person being addressed above is a",
+  "question": "Use the quotation below to answer questions 41 and 42. „Basha: You dumb skull of a bone head . . . you will face court martial for this. You look everywhere? You search inside toilet bowl? Wole Soyinka: King Baabu The person being addressed above is a",
   "options": {
    "A": "soldier",
    "B": "student",
@@ -741,7 +779,7 @@
   "subject": "literature_in_english",
   "year": 2010,
   "number": 42,
-  "question": "From the tone of the speech above, the speaker is obviously",
+  "question": "Use the quotation below to answer questions 41 and 42. From the tone of the speech above, the speaker is obviously",
   "options": {
    "A": "enraged",
    "B": "lackadaisical",
@@ -841,9 +879,47 @@
    "A": "hopeless",
    "B": "uncertain",
    "C": "afraid",
-   "D": "confident. Use the lines below to answer 48.Move him into the sun Gently its touch awoke him once, At home, whispering of fields unsown Always it woke him even in France Until this morning and this snow If anything might rouse him now This kind old sun will know Think how it wakes the seeds Woke, once, the clays of a cold star Are limbs, so dear achieved, are sides Full nerved still swarm too hard to stir Was it, for this the clay grew tall? 0 what made fatuous sunbeams toil To break earth's sleep at all. The poem can be described as"
+   "D": "confident. Use the lines below to answer"
   },
   "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-48",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 48,
+  "question": "Move him into the sun Gently its touch awoke him once, At home, whispering of fields unsown Always it woke him even in France Until this morning and this snow If anything might rouse him now This kind old sun will know Think how it wakes the seeds Woke, once, the clays of a cold star Are limbs, so dear achieved, are sides Full nerved still swarm too hard to stir Was it, for this the clay grew tall? 0 what made fatuous sunbeams toil To break earth's sleep at all. The poem can be described as",
+  "options": {
+   "A": "a lyric",
+   "B": "an epic",
+   "C": "a sonnet",
+   "D": "an elegy."
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2010-49",
+  "subject": "literature_in_english",
+  "year": 2010,
+  "number": 49,
+  "question": "The theme of the poem is",
+  "options": {
+   "A": "futility of life",
+   "B": "distortion of life",
+   "C": "creation of life",
+   "D": "vanity of life"
+  },
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,

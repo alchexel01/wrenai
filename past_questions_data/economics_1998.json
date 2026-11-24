@@ -103,7 +103,7 @@
   "subject": "economics",
   "year": 1998,
   "number": 6,
-  "question": "The dependency ratio between 1960 and 1990 is",
+  "question": "Use the table below to answer question 6 and 7 .Population Statistics of a Country The dependency ratio between 1960 and 1990 is",
   "options": {
    "A": "Increased by 5%",
    "B": "Increased by 2%",
@@ -124,7 +124,7 @@
   "subject": "economics",
   "year": 1998,
   "number": 7,
-  "question": "In 1990, the difference between the dependent population and the active population ration is",
+  "question": "Use the table below to answer question 6 and 7 .Population Statistics of a Country In 1990, the difference between the dependent population and the active population ration is",
   "options": {
    "A": "22%",
    "B": "20%",
@@ -835,7 +835,26 @@
    "A": "High rate of population growth and low rate of economic growth",
    "B": "High rate of economic growth and low rate of population growth",
    "C": "High rate of population growth and high rate of economic growth",
-   "D": "Low rate of population growth and low rate of economic growth"
+   "D": "Low rate of population growth and low rate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1998-45",
+  "subject": "economics",
+  "year": 1998,
+  "number": 45,
+  "question": "of economic growth",
+  "options": {
+   "A": "Led to rapid rural-urban migration",
+   "B": "Led to unprecedented urban wealth",
+   "C": "Transformed rural areas into urban centre",
+   "D": "Increased the level of specialized manpower in the cities"
   },
   "answer": null,
   "explanation": null,

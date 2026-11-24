@@ -58,7 +58,7 @@
   "subject": "biology",
   "year": 1995,
   "number": 4,
-  "question": "Protein-like bodies are borne on the part labelled",
+  "question": "Use the diagram below to answer question 4 and 5 Protein-like bodies are borne on the part labelled",
   "options": {
    "A": "II",
    "B": "III",
@@ -78,7 +78,7 @@
   "subject": "biology",
   "year": 1995,
   "number": 5,
-  "question": "The sexual reproductive functions is performed by the part labelled",
+  "question": "Use the diagram below to answer question 4 and 5 The sexual reproductive functions is performed by the part labelled",
   "options": {
    "A": "I",
    "B": "II",
@@ -381,7 +381,7 @@
   "subject": "biology",
   "year": 1995,
   "number": 21,
-  "question": "The type of placentation shown is",
+  "question": "Use the diagram below to answer questions 21 and 22. The type of placentation shown is",
   "options": {
    "A": "axial",
    "B": "marginal",
@@ -495,7 +495,7 @@
   "subject": "biology",
   "year": 1995,
   "number": 28,
-  "question": "The diagram represents",
+  "question": "Use the diagram below to answer questions 28 and 29 The diagram represents",
   "options": {
    "A": "sensory neurone",
    "B": "relay neurone",
@@ -516,7 +516,7 @@
   "subject": "biology",
   "year": 1995,
   "number": 29,
-  "question": "The part labelled X is the",
+  "question": "Use the diagram below to answer questions 28 and 29 The part labelled X is the",
   "options": {
    "A": "axon",
    "B": "cell body",
@@ -800,7 +800,45 @@
    "A": "30",
    "B": "60",
    "C": "90",
-   "D": "120. 45 The sons of a colour-bind woman will be colour blind regardless of the state of the father because"
+   "D": "120."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1995-45",
+  "subject": "biology",
+  "year": 1995,
+  "number": 45,
+  "question": "45 The sons of a colour-bind woman will be colour blind regardless of the state of the father because",
+  "options": {
+   "A": "the egg determines the phenotype of the son",
+   "B": "sons inherit the sex chromosomes of their mothers",
+   "C": "the father’s sex chromosome is weaker in sons",
+   "D": "sex-linked traits express dominance in females."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1995-46",
+  "subject": "biology",
+  "year": 1995,
+  "number": 46,
+  "question": "46 The slender, long and slightly curved beak of the sun- bird is an adaptation for feeding on",
+  "options": {
+   "A": "nectar",
+   "B": "small seeds",
+   "C": "big seeds",
+   "D": "insects."
   },
   "answer": null,
   "explanation": null,
@@ -818,7 +856,24 @@
   "options": {
    "A": "conserving water",
    "B": "conserving food",
-   "C": "protecting the skin D. locomotion. 48 The colour of the ventral surface of a fish is lighter than that of the dorsal. This is mainly",
+   "C": "protecting"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1995-48",
+  "subject": "biology",
+  "year": 1995,
+  "number": 48,
+  "question": "the skin D. locomotion. 48 The colour of the ventral surface of a fish is lighter than that of the dorsal. This is mainly",
+  "options": {
+   "A": "an adaptation for moment",
+   "B": "an adaptation for camouflage C. for attracting mates",
    "D": "for regulating body temperature."
   },
   "answer": null,

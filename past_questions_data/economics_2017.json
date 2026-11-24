@@ -663,7 +663,7 @@
    "A": "diminishing returns to scale",
    "B": "excess of demand",
    "C": "diminishing marginal utility",
-   "D": "diminishing marginal productivity 37.A well conducted census is important for"
+   "D": "diminishing marginal productivity"
   },
   "answer": "C",
   "explanation": null,
@@ -675,6 +675,25 @@
   ]
  },
  {
+  "id": "economics-2017-37",
+  "subject": "economics",
+  "year": 2017,
+  "number": 37,
+  "question": "A well conducted census is important for",
+  "options": {
+   "A": "economic planning",
+   "B": "providing economic opportunities in the rural areas",
+   "C": "distribution of educational materials in the cities",
+   "D": "revenue generation"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "economics-2017-38",
   "subject": "economics",
   "year": 2017,
@@ -684,7 +703,26 @@
    "A": "internal economies of scale",
    "B": "diseconomies of large scale",
    "C": "externa diseconomies of scale",
-   "D": "external economies of scale 39.A country uses the foreign exchange control measure to eliminate balance of payments deficit by"
+   "D": "external economies of scale"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2017-39",
+  "subject": "economics",
+  "year": 2017,
+  "number": 39,
+  "question": "A country uses the foreign exchange control measure to eliminate balance of payments deficit by",
+  "options": {
+   "A": "limiting her imports to its currency value of exports",
+   "B": "limiting her exports to its currency value of imports",
+   "C": "overvaluing the country's currency",
+   "D": "reducing the nation's domestic price level"
   },
   "answer": "A",
   "explanation": null,

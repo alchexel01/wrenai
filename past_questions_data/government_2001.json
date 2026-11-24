@@ -910,7 +910,26 @@
    "A": "Co-ordinating the general policy of the organization",
    "B": "Directing thefinances of the organization",
    "C": "Preparing the agenda of the organization’s meetings",
-   "D": "Reviewing the functions and activities of other organs of the organization. 50 The Economic Community of West African States has made impressive progress in the area of"
+   "D": "Reviewing the functions and activities of"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2001-50",
+  "subject": "government",
+  "year": 2001,
+  "number": 50,
+  "question": "other organs of the organization. 50 The Economic Community of West African States has made impressive progress in the area of",
+  "options": {
+   "A": "free movement of persons and right of residence",
+   "B": "increased trade among members",
+   "C": "Political integration of the region",
+   "D": "providing finanical aid to is members"
   },
   "answer": null,
   "explanation": null,

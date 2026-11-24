@@ -64,7 +64,26 @@
    "A": "Helium",
    "B": "Magnesium",
    "C": "Copper pyrites",
-   "D": "Glass atmosphere at constant volume?"
+   "D": "Glass"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1999-5",
+  "subject": "chemistry",
+  "year": 1999,
+  "number": 5,
+  "question": "atmosphere at constant volume?",
+  "options": {
+   "A": "91 K",
+   "B": "182 K",
+   "C": "273 K",
+   "D": "819 K"
   },
   "answer": null,
   "explanation": null,
@@ -178,7 +197,7 @@
   "question": "Nitrogen obtained from the liquefaction of air has a higher density than that obtained from nitrogen containing compounds because the former contains A Water vapour B. Oxygen",
   "options": {
    "C": "Carbon (1V) oxide",
-   "D": "Rare gases Use the table below to answer question 13 and 14."
+   "D": "Rare gases"
   },
   "answer": null,
   "explanation": null,
@@ -210,7 +229,7 @@
   "subject": "chemistry",
   "year": 1999,
   "number": 13,
-  "question": "The element that is likely to participate in covalent rather than ionic bonding is",
+  "question": "Use the table below to answer question 13 and 14. The element that is likely to participate in covalent rather than ionic bonding is",
   "options": {
    "A": "Z",
    "B": "Y",
@@ -231,7 +250,7 @@
   "subject": "chemistry",
   "year": 1999,
   "number": 14,
-  "question": "The least reactive elements is",
+  "question": "Use the table below to answer question 13 and 14. The least reactive elements is",
   "options": {
    "A": "W",
    "B": "X",

@@ -490,6 +490,25 @@
   "images": []
  },
  {
+  "id": "literature-in-english-2016-27",
+  "subject": "literature_in_english",
+  "year": 2016,
+  "number": 27,
+  "question": "",
+  "options": {
+   "A": "dramatic",
+   "B": "instructive",
+   "C": "satiric",
+   "D": "expository"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "literature-in-english-2016-28",
   "subject": "literature_in_english",
   "year": 2016,

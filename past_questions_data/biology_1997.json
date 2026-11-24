@@ -220,7 +220,7 @@
   "subject": "biology",
   "year": 1997,
   "number": 14,
-  "question": "The part that is similar to bone is labelled",
+  "question": "Use the diagram below to answer questions 14 and 15. The part that is similar to bone is labelled",
   "options": {},
   "answer": null,
   "explanation": null,
@@ -402,7 +402,7 @@
   "subject": "biology",
   "year": 1997,
   "number": 26,
-  "question": "The function of the part labeled V is for the passage of",
+  "question": "Use the diagram below to answer questions 26 and 27. The function of the part labeled V is for the passage of",
   "options": {
    "A": "pollen tube and pollen nucleus",
    "B": "air, water and pollen nucleus C. air, antipodal cells and ovum",
@@ -804,8 +804,26 @@
   "options": {
    "A": "soldiers, queen and workers",
    "B": "workers, soldiers explanation for the theory of evolution because",
-   "D": "most animal and plant fossils bear little resemblance to present day living specimens.",
-   "C": "origin of life"
+   "D": "most animal and plant fossils bear little resemblance"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1997-49",
+  "subject": "biology",
+  "year": 1997,
+  "number": 49,
+  "question": "to present day living specimens.",
+  "options": {
+   "A": "use and disuse",
+   "B": "origin of species",
+   "C": "origin of life",
+   "D": "natural selection."
   },
   "answer": null,
   "explanation": null,

@@ -819,7 +819,7 @@
   "subject": "economics",
   "year": 2010,
   "number": 44,
-  "question": "What is the population growth rate in 2003?",
+  "question": "use Use the table below to answer question 44 and 45. What is the population growth rate in 2003?",
   "options": {
    "A": "33.3%",
    "B": "20.0%",
@@ -840,7 +840,7 @@
   "subject": "economics",
   "year": 2010,
   "number": 45,
-  "question": "The percentage of working population in 2002 is?",
+  "question": "use Use the table below to answer question 44 and 45. The percentage of working population in 2002 is?",
   "options": {
    "B": "25%",
    "C": "8%",

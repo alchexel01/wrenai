@@ -104,7 +104,7 @@
    "A": "the partners are family friends",
    "B": "professional are involved",
    "C": "members can easily raise enough capital",
-   "D": "government regulations are favourable. Use the conversation below to answer questions 7 and 8. MUSA: Taiwo, why you are in business? and discharge my social responsibilities.What of you? MUSA: I am in business to minimize cost, provide products at low prices and as you said, discharge my social responsibilities. What of you, Okon and Kalu? OKON:I am in business to cater for the need of the consumers at all costs. KALU:I am in business to make profit, provide quality products at reasonable prices and establish a good reputation for myself."
+   "D": "government regulations are favourable."
   },
   "answer": null,
   "explanation": null,
@@ -118,7 +118,7 @@
   "subject": "commerce",
   "year": 1997,
   "number": 7,
-  "question": "The businessman that may end up not discharging his social responsibility is",
+  "question": "Use the conversation below to answer questions 7 and 8. MUSA: Taiwo, why you are in business? and discharge my social responsibilities.What of you? MUSA: I am in business to minimize cost, provide products at low prices and as you said, discharge my social responsibilities. What of you, Okon and Kalu? OKON:I am in business to cater for the need of the consumers at all costs. KALU:I am in business to make profit, provide quality products at reasonable prices and establish a good reputation for myself. The businessman that may end up not discharging his social responsibility is",
   "options": {
    "A": "Musa",
    "B": "Okon",
@@ -137,7 +137,7 @@
   "subject": "commerce",
   "year": 1997,
   "number": 8,
-  "question": "The business with the best objectives is",
+  "question": "Use the conversation below to answer questions 7 and 8. MUSA: Taiwo, why you are in business? and discharge my social responsibilities.What of you? MUSA: I am in business to minimize cost, provide products at low prices and as you said, discharge my social responsibilities. What of you, Okon and Kalu? OKON:I am in business to cater for the need of the consumers at all costs. KALU:I am in business to make profit, provide quality products at reasonable prices and establish a good reputation for myself. The business with the best objectives is",
   "options": {
    "A": "Okon",
    "B": "Taiwo",
@@ -917,7 +917,26 @@
    "A": "economic environment",
    "B": "legal environment",
    "C": "political environment",
-   "D": "social environment. 50 Sudden technological changes can have the effect of making"
+   "D": "social environment."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1997-50",
+  "subject": "commerce",
+  "year": 1997,
+  "number": 50,
+  "question": "50 Sudden technological changes can have the effect of making",
+  "options": {
+   "A": "a company’s management style ineffective",
+   "B": "a company’s product obsolete",
+   "C": "the control mechanism difficult to implement",
+   "D": "the motivational factors in the company difficult to monitor."
   },
   "answer": null,
   "explanation": null,

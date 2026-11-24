@@ -120,6 +120,26 @@
   "images": []
  },
  {
+  "id": "mathematics-1985-7",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 7,
+  "question": "",
+  "options": {
+   "A": "3/2",
+   "B": "2/3",
+   "C": "2",
+   "D": "3",
+   "E": "18"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "mathematics-1985-8",
   "subject": "mathematics",
   "year": 1985,
@@ -242,7 +262,27 @@
    "B": "1 + x + x² + x² 2 12³ 2⁴ 3 2 1.2² 2³.3",
    "C": "1 + x + x² - x² +...",
    "D": "1 - x + x² - x² + 2 1.2³ 2⁴. 3 2 1.2² 2³.3",
-   "E": "1+ x ³ + x³ - x⁴ + 1.2 12.4 12.63 5. (43 + 42) (43 - 42) (3 + 2) is equal to"
+   "E": "1+ x ³ + x³ - x⁴ +"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-15",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 15,
+  "question": "1.2 12.4 12.63 5. (43 + 42) (43 - 42) (3 + 2) is equal to",
+  "options": {
+   "A": "0",
+   "B": "43 + 42",
+   "C": "(42 - 43) (3 + 2)",
+   "D": "3 + 2",
+   "E": "1"
   },
   "answer": null,
   "explanation": null,
@@ -702,7 +742,47 @@
    "B": "43",
    "C": "3/2",
    "D": "1/3",
-   "E": "2/3 A solid sphere of radius 4cm has mass of 64kg. What will be the mass of a shell of the same metal whose internal and external radii are 2cm and 3cm respectively?"
+   "E": "2/3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-39",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 39,
+  "question": "A solid sphere of radius 4cm has mass of 64kg. What will be the mass of a shell of the same metal whose internal and external radii are 2cm and 3cm respectively?",
+  "options": {
+   "A": "5kg",
+   "B": "16kg",
+   "C": "19kg",
+   "D": "25kg",
+   "E": "48kg"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-40",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 40,
+  "question": "P Q In the figure above POQ is the diameter of the circle PQRS. If PSR = 145⁰, find x⁰",
+  "options": {
+   "A": "25⁰",
+   "B": "35⁰",
+   "C": "45⁰",
+   "D": "55⁰",
+   "E": "25⁰"
   },
   "answer": null,
   "explanation": null,
@@ -710,11 +790,195 @@
   "options_are_images": false,
   "image": "mathematics/1985_p11_4.png",
   "images": [
-   "mathematics/1985_p11_4.png",
-   "mathematics/1985_p11_5.png",
-   "mathematics/1985_p11_3.png",
-   "mathematics/1985_p12_1.png",
+   "mathematics/1985_p11_4.png"
+  ]
+ },
+ {
+  "id": "mathematics-1985-41",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 41,
+  "question": "In the figure above GHIJKLMN is a cube of side a. find the length of HN",
+  "options": {
+   "A": "3a",
+   "B": "3a",
+   "C": "3a²",
+   "D": "a2",
+   "E": "a3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1985_p11_5.png",
+  "images": [
+   "mathematics/1985_p11_5.png"
+  ]
+ },
+ {
+  "id": "mathematics-1985-42",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 42,
+  "question": "PQRS is a trapezium of area 14cm² in which PQ//RS, if PQ = 4cm and SR = 3cm, find the area of DSQR in cm²",
+  "options": {
+   "A": "7.0",
+   "B": "6.0",
+   "C": "5.2",
+   "D": "5.0",
+   "E": "4.1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-43",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 43,
+  "question": "S P In the figure PQ is the tangent from P to the circle QRS with SR as its diameter. If PQR = q⁰, which of the following relationship 0⁰ is correct.?",
+  "options": {
+   "A": "q⁰ + f = 90⁰",
+   "B": "f⁰ = 90⁰ - 20⁰ 44. A bag contains 4 white balls and 6 red balls. Two Redballs are taken from the bag without replacement. What is the probability that they are both red?",
+   "C": "2/15",
+   "D": "1/5",
+   "E": "3/5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1985_p11_3.png",
+  "images": [
+   "mathematics/1985_p11_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-1985-44",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 44,
+  "question": "45. How many 2 2cm diameter discs can be cut out of a sheet of cardboard 2¹⁸ 2p³/⁴cm long and p¹/²cm wide?",
+  "options": {
+   "A": "4⁹",
+   "B": "2¹⁹",
+   "C": "2¹⁷p³/⁴( 2p + 2)",
+   "D": "2¹⁰p³/⁴(1 + 2)",
+   "E": "2⁹( 2 + 1)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-45",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 45,
+  "question": "46. Two points X and Y both on latitude 60⁰S have longitudes 147⁰E and 153⁰W respectively. Find to the nearest kilometre the distance between X and Y measured along the parallel of latitudes (Take 2 R = 4 x 10⁴km, where R is the radius of the earth).",
+  "options": {
+   "A": "28.850km",
+   "B": "16.667km",
+   "C": "8.333km",
+   "D": "6.667km",
+   "E": "3.333km 47."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-46",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 46,
+  "question": "In the figure above the area of the shaded segment is",
+  "options": {
+   "A": "3p",
+   "B": "9 3/4",
+   "C": "3(p - 3 3/4)",
+   "D": "3( 3 - p)/4",
+   "E": "p + 9 3/4 48. In a class of 120students, 18 of them scored an A grade in"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1985_p12_1.png",
+  "images": [
+   "mathematics/1985_p12_1.png"
+  ]
+ },
+ {
+  "id": "mathematics-1985-47",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 47,
+  "question": "Mathematics. If the section representing the A grade students on a pie chart has angle Z⁰ at the centre of the circle, what is Z?",
+  "options": {
+   "A": "15",
+   "B": "28",
+   "C": "50",
+   "D": "52",
+   "E": "54 49."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1985-48",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 48,
+  "question": "In the figure above find the angle x",
+  "options": {
+   "A": "100⁰",
+   "B": "120⁰",
+   "C": "60⁰",
+   "D": "110⁰",
+   "E": "140⁰ 50. If a (x+1) - (x +1 ) = bx ( x-2 ) ( n+2)"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1985_p12_2.png",
+  "images": [
    "mathematics/1985_p12_2.png"
   ]
+ },
+ {
+  "id": "mathematics-1985-49",
+  "subject": "mathematics",
+  "year": 1985,
+  "number": 49,
+  "question": "Find a simplest form",
+  "options": {
+   "A": "x² – 1",
+   "B": "x² + 1",
+   "C": "x² + 4",
+   "D": "1",
+   "E": "x² - 4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  }
 ]

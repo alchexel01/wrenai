@@ -592,7 +592,26 @@
    "A": "ordering a bank to pay on demand a stated sum of money",
    "B": "containing records of receipts, payments and balance on an account",
    "C": "used for paying money into a bank account",
-   "D": "used for regular withdrawal of moeny from a savings exchange market?"
+   "D": "used for regular withdrawal of moeny from a savings"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-34",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 34,
+  "question": "exchange market?",
+  "options": {
+   "A": "Providing long-term loans to large scale enterprises.",
+   "B": "Encouraging people to buy shares and thereby providing capital for investment.",
+   "C": "Providing means of assessing the value of a firms’ assets.",
+   "D": "Enabling firms to wind-up quickly in times of difficulties."
   },
   "answer": null,
   "explanation": null,
@@ -763,7 +782,26 @@
    "A": "the majority shareholder",
    "B": "the minority shareholder",
    "C": "the only shareholder",
-   "D": "an equal shareholder with other individuals. through the process of"
+   "D": "an equal shareholder with other individuals."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1995-44",
+  "subject": "commerce",
+  "year": 1995,
+  "number": 44,
+  "question": "through the process of",
+  "options": {
+   "A": "privatization",
+   "B": "commercialization",
+   "C": "indigenization",
+   "D": "nationalization"
   },
   "answer": null,
   "explanation": null,

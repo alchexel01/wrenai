@@ -170,7 +170,7 @@
   "subject": "biology",
   "year": 2000,
   "number": 10,
-  "question": "The parts labelled I and II make up the",
+  "question": "Use the diagram below to answer questions 10 and 11 The parts labelled I and II make up the",
   "options": {
    "A": "glomerulus",
    "B": "convoluted tubules",
@@ -191,7 +191,7 @@
   "subject": "biology",
   "year": 2000,
   "number": 11,
-  "question": "In mammals, re-absorption of salt takes place in",
+  "question": "Use the diagram below to answer questions 10 and 11 In mammals, re-absorption of salt takes place in",
   "options": {
    "A": "IV",
    "B": "III",
@@ -250,7 +250,7 @@
   "subject": "biology",
   "year": 2000,
   "number": 15,
-  "question": "The gas occupying the space labelled I is",
+  "question": "Use the diagram below to answer questions 14 and 15 The gas occupying the space labelled I is",
   "options": {
    "A": "carbon (IV) oxide",
    "B": "nitrogen",
@@ -406,7 +406,7 @@
    "A": "right ventricle",
    "B": "left auricle",
    "C": "right auricle",
-   "D": "left ventricle Use the graph below to answer questions 25 and 26."
+   "D": "left ventricle"
   },
   "answer": null,
   "explanation": null,
@@ -441,7 +441,7 @@
   "subject": "biology",
   "year": 2000,
   "number": 25,
-  "question": "The part labelled II is the",
+  "question": "Use the graph below to answer questions 25 and 26. The part labelled II is the",
   "options": {
    "A": "mesocarp",
    "B": "pericarp",
@@ -460,7 +460,7 @@
   "subject": "biology",
   "year": 2000,
   "number": 26,
-  "question": "The fruit represented is mainly dispersed by",
+  "question": "Use the graph below to answer questions 25 and 26. The fruit represented is mainly dispersed by",
   "options": {
    "A": "animals",
    "B": "water",
@@ -554,7 +554,7 @@
   "subject": "biology",
   "year": 2000,
   "number": 31,
-  "question": "The soil becomes toxic to plants when the concentration of its essential elements is in therangelabelled",
+  "question": "Use the graph below to answer questions 31 and 32. The soil becomes toxic to plants when the concentration of its essential elements is in therangelabelled",
   "options": {
    "A": "IV",
    "B": "III",
@@ -575,7 +575,7 @@
   "subject": "biology",
   "year": 2000,
   "number": 32,
-  "question": "The range at which soil essential element concentration is recorded for optimal plant growth is marked",
+  "question": "Use the graph below to answer questions 31 and 32. The range at which soil essential element concentration is recorded for optimal plant growth is marked",
   "options": {
    "A": "IV",
    "B": "III",

@@ -158,7 +158,7 @@
   "subject": "economics",
   "year": 1999,
   "number": 9,
-  "question": "Points E₆ and Es are respectively equilibra points for",
+  "question": "Use the diagram below to answer questions 9 and 10 Dₒ and SO are initial demand and supply curves with equilibrium at E₁. Other supply and demand curves with equilibrium points are indicated. D₂ S₁ Price (P) Quantity (Q) Points E₆ and Es are respectively equilibra points for",
   "options": {
    "A": "DO and S₀; Do and S₂ B.D₁ and S₂; D₂ and S₀",
    "C": "D₂ and S₁;D₂ and S₂",
@@ -178,7 +178,7 @@
   "subject": "economics",
   "year": 1999,
   "number": 10,
-  "question": "Identify the three important factors that can make 80 to become either S₁ or S₂.",
+  "question": "Use the diagram below to answer questions 9 and 10 Dₒ and SO are initial demand and supply curves with equilibrium at E₁. Other supply and demand curves with equilibrium points are indicated. D₂ S₁ Price (P) Quantity (Q) Identify the three important factors that can make 80 to become either S₁ or S₂.",
   "options": {
    "A": "Technology, weather and population",
    "B": "Technology, price and tastes",
@@ -204,7 +204,7 @@
    "A": "joint demand",
    "B": "derived demand",
    "C": "compositedemand",
-   "D": "competitive demand. In the diagram above, the consum.er equilibrium at point"
+   "D": "competitive demand."
   },
   "answer": null,
   "explanation": null,
@@ -215,6 +215,25 @@
    "economics/1999_p54_1.png",
    "economics/1999_p54_2.png"
   ]
+ },
+ {
+  "id": "economics-1999-12",
+  "subject": "economics",
+  "year": 1999,
+  "number": 12,
+  "question": "In the diagram above, the consum.er equilibrium at point",
+  "options": {
+   "A": "G",
+   "B": "H",
+   "C": "J",
+   "D": "K."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-1999-13",
@@ -848,7 +867,25 @@
   "options": {
    "A": "traders from one part of the country can move freely to other-parts",
    "B": "customs regulations are harmonized among countries",
-   "C": "a group of countries decide to remove restrictions on im ports from one another D. the UNCTAD is in force. 47: Devaluation helps in checking adverse balance of payments if the",
+   "C": "a group of countries decide to remove"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1999-47",
+  "subject": "economics",
+  "year": 1999,
+  "number": 47,
+  "question": "restrictions on im ports from one another D. the UNCTAD is in force. 47: Devaluation helps in checking adverse balance of payments if the",
+  "options": {
+   "A": "demand for imports is e1astic",
+   "B": "demand for imports is inelastic",
+   "C": "supply of expor;ts is elastic",
    "D": "demand for exports is inelastic. ,"
   },
   "answer": null,

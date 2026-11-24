@@ -28,7 +28,7 @@
    "A": "complex and organized society",
    "B": "society characterized by subsistency",
    "C": "society characterized by dependency",
-   "D": "simple and organized society. Use the information below to answer questions 3 and 4. Aboki Plc became insolvent and decided to wind up to meet the legitimate claims of its creditors. Babalawee was called in to manage the dissolution."
+   "D": "simple and organized society."
   },
   "answer": null,
   "explanation": null,
@@ -42,7 +42,7 @@
   "subject": "commerce",
   "year": 1999,
   "number": 3,
-  "question": "After paying the debts of Aboki Plc, the balance goes to",
+  "question": "Use the information below to answer questions 3 and 4. Aboki Plc became insolvent and decided to wind up to meet the legitimate claims of its creditors. Babalawee was called in to manage the dissolution. After paying the debts of Aboki Plc, the balance goes to",
   "options": {
    "A": "Aboki Plc",
    "B": "Babalawee",
@@ -61,7 +61,7 @@
   "subject": "commerce",
   "year": 1999,
   "number": 4,
-  "question": "Babalawee is a",
+  "question": "Use the information below to answer questions 3 and 4. Aboki Plc became insolvent and decided to wind up to meet the legitimate claims of its creditors. Babalawee was called in to manage the dissolution. Babalawee is a",
   "options": {
    "A": "a claimant",
    "B": "a manager",
@@ -212,7 +212,7 @@
   "subject": "commerce",
   "year": 1999,
   "number": 12,
-  "question": "Okon Etim Esin is the",
+  "question": "Use the document below to answer questions 12 and 13. Okon Etim Esin is the",
   "options": {
    "A": "debtor",
    "B": "creditor",
@@ -233,7 +233,7 @@
   "subject": "commerce",
   "year": 1999,
   "number": 13,
-  "question": "The document represents a",
+  "question": "Use the document below to answer questions 12 and 13. The document represents a",
   "options": {
    "A": "bill of exchange",
    "B": "cheque",
@@ -278,7 +278,26 @@
    "A": "the materials should be supplied by Ade",
    "B": "the materials should be supplied by both of them",
    "C": "the materials should be supplied by Benson",
-   "D": "Benson should be asked to reduce his trade discount. payment for goods purchased"
+   "D": "Benson should be asked to reduce his trade"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1999-16",
+  "subject": "commerce",
+  "year": 1999,
+  "number": 16,
+  "question": "discount. payment for goods purchased",
+  "options": {
+   "A": "can refuse to pay on due date since it is only a promise.",
+   "B": "is bound to redeem the not for cash on due date",
+   "C": "is not bound to renew the note before payment",
+   "D": "can return the goods purchased and refuse to pay."
   },
   "answer": null,
   "explanation": null,
@@ -621,6 +640,25 @@
    "B": "standardization",
    "C": "specialization",
    "D": "satisfiying."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1999-35",
+  "subject": "commerce",
+  "year": 1999,
+  "number": 35,
+  "question": "",
+  "options": {
+   "A": "seller",
+   "B": "profit",
+   "C": "product",
+   "D": "buyer."
   },
   "answer": null,
   "explanation": null,

@@ -294,7 +294,26 @@
    "A": "it gives offensive taste",
    "B": "excess calcium s precipitate",
    "C": "it attacks lead contained in pipes",
-   "D": "it encourages the growth of bacteria 17 Water molecules can be ligands especially when they are bonded to."
+   "D": "it encourages the growth of bacteria"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-17",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 17,
+  "question": "17 Water molecules can be ligands especially when they are bonded to.",
+  "options": {
+   "A": "alkaline earth metals",
+   "B": "alkali metals",
+   "C": "transition metals",
+   "D": "group V11 elements"
   },
   "answer": null,
   "explanation": null,
@@ -443,7 +462,26 @@
    "A": "2e⁻",
    "B": "3e⁻",
    "C": "5e⁻",
-   "D": "7e⁻ electricity required to discharge zinc"
+   "D": "7e⁻"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-26",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 26,
+  "question": "electricity required to discharge zinc",
+  "options": {
+   "A": "0.965 x 10⁴ C",
+   "B": "4.820 x 10⁴ C",
+   "C": "9.650 x 10⁴ C",
+   "D": "48.200 x 10⁴ C [F = 96 500 C mol⁻¹]"
   },
   "answer": null,
   "explanation": null,
@@ -462,7 +500,25 @@
    "A": "M = Z",
    "B": "M = Q",
    "C": "M = Z",
-   "E": "M = QZ 28 0.46g of ethanol when burned raised the temperature of 50 g water by 14.3 K. Calculate the heat of combustion of ethanol.",
+   "E": "M = QZ"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2000-28",
+  "subject": "chemistry",
+  "year": 2000,
+  "number": 28,
+  "question": "28 0.46g of ethanol when burned raised the temperature of 50 g water by 14.3 K. Calculate the heat of combustion of ethanol.",
+  "options": {
+   "A": "+3 000 kJ mol⁻¹",
+   "B": "+300 kJ mol⁻¹",
+   "C": "-300 kJ mol⁻¹",
    "D": "-3 000 kJ mol⁻¹ [C = 12, O = 16, H = 1] Specific heat capacity of water = 4.2 jg⁻¹K⁻¹"
   },
   "answer": null,

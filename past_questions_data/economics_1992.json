@@ -156,7 +156,7 @@
   "subject": "economics",
   "year": 1992,
   "number": 11,
-  "question": "At what level of input has diminishing marginal returns set in?",
+  "question": "Use the following production and cost data of a profit-maximizing firm to answer questions 11 and 12 At what level of input has diminishing marginal returns set in?",
   "options": {
    "A": "3",
    "B": "16",
@@ -685,7 +685,7 @@
   "question": "An account from which allocations are made to the three tiers of government in Nigeria is called the",
   "options": {
    "A": "National Income Account",
-   "B": "Public Sector Account Use the information below to answer question 41 and Year 1 Year2 GNP at current prices (Nm) 20,000 27,000 Population (million) 20 24"
+   "B": "Public Sector Account"
   },
   "answer": null,
   "explanation": null,
@@ -699,7 +699,7 @@
   "subject": "economics",
   "year": 1992,
   "number": 41,
-  "question": "What is the percentage increase in GNP between year 1 and year 2?",
+  "question": "Use the information below to answer question 41 and Year 1 Year2 GNP at current prices (Nm) 20,000 27,000 Population (million) 20 24 What is the percentage increase in GNP between year 1 and year 2?",
   "options": {
    "A": "3.5%",
    "B": "14.0%",

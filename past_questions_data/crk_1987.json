@@ -1,0 +1,937 @@
+[
+ {
+  "id": "crk-1987-1",
+  "subject": "crk",
+  "year": 1987,
+  "number": 1,
+  "question": "‘Our sister, be the mother of thousands and ten thousands; and my your descendants posses who was the sister?",
+  "options": {
+   "A": "Rachel",
+   "B": "Rebekah",
+   "C": "Hannah",
+   "D": "Peniah"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-2",
+  "subject": "crk",
+  "year": 1987,
+  "number": 2,
+  "question": "‘Cast out this slave woman with her son; for the son of this slave woman shall not be heir with my son Isaac. Who was the slave woman?",
+  "options": {
+   "A": "Michael",
+   "B": "Sarah",
+   "C": "Hagar",
+   "D": "Puah"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-3",
+  "subject": "crk",
+  "year": 1987,
+  "number": 3,
+  "question": "‘… thoms and thistles it shall bring forth to you and you shall eat the plants of field. In the sweat of your face you shall eat bread’.To whom were these words spoken?",
+  "options": {
+   "A": "Cain",
+   "B": "Esau",
+   "C": "Adam",
+   "D": "Abel"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-4",
+  "subject": "crk",
+  "year": 1987,
+  "number": 4,
+  "question": "Abraham circumcised his son, Isaac, on the eighth day because.",
+  "options": {
+   "A": "It was the custom of his tribe to do so",
+   "B": "God commanded him to do so",
+   "C": "He wanted to distinguish Isaac from Ishmael",
+   "D": "Isaac was the son of promise."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-5",
+  "subject": "crk",
+  "year": 1987,
+  "number": 5,
+  "question": "Who among Joseph’s brothers was bound by Joseph when they went to Egypt to buy grain?",
+  "options": {
+   "A": "Simeon",
+   "B": "Reuben",
+   "C": "Benjamin",
+   "D": "Judah"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-6",
+  "subject": "crk",
+  "year": 1987,
+  "number": 6,
+  "question": "Joshua was buried in the hill-country of",
+  "options": {
+   "A": "Moab",
+   "B": "Naphtali",
+   "C": "Judah",
+   "D": "Ephraim"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-7",
+  "subject": "crk",
+  "year": 1987,
+  "number": 7,
+  "question": "‘Take handfuls of ashes from the kiln and let Moses throw them toward heaven I the sight of Pharaoh’.",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-8",
+  "subject": "crk",
+  "year": 1987,
+  "number": 8,
+  "question": "Whoever touches the ‘mountain of God’ shall be put to death by",
+  "options": {
+   "A": "hanging",
+   "B": "shooting",
+   "C": "strangling",
+   "D": "beating"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-9",
+  "subject": "crk",
+  "year": 1987,
+  "number": 9,
+  "question": "‘Take off the rings gold which are in the ears of your wives, your sons and your daughters and bring them to me’.",
+  "options": {
+   "A": "decorating the Ark",
+   "B": "offering sacrifice",
+   "C": "erecting an altar",
+   "D": "fashioning a molten calf"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-10",
+  "subject": "crk",
+  "year": 1987,
+  "number": 10,
+  "question": "God commanded that Aaron should speak for Moses to the Israelites, but Moses should be to Aaron as",
+  "options": {
+   "A": "God",
+   "B": "master",
+   "C": "brother",
+   "D": "priest"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-11",
+  "subject": "crk",
+  "year": 1987,
+  "number": 11,
+  "question": "On the first day when the Israelites left part of the bread, it bred worms and became foul, but on the sixth day when they left part of the bread it did not become foul because",
+  "options": {
+   "A": "they roasted it immediately",
+   "B": "God commanded them to keep it",
+   "C": "Moses wanted to save them the trouble of searching for bread everyday",
+   "D": "by them they have discovered a better way of preserving it."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-12",
+  "subject": "crk",
+  "year": 1987,
+  "number": 12,
+  "question": "Who was regarded as the greatest prophet in the Old Testament for seeing God face to face?",
+  "options": {
+   "A": "Elijah",
+   "B": "Jeremiah",
+   "C": "Isaiah",
+   "D": "Moses"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-13",
+  "subject": "crk",
+  "year": 1987,
+  "number": 13,
+  "question": "Whoever rebels against your commandment and disobeys your words, whatever you command him, shall be put",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-14",
+  "subject": "crk",
+  "year": 1987,
+  "number": 14,
+  "question": "Which of these statements did God make to Joshua before the crossing of the Jordan?",
+  "options": {
+   "A": "You shall lead my people with the staff of Moses in your hand",
+   "B": "The people of Israel will murmur against you as they did to Moses.",
+   "C": "This book of the law shall not depart out of our mouth",
+   "D": "You shall select for yourself men of valour who will cross the Jordan with you."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-15",
+  "subject": "crk",
+  "year": 1987,
+  "number": 15,
+  "question": "Achan, who took of the devoted things during the fall of Jericho was from the tribe of",
+  "options": {
+   "A": "Reuben",
+   "B": "Benjamin",
+   "C": "Judah",
+   "D": "Manasseh"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-16",
+  "subject": "crk",
+  "year": 1987,
+  "number": 16,
+  "question": "Who among the following people was connected with the war between Israel and King Jabin of Cannan?",
+  "options": {
+   "A": "Egbon",
+   "B": "Jael",
+   "C": "Ehud",
+   "D": "Gideon"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-17",
+  "subject": "crk",
+  "year": 1987,
+  "number": 17,
+  "question": "‘Alas, my daughter: you have brought me very low and you have become the cause of great trouble to me for I have opened my mouth to the Lord, and I cannot take back my vow.",
+  "options": {
+   "A": "Hannah",
+   "B": "Peninah",
+   "C": "Samson",
+   "D": "Jephthah."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-18",
+  "subject": "crk",
+  "year": 1987,
+  "number": 18,
+  "question": "Elkanah went to worship and to sacrifice to the LORD at Shiloh",
+  "options": {
+   "A": "annually",
+   "B": "monthly",
+   "C": "fortnightly",
+   "D": "every Sabbath"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-19",
+  "subject": "crk",
+  "year": 1987,
+  "number": 19,
+  "question": "Uriah did not wish to go down to his house because",
+  "options": {
+   "A": "his wife was pregnant",
+   "B": "Joab would set him in the forefront of the battle",
+   "C": "the Ark was in the battle field",
+   "D": "David lay with his wife."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-20",
+  "subject": "crk",
+  "year": 1987,
+  "number": 20,
+  "question": "Then the spirit of the Lord will come mightily upon you, and you shall prophesy with them ...",
+  "options": {
+   "A": "Samuel",
+   "B": "Saul",
+   "C": "David",
+   "D": "Jonathan."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-21",
+  "subject": "crk",
+  "year": 1987,
+  "number": 21,
+  "question": "The evil spirit that tormented Saul left him whenever he",
+  "options": {
+   "A": "was asleep",
+   "B": "was at prayer",
+   "C": "drink wine",
+   "D": "heard David’s music"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-22",
+  "subject": "crk",
+  "year": 1987,
+  "number": 22,
+  "question": "Saul was made king publicly before the Lord and before all the people of Israel at",
+  "options": {
+   "A": "Mizpah",
+   "B": "Gilgal",
+   "C": "Bethel",
+   "D": "Dan."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-23",
+  "subject": "crk",
+  "year": 1987,
+  "number": 23,
+  "question": "When the Queen of Sheba heard Solomon’s fame concerning the name of the Lord, she came to test him with her",
+  "options": {
+   "A": "questions",
+   "B": "beauty",
+   "C": "army",
+   "D": "wealth."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-24",
+  "subject": "crk",
+  "year": 1987,
+  "number": 24,
+  "question": "The greatest of David’s domestic problems that seemed to break his heart was the",
+  "options": {
+   "A": "rape of Tamar by Amnon",
+   "B": "killing of Amnon by absalom",
+   "C": "conspiracy of Absalom against him",
+   "D": "murder of Absalom by Joab."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-25",
+  "subject": "crk",
+  "year": 1987,
+  "number": 25,
+  "question": "Besides the gifts of wisdom, what other gift did the Lord promise to Solomon but with a condition?",
+  "options": {
+   "A": "Riches",
+   "B": "Honour",
+   "C": "Long life",
+   "D": "Victory in"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-26",
+  "subject": "crk",
+  "year": 1987,
+  "number": 26,
+  "question": "Warfare",
+  "options": {
+   "A": "Mary was too tender and lovely.",
+   "B": "the angle warned Joseph not to be harsh on Mary.",
+   "C": "Joseph was disappointed with Mary.",
+   "D": "he was a just man."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-27",
+  "subject": "crk",
+  "year": 1987,
+  "number": 27,
+  "question": "Though Herod wanted to put John the Baptist to death, he feared the people, because they held him to be a:",
+  "options": {
+   "A": "priest",
+   "B": "preacher",
+   "C": "prophet",
+   "D": "for-runner of Christ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-28",
+  "subject": "crk",
+  "year": 1987,
+  "number": 28,
+  "question": "Which of these if NOT included in the instructions given to the disciples during their mission?",
+  "options": {
+   "A": "Heal the sick",
+   "B": "Judge the people",
+   "C": "Cleanse lepers",
+   "D": "Raise the dead."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-29",
+  "subject": "crk",
+  "year": 1987,
+  "number": 29,
+  "question": "Jesus asked his disciples not to disclose their vision of the transfiguration until the",
+  "options": {
+   "A": "Crucifixion",
+   "B": "Resurrection",
+   "C": "Ascension",
+   "D": "Pentecost."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-30",
+  "subject": "crk",
+  "year": 1987,
+  "number": 30,
+  "question": "When Peter confessed Jesus as the Christ, Jesus replied that it had been revealed to Peter by",
+  "options": {
+   "A": "my Father",
+   "B": "flesh and blood",
+   "C": "the spirit of the living God",
+   "D": "the son of man."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-31",
+  "subject": "crk",
+  "year": 1987,
+  "number": 31,
+  "question": "Which of the following prophesied the signs of the end?",
+  "options": {
+   "A": "Jeremiah",
+   "B": "Daniel",
+   "C": "Malachi",
+   "D": "Amos"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-32",
+  "subject": "crk",
+  "year": 1987,
+  "number": 32,
+  "question": "The parable of the labourers in the vineyard teaches above all God’s",
+  "options": {
+   "A": "generosity",
+   "B": "strictness",
+   "C": "partiality",
+   "D": "justice."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-33",
+  "subject": "crk",
+  "year": 1987,
+  "number": 33,
+  "question": "According to Jesus, every kingdom divided against itself",
+  "options": {
+   "A": "laid waste",
+   "B": "selfish",
+   "C": "satanic",
+   "D": "without a leader."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-34",
+  "subject": "crk",
+  "year": 1987,
+  "number": 34,
+  "question": "Jesus taught that one should make friends quicklywith one’s",
+  "options": {
+   "A": "enemy",
+   "B": "neighbour",
+   "C": "master",
+   "D": "accuser."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-35",
+  "subject": "crk",
+  "year": 1987,
+  "number": 35,
+  "question": "The Pharisees and Scribes accused the disciples of Jesus of transgressing the tradition of the leaders because they",
+  "options": {
+   "A": "did not regard synagogue rules",
+   "B": "did not pray before meals",
+   "C": "ate with unwashed hands",
+   "D": "disobeyed the elders."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-36",
+  "subject": "crk",
+  "year": 1987,
+  "number": 36,
+  "question": "‘Why this waste? For this ointment might have been sold for a large sum and given to the poor.’ The event which led to this saying took place in",
+  "options": {
+   "A": "Capernaum",
+   "B": "Jerusalem",
+   "C": "Jericho",
+   "D": "Bethany."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-37",
+  "subject": "crk",
+  "year": 1987,
+  "number": 37,
+  "question": "At His triumphal entry into Jerusalem, Christ had to sit on an ass because He",
+  "options": {
+   "A": "had need of it",
+   "B": "was humble",
+   "C": "wanted to fulfill the scriptures",
+   "D": "was a king."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-38",
+  "subject": "crk",
+  "year": 1987,
+  "number": 38,
+  "question": "But Jesus answered them, ‘You are wrong, because you know neither the scriptures nor the power of God. For in the resurrection they neither marry nor are given",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-39",
+  "subject": "crk",
+  "year": 1987,
+  "number": 39,
+  "question": "“... Let both grow together until the harvest; and at harvest time I will tell the reapers, Gather the weeds first and bind them in bundles to be burned, but gather the wheat into my barn.” This passage is on the parable of the",
+  "options": {
+   "A": "mustard seed",
+   "B": "sower",
+   "C": "tares",
+   "D": "treasure hidden in a field."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-40",
+  "subject": "crk",
+  "year": 1987,
+  "number": 40,
+  "question": "‘Blessed are those who hunger and thirst for righteousness, for they shall ...’",
+  "options": {
+   "A": "inherit the earth",
+   "B": "be satisfied",
+   "C": "obtain mercy",
+   "D": "see God."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-41",
+  "subject": "crk",
+  "year": 1987,
+  "number": 41,
+  "question": "Jesus charged his disciples not to depart from Jerusalem but to wait for the promise of the Father. This promise was fulfilled when",
+  "options": {
+   "A": "Jesus ascended into heaven.",
+   "B": "the Holy Spirit filled the disciples on the day of Pentecost.",
+   "C": "Jesus resurrected from the dead.",
+   "D": "the holy Spirit descended upon Cornelius and all who heard Peter’s preaching."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-42",
+  "subject": "crk",
+  "year": 1987,
+  "number": 42,
+  "question": "On their return to Jerusalem immediately after the Ascension, the apostles devoted themselves to",
+  "options": {
+   "A": "preaching",
+   "B": "healing",
+   "C": "alms-giving",
+   "D": "prayer."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-43",
+  "subject": "crk",
+  "year": 1987,
+  "number": 43,
+  "question": "One of the main qualifications of the successor to Judas was that he should be a witness",
+  "options": {
+   "A": "from the time of John the Baptist",
+   "B": "of the Ascension",
+   "C": "during the time of Christ’s ministry and death",
+   "D": "of the Resurrection."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-44",
+  "subject": "crk",
+  "year": 1987,
+  "number": 44,
+  "question": "Peter explained that the disciples were not filled with new wine but with the Holy Spirit according to the prophecy",
+  "options": {
+   "A": "Joel",
+   "B": "Micah",
+   "C": "Isaiah",
+   "D": "Jonah"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-45",
+  "subject": "crk",
+  "year": 1987,
+  "number": 45,
+  "question": "Who advised the Sanhedrin to keep away from the apostles and let them alone?",
+  "options": {
+   "A": "Cornelius",
+   "B": "Stephen",
+   "C": "Gamaliel",
+   "D": "James."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-46",
+  "subject": "crk",
+  "year": 1987,
+  "number": 46,
+  "question": "Saul travelled to Damascus in order to",
+  "options": {
+   "A": "obtain letters of authority from the High Priest",
+   "B": "be converted to Christianity",
+   "C": "be baptized by Ananias",
+   "D": "arrest those belonging to the Way."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-47",
+  "subject": "crk",
+  "year": 1987,
+  "number": 47,
+  "question": "Peter was criticized by the circumcision party in Jerusalem because he",
+  "options": {
+   "A": "converted the gentiles",
+   "B": "raised Dorcas to life",
+   "C": "ate with the gentiles",
+   "D": "baptized Cornelius"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-48",
+  "subject": "crk",
+  "year": 1987,
+  "number": 48,
+  "question": "Who prophesied a great famine over all the world at Antioch?",
+  "options": {
+   "A": "Agabus",
+   "B": "Aeneas",
+   "C": "Claudius",
+   "D": "Barnabas."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-49",
+  "subject": "crk",
+  "year": 1987,
+  "number": 49,
+  "question": "While Peter was still speaking this, the holy Spirit fell on all who heard the word. Where did this happen?",
+  "options": {
+   "A": "Jerusalem",
+   "B": "Caesarea",
+   "C": "Antioch",
+   "D": "Damascus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "crk-1987-50",
+  "subject": "crk",
+  "year": 1987,
+  "number": 50,
+  "question": "Then they cast him out of the city and stoned him and the witnesses laid down their garments at the feet of young man named Saul.",
+  "options": {
+   "A": "James",
+   "B": "Philip",
+   "C": "Barnabas",
+   "D": "Stephen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

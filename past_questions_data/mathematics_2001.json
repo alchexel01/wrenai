@@ -185,6 +185,25 @@
   "images": []
  },
  {
+  "id": "mathematics-2001-11",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 11,
+  "question": "",
+  "options": {
+   "A": "ax – 18",
+   "B": "ax – 6",
+   "C": "ax – 2",
+   "D": "ax + 2"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "mathematics-2001-12",
   "subject": "mathematics",
   "year": 2001,
@@ -213,7 +232,7 @@
    "A": "2y – x – 2  0, y + 2x + 2  0, x  0",
    "B": "2y – x – 2  0, y + 2x + 2  0,  0",
    "C": "2y – x – 2  0, y + 2x + 2  0,  0, x  -1",
-   "D": "-2y < x  2  0, y + 2x + 2  0,  0 14.. The sixth term of an arithmetic progression is half of its twelfth term. The first term is equal to"
+   "D": "-2y < x  2  0, y + 2x + 2  0,  0"
   },
   "answer": null,
   "explanation": null,
@@ -223,6 +242,25 @@
   "images": [
    "mathematics/2001_p55_1.png"
   ]
+ },
+ {
+  "id": "mathematics-2001-14",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 14,
+  "question": "14.. The sixth term of an arithmetic progression is half of its twelfth term. The first term is equal to",
+  "options": {
+   "A": "half of the common difference",
+   "B": "double of the common difference",
+   "C": "the common difference",
+   "D": "zero"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  },
  {
   "id": "mathematics-2001-15",
@@ -474,6 +512,25 @@
   "images": []
  },
  {
+  "id": "mathematics-2001-28",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 28,
+  "question": "",
+  "options": {
+   "A": "3y = x + 5y3",
+   "B": "3y = -x + 53",
+   "C": "y = x + 5",
+   "D": "y = 1/10x + 5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "mathematics-2001-29",
   "subject": "mathematics",
   "year": 2001,
@@ -710,7 +767,28 @@
    "A": "14",
    "B": "15",
    "C": "16",
-   "D": "17 Using the table below to"
+   "D": "17 Using"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/2001_p56_3.png",
+  "images": [
+   "mathematics/2001_p56_3.png"
+  ]
+ },
+ {
+  "id": "mathematics-2001-42",
+  "subject": "mathematics",
+  "year": 2001,
+  "number": 42,
+  "question": "the table below to answer questions 42 and 43 Scₒᵣₑ ₄ ₇ ₈ ₁₁ ₁₃ ₈ Fᵣₑqᵤₑₙcy ₃ ₅ ₂ ₇ ₂ ₁ Find the square of the mode",
+  "options": {
+   "A": "25",
+   "B": "49",
+   "C": "64",
+   "D": "121"
   },
   "answer": null,
   "explanation": null,
@@ -720,32 +798,11 @@
   "images": []
  },
  {
-  "id": "mathematics-2001-42",
-  "subject": "mathematics",
-  "year": 2001,
-  "number": 42,
-  "question": "Find the square of the mode",
-  "options": {
-   "A": "25",
-   "B": "49",
-   "C": "64",
-   "D": "121"
-  },
-  "answer": null,
-  "explanation": null,
-  "has_diagram": true,
-  "options_are_images": false,
-  "image": "mathematics/2001_p56_3.png",
-  "images": [
-   "mathematics/2001_p56_3.png"
-  ]
- },
- {
   "id": "mathematics-2001-43",
   "subject": "mathematics",
   "year": 2001,
   "number": 43,
-  "question": "The mean score is",
+  "question": "the table below to answer questions 42 and 43 Scₒᵣₑ ₄ ₇ ₈ ₁₁ ₁₃ ₈ Fᵣₑqᵤₑₙcy ₃ ₅ ₂ ₇ ₂ ₁ The mean score is",
   "options": {
    "A": "11.0",
    "B": "9.5",
@@ -754,12 +811,10 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "mathematics/2001_p56_3.png",
-  "images": [
-   "mathematics/2001_p56_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "mathematics-2001-44",

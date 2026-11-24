@@ -101,7 +101,7 @@
    "A": "latter pays tax while the former does not",
    "B": "former attracts more capital than the latter",
    "C": "membership of the former is usually more than that of the latter",
-   "D": "former, unlike the latter, has limited liabilities. Use the information below to answer questions 7 and 8 Mr Obi is a manager of Obi Agricultural Venture. He makes all the decisions and takes all profits from the business. He had agreed with Alhaji Musa (a farmer) to pool their resources together and expand their business. They invites Mr. Abayomi (a cotton grower) to join them. Mr Abayomi agreed on the condition that his liability in the new firm will be limited to his investment in it. They thus registered Obi, Musa & Abayomi Agricultural Ventures."
+   "D": "former, unlike the latter, has limited liabilities."
   },
   "answer": null,
   "explanation": null,
@@ -115,7 +115,7 @@
   "subject": "commerce",
   "year": 1998,
   "number": 7,
-  "question": "It can be deduced from the above that Obi AgriculturalVentures is a",
+  "question": "Use the information below to answer questions 7 and 8 Mr Obi is a manager of Obi Agricultural Venture. He makes all the decisions and takes all profits from the business. He had agreed with Alhaji Musa (a farmer) to pool their resources together and expand their business. They invites Mr. Abayomi (a cotton grower) to join them. Mr Abayomi agreed on the condition that his liability in the new firm will be limited to his investment in it. They thus registered Obi, Musa & Abayomi Agricultural Ventures. It can be deduced from the above that Obi AgriculturalVentures is a",
   "options": {
    "A": "sole proprietorship",
    "B": "general partnership",
@@ -134,7 +134,7 @@
   "subject": "commerce",
   "year": 1998,
   "number": 8,
-  "question": "Which of the statements below is true of Mr Abayomi?",
+  "question": "Use the information below to answer questions 7 and 8 Mr Obi is a manager of Obi Agricultural Venture. He makes all the decisions and takes all profits from the business. He had agreed with Alhaji Musa (a farmer) to pool their resources together and expand their business. They invites Mr. Abayomi (a cotton grower) to join them. Mr Abayomi agreed on the condition that his liability in the new firm will be limited to his investment in it. They thus registered Obi, Musa & Abayomi Agricultural Ventures. Which of the statements below is true of Mr Abayomi?",
   "options": {
    "A": "He can assign his shares to another without consent of other partners",
    "B": "He cannot take part in the management of the business.",
@@ -229,12 +229,33 @@
   "subject": "commerce",
   "year": 1998,
   "number": 13,
-  "question": "What is the current ratio?",
+  "question": "Use the information below to answer questions 13 and 14 SONU Enterprises Balances Sheet as at 31/3/98 N N What is the current ratio?",
   "options": {
    "A": "4:1",
    "B": "4.5:1",
    "C": "5:1",
-   "D": "25.5:1 14 What is the acid ratio?"
+   "D": "25.5:1"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "commerce/1998_p10_1.png",
+  "images": [
+   "commerce/1998_p10_1.png"
+  ]
+ },
+ {
+  "id": "commerce-1998-14",
+  "subject": "commerce",
+  "year": 1998,
+  "number": 14,
+  "question": "Use the information below to answer questions 13 and 14 SONU Enterprises Balances Sheet as at 31/3/98 N N 14 What is the acid ratio?",
+  "options": {
+   "A": "2.95:1",
+   "B": "4.25:1",
+   "C": "4.75:1",
+   "D": "5.55:1"
   },
   "answer": null,
   "explanation": null,

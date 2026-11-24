@@ -863,7 +863,26 @@
    "A": "5.3 X 10³ J",
    "B": "6.5 X 10³ J",
    "C": "1.8 X 10⁷ J",
-   "D": "2.3 X 10⁷ J 4.6 The power dissipated in an a.c. circuit with an r.m.s. current of 5A, r.m.s. voltage of 10 V and a phase angle of 60o is"
+   "D": "2.3 X 10⁷ J"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-1997-46",
+  "subject": "physics",
+  "year": 1997,
+  "number": 46,
+  "question": "4.6 The power dissipated in an a.c. circuit with an r.m.s. current of 5A, r.m.s. voltage of 10 V and a phase angle of 60o is",
+  "options": {
+   "A": "25 W",
+   "B": "50 W",
+   "C": "120 W",
+   "D": "125 W"
   },
   "answer": null,
   "explanation": null,

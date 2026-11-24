@@ -317,9 +317,28 @@
    "A": "AC is lowest",
    "B": "AVC is lowest",
    "C": "MC is rising",
-   "D": "MC is falling 18.A firm will experience diseconomies of scale when"
+   "D": "MC is falling"
   },
   "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-18",
+  "subject": "economics",
+  "year": 2011,
+  "number": 18,
+  "question": "A firm will experience diseconomies of scale when",
+  "options": {
+   "A": "there are difficulties in coordinating production",
+   "B": "there is shortage in labour supply",
+   "C": "the size of market is small",
+   "D": "there is an increase in the price of raw materials"
+  },
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -409,7 +428,7 @@
   "subject": "economics",
   "year": 2011,
   "number": 23,
-  "question": "The average total cost when 20 units are produced is",
+  "question": "Use the diagram below to answer question 23 and 24 The average total cost when 20 units are produced is",
   "options": {
    "A": "N20.00",
    "B": "N23.00",
@@ -430,7 +449,7 @@
   "subject": "economics",
   "year": 2011,
   "number": 24,
-  "question": "When 20 units of output is produced, TC will be",
+  "question": "Use the diagram below to answer question 23 and 24 When 20 units of output is produced, TC will be",
   "options": {
    "A": "N360",
    "B": "N300",
@@ -550,9 +569,28 @@
    "A": "notes",
    "B": "precious metals",
    "C": "coins",
-   "D": "commodities 31.A country achieves economic development when there is"
+   "D": "commodities"
   },
   "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-31",
+  "subject": "economics",
+  "year": 2011,
+  "number": 31,
+  "question": "A country achieves economic development when there is",
+  "options": {
+   "A": "an increase in military expenditure",
+   "B": "an increase in capacity utilization",
+   "C": "a sustained increase in per capital income",
+   "D": "an even distribution of goods and services"
+  },
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -569,9 +607,47 @@
    "A": "GDP gap",
    "B": "GDP at factor cost",
    "C": "GDP at market price",
-   "D": "GDP deflator 33.A country embarks on deficit financing in order to"
+   "D": "GDP deflator"
   },
   "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-33",
+  "subject": "economics",
+  "year": 2011,
+  "number": 33,
+  "question": "A country embarks on deficit financing in order to",
+  "options": {
+   "A": "increase revenue",
+   "B": "reduce aggregate demand",
+   "C": "curb inflation",
+   "D": "stimulate investment"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-34",
+  "subject": "economics",
+  "year": 2011,
+  "number": 34,
+  "question": "Use the diagram below to answer question 34 and 35 The deflationary gap is defined by",
+  "options": {
+   "A": "X",
+   "B": "K",
+   "C": "X + K",
+   "D": "X - K"
+  },
+  "answer": "A",
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
@@ -581,30 +657,11 @@
   ]
  },
  {
-  "id": "economics-2011-34",
-  "subject": "economics",
-  "year": 2011,
-  "number": 34,
-  "question": "The deflationary gap is defined by",
-  "options": {
-   "A": "X",
-   "B": "K",
-   "C": "X + K",
-   "D": "X - K"
-  },
-  "answer": "A",
-  "explanation": null,
-  "has_diagram": false,
-  "options_are_images": false,
-  "image": null,
-  "images": []
- },
- {
   "id": "economics-2011-35",
   "subject": "economics",
   "year": 2011,
   "number": 35,
-  "question": "What does X represent?",
+  "question": "Use the diagram below to answer question 34 and 35 What does X represent?",
   "options": {
    "A": "recessionary gap",
    "B": "GNP gap",
@@ -613,10 +670,12 @@
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2011_p10_1.png",
+  "images": [
+   "economics/2011_p10_1.png"
+  ]
  },
  {
   "id": "economics-2011-36",
@@ -761,7 +820,26 @@
    "A": "concession",
    "B": "incorporation",
    "C": "commercialization",
-   "D": "privatization 44.A condition in which official and autonomous exchange rate coexist is"
+   "D": "privatization"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-44",
+  "subject": "economics",
+  "year": 2011,
+  "number": 44,
+  "question": "A condition in which official and autonomous exchange rate coexist is",
+  "options": {
+   "A": "dual exchange rate system",
+   "B": "managed floating rate system",
+   "C": "market determined exchange rate system",
+   "D": "multiple exchange rate system"
   },
   "answer": null,
   "explanation": null,
@@ -798,8 +876,83 @@
   "options": {
    "A": "Industrial development",
    "B": "Income per head",
-   "C": "Revenue generation 47.A change from one industry to another by a worker is an example of",
-   "D": "vertical mobility 48.The money paid per hour for work done"
+   "C": "Revenue generation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-47",
+  "subject": "economics",
+  "year": 2011,
+  "number": 47,
+  "question": "A change from one industry to another by a worker is an example of",
+  "options": {
+   "A": "geographical mobility",
+   "B": "horizontal mobility",
+   "C": "professional advancement",
+   "D": "vertical mobility"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-48",
+  "subject": "economics",
+  "year": 2011,
+  "number": 48,
+  "question": "The money paid per hour for work done",
+  "options": {
+   "A": "salary",
+   "B": "wage rate",
+   "C": "cost",
+   "D": "bonus"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-49",
+  "subject": "economics",
+  "year": 2011,
+  "number": 49,
+  "question": "Trade takes place because of",
+  "options": {
+   "A": "marginal utility",
+   "B": "inefficiency in production",
+   "C": "opportunity cost",
+   "D": "comparative advantage"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2011-50",
+  "subject": "economics",
+  "year": 2011,
+  "number": 50,
+  "question": "The World Trade Organization is responsible for",
+  "options": {
+   "A": "stabilizing and harmonization oil prices",
+   "B": "ensuring equal participation of countries in trade",
+   "C": "modernising world economies",
+   "D": "minimizing obstacles to international trade and investment"
   },
   "answer": null,
   "explanation": null,

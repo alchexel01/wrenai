@@ -235,7 +235,7 @@
   "subject": "economics",
   "year": 2012,
   "number": 13,
-  "question": "The consumer is at equilibrium at point",
+  "question": "Use the diagram below to answer question 13 and 14 The consumer is at equilibrium at point",
   "options": {
    "A": "N",
    "B": "P",
@@ -256,7 +256,7 @@
   "subject": "economics",
   "year": 2012,
   "number": 14,
-  "question": "To move from point M to K, the consumer has to increase the",
+  "question": "Use the diagram below to answer question 13 and 14 To move from point M to K, the consumer has to increase the",
   "options": {
    "A": "consumption of X and reduce the consumption of Y",
    "B": "expenditure on Y",
@@ -510,7 +510,7 @@
    "A": "net exports from GNP",
    "B": "subsidies from GDP",
    "C": "taxes from GDP",
-   "D": "depreciation from GNP Use the information below to answer question 28 29. The investment expenditure of economy changes by ₦2 Million and MPC is 0.75"
+   "D": "depreciation from GNP"
   },
   "answer": "D",
   "explanation": null,
@@ -524,7 +524,7 @@
   "subject": "economics",
   "year": 2012,
   "number": 28,
-  "question": "What is the change in income?",
+  "question": "Use the information below to answer question 28 29. The investment expenditure of economy changes by ₦2 Million and MPC is 0.75 What is the change in income?",
   "options": {
    "A": "N0.5m",
    "B": "N1.5m",

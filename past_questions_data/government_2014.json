@@ -398,6 +398,25 @@
   "images": []
  },
  {
+  "id": "government-2014-22",
+  "subject": "government",
+  "year": 2014,
+  "number": 22,
+  "question": "",
+  "options": {
+   "A": "ensure the safety of all trade routes",
+   "B": "ensure good governance of the districts",
+   "C": "mobilized the army",
+   "D": "was the Head of the army"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "government-2014-23",
   "subject": "government",
   "year": 2014,

@@ -236,7 +236,26 @@
    "A": "r² - k",
    "B": "r² - k 2r²Q Q 4r²Q",
    "C": "r² - k",
-   "D": "r² - k 2r2Q 4r2Q"
+   "D": "r² - k"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1995-14",
+  "subject": "mathematics",
+  "year": 1995,
+  "number": 14,
+  "question": "2r2Q 4r2Q",
+  "options": {
+   "A": "(-6, 0)(-1, 0)",
+   "B": "(-3,0)(-2, 0)",
+   "C": "(-6, 0)(1, 0)",
+   "D": "(2, 0)(3, 0)"
   },
   "answer": null,
   "explanation": null,
@@ -855,7 +874,7 @@
   "subject": "mathematics",
   "year": 1995,
   "number": 47,
-  "question": "find the mode of the distribution",
+  "question": "Use the table below to answer questions 47 and 48 find the mode of the distribution",
   "options": {
    "A": "3.2",
    "B": "3.4",
@@ -876,7 +895,7 @@
   "subject": "mathematics",
   "year": 1995,
   "number": 48,
-  "question": "The median of the distribution is",
+  "question": "Use the table below to answer questions 47 and 48 The median of the distribution is",
   "options": {
    "A": "4.0",
    "B": "3.5",

@@ -104,7 +104,7 @@
    "A": "Boyle",
    "B": "Charles",
    "C": "Graham",
-   "D": "Gay-lussac 7, An increase in temperature causes an increase in the pressure in the"
+   "D": "Gay-lussac"
   },
   "answer": null,
   "explanation": null,
@@ -114,6 +114,25 @@
   "images": [
    "chemistry/1988_p20_1.png"
   ]
+ },
+ {
+  "id": "chemistry-1988-7",
+  "subject": "chemistry",
+  "year": 1988,
+  "number": 7,
+  "question": "7, An increase in temperature causes an increase in the pressure in the",
+  "options": {
+   "A": "average velocity of the molecules",
+   "B": "number of collisions between the molecules",
+   "C": "density of the molecules",
+   "D": "free mean path between each molecules and other."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  },
  {
   "id": "chemistry-1988-8",

@@ -1,0 +1,904 @@
+[
+ {
+  "id": "principles-of-accounts-1999-1",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 1,
+  "question": "Accrual concept stipulates that",
+  "options": {
+   "A": "revenue should be recognized when it is earned",
+   "B": "costs should be recognized when the expenditure is paid",
+   "C": "revenue should be recognized only when cash is paid",
+   "D": "costs should be recognized when they are incurred."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-2",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 2,
+  "question": "The basic role of accounting is to;",
+  "options": {
+   "A": "detect fraud",
+   "B": "altest to financial statement",
+   "C": "measure performance",
+   "D": "protect shareholders"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-3",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 3,
+  "question": "The need for changes in accounting theory in Nigeria was influenced by the",
+  "options": {
+   "A": "dynamics of commercialization and privatization policies",
+   "B": "growth in size of business units",
+   "C": "introduction of he structural adjustment programme",
+   "D": "inconvertibility of the nation’s currency."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-4",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 4,
+  "question": "A book-keeping error occurs when there is a.",
+  "options": {
+   "A": "deliberate manipulation of records",
+   "B": "unintentional correct posting in the ledger",
+   "C": "intentional failure to record transactions"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-5",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 5,
+  "question": "When a proprietor withdraw cash from the business for private use, he",
+  "options": {
+   "A": "debits cash account and credits drawings account",
+   "B": "credits cash account and debit its bank account",
+   "C": "debits bank account and credit drawings account",
+   "D": "credits cash account and debit drawings accounts."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-6",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 6,
+  "question": "A basic unifying concept in accounting implies that",
+  "options": {
+   "A": "where creditors’ accoun is zero, the assets are equal to the owner’s equity.,",
+   "B": "there should be a balance in he creditors’s account in order to measure total assets",
+   "C": "revcenues should be supported by invested and owners’s capital",
+   "D": "total assets can be less than liability and equity."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-7",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 7,
+  "question": "A source document for the sales day book is",
+  "options": {
+   "A": "requisition form",
+   "B": "an invoice",
+   "C": "a customer advice",
+   "D": "a credit advice."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-8",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 8,
+  "question": "In a cash book, the opening balance was N7,600, closing balance N9,200 and the total cash received during the period was N18,000. What was the amount",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-9",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 9,
+  "question": "If the total discount allowed in cash book was N230 and the total discount received was N255 and the total following is true concerning the two discounts?",
+  "options": {
+   "A": "They must be balanced in the cash book and the difference taken to the debtors ledger,",
+   "B": "they must be balanced in the cash, balance and the difference taken to the trial balance.",
+   "C": "They should not be balanced in the cash book before being taken to the trial balance.",
+   "D": "They should not appear in the trial balance a they were already either received or paid out."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-10",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 10,
+  "question": "Which of the following bank reconciliation items should not be added or subtracted from the bank statement balance to determine the adjusted cash balnce?",
+  "options": {
+   "A": "Outstanding cheques",
+   "B": "Bank service charges",
+   "C": "deposits in the mail not yet received by the bank",
+   "D": "Bank error, charging a company for another company’s cheques."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-11",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 11,
+  "question": "The fixed amount of money given to a petty cashier at the beginning of a period is called",
+  "options": {
+   "A": "imprest",
+   "B": "petty cash",
+   "C": "float",
+   "D": "cash advance"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-12",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 12,
+  "question": "A provision for bad debt account had N3,800 at the beginning of the year and N4,220 at the close of the year. If bad debts are calculated at the rate of ¹/ %₂₀ of annual credit sales. what was the credit sales for the period?",
+  "options": {
+   "A": "N210,000",
+   "B": "N844,400",
+   "C": "N840,000",
+   "D": "N500,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-13",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 13,
+  "question": "Asa company bought a vehicle worth N20,000 and the vehicle is to be depreciated 5% using the reducing balance method of depreciation, what would be the value of the assets after 3 years?",
+  "options": {
+   "A": "N19,000.00",
+   "B": "N18,050.50",
+   "C": "N17,147.50",
+   "D": "N16,290.13"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-15",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 15,
+  "question": "Use the information below to answer questions 14 and 15 Capital: Opening balance 307,000 Closing balance 342,000 Net profit for the period 121,600 Opening stock 98,800 Purchases 706,000 Carriage inwards 17,500 Cost of goods sold 740,700 Total selling, general and Administrative exps 526,000 Discount received 9,650 Calculate the gross profit for the period",
+  "options": {
+   "A": "N535,650",
+   "B": "N628,300,",
+   "C": "N637,950",
+   "D": "N647,600"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-16",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 16,
+  "question": "Chibuike bought 36 notebooks at N10 each from John and was given a trade discount of 5%. In addition, he as offered 1% cash discount which he took advantage of. How much did Chibuike pay?",
+  "options": {
+   "A": "N338.58",
+   "B": "342.000",
+   "C": "N345.42",
+   "D": "N360.00."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-17",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 17,
+  "question": "Depreciation on a particular piece of machinery was N2,700 during the fifth year of its service life and N4,050 during the sixth year. The logical explanation for this is that.",
+  "options": {
+   "A": "an addition was made to the asset during the sixth year.",
+   "B": "the estimate of salvage value on this equipment was decreased at the beginning of the fifth year",
+   "C": "a unit-of-output method of depreciation was used during the sixth year.",
+   "D": "the estimated remaining service life of the asset was increased at the beginning of the sixth year."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-18",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 18,
+  "question": "The main features of the single entry system are that",
+  "options": {
+   "A": "books of accounts are not maintained and business relies only on bank statement",
+   "B": "the journal records are absent and only the main ledger is kept",
+   "C": "there are incomplete classifications and recording procedures",
+   "D": "only credit sales transactions and credit purchases are recorded."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-19",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 19,
+  "question": "The principal function of a sales ledger control account is to",
+  "options": {
+   "A": "serve as internal check and provide quick information for the preparation of interim financial statements",
+   "B": "serve as external check and provide quick information for the preparation of interim financial statements",
+   "C": "provide quick information for the preparation of customers’ statements,",
+   "D": "provide information for the control of salesmen’s activities"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-20",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 20,
+  "question": "In dealing with incomplete records, fixed assets are posted to",
+  "options": {
+   "A": "opening profit and loss as brought forward figures",
+   "B": "closing balance sheet as carried forward figures",
+   "C": "closing balance sheet as brought forward figures"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-21",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 21,
+  "question": "Use the information below to answer questions 21 and22 Aminu and Sons credit purchases (Extract) as at February, 1996 Feb 1 Credit balances 40,000 Debit balances 1,000 Feb 28 Purchases journal totals 500,000 Returns outwards journal total 50,000 Cheques paid to suppliers 400,000 Promissory notes sent to suppliers 30,000 Discount received from suppliers 8,000 Credit balances in the purchases ledger set off against debit balances in the sales ledger 2,000 The total for the purchases ledger control account",
+  "options": {
+   "A": "N480,000",
+   "B": "N490,000",
+   "C": "N500,000",
+   "D": "N540,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-22",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 22,
+  "question": "Use the information below to answer questions 21 and22 Aminu and Sons credit purchases (Extract) as at February, 1996 Feb 1 Credit balances 40,000 Debit balances 1,000 Feb 28 Purchases journal totals 500,000 Returns outwards journal total 50,000 Cheques paid to suppliers 400,000 Promissory notes sent to suppliers 30,000 Discount received from suppliers 8,000 Credit balances in the purchases ledger set off against debit balances in the sales ledger 2,000 What is the balance c/d in the purchases ledger conrol account?",
+  "options": {
+   "A": "N2,000",
+   "B": "N8,000",
+   "C": "N40,000",
+   "D": "N45,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-23",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 23,
+  "question": "Given: N Total cash received from debtors 30,000 Total purchases for the period 21,000 Amount owed by debtors at the beginning of the period 4,000 Equipment bought 2,500 Amount owed by debtors at the end of the period 3,000 Determine the value of sales for the period.",
+  "options": {
+   "A": "N29,000",
+   "B": "N31,500",
+   "C": "N46,500",
+   "D": "N50,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-24",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 24,
+  "question": "When the factory cost of production has been ascertained, manufactured goods are transferred to trading accounts by",
+  "options": {
+   "A": "debiting manufacturing account and crediting trading account",
+   "B": "crediting sales account and debiting trading account",
+   "C": "debiting sales account and crediting trading account",
+   "D": "crediting manufacturing account and debiting trading account."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-25",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 25,
+  "question": "Lawal and Co makes blocks and sells to builders. In computing prime cost, which of the following costs would be considered appropriate?",
+  "options": {
+   "A": "Cement, sand and carriage outward",
+   "B": "Water, carriage inwards and cement",
+   "C": "Sales boys wages, cement and sand",
+   "D": "carriage outwards, carriage inwards and cement."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-26",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 26,
+  "question": "Manufacturing cost can be classified based on",
+  "options": {
+   "A": "timing of charges, degree of averaging, ease of traceability and timing of charges",
+   "B": "degree carriage inwards and cements"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-27",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 27,
+  "question": "The difference between the factory cost of production and prime cost production is",
+  "options": {
+   "A": "direct materials",
+   "B": "direct labour",
+   "C": "selling expenses",
+   "D": "overhead."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-28",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 28,
+  "question": "Receipts and payments account of a non-profit making organisation is principally a summary of the",
+  "options": {
+   "A": "bank entries",
+   "B": "cash book entries",
+   "C": "expenditure entries",
+   "D": "balance sheet entries."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-29",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 29,
+  "question": "Given: N Club debtors at start 150 Cash sales 4,850 Club debtors at close 900 Cash received from debtors 550 What is the amount club sales",
+  "options": {
+   "A": "N6,150",
+   "B": "N4,850",
+   "C": "N4,650",
+   "D": "N1,300"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-30",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 30,
+  "question": "A credit balance on a receipts and payments account indicates that the non-profit making organisation.",
+  "options": {
+   "A": "had more revenues than expenses during the period",
+   "B": "did not owe much liabilities during the period",
+   "C": "received more cash than it paid out during the period",
+   "D": "made more cash payments than it received during the period."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-31",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 31,
+  "question": "Goodwill can be valued in partnership when,",
+  "options": {
+   "A": "partners make profits",
+   "B": "large losses are made",
+   "C": "a partner retires",
+   "D": "a new branch is opened."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-32",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 32,
+  "question": "As part of the initial investment, a partner contributes office equipment that originally cost N20,000 and on which provision for depreciation of N12,500 had been recorded. If the partners agree on a valuation of N9,000 for the equipment, what amount should be debited to the office equipment, what amount should be debited to the office equipment account?",
+  "options": {
+   "A": "N7,500",
+   "B": "N9,000",
+   "C": "N12,500",
+   "D": "N20,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-33",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 33,
+  "question": "When a partner makes a drawing of stock items from a partnership, the accounting impact of the drawing is to increase the partner’s",
+  "options": {
+   "A": "Goodwill account balance",
+   "B": "Current account credit balance",
+   "C": "Current account debit balance",
+   "D": "Profit and account credit loss balance."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-34",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 34,
+  "question": "Appropriate Account Kudu Wale Determine the net profit of the partnership",
+  "options": {
+   "A": "N 9,300",
+   "B": "N 6,600",
+   "C": "N 4,850",
+   "D": "N 4,450"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-35",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 35,
+  "question": "Dele and Seun who are in partnership, have decided to convert their business into a limited liability company where both become directors. To convert the business",
+  "options": {
+   "A": "They will simply continue since there are no new members.",
+   "B": "The partnership is formally ended and new company books opened.",
+   "C": "The shares and all other items will be shared equally and not in their former ratios.",
+   "D": "Computation of goodwill must b e done as it is legally required."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-36",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 36,
+  "question": "If a sole proprietorship is purchased for cash, then",
+  "options": {
+   "A": "The purchaser debits his business purchase account with the consideration he pays.",
+   "B": "All assets and liabilities must be bought",
+   "C": "Goodwill results where value liabilities taken is higher than the value of assets.",
+   "D": "The vendor debits his businesspurchase account with the consideration he receives."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-37",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 37,
+  "question": "The market price per ordinary share of a corporation listed on the stock exchange is most closely related to its",
+  "options": {
+   "A": "Earnings per share",
+   "B": "Redemption price per share",
+   "C": "Book value per share",
+   "D": "Call price per share"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-38",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 38,
+  "question": "Which of the following events increases a corporation’s shareholders equity?",
+  "options": {
+   "A": "Donation of shares out of the corporation’s own stock to the corporation",
+   "B": "The corporation’s purchase of treasury stock.",
+   "C": "Shares of previously subscribed stock issued to subscribing stockholders",
+   "D": "A municipality donation of land to the corporation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-39",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 39,
+  "question": "Use the information below to answer questions 39 and 40 Zoom Plc Balance Sheet (Extract) as at 31st December 1997 N N Paid-up capital 200,000 Fixed assets 300,000 Share premium 15,000 Investment 180,000 Profit & loss a/c 60,000 Stock 28,000 Debtors 90,000 Creditors 200,000 Provision (3,000) 87,000 Other current Cas 60,000 Liabilities 100,000 Bank 100,000 755,000 755,000 The quick ratio is",
+  "options": {
+   "A": "0.82 : 1",
+   "B": "0.91 : 1",
+   "C": "0.95 : 1",
+   "D": "1.53 : 1."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-40",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 40,
+  "question": "Use the information below to answer questions 39 and 40 Zoom Plc Balance Sheet (Extract) as at 31st December 1997 N N Paid-up capital 200,000 Fixed assets 300,000 Share premium 15,000 Investment 180,000 Profit & loss a/c 60,000 Stock 28,000 Debtors 90,000 Creditors 200,000 Provision (3,000) 87,000 Other current Cas 60,000 Liabilities 100,000 Bank 100,000 755,000 755,000 Determine the owner’s equity",
+  "options": {
+   "A": "N 200,000",
+   "B": "N215,000 in preparing a Memorandum of Incorporation, the journal entry is to debit",
+   "C": "Lawyer’s credit cash accounts",
+   "D": "Cash credit incorporation accounts."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-42",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 42,
+  "question": "Calls in advance are treated in the balance sheet as",
+  "options": {
+   "A": "Current asset",
+   "B": "Current liability",
+   "C": "fixed assets",
+   "D": "fixed liability."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-43",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 43,
+  "question": "Shares issued to a vendour in payment of business purchased would require a debit to",
+  "options": {
+   "A": "Cash account and credit to share capital account",
+   "B": "Share capital account and credit to vendor’s account",
+   "C": "Vendor’s account and credit to share capital account.",
+   "D": "Share capital account and credit to cash account."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-44",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 44,
+  "question": "The best method of allocating expenses among departments is to",
+  "options": {
+   "A": "Allocate expenses to each department in proportion to the sales of that department",
+   "B": "Charge against each department those costs which are within its control",
+   "C": "Charge expenses against each department in proportion to the purchases of that department.",
+   "D": "Allocate expenses to each section of the department in relation to the number of people."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-45",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 45,
+  "question": "To record the transfer of stock fro one department to another, the correct entry would be to debit",
+  "options": {
+   "A": "Gods outwards and credit goods inwards.",
+   "B": "Merchandise account and credit department stock account",
+   "C": "Department transferring and credit department receiving",
+   "D": "Department receiving and credit department transferring."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-46",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 46,
+  "question": "Use the information below to answer question 46 and 47. Amoga Limited invoiced goods at a cost of N 10,000 to its Ikeja branch at a margin of 20%. The branch later returned goods worth N 1,200 at invoice price to the head office. The profit margin should be",
+  "options": {
+   "A": "debited to goods sent to branch account",
+   "B": "debited to branch stock adjustment account",
+   "C": "credited to branch adjustment account",
+   "D": "credited to branch stock account."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-47",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 47,
+  "question": "Use the information below to answer question 46 and 47. Amoga Limited invoiced goods at a cost of N 10,000 to its Ikeja branch at a margin of 20%. The branch later returned goods worth N 1,200 at invoice price to the head office. What is the correct entry in the head office books at the point of initial transfer of the goods?",
+  "options": {
+   "A": "Branch stock account would be credited with N10,000",
+   "B": "Branch stock account would be debited with N12,000",
+   "C": "Goods sent to branch account would be"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-48",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 48,
+  "question": "Capital and revenue expenditures of government are usually accounted for under funds which include",
+  "options": {
+   "A": "Personal advances, technical and public funds.",
+   "B": "Technical, special trust and commercial funds.",
+   "C": "Personal advances, treasury clearance and special trust funds.",
+   "D": "Commercial loans and treasury clearance funds."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-49",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 49,
+  "question": "Which of the following accounts is kept by local gov- ernments in Nigeria?",
+  "options": {
+   "A": "Balance sheet",
+   "B": "Advances account.",
+   "C": "Debtors account",
+   "D": "Profit and loss accounts."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1999-50",
+  "subject": "principles_of_accounts",
+  "year": 1999,
+  "number": 50,
+  "question": "The conventional source of public revenue include",
+  "options": {
+   "A": "Loans, taxation, foreign reserves and dividends.",
+   "B": "Interest, royalties, taxation and loans",
+   "C": "Crude oil, interest, posted price and taxation",
+   "D": "Taxation, deficit budgeting, royalties and loans."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]

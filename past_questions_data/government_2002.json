@@ -108,6 +108,25 @@
   "images": []
  },
  {
+  "id": "government-2002-7",
+  "subject": "government",
+  "year": 2002,
+  "number": 7,
+  "question": "",
+  "options": {
+   "A": "the major political parties",
+   "B": "all the registered political parties",
+   "C": "a coalition of political parties",
+   "D": "the party with the highest votes."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "government-2002-8",
   "subject": "government",
   "year": 2002,
@@ -698,7 +717,26 @@
    "A": "the USSR, Italy, the UK and China",
    "B": "Italy, the UK ,France and Japan",
    "C": "the USA, the USSR, the UK and China",
-   "D": "France, the USA, Canada and Japan 42 The action of the Commonwealth of Nation’s is felt most in the area of"
+   "D": "France, the USA, Canada and Japan"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-42",
+  "subject": "government",
+  "year": 2002,
+  "number": 42,
+  "question": "42 The action of the Commonwealth of Nation’s is felt most in the area of",
+  "options": {
+   "A": "diplomatic cooperation",
+   "B": "economic cooperation",
+   "C": "cultural cooperation",
+   "D": "military cooperation"
   },
   "answer": null,
   "explanation": null,
@@ -775,6 +813,25 @@
    "B": "Aret Adams",
    "C": "Dan Etete",
    "D": "Rilwanu Lukman"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2002-47",
+  "subject": "government",
+  "year": 2002,
+  "number": 47,
+  "question": "",
+  "options": {
+   "A": "Chairmanship of the Eminent persons",
+   "B": "Membership of SADC",
+   "C": "Giant of Africa",
+   "D": "the status of the frontline state."
   },
   "answer": null,
   "explanation": null,

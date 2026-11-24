@@ -104,7 +104,7 @@
    "A": "Specialty goods",
    "B": "Future goods",
    "C": "Specific goods",
-   "D": "General goods Use the information below to answer question 7 and 8 Ojo purchased the following items from Sani at the specified prices on credit; 200 cartons of mild at N1000 per carton, 150 bags of sugar at N500 per bag, 50 bags of rice at N3000 per bag. Sani allowed 10% trade discount and 50% cash discount if payment is made within the agreed period. Ojo paid within the"
+   "D": "General goods"
   },
   "answer": null,
   "explanation": null,
@@ -118,7 +118,7 @@
   "subject": "commerce",
   "year": 2003,
   "number": 7,
-  "question": "What was the amount paid by Ojo?",
+  "question": "Use the information below to answer question 7 and 8 Ojo purchased the following items from Sani at the specified prices on credit; 200 cartons of mild at N1000 per carton, 150 bags of sugar at N500 per bag, 50 bags of rice at N3000 per bag. Sani allowed 10% trade discount and 50% cash discount if payment is made within the agreed period. Ojo paid within the What was the amount paid by Ojo?",
   "options": {
    "A": "N382,500",
    "B": "N425,000",
@@ -137,7 +137,7 @@
   "subject": "commerce",
   "year": 2003,
   "number": 8,
-  "question": "How much was the trade discount?",
+  "question": "Use the information below to answer question 7 and 8 Ojo purchased the following items from Sani at the specified prices on credit; 200 cartons of mild at N1000 per carton, 150 bags of sugar at N500 per bag, 50 bags of rice at N3000 per bag. Sani allowed 10% trade discount and 50% cash discount if payment is made within the agreed period. Ojo paid within the How much was the trade discount?",
   "options": {
    "A": "N42,500",
    "B": "N27,500",

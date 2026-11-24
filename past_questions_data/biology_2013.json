@@ -444,10 +444,28 @@
   "options": {
    "A": "heart, arteries, capillaries and veins",
    "B": "heart, aorta, capillaries and veins",
-   "D": "heart, vena cava, arteries, and veins 25.A plant tissue that carries water and mineral salts is the",
-   "C": "cortex"
+   "D": "heart, vena cava, arteries, and veins"
   },
   "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-25",
+  "subject": "biology",
+  "year": 2013,
+  "number": 25,
+  "question": "A plant tissue that carries water and mineral salts is the",
+  "options": {
+   "A": "cambium",
+   "B": "xylem",
+   "C": "cortex",
+   "D": "phloem"
+  },
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -729,7 +747,26 @@
    "A": "crude oil",
    "B": "heavy metals",
    "C": "cellophane",
-   "D": "sewage 41.A tropical disease caused by Trypanosoma is"
+   "D": "sewage"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2013-41",
+  "subject": "biology",
+  "year": 2013,
+  "number": 41,
+  "question": "A tropical disease caused by Trypanosoma is",
+  "options": {
+   "A": "sleeping sickness",
+   "B": "river blindness",
+   "C": "yellow fever",
+   "D": "malaria"
   },
   "answer": null,
   "explanation": null,

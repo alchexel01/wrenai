@@ -767,7 +767,26 @@
    "A": "The OAU",
    "B": "ECOWAS",
    "C": "The E.E.C.",
-   "D": "The U.N.O. 44 Which of the following pairs of countries were trust territories of the United Nations"
+   "D": "The U.N.O."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1990-44",
+  "subject": "government",
+  "year": 1990,
+  "number": 44,
+  "question": "44 Which of the following pairs of countries were trust territories of the United Nations",
+  "options": {
+   "A": "Tanganyika and Ghana",
+   "B": "Cameroon and Niger",
+   "C": "Togo and Namimbia",
+   "D": "Botswana and Zaire"
   },
   "answer": null,
   "explanation": null,

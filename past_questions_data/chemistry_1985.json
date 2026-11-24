@@ -110,7 +110,27 @@
    "B": "at a slower rare than oxygen",
    "C": "twice as fast as oxygen",
    "D": "three times as fast as oxygen",
-   "E": "four times as fast as oxygen. 1. Given the molecular mss of iron is 56 and that of oxygen"
+   "E": "four times as fast as oxygen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-7",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 7,
+  "question": "1. Given the molecular mss of iron is 56 and that of oxygen",
+  "options": {
+   "A": "25.0 moles",
+   "B": "12.5 moles",
+   "C": "6.25 moles",
+   "D": "3.125 moles",
+   "E": "0.625 moles"
   },
   "answer": null,
   "explanation": null,
@@ -350,7 +370,27 @@
    "B": "Na₂G(OH)₂",
    "C": "NaGa(OH)₃",
    "D": "NaGa (OH)₄",
-   "E": "NaGaO carbon monoxide and high level of methane, the probable source(s) of the pollution must be"
+   "E": "NaGaO"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-20",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 20,
+  "question": "carbon monoxide and high level of methane, the probable source(s) of the pollution must be",
+  "options": {
+   "A": "automobile exhaust and biological decomposition",
+   "B": "combustion of coal and automobile exhaust",
+   "C": "biological decomposition only",
+   "D": "combustion of coal, automobile exhaust and biological decomposition",
+   "E": "combustion of coal and biological decomposition."
   },
   "answer": null,
   "explanation": null,
@@ -490,7 +530,27 @@
    "B": "chlorine",
    "C": "hydrogen tetraoxosulphate",
    "D": "hydrogen sulphide",
-   "E": "nitrogen dioxide has breath carries a significant level of ethanol, the final colour of the solution is."
+   "E": "nitrogen dioxide"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1985-28",
+  "subject": "chemistry",
+  "year": 1985,
+  "number": 28,
+  "question": "has breath carries a significant level of ethanol, the final colour of the solution is.",
+  "options": {
+   "A": "Pink",
+   "B": "Purple",
+   "C": "Orange",
+   "D": "Blue-black",
+   "E": "Green."
   },
   "answer": null,
   "explanation": null,

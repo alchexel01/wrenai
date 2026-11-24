@@ -23,7 +23,7 @@
   "subject": "biology",
   "year": 2003,
   "number": 2,
-  "question": "The processes of water loss and intake indicated by",
+  "question": "Use the diagram above to answer question 2 and 3. The processes of water loss and intake indicated by",
   "options": {},
   "answer": null,
   "explanation": null,
@@ -39,7 +39,7 @@
   "subject": "biology",
   "year": 2003,
   "number": 3,
-  "question": "A noticeable adaptation of the animal to its aquatic habitat is the possession of",
+  "question": "Use the diagram above to answer question 2 and 3. A noticeable adaptation of the animal to its aquatic habitat is the possession of",
   "options": {
    "A": "webbed digits",
    "B": "four limbs",
@@ -209,7 +209,7 @@
   "subject": "biology",
   "year": 2003,
   "number": 12,
-  "question": "The experiment is used to demonstrate that",
+  "question": "Use the diagram below to answer question 12 and 13. The experiment is used to demonstrate that",
   "options": {
    "A": "transpiration occurs through the leaves",
    "B": "plants lose water through guttation C. leaves are important to photosynthesis D. water is necessary for photosynthesis"
@@ -228,7 +228,7 @@
   "subject": "biology",
   "year": 2003,
   "number": 13,
-  "question": "In the experiment, the layer of oil serves to prevent water loss by",
+  "question": "Use the diagram below to answer question 12 and 13. In the experiment, the layer of oil serves to prevent water loss by",
   "options": {
    "A": "Osmosis",
    "B": "Transpiration",
@@ -304,7 +304,7 @@
   "subject": "biology",
   "year": 2003,
   "number": 17,
-  "question": "The aim of the experiment is to demonstrate",
+  "question": "Use the diagram below to answer questions 17 and 18 The aim of the experiment is to demonstrate",
   "options": {
    "A": "the presence of carbon (IV) oxide in exhaled air",
    "B": "that in mammals gaseous exchange take place in thelungs",
@@ -324,7 +324,7 @@
   "subject": "biology",
   "year": 2003,
   "number": 18,
-  "question": "In the experimental set-up, the rubber sheet represents the organ called",
+  "question": "Use the diagram below to answer questions 17 and 18 In the experimental set-up, the rubber sheet represents the organ called",
   "options": {
    "A": "diaphragm",
    "B": "lungs",
@@ -350,7 +350,26 @@
    "A": "duodenum",
    "B": "colon",
    "C": "ileum",
-   "D": "oesophagus 20 The dark reaction of photosynthesis involves the"
+   "D": "oesophagus"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2003-20",
+  "subject": "biology",
+  "year": 2003,
+  "number": 20,
+  "question": "20 The dark reaction of photosynthesis involves the",
+  "options": {
+   "A": "release of oxygen and the splitting of water",
+   "B": "photolysis of water and the production of starch",
+   "C": "reduction of carbon (IV) oxide to organic compounds",
+   "D": "splitting of water into hydrogen ions"
   },
   "answer": null,
   "explanation": null,

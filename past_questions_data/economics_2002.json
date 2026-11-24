@@ -650,7 +650,26 @@
    "A": "supply and demand for labour",
    "B": "rate of inflation",
    "C": "workers' union",
-   "D": "public service .36. If the growth rate of available resources continuously outpaces that of the population, a country will eventually experience"
+   "D": "public service"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2002-36",
+  "subject": "economics",
+  "year": 2002,
+  "number": 36,
+  "question": ".36. If the growth rate of available resources continuously outpaces that of the population, a country will eventually experience",
+  "options": {
+   "A": "under population",
+   "B": "maximum population",
+   "C": "optimistic",
+   "D": "a decrease in output-input ratio"
   },
   "answer": null,
   "explanation": null,

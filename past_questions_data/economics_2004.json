@@ -823,7 +823,7 @@
    "A": "supply has increased",
    "B": "quantity supplied has increased",
    "C": "quantity demanded has i ncreased",
-   "D": "price has fallen 46., A movement from M to T implies that there has been"
+   "D": "price has fallen"
   },
   "answer": null,
   "explanation": null,
@@ -833,6 +833,25 @@
   "images": [
    "economics/2004_p70_3.png"
   ]
+ },
+ {
+  "id": "economics-2004-46",
+  "subject": "economics",
+  "year": 2004,
+  "number": 46,
+  "question": "46., A movement from M to T implies that there has been",
+  "options": {
+   "A": "a decrease in supply",
+   "B": "an increase in demand",
+   "C": "a decrease in price",
+   "D": "an increase in price"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-2004-47",

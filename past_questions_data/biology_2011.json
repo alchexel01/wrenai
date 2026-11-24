@@ -11,7 +11,7 @@
    "C": "Type C",
    "D": "Type D"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -30,7 +30,7 @@
    "C": "attract female lizards for mating purposes",
    "D": "warm predators of the distastefulness of the animal"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -49,7 +49,7 @@
    "C": "Spirogyra sp.",
    "D": "Tilapia sp."
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -68,7 +68,7 @@
    "C": "monocotyledons and dicotyledons",
    "D": "thallophytes and bryophytes"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -87,7 +87,7 @@
    "C": "Aves",
    "D": "Mammalia"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -99,14 +99,14 @@
   "subject": "biology",
   "year": 2011,
   "number": 6,
-  "question": "Which of the organisms represented are notable agricultural pests?",
+  "question": "Use the Diagrams below to answer questions 6 to 8 Which of the organisms represented are notable agricultural pests?",
   "options": {
    "A": "II and IV",
    "B": "I and IV",
    "C": "II and III",
    "D": "I and III"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
@@ -120,14 +120,14 @@
   "subject": "biology",
   "year": 2011,
   "number": 7,
-  "question": "An economic importance of the organism represented by IV is that",
+  "question": "Use the Diagrams below to answer questions 6 to 8 An economic importance of the organism represented by IV is that",
   "options": {
    "A": "it transmits water borne disease to humans",
    "B": "it is destructive to farm crops",
    "C": "its faeces pollutes drinking water",
    "D": "it helps in the control of mosquito larvae"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
@@ -141,7 +141,7 @@
   "subject": "biology",
   "year": 2011,
   "number": 8,
-  "question": "The adult form of iii is a vector of",
+  "question": "Use the Diagrams below to answer questions 6 to 8 The adult form of iii is a vector of",
   "options": {
    "A": "sleeping sickness",
    "B": "river blindness",
@@ -169,7 +169,7 @@
    "C": "ensure cross-breeding between members of one colony and another",
    "D": "expel the reproductives so as to provide enough food for other members"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -181,14 +181,14 @@
   "subject": "biology",
   "year": 2011,
   "number": 10,
-  "question": "The gas evolved in the process is",
+  "question": "Use the diagram below to answer question 10 and 11 The gas evolved in the process is",
   "options": {
    "A": "carbon (IV) oxide",
    "B": "nitrogen",
    "C": "oxygen",
    "D": "carbon (II) oxide"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
@@ -202,14 +202,14 @@
   "subject": "biology",
   "year": 2011,
   "number": 11,
-  "question": "The experimental set-up above is used to demonstrate the process of",
+  "question": "Use the diagram below to answer question 10 and 11 The experimental set-up above is used to demonstrate the process of",
   "options": {
    "A": "diffusion",
    "B": "photosynthesis",
    "C": "fermentation",
    "D": "plasmolysis"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
@@ -230,7 +230,7 @@
    "C": "Deionized water",
    "D": "Hypertonic solution"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -249,7 +249,7 @@
    "C": "they are large and nucleated",
    "D": "they are involved in blood clotting"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -268,7 +268,7 @@
    "C": "absorption",
    "D": "inhibition"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -286,7 +286,7 @@
    "C": "growth",
    "D": "taxis"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -305,7 +305,7 @@
    "C": "trachea",
    "D": "lymph"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -324,7 +324,7 @@
    "C": "cotton seed",
    "D": "been seed"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -341,9 +341,9 @@
    "A": "II",
    "B": "III",
    "C": "II",
-   "D": "I Use the following information to answer the questions 19 and 20. I. Test tube containing cane sugar and water. II. Test tube containing cane sugar and diluted acid. III. Test tube containing cane sugar and its degrading enzyme."
+   "D": "I"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -355,14 +355,14 @@
   "subject": "biology",
   "year": 2011,
   "number": 19,
-  "question": "In which of the test tubes will glucose be detected after complete hydrolysis?",
+  "question": "Use the following information to answer the questions 19 and 20. I. Test tube containing cane sugar and water. II. Test tube containing cane sugar and diluted acid. III. Test tube containing cane sugar and its degrading enzyme. In which of the test tubes will glucose be detected after complete hydrolysis?",
   "options": {
    "A": "I and II only",
    "B": "II and III only",
    "C": "I only",
    "D": "I, II and III"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -374,13 +374,13 @@
   "subject": "biology",
   "year": 2011,
   "number": 20,
-  "question": "The enzyme involved in the hydrolysis is",
+  "question": "Use the following information to answer the questions 19 and 20. I. Test tube containing cane sugar and water. II. Test tube containing cane sugar and diluted acid. III. Test tube containing cane sugar and its degrading enzyme. The enzyme involved in the hydrolysis is",
   "options": {
    "A": "rennin",
    "C": "sucrase",
    "D": "maltase"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -399,7 +399,7 @@
    "C": "perilymph",
    "D": "ossicles"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -418,7 +418,7 @@
    "C": "trachea → bronchioles →bronchi→ alveoli",
    "D": "bronchioles → alveoli → bronchi →trachea"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -437,7 +437,7 @@
    "C": "negative phototropism",
    "D": "positive phototropism"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -456,7 +456,7 @@
    "C": "transpiration pull",
    "D": "the transport of gases and water"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -475,7 +475,7 @@
    "C": "Bladder",
    "D": "Colon"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -493,7 +493,7 @@
    "B": "gills → operculum → mouth",
    "C": "mouth → operculum → gills"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -512,7 +512,7 @@
    "C": "fragmentation",
    "D": "fission"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -531,7 +531,7 @@
    "C": "they utilize respiratory wastes of each other",
    "D": "they are neighbours"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -550,7 +550,7 @@
    "C": "26.7%",
    "D": "16.2%"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -569,7 +569,7 @@
    "C": "whale",
    "D": "mosquito"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -587,7 +587,7 @@
    "B": "low birth rate",
    "D": "short lifespan"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -606,7 +606,7 @@
    "C": "an ecosystem",
    "D": "a microhabitat"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -625,7 +625,7 @@
    "C": "male Culex mosquito",
    "D": "female Culex mosquito"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -644,7 +644,7 @@
    "C": "Hygrometer",
    "D": "Anemometer"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -663,7 +663,7 @@
    "C": "Malpighian tubules of mosquito",
    "D": "brain of humans"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -682,7 +682,7 @@
    "C": "arboreal and marine biomes",
    "D": "microhabitats and macrohabitats"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -701,7 +701,7 @@
    "C": "bathing in contaminated water",
    "D": "bites of blackfly"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -720,7 +720,7 @@
    "C": "Food predation, disease and",
    "D": "Temperature food disease and light"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -739,7 +739,7 @@
    "C": "montane forests",
    "D": "Sahel savanna"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -758,7 +758,7 @@
    "C": "Tropical woodland",
    "D": "Desert"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -777,7 +777,7 @@
    "C": "homozygous",
    "D": "dominant"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -796,7 +796,7 @@
    "C": "disease rate",
    "D": "drought"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -815,7 +815,7 @@
    "C": "mutation",
    "D": "linkage"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -834,7 +834,7 @@
    "C": "Use and disuse",
    "D": "Competition"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -852,7 +852,7 @@
    "C": "non-disjunction",
    "D": "inbreeding"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -871,7 +871,7 @@
    "C": "5",
    "D": "2"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -890,7 +890,7 @@
    "C": "two different antibodies",
    "D": "similar antigens and antibodies"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -909,7 +909,7 @@
    "C": "acquired traits are seldom formed",
    "D": "traits are acquired through the use of body parts"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -928,7 +928,7 @@
    "C": "crypsis",
    "D": "mimicry"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -945,9 +945,9 @@
    "A": "convergent evolution",
    "B": "continuous variation",
    "C": "coevolution",
-   "D": "divergent evolution 1. C 2. C 3. D 4. C 5. D 6. A 7. B 9. A 10. A 11. C 12. D 13. B 14. A 15. B 16. D 17. A 18. C 19. B 20. C 21. A 22. A 23. C 24. A 25. B 26. D 27. D 28. B 29. A 30. C 31. C 32. C 33. B 34. C 35. A 36. B 37. B 38. C 39. B 40. B 41. C 42. B 43. A 44. A 45. D 46. A 47. A 48. A 49. D 50. D"
+   "D": "divergent evolution"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,

@@ -23,7 +23,7 @@
   "subject": "biology",
   "year": 2012,
   "number": 2,
-  "question": "The organelle responsible for heredity is labelled",
+  "question": "Use the diagram below to answer question 2 and 3 The organelle responsible for heredity is labelled",
   "options": {
    "A": "l",
    "B": "ll",
@@ -44,7 +44,7 @@
   "subject": "biology",
   "year": 2012,
   "number": 3,
-  "question": "The part labelled IV is the",
+  "question": "Use the diagram below to answer question 2 and 3 The part labelled IV is the",
   "options": {
    "A": "mitochondrion",
    "B": "cell wall",
@@ -298,7 +298,26 @@
    "A": "Sundew",
    "B": "Loran thus",
    "C": "Rhizopus",
-   "D": "Tapeworm 17.A function of the hydrochloric acid produced in the human stomach during digestion is to"
+   "D": "Tapeworm"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2012-17",
+  "subject": "biology",
+  "year": 2012,
+  "number": 17,
+  "question": "A function of the hydrochloric acid produced in the human stomach during digestion is to",
+  "options": {
+   "A": "neutralise the effect of bile",
+   "B": "coagulate milk protein and emulsify fats",
+   "C": "stop the action of ptyalin",
+   "D": "break up food into smaller particles"
   },
   "answer": null,
   "explanation": null,
@@ -331,7 +350,7 @@
   "subject": "biology",
   "year": 2012,
   "number": 19,
-  "question": "Arrows represent directional movement materials. Transportation in the xylem is represented by",
+  "question": "Use the diagram below to answer this question 19 and 20. Arrows represent directional movement materials. Transportation in the xylem is represented by",
   "options": {
    "A": "I",
    "B": "II",
@@ -352,7 +371,7 @@
   "subject": "biology",
   "year": 2012,
   "number": 20,
-  "question": "The arrow labelled ll represents the",
+  "question": "Use the diagram below to answer this question 19 and 20. The arrow labelled ll represents the",
   "options": {
    "A": "release of oxygen",
    "B": "intake of carbon (IV) oxide",
@@ -695,7 +714,7 @@
   "subject": "biology",
   "year": 2012,
   "number": 38,
-  "question": "The graph illustrates",
+  "question": "Use the diagram below to answer question 38 and 39. The graph illustrates",
   "options": {
    "A": "the highest frequency for height of 2 metres",
    "B": "a discontinuously varying character",
@@ -716,7 +735,7 @@
   "subject": "biology",
   "year": 2012,
   "number": 39,
-  "question": "The largest number of cassava plants has an approximate height of",
+  "question": "Use the diagram below to answer question 38 and 39. The largest number of cassava plants has an approximate height of",
   "options": {
    "A": "1.4m",
    "B": "1.6m",
@@ -742,7 +761,26 @@
    "A": "person of blood group AB can donate blood only to another person of blood group AB",
    "B": "persons of blood groups A and B can donate or receive blood from each other",
    "C": "A person of blood group AB can receive blood only from persons of blood group A or B",
-   "D": "A person of blood group O can donate only to a person of blood group O 41.A yellow maize is planted and all the fruits obtained are of yellow seeds. When white seeds are obtained in a ratio 3:1. The yellow seed is said to be"
+   "D": "A person of blood group O can donate only to a person of blood group O"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2012-41",
+  "subject": "biology",
+  "year": 2012,
+  "number": 41,
+  "question": "A yellow maize is planted and all the fruits obtained are of yellow seeds. When white seeds are obtained in a ratio 3:1. The yellow seed is said to be",
+  "options": {
+   "A": "non-heritable",
+   "B": "sex-linked",
+   "C": "a recessive trait",
+   "D": "a dominant trait"
   },
   "answer": null,
   "explanation": null,
@@ -794,7 +832,7 @@
   "subject": "biology",
   "year": 2012,
   "number": 44,
-  "question": "The type of interaction shown is referred to as",
+  "question": "Use the diagram above to answer this question 44 and 45 The type of interaction shown is referred to as",
   "options": {
    "A": "interspecific competition",
    "B": "intraspecific competition",
@@ -815,7 +853,7 @@
   "subject": "biology",
   "year": 2012,
   "number": 45,
-  "question": "Which of the following statement is true of the interaction?",
+  "question": "Use the diagram above to answer this question 44 and 45 Which of the following statement is true of the interaction?",
   "options": {
    "A": "P aurelia is better adapted for obtaining food than P caudatum",
    "B": "P caudatum is better adapted for obtaining food than P. aurelia",

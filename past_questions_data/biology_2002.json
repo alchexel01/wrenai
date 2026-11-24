@@ -63,8 +63,26 @@
   "options": {
    "A": "cell membrane and cytoplasm",
    "B": "chromatin and nucleolus C. cell wall and chloroplast",
-   "D": "cell membrane and lysosome 5.. A flower that has both stamens and pistil is said to be",
-   "C": "perfect"
+   "D": "cell membrane and lysosome"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2002-5",
+  "subject": "biology",
+  "year": 2002,
+  "number": 5,
+  "question": "5.. A flower that has both stamens and pistil is said to be",
+  "options": {
+   "A": "staminate",
+   "B": "pistillate",
+   "C": "perfect",
+   "D": "imperfect"
   },
   "answer": null,
   "explanation": null,
@@ -97,7 +115,7 @@
   "subject": "biology",
   "year": 2002,
   "number": 7,
-  "question": "The correct evolutionary sequence of the organisms represented is",
+  "question": "Use the diagram below to answer questions 7 and 8 The correct evolutionary sequence of the organisms represented is",
   "options": {
    "A": "IIIIIIIV",
    "B": "IIIIIIVI C . IIIIIIVIV",
@@ -117,20 +135,19 @@
   "subject": "biology",
   "year": 2002,
   "number": 8,
-  "question": "Ovoviparity is the type of fertilization exhibited by the organism labelled",
+  "question": "Use the diagram below to answer questions 7 and 8 Ovoviparity is the type of fertilization exhibited by the organism labelled",
   "options": {
    "A": "I",
    "B": "II",
    "C": "III",
-   "D": "IV Use the diagram below to answer questions 9 and 10"
+   "D": "IV"
   },
   "answer": null,
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
-  "image": "biology/2002_p48_2.png",
+  "image": "biology/2002_p48_1.png",
   "images": [
-   "biology/2002_p48_2.png",
    "biology/2002_p48_1.png"
   ]
  },
@@ -139,7 +156,7 @@
   "subject": "biology",
   "year": 2002,
   "number": 10,
-  "question": "Example of competitors are",
+  "question": "Use the diagram below to answer questions 9 and 10 Example of competitors are",
   "options": {
    "A": "lizard and mouse",
    "B": "snake and lizard",
@@ -148,10 +165,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2002_p48_2.png",
+  "images": [
+   "biology/2002_p48_2.png"
+  ]
  },
  {
   "id": "biology-2002-11",
@@ -546,7 +565,7 @@
   "subject": "biology",
   "year": 2002,
   "number": 32,
-  "question": "Which of the following statements is correct about the experiment?",
+  "question": "Use the diagram below to answer questions 32 and 33 Which of the following statements is correct about the experiment?",
   "options": {
    "A": "The flask must be of the conical type",
    "B": "Caustic soda can be replaced with distilled water",
@@ -567,7 +586,7 @@
   "subject": "biology",
   "year": 2002,
   "number": 33,
-  "question": "The experimental set-up can be used to demonstrate that",
+  "question": "Use the diagram below to answer questions 32 and 33 The experimental set-up can be used to demonstrate that",
   "options": {
    "A": "light is necessary for photosynthesis",
    "B": "oxygen is necessary for photosynthesis",
@@ -720,7 +739,7 @@
   "subject": "biology",
   "year": 2002,
   "number": 41,
-  "question": "the",
+  "question": "Use the diagram below to answer question 41 and 42 the",
   "options": {
    "A": "I",
    "B": "II",
@@ -741,20 +760,19 @@
   "subject": "biology",
   "year": 2002,
   "number": 42,
-  "question": "The structure labelled I represents the",
+  "question": "Use the diagram below to answer question 41 and 42 The structure labelled I represents the",
   "options": {
    "A": "phloem",
    "B": "xylem",
    "C": "cortex",
-   "D": "pericycle Use the diagram below to answer questions 43 and 44"
+   "D": "pericycle"
   },
   "answer": null,
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
-  "image": "biology/2002_p50_1.png",
+  "image": "biology/2002_p50_2.png",
   "images": [
-   "biology/2002_p50_1.png",
    "biology/2002_p50_2.png"
   ]
  },
@@ -763,7 +781,7 @@
   "subject": "biology",
   "year": 2002,
   "number": 43,
-  "question": "The gland usually found in the position labelled is the",
+  "question": "Use the diagram below to answer questions 43 and 44 The gland usually found in the position labelled is the",
   "options": {
    "A": "adrenal",
    "B": "thyroid",
@@ -772,17 +790,19 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2002_p50_1.png",
+  "images": [
+   "biology/2002_p50_1.png"
+  ]
  },
  {
   "id": "biology-2002-44",
   "subject": "biology",
   "year": 2002,
   "number": 44,
-  "question": "A hormone secreted at IV serves to",
+  "question": "Use the diagram below to answer questions 43 and 44 A hormone secreted at IV serves to",
   "options": {
    "A": "facilitate the development of facial hairs",
    "B": "raise the level of calcium ions in the blood",
@@ -791,10 +811,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2002_p50_1.png",
+  "images": [
+   "biology/2002_p50_1.png"
+  ]
  },
  {
   "id": "biology-2002-45",

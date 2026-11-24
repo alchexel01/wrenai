@@ -123,7 +123,24 @@
    "A": "Volume",
    "B": "Mass",
    "C": "Pressure",
-   "D": "Temperature 8 An increase in temperature causes an increase in the pressure of a gas in a fixed volume due to an increase in the"
+   "D": "Temperature"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1992-8",
+  "subject": "chemistry",
+  "year": 1992,
+  "number": 8,
+  "question": "8 An increase in temperature causes an increase in the pressure of a gas in a fixed volume due to an increase in the",
+  "options": {
+   "A": "number of molecules of the gas",
+   "B": "density of the gas molecules"
   },
   "answer": null,
   "explanation": null,

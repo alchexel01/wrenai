@@ -366,7 +366,26 @@
    "A": "-2<y<6",
    "B": "y<-3 or y>6",
    "C": "y>-3 or y>6",
-   "D": "y<-3 or y<6 21 If x is negative, what is the range of values of x within which 22 A man’s initial salary is #540.00 a month and increases after each period of six months by #36.00 a month. Find his salary in the eighth month of the third year."
+   "D": "y<-3 or y<6 21 If x is negative, what is the range of values of x within which 22 A man’s initial salary is #540.00 a month and increases after each period of six months by #36.00 a month."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1993-21",
+  "subject": "mathematics",
+  "year": 1993,
+  "number": 21,
+  "question": "Find his salary in the eighth month of the third year.",
+  "options": {
+   "A": "#828.00",
+   "B": "#756.00",
+   "C": "#720.00",
+   "D": "#684.00"
   },
   "answer": null,
   "explanation": null,

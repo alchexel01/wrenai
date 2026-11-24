@@ -777,6 +777,25 @@
   "images": []
  },
  {
+  "id": "government-1998-43",
+  "subject": "government",
+  "year": 1998,
+  "number": 43,
+  "question": "",
+  "options": {
+   "A": "organization of FESTAC",
+   "B": "construction of roads",
+   "C": "creation of twelve states",
+   "D": "civil service purge"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "government-1998-44",
   "subject": "government",
   "year": 1998,

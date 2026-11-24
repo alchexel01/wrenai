@@ -9,9 +9,9 @@
    "A": "Type B",
    "B": "Type I",
    "C": "Type B",
-   "D": "Type U Questions 2 to 5 are based on J.C. De Graft's Sons and Daughters. Use the excerpt below to answer questions 2 and 3. James: Let me swear, woman. And I will swear by my father's coffin that if...."
+   "D": "Type U Questions 2 to 5 are based on J.C. De Graft's Sons and Daughters."
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -23,14 +23,14 @@
   "subject": "literature_in_english",
   "year": 2013,
   "number": 2,
-  "question": "The lines depict James as a",
+  "question": "Use the excerpt below to answer questions 2 and 3. James: Let me swear, woman. And I will swear by my father's coffin that if.... The lines depict James as a",
   "options": {
    "A": "traditionalist",
    "B": "Christian",
    "C": "pagan",
    "D": "Muslim"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -42,14 +42,14 @@
   "subject": "literature_in_english",
   "year": 2013,
   "number": 3,
-  "question": "The speaker is referring to",
+  "question": "Use the excerpt below to answer questions 2 and 3. James: Let me swear, woman. And I will swear by my father's coffin that if.... The speaker is referring to",
   "options": {
    "A": "Fosuwa",
    "B": "Awere",
    "C": "Maanan",
    "D": "Hannah"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -68,7 +68,7 @@
    "C": "personification",
    "D": "metaphor"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -87,7 +87,7 @@
    "C": "new generation",
    "D": "old generation"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -106,7 +106,7 @@
    "C": "engaging in a shouty match",
    "D": "holding a sword to commit murder"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -125,7 +125,7 @@
    "C": "real Montague",
    "D": "trouble shooter"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -144,7 +144,7 @@
    "C": "frustrated and pensive",
    "D": "gay and elated"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -163,7 +163,7 @@
    "C": "Apothecary",
    "D": "Lord Capulet"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -182,7 +182,7 @@
    "C": "Romeo and Paris engaged themselves in a fight",
    "D": "Benvolio tries to separate the servants of the feuding families Questions 11 to 13 are based on Ferdinand Oyono's the Old Man and the Medal"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -201,7 +201,7 @@
    "C": "a place near an aged leper",
    "D": "a land to build a new house"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -220,7 +220,7 @@
    "C": "the Catechist",
    "D": "Nua"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -239,7 +239,7 @@
    "C": "peace",
    "D": "friendship Questions 14 to 16 are based on Buchi Emecheta’s The Joy of Motherhood."
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -258,7 +258,7 @@
    "C": "siblings",
    "D": "children"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -277,7 +277,7 @@
    "C": "his wife gives birth to female twins",
    "D": "he is recruited into the army"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -296,7 +296,7 @@
    "C": "is rebuked by the Ibuza society for abusing Nnu Ego",
    "D": "becomes rich and powerful Questions 17 to 20 are based on George Orwell’s Nineteen Eighty-four"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -315,7 +315,7 @@
    "C": "joy and peace",
    "D": "hatred and pain"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -334,7 +334,7 @@
    "C": "the thought police",
    "D": "individuals"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -353,7 +353,7 @@
    "C": "Julia",
    "D": "Big Brother"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -372,7 +372,7 @@
    "C": "peace",
    "D": "plenty Questions 21 and 30 are based on selected poems from Johnson, R. et al (eds.): New Poetry from Africa; Soyinka, W. (ed.): Poems of Black Africa; Senanu, K.E. and Vincent, T. (eds): A Selection of African Poetry; Umukoro M. et al: Exam Focus: Literature in English; Eruvbetine, A.E. et al (eds.): Longman Examination Guides: Poetry for Senior Secondary Schools NWOGA, D.I. (ed.) West African Verse"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -391,7 +391,7 @@
    "C": "hyperbole",
    "D": "onomatopoeia"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -410,7 +410,7 @@
    "C": "traditional",
    "D": "satirical"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -429,7 +429,7 @@
    "C": "anecdote",
    "D": "aside"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -448,7 +448,7 @@
    "C": "ironical statement",
    "D": "rhetorical question"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -467,7 +467,7 @@
    "C": "the measurement of time",
    "D": "how fast events unfold"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -559,7 +559,7 @@
   "options": {
    "D": "difficult Question 31 to 40 are based on General literacy Principles"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -578,7 +578,7 @@
    "C": "flashback",
    "D": "foreshadowing"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -597,7 +597,7 @@
    "C": "stanza in poetry",
    "D": "meter in poetry"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -616,7 +616,7 @@
    "C": "custom",
    "D": "truth"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -635,7 +635,7 @@
    "C": "repetition",
    "D": "alliteration"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -654,7 +654,7 @@
    "C": "an irony",
    "D": "a fable"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -673,7 +673,7 @@
    "C": "paradox",
    "D": "metaphor"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -692,7 +692,7 @@
    "C": "epilogue",
    "D": "mime"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -711,7 +711,7 @@
    "C": "instructive",
    "D": "corrective"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -730,7 +730,7 @@
    "C": "climax",
    "D": "tragic flaw"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -749,7 +749,7 @@
    "C": "aside",
    "D": "soliloquy Question is based on Literary Appreciation."
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -768,7 +768,7 @@
    "C": "dogmatic",
    "D": "seers Use the quotation below to answer question and 43. \"Busy old fool Unruly sun Why dost thou thus Through windows And through curtains Call on us?\" J. Donne: The Sun Rising"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -787,7 +787,7 @@
    "C": "welcoming the sun",
    "D": "indictment of the sun"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -801,9 +801,9 @@
   "number": 43,
   "question": "The figure of speech involved in the lines above is",
   "options": {
-   "A": "simile Use the quotation below to answer questions 44 and 45. Will no one tell me what she sings perhaps the plaintive numbers flow for old, unhappy, far off things And battles long ago. Or is it some more humble lay, Familiar matter of today?"
+   "A": "simile"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -815,14 +815,14 @@
   "subject": "literature_in_english",
   "year": 2013,
   "number": 44,
-  "question": "The lines above show that the persona",
+  "question": "Use the quotation below to answer questions 44 and 45. Will no one tell me what she sings perhaps the plaintive numbers flow for old, unhappy, far off things And battles long ago. Or is it some more humble lay, Familiar matter of today? The lines above show that the persona",
   "options": {
    "A": "does not understand the girl's language",
    "B": "is so much in love with the girl",
    "C": "so hates the words of the girl",
    "D": "understands the girl's songs"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -834,14 +834,14 @@
   "subject": "literature_in_english",
   "year": 2013,
   "number": 45,
-  "question": "The line end in a literary device known as",
+  "question": "Use the quotation below to answer questions 44 and 45. Will no one tell me what she sings perhaps the plaintive numbers flow for old, unhappy, far off things And battles long ago. Or is it some more humble lay, Familiar matter of today? The line end in a literary device known as",
   "options": {
    "A": "transferred epithet",
    "B": "rhetorical question",
    "C": "Irony",
    "D": "conceit"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -860,7 +860,7 @@
    "C": "burlesque",
    "D": "rhetoric"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -877,9 +877,28 @@
    "A": "a necessary evil",
    "B": "a light provider",
    "C": "illumination after darkness",
-   "D": "an unnecessary evil Use the quotation below to answer questions 48 and 49. The body perishes, the heart stays young. The platter wears away with serving food. No log retains its bark when old,"
+   "D": "an unnecessary evil"
   },
-  "answer": null,
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2013-48",
+  "subject": "literature_in_english",
+  "year": 2013,
+  "number": 48,
+  "question": "Use the quotation below to answer questions 48 and 49. The body perishes, the heart stays young. The platter wears away with serving food. No log retains its bark when old,",
+  "options": {
+   "A": "permanence of love",
+   "B": "decaying nature of wood",
+   "C": "non-peaceful nature of love",
+   "D": "diminishing nature of love"
+  },
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -898,7 +917,7 @@
    "C": "the pain of one lover is felt by the other",
    "D": "there is no permanent love"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -915,9 +934,9 @@
    "A": "simile",
    "B": "parallelism",
    "C": "onomatopoeia",
-   "D": "metaphor ANSWER KEYS 1. D 2. A 3. B 4. C 5. C 6. B 7. D 8. C 9. A 10. D 11. A 12. B 13. D 14. D 15. C 16. A 17. A 18. A 19. A 20. A 21. D 22. C 23. A 24. D 25. A 30. A 31. C 32. C 33. D 34. C 35. B 36. B 37. D 38. B 39. D 40. A 41. B 42. D 43. B 44. B 45. B 46. B 47. A 48. A 49. C 50. D"
+   "D": "metaphor ANSWER KEYS"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,

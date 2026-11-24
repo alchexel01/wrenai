@@ -9,7 +9,7 @@
    "A": "Areas of fertile land are very limited",
    "B": "Oceans and seas limit land space for farming",
    "C": "Resources are not equitably distributed",
-   "D": "Available resources are limited Use the diagram below to answer question 2 and 3"
+   "D": "Available resources are limited"
   },
   "answer": null,
   "explanation": null,
@@ -23,7 +23,7 @@
   "subject": "economics",
   "year": 1993,
   "number": 2,
-  "question": "y dₒ og f o yₜᵢₜ ⁿₐᵤ Q ₀ x Qᵤₐₙₜᵢₜy ₒf gₒₒd ₓ 2 The above diagram showing th e maximum possible combination of commodities X and Y produced in Nigeria is called the",
+  "question": "Use the diagram below to answer question 2 and 3 y dₒ og f o yₜᵢₜ ⁿₐᵤ Q ₀ x Qᵤₐₙₜᵢₜy ₒf gₒₒd ₓ 2 The above diagram showing th e maximum possible combination of commodities X and Y produced in Nigeria is called the",
   "options": {
    "A": "Production indicator",
    "B": "Maximum production",
@@ -44,7 +44,7 @@
   "subject": "economics",
   "year": 1993,
   "number": 3,
-  "question": "How many units of goods X is produced for 8 units of commodity Y",
+  "question": "Use the diagram below to answer question 2 and 3 How many units of goods X is produced for 8 units of commodity Y",
   "options": {
    "A": "80",
    "B": "40",
@@ -327,7 +327,7 @@
    "A": "RP",
    "B": "TP",
    "C": "RT",
-   "D": "RT Use the table below to answer questions 20 and 21"
+   "D": "RT"
   },
   "answer": null,
   "explanation": null,
@@ -335,8 +335,7 @@
   "options_are_images": false,
   "image": "economics/1993_p37_4.png",
   "images": [
-   "economics/1993_p37_4.png",
-   "economics/1993_p37_3.png"
+   "economics/1993_p37_4.png"
   ]
  },
  {
@@ -344,7 +343,7 @@
   "subject": "economics",
   "year": 1993,
   "number": 20,
-  "question": "Given an output of 3 units, the average revenue is",
+  "question": "Use the table below to answer questions 20 and 21 Given an output of 3 units, the average revenue is",
   "options": {
    "A": "N16.00",
    "B": "N18.00",
@@ -353,17 +352,19 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1993_p37_3.png",
+  "images": [
+   "economics/1993_p37_3.png"
+  ]
  },
  {
   "id": "economics-1993-21",
   "subject": "economics",
   "year": 1993,
   "number": 21,
-  "question": "Determine the marginal revenue if the total revenue is N80.00",
+  "question": "Use the table below to answer questions 20 and 21 Determine the marginal revenue if the total revenue is N80.00",
   "options": {
    "A": "N12.00",
    "B": "N14.00",
@@ -372,10 +373,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1993_p37_3.png",
+  "images": [
+   "economics/1993_p37_3.png"
+  ]
  },
  {
   "id": "economics-1993-22",
@@ -572,7 +575,26 @@
    "A": "Short-term loans and advances",
    "B": "Medium-term loans",
    "C": "Long-term loans",
-   "D": "Venture capital for development projects rural area?"
+   "D": "Venture capital for development projects"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1993-33",
+  "subject": "economics",
+  "year": 1993,
+  "number": 33,
+  "question": "rural area?",
+  "options": {
+   "A": "The deregulation of the banking system",
+   "B": "The increase in the number of merchant banks",
+   "C": "The community banking scheme",
+   "D": "The deregulation of interest rate"
   },
   "answer": null,
   "explanation": null,
@@ -668,6 +690,25 @@
    "B": "I and III",
    "C": "II and III",
    "D": "I, II and III"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1993-39",
+  "subject": "economics",
+  "year": 1993,
+  "number": 39,
+  "question": "",
+  "options": {
+   "A": "N58 m",
+   "B": "N54 m",
+   "C": "N50 m",
+   "D": "N46 m"
   },
   "answer": null,
   "explanation": null,

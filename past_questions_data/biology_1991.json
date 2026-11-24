@@ -47,7 +47,157 @@
    "A": "schizophyta",
    "B": "bryophyta",
    "C": "pteridopyta",
-   "D": "spermatophyta. 4 Which of the following are non-green plants? A Euglena B. Fungi C. Spirogyra D. Angiosperms. 5 Sting cells are normally found in"
+   "D": "spermatophyta. 4 Which of the following are non-green plants?"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-4",
+  "subject": "biology",
+  "year": 1991,
+  "number": 4,
+  "question": "A Euglena B. Fungi C. Spirogyra D. Angiosperms. 5 Sting cells are normally found in",
+  "options": {
+   "A": "flatworms",
+   "B": "hydra",
+   "C": "snails",
+   "D": "paramecium."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-5",
+  "subject": "biology",
+  "year": 1991,
+  "number": 5,
+  "question": "6 Which of the following are differentiated into true roots, stems and leaves?",
+  "options": {
+   "A": "Algae",
+   "B": "Schizophyta",
+   "C": "Pteridophyta",
+   "D": "Bryophyta"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-6",
+  "subject": "biology",
+  "year": 1991,
+  "number": 6,
+  "question": "7. To facilitate gaseous exchange, breathing roots have 8 The annulus of fern sporangium helps in",
+  "options": {
+   "A": "spore dispersal",
+   "B": "conduction of mineral salt",
+   "C": "trapping of light energy",
+   "D": "water retention."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-7",
+  "subject": "biology",
+  "year": 1991,
+  "number": 7,
+  "question": "9 One of the features which adopts paramecium to its environment is the possession of",
+  "options": {
+   "A": "a regular shape",
+   "B": "two nuclei",
+   "C": "cilia",
+   "D": "a pellicle."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-8",
+  "subject": "biology",
+  "year": 1991,
+  "number": 8,
+  "question": "10 In the earthworm, the cocoon is secreted by the",
+  "options": {
+   "A": "chaeta",
+   "B": "prostomium C.peristomium",
+   "D": "clitellum."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-9",
+  "subject": "biology",
+  "year": 1991,
+  "number": 9,
+  "question": "11. The function of maxillipeds in crayfish is to aid",
+  "options": {
+   "A": "walking",
+   "B": "swimming",
+   "C": "feeding",
+   "D": "respiration."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-10",
+  "subject": "biology",
+  "year": 1991,
+  "number": 10,
+  "question": "12. The respiratory organ in the land snail is the",
+  "options": {
+   "A": "radula B,. mantle",
+   "C": "tentacle",
+   "D": "foot."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-11",
+  "subject": "biology",
+  "year": 1991,
+  "number": 11,
+  "question": "13. The structure labelled 4 is for",
+  "options": {
+   "A": "feeding",
+   "B": "attachment",
+   "C": "excretion",
+   "D": "respiration."
   },
   "answer": null,
   "explanation": null,
@@ -55,10 +205,558 @@
   "options_are_images": false,
   "image": "biology/1991_p22_2.png",
   "images": [
-   "biology/1991_p22_2.png",
-   "biology/1991_p23_2.png",
-   "biology/1991_p23_1.png",
+   "biology/1991_p22_2.png"
+  ]
+ },
+ {
+  "id": "biology-1991-12",
+  "subject": "biology",
+  "year": 1991,
+  "number": 12,
+  "question": "14. As the tadpoles develops, the structure labelled 5",
+  "options": {
+   "A": "grows longer",
+   "B": "becomes shorter",
+   "C": "becomes the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-13",
+  "subject": "biology",
+  "year": 1991,
+  "number": 13,
+  "question": "Use the figure below to answer questions 13 and 14. hind legs D. remains unchanged. 15. The gill rakers of fishes take part in",
+  "options": {
+   "A": "feeding",
+   "B": "respiration",
+   "C": "swimming",
+   "D": "diffusion."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-14",
+  "subject": "biology",
+  "year": 1991,
+  "number": 14,
+  "question": "Use the figure below to answer questions 13 and 14. 16. A wide pith with a ring of conducting tissue is characteristic of the root of",
+  "options": {
+   "A": "sunflower",
+   "B": "maize",
+   "C": "bean",
+   "D": "okra. Use the figure below to answer questions 18 and 19."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-15",
+  "subject": "biology",
+  "year": 1991,
+  "number": 15,
+  "question": "Dissection showing the Abdominal Cavity of a rat 18. In the digestive system, absorption of nutrients into the blood takes places in the part labeled A.1 B.2 C.3 D.4 19. The gland which produces trypsin, amylase and lipase is labelLed",
+  "options": {
+   "A": "6 B.4 C.2 D.1 20. One of the accessory organs of the digestive system is the",
+   "B": "spleen",
+   "C": "liver",
+   "D": "lung."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1991_p23_2.png",
+  "images": [
+   "biology/1991_p23_2.png"
+  ]
+ },
+ {
+  "id": "biology-1991-16",
+  "subject": "biology",
+  "year": 1991,
+  "number": 16,
+  "question": "21. The element common to protein, carbohydrate and lipid is",
+  "options": {
+   "A": "hydrogen",
+   "B": "sulphur",
+   "C": "nitrogen D phosphorus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-17",
+  "subject": "biology",
+  "year": 1991,
+  "number": 17,
+  "question": "22. The crown of the mammalian tooth is covered with",
+  "options": {
+   "A": "cement",
+   "B": "dentine",
+   "C": "caries",
+   "D": "enamel."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-18",
+  "subject": "biology",
+  "year": 1991,
+  "number": 18,
+  "question": "23. In living cells, insufficient oxygen may cause a breakdown of glucose into",
+  "options": {
+   "A": "fatty acids",
+   "B": "lactic acids",
+   "C": "glycogen"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-19",
+  "subject": "biology",
+  "year": 1991,
+  "number": 19,
+  "question": ". D. carbondioxide. 24. Which of the following can bring about the greatest increase in the rate of transpiration?",
+  "options": {
+   "A": "Increased humidity",
+   "B": "Reduced temperature",
+   "C": "Reduced wind speed",
+   "D": "Reduced humidity. Use the figure below to answer questions 25 and 26."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-20",
+  "subject": "biology",
+  "year": 1991,
+  "number": 20,
+  "question": "25. After 30 minutes, the level of sugar solution the above figure will",
+  "options": {
+   "A": "rise in X only",
+   "B": "rise in Y only",
+   "C": "be the same in X"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1991_p23_1.png",
+  "images": [
+   "biology/1991_p23_1.png"
+  ]
+ },
+ {
+  "id": "biology-1991-21",
+  "subject": "biology",
+  "year": 1991,
+  "number": 21,
+  "question": "and Y D. fall in Y. 26. The process by which water moves from X to Y through 27. Fibriongen and prothrombin play important roles in the",
+  "options": {
+   "A": "deamination of proteins",
+   "B": "clotting of blood",
+   "C": "detoxication of substances",
+   "D": "storage of vitamins."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-22",
+  "subject": "biology",
+  "year": 1991,
+  "number": 22,
+  "question": "28. Deoxygenated blood flows into the right and left lungs through the",
+  "options": {
+   "A": "pulmonary vein",
+   "B": "vena cava",
+   "C": "pulmonary artery",
+   "D": "subclavian vein ."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-23",
+  "subject": "biology",
+  "year": 1991,
+  "number": 23,
+  "question": "29. Which of the following is a plant excretory product?",
+  "options": {
+   "A": "Oil",
+   "B": "Cytokinin",
+   "C": "Resin",
+   "D": "Amino acids."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-24",
+  "subject": "biology",
+  "year": 1991,
+  "number": 24,
+  "question": "30. The movement of the whole organism to an external stimulus is termed",
+  "options": {
+   "A": "tropism",
+   "B": "a taxis",
+   "C": "a nastic movement",
+   "D": "a phototrophic movement."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-25",
+  "subject": "biology",
+  "year": 1991,
+  "number": 25,
+  "question": "31. Which of the following vertebrate lays a centrum?",
+  "options": {
+   "A": "Atlas",
+   "B": "Axis",
+   "C": "Thoracic",
+   "D": "Lumbar"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-26",
+  "subject": "biology",
+  "year": 1991,
+  "number": 26,
+  "question": "32. The function of the epididymis in mammals is the",
+  "options": {
+   "A": "expulsion of urine",
+   "B": "storage of sperms",
+   "C": "circulation of blood",
+   "D": "activation of sperms."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-27",
+  "subject": "biology",
+  "year": 1991,
+  "number": 27,
+  "question": "33. A collection of achenes formed from several carpels of a flower is",
+  "options": {
+   "A": "a multiple fruit",
+   "B": "an aggregate fruit",
+   "C": "a schizocarp",
+   "D": "a simple fruit."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-28",
+  "subject": "biology",
+  "year": 1991,
+  "number": 28,
+  "question": "34. Vegetative propagation is described as asexual reproduction because",
+  "options": {
+   "A": "reproductive organs are not involved",
+   "B": "new individuals are not formed C. many new plants are produced D. there is no exchange of genetic materials. 35. Epigeal germination can be found in",
+   "C": "millet",
+   "D": "groundnut."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-29",
+  "subject": "biology",
+  "year": 1991,
+  "number": 29,
+  "question": "36. A dwarf plant can be stimulated to grow to normal height by the application of",
+  "options": {
+   "A": "thyroxin",
+   "B": "gibberellin",
+   "C": "insulin",
+   "D": "kinin."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-30",
+  "subject": "biology",
+  "year": 1991,
+  "number": 30,
+  "question": "37. The greatest contribution to genetic studies was made by",
+  "options": {
+   "A": "Thomas Morgan",
+   "B": "Gregor Mendel",
+   "C": "Charles Darwin",
+   "D": "Robert Hooke."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-31",
+  "subject": "biology",
+  "year": 1991,
+  "number": 31,
+  "question": "38. The exchange of genes between homologous chromosomes is called",
+  "options": {
+   "A": "test cross",
+   "B": "back cross",
+   "C": "crossing –over",
+   "D": "mutation."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-32",
+  "subject": "biology",
+  "year": 1991,
+  "number": 32,
+  "question": "39. When two heterozygotes mate, the dominant trait will appear in",
+  "options": {
+   "A": "the F₁ generation only",
+   "B": "the F₂ generation only",
+   "C": "both the F₁ and F₂ generations",
+   "D": "neither the F₁ nor"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-33",
+  "subject": "biology",
+  "year": 1991,
+  "number": 33,
+  "question": "F₂ generation. 40. Which of the following characters is NOT sex-linked?",
+  "options": {
+   "A": "River blindness",
+   "B": "Baldness. 41. The most important factors which influence an organism’s way of life in its habitat are",
+   "C": "producers and consumers",
+   "D": "producers and saprophytes. 43."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-34",
+  "subject": "biology",
+  "year": 1991,
+  "number": 34,
+  "question": "The above diagram represents a competitive interaction between organisms in communities I and II. Which of the following statement is CORRECT?",
+  "options": {
+   "A": "The population of I was higher than II at the beginning of the experiment. B. II was wiped out from the environment at the end of the experiment.",
+   "C": "The population of II was always lower than that of I",
+   "D": "The population of I was lower at the end of the"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/1991_p24_1.png",
+  "images": [
    "biology/1991_p24_1.png"
   ]
+ },
+ {
+  "id": "biology-1991-35",
+  "subject": "biology",
+  "year": 1991,
+  "number": 35,
+  "question": "experiment than at the beginning. 44. A food web is more stable than a food chain because.",
+  "options": {
+   "A": "it contains more organisms",
+   "B": "it has greater energy source C. it is not easy to destroy D. every organism has an alternative food source. 45. Which of the following is likely to occur in a deciduous forest during the dry season?",
+   "C": "The undergrowth increases",
+   "D": "The ground"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-36",
+  "subject": "biology",
+  "year": 1991,
+  "number": 36,
+  "question": "becomes bare. 46. Which of these is NOT an adaptive feature for arboreal life?",
+  "options": {
+   "A": "Possession of a long tail",
+   "B": "Possession of claws",
+   "C": "Possession of teeth",
+   "D": "Counter shading in coat"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-37",
+  "subject": "biology",
+  "year": 1991,
+  "number": 37,
+  "question": "colour. 47. Which of the following diseases can be prevented by innoculation?",
+  "options": {
+   "A": "Symphilis",
+   "B": "Malaria fever",
+   "C": "Tuberculosis",
+   "D": "Acquired immuned Deficiency Syndrome."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-38",
+  "subject": "biology",
+  "year": 1991,
+  "number": 38,
+  "question": "48. Sources of air pollutants are",
+  "options": {
+   "A": "industrial chimneys, burning fossil oils and river dams B. sulphur dioxide, acid rain and pesticides",
+   "C": "sulphur mines, vehicle exhausts and aerosols",
+   "D": "sewage, smoke and old vehicles."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-39",
+  "subject": "biology",
+  "year": 1991,
+  "number": 39,
+  "question": "49. Fertilizers are lost from the soil through",
+  "options": {
+   "A": "sheet erosion and evaporation",
+   "B": "leaching, underground seepages and run-off",
+   "C": "sheet erosion, gully erosion and wind erosion",
+   "D": "wind erosion and heavy rainfall."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1991-40",
+  "subject": "biology",
+  "year": 1991,
+  "number": 40,
+  "question": "50. Nitrogen –fixing micro-organisms in leguminous plants live symbiotically in the",
+  "options": {
+   "A": "root nodules",
+   "B": "tap roots",
+   "C": "branch roots",
+   "D": "root hairs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  }
 ]

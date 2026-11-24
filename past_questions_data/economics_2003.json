@@ -251,7 +251,7 @@
    "A": "variable inputs",
    "B": "total outputs",
    "C": "total revenue",
-   "D": "scale of operation Use the table below to answer questions 15 and 16 Output produced Fixed cost Total cost per day (unit) per day (N) per day (N) 20 60 100 30 60 120 40 60 130 50 60 135 60 60 150 70 60 170 80 60 190"
+   "D": "scale of operation"
   },
   "answer": null,
   "explanation": null,
@@ -265,7 +265,7 @@
   "subject": "economics",
   "year": 2003,
   "number": 15,
-  "question": "The ATC at 30 units of output is",
+  "question": "Use the table below to answer questions 15 and 16 Output produced Fixed cost Total cost per day (unit) per day (N) per day (N) 20 60 100 30 60 120 40 60 130 50 60 135 60 60 150 70 60 170 80 60 190 The ATC at 30 units of output is",
   "options": {
    "A": "120.000",
    "B": "N60.00",
@@ -284,7 +284,7 @@
   "subject": "economics",
   "year": 2003,
   "number": 16,
-  "question": "At 60 units of output, the AVC is",
+  "question": "Use the table below to answer questions 15 and 16 Output produced Fixed cost Total cost per day (unit) per day (N) per day (N) 20 60 100 30 60 120 40 60 130 50 60 135 60 60 150 70 60 170 80 60 190 At 60 units of output, the AVC is",
   "options": {
    "A": "N150.00",
    "B": "N90.00 C.N2.50 D.N1.50"

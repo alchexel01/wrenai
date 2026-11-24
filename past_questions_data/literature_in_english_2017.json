@@ -609,9 +609,46 @@
    "A": "universal",
    "B": "restricted",
    "C": "only English",
-   "D": "only American 34.A clue to an event that will happen later in a work of art is"
+   "D": "only American"
   },
   "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2017-34",
+  "subject": "literature_in_english",
+  "year": 2017,
+  "number": 34,
+  "question": "A clue to an event that will happen later in a work of art is",
+  "options": {
+   "A": "flashback",
+   "B": "fore- shadowing",
+   "C": "premonition",
+   "D": "digression"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2017-35",
+  "subject": "literature_in_english",
+  "year": 2017,
+  "number": 35,
+  "question": "35.. . Comedy of lower kind in which believability is sacrificed for the main objective of exciting laugh is",
+  "options": {
+   "A": "farce",
+   "C": "melodrama",
+   "D": "tragi comedy"
+  },
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,

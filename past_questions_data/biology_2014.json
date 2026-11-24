@@ -100,7 +100,7 @@
   "subject": "biology",
   "year": 2014,
   "number": 6,
-  "question": "The organs for attachments to the lining of the host's intestine are labelled",
+  "question": "Use the diagram below to answer questions 6 and 7 The organs for attachments to the lining of the host's intestine are labelled",
   "options": {
    "A": "II and III",
    "B": "III and IV",
@@ -121,7 +121,7 @@
   "subject": "biology",
   "year": 2014,
   "number": 7,
-  "question": "The young proglottid is represented by",
+  "question": "Use the diagram below to answer questions 6 and 7 The young proglottid is represented by",
   "options": {
    "A": "III",
    "B": "IV",
@@ -218,7 +218,7 @@
   "subject": "biology",
   "year": 2014,
   "number": 12,
-  "question": "The part labelled I is the",
+  "question": "Use the diagram below to answer questions 12 and 13 The part labelled I is the",
   "options": {
    "A": "xylem",
    "B": "phloem",
@@ -239,7 +239,7 @@
   "subject": "biology",
   "year": 2014,
   "number": 13,
-  "question": "The diagram is the transverse section of",
+  "question": "Use the diagram below to answer questions 12 and 13 The diagram is the transverse section of",
   "options": {
    "A": "monocotyledonous stem",
    "B": "dicotyledonous stem",
@@ -265,9 +265,28 @@
    "A": "an omnivore",
    "B": "a detritus feeder",
    "C": "a carnivore",
-   "D": "a herbivore 15.A circulatory system is very essential in mammals but not in smaller organisms like Amoeba because"
+   "D": "a herbivore"
   },
   "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-15",
+  "subject": "biology",
+  "year": 2014,
+  "number": 15,
+  "question": "A circulatory system is very essential in mammals but not in smaller organisms like Amoeba because",
+  "options": {
+   "A": "amoeba lives in freshwater",
+   "B": "diffusion is sufficient to transport materials in Amoeba",
+   "C": "amoeba lacks blood containing haemoglobin",
+   "D": "amoeba exhibits anaerobic respiration"
+  },
+  "answer": null,
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -549,7 +568,26 @@
    "A": "Primary Consumers",
    "B": "Secondary Consumers",
    "C": "Producers",
-   "D": "Decomposers 31.A characteristic feature of tropical rainforest is that it"
+   "D": "Decomposers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-31",
+  "subject": "biology",
+  "year": 2014,
+  "number": 31,
+  "question": "A characteristic feature of tropical rainforest is that it",
+  "options": {
+   "A": "Contains trees with narrow leaves",
+   "B": "Contains large number of plant species",
+   "C": "Contains fewer number of plant species",
+   "D": "Has total annual rainfall of less than 50cm"
   },
   "answer": null,
   "explanation": null,
@@ -568,7 +606,26 @@
    "A": "Population estimation",
    "B": "Population dynamics",
    "C": "Population ecology",
-   "D": "Population Cycle 33.A severe and long dry season is a characteristic feature of"
+   "D": "Population Cycle"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-33",
+  "subject": "biology",
+  "year": 2014,
+  "number": 33,
+  "question": "A severe and long dry season is a characteristic feature of",
+  "options": {
+   "A": "Sahel Savanna",
+   "B": "Mangrove Swamps",
+   "C": "Sudan Savanna",
+   "D": "Guinea Savanna"
   },
   "answer": null,
   "explanation": null,
@@ -643,7 +700,26 @@
    "A": "by siting industries away from residential areas",
    "B": "that fuel should be completely combusted by engines",
    "C": "by planting trees on both sides of the road",
-   "D": "by wearing ear devices 38.A constituent of the exhaust fumes from electricity generating sets which causes serious pollution is"
+   "D": "by wearing ear devices"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-38",
+  "subject": "biology",
+  "year": 2014,
+  "number": 38,
+  "question": "A constituent of the exhaust fumes from electricity generating sets which causes serious pollution is",
+  "options": {
+   "A": "Carbon (II) Oxide",
+   "B": "Water Vapour",
+   "C": "Ozone",
+   "D": "Carbon (IV) Oxide"
   },
   "answer": null,
   "explanation": null,
@@ -662,7 +738,25 @@
    "A": "It is transmitted by bacteria",
    "B": "It can effectively be controlled with antibiotics",
    "C": "It can effectively be controlled by vaccination",
-   "D": "It is a water-borne infection 40.A pollutant that is mostly associated with acid rain is"
+   "D": "It is a water-borne infection"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-40",
+  "subject": "biology",
+  "year": 2014,
+  "number": 40,
+  "question": "A pollutant that is mostly associated with acid rain is",
+  "options": {
+   "A": "Nitrogen (IV) Oxide",
+   "B": "Ozone",
+   "C": "Fluorine"
   },
   "answer": null,
   "explanation": null,
@@ -700,7 +794,45 @@
    "A": "Colour",
    "B": "Finger prints",
    "C": "Hair Colour",
-   "D": "Blood group 43.A couple has 10 children, all female. Which of the following best explains the situation?"
+   "D": "Blood group"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-43",
+  "subject": "biology",
+  "year": 2014,
+  "number": 43,
+  "question": "A couple has 10 children, all female. Which of the following best explains the situation?",
+  "options": {
+   "A": "The sex determination was by the man's X chromosome",
+   "B": "The man's sperm count is low",
+   "C": "The woman is not capable of producing male children",
+   "D": "The sex determination was by the man's Y chromosome"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2014-44",
+  "subject": "biology",
+  "year": 2014,
+  "number": 44,
+  "question": "A biological agent with antiviral property",
+  "options": {
+   "A": "Interferon",
+   "B": "enzyme",
+   "C": "antibiotic",
+   "D": "disinfectant"
   },
   "answer": null,
   "explanation": null,

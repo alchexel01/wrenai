@@ -178,7 +178,25 @@
    "A": "primary alkanols",
    "B": "secondary alkanols",
    "C": "tertiary alkanols",
-   "D": "glycol 12, A red precipitate of copper (1) carbide is formed when ammonium solution copper (1) chloride is introduced into."
+   "D": "glycol"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2002-12",
+  "subject": "chemistry",
+  "year": 2002,
+  "number": 12,
+  "question": "12, A red precipitate of copper (1) carbide is formed when ammonium solution copper (1) chloride is introduced into.",
+  "options": {
+   "A": "CH₃ - C =C -CH₃",
+   "B": "CH₃ -CH₂ -C a= CH₃",
+   "C": "CH₂ =CH - CH₂ CH₃ D CH₃CH₂ CH₂ CH₃"
   },
   "answer": null,
   "explanation": null,

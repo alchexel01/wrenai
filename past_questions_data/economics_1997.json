@@ -103,7 +103,26 @@
    "A": "overpopulated",
    "B": "economically poor",
    "C": "over producing goods and services",
-   "D": "underpopulated 30%,this implies that the"
+   "D": "underpopulated"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-7",
+  "subject": "economics",
+  "year": 1997,
+  "number": 7,
+  "question": "30%,this implies that the",
+  "options": {
+   "A": "Dependency ratio is high",
+   "B": "Population is optimum",
+   "C": "Active population is large",
+   "D": "Population is growing according to Malthus theory"
   },
   "answer": null,
   "explanation": null,
@@ -173,7 +192,7 @@
   "subject": "economics",
   "year": 1997,
   "number": 11,
-  "question": "Point P suggests that the economy is",
+  "question": "Use the diagram below to answer question 11 and 12 Consumer goods Capital goods The current stage of the economy is depicted in curve I Point P suggests that the economy is",
   "options": {
    "A": "reaching full employment but not full production",
    "B": "attaining full production but not full employment",
@@ -194,7 +213,7 @@
   "subject": "economics",
   "year": 1997,
   "number": 12,
-  "question": "The movement of curve I to II suggest",
+  "question": "Use the diagram below to answer question 11 and 12 Consumer goods Capital goods The current stage of the economy is depicted in curve I The movement of curve I to II suggest",
   "options": {
    "A": "an improvement capital goods technology but not in consumer goods technology",
    "B": "a movement from unemployment to full employment",
@@ -621,7 +640,25 @@
   "options": {
    "A": "increasing its cash ratio with the Central Bank",
    "B": "issuing more bank cheques",
-   "C": "accepting more deposits from customers instruments used in the",
+   "C": "accepting more deposits from customers"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1997-36",
+  "subject": "economics",
+  "year": 1997,
+  "number": 36,
+  "question": "instruments used in the",
+  "options": {
+   "A": "commodity markets",
+   "B": "money markets",
+   "C": "capital markets",
    "D": "security markets"
   },
   "answer": null,

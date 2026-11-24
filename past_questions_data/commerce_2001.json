@@ -229,7 +229,7 @@
   "subject": "commerce",
   "year": 2001,
   "number": 13,
-  "question": "The capital employed is",
+  "question": "Use the balance sheet below to answer questions 13 and 14. Mama Trading Company The capital employed is",
   "options": {
    "A": "N1,000",
    "B": "N1,370",
@@ -250,7 +250,7 @@
   "subject": "commerce",
   "year": 2001,
   "number": 14,
-  "question": "The capital owned is",
+  "question": "Use the balance sheet below to answer questions 13 and 14. Mama Trading Company The capital owned is",
   "options": {
    "A": "N2,740",
    "B": "N1,350",
@@ -687,7 +687,7 @@
    "A": "direct advertising",
    "B": "indirect advertising",
    "C": "informative advertising",
-   "D": "competitive advetising. Use the information below to answer questions 38 and 39 Comapnies I, II, III and IV produce and sell electronic videos. C company I sells its video for N14,000 each and offers advice on how to fix and operate them. Company II sells at N14,000 and its representatives go to install at no additional cost. Company III sells at N15,000 and offers credit sales at N15,500 per video while Company IV sells at N15,000 each."
+   "D": "competitive advetising."
   },
   "answer": null,
   "explanation": null,
@@ -701,7 +701,7 @@
   "subject": "commerce",
   "year": 2001,
   "number": 38,
-  "question": "Which of these companies are more engaged in public relations activities?",
+  "question": "Use the information below to answer questions 38 and 39 Comapnies I, II, III and IV produce and sell electronic videos. C company I sells its video for N14,000 each and offers advice on how to fix and operate them. Company II sells at N14,000 and its representatives go to install at no additional cost. Company III sells at N15,000 and offers credit sales at N15,500 per video while Company IV sells at N15,000 each. Which of these companies are more engaged in public relations activities?",
   "options": {
    "A": "I & II",
    "B": "I & III",
@@ -720,12 +720,12 @@
   "subject": "commerce",
   "year": 2001,
   "number": 39,
-  "question": "Which of these companies offer after sales services?",
+  "question": "Use the information below to answer questions 38 and 39 Comapnies I, II, III and IV produce and sell electronic videos. C company I sells its video for N14,000 each and offers advice on how to fix and operate them. Company II sells at N14,000 and its representatives go to install at no additional cost. Company III sells at N15,000 and offers credit sales at N15,500 per video while Company IV sells at N15,000 each. Which of these companies offer after sales services?",
   "options": {
    "A": "IV",
    "B": "III",
    "C": "II",
-   "D": "I Use the information below to answer questions 40 and 41 Musa rented a room to Adamu for N1,500 and N1,000 part- payment was made. Adamu brought Audu and Jacob his friends to stay in the room. The two friends later pay the balance of N500 to Musa"
+   "D": "I"
   },
   "answer": null,
   "explanation": null,
@@ -739,7 +739,7 @@
   "subject": "commerce",
   "year": 2001,
   "number": 40,
-  "question": "Who are parties to the contract of renting the room.",
+  "question": "Use the information below to answer questions 40 and 41 Musa rented a room to Adamu for N1,500 and N1,000 part- payment was made. Adamu brought Audu and Jacob his friends to stay in the room. The two friends later pay the balance of N500 to Musa Who are parties to the contract of renting the room.",
   "options": {
    "A": "Musa and Jacob",
    "B": "Musa and Audu",
@@ -758,7 +758,7 @@
   "subject": "commerce",
   "year": 2001,
   "number": 41,
-  "question": "Who is the offeree in this contract?",
+  "question": "Use the information below to answer questions 40 and 41 Musa rented a room to Adamu for N1,500 and N1,000 part- payment was made. Adamu brought Audu and Jacob his friends to stay in the room. The two friends later pay the balance of N500 to Musa Who is the offeree in this contract?",
   "options": {
    "A": "Musa",
    "B": "Audu",

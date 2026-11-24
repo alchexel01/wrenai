@@ -380,6 +380,25 @@
   "images": []
  },
  {
+  "id": "mathematics-2004-24",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 24,
+  "question": "",
+  "options": {
+   "A": "y = 60 – x",
+   "B": "y = 90 – x",
+   "C": "y = 120 – x",
+   "D": "y = 150 – x"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "mathematics-2004-25",
   "subject": "mathematics",
   "year": 2004,
@@ -510,6 +529,25 @@
   },
   "answer": null,
   "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-32",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 32,
+  "question": "",
+  "options": {
+   "A": "(4, -4)",
+   "B": "(4, 4)",
+   "C": "(2, 2)",
+   "D": "(1,1)"
+  },
+  "answer": null,
+  "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
   "image": "mathematics/2004_p64_4.png",
@@ -622,7 +660,26 @@
    "A": "2",
    "B": "4",
    "C": "8",
-   "D": "16 ₂ ₂"
+   "D": "16"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-2004-39",
+  "subject": "mathematics",
+  "year": 2004,
+  "number": 39,
+  "question": "₂ ₂",
+  "options": {
+   "A": "6 /₃",
+   "B": "/ ₃ ₂ ₂",
+   "C": "- /₃",
+   "D": "-6 /₃ Evaluate ³₁ (x² - 1) dx"
   },
   "answer": null,
   "explanation": null,

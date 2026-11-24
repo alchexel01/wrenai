@@ -161,7 +161,7 @@
    "A": "N27, 380",
    "B": "N34, 980",
    "C": "N36, 180",
-   "D": "N51, 680 10 What is the working capital as at December 31, 1992?"
+   "D": "N51, 680"
   },
   "answer": null,
   "explanation": null,
@@ -171,6 +171,25 @@
   "images": [
    "commerce/1994_p2_1.png"
   ]
+ },
+ {
+  "id": "commerce-1994-10",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 10,
+  "question": "10 What is the working capital as at December 31, 1992?",
+  "options": {
+   "A": "N65, 250",
+   "B": "N60, 000",
+   "C": "N48, 650",
+   "D": "N41, 950"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  },
  {
   "id": "commerce-1994-11",
@@ -449,6 +468,25 @@
    "B": "drawer",
    "C": "drawee",
    "D": "payer."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-26",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 26,
+  "question": "",
+  "options": {
+   "A": "Nigrian Deposit Insurance Corporation",
+   "B": "Nigeria Economist Reconstruction Fund",
+   "C": "Nigerian Industrial Development Bank",
+   "D": "Nigerian Export-Import Bank."
   },
   "answer": null,
   "explanation": null,
@@ -860,7 +898,26 @@
    "A": "currying favour from local people",
    "B": "finding a way to spend excess profits",
    "C": "fulfilling part of its social responsibility",
-   "D": "investing its idle funds. 49 The West African Clearing House became legally operational on"
+   "D": "investing its idle funds."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-1994-49",
+  "subject": "commerce",
+  "year": 1994,
+  "number": 49,
+  "question": "49 The West African Clearing House became legally operational on",
+  "options": {
+   "A": "1st July, 1976",
+   "B": "25th June, 1975",
+   "C": "14th March, 1975",
+   "D": "3rd May,1974"
   },
   "answer": null,
   "explanation": null,

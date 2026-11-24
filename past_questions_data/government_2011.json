@@ -11,7 +11,7 @@
    "C": "Type C",
    "D": "Type D"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -30,7 +30,7 @@
    "C": "political participation",
    "D": "political orientation"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -49,7 +49,7 @@
    "C": "political economy",
    "D": "political culture"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -68,7 +68,7 @@
    "C": "elite",
    "D": "electorate"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -87,7 +87,7 @@
    "C": "power vested in minority parties",
    "D": "popular consultation"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -106,7 +106,7 @@
    "C": "capitalism",
    "D": "communism"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -125,7 +125,7 @@
    "C": "communism",
    "D": "fascism"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -139,7 +139,7 @@
   "number": 8,
   "question": "Which of the following performs quasi- legislative functions?",
   "options": {},
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -156,9 +156,28 @@
    "A": "over-concentration of authority",
    "B": "tendency towards secession",
    "C": "lack of local independence",
-   "D": "lack of common currency 10.Members of a parliament are required to report the proceedings of the house to their ---"
+   "D": "lack of common currency"
   },
-  "answer": null,
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-10",
+  "subject": "government",
+  "year": 2011,
+  "number": 10,
+  "question": "Members of a parliament are required to report the proceedings of the house to their ---",
+  "options": {
+   "A": "constituencies",
+   "B": "local government chairmen",
+   "C": "traditional rulers",
+   "D": "political parties"
+  },
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -177,7 +196,7 @@
    "C": "United States of America",
    "D": "Ghana"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -196,7 +215,7 @@
    "C": "adjournment of parliament",
    "D": "dissolution of parliament"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -215,7 +234,7 @@
    "C": "electoral commissioners leave at the end of their tenure",
    "D": "the executive is appointed by the legislature"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -234,7 +253,7 @@
    "C": "limited",
    "D": "encouraged"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -251,9 +270,28 @@
    "A": "Aristotle",
    "B": "J.J. Rouseau",
    "C": "the process of operating a constitution",
-   "D": "strict adherence to a constitution 17.An advantage of delegated legislation is that"
+   "D": "strict adherence to a constitution"
   },
-  "answer": null,
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-17",
+  "subject": "government",
+  "year": 2011,
+  "number": 17,
+  "question": "An advantage of delegated legislation is that",
+  "options": {
+   "A": "much time is saved in the process",
+   "B": "technical issues are handled by experts",
+   "C": "ministers and lawmakers work together",
+   "D": "it hastens the implementation of policy"
+  },
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -270,9 +308,47 @@
    "A": "support the government in power",
    "B": "recite the pledge",
    "C": "pay his tax",
-   "D": "encourage other citizens 19.Franchise in an electoral process means the –"
+   "D": "encourage other citizens"
   },
-  "answer": null,
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-19",
+  "subject": "government",
+  "year": 2011,
+  "number": 19,
+  "question": "Franchise in an electoral process means the –",
+  "options": {
+   "A": "right to vote",
+   "B": "ownership of means of production",
+   "C": "the sovereignty of a nation",
+   "D": "rights and duties of a citizen"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-20",
+  "subject": "government",
+  "year": 2011,
+  "number": 20,
+  "question": "The type of party system in practice is defined by the ---",
+  "options": {
+   "A": "relationship between the parties and electorate",
+   "B": "structure of the political parties",
+   "C": "manner in which the parties operate",
+   "D": "number of political parties in a country"
+  },
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -291,7 +367,7 @@
    "C": "people's expectations from the government",
    "D": "feelings of people about particular issues and policies"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -308,9 +384,28 @@
    "A": "fear of dethronement",
    "B": "absence of a centralized system of authority",
    "C": "pressure from age grades",
-   "D": "activities of cult societies 24.The Yoruba traditional system of government was—"
+   "D": "activities of cult societies"
   },
-  "answer": null,
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-24",
+  "subject": "government",
+  "year": 2011,
+  "number": 24,
+  "question": "The Yoruba traditional system of government was—",
+  "options": {
+   "A": "republican",
+   "B": "democratic",
+   "C": "monarchical",
+   "D": "egalitarian"
+  },
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -329,7 +424,7 @@
    "C": "Madaki",
    "D": "Waziri"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -348,7 +443,7 @@
    "C": "Igbo",
    "D": "Ijaw"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -367,7 +462,7 @@
    "C": "inter-communal cooperation",
    "D": "the rise of nationalism"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -384,9 +479,28 @@
    "A": "registration of political parties",
    "B": "economic liberation of the nation",
    "C": "political liberation of the nation",
-   "D": "Anti-apartheid Movement 30.The presidential system of government was introduced in Nigeria with the Constitution of"
+   "D": "Anti-apartheid Movement"
   },
-  "answer": null,
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-30",
+  "subject": "government",
+  "year": 2011,
+  "number": 30,
+  "question": "The presidential system of government was introduced in Nigeria with the Constitution of",
+  "options": {
+   "A": "1989",
+   "B": "1999",
+   "C": "1960",
+   "D": "1979"
+  },
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -405,7 +519,7 @@
    "C": "NPC",
    "D": "NCNC"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -424,7 +538,7 @@
    "C": "Supreme Court",
    "D": "Parliament"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -443,7 +557,7 @@
    "C": "Service Order",
    "D": "Administrative Order"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -462,7 +576,7 @@
    "C": "enhance probity and accountability in public service",
    "D": "ensure the independence of the public service"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -481,7 +595,7 @@
    "C": "NPN",
    "D": "UPN"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -500,7 +614,7 @@
    "C": "opportunities between the males and females",
    "D": "revenue between groups in the country"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -519,7 +633,7 @@
    "C": "federal, state, local government and federal capital territory",
    "D": "federal capital territory, national assembly, supreme court and civil service"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -538,7 +652,7 @@
    "C": "divest government major control of commercial ventures",
    "D": "allow government control of the private sector"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -557,7 +671,7 @@
    "C": "National Population Commission",
    "D": "First Bank of Nigeria"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -576,7 +690,7 @@
    "C": "Prefects",
    "D": "Chief-in-Council"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -594,7 +708,7 @@
    "B": "Gen Ibrahim Babangida",
    "D": "Gen Yakubu Gowon"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -611,9 +725,28 @@
    "A": "Chairman, Independent National Electoral Commission",
    "B": "President of Nigeria",
    "C": "Chief Justice of Nigeria",
-   "D": "President, Court of Appeal 43.Rhodesia was the former name of"
+   "D": "President, Court of Appeal"
   },
-  "answer": null,
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-43",
+  "subject": "government",
+  "year": 2011,
+  "number": 43,
+  "question": "Rhodesia was the former name of",
+  "options": {
+   "A": "Zimbabwe",
+   "B": "Swaziland",
+   "C": "Zambia",
+   "D": "Namibia"
+  },
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -632,7 +765,7 @@
    "C": "fulfilling a basic requirement for acceptance in the UN Security Council",
    "D": "insulating Nigeria against having to take side in the Cold War"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -650,7 +783,44 @@
    "B": "27",
    "C": "37",
    "D": "19",
-   "E": "none of the above 46.Which of the following was the secretary general of OPEC?"
+   "E": "none of the above"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-46",
+  "subject": "government",
+  "year": 2011,
+  "number": 46,
+  "question": "Which of the following was the secretary general of OPEC?",
+  "options": {
+   "A": "Jibril Aminu",
+   "B": "Aret Adams",
+   "C": "Dalhatu Bayero",
+   "D": "Rilwan Lukwan"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-47",
+  "subject": "government",
+  "year": 2011,
+  "number": 47,
+  "question": "Which of the following",
+  "options": {
+   "B": "Togo",
+   "C": "Cote d'Ivoire",
+   "D": "Mali"
   },
   "answer": null,
   "explanation": null,
@@ -688,7 +858,26 @@
    "A": "Secretariat",
    "B": "Security Council",
    "C": "General Assembly",
-   "D": "Economic and Social Council 50.Each member state is represented on the Board of Governors of OPEC for a period of"
+   "D": "Economic and Social Council"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2011-50",
+  "subject": "government",
+  "year": 2011,
+  "number": 50,
+  "question": "Each member state is represented on the Board of Governors of OPEC for a period of",
+  "options": {
+   "A": "2 years",
+   "B": "3 years",
+   "C": "4 years",
+   "D": "1 year"
   },
   "answer": null,
   "explanation": null,

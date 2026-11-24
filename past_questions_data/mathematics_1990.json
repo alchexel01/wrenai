@@ -477,7 +477,7 @@
    "A": "log a",
    "B": "log a",
    "C": "log a²⁰⁰",
-   "D": "log a²¹⁰ 24. A carpainter charges #40.00 per day for himself and #10.00 per day for his assistant. If a fleet of a cars were painted for #2,000.00 and the painter worked 10 days more than his assistant, how much did the assistant receive?"
+   "D": "log a²¹⁰"
   },
   "answer": null,
   "explanation": null,
@@ -825,7 +825,26 @@
    "A": "perpendicular bisector of the two lines",
    "B": "angle bisector of the two lines",
    "C": "bisector of the two lines",
-   "D": "line parallel to the two lines 46 4, 16, 30, 20, 10, 14 and 26 are represented on a pie chart. Find the sum of the angles of the sectors representing all numbers equal to or greater than 16."
+   "D": "line parallel to the two lines 46 4, 16, 30, 20, 10, 14 and 26 are represented on a pie chart."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1990-46",
+  "subject": "mathematics",
+  "year": 1990,
+  "number": 46,
+  "question": "Find the sum of the angles of the sectors representing all numbers equal to or greater than 16.",
+  "options": {
+   "A": "48⁰",
+   "B": "84⁰",
+   "C": "92⁰",
+   "D": "276⁰"
   },
   "answer": null,
   "explanation": null,

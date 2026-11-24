@@ -571,6 +571,25 @@
   "images": []
  },
  {
+  "id": "economics-1986-32",
+  "subject": "economics",
+  "year": 1986,
+  "number": 32,
+  "question": "",
+  "options": {
+   "A": "Bill of Exchange",
+   "B": "Banker’s order",
+   "C": "Fixed deposit account",
+   "D": "Open market operation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "economics-1986-33",
   "subject": "economics",
   "year": 1986,
@@ -864,7 +883,26 @@
    "A": "Allowance for total depreciation",
    "B": "Total interest payments",
    "C": "Total tax and interest payments",
-   "D": "Net income from abroad 49.. Which of the following strategies will provide more employment opportunities for Nigerians?"
+   "D": "Net income from abroad"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1986-49",
+  "subject": "economics",
+  "year": 1986,
+  "number": 49,
+  "question": "49.. Which of the following strategies will provide more employment opportunities for Nigerians?",
+  "options": {
+   "A": "Investment in social services",
+   "B": "Industrialization",
+   "C": "Economic planning",
+   "D": "Eradication of illiteracy"
   },
   "answer": null,
   "explanation": null,

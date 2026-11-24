@@ -527,7 +527,26 @@
    "A": "Lord Frederick Lugard",
    "B": "Sir Arthur Richards",
    "C": "Sir Hugh Clifford",
-   "D": "Sir Alan Burns 30 The major change effected by the government of Major-General J.T.UAguiyi-Ironsi was the"
+   "D": "Sir Alan Burns 30 The major change effected by the government of"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1988-30",
+  "subject": "government",
+  "year": 1988,
+  "number": 30,
+  "question": "Major-General J.T.UAguiyi-Ironsi was the",
+  "options": {
+   "A": "abolition of federalism",
+   "B": "reposting of government officials",
+   "C": "dissolution of boards of corporations",
+   "D": "creation of states"
   },
   "answer": null,
   "explanation": null,

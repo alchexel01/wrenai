@@ -524,7 +524,26 @@
    "A": "Richards Consittution",
    "B": "Clifford Constitution",
    "C": "Lyttleton Constitution",
-   "D": "Independence Constitu tion. 32 The motion by Anthony Enahoro demanding independence for Nigeria was moved in"
+   "D": "Independence Constitu"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1989-32",
+  "subject": "government",
+  "year": 1989,
+  "number": 32,
+  "question": "tion. 32 The motion by Anthony Enahoro demanding independence for Nigeria was moved in",
+  "options": {
+   "A": "1951",
+   "B": "1953",
+   "C": "1956",
+   "D": "1957"
   },
   "answer": null,
   "explanation": null,

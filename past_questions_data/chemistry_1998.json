@@ -196,7 +196,26 @@
    "A": "electron from the atom",
    "B": "energy by proton transition",
    "C": "energy by electron transition",
-   "D": "neutrons from the atom 12 If an element X of atomic number Z and mass number Y is irradiated by an intense concentration of neutrons the relevant nuclear equation is"
+   "D": "neutrons from the atom"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-12",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 12,
+  "question": "12 If an element X of atomic number Z and mass number Y is irradiated by an intense concentration of neutrons the relevant nuclear equation is",
+  "options": {
+   "A": "ₓ y X + ¹ₒ n Y ⁻Z ¹₊ ₁X",
+   "B": "Y Z X + 1ₒ n Y ⁺ Z¹ X",
+   "C": "y X + ¹ n Y Z ₒ Z₊₁ Z₊₁ Y X + 1 n Y ⁺ ¹ X Z ₒ Z₋₁",
+   "D": ""
   },
   "answer": null,
   "explanation": null,
@@ -686,7 +705,197 @@
    "A": "areextractedby reduction methods",
    "B": "formonlybasicoxides 40 . Alloys are often used in preference to pure metals bacause",
    "C": "metallic properties are improved in alloys",
-   "D": "alloys are a mixture of metals. 41 . CH₃ CH₂ CHCH(CH₃)₂ The IUPAC nomenclature for the above compound is"
+   "D": "alloys are a mixture of metals. 41 . CH₃ CH₂ CHCH(CH₃)₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-40",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 40,
+  "question": "The IUPAC nomenclature for the above compound is",
+  "options": {
+   "A": "4-methylpentan –3-ol",
+   "B": "2-methylpentan –3-0l",
+   "C": "3- methylpentan –3 –0l",
+   "D": "1,1-dimenthylbutan-2-0l"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-41",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 41,
+  "question": "42 . Dehydration of CH₃ CH₂ CH₂ CH₂ OH gives",
+  "options": {
+   "A": "CH₂ - CH - CH - CH₂ - CH₃",
+   "B": "CH₃CH- CH - CH₂ - CH₃",
+   "C": "H - C - C - CH₂ - CH₃",
+   "D": "CH₃ C - C -CH₃ 43 . nCH₂ =CH₂ O₂ (initiator) ( CH₂ CH₂ CH₂"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-42",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 42,
+  "question": "The above equation represents the manufacture of",
+  "options": {
+   "A": "rubber",
+   "B": "polythene",
+   "C": "polystyrene",
+   "D": "butane 44 . One mole of a hydrocarbon contains 6 g of hydrogen."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-43",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 43,
+  "question": "If the molecular weight is 54, the hydrocarbon is an.",
+  "options": {
+   "A": "alkanone",
+   "B": "alkane",
+   "C": "alkene",
+   "D": "alkyne"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-44",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 44,
+  "question": "45 . The products obtained when a pure hydrocarbon is burn in excess oxygen are",
+  "options": {
+   "A": "carbon and hydrogen",
+   "B": "carbon and water",
+   "C": "carbon (11) oxide and hydrogen",
+   "D": "carbon (1V) oxide and water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-45",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 45,
+  "question": "46 . How many structural isomers can be drawn for the non- cyclic alkanol with molecular formula C₄H₁₀O",
+  "options": {
+   "A": "1",
+   "B": "2",
+   "C": "3",
+   "D": "4"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-46",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 46,
+  "question": "47 . On cracking medicinal paraffin, a gas is evolved which gives a pop sound with a lighted splinter and a oily liquid which decolourizes bromine solution is also obtained. The products of the cracking are",
+  "options": {
+   "A": "carbon (1V) oxide and alkyne",
+   "B": "carbon (11) oxide and alkane",
+   "C": "hydrogen gas and alkane",
+   "D": "hydrogen gas and alkane"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-47",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 47,
+  "question": "48 . An example of aromatic compound is",
+  "options": {
+   "A": "CH₆H₁₃OH",
+   "B": "C₆H₁₃CI",
+   "C": "C₆H₅OH",
+   "D": "C₆H₁₄"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-48",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 48,
+  "question": "49 . Terylene is synthesized from ethane –1, 2- diol and benzene –1, 4- dicarboxylic acid by",
+  "options": {
+   "A": "addition reaction",
+   "B": "consensation reaction",
+   "C": "elimination reaction",
+   "D": "substitution reaction."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1998-49",
+  "subject": "chemistry",
+  "year": 1998,
+  "number": 49,
+  "question": "50 . Which of the following is true concerning the properties of benezene and hexane?",
+  "options": {
+   "A": "Both undergo subtitution reaction.",
+   "B": "Both undergo addtion reaction",
+   "C": "Both are solids",
+   "D": "Both can decolourize bromine water."
   },
   "answer": null,
   "explanation": null,

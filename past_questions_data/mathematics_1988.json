@@ -407,7 +407,7 @@
    "A": "a - b",
    "B": "2a + 7b 2a + b a - b",
    "C": "2a - 7b",
-   "D": "2a - 7b a + b a - b Using the graph to"
+   "D": "2a - 7b a + b a - b Using"
   },
   "answer": null,
   "explanation": null,
@@ -421,7 +421,7 @@
   "subject": "mathematics",
   "year": 1988,
   "number": 25,
-  "question": "What is the solution of the equation x² – x – 1 = 0?",
+  "question": "the graph to answer questions 25 and 26 What is the solution of the equation x² – x – 1 = 0?",
   "options": {
    "A": "x= 1.6 andx=-0.6",
    "B": "x= -1.6 and x= 0.6",
@@ -442,7 +442,7 @@
   "subject": "mathematics",
   "year": 1988,
   "number": 26,
-  "question": "For what values of x is the curve y = (x² + 3) / (x + 4)",
+  "question": "the graph to answer questions 25 and 26 For what values of x is the curve y = (x² + 3) / (x + 4)",
   "options": {
    "A": "-3 < x< 0",
    "B": "–3 < x < 0",

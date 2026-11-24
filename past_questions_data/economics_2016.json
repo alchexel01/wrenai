@@ -826,7 +826,26 @@
    "A": "market",
    "B": "raw materials",
    "C": "infrastructural facilitates",
-   "D": "skilled manpower. 47.A problem facing the development of the Nigerian Petroleum industry in Nigeria is"
+   "D": "skilled manpower."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-47",
+  "subject": "economics",
+  "year": 2016,
+  "number": 47,
+  "question": "A problem facing the development of the Nigerian Petroleum industry in Nigeria is",
+  "options": {
+   "A": "persistent gas flaring",
+   "B": "instability in demand for the products",
+   "C": "dominance of multinationals",
+   "D": "declining oil reserves."
   },
   "answer": null,
   "explanation": null,
@@ -845,7 +864,26 @@
    "A": "rise in aggregate supply",
    "B": "rise in aggregate demand",
    "C": "rise in level of inflation rate",
-   "D": "fall in the level of inflation 49.A country where the available population is unable to guarantee efficient utilization of available resources is experiencing"
+   "D": "fall in the level of inflation"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2016-49",
+  "subject": "economics",
+  "year": 2016,
+  "number": 49,
+  "question": "A country where the available population is unable to guarantee efficient utilization of available resources is experiencing",
+  "options": {
+   "A": "under population",
+   "B": "over-population",
+   "C": "high population density",
+   "D": "optimum population."
   },
   "answer": null,
   "explanation": null,

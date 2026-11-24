@@ -846,7 +846,25 @@
    "A": "virus",
    "B": "protozoan",
    "C": "bacterium",
-   "D": "fungus. 48 One of the functions of UNICEF is to"
+   "D": "fungus."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1987-48",
+  "subject": "biology",
+  "year": 1987,
+  "number": 48,
+  "question": "48 One of the functions of UNICEF is to",
+  "options": {
+   "A": "prevent and control major diseases",
+   "B": "prevent disease outbreak by administering vaccines",
+   "C": "improve the health and nutrition of children and nursing mothers D. monitor environment pollution."
   },
   "answer": null,
   "explanation": null,

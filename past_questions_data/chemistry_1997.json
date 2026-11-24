@@ -40,12 +40,33 @@
   "subject": "chemistry",
   "year": 1997,
   "number": 3,
-  "question": "The section PQ indicate that X is",
+  "question": "Use the graph below to answer question 3 and 4 A sample, X, solid at room temperature, was melted, heated to a temprature of 358 K and allowed to cool as shown in OPQR. The section PQ indicate that X is",
   "options": {
    "A": "a mixture of salt",
    "B": "a hydrated salt",
    "C": "an ionic salt",
-   "D": "a pure compound. 4.. The section OP suggests that X is in the"
+   "D": "a pure compound."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "chemistry/1997_p47_1.png",
+  "images": [
+   "chemistry/1997_p47_1.png"
+  ]
+ },
+ {
+  "id": "chemistry-1997-4",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 4,
+  "question": "Use the graph below to answer question 3 and 4 A sample, X, solid at room temperature, was melted, heated to a temprature of 358 K and allowed to cool as shown in OPQR. 4.. The section OP suggests that X is in the",
+  "options": {
+   "A": "Liquid state",
+   "B": "Solid/liquid state",
+   "C": "Solid state",
+   "D": "Gaseous state."
   },
   "answer": null,
   "explanation": null,
@@ -273,7 +294,26 @@
    "A": "1",
    "B": "3",
    "C": "5",
-   "D": "7 (Mg = 24, S=32, O=16, H= 1) 17 A satyrated solution of AgCI was found to have a concentration of 1.30 x 100⁻⁵ mol dm⁻³. The solution product of AgCI. therefore is."
+   "D": "7"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-17",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 17,
+  "question": "(Mg = 24, S=32, O=16, H= 1) 17 A satyrated solution of AgCI was found to have a concentration of 1.30 x 100⁻⁵ mol dm⁻³. The solution product of AgCI. therefore is.",
+  "options": {
+   "A": "1.30x 10-5 mol 2 dm-6",
+   "B": "1.30 x 10-7 mol2 dm-6",
+   "C": "1.69 x 10-10 mol2 dm-6",
+   "D": "2.60 x 10-12 mol2 dm –6"
   },
   "answer": null,
   "explanation": null,
@@ -571,7 +611,7 @@
    "A": "hydrogen chloride",
    "B": "oxygen",
    "C": "carbon (1V) oxide",
-   "D": "chlorine. The reaction above can be used for the laboratory preparation of all halogens except fluorine because it is"
+   "D": "chlorine."
   },
   "answer": null,
   "explanation": null,
@@ -581,6 +621,25 @@
   "images": [
    "chemistry/1997_p48_1.png"
   ]
+ },
+ {
+  "id": "chemistry-1997-34",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 34,
+  "question": "The reaction above can be used for the laboratory preparation of all halogens except fluorine because it is",
+  "options": {
+   "A": "a poisonous gas",
+   "B": "an oxidizing agent",
+   "C": "electronegative in nature",
+   "D": "highly reactive."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  },
  {
   "id": "chemistry-1997-35",
@@ -648,7 +707,26 @@
    "A": "electrolysis using mercury as cathode",
    "B": "hydrolysis in steam using a catal.yst",
    "C": "electrolysis using iron as anode",
-   "D": "treating sodium chloride with ammonia and carbon (1V) oxide. 39 A sample of a substance containing only C and H burns in excess O₂ t o yield 4.4 g of CO ₂a nd 2.7 g of H₂ O . The empirical formular of the substance is"
+   "D": "treating sodium chloride with ammonia and"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1997-39",
+  "subject": "chemistry",
+  "year": 1997,
+  "number": 39,
+  "question": "carbon (1V) oxide. 39 A sample of a substance containing only C and H burns in excess O₂ t o yield 4.4 g of CO ₂a nd 2.7 g of H₂ O . The empirical formular of the substance is",
+  "options": {
+   "A": "CH₃",
+   "B": "CH₂",
+   "C": "CH₄",
+   "D": "C₂H₅ (C= 12, O=16, H= 1)"
   },
   "answer": null,
   "explanation": null,

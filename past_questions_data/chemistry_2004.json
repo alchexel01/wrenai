@@ -547,7 +547,26 @@
    "A": "colloid",
    "B": "solution",
    "C": "suspension",
-   "D": "precipitate 31 Hardness of water is caused by the presence of the ions of"
+   "D": "precipitate"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-2004-31",
+  "subject": "chemistry",
+  "year": 2004,
+  "number": 31,
+  "question": "31 Hardness of water is caused by the presence of the ions of",
+  "options": {
+   "A": "calcium and magnesium",
+   "B": "calcium and sodium",
+   "C": "magnesium and silver",
+   "D": "sodium and potassium"
   },
   "answer": null,
   "explanation": null,

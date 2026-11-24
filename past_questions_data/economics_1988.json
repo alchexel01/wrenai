@@ -510,6 +510,25 @@
   "images": []
  },
  {
+  "id": "economics-1988-28",
+  "subject": "economics",
+  "year": 1988,
+  "number": 28,
+  "question": "",
+  "options": {
+   "A": "Implication for partners’ liability",
+   "B": "Legal limitation placed on the number of partners",
+   "C": "Difficulties arising from having two co- ordinate heads of a firm",
+   "D": "Fact that each partner regardless of the capital he contributes, must have the same voting rights"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "economics-1988-29",
   "subject": "economics",
   "year": 1988,
@@ -632,7 +651,25 @@
   "options": {
    "A": "Raising of capital for industry",
    "B": "Provision of current account facilities",
-   "C": "Management of investment portfolios",
+   "C": "Management of investment portfolios"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1988-36",
+  "subject": "economics",
+  "year": 1988,
+  "number": 36,
+  "question": "",
+  "options": {
+   "A": "Sales tax",
+   "B": "Purchase tax",
+   "C": "Export duties",
    "D": "Property tax"
   },
   "answer": null,

@@ -251,7 +251,7 @@
   "subject": "economics",
   "year": 2018,
   "number": 14,
-  "question": "If specialisation should take place, then",
+  "question": "Use the table below to answer question 14. If specialisation should take place, then",
   "options": {
    "A": "Ghana should produce coffee and cocoa",
    "B": "Ghana would benefit by producing cocoa only",
@@ -405,7 +405,7 @@
   "subject": "economics",
   "year": 2018,
   "number": 22,
-  "question": "From the table, the mean of the distribution is",
+  "question": "Use the table below to answer question 22 and 23. From the table, the mean of the distribution is",
   "options": {
    "A": "2.2",
    "B": "2.5",
@@ -426,7 +426,7 @@
   "subject": "economics",
   "year": 2018,
   "number": 23,
-  "question": "What is the median of the distribution?",
+  "question": "Use the table below to answer question 22 and 23. What is the median of the distribution?",
   "options": {
    "A": "5",
    "B": "4",
@@ -466,7 +466,7 @@
   "subject": "economics",
   "year": 2018,
   "number": 25,
-  "question": "If the budget of the country was $7,200.00, how much is allocated to education",
+  "question": "Use it to answer question 25 and 26 If the budget of the country was $7,200.00, how much is allocated to education",
   "options": {
    "A": "$2,400.00",
    "B": "$2,000.00",
@@ -487,7 +487,7 @@
   "subject": "economics",
   "year": 2018,
   "number": 26,
-  "question": "What is the ratio of expenditure on health to Agriculture?",
+  "question": "Use it to answer question 25 and 26 What is the ratio of expenditure on health to Agriculture?",
   "options": {
    "A": "2:3",
    "B": "3:4",
@@ -610,9 +610,28 @@
    "A": "monetary policy",
    "B": "tax policy",
    "C": "economic policy",
-   "D": "fiscal policy. 33.A situation in which a commodity is sold abroad below its cost of production in the home country is known as"
+   "D": "fiscal policy."
   },
   "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2018-33",
+  "subject": "economics",
+  "year": 2018,
+  "number": 33,
+  "question": "A situation in which a commodity is sold abroad below its cost of production in the home country is known as",
+  "options": {
+   "A": "dumping",
+   "B": "counter trade",
+   "C": "bilateral trade",
+   "D": "trade liberalisation."
+  },
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -662,7 +681,7 @@
   "subject": "economics",
   "year": 2018,
   "number": 36,
-  "question": "If the pass mark was 40, how many students passed the examination?",
+  "question": "Use the histogram below to answer question 36 and 37. If the pass mark was 40, how many students passed the examination?",
   "options": {
    "A": "100",
    "B": "120",
@@ -683,7 +702,7 @@
   "subject": "economics",
   "year": 2018,
   "number": 37,
-  "question": "How many students took the examination?",
+  "question": "Use the histogram below to answer question 36 and 37. How many students took the examination?",
   "options": {
    "A": "280",
    "B": "240",

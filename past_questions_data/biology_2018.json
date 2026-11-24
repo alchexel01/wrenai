@@ -61,7 +61,7 @@
   "subject": "biology",
   "year": 2018,
   "number": 4,
-  "question": "After an hour, the level of water in the thistle funnel will",
+  "question": "Use the diagram below to answer question 4 to 6 After an hour, the level of water in the thistle funnel will",
   "options": {
    "A": "rise",
    "B": "fall",
@@ -82,7 +82,7 @@
   "subject": "biology",
   "year": 2018,
   "number": 5,
-  "question": "The experiment is used to demonstrate",
+  "question": "Use the diagram below to answer question 4 to 6 The experiment is used to demonstrate",
   "options": {
    "A": "transportation",
    "B": "water culture",
@@ -103,7 +103,7 @@
   "subject": "biology",
   "year": 2018,
   "number": 6,
-  "question": "In a plant cells, the role of the membrane is played by the",
+  "question": "Use the diagram below to answer question 4 to 6 In a plant cells, the role of the membrane is played by the",
   "options": {
    "A": "nucleolus",
    "B": "cell wall",
@@ -262,7 +262,7 @@
    "A": "possess values at internals throughout their length.",
    "B": "have thick muscular and elastic walls",
    "C": "carry blood away from the heart",
-   "D": "transport oxygenated blood with the exception of the pulmonary artery. The graph below shows the results of a laboratory investigation which measured the body temperatures of a lizard and a bird under changing artificial conditions."
+   "D": "transport oxygenated blood with the exception of the pulmonary artery."
   },
   "answer": null,
   "explanation": null,
@@ -276,7 +276,7 @@
   "subject": "biology",
   "year": 2018,
   "number": 15,
-  "question": "Which of the statements below is valid?",
+  "question": "The graph below shows the results of a laboratory investigation which measured the body temperatures of a lizard and a bird under changing artificial conditions. Use to answer questions 15 and 16. Which of the statements below is valid?",
   "options": {
    "A": "The bird's blood was always warmer than that of the lizard.",
    "B": "The body temperature of the bird varied less than that of the lizard during changes in environmental temperature.",
@@ -297,7 +297,7 @@
   "subject": "biology",
   "year": 2018,
   "number": 16,
-  "question": "What physiological term can be used to describe the regulation of the body temperature of the lizard?",
+  "question": "The graph below shows the results of a laboratory investigation which measured the body temperatures of a lizard and a bird under changing artificial conditions. Use to answer questions 15 and 16. What physiological term can be used to describe the regulation of the body temperature of the lizard?",
   "options": {
    "A": "Homeostasis",
    "B": "Homeothermy",
@@ -361,7 +361,26 @@
    "A": "converging the Light rays before they enter the eye",
    "B": "diverging the light rays before they enter the eye",
    "C": "reducing light intensity before it enters the eye",
-   "D": "increasing light intensity before it enters the eye 20.A seed of a flowering plant can best be described as"
+   "D": "increasing light intensity before it enters the eye"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-20",
+  "subject": "biology",
+  "year": 2018,
+  "number": 20,
+  "question": "A seed of a flowering plant can best be described as",
+  "options": {
+   "A": "radicle and plumule",
+   "B": "the developed ovule",
+   "C": "the embryo and endosperm",
+   "D": "developed ovary"
   },
   "answer": null,
   "explanation": null,
@@ -474,7 +493,7 @@
    "A": "Dog",
    "B": "Sheep",
    "C": "Grass",
-   "D": "Fungus Study the diagram of a food chain shown below and use it to answer question 27 and 28. P→Q→R→S→T"
+   "D": "Fungus"
   },
   "answer": null,
   "explanation": null,
@@ -488,7 +507,7 @@
   "subject": "biology",
   "year": 2018,
   "number": 27,
-  "question": "The organism designated P in the food chain above is normally sustained by energy from",
+  "question": "Study the diagram of a food chain shown below and use it to answer question 27 and 28. P→Q→R→S→T The organism designated P in the food chain above is normally sustained by energy from",
   "options": {
    "A": "sunlight",
    "C": "green plants",
@@ -506,7 +525,7 @@
   "subject": "biology",
   "year": 2018,
   "number": 28,
-  "question": "Which of the following statements best describes the organism designated R? It",
+  "question": "Study the diagram of a food chain shown below and use it to answer question 27 and 28. P→Q→R→S→T Which of the following statements best describes the organism designated R? It",
   "options": {
    "A": "feeds on S.",
    "B": "is a primary consumer.",
@@ -568,7 +587,26 @@
    "A": "central vacuole",
    "B": "nucleus",
    "C": "lysosome",
-   "D": "golgi body 32.A man who is heterozygous for the disease haemophilia marries a woman who is double recessive for haemophilia. What percentage of their offspring would have the disease?"
+   "D": "golgi body"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-32",
+  "subject": "biology",
+  "year": 2018,
+  "number": 32,
+  "question": "A man who is heterozygous for the disease haemophilia marries a woman who is double recessive for haemophilia. What percentage of their offspring would have the disease?",
+  "options": {
+   "A": "0%",
+   "B": "25%",
+   "C": "50%",
+   "D": "75%"
   },
   "answer": null,
   "explanation": null,
@@ -639,7 +677,7 @@
   "subject": "biology",
   "year": 2018,
   "number": 36,
-  "question": "The diagram shows that the organisms are",
+  "question": "Use the diagram below to answer question 36 and 37. The diagram shows that the organisms are",
   "options": {
    "A": "hermaphrodite",
    "B": "viviparous",
@@ -660,7 +698,7 @@
   "subject": "biology",
   "year": 2018,
   "number": 37,
-  "question": "The breeding posture illustrated in the diagram is known as",
+  "question": "Use the diagram below to answer question 36 and 37. The breeding posture illustrated in the diagram is known as",
   "options": {
    "A": "mating",
    "B": "amplexus",
@@ -685,8 +723,26 @@
   "options": {
    "A": "RNA analysis",
    "B": "DNA analysis",
-   "D": "behavioural traits test 39.A boy who is fond of swimming in a pond finds himself passing urine with traces of blood. He is likely to have contracted",
-   "C": "poliomyelitis"
+   "D": "behavioural traits test"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2018-39",
+  "subject": "biology",
+  "year": 2018,
+  "number": 39,
+  "question": "A boy who is fond of swimming in a pond finds himself passing urine with traces of blood. He is likely to have contracted",
+  "options": {
+   "A": "schistosomiasis",
+   "B": "onchocerciasis",
+   "C": "poliomyelitis",
+   "D": "salmonellosis"
   },
   "answer": null,
   "explanation": null,

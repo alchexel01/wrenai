@@ -556,7 +556,7 @@
    "A": "Brabantio",
    "B": "Othello",
    "C": "Gratiano",
-   "D": "Roderigo Use the following excerpt to answer questions 31 to 33. \"I wonder how long, you awful parasites, Shall share with me this little bed, And awake me, from my sweet dreams be lost, Sucking blood from my poor head... Mbure: \"To Bed-Bug\""
+   "D": "Roderigo"
   },
   "answer": "A",
   "explanation": null,
@@ -570,7 +570,7 @@
   "subject": "literature_in_english",
   "year": 2018,
   "number": 31,
-  "question": "The lines are an example of a",
+  "question": "Use the following excerpt to answer questions 31 to 33. \"I wonder how long, you awful parasites, Shall share with me this little bed, And awake me, from my sweet dreams be lost, Sucking blood from my poor head... Mbure: \"To Bed-Bug\" The lines are an example of a",
   "options": {
    "A": "limerick",
    "B": "lampoon",
@@ -589,7 +589,7 @@
   "subject": "literature_in_english",
   "year": 2018,
   "number": 32,
-  "question": "The poet persona expresses dismay about",
+  "question": "Use the following excerpt to answer questions 31 to 33. \"I wonder how long, you awful parasites, Shall share with me this little bed, And awake me, from my sweet dreams be lost, Sucking blood from my poor head... Mbure: \"To Bed-Bug\" The poet persona expresses dismay about",
   "options": {
    "A": "bat",
    "B": "cockroaches",
@@ -608,7 +608,7 @@
   "subject": "literature_in_english",
   "year": 2018,
   "number": 33,
-  "question": "The most dominant figure of speech in the excerpt is",
+  "question": "Use the following excerpt to answer questions 31 to 33. \"I wonder how long, you awful parasites, Shall share with me this little bed, And awake me, from my sweet dreams be lost, Sucking blood from my poor head... Mbure: \"To Bed-Bug\" The most dominant figure of speech in the excerpt is",
   "options": {
    "A": "metaphor",
    "B": "simile",
@@ -689,7 +689,45 @@
    "A": "apprehension",
    "B": "defiance",
    "C": "joy",
-   "D": "indifference 38.“The drum overwhelmed the guns…” J.P Clark: “Causalities” The poet in the excerpt above uses"
+   "D": "indifference 38.“The drum overwhelmed the guns…”"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-38",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 38,
+  "question": "J.P Clark: “Causalities” The poet in the excerpt above uses",
+  "options": {
+   "A": "litotes",
+   "B": "symbolism",
+   "C": "onomatopoeia",
+   "D": "alliteration 39.“… They do not see the funeral piles,"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "literature-in-english-2018-39",
+  "subject": "literature_in_english",
+  "year": 2018,
+  "number": 39,
+  "question": "At home eating up the forests…” J.P Clark: “Causalities” The imagery created in the above uses",
+  "options": {
+   "A": "metaphor",
+   "B": "personification",
+   "C": "synecdoche",
+   "D": "metonymy “I cannot rest from travel: I will drink, life to the lees, all times I have enjoyed, Greatly, have suffered greatly”. A.L. Tennyson: ”Ulysses”"
   },
   "answer": "A",
   "explanation": null,

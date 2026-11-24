@@ -99,7 +99,7 @@
   "subject": "commerce",
   "year": 2000,
   "number": 6,
-  "question": "What is the total fixed capital?",
+  "question": "Use the information below to answer questions 6 and 7 Amina Enterprises Balance Sheet as at 30/3/99 What is the total fixed capital?",
   "options": {
    "A": "N675,000",
    "B": "N575,000",
@@ -120,7 +120,7 @@
   "subject": "commerce",
   "year": 2000,
   "number": 7,
-  "question": "Determine the circulating capital",
+  "question": "Use the information below to answer questions 6 and 7 Amina Enterprises Balance Sheet as at 30/3/99 Determine the circulating capital",
   "options": {
    "A": "N250,000",
    "B": "N245,000",
@@ -641,7 +641,26 @@
    "A": "serves as a mechanism for evaluation an unrealistic exchange rate of the naira",
    "B": "contribute to flooding the market with foreign essential commondities",
    "C": "contributes to destablizing national re source",
-   "D": "creates unhealthy competition amongst users of foreign exchnage"
+   "D": "creates unhealthy competition amongst"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "commerce-2000-36",
+  "subject": "commerce",
+  "year": 2000,
+  "number": 36,
+  "question": "users of foreign exchnage",
+  "options": {
+   "A": "a decree",
+   "B": "a treaty",
+   "C": "an act",
+   "D": "a constitution"
   },
   "answer": null,
   "explanation": null,

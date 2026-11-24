@@ -643,12 +643,33 @@
   "subject": "mathematics",
   "year": 1991,
   "number": 35,
-  "question": "If PM = 5cm, PN = 12cm and PQ = 4.8cm, calculate the respective lengths of PR and PT in centimeters.",
+  "question": "use the figure below to answer questions 35 and 36 PMN and PQR are two secants of the circle MQTRN and PT is a tangent If PM = 5cm, PN = 12cm and PQ = 4.8cm, calculate the respective lengths of PR and PT in centimeters.",
   "options": {
    "A": "7.3,5.9",
    "B": "7.7,12.5",
    "C": "12.5,7.7",
-   "D": "5.9,7.3 36. If PNR = 110⁰ and PMQ = 55⁰, find MPQ."
+   "D": "5.9,7.3 36."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "mathematics/1991_p29_2.png",
+  "images": [
+   "mathematics/1991_p29_2.png"
+  ]
+ },
+ {
+  "id": "mathematics-1991-36",
+  "subject": "mathematics",
+  "year": 1991,
+  "number": 36,
+  "question": "use the figure below to answer questions 35 and 36 PMN and PQR are two secants of the circle MQTRN and PT is a tangent If PNR = 110⁰ and PMQ = 55⁰, find MPQ.",
+  "options": {
+   "A": "40⁰",
+   "B": "30⁰",
+   "C": "25⁰",
+   "D": "15⁰"
   },
   "answer": null,
   "explanation": null,
@@ -874,7 +895,7 @@
   "subject": "mathematics",
   "year": 1991,
   "number": 48,
-  "question": "The mean and the median of the distribution are respectively",
+  "question": "Use the following information to answer question 48 and 49. Fifty boxes each of 50balls were inspected for the number which were defective. The following was the result The mean and the median of the distribution are respectively",
   "options": {
    "A": "6.7,6",
    "B": "6.7,6.5",
@@ -895,7 +916,7 @@
   "subject": "mathematics",
   "year": 1991,
   "number": 49,
-  "question": "Find the percentage of boxes containing at least 5 defective bolts each.",
+  "question": "Use the following information to answer question 48 and 49. Fifty boxes each of 50balls were inspected for the number which were defective. The following was the result Find the percentage of boxes containing at least 5 defective bolts each.",
   "options": {
    "A": "96",
    "B": "94",

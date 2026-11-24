@@ -500,7 +500,26 @@
    "A": "flaccidity and turgidity",
    "B": "diffusion and plasmolysis",
    "C": "plasmolysis and capillarity",
-   "D": "osmosis and diffusion 28.A series of organism existing in an ecosystem through which energy is transformed can be referred to as"
+   "D": "osmosis and diffusion"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2016-28",
+  "subject": "biology",
+  "year": 2016,
+  "number": 28,
+  "question": "A series of organism existing in an ecosystem through which energy is transformed can be referred to as",
+  "options": {
+   "A": "food cycle",
+   "B": "food chain",
+   "C": "pyramid on numbers",
+   "D": "food web"
   },
   "answer": "D",
   "explanation": null,
@@ -709,9 +728,28 @@
    "A": "cholera",
    "B": "chickenpox",
    "C": "malaria",
-   "D": "yellow fever 40.A common characteristic found among the crustaceans is the possession of"
+   "D": "yellow fever"
   },
   "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2016-40",
+  "subject": "biology",
+  "year": 2016,
+  "number": 40,
+  "question": "A common characteristic found among the crustaceans is the possession of",
+  "options": {
+   "A": "a pair of antennae",
+   "B": "a pair of walking legs on each segment",
+   "C": "four pairs of walking legs on the cephalothorax",
+   "D": "two pairs of antennae"
+  },
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,

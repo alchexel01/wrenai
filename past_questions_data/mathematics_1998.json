@@ -604,7 +604,26 @@
    "A": "6.0",
    "B": "2.5",
    "C": "6",
-   "D": "3 33 The midpoint of the segment of the line y = 4x + 3 which lies between the x-axis and the y-axis is"
+   "D": "3"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1998-33",
+  "subject": "mathematics",
+  "year": 1998,
+  "number": 33,
+  "question": "33 The midpoint of the segment of the line y = 4x + 3 which lies between the x-axis and the y-axis is",
+  "options": {
+   "A": "(-3/2, 3/2)",
+   "B": "(-2/3, 3/2)",
+   "C": "(3/8, 3/2)",
+   "D": "(-3/8, 3/2)"
   },
   "answer": null,
   "explanation": null,

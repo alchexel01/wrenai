@@ -389,7 +389,7 @@
    "A": "e = 1",
    "B": "e = -1",
    "C": "e = -2",
-   "D": "e = 0 Use the matrices below to answer questions 22 and 23."
+   "D": "e = 0"
   },
   "answer": null,
   "explanation": null,
@@ -403,7 +403,7 @@
   "subject": "mathematics",
   "year": 1992,
   "number": 22,
-  "question": "When PT is the transpose of P, calculate [PT] when x = 0, y = 1 and z = 2",
+  "question": "Use the matrices below to answer questions 22 and 23. When PT is the transpose of P, calculate [PT] when x = 0, y = 1 and z = 2",
   "options": {
    "A": "48",
    "B": "24",
@@ -422,7 +422,7 @@
   "subject": "mathematics",
   "year": 1992,
   "number": 23,
-  "question": "PQ is equivalent to A PPT B. PP⁻T",
+  "question": "Use the matrices below to answer questions 22 and 23. PQ is equivalent to A PPT B. PP⁻T",
   "options": {
    "C": "QP",
    "D": "PP"

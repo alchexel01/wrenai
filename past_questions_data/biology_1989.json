@@ -224,7 +224,7 @@
   "subject": "biology",
   "year": 1989,
   "number": 13,
-  "question": "Which of the labelled parts is used for feeling?",
+  "question": "Use the diagram below to answer questions 13 to 14 Which of the labelled parts is used for feeling?",
   "options": {
    "A": "1",
    "B": "2",
@@ -245,7 +245,7 @@
   "subject": "biology",
   "year": 1989,
   "number": 14,
-  "question": "The structure labelled 2 is the",
+  "question": "Use the diagram below to answer questions 13 to 14 The structure labelled 2 is the",
   "options": {
    "A": "compound eye",
    "B": "ocellus",
@@ -285,7 +285,7 @@
   "subject": "biology",
   "year": 1989,
   "number": 16,
-  "question": "Which of the structure’s is the molar?",
+  "question": "Use the diagram below to answer questions 16 to 17 Which of the structure’s is the molar?",
   "options": {
    "A": "1",
    "B": "2",
@@ -306,7 +306,7 @@
   "subject": "biology",
   "year": 1989,
   "number": 17,
-  "question": "What is the function of 3?",
+  "question": "Use the diagram below to answer questions 16 to 17 What is the function of 3?",
   "options": {},
   "answer": null,
   "explanation": null,
@@ -431,7 +431,7 @@
   "subject": "biology",
   "year": 1989,
   "number": 24,
-  "question": "The type of joint at the point labelled 5 is the",
+  "question": "Use the figure below to answer questions 24 to 26 The type of joint at the point labelled 5 is the",
   "options": {
    "A": "pivot joint",
    "B": "gliding joint",
@@ -452,7 +452,7 @@
   "subject": "biology",
   "year": 1989,
   "number": 25,
-  "question": "Which of the labelled bones is the ulna?",
+  "question": "Use the figure below to answer questions 24 to 26 Which of the labelled bones is the ulna?",
   "options": {
    "A": "1",
    "B": "3 C.4 D.5"
@@ -471,7 +471,7 @@
   "subject": "biology",
   "year": 1989,
   "number": 26,
-  "question": "What is the name of the structure labelled 2?",
+  "question": "Use the figure below to answer questions 24 to 26 What is the name of the structure labelled 2?",
   "options": {
    "A": "Odontoid process",
    "B": "Olecranon",

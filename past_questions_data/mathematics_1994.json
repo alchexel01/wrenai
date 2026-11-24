@@ -66,7 +66,26 @@
    "A": "4",
    "B": "6",
    "C": "8",
-   "D": "10 5 Simply 48 – ⁹/ ₃+ 75"
+   "D": "10"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1994-5",
+  "subject": "mathematics",
+  "year": 1994,
+  "number": 5,
+  "question": "5 Simply 48 – ⁹/ ₃+ 75",
+  "options": {
+   "A": "53",
+   "B": "63",
+   "C": "83",
+   "D": "183"
   },
   "answer": null,
   "explanation": null,

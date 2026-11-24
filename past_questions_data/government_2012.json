@@ -11,7 +11,7 @@
    "C": "Type Red",
    "D": "Type Yellow"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -30,7 +30,7 @@
    "C": "violence",
    "D": "justice"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -49,7 +49,7 @@
    "C": "A branch of a nation",
    "D": "A geographical location"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -68,7 +68,7 @@
    "C": "political socialization",
    "D": "political indoctrination"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -87,7 +87,7 @@
    "C": "executive",
    "D": "electorate"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -106,7 +106,7 @@
    "C": "Ensuring obedience to the law",
    "D": "Appointing judges"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -124,7 +124,7 @@
    "C": "unitary",
    "D": "parliamentary"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -143,7 +143,7 @@
    "C": "dictatorship",
    "D": "autocracy"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -162,7 +162,7 @@
    "C": "legislature",
    "D": "judiciary"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -181,7 +181,7 @@
    "C": "communalism",
    "D": "communism"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -200,7 +200,7 @@
    "C": "lords",
    "D": "elite"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -219,7 +219,7 @@
    "C": "Benin Republic",
    "D": "the United States of America"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -238,7 +238,7 @@
    "C": "Limited power",
    "D": "absolute power"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -256,7 +256,7 @@
    "B": "incorporated",
    "C": "separated"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -275,7 +275,7 @@
    "C": "parliament",
    "D": "judiciary"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -294,7 +294,7 @@
    "C": "vote of no confidence",
    "D": "prorogation of parliament"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -313,7 +313,7 @@
    "C": "political right",
    "D": "social right"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -332,7 +332,7 @@
    "C": "INEC",
    "D": "NECON"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -351,7 +351,7 @@
    "C": "proportional representation",
    "D": "indirect election"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -370,7 +370,7 @@
    "C": "mid-term election",
    "D": "bye-election"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -389,7 +389,7 @@
    "C": "captured political power",
    "D": "fight corrupt officials"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -408,7 +408,7 @@
    "C": "mass media",
    "D": "electoral college"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -427,7 +427,7 @@
    "C": "ombudsman",
    "D": "political party"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -446,7 +446,7 @@
    "C": "an alkali",
    "D": "a waziri"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -465,7 +465,7 @@
    "C": "individual responsibility",
    "D": "the rule of law"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -484,7 +484,7 @@
    "C": "religious reasons",
    "D": "cultural factors"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -503,7 +503,7 @@
    "C": "socialism",
    "D": "indirect rule"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -522,7 +522,7 @@
    "C": "Nnamdi Azikiwe",
    "D": "Mbonu Ojike"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -541,7 +541,7 @@
    "C": "W.E du Boise and H.O Davies",
    "D": "Marcus Garvey and Casely Hayford"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -560,7 +560,7 @@
    "C": "Nominated by regional and federal governments",
    "D": "Nominated by the president of the house"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -579,7 +579,7 @@
    "C": "Civil Defence Corps",
    "D": "Police"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -598,7 +598,7 @@
    "C": "Ratifying appointments",
    "D": "Making laws"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -617,7 +617,7 @@
    "C": "Inadequate skilled manpower",
    "D": "Excessive political interference"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -636,7 +636,7 @@
    "C": "Addressing the grievances of individuals and groups",
    "D": "Fighting corruption and indiscipline"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -655,7 +655,7 @@
    "C": "PDP, AD and PPA",
    "D": "PDP, app and AC"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -674,7 +674,7 @@
    "C": "Zamfara State",
    "D": "Sokoto State"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -693,7 +693,7 @@
    "C": "Equity",
    "D": "Even development"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -710,9 +710,236 @@
    "A": "civil servants",
    "B": "private employees",
    "C": "public servants",
-   "D": "professional employees 39.The central objective of privatization in Nigeria is to"
+   "D": "professional employees"
   },
-  "answer": null,
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-39",
+  "subject": "government",
+  "year": 2012,
+  "number": 39,
+  "question": "The central objective of privatization in Nigeria is to",
+  "options": {
+   "A": "Reduce the retrenchment of workers",
+   "B": "Encourage prompt payment of salaries",
+   "C": "Improve standard of living",
+   "D": "Improve the efficiency of enterprises"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-40",
+  "subject": "government",
+  "year": 2012,
+  "number": 40,
+  "question": "Military intervention in Nigeria arose from",
+  "options": {
+   "A": "perceived incapability of civilians to govern",
+   "B": "international pressure for change",
+   "C": "the desire for a military government",
+   "D": "civilian's desire to relinquish power"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-41",
+  "subject": "government",
+  "year": 2012,
+  "number": 41,
+  "question": "The first institution introduced by the military to exercise legislative power was the",
+  "options": {
+   "A": "supreme military council",
+   "B": "armed forces ruling council",
+   "D": "provisional ruling council"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-42",
+  "subject": "government",
+  "year": 2012,
+  "number": 42,
+  "question": "The main focus of Nigeria's foreign policy since independence centers on",
+  "options": {
+   "A": "South- south cooperation",
+   "B": "Sub-regionalism",
+   "C": "Globalism",
+   "D": "Afrocentrism"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-43",
+  "subject": "government",
+  "year": 2012,
+  "number": 43,
+  "question": "The country that championed decolonization in Africa was",
+  "options": {
+   "A": "Nigeria",
+   "B": "South Africa",
+   "C": "Ghana",
+   "D": "Kenya"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-44",
+  "subject": "government",
+  "year": 2012,
+  "number": 44,
+  "question": "A major drawback to the NEPAD initiative is its",
+  "options": {
+   "A": "Articulation by few African leaders",
+   "B": "Affiliation by few African union",
+   "C": "Inability to empower the youth",
+   "D": "Reliance on Western donors for funds"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-45",
+  "subject": "government",
+  "year": 2012,
+  "number": 45,
+  "question": "The structures of the African Union include",
+  "options": {
+   "A": "the court of justice, pan African congress and people’s Assembly",
+   "B": "pan African parliament, the court of justice and the peace and security council",
+   "C": "specialized Technical commission, the court of justice and humanitarian board",
+   "D": "people's Assembly, Humanitarian Board and the peace and security council"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-46",
+  "subject": "government",
+  "year": 2012,
+  "number": 46,
+  "question": "ECOMOG at the initial stage of its intervention in Liberia was perceived as",
+  "options": {
+   "A": "Neutral",
+   "B": "Incompetent",
+   "C": "Partisan",
+   "D": "Invaders"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-47",
+  "subject": "government",
+  "year": 2012,
+  "number": 47,
+  "question": "One of the programmes binding members of the Commonwealth is the",
+  "options": {
+   "A": "Food and aid programme",
+   "B": "Cultural programme",
+   "C": "Agenda for peace",
+   "D": "Scholarship scheme"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-48",
+  "subject": "government",
+  "year": 2012,
+  "number": 48,
+  "question": "The African leader mostly credited for spearheading the formation of the African Union is",
+  "options": {
+   "A": "Muammar Ghaddafi",
+   "B": "Abdelaziz Bouteflika",
+   "C": "Abdoulaye Wade",
+   "D": "Thabo Mbeki"
+  },
+  "answer": "C",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-49",
+  "subject": "government",
+  "year": 2012,
+  "number": 49,
+  "question": "As part of the reforms in the UN, two slots were proposed in the Security Council for –",
+  "options": {
+   "A": "Asia",
+   "B": "Africa",
+   "C": "America",
+   "D": "Europe"
+  },
+  "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2012-50",
+  "subject": "government",
+  "year": 2012,
+  "number": 50,
+  "question": "The founding members of OPEC are",
+  "options": {
+   "A": "Algeria, Iran, Iraq, Saudi Arabia and Kuwait",
+   "B": "Nigeria, Libya, Iraq and Saudi Arabia",
+   "C": "Venezuela, Nigeria, Libya, Iran and Iraq",
+   "D": "Saudi Arabia, Iran, Iraq Kuwait and Venezuela"
+  },
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,

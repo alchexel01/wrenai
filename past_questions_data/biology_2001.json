@@ -137,7 +137,7 @@
   "subject": "biology",
   "year": 2001,
   "number": 10,
-  "question": "The structures labelled II and III respectively are",
+  "question": "Use the diagram below to answer questions 10 and 11 The structures labelled II and III respectively are",
   "options": {
    "A": "female organs and rhizoid",
    "B": "male organs and rhizoid C. sporophyte and sori D. annulus and stalk of sporangium"
@@ -156,7 +156,7 @@
   "subject": "biology",
   "year": 2001,
   "number": 11,
-  "question": "In ferns, the structure above is equivalent to the",
+  "question": "Use the diagram below to answer questions 10 and 11 In ferns, the structure above is equivalent to the",
   "options": {
    "A": "zygote of a moss",
    "B": "gametophyte generation of a moss",
@@ -215,7 +215,7 @@
   "subject": "biology",
   "year": 2001,
   "number": 14,
-  "question": "The structure that holds the yolk in position is labelled",
+  "question": "Use the diagram below to answer questions 14 and 15 The structure that holds the yolk in position is labelled",
   "options": {
    "A": "II",
    "B": "I",
@@ -236,7 +236,7 @@
   "subject": "biology",
   "year": 2001,
   "number": 15,
-  "question": "The part labelled IV is the",
+  "question": "Use the diagram below to answer questions 14 and 15 The part labelled IV is the",
   "options": {
    "A": "albumen",
    "B": "germinal disc",
@@ -352,7 +352,7 @@
   "subject": "biology",
   "year": 2001,
   "number": 22,
-  "question": "The parts which function together to bring about hearing are labelled.",
+  "question": "Use the diagram below to answer questions 22 and 23 The parts which function together to bring about hearing are labelled.",
   "options": {
    "A": "IV, V and VI",
    "B": "I, II, IV and VI",
@@ -373,7 +373,7 @@
   "subject": "biology",
   "year": 2001,
   "number": 23,
-  "question": "The part labelled II is the",
+  "question": "Use the diagram below to answer questions 22 and 23 The part labelled II is the",
   "options": {
    "A": "fenestra ovalis",
    "B": "middle ear canal",
@@ -413,7 +413,7 @@
   "subject": "biology",
   "year": 2001,
   "number": 25,
-  "question": "The structure above represents a",
+  "question": "Use the diagram below to answer question 25 and 26 The structure above represents a",
   "options": {
    "A": "caudal vertebra",
    "B": "lumbar vertebra",
@@ -434,7 +434,7 @@
   "subject": "biology",
   "year": 2001,
   "number": 26,
-  "question": "Blood vessels usually pass through the structure labelled",
+  "question": "Use the diagram below to answer question 25 and 26 Blood vessels usually pass through the structure labelled",
   "options": {
    "A": "III",
    "B": "II",
@@ -449,6 +449,23 @@
   "images": [
    "biology/2001_p46_4.png"
   ]
+ },
+ {
+  "id": "biology-2001-27",
+  "subject": "biology",
+  "year": 2001,
+  "number": 27,
+  "question": "",
+  "options": {
+   "A": "diffusion through the xylem tissues",
+   "B": "osmosis through the phloem tissues C. diffusion through the phloem tissues D. osmosis through the xylem tissues"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
  },
  {
   "id": "biology-2001-28",

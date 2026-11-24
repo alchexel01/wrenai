@@ -99,7 +99,26 @@
    "A": "They diverges as they travel",
    "B": "They meet at infinity",
    "C": "They intersect",
-   "D": "They converge as they travel magnification produced by a convex lens of focal length f?"
+   "D": "They converge as they travel"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "physics-2004-7",
+  "subject": "physics",
+  "year": 2004,
+  "number": 7,
+  "question": "magnification produced by a convex lens of focal length f?",
+  "options": {
+   "A": "u ₊ f",
+   "B": "u ₋ f",
+   "C": "v ₋ ₁ V f f",
+   "D": "v ₊ ₁"
   },
   "answer": null,
   "explanation": null,

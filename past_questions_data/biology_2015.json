@@ -577,9 +577,47 @@
    "A": "emigration",
    "B": "drought",
    "C": "mortality",
-   "D": "dispersion Stunted growth and poor root development are a result of a deficiency"
+   "D": "dispersion"
   },
   "answer": "B",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-32",
+  "subject": "biology",
+  "year": 2015,
+  "number": 32,
+  "question": "Stunted growth and poor root development are a result of a deficiency",
+  "options": {
+   "A": "phosphorus",
+   "B": "calcium",
+   "C": "sulphur",
+   "D": "iron"
+  },
+  "answer": "A",
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2015-33",
+  "subject": "biology",
+  "year": 2015,
+  "number": 33,
+  "question": "Use the diagram below to answer question 33 and 34. The cell organelle solely responsible for respiration is the",
+  "options": {
+   "A": "nucleus",
+   "B": "nucleolus",
+   "C": "endoplasmic reticulum",
+   "D": "mitochondrion"
+  },
+  "answer": "D",
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
@@ -589,30 +627,11 @@
   ]
  },
  {
-  "id": "biology-2015-33",
-  "subject": "biology",
-  "year": 2015,
-  "number": 33,
-  "question": "The cell organelle solely responsible for respiration is the",
-  "options": {
-   "A": "nucleus",
-   "B": "nucleolus",
-   "C": "endoplasmic reticulum",
-   "D": "mitochondrion"
-  },
-  "answer": "D",
-  "explanation": null,
-  "has_diagram": false,
-  "options_are_images": false,
-  "image": null,
-  "images": []
- },
- {
   "id": "biology-2015-34",
   "subject": "biology",
   "year": 2015,
   "number": 34,
-  "question": "The organelle responsible for",
+  "question": "Use the diagram below to answer question 33 and 34. The organelle responsible for",
   "options": {
    "A": "IV",
    "B": "I",
@@ -621,17 +640,19 @@
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2015_p34_1.png",
+  "images": [
+   "biology/2015_p34_1.png"
+  ]
  },
  {
   "id": "biology-2015-35",
   "subject": "biology",
   "year": 2015,
   "number": 35,
-  "question": "The process illustrated is",
+  "question": "Use the diagram below to answer questions 35 and 36. The process illustrated is",
   "options": {
    "A": "gametogenesis",
    "B": "sexual reproduction in Rhizopus",
@@ -652,20 +673,19 @@
   "subject": "biology",
   "year": 2015,
   "number": 36,
-  "question": "The structure labelled I is the",
+  "question": "Use the diagram below to answer questions 35 and 36. The structure labelled I is the",
   "options": {
    "A": "zygospore",
    "B": "conidiophore",
    "C": "sporangium",
-   "D": "hypha Use the diagram below to answer questions 37 and 38."
+   "D": "hypha"
   },
   "answer": "A",
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
-  "image": "biology/2015_p35_2.png",
+  "image": "biology/2015_p35_1.png",
   "images": [
-   "biology/2015_p35_2.png",
    "biology/2015_p35_1.png"
   ]
  },
@@ -674,7 +694,7 @@
   "subject": "biology",
   "year": 2015,
   "number": 37,
-  "question": "The organelle responsible for sexual reproduction is",
+  "question": "Use the diagram below to answer questions 37 and 38. The organelle responsible for sexual reproduction is",
   "options": {
    "A": "IV",
    "B": "I",
@@ -685,9 +705,30 @@
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
-  "image": "biology/2015_p35_4.png",
+  "image": "biology/2015_p35_2.png",
   "images": [
-   "biology/2015_p35_4.png"
+   "biology/2015_p35_2.png"
+  ]
+ },
+ {
+  "id": "biology-2015-38",
+  "subject": "biology",
+  "year": 2015,
+  "number": 38,
+  "question": "Use the diagram below to answer questions 37 and 38.",
+  "options": {
+   "A": "respiration",
+   "B": "ingestion",
+   "C": "locomotion",
+   "D": "osmoregulation"
+  },
+  "answer": "D",
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "biology/2015_p35_2.png",
+  "images": [
+   "biology/2015_p35_2.png"
   ]
  },
  {
@@ -695,7 +736,7 @@
   "subject": "biology",
   "year": 2015,
   "number": 39,
-  "question": "The part labelled I is the",
+  "question": "Use the diagram below to answer questions 39 and 40. The part labelled I is the",
   "options": {
    "A": "pulmonary artery",
    "B": "bicuspid valve",
@@ -704,17 +745,19 @@
   },
   "answer": "A",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2015_p35_4.png",
+  "images": [
+   "biology/2015_p35_4.png"
+  ]
  },
  {
   "id": "biology-2015-40",
   "subject": "biology",
   "year": 2015,
   "number": 40,
-  "question": "Oxygenated blood is pumped to the entire body from the part labelled",
+  "question": "Use the diagram below to answer questions 39 and 40. Oxygenated blood is pumped to the entire body from the part labelled",
   "options": {
    "A": "IV",
    "B": "I",
@@ -723,17 +766,19 @@
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2015_p35_4.png",
+  "images": [
+   "biology/2015_p35_4.png"
+  ]
  },
  {
   "id": "biology-2015-41",
   "subject": "biology",
   "year": 2015,
   "number": 41,
-  "question": "The experiment demonstrates",
+  "question": "Use the diagram below to answer questions 41 and 42. The experiment demonstrates",
   "options": {
    "A": "hydrotropism",
    "B": "phototropism",
@@ -754,20 +799,19 @@
   "subject": "biology",
   "year": 2015,
   "number": 42,
-  "question": "The part marked I will contain a high",
+  "question": "Use the diagram below to answer questions 41 and 42. The part marked I will contain a high",
   "options": {
    "A": "ethylene",
    "B": "abscisic acid",
    "C": "auxin",
-   "D": "ascorbic acid Use the diagram below to answer questions 43 and 44"
+   "D": "ascorbic acid"
   },
   "answer": "C",
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
-  "image": "biology/2015_p36_1.png",
+  "image": "biology/2015_p35_3.png",
   "images": [
-   "biology/2015_p36_1.png",
    "biology/2015_p35_3.png"
   ]
  },
@@ -776,7 +820,7 @@
   "subject": "biology",
   "year": 2015,
   "number": 43,
-  "question": "The breeding posture illustrated in the diagram is known as",
+  "question": "Use the diagram below to answer questions 43 and 44 The breeding posture illustrated in the diagram is known as",
   "options": {
    "A": "reproductive swimming",
    "B": "amplexus",
@@ -785,17 +829,19 @@
   },
   "answer": "C",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2015_p36_1.png",
+  "images": [
+   "biology/2015_p36_1.png"
+  ]
  },
  {
   "id": "biology-2015-44",
   "subject": "biology",
   "year": 2015,
   "number": 44,
-  "question": "The diagram shows that the organisms are",
+  "question": "Use the diagram below to answer questions 43 and 44 The diagram shows that the organisms are",
   "options": {
    "A": "viviparous",
    "B": "hermaphrodite",
@@ -804,10 +850,12 @@
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "biology/2015_p36_1.png",
+  "images": [
+   "biology/2015_p36_1.png"
+  ]
  },
  {
   "id": "biology-2015-45",
@@ -871,7 +919,7 @@
   "subject": "biology",
   "year": 2015,
   "number": 48,
-  "question": "The type of protective adaptation exhibited by the animal is",
+  "question": "Use the diagram below to answer questions 48 and 49. The type of protective adaptation exhibited by the animal is",
   "options": {
    "A": "flash coloration",
    "B": "countershading colouration",
@@ -892,7 +940,7 @@
   "subject": "biology",
   "year": 2015,
   "number": 49,
-  "question": "The structure labeled I is",
+  "question": "Use the diagram below to answer questions 48 and 49. The structure labeled I is",
   "options": {
    "A": "tactile",
    "B": "radiosensitive",

@@ -729,7 +729,24 @@
    "A": "reduction with carbon",
    "B": "reduction with other metals",
    "C": "reduction by electrolysis",
-   "D": "oxidation with oxidizing agent. 41 Which of the following compounds is an isomer of the compound."
+   "D": "oxidation with oxidizing agent."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1989-41",
+  "subject": "chemistry",
+  "year": 1989,
+  "number": 41,
+  "question": "41 Which of the following compounds is an isomer of the compound.",
+  "options": {
+   "A": "CH-CH₂-CH-CH₂-CH₃",
+   "B": "CH-CH₂-CH-CH₂-CH₃ CH₃ C₂H₅"
   },
   "answer": null,
   "explanation": null,

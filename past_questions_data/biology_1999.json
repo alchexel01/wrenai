@@ -99,7 +99,7 @@
   "subject": "biology",
   "year": 1999,
   "number": 7,
-  "question": "The structure labelled II is used for",
+  "question": "Use the diagram below to answer questions 7 and 8 The structure labelled II is used for",
   "options": {
    "A": "tasting",
    "B": "feeling",
@@ -120,7 +120,7 @@
   "subject": "biology",
   "year": 1999,
   "number": 8,
-  "question": "The structure labelled III represents the",
+  "question": "Use the diagram below to answer questions 7 and 8 The structure labelled III represents the",
   "options": {
    "A": "mandible",
    "B": "palp",
@@ -514,7 +514,7 @@
   "subject": "biology",
   "year": 1999,
   "number": 29,
-  "question": "The part labelled III is for",
+  "question": "Use the diagram below to answer questions 29 and 30 The part labelled III is for",
   "options": {
    "A": "protection",
    "B": "insulation",
@@ -535,7 +535,7 @@
   "subject": "biology",
   "year": 1999,
   "number": 30,
-  "question": "The structure labelled II is known as",
+  "question": "Use the diagram below to answer questions 29 and 30 The structure labelled II is known as",
   "options": {
    "A": "sweat gland",
    "B": "lymph vessel",
@@ -594,7 +594,7 @@
   "subject": "biology",
   "year": 1999,
   "number": 33,
-  "question": "The structure labelled II articulates with III to form a",
+  "question": "Use the diagram below to answer questions 33 and 34 The structure labelled II articulates with III to form a",
   "options": {
    "A": "sliding joint",
    "B": "hinge joint",
@@ -615,7 +615,7 @@
   "subject": "biology",
   "year": 1999,
   "number": 34,
-  "question": "Which of the bones is the radius?",
+  "question": "Use the diagram below to answer questions 33 and 34 Which of the bones is the radius?",
   "options": {
    "A": "I",
    "B": "II",
@@ -731,7 +731,7 @@
   "subject": "biology",
   "year": 1999,
   "number": 40,
-  "question": "Primary consumers are found in",
+  "question": "Use the diagram below to answer questions 40 and 41 Primary consumers are found in",
   "options": {
    "A": "1,2,and 3",
    "B": "1,3 and 7",
@@ -752,7 +752,7 @@
   "subject": "biology",
   "year": 1999,
   "number": 41,
-  "question": "The biomass is likely to increase in the sequence",
+  "question": "Use the diagram below to answer questions 40 and 41 The biomass is likely to increase in the sequence",
   "options": {
    "A": "1 245",
    "B": "1345",
@@ -891,8 +891,26 @@
   "options": {
    "A": "some variations are more favorable to existence in a given environment than others",
    "B": "all living organismsareconstantlyinvolved in a struggle for existence C.the size of a given population remains fairly constant",
-   "D": "new species originate through the inheritance of acquired traits.",
-   "C": "advertise the boundaries of its territory to intruders"
+   "D": "new species originate through the inheritance of acquired"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1999-49",
+  "subject": "biology",
+  "year": 1999,
+  "number": 49,
+  "question": "traits.",
+  "options": {
+   "A": "alert the poultry attendants",
+   "B": "attract cocks to come and fight the predator",
+   "C": "advertise the boundaries of its territory to intruders",
+   "D": "warn its chicksand other chickens of impending danger"
   },
   "answer": null,
   "explanation": null,

@@ -124,7 +124,26 @@
    "A": "with a high dependency ratio",
    "B": "with many young people",
    "C": "in which the number of old person is increasing",
-   "D": "that is dominated by very old people 8,. The population of Ohaha L.G.A. Was 480 000 in December 1980 out of which 60% were females . If within one years no births were recorded ,but 5% of the males died, what will be the population of the L.G.A. In December 1981?"
+   "D": "that is dominated by very old people 8,. The population of Ohaha L.G.A. Was 480 000 in"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-8",
+  "subject": "economics",
+  "year": 1995,
+  "number": 8,
+  "question": "December 1980 out of which 60% were females . If within one years no births were recorded ,but 5% of the males died, what will be the population of the L.G.A. In December 1981?",
+  "options": {
+   "A": "96000",
+   "B": "192 000",
+   "C": "288 000",
+   "D": "470 400"
   },
   "answer": null,
   "explanation": null,
@@ -657,7 +676,26 @@
    "A": "present a united front for the purpose of raising prices of crude oil",
    "B": "bring unity among the petroleum exporting states",
    "C": "ensure political stability among member states",
-   "D": "ensure that rules on quota production are strictly followed"
+   "D": "ensure that rules on quota production are"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-1995-37",
+  "subject": "economics",
+  "year": 1995,
+  "number": 37,
+  "question": "strictly followed",
+  "options": {
+   "A": "when the inflation rate is high and the economy is experience a boom",
+   "B": "of economic depression accompanied by low capacity utilization",
+   "C": "when trade unions are clamouring for higher wages",
+   "D": "when the price of crude petroleum is rising"
   },
   "answer": null,
   "explanation": null,
@@ -785,7 +823,7 @@
   "subject": "economics",
   "year": 1995,
   "number": 44,
-  "question": "The total tax revenue is represented by",
+  "question": "Use the diagram below to answer questions 44 and 45. The diagram explains the effect of government’s imposition of an indirect tax on a good characterized by zero price elasticity of demand Price (p) P₁ S₀ The total tax revenue is represented by",
   "options": {
    "A": "P₁EHP₀",
    "B": "P₀HQPO",
@@ -806,7 +844,7 @@
   "subject": "economics",
   "year": 1995,
   "number": 45,
-  "question": "The tax imposed is borne",
+  "question": "Use the diagram below to answer questions 44 and 45. The diagram explains the effect of government’s imposition of an indirect tax on a good characterized by zero price elasticity of demand Price (p) P₁ S₀ The tax imposed is borne",
   "options": {
    "A": "totally by the consumer",
    "B": "totally by the producer",

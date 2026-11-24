@@ -732,7 +732,27 @@
    "B": "N.P.C. and the N.C.N.C.",
    "C": "N.P.C. and the G.A.",
    "D": "P.R.P and the U.P.G.A",
-   "E": "N.P.C. and the N.N.A. 40 The 1953 motion that Nigeria should become indepen dent in 1956 was moved by"
+   "E": "N.P.C. and the N.N.A."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1984-40",
+  "subject": "government",
+  "year": 1984,
+  "number": 40,
+  "question": "40 The 1953 motion that Nigeria should become indepen dent in 1956 was moved by",
+  "options": {
+   "A": "Chief Anthony Enahoro",
+   "B": "Sir Ahmadu Bello",
+   "C": "Chief Obafemi Awolowo",
+   "D": "Dr. Nnamdi Azikiwe",
+   "E": "Sir James Robertson"
   },
   "answer": null,
   "explanation": null,

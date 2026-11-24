@@ -11,7 +11,7 @@
    "C": "termites",
    "D": "cockroaches"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -30,7 +30,7 @@
    "C": "cytokinin and abscisic acid",
    "D": "ethylene and gibberellins"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -49,7 +49,7 @@
    "C": "shark and remora",
    "D": "tsetse-fly and cattle"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -68,7 +68,7 @@
    "C": "monkeys, grasshopper, snail and snakes",
    "D": "lungfish, duck, butterfly and lizards"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -87,7 +87,7 @@
    "C": "skull",
    "D": "elbow"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -106,7 +106,7 @@
    "C": "contractile vacuole",
    "D": "Malpighian tubule"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -125,7 +125,7 @@
    "C": "III",
    "D": "II"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
@@ -146,7 +146,7 @@
    "C": "removing carbon (IV) oxide",
    "D": "destroying micro-organisms"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -165,7 +165,7 @@
    "C": "temperature",
    "D": "rainfall"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -184,7 +184,7 @@
    "C": "soften the leaf",
    "D": "remove the chlorophyll"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -203,7 +203,7 @@
    "C": "mutualism",
    "D": "commensalism"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -222,7 +222,7 @@
    "C": "low salinity",
    "D": "high current"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -241,7 +241,7 @@
    "C": "vibrio sp",
    "D": "salmonella typhi"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -260,7 +260,7 @@
    "C": "oxidation of carbon (IV) oxide",
    "D": "reduction of carbon (IV) oxide"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -279,7 +279,7 @@
    "C": "motor vehicle exhaust",
    "D": "cooling system"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -298,7 +298,7 @@
    "C": "hydra viridis",
    "D": "onion bulb"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -317,7 +317,7 @@
    "C": "spore formation",
    "D": "binary fission"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -336,7 +336,7 @@
    "C": "flowers have perianths",
    "D": "flowers are bisexual"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -355,7 +355,7 @@
    "C": "III",
    "D": "II"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": true,
   "options_are_images": false,
@@ -375,7 +375,7 @@
    "C": "mitosis",
    "D": "meiosis"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -394,7 +394,7 @@
    "C": "12.5",
    "D": "33.3"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -413,7 +413,7 @@
    "C": "aeration and fertility",
    "D": "acidity and aeration"
   },
-  "answer": null,
+  "answer": "C",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -432,7 +432,7 @@
    "C": "8",
    "D": "5"
   },
-  "answer": null,
+  "answer": "D",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -451,7 +451,7 @@
    "C": "Tongue rolling",
    "D": "Colour blindness"
   },
-  "answer": null,
+  "answer": "B",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -470,7 +470,7 @@
    "C": "epidermis",
    "D": "endodermis"
   },
-  "answer": null,
+  "answer": "A",
   "explanation": null,
   "has_diagram": false,
   "options_are_images": false,
@@ -505,7 +505,26 @@
    "A": "fissured bark",
    "B": "few grasses",
    "C": "tall trees",
-   "D": "long lifespan 28.A grasshopper's cuticle becomes green during the season and black after fire. The reasons for the change is ---"
+   "D": "long lifespan"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-28",
+  "subject": "biology",
+  "year": 2017,
+  "number": 28,
+  "question": "A grasshopper's cuticle becomes green during the season and black after fire. The reasons for the change is ---",
+  "options": {
+   "A": "obtain food",
+   "B": "predators",
+   "C": "secure mates",
+   "D": "escape detection"
   },
   "answer": null,
   "explanation": null,
@@ -543,7 +562,26 @@
    "A": "sandy loam",
    "B": "clay loam",
    "C": "loam",
-   "D": "sand 31.A humming bird is able to feed on nectar because its beak is"
+   "D": "sand"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-2017-31",
+  "subject": "biology",
+  "year": 2017,
+  "number": 31,
+  "question": "A humming bird is able to feed on nectar because its beak is",
+  "options": {
+   "A": "short, slender and ridged",
+   "B": "short, strong and conical",
+   "C": "long, slender and slightly curved",
+   "D": "long, wide and slightly curved Use the diagram to answer the question that follow"
   },
   "answer": null,
   "explanation": null,
@@ -714,7 +752,7 @@
    "A": "Group AB can only receive from groups A and B and not from group O",
    "B": "Group O can receive from groups A and B and from AB",
    "C": "Group B can only donate to blood group B and not to AB and O",
-   "D": "Group O can donate to groups A, B and AB but cannot receive ANSWERS 1. B 2. B 3. D 4. A 5. C 6. C 7. C 8. B 9. D 10. C 11. D 12. C 13. C 14. D 15. D 16. D 17. D 18. A 19. D 20. D 21. B 22. C 23. D 24. B 25. A"
+   "D": "Group O can donate to groups A, B and AB but cannot receive"
   },
   "answer": null,
   "explanation": null,

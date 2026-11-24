@@ -187,7 +187,27 @@
    "B": "1, 3 and 5",
    "C": "2, 3 and 5",
    "D": "3 and 4",
-   "E": "3 and 5 11 The balance equation for the reaction of tetraoxosulphate (V1) acid with aluminium hydroxide to give water and aluminium tetraoxosulphate (V1) is"
+   "E": "3 and 5"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1984-11",
+  "subject": "chemistry",
+  "year": 1984,
+  "number": 11,
+  "question": "11 The balance equation for the reaction of tetraoxosulphate (V1) acid with aluminium hydroxide to give water and aluminium tetraoxosulphate (V1) is",
+  "options": {
+   "A": "H₂SO₄ +AISO₄ 2H₂O + AISO₄",
+   "B": "HSO₄ + AIOH H₂O +AISO4",
+   "C": "3H2SO₄ +2AIH₃ 6H2OH + AI (SO₄)₃",
+   "D": "3H2SO4 + 2AI(OH)3 6H2O + AI (SO₄)₃",
+   "E": "H₂SO₄ +AI (OH)₃ H₂O +AI₂ (SO4)₃"
   },
   "answer": null,
   "explanation": null,
@@ -684,7 +704,27 @@
    "B": "N27.00",
    "C": "N44.44",
    "D": "N66.67",
-   "E": "N33.33. (Relative atomic masses: AI = 27, Mg = 24). 37, In an experiment, copper tetraoxosulphate (V1) solution was electolysed using copper electrodes, The mass of copper deposited at the cathode by the passage of 16000 coulombs of electricity is"
+   "E": "N33.33."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1984-37",
+  "subject": "chemistry",
+  "year": 1984,
+  "number": 37,
+  "question": "(Relative atomic masses: AI = 27, Mg = 24). 37, In an experiment, copper tetraoxosulphate (V1) solution was electolysed using copper electrodes, The mass of copper deposited at the cathode by the passage of 16000 coulombs of electricity is",
+  "options": {
+   "A": "16.70 g",
+   "B": "17. 60g",
+   "C": "67.10 g",
+   "D": "10. 67 g",
+   "E": "60.17 g (Relatively atomic masses: Cu = 63.5m O = 16, H = 1, S = 32)."
   },
   "answer": null,
   "explanation": null,

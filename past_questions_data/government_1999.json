@@ -885,7 +885,26 @@
    "A": "the OAU",
    "B": "The League Nations",
    "C": "The UNO",
-   "D": "The ECOWAS 50 The organ of the United Nation Organization respon sible for the former colonies of defeated world war ii powers is the"
+   "D": "The ECOWAS"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-1999-50",
+  "subject": "government",
+  "year": 1999,
+  "number": 50,
+  "question": "50 The organ of the United Nation Organization respon sible for the former colonies of defeated world war ii powers is the",
+  "options": {
+   "A": "General Assembly",
+   "B": "Security Council",
+   "C": "Economic and Social Council",
+   "D": "Trusteeship Council"
   },
   "answer": null,
   "explanation": null,

@@ -28,7 +28,26 @@
    "A": "over a wide range of temperature",
    "B": "over a narrow range of temperature",
    "C": "at a lower temperature than the impure one",
-   "D": "at the same temperature as the impure one. 3 At the same temperature and pressure, 50 cm³ of nitrogen gas contains the same number of molecules"
+   "D": "at the same temperature as the impure one."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "chemistry-1994-3",
+  "subject": "chemistry",
+  "year": 1994,
+  "number": 3,
+  "question": "3 At the same temperature and pressure, 50 cm³ of nitrogen gas contains the same number of molecules",
+  "options": {
+   "A": "25 cm³ of methane",
+   "B": "40 cm³ of hydrogen",
+   "C": "50 cm ³ of ammonia",
+   "D": "100 cm³ of chlorine"
   },
   "answer": null,
   "explanation": null,
@@ -829,7 +848,7 @@
    "A": "an alkane",
    "B": "an alkene",
    "C": "an alkyne",
-   "D": "aromatic [C= 12, H = 1] Use the diagram below to answer questions 47 and 48."
+   "D": "aromatic [C= 12, H = 1]"
   },
   "answer": null,
   "explanation": null,
@@ -843,7 +862,7 @@
   "subject": "chemistry",
   "year": 1994,
   "number": 47,
-  "question": "The reaction taking place in flask G is known as",
+  "question": "Use the diagram below to answer questions 47 and 48. The reaction taking place in flask G is known as",
   "options": {
    "A": "hydrolysis",
    "B": "double decomposition",
@@ -864,7 +883,7 @@
   "subject": "chemistry",
   "year": 1994,
   "number": 48,
-  "question": "The caustic soda solution in the conical flask serves to",
+  "question": "Use the diagram below to answer questions 47 and 48. The caustic soda solution in the conical flask serves to",
   "options": {
    "A": "dry ethene",
    "B": "remove carbon (1V) oxide from ethene",

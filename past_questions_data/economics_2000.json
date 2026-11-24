@@ -85,7 +85,7 @@
    "A": "shadow prices",
    "B": "profit level",
    "C": "relative prices",
-   "D": "a central planner. Use theinformation belowtoanswer questions 7 and 8. When commodity X sold for N25 per unit, 50 units of commodity Y were purcnased. With an increase in the price of commodity X to N5Q per unit, the demand for commodity Y fell to 2{) units. ,r"
+   "D": "a central planner."
   },
   "answer": null,
   "explanation": null,
@@ -99,7 +99,7 @@
   "subject": "economics",
   "year": 2000,
   "number": 7,
-  "question": "Determine the cross elasticity of demand.",
+  "question": "Use theinformation belowtoanswer questions 7 and 8. When commodity X sold for N25 per unit, 50 units of commodity Y were purcnased. With an increase in the price of commodity X to N5Q per unit, the demand for commodity Y fell to 2{) units. ,r Determine the cross elasticity of demand.",
   "options": {
    "A": "1.7 B.0. 6",
    "C": "-0.6",
@@ -117,7 +117,7 @@
   "subject": "economics",
   "year": 2000,
   "number": 8,
-  "question": "The two commodities can be classified as",
+  "question": "Use theinformation belowtoanswer questions 7 and 8. When commodity X sold for N25 per unit, 50 units of commodity Y were purcnased. With an increase in the price of commodity X to N5Q per unit, the demand for commodity Y fell to 2{) units. ,r The two commodities can be classified as",
   "options": {
    "A": "substitutes",
    "B": "durable and non-durable",
@@ -160,7 +160,7 @@
    "A": "UandW.",
    "B": "U and Z.",
    "C": "VandW.",
-   "D": "Y and Z. Use thediagrams below to answer questions 11 and 12. Commodity I Commodity II Price D Price D P₁ P₁ P₂ P₂ D ₂ O Q₁ Q₂ Quantity O Q₁ Q₂ Quantity"
+   "D": "Y and Z."
   },
   "answer": null,
   "explanation": null,
@@ -168,9 +168,7 @@
   "options_are_images": false,
   "image": "economics/2000_p57_1.png",
   "images": [
-   "economics/2000_p57_1.png",
-   "economics/2000_p57_3.png",
-   "economics/2000_p57_2.png"
+   "economics/2000_p57_1.png"
   ]
  },
  {
@@ -178,7 +176,7 @@
   "subject": "economics",
   "year": 2000,
   "number": 11,
-  "question": "Commodities 1 and II are in",
+  "question": "Use thediagrams below to answer questions 11 and 12. Commodity I Commodity II Price D Price D P₁ P₁ P₂ P₂ D ₂ O Q₁ Q₂ Quantity O Q₁ Q₂ Quantity Commodities 1 and II are in",
   "options": {
    "A": "competitive supply",
    "B": "joint supply",
@@ -186,17 +184,20 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2000_p57_3.png",
+  "images": [
+   "economics/2000_p57_3.png",
+   "economics/2000_p57_2.png"
+  ]
  },
  {
   "id": "economics-2000-12",
   "subject": "economics",
   "year": 2000,
   "number": 12,
-  "question": "The supply of commodity II increasing from S₁S₁ to S₂S₂",
+  "question": "Use thediagrams below to answer questions 11 and 12. Commodity I Commodity II Price D Price D P₁ P₁ P₂ P₂ D ₂ O Q₁ Q₂ Quantity O Q₁ Q₂ Quantity The supply of commodity II increasing from S₁S₁ to S₂S₂",
   "options": {
    "A": "leads to a fall in price from OP₁ to OP₂",
    "B": "moves the pricebelow OP₂",
@@ -205,10 +206,13 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2000_p57_3.png",
+  "images": [
+   "economics/2000_p57_3.png",
+   "economics/2000_p57_2.png"
+  ]
  },
  {
   "id": "economics-2000-13",
@@ -235,7 +239,23 @@
   "options": {
    "A": "MC = AR = TRB. TC=AR=P",
    "C": "MC=AR=P",
-   "D": "MC=AR=TC I5. External diseconomies of scale result from excessive growth of",
+   "D": "MC=AR=TC"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "economics-2000-15",
+  "subject": "economics",
+  "year": 2000,
+  "number": 15,
+  "question": "I5. External diseconomies of scale result from excessive growth of",
+  "options": {
+   "A": "the whole industry",
    "B": "some sectors of the industry C. external factors D. internal factors."
   },
   "answer": null,
@@ -250,7 +270,7 @@
   "subject": "economics",
   "year": 2000,
   "number": 16,
-  "question": "The marginal product X is",
+  "question": "Use the table below to answer questions 16 and 17. The marginal product X is",
   "options": {
    "A": "18",
    "B": "20",
@@ -271,7 +291,7 @@
   "subject": "economics",
   "year": 2000,
   "number": 17,
-  "question": "The average product Y is",
+  "question": "Use the table below to answer questions 16 and 17. The average product Y is",
   "options": {
    "A": "8.0",
    "B": "12.0",

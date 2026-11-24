@@ -24,7 +24,7 @@
   "subject": "biology",
   "year": 1983,
   "number": 2,
-  "question": "Which of the following features can be used to identify Fig 1?",
+  "question": "answer questions 2-4 Fig 1 represents a cross-section of a part of a dicot plant. Which of the following features can be used to identify Fig 1?",
   "options": {
    "A": "Position of 7",
    "B": "Its circular nature",
@@ -46,7 +46,7 @@
   "subject": "biology",
   "year": 1983,
   "number": 3,
-  "question": "The main function of 6 is to",
+  "question": "answer questions 2-4 Fig 1 represents a cross-section of a part of a dicot plant. The main function of 6 is to",
   "options": {
    "A": "separate 5 from 7",
    "B": "produce more of 5 and 7.",
@@ -68,7 +68,7 @@
   "subject": "biology",
   "year": 1983,
   "number": 4,
-  "question": "The main function of 4 is to",
+  "question": "answer questions 2-4 Fig 1 represents a cross-section of a part of a dicot plant. The main function of 4 is to",
   "options": {
    "A": "surround the inner tissues",
    "B": "produce cork",
@@ -157,6 +157,26 @@
    "C": "reproduce by binary fission",
    "D": "become more turgid.",
    "E": "die due to excess water."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-9",
+  "subject": "biology",
+  "year": 1983,
+  "number": 9,
+  "question": "",
+  "options": {
+   "A": "a protein",
+   "B": "a carbohydrate,",
+   "C": "a fat",
+   "D": "a fatty acid and glycerol",
+   "E": "an amino acid."
   },
   "answer": null,
   "explanation": null,
@@ -712,7 +732,24 @@
   "options": {
    "A": "Thermometer",
    "B": "Secchi Disc",
-   "C": "Rain gauge monocot plants?",
+   "C": "Rain gauge"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "biology-1983-41",
+  "subject": "biology",
+  "year": 1983,
+  "number": 41,
+  "question": "monocot plants?",
+  "options": {
+   "A": "occurrence of secondary thickening",
+   "B": "Parallel venation C. Scattered vascular bundles",
    "D": "Floral parts arranged in threes,",
    "E": "Periath is usually insignifdicant"
   },

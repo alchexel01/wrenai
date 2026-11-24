@@ -120,7 +120,26 @@
    "A": "6%",
    "B": "8%",
    "C": "10%",
-   "D": "12% 9 If U = {S,P,L,E,N,D,O,U,R} X = {S,P,E,N,D} Y = {P,N,O,U,R} Find X(Y’UZ)."
+   "D": "12% 9 If U = {S,P,L,E,N,D,O,U,R}"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-9",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 9,
+  "question": "X = {S,P,E,N,D} Y = {P,N,O,U,R} Find X(Y’UZ).",
+  "options": {
+   "A": "{P,O,U,R}",
+   "B": "{S,P,D,R}",
+   "C": "{P,N,D}",
+   "D": "{N,D,U}"
   },
   "answer": null,
   "explanation": null,
@@ -784,7 +803,26 @@
    "A": "20",
    "B": "25",
    "C": "30",
-   "D": "35 46 The following are the scores of ten students in a test of 20 marks; 15,16,17,13,16,8,5,16,19,17. what is the modal score?"
+   "D": "35"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "mathematics-1997-46",
+  "subject": "mathematics",
+  "year": 1997,
+  "number": 46,
+  "question": "46 The following are the scores of ten students in a test of 20 marks; 15,16,17,13,16,8,5,16,19,17. what is the modal score?",
+  "options": {
+   "A": "13",
+   "B": "15",
+   "C": "16",
+   "D": "19"
   },
   "answer": null,
   "explanation": null,

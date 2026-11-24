@@ -456,7 +456,26 @@
    "A": "president",
    "B": "ministryof finance",
    "C": "judiciary",
-   "D": "legislature. 26 The 1979 Constitution established the"
+   "D": "legislature."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-26",
+  "subject": "government",
+  "year": 2003,
+  "number": 26,
+  "question": "26 The 1979 Constitution established the",
+  "options": {
+   "A": "Federal Civil Defence Corps",
+   "B": "National Human Right Commission",
+   "C": "Federal Road Safety Commission",
+   "D": "National Population Commission"
   },
   "answer": null,
   "explanation": null,
@@ -720,8 +739,26 @@
   "options": {
    "A": "financial contribution",
    "B": "military strength . C successes in UN elective offices",
-   "D": "contribution to global peace 41 Nigeria’s Non-Alignment policy is constrained by her",
-   "C": "members of ECOWAS"
+   "D": "contribution to global peace"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "government-2003-41",
+  "subject": "government",
+  "year": 2003,
+  "number": 41,
+  "question": "41 Nigeria’s Non-Alignment policy is constrained by her",
+  "options": {
+   "A": "membership of the UNO",
+   "B": "Afrocentric posture",
+   "C": "members of ECOWAS",
+   "D": "strong ties with Western powers"
   },
   "answer": null,
   "explanation": null,

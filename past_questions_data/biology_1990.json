@@ -112,7 +112,7 @@
   "subject": "biology",
   "year": 1990,
   "number": 8,
-  "question": "The part labelled 3 is the",
+  "question": "Use the figure below to answer questions 8 and 9 The part labelled 3 is the",
   "options": {
    "A": "leafscar",
    "B": "lenticel",
@@ -133,7 +133,7 @@
   "subject": "biology",
   "year": 1990,
   "number": 9,
-  "question": "Which part of the twig produces auxins?",
+  "question": "Use the figure below to answer questions 8 and 9 Which part of the twig produces auxins?",
   "options": {
    "A": "4",
    "B": "3",
@@ -467,7 +467,7 @@
   "subject": "biology",
   "year": 1990,
   "number": 27,
-  "question": "Which structure is the glomerulus?",
+  "question": "Use the figure below to answer questions 27 and 28. Which structure is the glomerulus?",
   "options": {
    "A": "5 B.3",
    "C": "2 D.1."
@@ -486,7 +486,7 @@
   "subject": "biology",
   "year": 1990,
   "number": 28,
-  "question": "If the blood is tooconcentrated, more water is absorbed from",
+  "question": "Use the figure below to answer questions 27 and 28. If the blood is tooconcentrated, more water is absorbed from",
   "options": {
    "A": "5",
    "B": "4",
@@ -758,7 +758,7 @@
   "subject": "biology",
   "year": 1990,
   "number": 42,
-  "question": "Which organism is an omnivore?",
+  "question": "Use the figure below to answer questions 42 and 43. Which organism is an omnivore?",
   "options": {
    "A": "Praying mantis",
    "B": "Hawk",
@@ -779,7 +779,7 @@
   "subject": "biology",
   "year": 1990,
   "number": 43,
-  "question": "Which of the organims will have the lowest population in an ecosystem?",
+  "question": "Use the figure below to answer questions 42 and 43. Which of the organims will have the lowest population in an ecosystem?",
   "options": {
    "A": "Hawk.",
    "B": "Cowpea",

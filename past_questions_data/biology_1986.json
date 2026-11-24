@@ -500,6 +500,22 @@
   "images": []
  },
  {
+  "id": "biology-1986-29",
+  "subject": "biology",
+  "year": 1986,
+  "number": 29,
+  "question": "",
+  "options": {
+   "A": "keep moving so that the venom will ooze out with bleeding B. wash the wound with water containing antiseptic C. bandage the wound so that germs do not get in through it D. keep still and apply a tourniquet above the wound."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
   "id": "biology-1986-30",
   "subject": "biology",
   "year": 1986,
@@ -580,7 +596,7 @@
   "subject": "biology",
   "year": 1986,
   "number": 34,
-  "question": "Which of the labelled parts will develop into a new maize plant?",
+  "question": "Use the figure below to answer questions 34 to 36 Vertical section of a maize grain Which of the labelled parts will develop into a new maize plant?",
   "options": {
    "A": "2",
    "B": "3",
@@ -601,7 +617,7 @@
   "subject": "biology",
   "year": 1986,
   "number": 35,
-  "question": "The structure labelled 1 is the",
+  "question": "Use the figure below to answer questions 34 to 36 Vertical section of a maize grain The structure labelled 1 is the",
   "options": {
    "A": "plumule",
    "B": "radicle",
@@ -622,7 +638,7 @@
   "subject": "biology",
   "year": 1986,
   "number": 36,
-  "question": "The main function of the structure labelled 2 is to",
+  "question": "Use the figure below to answer questions 34 to 36 Vertical section of a maize grain The main function of the structure labelled 2 is to",
   "options": {
    "A": "protect the inner parts of the seed",
    "B": "nourish the embryo and the growing parts",
