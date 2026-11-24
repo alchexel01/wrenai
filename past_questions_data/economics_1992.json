@@ -142,16 +142,14 @@
    "A": "Labour-intensive",
    "B": "Capital-intensive",
    "C": "Fixed",
-   "D": "Technology-intensive Use the following production and cost data of a profit-maximizing firm to answer questions 11 and 12"
+   "D": "Technology-intensive"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/1992_p33_1.png",
-  "images": [
-   "economics/1992_p33_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-1992-11",
@@ -167,10 +165,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1992_p33_1.png",
+  "images": [
+   "economics/1992_p33_1.png"
+  ]
  },
  {
   "id": "economics-1992-13",

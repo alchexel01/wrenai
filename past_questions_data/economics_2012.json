@@ -221,16 +221,14 @@
    "A": "stops consuming more of the commodity",
    "B": "reduces the quantity consumed",
    "C": "increases the quantity consumed",
-   "D": "consumes more of another commodity Use the diagram below to answer question 13 and 14"
+   "D": "consumes more of another commodity"
   },
   "answer": "C",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/2012_p14_1.png",
-  "images": [
-   "economics/2012_p14_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-2012-13",
@@ -246,10 +244,12 @@
   },
   "answer": "A",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2012_p14_1.png",
+  "images": [
+   "economics/2012_p14_1.png"
+  ]
  },
  {
   "id": "economics-2012-14",
@@ -265,10 +265,12 @@
   },
   "answer": "C",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2012_p14_1.png",
+  "images": [
+   "economics/2012_p14_1.png"
+  ]
  },
  {
   "id": "economics-2012-15",

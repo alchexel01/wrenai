@@ -215,16 +215,14 @@
    "A": "quick ratio",
    "B": "liquidity ratiio",
    "C": "working capital",
-   "D": "circulating capital Use the balance sheet below to answer questions 13 and 14. Mama Trading Company"
+   "D": "circulating capital"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "commerce/2001_p19_1.png",
-  "images": [
-   "commerce/2001_p19_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "commerce-2001-13",
@@ -240,10 +238,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "commerce/2001_p19_1.png",
+  "images": [
+   "commerce/2001_p19_1.png"
+  ]
  },
  {
   "id": "commerce-2001-14",
@@ -259,10 +259,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "commerce/2001_p19_1.png",
+  "images": [
+   "commerce/2001_p19_1.png"
+  ]
  },
  {
   "id": "commerce-2001-15",

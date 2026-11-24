@@ -215,16 +215,14 @@
    "A": "pre emptive right",
    "B": "shareholders right",
    "C": "ex-dividend right",
-   "D": "oversubscription right. Use the information below to answer questions 13 and 14 SONU Enterprises Balances Sheet as at 31/3/98 N N"
+   "D": "oversubscription right."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "commerce/1998_p10_1.png",
-  "images": [
-   "commerce/1998_p10_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "commerce-1998-13",
@@ -240,10 +238,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "commerce/1998_p10_1.png",
+  "images": [
+   "commerce/1998_p10_1.png"
+  ]
  },
  {
   "id": "commerce-1998-15",

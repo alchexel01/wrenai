@@ -23,16 +23,14 @@
    "A": "72.0g,",
    "B": "36.0g,",
    "C": "16.0g,",
-   "D": "8.0g Use the graph below to answer questions 3 and 4"
+   "D": "8.0g"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "chemistry/2001_p61_1.png",
-  "images": [
-   "chemistry/2001_p61_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "chemistry-2001-3",
@@ -48,10 +46,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "chemistry/2001_p61_1.png",
+  "images": [
+   "chemistry/2001_p61_1.png"
+  ]
  },
  {
   "id": "chemistry-2001-4",
@@ -67,10 +67,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "chemistry/2001_p61_1.png",
+  "images": [
+   "chemistry/2001_p61_1.png"
+  ]
  },
  {
   "id": "chemistry-2001-5",

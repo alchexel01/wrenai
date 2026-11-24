@@ -237,16 +237,14 @@
    "A": "volume of trade between countries",
    "B": "direction of international trade",
    "C": "commodity terms of trade",
-   "D": "volume of imports. Use the table below to answer question 14."
+   "D": "volume of imports."
   },
   "answer": "C",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/2018_p47_1.png",
-  "images": [
-   "economics/2018_p47_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-2018-14",
@@ -262,10 +260,12 @@
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2018_p47_1.png",
+  "images": [
+   "economics/2018_p47_1.png"
+  ]
  },
  {
   "id": "economics-2018-15",
@@ -391,16 +391,14 @@
    "A": "50,000 people per square kilometre",
    "B": "0.2 million people per square kilometre",
    "C": "0.5 million people per square kilometre",
-   "D": "20 million people per square kilometre Use the table below to answer question 22 and 23."
+   "D": "20 million people per square kilometre"
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/2018_p48_1.png",
-  "images": [
-   "economics/2018_p48_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-2018-22",
@@ -416,10 +414,12 @@
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2018_p48_1.png",
+  "images": [
+   "economics/2018_p48_1.png"
+  ]
  },
  {
   "id": "economics-2018-23",
@@ -435,10 +435,12 @@
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2018_p48_1.png",
+  "images": [
+   "economics/2018_p48_1.png"
+  ]
  },
  {
   "id": "economics-2018-24",
@@ -450,16 +452,14 @@
    "A": "limited while means are scarce",
    "B": "unlimited and means are also unlimited",
    "C": "limited and means are also limited",
-   "D": "unlimited while means are scarce. A country's budget allocation to various sectors of the economy is shown in the pia chart below. Use it to answer question 25 and 26"
+   "D": "unlimited while means are scarce. A country's budget allocation to various sectors of the economy is shown in the pia chart below."
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/2018_p49_1.png",
-  "images": [
-   "economics/2018_p49_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-2018-25",
@@ -475,10 +475,12 @@
   },
   "answer": "A",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2018_p49_1.png",
+  "images": [
+   "economics/2018_p49_1.png"
+  ]
  },
  {
   "id": "economics-2018-26",
@@ -494,10 +496,12 @@
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2018_p49_1.png",
+  "images": [
+   "economics/2018_p49_1.png"
+  ]
  },
  {
   "id": "economics-2018-27",
@@ -644,16 +648,14 @@
    "A": "UNO",
    "B": "ECOWAS",
    "C": "OAU",
-   "D": "IMF Use the histogram below to answer question 36 and 37."
+   "D": "IMF"
   },
   "answer": "A",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/2018_p50_1.png",
-  "images": [
-   "economics/2018_p50_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-2018-36",
@@ -669,10 +671,12 @@
   },
   "answer": "A",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2018_p50_1.png",
+  "images": [
+   "economics/2018_p50_1.png"
+  ]
  },
  {
   "id": "economics-2018-37",
@@ -688,10 +692,12 @@
   },
   "answer": "A",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2018_p50_1.png",
+  "images": [
+   "economics/2018_p50_1.png"
+  ]
  },
  {
   "id": "economics-2018-38",

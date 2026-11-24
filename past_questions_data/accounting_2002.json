@@ -250,16 +250,14 @@
    "A": "Narration",
    "B": "Summary",
    "C": "Inforrnation",
-   "D": "Commentary Use the information below to answer questions 15 and 16. Erero’s Trading Account for the month ended 31/05/2001. Openin Purcha Less re less clo Cost o Gross p The gross profit ratio for the company is 25%."
+   "D": "Commentary"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "accounting/2002_p28_1.png",
-  "images": [
-   "accounting/2002_p28_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "accounting-2002-15",
@@ -275,10 +273,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/2002_p28_1.png",
+  "images": [
+   "accounting/2002_p28_1.png"
+  ]
  },
  {
   "id": "accounting-2002-16",
@@ -294,10 +294,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/2002_p28_1.png",
+  "images": [
+   "accounting/2002_p28_1.png"
+  ]
  },
  {
   "id": "accounting-2002-17",
@@ -423,16 +425,14 @@
    "A": "N12 per hour",
    "B": "N16 per hour",
    "C": "N10 per hour",
-   "D": "N15 per hour Use the information below to answer questions 24 and 25. Receipts and Payments Account [Extract] N N Subscriptions received are always put at 125% of the total donations received and refreshment sales."
+   "D": "N15 per hour"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "accounting/2002_p28_2.png",
-  "images": [
-   "accounting/2002_p28_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "accounting-2002-24",
@@ -448,10 +448,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/2002_p28_2.png",
+  "images": [
+   "accounting/2002_p28_2.png"
+  ]
  },
  {
   "id": "accounting-2002-25",
@@ -463,7 +465,7 @@
    "A": "N30,000",
    "B": "N28,000",
    "C": "N24,000",
-   "D": "N20,000 Use the information below to answer questions 26 and 27 Total Dept. P Dept. Q N N N Sales 1 0,000 6,000 4,000 Purchases 4,000 1,000 3,000 Discount received 1,000 ? Discounts allowed 2,000 ? Discount (allowed and received) are apportioned to the two de- partments on the basis of departmental sales and purchases."
+   "D": "N20,000"
   },
   "answer": null,
   "explanation": null,
@@ -486,10 +488,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/2002_p28_2.png",
+  "images": [
+   "accounting/2002_p28_2.png"
+  ]
  },
  {
   "id": "accounting-2002-27",
@@ -509,7 +513,8 @@
   "options_are_images": false,
   "image": "accounting/2002_p29_1.png",
   "images": [
-   "accounting/2002_p29_1.png"
+   "accounting/2002_p29_1.png",
+   "accounting/2002_p28_2.png"
   ]
  },
  {

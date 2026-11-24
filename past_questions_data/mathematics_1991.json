@@ -629,16 +629,14 @@
    "A": "118⁰",
    "B": "72⁰",
    "C": "62⁰",
-   "D": "36⁰ use the figure below to answer questions 35 and 36 PMN and PQR are two secants of the circle MQTRN and PT is a tangent"
+   "D": "36⁰"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "mathematics/1991_p29_2.png",
-  "images": [
-   "mathematics/1991_p29_2.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "mathematics-1991-35",
@@ -654,10 +652,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "mathematics/1991_p29_2.png",
+  "images": [
+   "mathematics/1991_p29_2.png"
+  ]
  },
  {
   "id": "mathematics-1991-37",
@@ -860,16 +860,14 @@
    "A": "76.8⁰ and 25.2⁰",
    "B": "10.8⁰ and 224.6⁰",
    "C": "112.4⁰ and 72.0⁰",
-   "D": "39.6⁰ and 212.4⁰ Use the following information to answer question 48 and 49. Fifty boxes each of 50balls were inspected for the number which were defective. The following was the result"
+   "D": "39.6⁰ and 212.4⁰"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "mathematics/1991_p30_3.png",
-  "images": [
-   "mathematics/1991_p30_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "mathematics-1991-48",
@@ -885,10 +883,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "mathematics/1991_p30_3.png",
+  "images": [
+   "mathematics/1991_p30_3.png"
+  ]
  },
  {
   "id": "mathematics-1991-49",
@@ -904,10 +904,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "mathematics/1991_p30_3.png",
+  "images": [
+   "mathematics/1991_p30_3.png"
+  ]
  },
  {
   "id": "mathematics-1991-50",

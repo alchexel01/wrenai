@@ -841,16 +841,14 @@
    "A": "1.2",
    "B": "1.4",
    "C": "2.0",
-   "D": "3.0 Use the table below to answer questions 47 and 48"
+   "D": "3.0"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "mathematics/1995_p43_4.png",
-  "images": [
-   "mathematics/1995_p43_4.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "mathematics-1995-47",
@@ -866,10 +864,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "mathematics/1995_p43_4.png",
+  "images": [
+   "mathematics/1995_p43_4.png"
+  ]
  },
  {
   "id": "mathematics-1995-48",
@@ -885,10 +885,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "mathematics/1995_p43_4.png",
+  "images": [
+   "mathematics/1995_p43_4.png"
+  ]
  },
  {
   "id": "mathematics-1995-49",

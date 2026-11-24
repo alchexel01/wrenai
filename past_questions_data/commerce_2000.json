@@ -85,16 +85,14 @@
    "A": "communication, advertising and banking",
    "B": "Trading. Warehousing and production",
    "C": "Banking, insurance and transportation",
-   "D": "Management, insurance and advertising Use the information below to answer questions 6 and 7 Amina Enterprises Balance Sheet as at 30/3/99"
+   "D": "Management, insurance and advertising"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "commerce/2000_p15_1.png",
-  "images": [
-   "commerce/2000_p15_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "commerce-2000-6",
@@ -110,10 +108,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "commerce/2000_p15_1.png",
+  "images": [
+   "commerce/2000_p15_1.png"
+  ]
  },
  {
   "id": "commerce-2000-7",
@@ -129,10 +129,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "commerce/2000_p15_1.png",
+  "images": [
+   "commerce/2000_p15_1.png"
+  ]
  },
  {
   "id": "commerce-2000-8",

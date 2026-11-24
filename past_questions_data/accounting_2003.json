@@ -344,16 +344,14 @@
    "A": "N4. 25",
    "B": "N3. 25",
    "C": "N2. 25",
-   "D": "N1. 25 Use the information below to answer questions 20 and 21. Purchases ledger control account Balance b/d 2,900 Credit purchases ? Bills payable dishonoured 1,600 Dishonoured Cheques 2,000 Credit purchases are always put at 150% of the total cash paid to suppliers"
+   "D": "N1. 25"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "accounting/2003_p32_1.png",
-  "images": [
-   "accounting/2003_p32_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "accounting-2003-20",
@@ -369,10 +367,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/2003_p32_1.png",
+  "images": [
+   "accounting/2003_p32_1.png"
+  ]
  },
  {
   "id": "accounting-2003-21",
@@ -388,10 +388,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/2003_p32_1.png",
+  "images": [
+   "accounting/2003_p32_1.png"
+  ]
  },
  {
   "id": "accounting-2003-22",

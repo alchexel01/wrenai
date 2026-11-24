@@ -771,16 +771,14 @@
    "A": "marginal changes in prices",
    "B": "consumer price index",
    "C": "prices of imported and exported commodities",
-   "D": "producer price index Use the diagram below to answer questions 44 and 45. The diagram explains the effect of government’s imposition of an indirect tax on a good characterized by zero price elasticity of demand Price (p) P₁ S₀"
+   "D": "producer price index"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/1995_p45_1.png",
-  "images": [
-   "economics/1995_p45_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-1995-44",
@@ -796,10 +794,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1995_p45_1.png",
+  "images": [
+   "economics/1995_p45_1.png"
+  ]
  },
  {
   "id": "economics-1995-45",
@@ -815,10 +815,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1995_p45_1.png",
+  "images": [
+   "economics/1995_p45_1.png"
+  ]
  },
  {
   "id": "economics-1995-46",

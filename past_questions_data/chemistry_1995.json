@@ -140,16 +140,14 @@
    "A": "¹⁶₈ O",
    "B": "¹⁷₈ O⁺",
    "C": "¹⁷ O⁺",
-   "D": "¹⁷ O. ⁹ ⁸ Use the section of the periodic table below to answer questions 9 and 10."
+   "D": "¹⁷ O. ⁹ ⁸"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "chemistry/1995_p44_1.png",
-  "images": [
-   "chemistry/1995_p44_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "chemistry-1995-9",
@@ -166,10 +164,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "chemistry/1995_p44_1.png",
+  "images": [
+   "chemistry/1995_p44_1.png"
+  ]
  },
  {
   "id": "chemistry-1995-10",
@@ -185,10 +185,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "chemistry/1995_p44_1.png",
+  "images": [
+   "chemistry/1995_p44_1.png"
+  ]
  },
  {
   "id": "chemistry-1995-11",

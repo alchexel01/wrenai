@@ -407,16 +407,14 @@
    "A": "a - b",
    "B": "2a + 7b 2a + b a - b",
    "C": "2a - 7b",
-   "D": "2a - 7b a + b a - b Using the graph to answer questions 25 and 26"
+   "D": "2a - 7b a + b a - b Using the graph to"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "mathematics/1988_p20_1.png",
-  "images": [
-   "mathematics/1988_p20_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "mathematics-1988-25",
@@ -432,10 +430,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "mathematics/1988_p20_1.png",
+  "images": [
+   "mathematics/1988_p20_1.png"
+  ]
  },
  {
   "id": "mathematics-1988-26",
@@ -451,10 +451,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "mathematics/1988_p20_1.png",
+  "images": [
+   "mathematics/1988_p20_1.png"
+  ]
  },
  {
   "id": "mathematics-1988-27",

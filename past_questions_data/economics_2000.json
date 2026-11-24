@@ -236,16 +236,14 @@
    "A": "MC = AR = TRB. TC=AR=P",
    "C": "MC=AR=P",
    "D": "MC=AR=TC I5. External diseconomies of scale result from excessive growth of",
-   "B": "some sectors of the industry C. external factors D. internal factors. Use the table below to answer questions 16 and 17."
+   "B": "some sectors of the industry C. external factors D. internal factors."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/2000_p57_4.png",
-  "images": [
-   "economics/2000_p57_4.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-2000-16",
@@ -261,10 +259,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2000_p57_4.png",
+  "images": [
+   "economics/2000_p57_4.png"
+  ]
  },
  {
   "id": "economics-2000-17",
@@ -280,10 +280,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2000_p57_4.png",
+  "images": [
+   "economics/2000_p57_4.png"
+  ]
  },
  {
   "id": "economics-2000-18",

@@ -805,16 +805,14 @@
    "A": "make profit",
    "B": "satisfy basic human wants",
    "C": "redistribute wealth",
-   "D": "put inputs into use Use the table below to answer question 44 and 45."
+   "D": "put inputs into"
   },
   "answer": "C",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/2010_p5_1.png",
-  "images": [
-   "economics/2010_p5_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-2010-44",
@@ -830,10 +828,12 @@
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2010_p5_1.png",
+  "images": [
+   "economics/2010_p5_1.png"
+  ]
  },
  {
   "id": "economics-2010-45",
@@ -848,10 +848,12 @@
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2010_p5_1.png",
+  "images": [
+   "economics/2010_p5_1.png"
+  ]
  },
  {
   "id": "economics-2010-46",

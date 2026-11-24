@@ -196,16 +196,14 @@
   "options": {
    "A": "Chlorination B Passage over activated charcoal",
    "C": "the use of an ion exchange resin",
-   "D": "aeration Use the table below to answer question 13 and 14"
+   "D": "aeration"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "chemistry/1999_p55_1.png",
-  "images": [
-   "chemistry/1999_p55_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "chemistry-1999-13",
@@ -221,10 +219,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "chemistry/1999_p55_1.png",
+  "images": [
+   "chemistry/1999_p55_1.png"
+  ]
  },
  {
   "id": "chemistry-1999-14",
@@ -240,10 +240,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "chemistry/1999_p55_1.png",
+  "images": [
+   "chemistry/1999_p55_1.png"
+  ]
  },
  {
   "id": "chemistry-1999-15",

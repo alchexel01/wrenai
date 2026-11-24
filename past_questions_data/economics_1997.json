@@ -159,16 +159,14 @@
    "A": "Overhead cost",
    "B": "Fixed cost",
    "C": "Marginal cost",
-   "D": "Average variable cost Use the diagram below to answer question 11 and 12 Consumer goods Capital goods The current stage of the economy is depicted in curve I"
+   "D": "Average variable cost"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/1997_p47_1.png",
-  "images": [
-   "economics/1997_p47_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-1997-11",
@@ -184,10 +182,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1997_p47_1.png",
+  "images": [
+   "economics/1997_p47_1.png"
+  ]
  },
  {
   "id": "economics-1997-12",
@@ -203,10 +203,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1997_p47_1.png",
+  "images": [
+   "economics/1997_p47_1.png"
+  ]
  },
  {
   "id": "economics-1997-13",

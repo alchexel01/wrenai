@@ -606,16 +606,14 @@
    "A": "conglomerate merger",
    "B": "horizontal merger",
    "C": "lateral merger",
-   "D": "vertical merger. Use the diagram below to answer questions 34 and 35."
+   "D": "vertical merger."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "commerce/2004_p28_1.png",
-  "images": [
-   "commerce/2004_p28_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "commerce-2004-34",
@@ -631,10 +629,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "commerce/2004_p28_1.png",
+  "images": [
+   "commerce/2004_p28_1.png"
+  ]
  },
  {
   "id": "commerce-2004-35",
@@ -650,10 +650,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "commerce/2004_p28_1.png",
+  "images": [
+   "commerce/2004_p28_1.png"
+  ]
  },
  {
   "id": "commerce-2004-36",

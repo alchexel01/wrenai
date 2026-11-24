@@ -395,16 +395,14 @@
    "A": "few sellers",
    "B": "few buyers",
    "C": "many sellers",
-   "D": "a single seller Use the diagram below to answer question 23 and 24"
+   "D": "a single seller"
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/2011_p9_1.png",
-  "images": [
-   "economics/2011_p9_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-2011-23",
@@ -420,10 +418,12 @@
   },
   "answer": "D",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2011_p9_1.png",
+  "images": [
+   "economics/2011_p9_1.png"
+  ]
  },
  {
   "id": "economics-2011-24",
@@ -439,10 +439,12 @@
   },
   "answer": "B",
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/2011_p9_1.png",
+  "images": [
+   "economics/2011_p9_1.png"
+  ]
  },
  {
   "id": "economics-2011-25",

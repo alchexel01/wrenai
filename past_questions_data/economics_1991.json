@@ -214,16 +214,14 @@
    "A": "The quantity purchased is greater than the quantity sold",
    "B": "The quantity sold differs from the quantity purchased",
    "C": "At a lower price, a larger quantity is sold",
-   "D": "The quantity demanded differs from the quantity supplied Use the diagram below to answer questions 13 and 14, MC AC MR = AR = AR = P iₚr X Y Z Quantity"
+   "D": "The quantity demanded differs from the quantity supplied"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/1991_p30_1.png",
-  "images": [
-   "economics/1991_p30_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-1991-13",
@@ -239,10 +237,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1991_p30_1.png",
+  "images": [
+   "economics/1991_p30_1.png"
+  ]
  },
  {
   "id": "economics-1991-14",
@@ -258,10 +258,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1991_p30_1.png",
+  "images": [
+   "economics/1991_p30_1.png"
+  ]
  },
  {
   "id": "economics-1991-15",
@@ -351,16 +353,14 @@
    "A": "Marginal cost is minimum",
    "B": "Average cost is minimum",
    "C": "Total revenue is maximum",
-   "D": "Marginal revenue is maximum Use the diagram below to answer questions 20 to 22"
+   "D": "Marginal revenue is maximum"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/1991_p30_3.png",
-  "images": [
-   "economics/1991_p30_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-1991-20",
@@ -376,10 +376,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1991_p30_3.png",
+  "images": [
+   "economics/1991_p30_3.png"
+  ]
  },
  {
   "id": "economics-1991-21",
@@ -395,10 +397,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1991_p30_3.png",
+  "images": [
+   "economics/1991_p30_3.png"
+  ]
  },
  {
   "id": "economics-1991-22",
@@ -414,10 +418,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1991_p30_3.png",
+  "images": [
+   "economics/1991_p30_3.png"
+  ]
  },
  {
   "id": "economics-1991-23",

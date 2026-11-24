@@ -653,16 +653,14 @@
    "A": "N583",
    "B": "N1,000",
    "C": "N1,167",
-   "D": "N1,750 Use the table below to answer questions 37 and 38 Partners Current Account The current account above for Musa, Kalu and Lawal has some errors in the arrangement of accounts."
+   "D": "N1,750"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "accounting/1997_p11_3.png",
-  "images": [
-   "accounting/1997_p11_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "accounting-1997-37",
@@ -678,10 +676,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/1997_p11_3.png",
+  "images": [
+   "accounting/1997_p11_3.png"
+  ]
  },
  {
   "id": "accounting-1997-38",
@@ -697,10 +697,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/1997_p11_3.png",
+  "images": [
+   "accounting/1997_p11_3.png"
+  ]
  },
  {
   "id": "accounting-1997-40",

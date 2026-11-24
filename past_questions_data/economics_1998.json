@@ -89,16 +89,14 @@
    "A": "A = D and X > m",
    "B": "B-D =O and M >X",
    "C": "D -B =O and m = x",
-   "D": "X > M and D > B Use the table below to answer question 6 and 7 .Population Statistics of a Country"
+   "D": "X > M and D > B"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/1998_p50_1.png",
-  "images": [
-   "economics/1998_p50_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-1998-6",
@@ -114,10 +112,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1998_p50_1.png",
+  "images": [
+   "economics/1998_p50_1.png"
+  ]
  },
  {
   "id": "economics-1998-7",
@@ -133,10 +133,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1998_p50_1.png",
+  "images": [
+   "economics/1998_p50_1.png"
+  ]
  },
  {
   "id": "economics-1998-8",

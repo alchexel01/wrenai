@@ -198,16 +198,14 @@
    "A": "Government financial grants",
    "B": "Advances and loans from banks.",
    "C": "Internally generated funds.",
-   "D": "Funds from the sale of shares. Use the document below to answer questions 12 and 13."
+   "D": "Funds from the sale of shares."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "commerce/1999_p13_1.png",
-  "images": [
-   "commerce/1999_p13_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "commerce-1999-12",
@@ -223,10 +221,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "commerce/1999_p13_1.png",
+  "images": [
+   "commerce/1999_p13_1.png"
+  ]
  },
  {
   "id": "commerce-1999-13",
@@ -242,10 +242,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "commerce/1999_p13_1.png",
+  "images": [
+   "commerce/1999_p13_1.png"
+  ]
  },
  {
   "id": "commerce-1999-14",

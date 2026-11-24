@@ -289,16 +289,14 @@
    "A": "Bad debt",
    "B": "Trade discount",
    "C": "Premium",
-   "D": "Cash discount. Use the information below to answer questions 17 and 18. Stock Control Account [Extract] as at January, 2000"
+   "D": "Cash discount."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "accounting/2001_p24_1.png",
-  "images": [
-   "accounting/2001_p24_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "accounting-2001-17",
@@ -314,10 +312,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/2001_p24_1.png",
+  "images": [
+   "accounting/2001_p24_1.png"
+  ]
  },
  {
   "id": "accounting-2001-18",
@@ -329,7 +329,7 @@
    "A": "N4.00",
    "B": "N5.00",
    "C": "N5.50",
-   "D": "N6.00 Use the information below to answer questions 19 and 20 Purchases ledger opening balance 4,000 Sales ledger opening balance 6,000 Credit purchases during the year 25,000 Discounts allowed 1,000 Returns inwards 2,000 Credit sales during the year 10,000 Returns outwards 6,000"
+   "D": "N6.00"
   },
   "answer": null,
   "explanation": null,
@@ -352,10 +352,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/2001_p24_1.png",
+  "images": [
+   "accounting/2001_p24_1.png"
+  ]
  },
  {
   "id": "accounting-2001-20",
@@ -371,10 +373,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/2001_p24_1.png",
+  "images": [
+   "accounting/2001_p24_1.png"
+  ]
  },
  {
   "id": "accounting-2001-21",

@@ -290,16 +290,14 @@
    "A": "N22,400",
    "B": "N32,000",
    "C": "N51,200",
-   "D": "N76,800 Use the information below to answer questions 17 and 18 Wazobia Enterprises Balance Sheet as at 1/1/95 If at 31/1/95 the following information was ascertained (i) Rent shop N12,000 paid for the year (ii) Total purchases N15,000 (iii) Total sales N8,200 (iv) Stock of goods left N10,000 (v) Paid sales boy N500."
+   "D": "N76,800"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "accounting/1998_p14_1.png",
-  "images": [
-   "accounting/1998_p14_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "accounting-1998-17",
@@ -315,10 +313,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/1998_p14_1.png",
+  "images": [
+   "accounting/1998_p14_1.png"
+  ]
  },
  {
   "id": "accounting-1998-18",
@@ -334,10 +334,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "accounting/1998_p14_1.png",
+  "images": [
+   "accounting/1998_p14_1.png"
+  ]
  },
  {
   "id": "accounting-1998-19",

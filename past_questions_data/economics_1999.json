@@ -144,16 +144,14 @@
    "A": "what the consumer wants",
    "B": "government decisions",
    "C": "price mechanism",
-   "D": "the pattern of consumer spending. Use the diagram below to answer questions 9 and 10 Dₒ and SO are initial demand and supply curves with equilibrium at E₁. Other supply and demand curves with equilibrium points are indicated. D₂ S₁ Price (P) Quantity (Q)"
+   "D": "the pattern of consumer spending."
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/1999_p54_3.png",
-  "images": [
-   "economics/1999_p54_3.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-1999-9",
@@ -168,10 +166,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1999_p54_3.png",
+  "images": [
+   "economics/1999_p54_3.png"
+  ]
  },
  {
   "id": "economics-1999-10",
@@ -187,10 +187,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1999_p54_3.png",
+  "images": [
+   "economics/1999_p54_3.png"
+  ]
  },
  {
   "id": "economics-1999-11",

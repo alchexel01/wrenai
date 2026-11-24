@@ -26,16 +26,14 @@
    "A": "Income of the decision make",
    "B": "Scarcity of resources",
    "C": "Scale of preference of the decision maker",
-   "D": "Status of the decision maker Use the diagram below to answer question 3 and 4 A simple circular flow of income diagram"
+   "D": "Status of the decision maker"
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": true,
+  "has_diagram": false,
   "options_are_images": false,
-  "image": "economics/1990_p26_1.png",
-  "images": [
-   "economics/1990_p26_1.png"
-  ]
+  "image": null,
+  "images": []
  },
  {
   "id": "economics-1990-3",
@@ -51,10 +49,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1990_p26_1.png",
+  "images": [
+   "economics/1990_p26_1.png"
+  ]
  },
  {
   "id": "economics-1990-4",
@@ -70,10 +70,12 @@
   },
   "answer": null,
   "explanation": null,
-  "has_diagram": false,
+  "has_diagram": true,
   "options_are_images": false,
-  "image": null,
-  "images": []
+  "image": "economics/1990_p26_1.png",
+  "images": [
+   "economics/1990_p26_1.png"
+  ]
  },
  {
   "id": "economics-1990-5",
