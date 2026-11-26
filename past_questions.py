@@ -240,6 +240,10 @@ def image_path(subject: str, filename: str) -> pathlib.Path:
     return path
 
 
+# subjects shown first in the search screen, in this order. Edit freely.
+PRIORITY = ["mathematics", "english", "physics", "chemistry", "biology"]
+
+
 def list_papers() -> PapersResponse:
     papers: dict[str, list[int]] = {}
     if DATA_DIR.is_dir():
@@ -249,7 +253,10 @@ def list_papers() -> PapersResponse:
                 papers.setdefault(subject, []).append(int(year))
     for years in papers.values():
         years.sort(reverse=True)
-    return PapersResponse(papers=papers)
+    # core subjects first (in this order), then everything else A-Z
+    ordered = {k: papers[k] for k in sorted(
+        papers, key=lambda s: (PRIORITY.index(s) if s in PRIORITY else len(PRIORITY), s))}
+    return PapersResponse(papers=ordered)
 
 
 def get_questions(subject: str, year: int, limit: int, offset: int,
