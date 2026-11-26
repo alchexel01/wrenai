@@ -1,0 +1,921 @@
+[
+ {
+  "id": "principles-of-accounts-1995-1",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 1,
+  "question": "Which of the following factors’ has aided the develop- ment of Accounting?",
+  "options": {
+   "A": "The emergency of nation states",
+   "B": "The discovery of mineral resources in commercial quantity.",
+   "C": "The growth in size of businesses and the separation of ownership and management.",
+   "D": "The development and management of a sophisticated monetary system."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-2",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 2,
+  "question": "Which of the following concepts stipulates that account- ing profit is the difference between revenue and expenses?",
+  "options": {
+   "A": "Accrual concept",
+   "B": "Conservation Concept",
+   "C": "Prudence Concept",
+   "D": "Materiality concept."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-3",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 3,
+  "question": "An effective accounting system should provide infor- mation",
+  "options": {
+   "A": "on new products and methods",
+   "B": "for customer feedback and requirements",
+   "C": "on internal and external reporting for managers and third parties",
+   "D": "for promoters, directors, labour unions and"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-4",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 4,
+  "question": "distributors.",
+  "options": {
+   "A": "Journals and ledgers",
+   "B": "Sales invoice and cashbook",
+   "C": "Cash book and debit note",
+   "D": "Sales invoice and debit note."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-5",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 5,
+  "question": "Given: Motor van, N3,600, Premises, N5,000: Loan from R. Nwaeke, N1,000: Cash at bank, N1,650: Stock of goods, N4,800: Creditors, N2,560: Cash in hand, N250 and Debt- ors, N6,910. Calculate the capital figure.",
+  "options": {
+   "A": "N19,650",
+   "B": "N18,650",
+   "C": "N 17,850",
+   "D": "N 19,850."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-6",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 6,
+  "question": "Which of the following transactions is BEST recorded in the general journal?",
+  "options": {
+   "A": "Payment of rent with a cheque.",
+   "B": "Payment of stock with cash",
+   "C": "Purchase of an asset on credit terms",
+   "D": "Transfer of cash from head office to branch."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-7",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 7,
+  "question": "Diamon Ringo business was started when Mr. Diamon brought in a Cheque of N 500,000 which was paid into the bank account. Which of the following entries prop- erly records the transaction?",
+  "options": {
+   "A": "Cash account was credited with N 500,000 and the capital account was debited with N 500,000",
+   "C": "Bank account was credited with N 500,000 and capital account was debited with N 500,000.",
+   "D": "Mr. Diamon’s’account was debited with N500,000 and the cheque account was credited with N 500,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-8",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 8,
+  "question": "One major advantage of a ledger is that it",
+  "options": {
+   "A": "is a book of original entry",
+   "B": "is only accessible to shareholders during liquidation",
+   "C": "removes the need for preparing a balance sheet after each transaction",
+   "D": "can be used by any type of business."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-9",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 9,
+  "question": "A trial balance is usually prepared by an accounting from account balances in the ledger for the purpose of",
+  "options": {
+   "A": "classifying account in the ledger",
+   "B": "testing arithmetical accuracties of the ledger account balances",
+   "C": "identifying the balance sheet items",
+   "D": "providing a basis for establishing the accountant’s competence."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-10",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 10,
+  "question": "What are the advantages of an imprest petty cash book? (i.) Cheque can be drawn easily (ii.) A check on the use of cash (iii.) Liability of the petty cashier is limited to the value of petty cash. (iv.) Loses through the petty cashier can be minimized.",
+  "options": {
+   "A": "I, II, and III and III only",
+   "B": "I, II and IV only",
+   "C": "I, III and IV only",
+   "D": "II, III and IV only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-11",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 11,
+  "question": "Bola, UTC’s regular customer, owed N 1,000 on account of radio brought. If he sent in a cheque for N 1,500, UTC would send him a",
+  "options": {
+   "A": "credit note",
+   "B": "debit note",
+   "C": "journal voucher",
+   "D": "way bill."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-12",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 12,
+  "question": "A payment of cash of N20 to John was entered on the receipt side of the cashbook in error and credited to John’s account. Which of the following journal entries can be used to correct the error?",
+  "options": {
+   "A": "John: N 40 Dr,Cash N 40Cr",
+   "B": "Cash N 40 Dr, John: N 40 Cr.",
+   "C": "John: N 20 Dr, Cash N 20 Cr.",
+   "D": "Cash: N 20 Dr, John: N 20 Cr."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-13",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 13,
+  "question": "The following represents extracts from the trading ac- count of a retail outlet for a given month: Opening Stock 2,400 Closing Stock 6, 400 Other expenses 2,000 Sales 11,000 Profit 900 What is the purchase figure for the month?",
+  "options": {
+   "A": "N 13,000",
+   "B": "N 12,100",
+   "C": "N 12,000",
+   "D": "N 11,200."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-14",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 14,
+  "question": "Adama’ₛsₜ bank account showed on overdraft of N600 the balance in Adama’s cash accounts?",
+  "options": {
+   "A": "N 1.680 Dr.",
+   "B": "N 1,080 Cr.",
+   "C": "N 600 Dr.",
+   "D": "N 480 Cr."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-15",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 15,
+  "question": "Why are adjustments in the profit and loss account nec- essary?",
+  "options": {
+   "A": "to cover some expenses of the following year. B to ascertain the actual expenses incurred and income earned during the year.",
+   "C": "To show the provisions made during the year",
+   "D": "To show the total expenses paid and income received during the year."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-17",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 17,
+  "question": "MACHINERY 16. Accumulated depreciation on the asset as at 31/12/81 was",
+  "options": {
+   "A": "N 2,487,500.00",
+   "B": "N2,736,250.00",
+   "C": "N 4,511,192.00",
+   "D": "N 4,975,000.00."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": true,
+  "options_are_images": false,
+  "image": "principles_of_accounts/1995_p6_1.png",
+  "images": [
+   "principles_of_accounts/1995_p6_1.png"
+  ]
+ },
+ {
+  "id": "principles-of-accounts-1995-18",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 18,
+  "question": "What was the balance in the trade creditors account as at 31/12/92?",
+  "options": {
+   "A": "N 29,800",
+   "B": "N 29,500",
+   "C": "N 29,400",
+   "D": "N 29,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-19",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 19,
+  "question": "What was the balance in the capital account as at 31/12/ 92?",
+  "options": {},
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-20",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 20,
+  "question": "The trial balance showed wages N 2,500 and a note stated that N500 wages were due but unpaid. When preparing final accounts and balance sheet, it is required to debit profit and loss account with",
+  "options": {
+   "A": "N3,000 and show wages accrued N500 in the balance sheet",
+   "B": "N2,000 and show wages accrued N 500 in the balance sheet",
+   "C": "N3,000 and show wages prepaid N500 in the balance sheet.",
+   "D": "N2,000 and show wages paid in advance N500 in the balance sheet."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-21",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 21,
+  "question": "Sales ledger control account contains the total amount in respect of",
+  "options": {
+   "A": "creditors",
+   "B": "debtors",
+   "C": "investors",
+   "D": "shareholders."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-22",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 22,
+  "question": "The purchases ledger account control of a company had an opening balance of N45,600 credit and closing bal- ance of N72,600 credit. The made company payments of N437,000 to credit suppliers during the period; and had discount received of N18,600 on this account. What were the credit purchases for the period?",
+  "options": {
+   "A": "N509, 600",
+   "B": "N482,600",
+   "C": "N428, 600",
+   "D": "N18, 400."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-23",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 23,
+  "question": "The starting point for the production of accounts from incomplete records is to",
+  "options": {
+   "A": "ascertain the total sales",
+   "B": "compute the opening stock of goods sold",
+   "C": "verify the total purchases",
+   "D": "prepare an opening statement of affairs."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-24",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 24,
+  "question": "Use the information below to answer questions 24 and 25. I. A retailer when fixing his selling price adds one-quar- ter: to the cost of the article. II. The expense of the re- tailer is 10% of his sales. III. The total sales is N23,000 IV. He turned over his stock five times in the year Compute the average amount of stock in hand at cost price.",
+  "options": {
+   "A": "N3,860",
+   "B": "N3,806",
+   "C": "N3,680",
+   "D": "N3,086."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-25",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 25,
+  "question": "Use the information below to answer questions 24 and 25. I. A retailer when fixing his selling price adds one-quar- ter: to the cost of the article. II. The expense of the re- tailer is 10% of his sales. III. The total sales is N23,000 IV. He turned over his stock five times in the year The net profit for the year is",
+  "options": {
+   "A": "N5,750",
+   "B": "N5,650",
+   "C": "N3,200 D.N2, 300."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-26",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 26,
+  "question": "Given: N Prime cost 320,000 Factory cost 32,000 Working in progress at beginning 25,000 Working in progress at close 19,000 Administrative expenses 21,000 Determine the production cost.",
+  "options": {
+   "A": "N296,000",
+   "B": "N277,000",
+   "C": "N258,000",
+   "D": "N246,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-27",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 27,
+  "question": "",
+  "options": {
+   "A": "prime Cost and factory overhead",
+   "B": "prime cost and office overhead",
+   "C": "raw materials consumed and fixed cost",
+   "D": "Raw materials and Administrative overhead."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-28",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 28,
+  "question": "The below information is provided for Amusa Com- pany Ltd. a manufacturer. Prime cost 999,000 Manufacturing Overhead 132,000 Closing work in progress transferred to the trading Account 1,116,000 If included in the manufacturing overhead were rents of N 5,000 paid in advance, what is the opening work in progress for the period? A N85,000 B. N80,000",
+  "options": {
+   "C": "N70,000 D.N65,000."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-29",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 29,
+  "question": "Subscription in arrears are A. credited to the income and expenditure account and shown as",
+  "options": {
+   "A": "liability in the balance sheet",
+   "B": "debited to the income and expenditure account and shown as an asset in the balance sheet",
+   "C": "credited to the income and expenditure account and shown as a asset in the balance sheet",
+   "D": "debited to the income and expenditure account and shown as a liability in the balance sheet."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-30",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 30,
+  "question": "Where a non-profit making organization prepares the account using accruals basis of reporting the statement showing how well the organization is doing is the",
+  "options": {
+   "A": "appropriation account",
+   "B": "balance sheet",
+   "C": "income and expenditure account",
+   "D": "receipts and payment account."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-31",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 31,
+  "question": "A charitable club has the following Figures:- Subscriptions received in 1991 2,800 Subscriptions unpaid in 1990 300 Subscriptions paid for 1992 150 Subscriptions due 1991 180 How much should be charged to the income and expendi- ture of this club as subcribution for 1991?",
+  "options": {
+   "A": "N2,530",
+   "B": "N2,680",
+   "C": "N2,830",
+   "D": "N2,980"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-32",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 32,
+  "question": "A member of a club paid N1,000 as his subscription for 1993 and N1,200 as subscription for 1994. If the financial year of the society ended on 31st December 1993 the N1,200 subscription will be treated in the balance sheet as",
+  "options": {
+   "A": "current asset",
+   "B": "current liability",
+   "C": "capital",
+   "D": "profit."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-33",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 33,
+  "question": "Which of the following is a strong feature of",
+  "options": {
+   "B": "The owners are liable personally for all debts of the business.",
+   "C": "The transfer of ownership is frequent an easy to accomplish",
+   "D": "The partnership is complex to form because of many legal and reporting requirements."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-34",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 34,
+  "question": "Interest on a partner’s drawing is debited to the",
+  "options": {
+   "A": "partner’s current account and credited to the profit and loss appropriation account",
+   "B": "profit and loss appropriation account",
+   "C": "profit and loss account and credited to the partner’s current account.",
+   "D": "partner’s current account and credited to the profit and loss account."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-35",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 35,
+  "question": "A partnership on admitting a new member, revalued the business’ land and building from N30,000 to N70,000. The difference of N40,000 should be",
+  "options": {
+   "A": "credited to land and building account",
+   "B": "debited to asset revaluation account",
+   "C": "credited to asset revaluation account",
+   "D": "credited to profit and loss appropriation account"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-36",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 36,
+  "question": "Use the information below to answer questions 36 and 37. Halidu and Hamed are business partners with N30,000 and N20,000 capital respectively. At the end of the finan- cial year, a profit of N12,000 which included Halidu’s sal- ary of N3,000 was made Halidu’s share of the profit is",
+  "options": {
+   "A": "N7,500",
+   "B": "N6,000",
+   "C": "N5,400",
+   "D": "N4,500."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-37",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 37,
+  "question": "Use the information below to answer questions 36 and 37. Halidu and Hamed are business partners with N30,000 and N20,000 capital respectively. At the end of the finan- cial year, a profit of N12,000 which included Halidu’s sal- ary of N3,000 was made Hamed’s share of the profit should be",
+  "options": {
+   "A": "credited to partners’ capital account",
+   "B": "credited to partners’ current account",
+   "C": "credited to appropriation account",
+   "D": "debited to partners’ drawings account."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-38",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 38,
+  "question": "The conversion of a partnership business into a limited liability company affords the",
+  "options": {
+   "A": "general partners the chance of enjoying the limited liability protection",
+   "B": "limited liability partners the chance of en joying the limited liability protection",
+   "C": "creditors the chance of enjoying the limited liability protection",
+   "D": "debtors the chance of enjoying the limited iability protection."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-39",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 39,
+  "question": "Use the information below to answer questions 39 and 40 Yakubu (Nigeria) Limited (Extract) Balance Sheet as at 31st December 1993. Authorized Issued N N N Ordinary shares 100,000 80,000 10% preference shares 30,000 20,000 Profit and loss A/C 13,000 Trade creditors 30,000 Accruals 5,000 Stock 10,000 Debtors 40,000 Bank 25,000 Equity shareholder fund is",
+  "options": {
+   "A": "N130,000",
+   "B": "N120,000",
+   "C": "N113,000",
+   "D": "N100,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-40",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 40,
+  "question": "Use the information below to answer questions 39 and 40 Yakubu (Nigeria) Limited (Extract) Balance Sheet as at 31st December 1993. Authorized Issued N N N Ordinary shares 100,000 80,000 10% preference shares 30,000 20,000 Profit and loss A/C 13,000 Trade creditors 30,000 Accruals 5,000 Stock 10,000 Debtors 40,000 Bank 25,000 If a 10% dividend is approved, what is the dividend payable to ordinary shareholders?",
+  "options": {
+   "A": "N13,000",
+   "B": "N 11,300",
+   "C": "N10,000",
+   "D": "N8,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-41",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 41,
+  "question": "Which of the following ratios gives an idea of the liquidity of a firm?",
+  "options": {
+   "A": "Turnover ratio",
+   "B": "Quick ratio",
+   "C": "Debt ratio",
+   "D": "Divided yield."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-42",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 42,
+  "question": "A total of N400,000 shares of N1 each are to be issued by Sariki Company Ltd. at a price of N1.20 per share. Applications were received for 600,000 shares out of which 100,000 were dishonored. If the available shares are distributed pro rata, what refund will be due a subscriber who applied for 5,000 shares?",
+  "options": {
+   "A": "N1,000",
+   "B": "N1,200",
+   "C": "N4,800",
+   "D": "N6,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-43",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 43,
+  "question": "The measure of a company’s ability to pay its debts. quickly is called",
+  "options": {
+   "A": "current ratio",
+   "B": "turnover ratio",
+   "C": "acid test ratio",
+   "D": "return on investment."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-44",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 44,
+  "question": "Department accounts are maintained to ascertain the",
+  "options": {
+   "A": "profits of the entire organization",
+   "B": "contribution of each department",
+   "C": "expenses of each department",
+   "D": "sales of each department."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-45",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 45,
+  "question": "The Asa branch of Emene Company Ltd. Made a sale of N 549,000 from the goods sent from the head office during the period ended 31/12/94. These sales were based on a 22% mark up. If branch expenses were N34,400 and there were no discrepancies, what should be the net profit of the branch for the period? A. N6,500 B. N64,600",
+  "options": {
+   "C": "N85,380",
+   "D": "N514,600"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-46",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 46,
+  "question": "Which of the following statement is current about the head office current account and the branch current account?",
+  "options": {
+   "A": "Both always have debit balances",
+   "B": "Both always have credit balances",
+   "C": "The head office current account has a credit balance while the branch current account has a debit balance.",
+   "D": "The head office current account has a debit balance while the branch current account has a credit balance."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-47",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 47,
+  "question": "Which of the following are sources of revenue to share governments in Nigeria? I Statutory allocation, II Fines from customary courts, III Petroleum tax IV Income tax.",
+  "options": {
+   "A": "I and II only",
+   "B": "II and III only",
+   "C": "I and IV only",
+   "D": "III and IV only."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-48",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 48,
+  "question": "Use the information to answer questions 48 and 49 Eko Local Government Expenditure Hospital building 200,000 Drugs 180,000 Hospital beds and Mattresses 40,000 Doctors’ and nurses’ Salaries 120,000 Administrative expenses 50,000 Capital expenditure is",
+  "options": {
+   "A": "N420,000",
+   "B": "N380,000",
+   "C": "N240,000",
+   "D": "N200,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-49",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 49,
+  "question": "Use the information to answer questions 48 and 49 Eko Local Government Expenditure Hospital building 200,000 Drugs 180,000 Hospital beds and Mattresses 40,000 Doctors’ and nurses’ Salaries 120,000 Administrative expenses 50,000 Recurrent expenditure is",
+  "options": {
+   "A": "N390,000",
+   "B": "N360,000",
+   "C": "N 350,000",
+   "D": "N 170,000"
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ },
+ {
+  "id": "principles-of-accounts-1995-50",
+  "subject": "principles_of_accounts",
+  "year": 1995,
+  "number": 50,
+  "question": "A governmental accounting system must make sure that",
+  "options": {
+   "A": "revenue exceeds expenditure",
+   "B": "all applicable legal provisions are complied with",
+   "C": "capital expenditure is equal to revenue",
+   "D": "capital project fund is tied to recurrent expenditure."
+  },
+  "answer": null,
+  "explanation": null,
+  "has_diagram": false,
+  "options_are_images": false,
+  "image": null,
+  "images": []
+ }
+]
