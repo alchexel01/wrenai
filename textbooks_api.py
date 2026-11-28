@@ -29,8 +29,8 @@ SPEED FEATURES (all kept from the previous version)
    in the background, so page turns are usually cache hits.
 6. As soon as a book is opened, EVERY page of it is rendered in the
    background, nearest pages first, re-targeting whenever the student jumps.
-7. The first pages of every book are pre-rendered a few seconds after the
-   server starts, whenever nobody is reading.
+7. (Removed) Books are no longer pre-rendered at start-up. Only the book a
+   student has actually opened is ever rendered.
 
 WHY THE OLD VERSION CRASHED ON FAST SCROLLING, AND WHAT CHANGED
 ----------------------------------------------------------------
@@ -127,10 +127,9 @@ MUPDF_STORE_MB = int(os.environ.get("TEXTBOOKS_MUPDF_STORE_MB", "48"))
 
 # Pre-render the first pages of every book shortly after start-up, but only
 # while nobody has requested a page for WARMUP_IDLE seconds.
-AUTO_WARMUP = os.environ.get("TEXTBOOKS_AUTO_WARMUP", "1") == "1"
-AUTO_WARMUP_PAGES = int(os.environ.get("TEXTBOOKS_AUTO_WARMUP_PAGES", "1"))
-AUTO_WARMUP_DELAY = float(os.environ.get("TEXTBOOKS_AUTO_WARMUP_DELAY", "5"))
-WARMUP_IDLE = 20.0
+# DISABLED: rendering every book at start-up wasted memory/CPU. Only the book
+# that is currently open gets rendered now.
+AUTO_WARMUP = False
 
 # Timing lines go to stdout so they show up in Render's log viewer.
 # Set TEXTBOOKS_DEBUG=0 to silence them.
@@ -519,28 +518,15 @@ def _outward(center: int, total: int):
             behind -= 1
 
 
-_warm = {"todo": deque(), "built": False}
-
-
 def warm_up(first_pages: int = 2):
-    """Queues the first pages of every book for pre-rendering. The render
-    worker does them while nobody is reading. Runs automatically a few
-    seconds after start-up (see AUTO_WARMUP), so you normally never call
-    this."""
-    todo = deque()
-    for bid, meta in list(_scan_books().items()):
-        for p in range(1, first_pages + 1):
-            todo.append((bid, p, meta))
-    with _cv:
-        _warm["todo"] = todo
-        _warm["built"] = True
-        _cv.notify()
-    _ensure_worker()
+    """No-op. Start-up pre-rendering of every book was removed; only the book
+    a student has opened is rendered. Kept so main.py can still call it."""
+    return
 
 
 def _pick_background(focus: dict, now: float):
     """Next background page to render, or None.
-    Order: pages around the student, then the rest of the book, then warm-up.
+    Order: pages around the student, then the rest of that same book.
     Returns (source, book_id, page, meta)."""
     book_id = focus["book"]
     if book_id:
@@ -566,14 +552,6 @@ def _pick_background(focus: dict, now: float):
                         if p not in have:
                             return ("book", book_id, p, meta)
 
-    if now - focus["t"] > WARMUP_IDLE:
-        if AUTO_WARMUP and not _warm["built"] and now - _START >= AUTO_WARMUP_DELAY:
-            warm_up(AUTO_WARMUP_PAGES)
-        todo = _warm["todo"]
-        while todo:
-            bid, p, meta = todo.popleft()
-            if p not in _have_pages(bid):
-                return ("warmup", bid, p, meta)
     return None
 
 
